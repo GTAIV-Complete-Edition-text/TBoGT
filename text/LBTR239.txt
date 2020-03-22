@@ -1,0 +1,46 @@
+﻿[LBTR239]
+;0x08BB62C0=While early reports suggested that this might have been a sting gone wrong, NOOSE spokespeople are sticking to their guns, claiming that they were filming a public relations video. Mr. Saaed's death is being investigated.
+0x08BB62C0=While early reports suggested that this might have been a sting gone wrong, NOOSE spokespeople are sticking to their guns, claiming that they were filming a public relations video. Mr. Saaed's death is being investigated.
+
+;0x27BB9B08=Flowerman tops the charts
+0x27BB9B08=Flowerman tops the charts
+
+;0x2BB0CC64=Debate Rages - Has Vinewood Lost its Balls?
+0x2BB0CC64=Debate Rages - Has Vinewood Lost its Balls?
+
+;0x451370DD=Romantic comedies are all the rage at the box office these days as Vinewood changes course from the macho to the metrosexual. It's been a long time coming. Elisabeth Lanclett, a spokesperson for Liberty City Cinemas said business is booming. "We love the trend of romantic comedies. Men won't bring women to a war or robot movie, but women will drag their men to a romantic comedy. And the men will shove his face full of expensive food from the snack stand just to make it through the film." Experts say it's a phenomenon they don't yet have a theory but isn't it worthy of a major government study as it seems really important?
+0x451370DD=Romantic comedies are all the rage at the box office these days as Vinewood changes course from the macho to the metrosexual. It's been a long time coming. Elisabeth Lanclett, a spokesperson for Liberty City Cinemas said business is booming. "We love the trend of romantic comedies. Men won't bring women to a war or robot movie, but women will drag their men to a romantic comedy. And the men will shove his face full of expensive food from the snack stand just to make it through the film." Experts say it's a phenomenon they don't yet have a theory but isn't it worthy of a major government study as it seems really important?
+
+;0x5BDAF63A=Mysterious Explosions on the Standing Erection
+0x5BDAF63A=Mysterious Explosions on the Standing Erection
+
+;0x70BB3794=Mary Williamson
+0x70BB3794=Mary Williamson
+
+;0x92572B3F=Class Tensions Rise as Wrong Area Invaded
+0x92572B3F=Class Tensions Rise as Wrong Area Invaded
+
+;0xAC32FC4B=What happened at the top of Rotterdam?
+0xAC32FC4B=What happened at the top of Rotterdam?
+
+;0xC911E4F5=A fight outside a bar in Broker's East Hook neighborhood ended in death and carnage last night. The One-Eyed Sailor, a neighborhood dive bar for over 50 years, has been overrun with hipsters in recent months following a blog post that described it as, "undiscovered, counter-cultural and uber-raw." Jude Corbin, age 32, had been running up a tab on his parents' credit card with six or seven other identically-dressed, bearded 20-somethings since the early afternoon. The group spent a few hours loudly debating the type of bagel that best defines their identity, while slouching outside every five minutes to nonchalantly smoke clove cigarettes. As they became increasingly drunk, however, tensions with the regular customers began to build. When they started playing 80s music on the juke box and ironically body-popping, their patronizing fauxhemian antics proved too much for one local man, who dragged Corbin outside by his asymmetrical bangs and proceeded to beat him on the sidewalk, shouting, "Go back home you ridiculous hipster scum,". Corbin's friends ran off immediately, leaving the 90-pound, wannabe Beat Poet at the mercy of his 250-pound assailant. Witnesses say that he curled up into a ball, crying like a baby, and died a few seconds later when his skintight corduroys cut off the blood flow to the brain.
+0xC911E4F5=A fight outside a bar in Broker's East Hook neighborhood ended in death and carnage last night. The One-Eyed Sailor, a neighborhood dive bar for over 50 years, has been overrun with hipsters in recent months following a blog post that described it as, "undiscovered, counter-cultural and uber-raw." Jude Corbin, age 32, had been running up a tab on his parents' credit card with six or seven other identically-dressed, bearded 20-somethings since the early afternoon. The group spent a few hours loudly debating the type of bagel that best defines their identity, while slouching outside every five minutes to nonchalantly smoke clove cigarettes. As they became increasingly drunk, however, tensions with the regular customers began to build. When they started playing 80s music on the juke box and ironically body-popping, their patronizing fauxhemian antics proved too much for one local man, who dragged Corbin outside by his asymmetrical bangs and proceeded to beat him on the sidewalk, shouting, "Go back home you ridiculous hipster scum,". Corbin's friends ran off immediately, leaving the 90-pound, wannabe Beat Poet at the mercy of his 250-pound assailant. Witnesses say that he curled up into a ball, crying like a baby, and died a few seconds later when his skintight corduroys cut off the blood flow to the brain.
+
+;0xCC983F8E=Unwashed Hipster Bathed in Blood
+0xCC983F8E=Unwashed Hipster Bathed in Blood
+
+;0xE4861BDD=Another murder. Another reason to buy a gun. It only takes one middle-class white boy to be killed by a working-class immigrant to know that it is time to panic, stay inside and trust nobody.
+0xE4861BDD=Another murder. Another reason to buy a gun. It only takes one middle-class white boy to be killed by a working-class immigrant to know that it is time to panic, stay inside and trust nobody.
+
+;0xE4FABA76=NOOSE Shady on Incident Details
+0xE4FABA76=NOOSE Shady on Incident Details
+
+;0xE5A51C94=Mysterious explosions at the top of Rotterdam Tower earlier have been explained as a public relations exercise by the National Office of Security Enforcement. Witnesses report that the observation desk was cleared of tourists by NOOSE agents claiming that it was needed for "official businesses." Several hours later Tahir Saaed, a Dubai resident working for a property developer in Liberty City, fell to his death from the top of the tower. Moments later the explosions started.
+0xE5A51C94=Mysterious explosions at the top of Rotterdam Tower earlier have been explained as a public relations exercise by the National Office of Security Enforcement. Witnesses report that the observation desk was cleared of tourists by NOOSE agents claiming that it was needed for "official businesses." Several hours later Tahir Saaed, a Dubai resident working for a property developer in Liberty City, fell to his death from the top of the tower. Moments later the explosions started.
+
+;0xF1D81FF0=T.J. Barry
+0xF1D81FF0=T.J. Barry
+
+;0xFB408380=Tony J Smith
+0xFB408380=Tony J Smith
+

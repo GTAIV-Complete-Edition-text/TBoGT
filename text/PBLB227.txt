@@ -1,0 +1,16 @@
+﻿[PBLB227]
+;0x31972AA4=Joshua Crane
+0x31972AA4=Joshua Crane
+
+;0x808B1E5C=Monsters Under MyBed?
+0x808B1E5C=Monsters Under MyBed?
+
+;0xB736AB0B=The site, at <a href="www.myroomonline.net">www.myRoomOnline.net</a>, is a favorite teen hangout. These predators have been highlighted on TV shows that entrap men who want to have sex with hot teen girls, which is essentially every man in America.
+0xB736AB0B=The site, at <a href="www.myroomonline.net">www.myRoomOnline.net</a>, is a favorite teen hangout. These predators have been highlighted on TV shows that entrap men who want to have sex with hot teen girls, which is essentially every man in America.
+
+;0xCCD250FD=You drive your child to school and teach them that minorities are all ok (but just can't afford your neighborhood because of conservative racism) and that they should treat everyone with kindness. But what about adults who prey on our children? In a recent report, there are over 8 million registered sex offenders with MyRoom accounts.
+0xCCD250FD=You drive your child to school and teach them that minorities are all ok (but just can't afford your neighborhood because of conservative racism) and that they should treat everyone with kindness. But what about adults who prey on our children? In a recent report, there are over 8 million registered sex offenders with MyRoom accounts.
+
+;0xE98EDC41=MyRoom is full of predators
+0xE98EDC41=MyRoom is full of predators
+

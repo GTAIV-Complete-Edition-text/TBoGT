@@ -1,0 +1,58 @@
+﻿[EML13]
+;0x0C33D9F7=Toodles,
+0x0C33D9F7=Toodles,
+
+;0x391D3CC6=Hey Sweetie,
+0x391D3CC6=Hey Sweetie,
+
+;0x4CAD27EF=I need you to sign me a copy of that dvd. Good luck with the marriage. L
+0x4CAD27EF=I need you to sign me a copy of that dvd. Good luck with the marriage. L
+
+;0x629A0FBF=Hey Sweetie,
+0x629A0FBF=Hey Sweetie,
+
+;0x714EAD28=Hey Sweetie,
+0x714EAD28=Hey Sweetie,
+
+;0x86EC5863=Hey Sweetie,
+0x86EC5863=Hey Sweetie,
+
+;0x9828BEE5=Thanks Daisy, I didn't really understand too much of that but good luck. Your husband is one lucky guy.
+0x9828BEE5=Thanks Daisy, I didn't really understand too much of that but good luck. Your husband is one lucky guy.
+
+;0x9DCC862F=Hey Sweetie,
+0x9DCC862F=Hey Sweetie,
+
+;0xA5B195F1=Hey Sweetie,
+0xA5B195F1=Hey Sweetie,
+
+;0xB318A7DE=Toodles,
+0xB318A7DE=Toodles,
+
+;0xB36F316C=Hey Sweetie,
+0xB36F316C=Hey Sweetie,
+
+;0xBFD7CA3D=Hey Sweetie,
+0xBFD7CA3D=Hey Sweetie,
+
+;0xC5EB6702=So, like, wow! You are a legend, mate. A legend. Seriously. Fucking fab! And I mean that. The wedding is back on! I'm so excited. I will look so good in white. Maybe I'll send you a pic! If you're in London or Shropshire or St. Trop, give me a bell. Especially if you got any sparkle!
+0xC5EB6702=So, like, wow! You are a legend, mate. A legend. Seriously. Fucking fab! And I mean that. The wedding is back on! I'm so excited. I will look so good in white. Maybe I'll send you a pic! If you're in London or Shropshire or St. Trop, give me a bell. Especially if you got any sparkle!
+
+;0xC72BCFD8=Toodles,
+0xC72BCFD8=Toodles,
+
+;0xD058E232=Toodles,
+0xD058E232=Toodles,
+
+;0xDD22FBF2=Toodles,
+0xDD22FBF2=Toodles,
+
+;0xE2638657=Toodles,
+0xE2638657=Toodles,
+
+;0xEE579E5B=Toodles,
+0xEE579E5B=Toodles,
+
+;0xF8C4B335=Toodles,
+0xF8C4B335=Toodles,
+

@@ -1,0 +1,46 @@
+﻿[TONY7]
+;0x0E6EA76D=A sticky bomb will attach itself to any moving vehicle.
+0x0E6EA76D=A sticky bomb will attach itself to any moving vehicle.
+
+;0x11B86254=Go to the ~y~docks.~s~
+0x11B86254=Go to the ~y~docks.~s~
+
+;0x268DBA40=~r~The car was wrecked.
+0x268DBA40=~r~The car was wrecked.
+
+;0x35A02A23=Drive Tony back to the ~y~club.
+0x35A02A23=Drive Tony back to the ~y~club.
+
+;0x432B737B=~r~You abandoned Tony.
+0x432B737B=~r~You abandoned Tony.
+
+;0x4852CF88=Use sticky bombs to take out the ~r~bikers.~s~
+0x4852CF88=Use sticky bombs to take out the ~r~bikers.~s~
+
+;0x5DD8A8D9=~r~Tony is dead.
+0x5DD8A8D9=~r~Tony is dead.
+
+;0x6A858B3D=Lose the cops.
+0x6A858B3D=Lose the cops.
+
+;0x74AECFEC=Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~PAD_DPAD_DOWN~ to detonate.
+0x74AECFEC=Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~PAD_DPAD_DOWN~ to detonate.
+
+;0x8A4A25F4=Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~INPUT_DETONATE~ to detonate.
+0x8A4A25F4=Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~INPUT_DETONATE~ to detonate.
+
+;0xA65FB593=You pick Gay Tony up and you have to drive him to the docks to go buy some diamonds
+0xA65FB593=You pick Gay Tony up and you have to drive him to the docks to go buy some diamonds
+
+;0xCCBE06A2=~r~The driver is dead.
+0xCCBE06A2=~r~The driver is dead.
+
+;0xCD60431D=Get back in the ~b~car.~s~
+0xCD60431D=Get back in the ~b~car.~s~
+
+;0xDE842A2E=~r~Evan is dead.
+0xDE842A2E=~r~Evan is dead.
+
+;0xF7AADC7B=~r~You abandoned Evan.
+0xF7AADC7B=~r~You abandoned Evan.
+

@@ -1,0 +1,109 @@
+﻿[EML111]
+;0x019DB7CB=Life here is the same as it always was. People argue, the farms suffer, we pay taxes for new parliament buildings and government reports, and live in poverty. For country people, life is the same the world. Please write me.
+0x019DB7CB=Life here is the same as it always was. People argue, the farms suffer, we pay taxes for new parliament buildings and government reports, and live in poverty. For country people, life is the same the world. Please write me.
+
+;0x08795395=Moj dragi sine,
+0x08795395=Moj dragi sine,
+
+;0x0C1F0DF7=Your loving mother.
+0x0C1F0DF7=Your loving mother.
+
+;0x15602079=Tvoja voljena majka.
+0x15602079=Tvoja voljena majka.
+
+;0x1DE67E6F=My dearest son,
+0x1DE67E6F=My dearest son,
+
+;0x2152772C=thank you for your mail. I am glad you well. Look after Roman. I am excite to hear maybe wedding bells are in air soon? What about you, my son? I will write again, soon.
+0x2152772C=thank you for your mail. I am glad you well. Look after Roman. I am excite to hear maybe wedding bells are in air soon? What about you, my son? I will write again, soon.
+
+;0x225D3A6F=Your loving mother.
+0x225D3A6F=Your loving mother.
+
+;0x299299E2=Dear mother, thanks for your mail. Life in America is okay, thank you for your concern. I wish Roman would join me from his time spent living in clouds. He makes things up, I don't know why. He has a nice woman in his life, that is true, the rest is lies. Apart from Florian Cravic. We have seen him. He is very different.
+0x299299E2=Dear mother, thanks for your mail. Life in America is okay, thank you for your concern. I wish Roman would join me from his time spent living in clouds. He makes things up, I don't know why. He has a nice woman in his life, that is true, the rest is lies. Apart from Florian Cravic. We have seen him. He is very different.
+
+;0x2A2F88EE=I was thinking about you, and I thought I write. I receive nice e mail from your cousin. He say you had seen Florian Cravic again. Did he become a professional wrestler, as he say? He was always strange boy. Roman also tells me he has woman nice in his life and that maybe there was someone special for you too. Life here is much same - crops grow,
+0x2A2F88EE=I was thinking about you, and I thought I write. I receive nice e mail from your cousin. He say you had seen Florian Cravic again. Did he become a professional wrestler, as he say? He was always strange boy. Roman also tells me he has woman nice in his life and that maybe there was someone special for you too. Life here is much same - crops grow,
+
+;0x2F8AD4CE=Your loving mother.
+0x2F8AD4CE=Your loving mother.
+
+;0x3A3F3720=My son,
+0x3A3F3720=My son,
+
+;0x3B12EBDE=Tvoja voljena majka.
+0x3B12EBDE=Tvoja voljena majka.
+
+;0x3ECD403C=My dearest son,
+0x3ECD403C=My dearest son,
+
+;0x49FF4885=Word in the village is that Roman was killed on wedding day. I know it is true, as I checked on internet. My son, my heart is broken. Please leave evil place. Please go somewhere safe. Please do not caught up in madness. Please do not become statistic.
+0x49FF4885=Word in the village is that Roman was killed on wedding day. I know it is true, as I checked on internet. My son, my heart is broken. Please leave evil place. Please go somewhere safe. Please do not caught up in madness. Please do not become statistic.
+
+;0x4E551A97=He is not a professional wrestler, but I get the sense he still likes to wrestle with men as keen amateur. We have met many people, but most of them have little power and are controlled only by money. Life is strange here. One friend of Roman's likes to inject himself with shark testosterone. These are the kind of people we know here.
+0x4E551A97=He is not a professional wrestler, but I get the sense he still likes to wrestle with men as keen amateur. We have met many people, but most of them have little power and are controlled only by money. Life is strange here. One friend of Roman's likes to inject himself with shark testosterone. These are the kind of people we know here.
+
+;0x508D96D3=Tvoja voljena majka.
+0x508D96D3=Tvoja voljena majka.
+
+;0x508DD5AA=the country flounders, British people come to buy holiday homes they never visit, the politicians argue and we all want things will change. I have long memory. Life always confusing uncertain. Only problems change. We have never known freedom, and nor democracy. Sometimes, I think this makes realist life easier for us.
+0x508DD5AA=the country flounders, British people come to buy holiday homes they never visit, the politicians argue and we all want things will change. I have long memory. Life always confusing uncertain. Only problems change. We have never known freedom, and nor democracy. Sometimes, I think this makes realist life easier for us.
+
+;0x55076CB0=Moj dragi sine,
+0x55076CB0=Moj dragi sine,
+
+;0x57A063C7=I hear Roman is getting married! I am so excited. I also heard you had a nice girl, and you could not seem to commit to her? I wish I could make it to the wedding. Have a good time, my son. I am so proud of you both. s ljubavlju,
+0x57A063C7=I hear Roman is getting married! I am so excited. I also heard you had a nice girl, and you could not seem to commit to her? I wish I could make it to the wedding. Have a good time, my son. I am so proud of you both. s ljubavlju,
+
+;0x5AA80242=He is still the same - a little fat boy who makes things up and whom everybody loves. it has been interesting in this country. Like home, only with food and more anxiety. Your loving son.
+0x5AA80242=He is still the same - a little fat boy who makes things up and whom everybody loves. it has been interesting in this country. Like home, only with food and more anxiety. Your loving son.
+
+;0x5B8292CB=The only award Roman will win is fantasist of the year. I hope you are well. Look after yourself. Love, Niko.
+0x5B8292CB=The only award Roman will win is fantasist of the year. I hope you are well. Look after yourself. Love, Niko.
+
+;0x5B8F350B=He is not a professional wrestler, but I get the sense he still likes to wrestle with men as keen amateur. We have met many people, but most of them have little power and are controlled only by money. Life is strange here. One friend of Roman's likes to inject himself with shark testosterone. These are the kind of people we know here.
+0x5B8F350B=He is not a professional wrestler, but I get the sense he still likes to wrestle with men as keen amateur. We have met many people, but most of them have little power and are controlled only by money. Life is strange here. One friend of Roman's likes to inject himself with shark testosterone. These are the kind of people we know here.
+
+;0x623D2253=Dear mother, thank you for your e mail. I am always happy to hear from you. I am sorry I have not been much of a son to you, and that I am not there to take care of you, but you know I cannot come back home. It would bring trouble, and unhappy memories for both of us. Roman is well. He is living the American dream, mostly in his head, like all dreams.
+0x623D2253=Dear mother, thank you for your e mail. I am always happy to hear from you. I am sorry I have not been much of a son to you, and that I am not there to take care of you, but you know I cannot come back home. It would bring trouble, and unhappy memories for both of us. Roman is well. He is living the American dream, mostly in his head, like all dreams.
+
+;0x681B04B8=Nadam se da si dobro i da si srecan u Americi. I hope this reaches you and you respond. I miss you. I write in English because now you are like Roman. He tells me he only speaks English now. I know things better for you to be out in world, and away from here, but I miss you. It is mother's duty to miss son. Are you no longer in sea? Have you stopped that world for good, or will you go back? Will you ever come back to me? It gladdens heart of mine to think of you and your cousin together, living a good life in America, and at the same time,
+0x681B04B8=Nadam se da si dobro i da si srecan u Americi. I hope this reaches you and you respond. I miss you. I write in English because now you are like Roman. He tells me he only speaks English now. I know things better for you to be out in world, and away from here, but I miss you. It is mother's duty to miss son. Are you no longer in sea? Have you stopped that world for good, or will you go back? Will you ever come back to me? It gladdens heart of mine to think of you and your cousin together, living a good life in America, and at the same time,
+
+;0x78753DDC=. He is still the same - a little fat boy who makes things up and whom everybody loves. it has been interesting in this country. Like home, only with food and more anxiety. s ljubavlju, Your loving son.
+0x78753DDC=. He is still the same - a little fat boy who makes things up and whom everybody loves. it has been interesting in this country. Like home, only with food and more anxiety. s ljubavlju, Your loving son.
+
+;0x7924D022=Dear mother, thank you for your e mail. I am always happy to hear from you. Your English is good. Better than mine. I am sorry I have not been much of a good son to you, and that I am not there to take care of you, but you know I cannot come back home. It would bring trouble, and unhappy memories for us both. Roman is well. He is living the American dream, mostly in his head, like all dream.
+0x7924D022=Dear mother, thank you for your e mail. I am always happy to hear from you. Your English is good. Better than mine. I am sorry I have not been much of a good son to you, and that I am not there to take care of you, but you know I cannot come back home. It would bring trouble, and unhappy memories for us both. Roman is well. He is living the American dream, mostly in his head, like all dream.
+
+;0x7EB67324=Your loving mother.
+0x7EB67324=Your loving mother.
+
+;0x88CAED5B=The only award Roman will win is fantasist of the year. I hope you are well. Look after yourself. Love, Niko.
+0x88CAED5B=The only award Roman will win is fantasist of the year. I hope you are well. Look after yourself. Love, Niko.
+
+;0x9C5DFF77=Dear mother, thanks for your mail. Life in America is okay, thank you for your concern. I wish Roman would join me from his time spent living in clouds. He makes things up, I don't know why. He has a nice woman in his life, that is true, the rest is lies. Apart from Florian Cravic. We have seen him. He is very different.
+0x9C5DFF77=Dear mother, thanks for your mail. Life in America is okay, thank you for your concern. I wish Roman would join me from his time spent living in clouds. He makes things up, I don't know why. He has a nice woman in his life, that is true, the rest is lies. Apart from Florian Cravic. We have seen him. He is very different.
+
+;0xA31CFABB=breaks heart of mine to think of you never here. I know life has not always easy for you, Niko. I know you had many trouble, and I know you have done many bad thing, but please know that I am mother, your mother, and I do not judge you. I judge the world for making you so, you who has so much to give people, who is man of principle, who always tried to live the correct way.
+0xA31CFABB=breaks heart of mine to think of you never here. I know life has not always easy for you, Niko. I know you had many trouble, and I know you have done many bad thing, but please know that I am mother, your mother, and I do not judge you. I judge the world for making you so, you who has so much to give people, who is man of principle, who always tried to live the correct way.
+
+;0xCC1E5AE0=Moj dragi sine,
+0xCC1E5AE0=Moj dragi sine,
+
+;0xE81EC5F7=Tvoja voljena majka.
+0xE81EC5F7=Tvoja voljena majka.
+
+;0xEC239AEA=Moj dragi sine,
+0xEC239AEA=Moj dragi sine,
+
+;0xEF5A1344=thank you for your e mail. It made me cry. At least you are well and happy. I know you cannot live here and be well. I hope happiness finds you. Look after cousin. He is good boy. I dream of both of you settling down with nice women. It is what his mother would have wanted, as well. I will write soon.
+0xEF5A1344=thank you for your e mail. It made me cry. At least you are well and happy. I know you cannot live here and be well. I hope happiness finds you. Look after cousin. He is good boy. I dream of both of you settling down with nice women. It is what his mother would have wanted, as well. I will write soon.
+
+;0xFB122AAC=In America I imagine the people must be bitter. The world used to love the, now they are despised. This President Lawton seems like a foolish man. Have you met him? Roman said that you and him were up for a prestigious award and you had some powerful friends.
+0xFB122AAC=In America I imagine the people must be bitter. The world used to love the, now they are despised. This President Lawton seems like a foolish man. Have you met him? Roman said that you and him were up for a prestigious award and you had some powerful friends.
+
+;0xFDE93E75=My son,
+0xFDE93E75=My son,
+

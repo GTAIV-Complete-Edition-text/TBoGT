@@ -1,0 +1,52 @@
+﻿[EML17]
+;0x0399183C=Kind regards,
+0x0399183C=Kind regards,
+
+;0x1724BF53=Kind regards,
+0x1724BF53=Kind regards,
+
+;0x196DC3E5=Kind regards,
+0x196DC3E5=Kind regards,
+
+;0x2040D183=Kind regards,
+0x2040D183=Kind regards,
+
+;0x32137528=Kind regards,
+0x32137528=Kind regards,
+
+;0x638200EF=Aloha!
+0x638200EF=Aloha!
+
+;0x63B8AD47=I provide day, evening and overnight care for children of all ages and ethnicities. I am a mature, responsible man. No background checks required! Send address and pictures. Prepared to travel long distances for the right child. Competitive rates and excellent references.
+0x63B8AD47=I provide day, evening and overnight care for children of all ages and ethnicities. I am a mature, responsible man. No background checks required! Send address and pictures. Prepared to travel long distances for the right child. Competitive rates and excellent references.
+
+;0x71581CAB=Aloha!
+0x71581CAB=Aloha!
+
+;0x8DBAD570=Aloha!
+0x8DBAD570=Aloha!
+
+;0x9BF271DF=Aloha!
+0x9BF271DF=Aloha!
+
+;0xAAF40FD2=Aloha!
+0xAAF40FD2=Aloha!
+
+;0xB8DBABA1=Aloha!
+0xB8DBABA1=Aloha!
+
+;0xC7FD49E4=Aloha!
+0xC7FD49E4=Aloha!
+
+;0xD458629A=Aloha!
+0xD458629A=Aloha!
+
+;0xD919C33A=Kind regards,
+0xD919C33A=Kind regards,
+
+;0xEAD066A7=Kind regards,
+0xEAD066A7=Kind regards,
+
+;0xFCB78A71=Kind regards,
+0xFCB78A71=Kind regards,
+

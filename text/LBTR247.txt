@@ -1,0 +1,43 @@
+﻿[LBTR247]
+;0x242F53FD=Richie Score
+0x242F53FD=Richie Score
+
+;0x3EBBF831=Pressing the wrong button on his phone may cost him millions of dollars as fans react to the scandalous shots of boy band superstar Bobby Blue in women's lingerie posing and mugging in the mirror. Mr. Blue initially claimed it was a digitally altered photo that had been sent out by a rival boy band. Now he's confessed all and says he dressed up for a funny shoot for their next video. However, industry insiders say they haven't had a plan for a video shoot in months.
+0x3EBBF831=Pressing the wrong button on his phone may cost him millions of dollars as fans react to the scandalous shots of boy band superstar Bobby Blue in women's lingerie posing and mugging in the mirror. Mr. Blue initially claimed it was a digitally altered photo that had been sent out by a rival boy band. Now he's confessed all and says he dressed up for a funny shoot for their next video. However, industry insiders say they haven't had a plan for a video shoot in months.
+
+;0x3F258405=This is my first byline so go easy on me
+0x3F258405=This is my first byline so go easy on me
+
+;0x50C617FA=Bobby Blue accidently sends graphic Bleet update to 500,000 fans
+0x50C617FA=Bobby Blue accidently sends graphic Bleet update to 500,000 fans
+
+;0x525CE888=Michael Wayne
+0x525CE888=Michael Wayne
+
+;0x5E4BDF1E=Boat Sinks in Harbour
+0x5E4BDF1E=Boat Sinks in Harbour
+
+;0x746C2893=You may have heard the nonsense coming out of Switzerland this week - no, not their claims that pocket knives and watches are a really important contribution to global culture - but the economists' summit that declared the recession is in fact just a myth. Millions of Americans disagree - in fact one in 7 does so because they're unemployed. Economists are idiots who sit around drawing graphs and getting aroused at comparing GDP numbers from year to year. They were dorks at school who still cannot get laid. We say - Babylon is burning, and nobody cares except a few of us journalists left since all the papers have gone down the shitter. I was an intern last week and now I'm Sr. Economics editor. Journalism is screwed. Big shout outs to my boys Javier and Jason. You know how we do it in Bohan, son! Peace!
+0x746C2893=You may have heard the nonsense coming out of Switzerland this week - no, not their claims that pocket knives and watches are a really important contribution to global culture - but the economists' summit that declared the recession is in fact just a myth. Millions of Americans disagree - in fact one in 7 does so because they're unemployed. Economists are idiots who sit around drawing graphs and getting aroused at comparing GDP numbers from year to year. They were dorks at school who still cannot get laid. We say - Babylon is burning, and nobody cares except a few of us journalists left since all the papers have gone down the shitter. I was an intern last week and now I'm Sr. Economics editor. Journalism is screwed. Big shout outs to my boys Javier and Jason. You know how we do it in Bohan, son! Peace!
+
+;0x7A7AC1A9=Bobby Blue sends Blue Bleets
+0x7A7AC1A9=Bobby Blue sends Blue Bleets
+
+;0x90B20210=A controversial South African business man was killed in a violent incident in the harbor yesterday. Fricke Van Hardenburg, who had only recently been granted a visa to enter the country was relaxing with pals on a motor yacht, when an assailant attacked and killed him and his friends.
+0x90B20210=A controversial South African business man was killed in a violent incident in the harbor yesterday. Fricke Van Hardenburg, who had only recently been granted a visa to enter the country was relaxing with pals on a motor yacht, when an assailant attacked and killed him and his friends.
+
+;0x96D36D52=FISH FOOD!
+0x96D36D52=FISH FOOD!
+
+;0xAC0938BE=Mr. Van Hardenburg was loved by some and hated by many who accused him of being involved in all manner of nefarious activities. Having been accused at various points of arms dealing, drug trafficking, slave trading, incest, and supporting repressive regimes, some will not mourn his passing, but many in government enjoyed vacations at his ranch and hunting endangered species on his farm.
+0xAC0938BE=Mr. Van Hardenburg was loved by some and hated by many who accused him of being involved in all manner of nefarious activities. Having been accused at various points of arms dealing, drug trafficking, slave trading, incest, and supporting repressive regimes, some will not mourn his passing, but many in government enjoyed vacations at his ranch and hunting endangered species on his farm.
+
+;0xB085381B=Mary Williamson
+0xB085381B=Mary Williamson
+
+;0xBB73E881=Controversial Businessman Killed
+0xBB73E881=Controversial Businessman Killed
+
+;0xDD2AE1D3=Recession, Depression, and Swiss economics
+0xDD2AE1D3=Recession, Depression, and Swiss economics
+

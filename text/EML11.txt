@@ -1,0 +1,79 @@
+﻿[EML11]
+;0x0BF4D36F=Love,
+0x0BF4D36F=Love,
+
+;0x0EDDF548=I ain't the one you need to talk to, it's momma! I help her all I can, and she still gets on me. Love to the kids. Luis.
+0x0EDDF548=I ain't the one you need to talk to, it's momma! I help her all I can, and she still gets on me. Love to the kids. Luis.
+
+;0x1CA37A47=Huh? I don't know what meds you on, sis. But you better cut the dose. L.
+0x1CA37A47=Huh? I don't know what meds you on, sis. But you better cut the dose. L.
+
+;0x1D1250B3=Hey baby bro,
+0x1D1250B3=Hey baby bro,
+
+;0x2186FE93=Love,
+0x2186FE93=Love,
+
+;0x22A600D1=Love,
+0x22A600D1=Love,
+
+;0x34A07FCF=Hey baby bro,
+0x34A07FCF=Hey baby bro,
+
+;0x4214C539=ME? I ain't crazy, sis. I don't know what you talking about. Luis
+0x4214C539=ME? I ain't crazy, sis. I don't know what you talking about. Luis
+
+;0x5518E5B6=Love,
+0x5518E5B6=Love,
+
+;0x5CAD6E0E=Was you involved in that crazy shit I just saw on the news? You take care of yourself, you hear.
+0x5CAD6E0E=Was you involved in that crazy shit I just saw on the news? You take care of yourself, you hear.
+
+;0x5CCB0A52=Hey sis, I figured it would happen some day. Man can't control himself. Send me some pictures of your kids and I'll take down the ones of Dad. Much Love, Luis.
+0x5CCB0A52=Hey sis, I figured it would happen some day. Man can't control himself. Send me some pictures of your kids and I'll take down the ones of Dad. Much Love, Luis.
+
+;0x6F09AECF=Please don't lecture me. I've seen Mom go through enough to not put someone through that. L
+0x6F09AECF=Please don't lecture me. I've seen Mom go through enough to not put someone through that. L
+
+;0x80059694=Hey baby bro,
+0x80059694=Hey baby bro,
+
+;0xA66F8866=Love,
+0xA66F8866=Love,
+
+;0xA7C5843D=I know she can be tough, but she needs you. We all away and not doing so much for her and you all she got. I know she gives you a hard time, but she only wants the best for you. I hope you doing well and not breaking too many hearts. PS Don't ever get a job in human resources. People treat you like you need to wipe their asses.
+0xA7C5843D=I know she can be tough, but she needs you. We all away and not doing so much for her and you all she got. I know she gives you a hard time, but she only wants the best for you. I hope you doing well and not breaking too many hearts. PS Don't ever get a job in human resources. People treat you like you need to wipe their asses.
+
+;0xB5E0824D=Hey baby bro,
+0xB5E0824D=Hey baby bro,
+
+;0xBE38B7F8=Love,
+0xBE38B7F8=Love,
+
+;0xC1841998=Hey baby bro,
+0xC1841998=Hey baby bro,
+
+;0xC518BEE3=it's me, how you doing? I miss you! Listen, I know things been kind of hard and I know I've been absent and hard on you, and I know Ernesto can be a prick (is always a prick!) but can you try and keep an eye on Momma.
+0xC518BEE3=it's me, how you doing? I miss you! Listen, I know things been kind of hard and I know I've been absent and hard on you, and I know Ernesto can be a prick (is always a prick!) but can you try and keep an eye on Momma.
+
+;0xC73B2506=Hey baby bro,
+0xC73B2506=Hey baby bro,
+
+;0xC9B2A9F1=Hey baby bro,
+0xC9B2A9F1=Hey baby bro,
+
+;0xD88B6C9D=Love,
+0xD88B6C9D=Love,
+
+;0xD92A6706=Heard some news from the midwest. Apparently Dad ran out on his new family too. First it was the army, then us, and now his new set of kids. He's living with a waitress or something. He's a fucking asshole, L. I can't believe you still keep those photos of him up. Anyway, thought you'd want to know. Don't turn out like that, okay? I know you're better than that. Just saying...
+0xD92A6706=Heard some news from the midwest. Apparently Dad ran out on his new family too. First it was the army, then us, and now his new set of kids. He's living with a waitress or something. He's a fucking asshole, L. I can't believe you still keep those photos of him up. Anyway, thought you'd want to know. Don't turn out like that, okay? I know you're better than that. Just saying...
+
+;0xDA554B36=Hey baby bro,
+0xDA554B36=Hey baby bro,
+
+;0xEF551A30=Love,
+0xEF551A30=Love,
+
+;0xFD065195=Hey sis, good to hear from you! I try with momma! She just don't like me so much. All she does is give me a hard time, so it gets kind of hard. Anyway, hope you and the kids and the white bread man are doing well. Love Luis.
+0xFD065195=Hey sis, good to hear from you! I try with momma! She just don't like me so much. All she does is give me a hard time, so it gets kind of hard. Anyway, hope you and the kids and the white bread man are doing well. Love Luis.
+

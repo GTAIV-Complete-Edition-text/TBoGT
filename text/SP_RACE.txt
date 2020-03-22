@@ -1,0 +1,112 @@
+﻿[SP_RACE]
+;0x02D1592B=~r~The cops scared off the other racers.
+0x02D1592B=~r~The cops scared off the other racers.
+
+;0x0CA4C2BC=Race Helicopter Test
+0x0CA4C2BC=Race Helicopter Test
+
+;0x0F9E1A22=Race Police Pursuit Test
+0x0F9E1A22=Race Police Pursuit Test
+
+;0x11BA13A7=Race Triathlon Test
+0x11BA13A7=Race Triathlon Test
+
+;0x19E98C0C=12th
+0x19E98C0C=12th
+
+;0x1D330B7C=6th
+0x1D330B7C=6th
+
+;0x21B1848E=10th
+0x21B1848E=10th
+
+;0x24C8D9E5=11th
+0x24C8D9E5=11th
+
+;0x2F4AAAFC=~r~Race abandoned.
+0x2F4AAAFC=~r~Race abandoned.
+
+;0x3577DCA8=4th
+0x3577DCA8=4th
+
+;0x46299390=3rd
+0x46299390=3rd
+
+;0x55DA57A0=2
+0x55DA57A0=2
+
+;0x58973FFA=~r~You lose.
+0x58973FFA=~r~You lose.
+
+;0x6638785C=3
+0x6638785C=3
+
+;0x68CA0475=Press a key to choose Manhatten Race.~n~1. Test
+0x68CA0475=Press a key to choose Manhatten Race.~n~1. Test
+
+;0x694E36A2=Race Boat Test
+0x694E36A2=Race Boat Test
+
+;0x6F68E144=You win.
+0x6F68E144=You win.
+
+;0x75FC564A=Race Quadathlon Test
+0x75FC564A=Race Quadathlon Test
+
+;0x7E175BCF=Press a key to choose a Jersey Race.~n~1. Test
+0x7E175BCF=Press a key to choose a Jersey Race.~n~1. Test
+
+;0x8E08CB2A=Get a bike and get to the ~y~start line.
+0x8E08CB2A=Get a bike and get to the ~y~start line.
+
+;0x92D88D34=Lose the cops., or the race may be abandoned.
+0x92D88D34=Lose the cops., or the race may be abandoned.
+
+;0x9324C866=7th
+0x9324C866=7th
+
+;0x967F991D=2nd
+0x967F991D=2nd
+
+;0x9A69A3BE=Hold ~INPUT_VEH_HEADLIGHT~ while racing for a NOS speed boost.
+0x9A69A3BE=Hold ~INPUT_VEH_HEADLIGHT~ while racing for a NOS speed boost.
+
+;0xB4AA9527=1
+0xB4AA9527=1
+
+;0xBB3D184A=Get back on the bike.
+0xBB3D184A=Get back on the bike.
+
+;0xBB72C767=Go
+0xBB72C767=Go
+
+;0xBCA53EE2=Press a key to choose a Brooklyn race.~n~1. Test
+0xBCA53EE2=Press a key to choose a Brooklyn race.~n~1. Test
+
+;0xC045C12B=9th
+0xC045C12B=9th
+
+;0xC4C9FDC6=Go to the ~y~start line.
+0xC4C9FDC6=Go to the ~y~start line.
+
+;0xCA99824B=1st
+0xCA99824B=1st
+
+;0xCE5E117A=5th
+0xCE5E117A=5th
+
+;0xD9F674EB=Press a key to choose a race type.~n~1. Manhatten Race ~n~2. Helicopter ~n~ 3. Boat ~n~4. Quadathlon ~n~5. Triathlon
+0xD9F674EB=Press a key to choose a race type.~n~1. Manhatten Race ~n~2. Helicopter ~n~ 3. Boat ~n~4. Quadathlon ~n~5. Triathlon
+
+;0xE228DF72=8th
+0xE228DF72=8th
+
+;0xF6E4FEE5=Line up your bike.
+0xF6E4FEE5=Line up your bike.
+
+;0xFAF187C6=Get a suitable bike.
+0xFAF187C6=Get a suitable bike.
+
+;0xFFCD4040=Press a key to choose a race type.~n~1. Manhatten ~n~2. Jersey ~n~ 3. Brooklyn ~n~
+0xFFCD4040=Press a key to choose a race type.~n~1. Manhatten ~n~2. Jersey ~n~ 3. Brooklyn ~n~
+

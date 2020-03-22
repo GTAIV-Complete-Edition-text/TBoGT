@@ -1,0 +1,73 @@
+﻿[GOLF]
+;0x0EF6E6F5=Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
+0x0EF6E6F5=Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
+
+;0x13B3EF8F=For greater accuracy, time your shot on the black line, and keep ~PAD_RSTICK_ALL~ straight. ~n~Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
+0x13B3EF8F=For greater accuracy, time your shot on the black line, and keep ~PAD_RSTICK_ALL~ straight. ~n~Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
+
+;0x2C1FBE33=Distance from target: ~1~.~1~m. Points: ~1~. Bonus points: 5
+0x2C1FBE33=Distance from target: ~1~.~1~m. Points: ~1~. Bonus points: 5
+
+;0x36F75586=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+0x36F75586=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.
+
+;0x3BEE40DF=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Press ~PAD_A~ to start backswing. ~n~To hit the ball, press ~PAD_A~ when the descending power bar reaches the black marker. ~n~Press ~INPUT_PICKUP~ to exit.
+0x3BEE40DF=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Press ~PAD_A~ to start backswing. ~n~To hit the ball, press ~PAD_A~ when the descending power bar reaches the black marker. ~n~Press ~INPUT_PICKUP~ to exit.
+
+;0x4464C779=Hit the ball near the targets to score points.
+0x4464C779=Hit the ball near the targets to score points.
+
+;0x4CEFBC09=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+0x4CEFBC09=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+
+;0x529263D4=The closer the ball is to the target, the more points scored. Bonus points are awarded for hitting the target directly.
+0x529263D4=The closer the ball is to the target, the more points scored. Bonus points are awarded for hitting the target directly.
+
+;0x6CA4A46D=Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.
+0x6CA4A46D=Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.
+
+;0x71503845=Opponent's total score: ~1~
+0x71503845=Opponent's total score: ~1~
+
+;0x8B78816E=You lost this game. Your score: ~1~. Opponent's score: ~1~.
+0x8B78816E=You lost this game. Your score: ~1~. Opponent's score: ~1~.
+
+;0x9DB325E3=You drew this game. Your score: ~1~. Opponent's score: ~1~.
+0x9DB325E3=You drew this game. Your score: ~1~. Opponent's score: ~1~.
+
+;0xA0260951=Press ~PAD_A~ to hit the ball.
+0xA0260951=Press ~PAD_A~ to hit the ball.
+
+;0xA46910F7=Move ~PAD_RSTICK_UP~ to hit the ball.
+0xA46910F7=Move ~PAD_RSTICK_UP~ to hit the ball.
+
+;0xA78E7EC3=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+0xA78E7EC3=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+
+;0xBC5E6339=You won this game. Your score: ~1~. Opponent's score: ~1~.
+0xBC5E6339=You won this game. Your score: ~1~. Opponent's score: ~1~.
+
+;0xBE364EE9=Use ~PAD_RSTICK_ALL~ to change shot position. ~n~Press ~INPUT_MOUSE_LMB~ to start backswing. ~n~To hit the ball, press ~INPUT_MOUSE_LMB~ when the descending power bar reaches the black marker. ~n~Press ~INPUT_PICKUP~ to exit.
+0xBE364EE9=Use ~PAD_RSTICK_ALL~ to change shot position. ~n~Press ~INPUT_MOUSE_LMB~ to start backswing. ~n~To hit the ball, press ~INPUT_MOUSE_LMB~ when the descending power bar reaches the black marker. ~n~Press ~INPUT_PICKUP~ to exit.
+
+;0xCD175610=Balls left: ~1~
+0xCD175610=Balls left: ~1~
+
+;0xCED11FD1=Points scored: ~1~
+0xCED11FD1=Points scored: ~1~
+
+;0xE0034235=Distance from target: ~1~.~1~m. Points: ~1~
+0xE0034235=Distance from target: ~1~.~1~m. Points: ~1~
+
+;0xE260788F=Your total score: ~1~
+0xE260788F=Your total score: ~1~
+
+;0xE2D2EA09=Are you sure you want to quit?
+0xE2D2EA09=Are you sure you want to quit?
+
+;0xF3EC8A76=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+0xF3EC8A76=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.
+
+;0xFFFCC825=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Move ~PAD_RSTICK_DOWN~ to start swing. ~n~Move ~PAD_RSTICK_UP~ to hit the ball. ~n~Press ~INPUT_PICKUP~ to exit.
+0xFFFCC825=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Move ~PAD_RSTICK_DOWN~ to start swing. ~n~Move ~PAD_RSTICK_UP~ to hit the ball. ~n~Press ~INPUT_PICKUP~ to exit.
+

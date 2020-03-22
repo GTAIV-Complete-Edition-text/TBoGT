@@ -1,0 +1,136 @@
+﻿[RBULG1]
+;0x00389B3F=You have left ~b~Timur ~s~behind.
+0x00389B3F=You have left ~b~Timur ~s~behind.
+
+;0x00F5BF33=Put the bomb on the ~b~back ~s~of the car.
+0x00F5BF33=Put the bomb on the ~b~back ~s~of the car.
+
+;0x028730D7=~r~You killed your buddy.
+0x028730D7=~r~You killed your buddy.
+
+;0x126A3FA2=You have left ~b~Bulgarin~s~ and ~b~Timur ~s~behind.
+0x126A3FA2=You have left ~b~Bulgarin~s~ and ~b~Timur ~s~behind.
+
+;0x150DFCD5=Wait for ~b~Timur ~s~to get in the car
+0x150DFCD5=Wait for ~b~Timur ~s~to get in the car
+
+;0x170F63AC=~r~You abandoned Timur.
+0x170F63AC=~r~You abandoned Timur.
+
+;0x195EE83F=~r~You abandoned Bulgarin.
+0x195EE83F=~r~You abandoned Bulgarin.
+
+;0x19F3B414=Get back in the ~b~vehicle.
+0x19F3B414=Get back in the ~b~vehicle.
+
+;0x22A58C9B=Put the bomb on the ~b~front ~s~of the car.
+0x22A58C9B=Put the bomb on the ~b~front ~s~of the car.
+
+;0x2763BB16=Press ~INPUT_DETONATE~ to detonate the Sticky Bombs.
+0x2763BB16=Press ~INPUT_DETONATE~ to detonate the Sticky Bombs.
+
+;0x2CF5F4B9=Go back and collect ~b~Bulgarin.
+0x2CF5F4B9=Go back and collect ~b~Bulgarin.
+
+;0x2DFD1F71=~r~You failed.
+0x2DFD1F71=~r~You failed.
+
+;0x391249E6=~r~Timur is dead.
+0x391249E6=~r~Timur is dead.
+
+;0x3ADB632B=~r~You abandoned Bulgarin and Timur.
+0x3ADB632B=~r~You abandoned Bulgarin and Timur.
+
+;0x3DA27B32=~r~The targets will not enter now, the alarm has alerted them.
+0x3DA27B32=~r~The targets will not enter now, the alarm has alerted them.
+
+;0x40E8BC88=Wait for ~b~Bulgarin ~s~to get in the car
+0x40E8BC88=Wait for ~b~Bulgarin ~s~to get in the car
+
+;0x47E03879=~r~Bulgarin and Timur are dead.
+0x47E03879=~r~Bulgarin and Timur are dead.
+
+;0x558235CE=Stay hidden until the targets get to the vehicle.
+0x558235CE=Stay hidden until the targets get to the vehicle.
+
+;0x5B7DC424=You have been spotted. Take out the ~r~targets.
+0x5B7DC424=You have been spotted. Take out the ~r~targets.
+
+;0x5C4D55D6=Take out the ~r~targets.
+0x5C4D55D6=Take out the ~r~targets.
+
+;0x6F4A776C=Get in the ~b~car ~s~with Ray and Timur.
+0x6F4A776C=Get in the ~b~car ~s~with Ray and Timur.
+
+;0x73CCE81E=~r~Bulgarin and Timur are dead, and you destroyed the car.
+0x73CCE81E=~r~Bulgarin and Timur are dead, and you destroyed the car.
+
+;0x7A419956=~r~The car is stuck.
+0x7A419956=~r~The car is stuck.
+
+;0x7F471F38=~r~The targets will not enter now, the explosion has alerted them.
+0x7F471F38=~r~The targets will not enter now, the explosion has alerted them.
+
+;0x815610F9=Press ~INPUT_ATTACK~ to throw a sticky bomb onto the car.~s~
+0x815610F9=Press ~INPUT_ATTACK~ to throw a sticky bomb onto the car.~s~
+
+;0x81D7FEE2=~r~You destroyed the vehicle.
+0x81D7FEE2=~r~You destroyed the vehicle.
+
+;0x87687C59=Park the car back in the ~y~space.
+0x87687C59=Park the car back in the ~y~space.
+
+;0x8E619437=You have run out of sticky bombs. Call Armando for more.
+0x8E619437=You have run out of sticky bombs. Call Armando for more.
+
+;0x92DCB406=Press ~INPUT_ATTACK~ to drop the sticky bomb when next to the car.~s~
+0x92DCB406=Press ~INPUT_ATTACK~ to drop the sticky bomb when next to the car.~s~
+
+;0xA1A0433B=Place the bomb out of sight.
+0xA1A0433B=Place the bomb out of sight.
+
+;0xA359320A=Crouch and hide behind the ~y~car ~s~and wait for the targets to enter.
+0xA359320A=Crouch and hide behind the ~y~car ~s~and wait for the targets to enter.
+
+;0xAC717536=You need a four door car
+0xAC717536=You need a four door car
+
+;0xB804812E=Go to the underground ~y~carpark ~s~off Topaz St.
+0xB804812E=Go to the underground ~y~carpark ~s~off Topaz St.
+
+;0xB985CD03=Go back to the ~y~car park.
+0xB985CD03=Go back to the ~y~car park.
+
+;0xC080BAB6=Park in the ~y~empty space ~s~next to the pillar.
+0xC080BAB6=Park in the ~y~empty space ~s~next to the pillar.
+
+;0xC63142FF=~r~You alerted the targets.
+0xC63142FF=~r~You alerted the targets.
+
+;0xCDF64D6C=Lose the corrupt ~r~NOOSE.~s~
+0xCDF64D6C=Lose the corrupt ~r~NOOSE.~s~
+
+;0xD00E8E72=Get out of the car.
+0xD00E8E72=Get out of the car.
+
+;0xDF8028B3=Park the car correctly.
+0xDF8028B3=Park the car correctly.
+
+;0xE7EC0525=Lose the cops.
+0xE7EC0525=Lose the cops.
+
+;0xF1065F69=Press ~PAD_DPAD_DOWN~ to detonate the Sticky Bombs.
+0xF1065F69=Press ~PAD_DPAD_DOWN~ to detonate the Sticky Bombs.
+
+;0xF751C4AC=Get ~y~out ~s~of the carpark.
+0xF751C4AC=Get ~y~out ~s~of the carpark.
+
+;0xFC5AB210=Wait for ~b~Bulgarin~s~ and ~b~Timur~s~ to get in the car
+0xFC5AB210=Wait for ~b~Bulgarin~s~ and ~b~Timur~s~ to get in the car
+
+;0xFDDF6757=Take Bulgarin and Timur back to ~y~Bulgarin's house.
+0xFDDF6757=Take Bulgarin and Timur back to ~y~Bulgarin's house.
+
+;0xFE13E159=~r~Bulgarin is dead.
+0xFE13E159=~r~Bulgarin is dead.
+

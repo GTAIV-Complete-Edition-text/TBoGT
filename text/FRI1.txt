@@ -1,0 +1,154 @@
+﻿[FRI1]
+;0x0130E478=~s~Take your buddies back ~y~home.~s~
+0x0130E478=~s~Take your buddies back ~y~home.~s~
+
+;0x038C1F1B=~s~Take out the ~r~cops~s~ on the roof.~s~
+0x038C1F1B=~s~Take out the ~r~cops~s~ on the roof.~s~
+
+;0x0889AA11=~r~Henrique was killed.
+0x0889AA11=~r~Henrique was killed.
+
+;0x09C5B5AD=~s~Stay in the heli while Tony flies you back.
+0x09C5B5AD=~s~Stay in the heli while Tony flies you back.
+
+;0x0AFD09A4=~s~Way to fuckin' go Luis!~s~
+0x0AFD09A4=~s~Way to fuckin' go Luis!~s~
+
+;0x0B5DFD0D=~s~Get in the ~b~car.~s~
+0x0B5DFD0D=~s~Get in the ~b~car.~s~
+
+;0x1039C295=~s~Here Luis, take a shotgun and some grenades. Just in case these assholes try anything.
+0x1039C295=~s~Here Luis, take a shotgun and some grenades. Just in case these assholes try anything.
+
+;0x150F3CCD=~s~Get in the ~b~car.~s~
+0x150F3CCD=~s~Get in the ~b~car.~s~
+
+;0x158137AC=PLACEHOLDER:~n~End of mission mocap.
+0x158137AC=PLACEHOLDER:~n~End of mission mocap.
+
+;0x183B4974=~r~You left Armando and Henrique behind.
+0x183B4974=~r~You left Armando and Henrique behind.
+
+;0x2E4E9285=~s~They are storming the front, hold them off.
+0x2E4E9285=~s~They are storming the front, hold them off.
+
+;0x2FFA0221=~s~Take out the ~r~cops~s~ atacking Henrique.
+0x2FFA0221=~s~Take out the ~r~cops~s~ atacking Henrique.
+
+;0x34BE8B9E=~s~Take out the ~r~cops~s~ atacking Armando.
+0x34BE8B9E=~s~Take out the ~r~cops~s~ atacking Armando.
+
+;0x36823B8E=~r~The car was destroyed.~s~
+0x36823B8E=~r~The car was destroyed.~s~
+
+;0x3CF6AFD5=~s~Watch it, they're coming down the sides.
+0x3CF6AFD5=~s~Watch it, they're coming down the sides.
+
+;0x4227A670=~s~Watch out, there are snipers on the roof.
+0x4227A670=~s~Watch out, there are snipers on the roof.
+
+;0x43531FA3=~r~You left your friend behind.~s~
+0x43531FA3=~r~You left your friend behind.~s~
+
+;0x52CB5B7E=~s~Bastards are coming round by the water.
+0x52CB5B7E=~s~Bastards are coming round by the water.
+
+;0x5D1FD33C=~r~Armando and Henrique are dead.
+0x5D1FD33C=~r~Armando and Henrique are dead.
+
+;0x5F6C74C0=~s~Keep on eye on the road side, they are moving in.
+0x5F6C74C0=~s~Keep on eye on the road side, they are moving in.
+
+;0x623BE6A4=~s~They got a patrol boat coming in, give me a hand.
+0x623BE6A4=~s~They got a patrol boat coming in, give me a hand.
+
+;0x66756F0B=~s~Shit, they have backup coming in a car, help me!
+0x66756F0B=~s~Shit, they have backup coming in a car, help me!
+
+;0x6B86D014=~s~Take my rocket launcher and nail that fuckin 'chopper Luis.~s~
+0x6B86D014=~s~Take my rocket launcher and nail that fuckin 'chopper Luis.~s~
+
+;0x6BC77ADB=~s~Hold off the cops until Tony arrives.
+0x6BC77ADB=~s~Hold off the cops until Tony arrives.
+
+;0x928CC865=~s~Go to the ~y~docks.
+0x928CC865=~s~Go to the ~y~docks.
+
+;0x9637D37D=~s~Oh shit, fucking run.~s~
+0x9637D37D=~s~Oh shit, fucking run.~s~
+
+;0x9733472A=~r~You left your friends behind.~s~
+0x9733472A=~r~You left your friends behind.~s~
+
+;0xA4BD6CC6=~s~Get your ~b~friend.
+0xA4BD6CC6=~s~Get your ~b~friend.
+
+;0xA581E3C7=~r~You abandonded Tony.~s~
+0xA581E3C7=~r~You abandonded Tony.~s~
+
+;0xADF34E56=~s~Shoot down the ~r~chopper.~s~
+0xADF34E56=~s~Shoot down the ~r~chopper.~s~
+
+;0xB68C79C0=PLACEHOLDER:~n~Player and buddies head to the docks to oversee a drug deal.
+0xB68C79C0=PLACEHOLDER:~n~Player and buddies head to the docks to oversee a drug deal.
+
+;0xBA5017EB=~s~Lose the cops before the deal goes ahead.~s~
+0xBA5017EB=~s~Lose the cops before the deal goes ahead.~s~
+
+;0xBBB32D4C=~s~Look out, they're trying to surround us.
+0xBBB32D4C=~s~Look out, they're trying to surround us.
+
+;0xBDC10829=PLACEHOLDER:~n~During the deal the police arrive.~n~The Dealers make a run for it.~n~The player phones Tony who promises to come pick them up in a helicopter.
+0xBDC10829=PLACEHOLDER:~n~During the deal the police arrive.~n~The Dealers make a run for it.~n~The player phones Tony who promises to come pick them up in a helicopter.
+
+;0xBE300F10=~s~Grab a fucking car, lets get out of here.~s~
+0xBE300F10=~s~Grab a fucking car, lets get out of here.~s~
+
+;0xC54BCCF9=~s~ Shit won't open, get another one.~s~
+0xC54BCCF9=~s~ Shit won't open, get another one.~s~
+
+;0xCBE5EC62=~s~Lose the cops.~s~
+0xCBE5EC62=~s~Lose the cops.~s~
+
+;0xCE62B588=~r~You left Armando behind.
+0xCE62B588=~r~You left Armando behind.
+
+;0xCFEEAC84=PLACEHOLDER:~n~Tony arrives in his helicopter and the player climbs a rope to reach it.~n~Toni flies the player and buddies back to the helipad.
+0xCFEEAC84=PLACEHOLDER:~n~Tony arrives in his helicopter and the player climbs a rope to reach it.~n~Toni flies the player and buddies back to the helipad.
+
+;0xD36D3EEA=~s~Go go go go.~s~
+0xD36D3EEA=~s~Go go go go.~s~
+
+;0xDABE2525=~s~Take out the ~r~cops~s~ in your way.
+0xDABE2525=~s~Take out the ~r~cops~s~ in your way.
+
+;0xDFD5A1C2=~s~Lose the cops.~s~
+0xDFD5A1C2=~s~Lose the cops.~s~
+
+;0xE5CEE3AD=~s~Shit they're heli lifting fuckers in on us.~s~
+0xE5CEE3AD=~s~Shit they're heli lifting fuckers in on us.~s~
+
+;0xE800F34C=~s~Go back and get your ~b~friends.~s~
+0xE800F34C=~s~Go back and get your ~b~friends.~s~
+
+;0xE89A63E4=~s~Take out the corrupt ~r~NOOSE.~s~
+0xE89A63E4=~s~Take out the corrupt ~r~NOOSE.~s~
+
+;0xEDE72A65=~r~You left Henrique behind.
+0xEDE72A65=~r~You left Henrique behind.
+
+;0xF13985BD=~s~PLACEHOLDER: Player phones Tony, Tony says he's coming in the helicopter to collect him.
+0xF13985BD=~s~PLACEHOLDER: Player phones Tony, Tony says he's coming in the helicopter to collect him.
+
+;0xF421E835=~s~Good shootin' Luis, get the fuck out of here and we'll meet you later.~s~
+0xF421E835=~s~Good shootin' Luis, get the fuck out of here and we'll meet you later.~s~
+
+;0xFAC80E8E=~r~Armando was killed.
+0xFAC80E8E=~r~Armando was killed.
+
+;0xFB879931=~s~Get to the ~b~helicopter.
+0xFB879931=~s~Get to the ~b~helicopter.
+
+;0xFE715CF6=~s~Get to your ~b~buddies.~s~
+0xFE715CF6=~s~Get to your ~b~buddies.~s~
+

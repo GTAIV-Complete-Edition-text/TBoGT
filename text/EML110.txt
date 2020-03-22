@@ -1,0 +1,58 @@
+﻿[EML110]
+;0x089167E4=Dear Sir / Madam,
+0x089167E4=Dear Sir / Madam,
+
+;0x2EBC15F6=Yours respectfully,
+0x2EBC15F6=Yours respectfully,
+
+;0x3C66B14B=Yours respectfully,
+0x3C66B14B=Yours respectfully,
+
+;0x3E585375=Dear Sir / Madam,
+0x3E585375=Dear Sir / Madam,
+
+;0x424A5E78=Obviously, that is not possible, so now I'm ready to share my secrets with you. For a limited time only! My trading system works. Contact me now and let me set you on the path to financial freedom.
+0x424A5E78=Obviously, that is not possible, so now I'm ready to share my secrets with you. For a limited time only! My trading system works. Contact me now and let me set you on the path to financial freedom.
+
+;0x5091F7E8=Dear Sir / Madam,
+0x5091F7E8=Dear Sir / Madam,
+
+;0x67818780=Yours respectfully,
+0x67818780=Yours respectfully,
+
+;0x73923DEC=Dear Sir / Madam,
+0x73923DEC=Dear Sir / Madam,
+
+;0x7580237D=Yours respectfully,
+0x7580237D=Yours respectfully,
+
+;0x79814CE5=I saw the recession coming and made millions off it, selling options and stuff. I am a billionaire hundreds of times over. I have so much money that, to spend it all, it would take me about 400 years (without sleep).
+0x79814CE5=I saw the recession coming and made millions off it, selling options and stuff. I am a billionaire hundreds of times over. I have so much money that, to spend it all, it would take me about 400 years (without sleep).
+
+;0x87CAE978=Would you like to make hundreds of thousands of dollars a year doing nothing? Risk free? I know what the so-called professionals don't: how to consistently make money on the stock market.
+0x87CAE978=Would you like to make hundreds of thousands of dollars a year doing nothing? Risk free? I know what the so-called professionals don't: how to consistently make money on the stock market.
+
+;0x9AE2EE42=Yours respectfully,
+0x9AE2EE42=Yours respectfully,
+
+;0xC204BC85=Yours respectfully,
+0xC204BC85=Yours respectfully,
+
+;0xCFCA5810=Yours respectfully,
+0xCFCA5810=Yours respectfully,
+
+;0xE1DC1A7E=Dear Sir / Madam,
+0xE1DC1A7E=Dear Sir / Madam,
+
+;0xF11EB903=Dear Sir / Madam,
+0xF11EB903=Dear Sir / Madam,
+
+;0xF30DBCDD=Dear Sir / Madam,
+0xF30DBCDD=Dear Sir / Madam,
+
+;0xF643C349=Dear Sir / Madam,
+0xF643C349=Dear Sir / Madam,
+
+;0xF7B7A7EA=Yours respectfully,
+0xF7B7A7EA=Yours respectfully,
+

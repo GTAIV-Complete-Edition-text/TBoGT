@@ -1,0 +1,16 @@
+﻿[WEZL224]
+;0x55C897C0=Civil liberties are useless if you're dead.
+0x55C897C0=Civil liberties are useless if you're dead.
+
+;0x617BAFC2=Staff Writer
+0x617BAFC2=Staff Writer
+
+;0x86568D0C=Close the bridges. Now. Despite the pleas of many citizens and this newspaper, the police bowed to liberals and reopened the bridges. And look what we've got. A spate of recent violence and what are surely terrorist attacks. Without rules, people will die. Experts say the only way for this country to feel safe again is more security cameras, security guards at the airports, rifling through people's bags on the subway, and background checks for apartments.
+0x86568D0C=Close the bridges. Now. Despite the pleas of many citizens and this newspaper, the police bowed to liberals and reopened the bridges. And look what we've got. A spate of recent violence and what are surely terrorist attacks. Without rules, people will die. Experts say the only way for this country to feel safe again is more security cameras, security guards at the airports, rifling through people's bags on the subway, and background checks for apartments.
+
+;0xAAD79CB3=Movement to Reclose Bridges Before it's too Late
+0xAAD79CB3=Movement to Reclose Bridges Before it's too Late
+
+;0xDF2DBD81=Grassroots Democracy
+0xDF2DBD81=Grassroots Democracy
+

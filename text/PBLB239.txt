@@ -1,0 +1,16 @@
+﻿[PBLB239]
+;0x5C9657CB=Artist Killed
+0x5C9657CB=Artist Killed
+
+;0x77E5DCF4=A 32-year-old budding artist was viciously beaten to death last night outside a bar in East Hook. Fueled by the pressures of the economic downturn, this is the latest in a spate of revenge attacks by long-standing Broker residents, who believe that their neighborhoods have been ruined by an influx of bearded, over-privileged rich kids in fedoras. While we of course sympathize wholeheartedly and hyperbolically with the plight of poor, ethnic communities, whose futures have been gambled away by President Lawton on war games and big business subsidies, we can and will never condone hate. Hipsterphobia is prejudice like any other and they must be defended, especially as they make up the lion's share of our reader base.
+0x77E5DCF4=A 32-year-old budding artist was viciously beaten to death last night outside a bar in East Hook. Fueled by the pressures of the economic downturn, this is the latest in a spate of revenge attacks by long-standing Broker residents, who believe that their neighborhoods have been ruined by an influx of bearded, over-privileged rich kids in fedoras. While we of course sympathize wholeheartedly and hyperbolically with the plight of poor, ethnic communities, whose futures have been gambled away by President Lawton on war games and big business subsidies, we can and will never condone hate. Hipsterphobia is prejudice like any other and they must be defended, especially as they make up the lion's share of our reader base.
+
+;0x83ECD02E=Candice Johnson
+0x83ECD02E=Candice Johnson
+
+;0x894F7FC7=So they believe that they are unique and countercultural by dressing in exactly the same clothes? So they ride fixed-gear bicycles and live off their parents' money? So they seek to escape their privileged upbringings and middle-class guilt by expropriating the cultures and fashions of the working class and turning them into kitsch for their own amusement? So they are pitiful, insecure, pretentious, snarky, narcissistic, pasty-faced pseudo-slackers whom the world would be better off without? Are these reasons to hate them? Er, maybe. I don't know any more. I'm incapable of stating an opinion for fear that I might offend somebody. But, if I learned one thing from my Liberal Arts degree, it is this: stereotypes are bad. Never put a label on anything unless it contains animal fats.
+0x894F7FC7=So they believe that they are unique and countercultural by dressing in exactly the same clothes? So they ride fixed-gear bicycles and live off their parents' money? So they seek to escape their privileged upbringings and middle-class guilt by expropriating the cultures and fashions of the working class and turning them into kitsch for their own amusement? So they are pitiful, insecure, pretentious, snarky, narcissistic, pasty-faced pseudo-slackers whom the world would be better off without? Are these reasons to hate them? Er, maybe. I don't know any more. I'm incapable of stating an opinion for fear that I might offend somebody. But, if I learned one thing from my Liberal Arts degree, it is this: stereotypes are bad. Never put a label on anything unless it contains animal fats.
+
+;0xC43B196A=No irony found in hipster's death
+0xC43B196A=No irony found in hipster's death
+

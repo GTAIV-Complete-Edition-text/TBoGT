@@ -1,0 +1,43 @@
+﻿[LBTR231]
+;0x02E9AC14=The Recession is Not Over
+0x02E9AC14=The Recession is Not Over
+
+;0x14799E26=City Sees Spate of Drug Induced Violence
+0x14799E26=City Sees Spate of Drug Induced Violence
+
+;0x14D2B094=President's Claims Jar with Facts
+0x14D2B094=President's Claims Jar with Facts
+
+;0x2E5B1B3F=Rampage Owner Killed in Tower
+0x2E5B1B3F=Rampage Owner Killed in Tower
+
+;0x647A0532=Tony J Smith
+0x647A0532=Tony J Smith
+
+;0x8B8FA41C=Staff Writer
+0x8B8FA41C=Staff Writer
+
+;0x8E8F0DA8=Ashvilli's Private Army Wiped Out
+0x8E8F0DA8=Ashvilli's Private Army Wiped Out
+
+;0x953DCCDF=He wanted the Rampage, and in the end he got it. Carnage today after a bloody shoot out at the offices of highly controversial liberty City Rampage owner Marki Ashvilli. Mr. Ashvilli, who had long denied links to organized crime was left dead along with and several of his employees after a violent clash. The assailant appears to have escaped by means of a daring base jump into the street, but exact details are slow to emerge.
+0x953DCCDF=He wanted the Rampage, and in the end he got it. Carnage today after a bloody shoot out at the offices of highly controversial liberty City Rampage owner Marki Ashvilli. Mr. Ashvilli, who had long denied links to organized crime was left dead along with and several of his employees after a violent clash. The assailant appears to have escaped by means of a daring base jump into the street, but exact details are slow to emerge.
+
+;0xD28F70BD=Drugged Down!
+0xD28F70BD=Drugged Down!
+
+;0xDFE0EDFF=The 80s are back in liberty City. Not content with bad haircuts, old music and terrible economic crashes, now the city is witnessing a terrible rise in drug related violence. Recent weeks have seen several incidents, raging from stoned people fighting while standing in line for munchies to major shoot outs between gangs during drug deals. City officials denied clams they were useless free loaders and promised that things would change. With the city now solely focused on house prices and coffee shops, a reversion to a high crime rate would be bad for everybody, and maybe force some of us to move back to the suburbs.
+0xDFE0EDFF=The 80s are back in liberty City. Not content with bad haircuts, old music and terrible economic crashes, now the city is witnessing a terrible rise in drug related violence. Recent weeks have seen several incidents, raging from stoned people fighting while standing in line for munchies to major shoot outs between gangs during drug deals. City officials denied clams they were useless free loaders and promised that things would change. With the city now solely focused on house prices and coffee shops, a reversion to a high crime rate would be bad for everybody, and maybe force some of us to move back to the suburbs.
+
+;0xE8B03A1D=Despite the President's speech last week that the recession is over, speak to anyone on the street and they will tell you times are tough. Bagels now cost a fortune. Gas is through the roof. And daytime TV is terrible. The conservative president may be trying to save face. But we don't believe it, especially since our newsroom has been cut by 75%. Seriously. I'm the janitor but they make me write the stories.
+0xE8B03A1D=Despite the President's speech last week that the recession is over, speak to anyone on the street and they will tell you times are tough. Bagels now cost a fortune. Gas is through the roof. And daytime TV is terrible. The conservative president may be trying to save face. But we don't believe it, especially since our newsroom has been cut by 75%. Seriously. I'm the janitor but they make me write the stories.
+
+;0xEFB281CF=What is clear is that this is a serious blow for the hockey team, who lost their controversial owner, and are plagued with rival claims over ownership of the franchise as well as documented hostile takeover attempts. The Rampage are now likely to be the subject of a series of court cases as Mr. Ashvilli's complex business affairs are untangled by the state. Hockey fans just wished they had got to watch the shoot out as it sounded a lot more interesting than the sport.
+0xEFB281CF=What is clear is that this is a serious blow for the hockey team, who lost their controversial owner, and are plagued with rival claims over ownership of the franchise as well as documented hostile takeover attempts. The Rampage are now likely to be the subject of a series of court cases as Mr. Ashvilli's complex business affairs are untangled by the state. Hockey fans just wished they had got to watch the shoot out as it sounded a lot more interesting than the sport.
+
+;0xF5E4C195=Michael Wayne
+0xF5E4C195=Michael Wayne
+
+;0xFBE39BAF=Police Seek Extreme Sports Enthusiast
+0xFBE39BAF=Police Seek Extreme Sports Enthusiast
+

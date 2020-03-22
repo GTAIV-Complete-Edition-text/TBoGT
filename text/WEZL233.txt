@@ -1,0 +1,16 @@
+﻿[WEZL233]
+;0x01BBE114=Three Explosions on Teamsters' Watch
+0x01BBE114=Three Explosions on Teamsters' Watch
+
+;0x2404C60E=Unions or Terrorists? Same Thing
+0x2404C60E=Unions or Terrorists? Same Thing
+
+;0x5EBE887D=Staff Writer
+0x5EBE887D=Staff Writer
+
+;0x6EB66EBC=Yet another improperly installed construction crane goes down while overpaid union cronies stand around smoking cigarettes, reading porn, and drinking during lunch. The crane accident at the libel site on Columbus Avenue could be prevented if unions didn't have such a stranglehold on the construction industry in this town. And the transit union is to blame for the awful derailment of the subway train on the Algonquin-Bohan line. For the trifecta, if union airport security gaurds actually did some work instead of putting us all at risk with their 4 hour work days, long lunches and lazy work ethic, the explosion at Francis International wouldn't have happened. How many more innocent Americans will die because of unions? Weazel News will keep you informed.
+0x6EB66EBC=Yet another improperly installed construction crane goes down while overpaid union cronies stand around smoking cigarettes, reading porn, and drinking during lunch. The crane accident at the libel site on Columbus Avenue could be prevented if unions didn't have such a stranglehold on the construction industry in this town. And the transit union is to blame for the awful derailment of the subway train on the Algonquin-Bohan line. For the trifecta, if union airport security gaurds actually did some work instead of putting us all at risk with their 4 hour work days, long lunches and lazy work ethic, the explosion at Francis International wouldn't have happened. How many more innocent Americans will die because of unions? Weazel News will keep you informed.
+
+;0x99077A23=Time to Break This Socialist Menace
+0x99077A23=Time to Break This Socialist Menace
+

@@ -1,0 +1,16 @@
+﻿[WEZL227]
+;0x08B61091=Arms Dealer Granted Entry
+0x08B61091=Arms Dealer Granted Entry
+
+;0x6A9B466F=Today alleged arms dealer, Frickie van Hardenburg was finally granted a visa to enter the United States. Thank God senses prevailed. A few wacko liberals nearly derailed this fine businessman and humanitarian with their accusations that he should be put on trial for war crimes over his alleged financing of conflicts in Africa, support of very restrictive regimes in the Middle East, continued involvement in the slave trade and that he has a grating accent. But thankfully immigration authorities have turned a blind eye to this nonsense, citing the fact that Mr. Van Hardenburg took several senators on a safari last year and also is a really nice guy once you get to know him.
+0x6A9B466F=Today alleged arms dealer, Frickie van Hardenburg was finally granted a visa to enter the United States. Thank God senses prevailed. A few wacko liberals nearly derailed this fine businessman and humanitarian with their accusations that he should be put on trial for war crimes over his alleged financing of conflicts in Africa, support of very restrictive regimes in the Middle East, continued involvement in the slave trade and that he has a grating accent. But thankfully immigration authorities have turned a blind eye to this nonsense, citing the fact that Mr. Van Hardenburg took several senators on a safari last year and also is a really nice guy once you get to know him.
+
+;0x83357299=Not so Sickie Frickie
+0x83357299=Not so Sickie Frickie
+
+;0xA772BBAB=Eugene White
+0xA772BBAB=Eugene White
+
+;0xEED224BB=Alleged War Profiteer Actually a Nice Guy
+0xEED224BB=Alleged War Profiteer Actually a Nice Guy
+

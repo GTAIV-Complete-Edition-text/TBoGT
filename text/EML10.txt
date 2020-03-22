@@ -1,0 +1,82 @@
+﻿[EML10]
+;0x093EFF40=Hey Luis,
+0x093EFF40=Hey Luis,
+
+;0x0DBF3EFD=I haven't heard from you. did you lose my number? Maybe my phone was unplugged or something. It's been being weird. Listen. Give me a call sometime. Would be great to hang out again.
+0x0DBF3EFD=I haven't heard from you. did you lose my number? Maybe my phone was unplugged or something. It's been being weird. Listen. Give me a call sometime. Would be great to hang out again.
+
+;0x10A50343=Things are real complicated right now. Look after yourself. Luis
+0x10A50343=Things are real complicated right now. Look after yourself. Luis
+
+;0x10ED8ED9=Hello stranger!
+0x10ED8ED9=Hello stranger!
+
+;0x134F8D29=Look after yourself, Margot. Luis.
+0x134F8D29=Look after yourself, Margot. Luis.
+
+;0x1D55A7A9=Hey Luis,
+0x1D55A7A9=Hey Luis,
+
+;0x3335D369=Hey Luis,
+0x3335D369=Hey Luis,
+
+;0x3D1C5C31=Sorry, Margot. I been kind of busy. You take care. Luis.
+0x3D1C5C31=Sorry, Margot. I been kind of busy. You take care. Luis.
+
+;0x56A29A42=Hey Luis,
+0x56A29A42=Hey Luis,
+
+;0x5C3461DD=Whatever,
+0x5C3461DD=Whatever,
+
+;0x624DB198=Hello stranger!
+0x624DB198=Hello stranger!
+
+;0x6C0DBEA4=Don't think I'm working tonight. Luis
+0x6C0DBEA4=Don't think I'm working tonight. Luis
+
+;0x71DF0D36=Whatever,
+0x71DF0D36=Whatever,
+
+;0x7FF68C03=Margs, I think you need to chill out. Please can we call this quits?
+0x7FF68C03=Margs, I think you need to chill out. Please can we call this quits?
+
+;0x8011A99B=Bye,
+0x8011A99B=Bye,
+
+;0x92EBB1ED=Please stop mailing me. Forget we ever met.
+0x92EBB1ED=Please stop mailing me. Forget we ever met.
+
+;0xB4AD8CCF=Do you want to die alone, Luis, because I think you will. Seriously. You can't treat people like this. I mean who do you think you are? You an asshole and you're not that well endowed. I faked it. Why are you doing this to me? Seriously. Why?
+0xB4AD8CCF=Do you want to die alone, Luis, because I think you will. Seriously. You can't treat people like this. I mean who do you think you are? You an asshole and you're not that well endowed. I faked it. Why are you doing this to me? Seriously. Why?
+
+;0xB84B9417=What's up? or as you might say 'Yo, wassup!?' Still haven't heard much from you. I left a couple of messages. Maybe you didn't get them.
+0xB84B9417=What's up? or as you might say 'Yo, wassup!?' Still haven't heard much from you. I left a couple of messages. Maybe you didn't get them.
+
+;0xBA959E96=Whatever,
+0xBA959E96=Whatever,
+
+;0xBE77A063=Well, I'm sorry. I guess you never got the present I sent, because if you did and you haven't thanked me, that's just rude. I mean, seriously. Listen, I don't know what is wrong with you or whatever but come on. I mean, listen, I'm not a stalker or anything but I thought we kind of had a connection and in this crazy city, that means something.
+0xBE77A063=Well, I'm sorry. I guess you never got the present I sent, because if you did and you haven't thanked me, that's just rude. I mean, seriously. Listen, I don't know what is wrong with you or whatever but come on. I mean, listen, I'm not a stalker or anything but I thought we kind of had a connection and in this crazy city, that means something.
+
+;0xC9483BFB=Bye,
+0xC9483BFB=Bye,
+
+;0xCE10458B=Whatever,
+0xCE10458B=Whatever,
+
+;0xD7821BC7=Hello stranger!
+0xD7821BC7=Hello stranger!
+
+;0xDB9AE0AC=Bye,
+0xDB9AE0AC=Bye,
+
+;0xDCBDE2E6=Bye,
+0xDCBDE2E6=Bye,
+
+;0xE73971F2=Anyway, me and some friends are meeting up later at the club. Maybe see you there? Be good to hang out. This guy is there who wants to date me and stuff but he's kind of annoying. Not like you. Apart from when you don't call back. Which is a bit rude. Seriously. I'm busy too. I've got a life. a good one. I'm hot. Anyway, see you later, maybe.
+0xE73971F2=Anyway, me and some friends are meeting up later at the club. Maybe see you there? Be good to hang out. This guy is there who wants to date me and stuff but he's kind of annoying. Not like you. Apart from when you don't call back. Which is a bit rude. Seriously. I'm busy too. I've got a life. a good one. I'm hot. Anyway, see you later, maybe.
+
+;0xE9E7C092=Hello stranger!
+0xE9E7C092=Hello stranger!
+

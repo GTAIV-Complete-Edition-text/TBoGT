@@ -1,0 +1,46 @@
+﻿[LBTR233]
+;0x0A035290=Blasts Rock City
+0x0A035290=Blasts Rock City
+
+;0x1D8D5455=While the chronology of these events is still being debated, authorities have used social network updates on the popular bleeter.biz website in order to put them in an approximate order. It is believed that the first blast caused a crane to go down at the Libel site on Columbus Avenue. The second made an out of commission subway train derail on the Algonquin-Bohan line. And a third blast caused a private jet belonging to the LTA to combust at Francis International. Cleanup crews are hard at work on the sites while authorities debate on how to better safeguard against a repeat of these tragedies.
+0x1D8D5455=While the chronology of these events is still being debated, authorities have used social network updates on the popular bleeter.biz website in order to put them in an approximate order. It is believed that the first blast caused a crane to go down at the Libel site on Columbus Avenue. The second made an out of commission subway train derail on the Algonquin-Bohan line. And a third blast caused a private jet belonging to the LTA to combust at Francis International. Cleanup crews are hard at work on the sites while authorities debate on how to better safeguard against a repeat of these tragedies.
+
+;0x1F97656F=NO RAMPAGE!
+0x1F97656F=NO RAMPAGE!
+
+;0x2266B9D0=City Pulls Bad Tooth
+0x2266B9D0=City Pulls Bad Tooth
+
+;0x391A7923=Ashvilli Denies Sale Speculation
+0x391A7923=Ashvilli Denies Sale Speculation
+
+;0x4E7FC0E6=Three Explosions Shake Illusion of Security
+0x4E7FC0E6=Three Explosions Shake Illusion of Security
+
+;0x5942CBBF=What have a plane, a train, and a crane got in common? They rhyme and they could all kill your children. Unrelated accidents in three corners of Liberty City have shown how close we come to death when we leave our apartments everyday.
+0x5942CBBF=What have a plane, a train, and a crane got in common? They rhyme and they could all kill your children. Unrelated accidents in three corners of Liberty City have shown how close we come to death when we leave our apartments everyday.
+
+;0x5F000CDC=Controversial Rampage owner, Marki Ashvilli has forcefully denied allegations he is about to sell the team, and says he is looking forward to the new season. Mr. Ashvilli, who has faced down a string of accusations, including claims he is not the legal owner of the team along with on going investigations into his links to organized crime, released a statement through a spokesman.
+0x5F000CDC=Controversial Rampage owner, Marki Ashvilli has forcefully denied allegations he is about to sell the team, and says he is looking forward to the new season. Mr. Ashvilli, who has faced down a string of accusations, including claims he is not the legal owner of the team along with on going investigations into his links to organized crime, released a statement through a spokesman.
+
+;0x792BFF55=Staff Writer
+0x792BFF55=Staff Writer
+
+;0x846A57B0="Mr. Ashvilli is committed to the Rampage. He's a life long hockey fan and he has settled happily in Liberty City. He believes that the constant rumors about his finances, his immigration status, his wife, his experiences back in Russia and every other aspect of his life have been spread by people wanting to take over his business interests in both Russia and the US and in particular take control of the rampage. Mr. Ashvilli is 100% focused on the season ahead." League officials are still trying to discover is Mr. Ashvilli passes their test of being a person fit for owning a franchise, while formal investigations into Mr. Ashvilli's finances are on going.
+0x846A57B0="Mr. Ashvilli is committed to the Rampage. He's a life long hockey fan and he has settled happily in Liberty City. He believes that the constant rumors about his finances, his immigration status, his wife, his experiences back in Russia and every other aspect of his life have been spread by people wanting to take over his business interests in both Russia and the US and in particular take control of the rampage. Mr. Ashvilli is 100% focused on the season ahead." League officials are still trying to discover is Mr. Ashvilli passes their test of being a person fit for owning a franchise, while formal investigations into Mr. Ashvilli's finances are on going.
+
+;0x9A6A8A9E=Tony J Smith
+0x9A6A8A9E=Tony J Smith
+
+;0xAA16C4B7=Is Nothing Safe?
+0xAA16C4B7=Is Nothing Safe?
+
+;0xB8DD29E0=Simon Epstein loves his job. So much that he gets high on his own supply. The Liberty City Dentist was arrested recently for selling nitrous oxide tanks to local partiers. But some of his dental hygienists are coming forward and saying he liked to suck on the gas while at work, and would often fondle them while doing teeth cleaning. Hygienist Sarah Levin said "He was doing a root canal, and that sucky thing is pulling spit out of the patients mouth, and there's blood and spit everywhere, and the dentist started to caress my thigh. It was very erotic, and I was in to it then. But now I just want money."
+0xB8DD29E0=Simon Epstein loves his job. So much that he gets high on his own supply. The Liberty City Dentist was arrested recently for selling nitrous oxide tanks to local partiers. But some of his dental hygienists are coming forward and saying he liked to suck on the gas while at work, and would often fondle them while doing teeth cleaning. Hygienist Sarah Levin said "He was doing a root canal, and that sucky thing is pulling spit out of the patients mouth, and there's blood and spit everywhere, and the dentist started to caress my thigh. It was very erotic, and I was in to it then. But now I just want money."
+
+;0xC0FD3E37=T.J. Barry
+0xC0FD3E37=T.J. Barry
+
+;0xD3707273=Dirty Dentist Busted
+0xD3707273=Dirty Dentist Busted
+

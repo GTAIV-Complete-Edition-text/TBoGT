@@ -1,0 +1,76 @@
+﻿[YUSUF1]
+;0x006ADCE2=Get a boat from the ~y~marina.
+0x006ADCE2=Get a boat from the ~y~marina.
+
+;0x0718F93C=Lose the cops.
+0x0718F93C=Lose the cops.
+
+;0x0A187204=The Buzzard helicopter is on a yacht located to the west of Happiness Island.
+0x0A187204=The Buzzard helicopter is on a yacht located to the west of Happiness Island.
+
+;0x0AFD8F70=Get back to the ~r~yacht~s~ before the arms dealers escape.
+0x0AFD8F70=Get back to the ~r~yacht~s~ before the arms dealers escape.
+
+;0x0E524585=~r~You abandoned the chopper.
+0x0E524585=~r~You abandoned the chopper.
+
+;0x0F6CA219=~r~The chopper was destroyed.
+0x0F6CA219=~r~The chopper was destroyed.
+
+;0x1A2DA84B=~s~Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
+0x1A2DA84B=~s~Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
+
+;0x1C8632B1=Yusuf has provided a ~b~boat~s~ to get to the yacht.
+0x1C8632B1=Yusuf has provided a ~b~boat~s~ to get to the yacht.
+
+;0x211922C4=Take out the ~r~reinforcements.
+0x211922C4=Take out the ~r~reinforcements.
+
+;0x230201A3=Take out the fleeing ~r~arms dealers.
+0x230201A3=Take out the fleeing ~r~arms dealers.
+
+;0x26E62629=~s~Get in the ~b~chopper.
+0x26E62629=~s~Get in the ~b~chopper.
+
+;0x2D89A28C=When in a helicopter, an altimeter will appear over the radar. This indicates your height above sea level.
+0x2D89A28C=When in a helicopter, an altimeter will appear over the radar. This indicates your height above sea level.
+
+;0x31038FC9=~r~The arms dealers got away.
+0x31038FC9=~r~The arms dealers got away.
+
+;0x3212F0CB=You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns.
+0x3212F0CB=You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns.
+
+;0x42A736BD=~s~Destroy the ~r~yacht.
+0x42A736BD=~s~Destroy the ~r~yacht.
+
+;0x539CBA37=You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns.
+0x539CBA37=You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns.
+
+;0x54BB3AD4=Watch out for patrolling boats protecting the yacht.
+0x54BB3AD4=Watch out for patrolling boats protecting the yacht.
+
+;0x632E49E7=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the patrol boat.
+0x632E49E7=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the patrol boat.
+
+;0x7039F1CD=Take the chopper to the ~y~helipad.
+0x7039F1CD=Take the chopper to the ~y~helipad.
+
+;0xA210B577=~s~Approach the yacht quietly to avoid alerting the patrol boat.
+0xA210B577=~s~Approach the yacht quietly to avoid alerting the patrol boat.
+
+;0xA981CE22=Get on board the ~b~yacht.
+0xA981CE22=Get on board the ~b~yacht.
+
+;0xB1D6D95C=Steal the ~b~chopper.
+0xB1D6D95C=Steal the ~b~chopper.
+
+;0xBABD285B=~s~Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
+0xBABD285B=~s~Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
+
+;0xFA3DA7A0=You were spotted by the patrol boat.
+0xFA3DA7A0=You were spotted by the patrol boat.
+
+;0xFE0EC0A0=The ~r~arms dealers~s~ are fleeing on foot.
+0xFE0EC0A0=The ~r~arms dealers~s~ are fleeing on foot.
+

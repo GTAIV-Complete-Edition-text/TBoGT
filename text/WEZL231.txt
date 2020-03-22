@@ -1,0 +1,16 @@
+﻿[WEZL231]
+;0x2A93A1C7=President Lawton has delivered on his promise and the country is finally out of the recession. Business and politicians celebrated yesterday as the dark days are behind us. Liberal media outlets will tout false stats about unemployment, but don't believe a bunch of lazy bums who are trying to hold this country back. We at Weazel applaud the President and our conservative members of Congress who made this happen.
+0x2A93A1C7=President Lawton has delivered on his promise and the country is finally out of the recession. Business and politicians celebrated yesterday as the dark days are behind us. Liberal media outlets will tout false stats about unemployment, but don't believe a bunch of lazy bums who are trying to hold this country back. We at Weazel applaud the President and our conservative members of Congress who made this happen.
+
+;0x2B64345C=Financial Worries No More
+0x2B64345C=Financial Worries No More
+
+;0x75BFB394=The President Said So, So it Must be True
+0x75BFB394=The President Said So, So it Must be True
+
+;0x89C2DE85=John Chesapeake
+0x89C2DE85=John Chesapeake
+
+;0x99A9B156=The Recession is over!
+0x99A9B156=The Recession is over!
+

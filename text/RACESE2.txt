@@ -1,0 +1,106 @@
+﻿[RACESE2]
+;0x01D642F4=Pistols
+0x01D642F4=Pistols
+
+;0x0AFDA7D3=WAITING FOR PLAYERS TO FINISH...
+0x0AFDA7D3=WAITING FOR PLAYERS TO FINISH...
+
+;0x1390E669=Health Only
+0x1390E669=Health Only
+
+;0x1BE398F6=Mind the Gap
+0x1BE398F6=Mind the Gap
+
+;0x2D5B19FD=Off
+0x2D5B19FD=Off
+
+;0x2F2C3F83=Random
+0x2F2C3F83=Random
+
+;0x4200363F=Track
+0x4200363F=Track
+
+;0x4A13E25F=The race is ending soon.
+0x4A13E25F=The race is ending soon.
+
+;0x54804A25=Weapons
+0x54804A25=Weapons
+
+;0x54880A3A=Go Both Ways
+0x54880A3A=Go Both Ways
+
+;0x5BDC13E3=Color
+0x5BDC13E3=Color
+
+;0x69EEC66A=Fly By
+0x69EEC66A=Fly By
+
+;0x6CA086C0=Enters 1ST
+0x6CA086C0=Enters 1ST
+
+;0x7838519A=Burn your Bridges
+0x7838519A=Burn your Bridges
+
+;0x7D51ED30=Damn Rotten Hills
+0x7D51ED30=Damn Rotten Hills
+
+;0x8A0CF543=Tour D'Algonquin
+0x8A0CF543=Tour D'Algonquin
+
+;0x937B9987=Round the Horny
+0x937B9987=Round the Horny
+
+;0x9BE418F1=Grand Tourer
+0x9BE418F1=Grand Tourer
+
+;0xA18B4DD5=New Personal Best
+0xA18B4DD5=New Personal Best
+
+;0xAD6BBC00=Jumpyard Dodge
+0xAD6BBC00=Jumpyard Dodge
+
+;0xAD771711=Vehicle Damage
+0xAD771711=Vehicle Damage
+
+;0xB165C3F4=Upper Junction
+0xB165C3F4=Upper Junction
+
+;0xBCD4F722=Laps
+0xBCD4F722=Laps
+
+;0xC2C666B5=Tar Macked
+0xC2C666B5=Tar Macked
+
+;0xC64B7F26=Meadows Park & Ride
+0xC64B7F26=Meadows Park & Ride
+
+;0xD22D9110=Lap Time
+0xD22D9110=Lap Time
+
+;0xD4B78A9F=Club Class
+0xD4B78A9F=Club Class
+
+;0xDD245B9C=Vehicle
+0xDD245B9C=Vehicle
+
+;0xDD31B69C=Your vehicle is equipped with nitro. To activate the nitro you must first be travelling fast enough. Then tap ~INPUT_VEH_CIN_CAM~ to activate your nitro.
+0xDD31B69C=Your vehicle is equipped with nitro. To activate the nitro you must first be travelling fast enough. Then tap ~INPUT_VEH_CIN_CAM~ to activate your nitro.
+
+;0xDDE83C11=All Weapons
+0xDDE83C11=All Weapons
+
+;0xE1DF364D=Original Outlook
+0xE1DF364D=Original Outlook
+
+;0xE6618C0B=All Guns
+0xE6618C0B=All Guns
+
+;0xF3A16783=Guns & Grenades
+0xF3A16783=Guns & Grenades
+
+;0xF8172F76=SMGs
+0xF8172F76=SMGs
+
+;0xFC976BBD=Meat your Marker
+0xFC976BBD=Meat your Marker
+

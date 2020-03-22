@@ -1,0 +1,154 @@
+﻿[YUSUF3]
+;0x00B2207B=~r~The sky crane driver is dead.~s~
+0x00B2207B=~r~The sky crane driver is dead.~s~
+
+;0x01C323F9=~r~You abandoned Yusuf.
+0x01C323F9=~r~You abandoned Yusuf.
+
+;0x01D6C671=Pickup the ~b~Swift.
+0x01D6C671=Pickup the ~b~Swift.
+
+;0x0566A58F=Get back in the ~b~APC.
+0x0566A58F=Get back in the ~b~APC.
+
+;0x0B8BAC59=~s~Take out as many cops as you can until they back down.~s~
+0x0B8BAC59=~s~Take out as many cops as you can until they back down.~s~
+
+;0x0B964BBF=Lose the cops.
+0x0B964BBF=Lose the cops.
+
+;0x0C5F6AF4=~r~You Swift is stuck.
+0x0C5F6AF4=~r~You Swift is stuck.
+
+;0x0FD119E4=MISSION PASSED
+0x0FD119E4=MISSION PASSED
+
+;0x1273C3FE=~r~You abandoned the APC.~s~
+0x1273C3FE=~r~You abandoned the APC.~s~
+
+;0x1368C15F=Align Yusuf's chopper into ~y~position.
+0x1368C15F=Align Yusuf's chopper into ~y~position.
+
+;0x149CEBFD=Get back in the ~b~APC.
+0x149CEBFD=Get back in the ~b~APC.
+
+;0x16064C7F=~r~Yusuf died.
+0x16064C7F=~r~Yusuf died.
+
+;0x1C45E918=Lose the cops.
+0x1C45E918=Lose the cops.
+
+;0x1DAB1814=~s~Shoot the yellow bolts on the cables to release the tank.~s~
+0x1DAB1814=~s~Shoot the yellow bolts on the cables to release the tank.~s~
+
+;0x2427E8C2=~r~Yusuf's chopper was destroyed.
+0x2427E8C2=~r~Yusuf's chopper was destroyed.
+
+;0x2AFC750F=~r~You never answered Yusuf's call.~s~
+0x2AFC750F=~r~You never answered Yusuf's call.~s~
+
+;0x303DA242=Get to the ~b~APC.
+0x303DA242=Get to the ~b~APC.
+
+;0x38CA10AA=~r~There is too much of a police presence near the APC.~s~
+0x38CA10AA=~r~There is too much of a police presence near the APC.~s~
+
+;0x3ABC15EA=~r~Yusuf's car was destroyed.
+0x3ABC15EA=~r~Yusuf's car was destroyed.
+
+;0x410B9758=Get back in ~b~Yusuf's helicopter.
+0x410B9758=Get back in ~b~Yusuf's helicopter.
+
+;0x444869CF=Press LB to fire rockets.
+0x444869CF=Press LB to fire rockets.
+
+;0x457A67B2=~s~Press ~INPUT_VEH_ATTACK~ to fire the APC cannon.~s~
+0x457A67B2=~s~Press ~INPUT_VEH_ATTACK~ to fire the APC cannon.~s~
+
+;0x4EBA3DE6=~r~The APC was delivered.
+0x4EBA3DE6=~r~The APC was delivered.
+
+;0x50BA8169=Press ~PAD_B~ to jump onto the tank.
+0x50BA8169=Press ~PAD_B~ to jump onto the tank.
+
+;0x5B5DCBFC=Go to ~y~Star Junction.
+0x5B5DCBFC=Go to ~y~Star Junction.
+
+;0x5ECFDE11=~r~The APC was destroyed.
+0x5ECFDE11=~r~The APC was destroyed.
+
+;0x6540E997=~r~The Skylift has been destroyed.~s~
+0x6540E997=~r~The Skylift has been destroyed.~s~
+
+;0x78845246=Press Y to jump across to the tank.
+0x78845246=Press Y to jump across to the tank.
+
+;0x7AAC0E52=Don't leave ~b~Yusuf~s~ behind.
+0x7AAC0E52=Don't leave ~b~Yusuf~s~ behind.
+
+;0x7D074C1A=~r~The tank was destroyed.
+0x7D074C1A=~r~The tank was destroyed.
+
+;0x7DAB95E7=Get in ~b~Yusuf's car~s~.
+0x7DAB95E7=Get in ~b~Yusuf's car~s~.
+
+;0x8A73F625=Until the real tank is in game it is best to either swap to the in car view and shoot rockets or to get out and use the RPG.
+0x8A73F625=Until the real tank is in game it is best to either swap to the in car view and shoot rockets or to get out and use the RPG.
+
+;0x8B5AE8C1=~r~You abandoned the tank.
+0x8B5AE8C1=~r~You abandoned the tank.
+
+;0x8C7E338C=Get in ~b~Yusuf's chopper.
+0x8C7E338C=Get in ~b~Yusuf's chopper.
+
+;0x96E2C855=Fly near the ~r~APC.
+0x96E2C855=Fly near the ~r~APC.
+
+;0xA24A711E=The airport is overrun with police. The pickup location needs to be changed.
+0xA24A711E=The airport is overrun with police. The pickup location needs to be changed.
+
+;0xA2861717=~r~The tank is stuck.
+0xA2861717=~r~The tank is stuck.
+
+;0xAA48B490=Press ~INPUT_VEH_ATTACK~ to shoot the APC gun.
+0xAA48B490=Press ~INPUT_VEH_ATTACK~ to shoot the APC gun.
+
+;0xB0CEB3A8=~r~The transport was destroyed.
+0xB0CEB3A8=~r~The transport was destroyed.
+
+;0xB69D07C9=Shoot the cable to release the APC. Be careful, dropping from too high will destroy the APC.
+0xB69D07C9=Shoot the cable to release the APC. Be careful, dropping from too high will destroy the APC.
+
+;0xB7731B6F=The transport won't be able to escape with so many helicopters about.
+0xB7731B6F=The transport won't be able to escape with so many helicopters about.
+
+;0xBEAD12A1=Shoot the bolts on the APC to release it before it reaches the police station.
+0xBEAD12A1=Shoot the bolts on the APC to release it before it reaches the police station.
+
+;0xC5B5A5FA=Line up to be perpendicular with the APC.
+0xC5B5A5FA=Line up to be perpendicular with the APC.
+
+;0xC8C83204=~r~The Swift is stuck.~s~
+0xC8C83204=~r~The Swift is stuck.~s~
+
+;0xD5CA7D9F=~r~You abandoned the Swift.
+0xD5CA7D9F=~r~You abandoned the Swift.
+
+;0xDF7E5F70=~r~The APC is stuck.~s~
+0xDF7E5F70=~r~The APC is stuck.~s~
+
+;0xE23CDF08=Go with Yusuf to ~y~Westminster~s~ to pick up his Swift.
+0xE23CDF08=Go with Yusuf to ~y~Westminster~s~ to pick up his Swift.
+
+;0xE7CC6EB0=~r~The Skylift got too close to the police compound.~s~
+0xE7CC6EB0=~r~The Skylift got too close to the police compound.~s~
+
+;0xE7EEA213=~r~The Swift was destroyed.
+0xE7EEA213=~r~The Swift was destroyed.
+
+;0xEDC3FBFB=~r~You abandoned the Swift.
+0xEDC3FBFB=~r~You abandoned the Swift.
+
+;0xF0107AAF=Deliver the APC to the ~y~building site.
+0xF0107AAF=Deliver the APC to the ~y~building site.
+

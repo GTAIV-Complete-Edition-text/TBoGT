@@ -1,0 +1,31 @@
+﻿[WEZL239]
+;0x07820D09=Rotterdam Rocked
+0x07820D09=Rotterdam Rocked
+
+;0x1A4C1240=NOOSE shady on Details
+0x1A4C1240=NOOSE shady on Details
+
+;0x1DEC3298=Flowers Delivered to Mourn Loss of Manhood
+0x1DEC3298=Flowers Delivered to Mourn Loss of Manhood
+
+;0x2943D511=Explosions, dead Arabs, crashing helicopters. No, we're not extending our imperialist grip on the globe, we're at home witnessing an alleged public relations exercise for the National Office of Security Enforcement.
+0x2943D511=Explosions, dead Arabs, crashing helicopters. No, we're not extending our imperialist grip on the globe, we're at home witnessing an alleged public relations exercise for the National Office of Security Enforcement.
+
+;0x42F40871=Anyone who saw the chaos at the top of Rotterdam Tower earlier would have thought that the world was ending, not that a standard PR exercise was going on. The only information we're being given is that two Dubai residents, Ahmed Khaleel and Tahir Saaed were involved somehow. Is no one else suspicious of this horseshit we're being fed? Liberty City has clearly suffered a terrorist onslaught, and the liberals don't want you to know about it. The only questions we should be asking is who to got to war with and when.
+0x42F40871=Anyone who saw the chaos at the top of Rotterdam Tower earlier would have thought that the world was ending, not that a standard PR exercise was going on. The only information we're being given is that two Dubai residents, Ahmed Khaleel and Tahir Saaed were involved somehow. Is no one else suspicious of this horseshit we're being fed? Liberty City has clearly suffered a terrorist onslaught, and the liberals don't want you to know about it. The only questions we should be asking is who to got to war with and when.
+
+;0x5DBD1C62=Eugene White
+0x5DBD1C62=Eugene White
+
+;0xB0967010=Maybe we should all neuter ourselves right now. Flowerman? Really? The top movie for weeks? This spate of romantic comedies is ruining our manhood. The American man is literally dying from estrogen. And women are turning into self righteous shrews. This liberal elite Vinewood trash has us so confused as to our proper roles that American society is disintegrating in front of our very eyes. Our TV shows, our movies, our very society portray men as bumbling morons who are helpless unless a woman saves the day. Good luck ladies. We're leaving.
+0xB0967010=Maybe we should all neuter ourselves right now. Flowerman? Really? The top movie for weeks? This spate of romantic comedies is ruining our manhood. The American man is literally dying from estrogen. And women are turning into self righteous shrews. This liberal elite Vinewood trash has us so confused as to our proper roles that American society is disintegrating in front of our very eyes. Our TV shows, our movies, our very society portray men as bumbling morons who are helpless unless a woman saves the day. Good luck ladies. We're leaving.
+
+;0xC2FDC17B=Movie's Run at the Top a Nail in Coffin of Masculinity
+0xC2FDC17B=Movie's Run at the Top a Nail in Coffin of Masculinity
+
+;0xFC7FC112=Terror attack cover up?
+0xFC7FC112=Terror attack cover up?
+
+;0xFEC0C87F=Leslie Mitchell
+0xFEC0C87F=Leslie Mitchell
+

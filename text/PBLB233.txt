@@ -1,0 +1,13 @@
+﻿[PBLB233]
+;0x1E934DE3=How did we get here? The family dentist has become a creep. A drug dealer. A lecher. And despite most of us having dental insurance, each visit costs us a fortune. It came to a head recently with Simon Epstein, the so called Dirty Dentist, a sad case which sheds a light on a profession that needs to be regulated. Our children go to these creeps. Who knows what these guys are doing to my teen daughter while I'm in the waiting room thumbing through some idiotic right wing magazine? Epstein, it has been claimed, also used to masturbate his patients to relax them during root canals. It's sick, and the conservatives have deregulated our country to such an extent that this kind of thing goes on, unimpeded by the state.
+0x1E934DE3=How did we get here? The family dentist has become a creep. A drug dealer. A lecher. And despite most of us having dental insurance, each visit costs us a fortune. It came to a head recently with Simon Epstein, the so called Dirty Dentist, a sad case which sheds a light on a profession that needs to be regulated. Our children go to these creeps. Who knows what these guys are doing to my teen daughter while I'm in the waiting room thumbing through some idiotic right wing magazine? Epstein, it has been claimed, also used to masturbate his patients to relax them during root canals. It's sick, and the conservatives have deregulated our country to such an extent that this kind of thing goes on, unimpeded by the state.
+
+;0x4DE0BA68=Dirty Dentist
+0x4DE0BA68=Dirty Dentist
+
+;0xA653DD98=Dentists need more regulation
+0xA653DD98=Dentists need more regulation
+
+;0xF6D035F3=Candice Johnson
+0xF6D035F3=Candice Johnson
+

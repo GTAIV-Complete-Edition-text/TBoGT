@@ -1,0 +1,139 @@
+﻿[FRI2]
+;0x0084955B=~r~You abandoned Armando and Henrique.
+0x0084955B=~r~You abandoned Armando and Henrique.
+
+;0x061015A3=~r~You left the shipment unprotected.
+0x061015A3=~r~You left the shipment unprotected.
+
+;0x0C16D63B=Push forwards up the steps!
+0x0C16D63B=Push forwards up the steps!
+
+;0x1157B701=~r~The car was destroyed.
+0x1157B701=~r~The car was destroyed.
+
+;0x13262FCF=~r~The cops are going to bust up the deal.
+0x13262FCF=~r~The cops are going to bust up the deal.
+
+;0x147287A3=Go to the ~y~pier.
+0x147287A3=Go to the ~y~pier.
+
+;0x19437094=Return to top of the ~y~jetty.
+0x19437094=Return to top of the ~y~jetty.
+
+;0x1A1012D2=Escort the ~b~shipment ~s~back to the lockup.
+0x1A1012D2=Escort the ~b~shipment ~s~back to the lockup.
+
+;0x1C9C42BB=~r~You destroyed too much of the shipment.
+0x1C9C42BB=~r~You destroyed too much of the shipment.
+
+;0x223D2338=Watch over the loading of the shipment.
+0x223D2338=Watch over the loading of the shipment.
+
+;0x29E36818=~r~You abandoned Armando.
+0x29E36818=~r~You abandoned Armando.
+
+;0x2DE82D2E=~s~Get back in the ~b~car.~s~
+0x2DE82D2E=~s~Get back in the ~b~car.~s~
+
+;0x2FD53E5C=Gang Members are down on the lower part of the pier. ~n~Take ~r~them ~s~out.
+0x2FD53E5C=Gang Members are down on the lower part of the pier. ~n~Take ~r~them ~s~out.
+
+;0x35962939=Luis and I will head down to the pier.~n~ You stay up here Armando.
+0x35962939=Luis and I will head down to the pier.~n~ You stay up here Armando.
+
+;0x37FF4EBC=A rival gang is attempting to steal the shipment. ~n~Take ~r~them ~s~out.
+0x37FF4EBC=A rival gang is attempting to steal the shipment. ~n~Take ~r~them ~s~out.
+
+;0x4320444D=Check out the boats.
+0x4320444D=Check out the boats.
+
+;0x4FDA5EDD=Get back in the ~b~SUV.
+0x4FDA5EDD=Get back in the ~b~SUV.
+
+;0x64235C97=~r~You abandoned Henrique.
+0x64235C97=~r~You abandoned Henrique.
+
+;0x6A14686D=~r~You killed one of Armando and Henrique's helpers.
+0x6A14686D=~r~You killed one of Armando and Henrique's helpers.
+
+;0x70289E5D=These guys better hurry up and load the cars.
+0x70289E5D=These guys better hurry up and load the cars.
+
+;0x730B2EDA=Go back to the ~b~SUV.~s~
+0x730B2EDA=Go back to the ~b~SUV.~s~
+
+;0x73E07146=~r~You destroyed the boats.
+0x73E07146=~r~You destroyed the boats.
+
+;0x7E5A3AC0=Up Here, there are more of them.
+0x7E5A3AC0=Up Here, there are more of them.
+
+;0x867B4C22=You need a car with three or more seats.
+0x867B4C22=You need a car with three or more seats.
+
+;0x8F945E5C=You left ~b~Henrique~s~ behind. Go back and get him.
+0x8F945E5C=You left ~b~Henrique~s~ behind. Go back and get him.
+
+;0x94B8E89D=This shipment is ours you fuckers.
+0x94B8E89D=This shipment is ours you fuckers.
+
+;0x9A8DF327=You left ~b~Armando~s~ behind. Go back and get him.
+0x9A8DF327=You left ~b~Armando~s~ behind. Go back and get him.
+
+;0x9D14C3AA=~r~Armando and Henrique are dead.
+0x9D14C3AA=~r~Armando and Henrique are dead.
+
+;0xA2FF0529=Wait for your ~b~friends ~s~to get in.
+0xA2FF0529=Wait for your ~b~friends ~s~to get in.
+
+;0xA74C0CA3=Go back to the pier and protect the shipment from the ~r~gang.
+0xA74C0CA3=Go back to the pier and protect the shipment from the ~r~gang.
+
+;0xB068BF85=Guard the lower section of the ~y~pier.
+0xB068BF85=Guard the lower section of the ~y~pier.
+
+;0xB077A01A=You left ~b~Armando~s~ and ~b~Henrique~s~ behind.~n~Go back and get them.
+0xB077A01A=You left ~b~Armando~s~ and ~b~Henrique~s~ behind.~n~Go back and get them.
+
+;0xB511A82E=Follow ~b~Henrique ~s~down to the pier.
+0xB511A82E=Follow ~b~Henrique ~s~down to the pier.
+
+;0xC45C517B=Park in the ~y~garage.
+0xC45C517B=Park in the ~y~garage.
+
+;0xC745980F=~r~Henrique is dead.
+0xC745980F=~r~Henrique is dead.
+
+;0xD034DF94=Lose the cops.
+0xD034DF94=Lose the cops.
+
+;0xD4C2F248=Get in the ~b~car~s~ with Armando and Henrique.
+0xD4C2F248=Get in the ~b~car~s~ with Armando and Henrique.
+
+;0xD9873C92=~r~Armando is dead.
+0xD9873C92=~r~Armando is dead.
+
+;0xDDA07A6B=Hi.
+0xDDA07A6B=Hi.
+
+;0xE3D85134=~r~The shipment was lost.
+0xE3D85134=~r~The shipment was lost.
+
+;0xE77FADB2=You are losing the ~b~shipment.
+0xE77FADB2=You are losing the ~b~shipment.
+
+;0xE8CA90BF=Go back to the ~y~pier.
+0xE8CA90BF=Go back to the ~y~pier.
+
+;0xF55EC970=Get in the ~b~car.~s~
+0xF55EC970=Get in the ~b~car.~s~
+
+;0xF602F589=~r~One of the SUVs has been destroyed.
+0xF602F589=~r~One of the SUVs has been destroyed.
+
+;0xF9FD3324=Go back to ~b~Henrique.
+0xF9FD3324=Go back to ~b~Henrique.
+
+;0xFEC0BB8F=Shit! Luis! We are getting attacked.
+0xFEC0BB8F=Shit! Luis! We are getting attacked.
+

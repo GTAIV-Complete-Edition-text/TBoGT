@@ -1,0 +1,547 @@
+﻿[FAHBA]
+;0x000355B4=100
+0x000355B4=100
+
+;0x06A5C855=~z~Let's call it quits, L.
+0x06A5C855=~z~Let's call it quits, L.
+
+;0x070B11B0=E2FAH_CDA
+0x070B11B0=E2FAH_CDA
+
+;0x086BE558=~z~I want another drink?
+0x086BE558=~z~I want another drink?
+
+;0x0873F70A=~z~Man, I feel kind of sick.
+0x0873F70A=~z~Man, I feel kind of sick.
+
+;0x09023F2D=E2FAH_AVA
+0x09023F2D=E2FAH_AVA
+
+;0x094FB08C=~z~Tony's ruined you, man. You turned into some whitebread motherfucker.
+0x094FB08C=~z~Tony's ruined you, man. You turned into some whitebread motherfucker.
+
+;0x0C1C0A43=~z~I think I need another drink.
+0x0C1C0A43=~z~I think I need another drink.
+
+;0x0C9E9796=~z~Three Latino's on the floor, we was incredible.
+0x0C9E9796=~z~Three Latino's on the floor, we was incredible.
+
+;0x0E161B9B=200
+0x0E161B9B=200
+
+;0x0EF93940=~z~Drop us off, if you've had enough, bitch.
+0x0EF93940=~z~Drop us off, if you've had enough, bitch.
+
+;0x1057CD10=200
+0x1057CD10=200
+
+;0x108D5187=E2FAH_BAA
+0x108D5187=E2FAH_BAA
+
+;0x10BBFFA2=~z~That was fun but I've had enough of you fools.
+0x10BBFFA2=~z~That was fun but I've had enough of you fools.
+
+;0x10BF31AA=~z~See you later, L.
+0x10BF31AA=~z~See you later, L.
+
+;0x12A7AE18=~z~I'm exhausted.
+0x12A7AE18=~z~I'm exhausted.
+
+;0x15E8AA2A=~z~We tore that shit up!
+0x15E8AA2A=~z~We tore that shit up!
+
+;0x181B3461=~z~You know, for a fag, you're still fun, papa.
+0x181B3461=~z~You know, for a fag, you're still fun, papa.
+
+;0x1AA53878=100
+0x1AA53878=100
+
+;0x1C4B0E0A=100
+0x1C4B0E0A=100
+
+;0x1D3C3760=~z~Maybe we've all had enough now, L.
+0x1D3C3760=~z~Maybe we've all had enough now, L.
+
+;0x1D74B1F7=100
+0x1D74B1F7=100
+
+;0x21694639=~z~Not as good as you Moms makes it, but good nonetheless.
+0x21694639=~z~Not as good as you Moms makes it, but good nonetheless.
+
+;0x2262D4F1=~z~Bye, L, man.
+0x2262D4F1=~z~Bye, L, man.
+
+;0x23C5F274=E2FAH_AXA
+0x23C5F274=E2FAH_AXA
+
+;0x23E4F956=E2FAH_AZA
+0x23E4F956=E2FAH_AZA
+
+;0x24489170=~z~That was incredible.
+0x24489170=~z~That was incredible.
+
+;0x24FF890A=~z~I'm sober man, sober as shit.
+0x24FF890A=~z~I'm sober man, sober as shit.
+
+;0x26BDBE24=~z~You look drunk. Thank god I'm fine.
+0x26BDBE24=~z~You look drunk. Thank god I'm fine.
+
+;0x27141B53=~z~You gone over to the other side, L?
+0x27141B53=~z~You gone over to the other side, L?
+
+;0x2849AEFD=200
+0x2849AEFD=200
+
+;0x293CED8E=100
+0x293CED8E=100
+
+;0x297E4BF1=~z~Man you bitches are drunk.
+0x297E4BF1=~z~Man you bitches are drunk.
+
+;0x2C379378=~z~I think we all had enough now, L.
+0x2C379378=~z~I think we all had enough now, L.
+
+;0x2F4E43DE=~z~That champagne costs too much.
+0x2F4E43DE=~z~That champagne costs too much.
+
+;0x2F4E8224=~z~I'm still up for hanging out.
+0x2F4E8224=~z~I'm still up for hanging out.
+
+;0x311BCFDB=~z~I just love that shit.
+0x311BCFDB=~z~I just love that shit.
+
+;0x333E2CF4=200
+0x333E2CF4=200
+
+;0x35D6469B=100
+0x35D6469B=100
+
+;0x36B38405=200
+0x36B38405=200
+
+;0x37F817FE=~z~What's wrong? You missing the cock?
+0x37F817FE=~z~What's wrong? You missing the cock?
+
+;0x38CCEED6=200
+0x38CCEED6=200
+
+;0x3985158E=200
+0x3985158E=200
+
+;0x3AD17909=~z~That was decent.
+0x3AD17909=~z~That was decent.
+
+;0x3BD855DA=~z~I'm tired now.
+0x3BD855DA=~z~I'm tired now.
+
+;0x3CF3D020=E2FAH_CCA
+0x3CF3D020=E2FAH_CCA
+
+;0x3E65EED6=~z~I feel kind of sick.
+0x3E65EED6=~z~I feel kind of sick.
+
+;0x3EE0E3E3=~z~I'm pretty full.
+0x3EE0E3E3=~z~I'm pretty full.
+
+;0x3F643DD7=~z~That was great...but I'm not drunk.
+0x3F643DD7=~z~That was great...but I'm not drunk.
+
+;0x4077152D=~z~See you soon, bro.
+0x4077152D=~z~See you soon, bro.
+
+;0x44AC6A1E=200
+0x44AC6A1E=200
+
+;0x44DAA3BC=~z~If you got better things to be doing, drop us off, homie.
+0x44DAA3BC=~z~If you got better things to be doing, drop us off, homie.
+
+;0x4580AE88=~z~Yeah. I'm still up for more.
+0x4580AE88=~z~Yeah. I'm still up for more.
+
+;0x46082EA1=100
+0x46082EA1=100
+
+;0x46CE96E3=E2FAH_BLA
+0x46CE96E3=E2FAH_BLA
+
+;0x46F3FFB5=100
+0x46F3FFB5=100
+
+;0x4B2BD926=~z~Man, that was good fun.
+0x4B2BD926=~z~Man, that was good fun.
+
+;0x4D089E3B=~z~That was fun, L, let's hang soon.
+0x4D089E3B=~z~That was fun, L, let's hang soon.
+
+;0x4EC0794A=~z~Yeah, I'm starting to think about throwing up.
+0x4EC0794A=~z~Yeah, I'm starting to think about throwing up.
+
+;0x52013841=~z~Good hanging, L.
+0x52013841=~z~Good hanging, L.
+
+;0x520BC79E=~z~Come on, let's hang some more.
+0x520BC79E=~z~Come on, let's hang some more.
+
+;0x54E676F7=~z~You spending too much time with Tony?
+0x54E676F7=~z~You spending too much time with Tony?
+
+;0x5710B08A=E2FAH_CEA
+0x5710B08A=E2FAH_CEA
+
+;0x58DB1024=100
+0x58DB1024=100
+
+;0x5BD26BB4=100
+0x5BD26BB4=100
+
+;0x5C8C84D2=E2FAH_CAA
+0x5C8C84D2=E2FAH_CAA
+
+;0x5CF174EB=~z~I think we all beat now, L.
+0x5CF174EB=~z~I think we all beat now, L.
+
+;0x5D6E7DAB=~z~I am not drunk. I just look drunk and am wobbling a bit.
+0x5D6E7DAB=~z~I am not drunk. I just look drunk and am wobbling a bit.
+
+;0x5EB39F6E=E2FAH_BUA
+0x5EB39F6E=E2FAH_BUA
+
+;0x5ECDAB3E=~z~That stuff tastes so weird, I love it.
+0x5ECDAB3E=~z~That stuff tastes so weird, I love it.
+
+;0x60D45CF5=~z~If you've got to split, drop us off at home.
+0x60D45CF5=~z~If you've got to split, drop us off at home.
+
+;0x61399734=~z~We do this shit again.
+0x61399734=~z~We do this shit again.
+
+;0x6180C280=200
+0x6180C280=200
+
+;0x61F90DA5=~z~You were doing okay, man.
+0x61F90DA5=~z~You were doing okay, man.
+
+;0x626B2D85=E2FAH_BWA
+0x626B2D85=E2FAH_BWA
+
+;0x63AC1CCF=~z~That was fun, ladies.
+0x63AC1CCF=~z~That was fun, ladies.
+
+;0x6475EC72=~z~I'm still having fun.
+0x6475EC72=~z~I'm still having fun.
+
+;0x6485935F=100
+0x6485935F=100
+
+;0x648D969F=~z~I better split.
+0x648D969F=~z~I better split.
+
+;0x66223C9A=100
+0x66223C9A=100
+
+;0x67308B33=E2FAH_BBA
+0x67308B33=E2FAH_BBA
+
+;0x698346A0=E2FAH_CKA
+0x698346A0=E2FAH_CKA
+
+;0x69CD57C4=~z~That was good times, boys. See you soon, L.
+0x69CD57C4=~z~That was good times, boys. See you soon, L.
+
+;0x69DDDB2B=E2FAH_BHA
+0x69DDDB2B=E2FAH_BHA
+
+;0x6A9F708B=~z~Drop us back home if you're bored. Captain Downtown.
+0x6A9F708B=~z~Drop us back home if you're bored. Captain Downtown.
+
+;0x6AAA0163=E2FAH_AWA
+0x6AAA0163=E2FAH_AWA
+
+;0x6D9F1372=~z~I'm not drunk, the world's gone weird.
+0x6D9F1372=~z~I'm not drunk, the world's gone weird.
+
+;0x6DFED3B0=~z~L man, that was some gay shit.
+0x6DFED3B0=~z~L man, that was some gay shit.
+
+;0x7146B804=~z~Good hanging with you idiots.
+0x7146B804=~z~Good hanging with you idiots.
+
+;0x72040639=200
+0x72040639=200
+
+;0x72119CBE=~z~Shit, that was fun.
+0x72119CBE=~z~Shit, that was fun.
+
+;0x72E3B00C=E2FAH_BZA
+0x72E3B00C=E2FAH_BZA
+
+;0x763D03C2=E2FAH_BRA
+0x763D03C2=E2FAH_BRA
+
+;0x76730120=~z~See you soon, L.
+0x76730120=~z~See you soon, L.
+
+;0x77681730=100
+0x77681730=100
+
+;0x77DB4DEC=E2FAH_BFA
+0x77DB4DEC=E2FAH_BFA
+
+;0x786A85E9=E2FAH_BPA
+0x786A85E9=E2FAH_BPA
+
+;0x7A249833=E2FAH_BTA
+0x7A249833=E2FAH_BTA
+
+;0x7A458772=E2FAH_CBA
+0x7A458772=E2FAH_CBA
+
+;0x7B327A8E=~z~Let's hang again, soon boys.
+0x7B327A8E=~z~Let's hang again, soon boys.
+
+;0x7FADB78F=~z~That was fun, but I need another drink.
+0x7FADB78F=~z~That was fun, but I need another drink.
+
+;0x80B159E0=E2FAH_BGA
+0x80B159E0=E2FAH_BGA
+
+;0x83B46723=~z~I'm up for more partying.
+0x83B46723=~z~I'm up for more partying.
+
+;0x83F331B5=E2FAH_AYA
+0x83F331B5=E2FAH_AYA
+
+;0x8633FD78=~z~That was fun, I love you guys.
+0x8633FD78=~z~That was fun, I love you guys.
+
+;0x8828C7E7=E2FAH_BCA
+0x8828C7E7=E2FAH_BCA
+
+;0x88C20298=~z~Good hanging with you fuckers.
+0x88C20298=~z~Good hanging with you fuckers.
+
+;0x8AF69C3C=E2FAH_BIA
+0x8AF69C3C=E2FAH_BIA
+
+;0x8D7797F5=E2FAH_CHA
+0x8D7797F5=E2FAH_CHA
+
+;0x8E02717B=~z~For a pair of fools, you're still fun.
+0x8E02717B=~z~For a pair of fools, you're still fun.
+
+;0x8E3E2EF0=E2FAH_BNA
+0x8E3E2EF0=E2FAH_BNA
+
+;0x9144832B=100
+0x9144832B=100
+
+;0x91ED0394=~z~I'm up for partying some more.
+0x91ED0394=~z~I'm up for partying some more.
+
+;0x92380782=E2FAH_BVA
+0x92380782=E2FAH_BVA
+
+;0x92DFFA80=~z~Good hanging with you two.
+0x92DFFA80=~z~Good hanging with you two.
+
+;0x92E89692=100
+0x92E89692=100
+
+;0x93FC757C=~z~I'm too drunk for this, better get out of here.
+0x93FC757C=~z~I'm too drunk for this, better get out of here.
+
+;0x942A41EE=~z~Drop us back home if you're bored, L.
+0x942A41EE=~z~Drop us back home if you're bored, L.
+
+;0x94864CF7=200
+0x94864CF7=200
+
+;0x95A3BF37=E2FAH_BQA
+0x95A3BF37=E2FAH_BQA
+
+;0x9629F525=~z~That'll soak up some of that drink.
+0x9629F525=~z~That'll soak up some of that drink.
+
+;0x97F3F5A5=200
+0x97F3F5A5=200
+
+;0x9CEEAFAA=E2FAH_CIA
+0x9CEEAFAA=E2FAH_CIA
+
+;0x9D2CB565=E2FAH_BSA
+0x9D2CB565=E2FAH_BSA
+
+;0xA5045E42=~z~Later on, L.
+0xA5045E42=~z~Later on, L.
+
+;0xA885B64F=~z~Man, for some gay shit, that was fun.
+0xA885B64F=~z~Man, for some gay shit, that was fun.
+
+;0xACDD2AB6=200
+0xACDD2AB6=200
+
+;0xADBCACDE=E2FAH_BJA
+0xADBCACDE=E2FAH_BJA
+
+;0xB28390B6=~z~That was fun, man...but I need a drink.
+0xB28390B6=~z~That was fun, man...but I need a drink.
+
+;0xB34F2F55=200
+0xB34F2F55=200
+
+;0xB461B12B=E2FAH_BXA
+0xB461B12B=E2FAH_BXA
+
+;0xB7B436EC=~z~That was fun.
+0xB7B436EC=~z~That was fun.
+
+;0xB8D84722=~z~It's all good, ladies.
+0xB8D84722=~z~It's all good, ladies.
+
+;0xB943AD92=~z~That was fun, but I think we should quit while we're ahead.
+0xB943AD92=~z~That was fun, but I think we should quit while we're ahead.
+
+;0xBC0F80C7=E2FAH_BMA
+0xBC0F80C7=E2FAH_BMA
+
+;0xBC733C10=100
+0xBC733C10=100
+
+;0xBD540372=~z~At least I'm not drunk.
+0xBD540372=~z~At least I'm not drunk.
+
+;0xBF69CA20=100
+0xBF69CA20=100
+
+;0xC0465D86=~z~That was fun, L...guess you ain't turned queer. See you soon, man.
+0xC0465D86=~z~That was fun, L...guess you ain't turned queer. See you soon, man.
+
+;0xC0CD2EEA=100
+0xC0CD2EEA=100
+
+;0xC3ABF28C=100
+0xC3ABF28C=100
+
+;0xC4DBF9FC=E2FAH_BEA
+0xC4DBF9FC=E2FAH_BEA
+
+;0xC56BD25B=~z~Mine was kind of skanky.
+0xC56BD25B=~z~Mine was kind of skanky.
+
+;0xC59FE96B=~z~I've had enough of you fools.
+0xC59FE96B=~z~I've had enough of you fools.
+
+;0xC5A754CA=E2FAH_BYA
+0xC5A754CA=E2FAH_BYA
+
+;0xC5D3941E=E2FAH_BOA
+0xC5D3941E=E2FAH_BOA
+
+;0xC68EDF5A=~z~Nothing like rat meat to really fill you up.
+0xC68EDF5A=~z~Nothing like rat meat to really fill you up.
+
+;0xC91089D2=~z~Why you quit, L? Not enough dudes?
+0xC91089D2=~z~Why you quit, L? Not enough dudes?
+
+;0xC94CF8F2=E2FAH_BDA
+0xC94CF8F2=E2FAH_BDA
+
+;0xCBE55457=~z~Yeah, white bread motherfuckers, that was shit.
+0xCBE55457=~z~Yeah, white bread motherfuckers, that was shit.
+
+;0xCBF27408=010
+0xCBF27408=010
+
+;0xCDF116A7=E2FAH_CFA
+0xCDF116A7=E2FAH_CFA
+
+;0xCE20F93B=~z~Good hanign with you, homie.
+0xCE20F93B=~z~Good hanign with you, homie.
+
+;0xCFDD6970=~z~Why you quit? You got some moves, gay ones, but moves.
+0xCFDD6970=~z~Why you quit? You got some moves, gay ones, but moves.
+
+;0xD3E5C727=200
+0xD3E5C727=200
+
+;0xD45A06DF=~z~Man, I am beat.
+0xD45A06DF=~z~Man, I am beat.
+
+;0xD4B47BA5=~z~I feel shit already.
+0xD4B47BA5=~z~I feel shit already.
+
+;0xD54FA1CB=E2FAH_CJA
+0xD54FA1CB=E2FAH_CJA
+
+;0xD8439078=~z~Man, she was in love with me,
+0xD8439078=~z~Man, she was in love with me,
+
+;0xD86C4EF8=200
+0xD86C4EF8=200
+
+;0xD86D4EC8=~z~See, it's different when you ain't dancing with gays, L.
+0xD86D4EC8=~z~See, it's different when you ain't dancing with gays, L.
+
+;0xDFDDF855=~z~I'm too drunk to know if my girl was even pretty.
+0xDFDDF855=~z~I'm too drunk to know if my girl was even pretty.
+
+;0xE3053F00=~z~That was pretty fun.
+0xE3053F00=~z~That was pretty fun.
+
+;0xE4327413=~z~Man, I need a drink.
+0xE4327413=~z~Man, I need a drink.
+
+;0xE43EF08C=100
+0xE43EF08C=100
+
+;0xE56E0E62=200
+0xE56E0E62=200
+
+;0xE5FA689A=200
+0xE5FA689A=200
+
+;0xE74A2A5F=~z~Me too.
+0xE74A2A5F=~z~Me too.
+
+;0xE88341B0=~z~You bitches are drunk.
+0xE88341B0=~z~You bitches are drunk.
+
+;0xE8A1F460=010
+0xE8A1F460=010
+
+;0xEA28D276=E2FAH_CGA
+0xEA28D276=E2FAH_CGA
+
+;0xEA4B3487=~z~They always fall in love with me.
+0xEA4B3487=~z~They always fall in love with me.
+
+;0xEAD1528B=~z~I think it's time to quit, L.
+0xEAD1528B=~z~I think it's time to quit, L.
+
+;0xEC5F6A9D=~z~Yeah, that was fucking great.
+0xEC5F6A9D=~z~Yeah, that was fucking great.
+
+;0xED5157EF=200
+0xED5157EF=200
+
+;0xEDC10385=~z~You got to run off to Tony?
+0xEDC10385=~z~You got to run off to Tony?
+
+;0xF4D104F0=~z~If you're late for a session of sucking cock, just drop us off.
+0xF4D104F0=~z~If you're late for a session of sucking cock, just drop us off.
+
+;0xF63D40FB=~z~Why do they always smell of peach?
+0xF63D40FB=~z~Why do they always smell of peach?
+
+;0xFAC78769=~z~Fuck, I am drunk as shit.
+0xFAC78769=~z~Fuck, I am drunk as shit.
+
+;0xFB4DD213=E2FAH_BKA
+0xFB4DD213=E2FAH_BKA
+
+;0xFD66F605=200
+0xFD66F605=200
+
+;0xFDB337F2=~z~Two left feet.
+0xFDB337F2=~z~Two left feet.
+

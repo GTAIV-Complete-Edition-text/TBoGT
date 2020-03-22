@@ -1,0 +1,58 @@
+﻿[EML18]
+;0x16FA30DD=Contact FriendsWithBenefits Healthcare today.
+0x16FA30DD=Contact FriendsWithBenefits Healthcare today.
+
+;0x241DCB24=Contact FriendsWithBenefits Healthcare today.
+0x241DCB24=Contact FriendsWithBenefits Healthcare today.
+
+;0x281B1857=Now's the time!
+0x281B1857=Now's the time!
+
+;0x364B6F7F=Contact FriendsWithBenefits Healthcare today.
+0x364B6F7F=Contact FriendsWithBenefits Healthcare today.
+
+;0x59D6D19C=President Lawton might not want you to have access to affordable healthcare, but we do! PPOs? HMOs? Deductibles? Why is it all so expensive and complicated? We don't understand any of it and, if you're still reading this email, you certainly don't. We believe in making health insurance simple.
+0x59D6D19C=President Lawton might not want you to have access to affordable healthcare, but we do! PPOs? HMOs? Deductibles? Why is it all so expensive and complicated? We don't understand any of it and, if you're still reading this email, you certainly don't. We believe in making health insurance simple.
+
+;0x61AE8B81=Now's the time!
+0x61AE8B81=Now's the time!
+
+;0x68909951=Now's the time!
+0x68909951=Now's the time!
+
+;0x6D655DB2=Contact FriendsWithBenefits Healthcare today.
+0x6D655DB2=Contact FriendsWithBenefits Healthcare today.
+
+;0x6EBD6062=Contact FriendsWithBenefits Healthcare today.
+0x6EBD6062=Contact FriendsWithBenefits Healthcare today.
+
+;0x72DC2DDC=Now's the time!
+0x72DC2DDC=Now's the time!
+
+;0x84AC517C=Now's the time!
+0x84AC517C=Now's the time!
+
+;0x962EF481=Now's the time!
+0x962EF481=Now's the time!
+
+;0xB3A1052F=For one flat fee of just $10,000, our insurance plan gives you and your family access to comprehensive healthcare for life. That's right, for LIFE. No catches. No small print. No medical exams. Are you old, fat, illegal or terminally ill? Have other plans turned you down?
+0xB3A1052F=For one flat fee of just $10,000, our insurance plan gives you and your family access to comprehensive healthcare for life. That's right, for LIFE. No catches. No small print. No medical exams. Are you old, fat, illegal or terminally ill? Have other plans turned you down?
+
+;0xC6C3906D=Contact FriendsWithBenefits Healthcare today.
+0xC6C3906D=Contact FriendsWithBenefits Healthcare today.
+
+;0xCF0A6637=Now's the time!
+0xCF0A6637=Now's the time!
+
+;0xD76676FB=Now's the time!
+0xD76676FB=Now's the time!
+
+;0xD8D63492=Contact FriendsWithBenefits Healthcare today.
+0xD8D63492=Contact FriendsWithBenefits Healthcare today.
+
+;0xE8506E8D=Don't worry - we approve everybody, with open arms. We don't believe in discriminating against our customers. Do not miss this opportunity to invest in your future. Act now.
+0xE8506E8D=Don't worry - we approve everybody, with open arms. We don't believe in discriminating against our customers. Do not miss this opportunity to invest in your future. Act now.
+
+;0xE8C8547A=Contact FriendsWithBenefits Healthcare today.
+0xE8C8547A=Contact FriendsWithBenefits Healthcare today.
+

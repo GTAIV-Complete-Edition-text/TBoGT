@@ -1,0 +1,88 @@
+﻿[TONY10]
+;0x0161796B=Go back to ~y~Pier 45.
+0x0161796B=Go back to ~y~Pier 45.
+
+;0x01C5FFE0=~r~You went too far away from the meet.
+0x01C5FFE0=~r~You went too far away from the meet.
+
+;0x064688E1=~r~You beached the boat.
+0x064688E1=~r~You beached the boat.
+
+;0x0AF18C8F=~r~You hurt Tony.
+0x0AF18C8F=~r~You hurt Tony.
+
+;0x0D8076A9=~r~Tony is dead.
+0x0D8076A9=~r~Tony is dead.
+
+;0x174D0A4A=~r~Gracie is dead.
+0x174D0A4A=~r~Gracie is dead.
+
+;0x1C0DB46F=~s~Get in ~b~Tony's car.
+0x1C0DB46F=~s~Get in ~b~Tony's car.
+
+;0x2A42CB31=You left ~b~Gracie~s~ and ~b~Tony~s~ behind.
+0x2A42CB31=You left ~b~Gracie~s~ and ~b~Tony~s~ behind.
+
+;0x2D433636=~r~The boat was wrecked.
+0x2D433636=~r~The boat was wrecked.
+
+;0x38916D76=~r~You destroyed Tony's car.
+0x38916D76=~r~You destroyed Tony's car.
+
+;0x3D0E7788=~r~The boat got stuck.
+0x3D0E7788=~r~The boat got stuck.
+
+;0x3F5CDA69=~r~Gracie was injured.
+0x3F5CDA69=~r~Gracie was injured.
+
+;0x47670C39=Get back on the ~b~boat.
+0x47670C39=Get back on the ~b~boat.
+
+;0x5657AA1A=Shake the gang member off the back of the boat.
+0x5657AA1A=Shake the gang member off the back of the boat.
+
+;0x63CBC502=~r~Tony's car was wrecked.
+0x63CBC502=~r~Tony's car was wrecked.
+
+;0x6446243B=Lose the cops.
+0x6446243B=Lose the cops.
+
+;0x71A160AD=You've left ~b~Tony ~s~behind.
+0x71A160AD=You've left ~b~Tony ~s~behind.
+
+;0x7A6A5083=~r~You put Gracie and Tony at risk.
+0x7A6A5083=~r~You put Gracie and Tony at risk.
+
+;0x91B21A0E=Get back in the ~b~boat.
+0x91B21A0E=Get back in the ~b~boat.
+
+;0x92157FD9=~r~The deal is off.
+0x92157FD9=~r~The deal is off.
+
+;0x94DC2062=Go to ~y~Pier 45.
+0x94DC2062=Go to ~y~Pier 45.
+
+;0xABA64DF6=Go to the ~y~Charge Island Sewage Works.
+0xABA64DF6=Go to the ~y~Charge Island Sewage Works.
+
+;0xCEED1483=~r~You abandoned Tony.
+0xCEED1483=~r~You abandoned Tony.
+
+;0xDDB9B21C=You've left ~b~Tony~s~ behind.
+0xDDB9B21C=You've left ~b~Tony~s~ behind.
+
+;0xE0C31D2F=~r~You abandoned Gracie.
+0xE0C31D2F=~r~You abandoned Gracie.
+
+;0xEB0BD26C=~r~You abandonded Tony and Gracie.
+0xEB0BD26C=~r~You abandonded Tony and Gracie.
+
+;0xF1D4BF52=~r~You hurt Gracie.
+0xF1D4BF52=~r~You hurt Gracie.
+
+;0xF477DF98=You left ~b~Gracie~s~ behind.
+0xF477DF98=You left ~b~Gracie~s~ behind.
+
+;0xF72749F7=~r~Tony was injured.
+0xF72749F7=~r~Tony was injured.
+

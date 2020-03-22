@@ -1,0 +1,64 @@
+﻿[YUSUF4]
+;0x014D51DA=~r~Yusuf's car was wrecked.
+0x014D51DA=~r~Yusuf's car was wrecked.
+
+;0x048AD849=~r~You took too long to disconnect the front carriage.
+0x048AD849=~r~You took too long to disconnect the front carriage.
+
+;0x0EA2E098=~s~Press ~INPUT_DUCK~ to duck under overhead hazards.
+0x0EA2E098=~s~Press ~INPUT_DUCK~ to duck under overhead hazards.
+
+;0x1248F3C5=~r~You failed to jump onto the train.
+0x1248F3C5=~r~You failed to jump onto the train.
+
+;0x1559E071=~s~Return to ~b~Yusuf's car.
+0x1559E071=~s~Return to ~b~Yusuf's car.
+
+;0x20303417=~s~Jump now.
+0x20303417=~s~Jump now.
+
+;0x292440A4=~s~Press ~PAD_LSTICK_NONE~ to duck under overhead hazards.
+0x292440A4=~s~Press ~PAD_LSTICK_NONE~ to duck under overhead hazards.
+
+;0x69560FC4=~s~Get into ~b~Yusuf's car.
+0x69560FC4=~s~Get into ~b~Yusuf's car.
+
+;0x7EFA2824=~s~Wait for the ~b~train ~s~and jump onboard.
+0x7EFA2824=~s~Wait for the ~b~train ~s~and jump onboard.
+
+;0x80180904=~s~You have left ~b~Yusuf ~s~behind.
+0x80180904=~s~You have left ~b~Yusuf ~s~behind.
+
+;0x84F356B4=~s~Yusuf is getting close, disconnect the front carriage now.
+0x84F356B4=~s~Yusuf is getting close, disconnect the front carriage now.
+
+;0x89B3B537=~s~Keep moving towards the ~b~front carriage.
+0x89B3B537=~s~Keep moving towards the ~b~front carriage.
+
+;0xAFC049D1=~s~Yusuf is on his way, survive until his chopper arrives.
+0xAFC049D1=~s~Yusuf is on his way, survive until his chopper arrives.
+
+;0xB3FF230C=~s~You are running out of time, quickly get to the ~b~front carriage.
+0xB3FF230C=~s~You are running out of time, quickly get to the ~b~front carriage.
+
+;0xB4F8686E=~s~Fight your way along the train and disconnect the ~b~front carriage.
+0xB4F8686E=~s~Fight your way along the train and disconnect the ~b~front carriage.
+
+;0xBA10EDD4=~s~Get to the ~y~Algonquin Bridge.
+0xBA10EDD4=~s~Get to the ~y~Algonquin Bridge.
+
+;0xDCB8733B=~s~Press ~PAD_LSTICK_NONE~ to duck under the chopper.
+0xDCB8733B=~s~Press ~PAD_LSTICK_NONE~ to duck under the chopper.
+
+;0xE8359F9F=~r~You abandoned Yusuf.
+0xE8359F9F=~r~You abandoned Yusuf.
+
+;0xF3E319BA=~s~Press ~INPUT_DUCK~ to duck under the chopper.
+0xF3E319BA=~s~Press ~INPUT_DUCK~ to duck under the chopper.
+
+;0xF5A638B9=~s~Get into position ~y~above the tracks.
+0xF5A638B9=~s~Get into position ~y~above the tracks.
+
+;0xF6673C02=~r~Yusuf died.
+0xF6673C02=~r~Yusuf died.
+

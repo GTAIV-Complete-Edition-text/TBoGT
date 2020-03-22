@@ -1,0 +1,784 @@
+﻿[GIRL2AU]
+;0x00927812=GIRL2_FH
+0x00927812=GIRL2_FH
+
+;0x01B573F7=~z~Sorry, Leslie. Yeah, I'm great. Marvelous.
+0x01B573F7=~z~Sorry, Leslie. Yeah, I'm great. Marvelous.
+
+;0x024E74D1=~z~You mean Tony?
+0x024E74D1=~z~You mean Tony?
+
+;0x03808C64=010100100010100100100100
+0x03808C64=010100100010100100100100
+
+;0x038F7984=GIRL2_DA
+0x038F7984=GIRL2_DA
+
+;0x0454B701=GIRL2_EF
+0x0454B701=GIRL2_EF
+
+;0x0470A46F=GIRL2_FC
+0x0470A46F=GIRL2_FC
+
+;0x04B6876C=~z~Oh, shit, shit, shit, I am royally cunted this time.
+0x04B6876C=~z~Oh, shit, shit, shit, I am royally cunted this time.
+
+;0x05467E86=~z~Oh sugar, that's sweet, but a girl knows.
+0x05467E86=~z~Oh sugar, that's sweet, but a girl knows.
+
+;0x0683CD21=010100100
+0x0683CD21=010100100
+
+;0x077DE483=~z~The new American dream. Perfect, sweetie. Just what I want.
+0x077DE483=~z~The new American dream. Perfect, sweetie. Just what I want.
+
+;0x0798CF04=~z~He must be at Squid Row - that budget seafood place.
+0x0798CF04=~z~He must be at Squid Row - that budget seafood place.
+
+;0x0A2E05B4=~z~What's wrong?
+0x0A2E05B4=~z~What's wrong?
+
+;0x0B59A70F=~z~Please, sweetie. Let's just get this tape back. Okay?
+0x0B59A70F=~z~Please, sweetie. Let's just get this tape back. Okay?
+
+;0x0B7D8F7B=100010190010100100
+0x0B7D8F7B=100010190010100100
+
+;0x0BCD87CB=~z~I was actually just about to call you, when my phone got stolen.
+0x0BCD87CB=~z~I was actually just about to call you, when my phone got stolen.
+
+;0x0C3CA76B=GIRL2_IE2
+0x0C3CA76B=GIRL2_IE2
+
+;0x0CA72A0A=~z~All Chris's suits are made by that darling little man at Perseus - we should go there.
+0x0CA72A0A=~z~All Chris's suits are made by that darling little man at Perseus - we should go there.
+
+;0x0CEC9A63=GIRL2_IB2
+0x0CEC9A63=GIRL2_IB2
+
+;0x0D14B49F=~z~I had to put in a cuntload of work to avoid that prenup.
+0x0D14B49F=~z~I had to put in a cuntload of work to avoid that prenup.
+
+;0x0DC77309=GIRL2_OG
+0x0DC77309=GIRL2_OG
+
+;0x0DD8535F=GIRL2_HE2
+0x0DD8535F=GIRL2_HE2
+
+;0x0F0C2ED8=~z~What could that possibly mean?
+0x0F0C2ED8=~z~What could that possibly mean?
+
+;0x10D5F200=100
+0x10D5F200=100
+
+;0x115E2EC0=~z~What the fuck is wrong with you? Are you trying to sabotage me?
+0x115E2EC0=~z~What the fuck is wrong with you? Are you trying to sabotage me?
+
+;0x13308541=GIRL2_JJ2
+0x13308541=GIRL2_JJ2
+
+;0x13491722=~z~Yeah, it's Luis. How are you, Daisy? You never called me.
+0x13491722=~z~Yeah, it's Luis. How are you, Daisy? You never called me.
+
+;0x139346FC=GIRL2_FG1
+0x139346FC=GIRL2_FG1
+
+;0x15101C90=~z~and likes gladiators...
+0x15101C90=~z~and likes gladiators...
+
+;0x16BC1EB5=GIRL2_JL
+0x16BC1EB5=GIRL2_JL
+
+;0x17E44ABF=GIRL2_CE
+0x17E44ABF=GIRL2_CE
+
+;0x1801A15B=~z~My fiancé.
+0x1801A15B=~z~My fiancé.
+
+;0x1826EF17=GIRL2_KB
+0x1826EF17=GIRL2_KB
+
+;0x1963F29A=~z~He loves slumming it there for some reason.
+0x1963F29A=~z~He loves slumming it there for some reason.
+
+;0x199F439A=~z~fifty percent of my fiancé's past, present, and future earnings.
+0x199F439A=~z~fifty percent of my fiancé's past, present, and future earnings.
+
+;0x19D04460=~z~Okay, he's posted a bleet.
+0x19D04460=~z~Okay, he's posted a bleet.
+
+;0x1ADA1CC1=~z~they expect a girl to go the extra mile.
+0x1ADA1CC1=~z~they expect a girl to go the extra mile.
+
+;0x1B22F2A7=GIRL2_KA1
+0x1B22F2A7=GIRL2_KA1
+
+;0x1BA84354=~z~You didn't even try to get there.
+0x1BA84354=~z~You didn't even try to get there.
+
+;0x1CAC8EF4=~z~Jesus, I need some coke! Fuck! You're fucking Spanish. Get me some.
+0x1CAC8EF4=~z~Jesus, I need some coke! Fuck! You're fucking Spanish. Get me some.
+
+;0x1D1AAA65=~z~What?
+0x1D1AAA65=~z~What?
+
+;0x1E27AEBF=~z~The gay action star guy?
+0x1E27AEBF=~z~The gay action star guy?
+
+;0x1F246CF3=GIRL2_GE
+0x1F246CF3=GIRL2_GE
+
+;0x2066333C=~z~but... yes, he's probably a bender, so anyway, I got off with him,
+0x2066333C=~z~but... yes, he's probably a bender, so anyway, I got off with him,
+
+;0x21CA378D=~z~ Is your fiancé gay as well? Is that like a fetish for you?
+0x21CA378D=~z~ Is your fiancé gay as well? Is that like a fetish for you?
+
+;0x228487CC=GIRL2_RB
+0x228487CC=GIRL2_RB
+
+;0x2432EA26=100010100100010100100100010010
+0x2432EA26=100010100100010100100100010010
+
+;0x247EE373=GIRL2_FB2
+0x247EE373=GIRL2_FB2
+
+;0x24ECE9EC=GIRL2_CD
+0x24ECE9EC=GIRL2_CD
+
+;0x2502526E=~z~Who's gay now, bitches!
+0x2502526E=~z~Who's gay now, bitches!
+
+;0x262CD3AF=SFX_PAUSE_200
+0x262CD3AF=SFX_PAUSE_200
+
+;0x27FB6A5F=GIRL2_LC
+0x27FB6A5F=GIRL2_LC
+
+;0x288FB82C=~z~These celebs have been so jaded by little groupie tramps throwing themselves at them,
+0x288FB82C=~z~These celebs have been so jaded by little groupie tramps throwing themselves at them,
+
+;0x291012A3=GIRL2_RA1
+0x291012A3=GIRL2_RA1
+
+;0x2947EAA3=GIRL2_EB
+0x2947EAA3=GIRL2_EB
+
+;0x2B2D962D=~z~Apparently his fingers haven't smelled this fishy since he last "crossed over."
+0x2B2D962D=~z~Apparently his fingers haven't smelled this fishy since he last "crossed over."
+
+;0x2B4C5F0E=GIRL2_OA
+0x2B4C5F0E=GIRL2_OA
+
+;0x2B97E7EF=~z~What it say?
+0x2B97E7EF=~z~What it say?
+
+;0x2BB7220E=~z~If you're going to make threats like that you better at least get my name right.
+0x2BB7220E=~z~If you're going to make threats like that you better at least get my name right.
+
+;0x2BEF2D79=~z~I don't want to be famous for tossing off some sodomite.
+0x2BEF2D79=~z~I don't want to be famous for tossing off some sodomite.
+
+;0x2C3D3FD7=~z~He probably holds that back for his gentlemen callers.
+0x2C3D3FD7=~z~He probably holds that back for his gentlemen callers.
+
+;0x2C704910=~z~Don't worry about it.
+0x2C704910=~z~Don't worry about it.
+
+;0x2D085AB4=~z~I didn't just see you steal that, did I?
+0x2D085AB4=~z~I didn't just see you steal that, did I?
+
+;0x2D9BCC8F=~z~Shit. Shit. Shit. Shit.
+0x2D9BCC8F=~z~Shit. Shit. Shit. Shit.
+
+;0x2DF1E7E7=~z~Oye, I was doing you a favour. Chill the fuck out and be polite, movie star. Later.
+0x2DF1E7E7=~z~Oye, I was doing you a favour. Chill the fuck out and be polite, movie star. Later.
+
+;0x2E6DBAA1=GIRL2_OF
+0x2E6DBAA1=GIRL2_OF
+
+;0x30B77BE4=~z~Well, if you getting married for life then that don't matter.
+0x30B77BE4=~z~Well, if you getting married for life then that don't matter.
+
+;0x31D27024=GIRL2_JE1
+0x31D27024=GIRL2_JE1
+
+;0x32C7B2BE=~z~Okay. Come on. Let's see if we can talk some sense into him.
+0x32C7B2BE=~z~Okay. Come on. Let's see if we can talk some sense into him.
+
+;0x331CC7FB=GIRL2_PA2
+0x331CC7FB=GIRL2_PA2
+
+;0x33365A69=~z~Oh Bertie's had some flings, but he's pretty much seventy percent hetero.
+0x33365A69=~z~Oh Bertie's had some flings, but he's pretty much seventy percent hetero.
+
+;0x337DA853=100100010
+0x337DA853=100100010
+
+;0x34A1D1AE=GIRL2_QB2
+0x34A1D1AE=GIRL2_QB2
+
+;0x35945285=~z~But anyway dear, I don't care what he gets up to.
+0x35945285=~z~But anyway dear, I don't care what he gets up to.
+
+;0x364A3E09=~z~Too late, Dolly. You're gonna be famous. Check it!
+0x364A3E09=~z~Too late, Dolly. You're gonna be famous. Check it!
+
+;0x382CD766=~z~It's terribly boring and rather unattractive. It would be frightfully prudish to get all camera shy.
+0x382CD766=~z~It's terribly boring and rather unattractive. It would be frightfully prudish to get all camera shy.
+
+;0x38464D86=SFX_PAUSE_300
+0x38464D86=SFX_PAUSE_300
+
+;0x39C0D5C9=GIRL2_JK
+0x39C0D5C9=GIRL2_JK
+
+;0x3AE8FC07=GIRL2_OB
+0x3AE8FC07=GIRL2_OB
+
+;0x3B666824=~z~What?
+0x3B666824=~z~What?
+
+;0x3CFFB9D1=~z~Good for him.
+0x3CFFB9D1=~z~Good for him.
+
+;0x3DB09919=GIRL2_LB
+0x3DB09919=GIRL2_LB
+
+;0x3E763ECF=GIRL2_RA2
+0x3E763ECF=GIRL2_RA2
+
+;0x3E81ED33=~z~Oh, fucking cunt!
+0x3E81ED33=~z~Oh, fucking cunt!
+
+;0x40B82EBA=GIRL2_GD
+0x40B82EBA=GIRL2_GD
+
+;0x410B57B1=~z~Daddy's got a peerage. I was babe of the month, for god's sake.
+0x410B57B1=~z~Daddy's got a peerage. I was babe of the month, for god's sake.
+
+;0x415E2809=GIRL2_FG2
+0x415E2809=GIRL2_FG2
+
+;0x422B6CC4=100010100010100100
+0x422B6CC4=100010100010100100
+
+;0x43DDDD42=~z~There's some other girls would kill to be in your position. Think of it that way. Enjoy the ride.
+0x43DDDD42=~z~There's some other girls would kill to be in your position. Think of it that way. Enjoy the ride.
+
+;0x43EBFA47=~z~That wanker!
+0x43EBFA47=~z~That wanker!
+
+;0x498F858E=~z~And if my fiancé finds out, I'll be buggered.
+0x498F858E=~z~And if my fiancé finds out, I'll be buggered.
+
+;0x49AC13FB=~z~That's yours right?
+0x49AC13FB=~z~That's yours right?
+
+;0x4A5A6A4F=~z~Good for those tramps! I'm a respectable woman! I've had two hundred thousand dollars spent on my education.
+0x4A5A6A4F=~z~Good for those tramps! I'm a respectable woman! I've had two hundred thousand dollars spent on my education.
+
+;0x4B2B3DD4=GIRL2_CB
+0x4B2B3DD4=GIRL2_CB
+
+;0x4CD50B01=~z~Shit!
+0x4CD50B01=~z~Shit!
+
+;0x4EABF2DE=~z~Mummy and Daddy would be so proud.
+0x4EABF2DE=~z~Mummy and Daddy would be so proud.
+
+;0x50A1E115=~z~Another bleet. Oh bugger!
+0x50A1E115=~z~Another bleet. Oh bugger!
+
+;0x51D233F3=GIRL2_JA
+0x51D233F3=GIRL2_JA
+
+;0x520625AD=GIRL2_IC
+0x520625AD=GIRL2_IC
+
+;0x532B1685=~z~Well, I didn't know we were being filmed. It was only a fucking handjob.
+0x532B1685=~z~Well, I didn't know we were being filmed. It was only a fucking handjob.
+
+;0x533D8DAF=~z~Beware the celebrity with the camera - that always gonna end up online.
+0x533D8DAF=~z~Beware the celebrity with the camera - that always gonna end up online.
+
+;0x5345B496=GIRL2_JC
+0x5345B496=GIRL2_JC
+
+;0x53CF7913=~z~Chris, you cunting fuck, hand over the tape.
+0x53CF7913=~z~Chris, you cunting fuck, hand over the tape.
+
+;0x55C726D8=~z~This ain't gonna work out. If I was you, I'd just sit back and come to terms with your new fame.
+0x55C726D8=~z~This ain't gonna work out. If I was you, I'd just sit back and come to terms with your new fame.
+
+;0x56D24819=~z~I don't know. That's up to you.
+0x56D24819=~z~I don't know. That's up to you.
+
+;0x5AA05E02=~z~But if that's your world, I guess that's how you turn out.
+0x5AA05E02=~z~But if that's your world, I guess that's how you turn out.
+
+;0x5AA327B5=~z~ended up getting taped, and now he's going to leak it online to prove he's straight.
+0x5AA327B5=~z~ended up getting taped, and now he's going to leak it online to prove he's straight.
+
+;0x5AFAD5A3=GIRL2_CA
+0x5AFAD5A3=GIRL2_CA
+
+;0x5B184889=GIRL2_IE1
+0x5B184889=GIRL2_IE1
+
+;0x5B39B716=~z~You stole that for me? You're such a poppet.
+0x5B39B716=~z~You stole that for me? You're such a poppet.
+
+;0x5CE579E7=GIRL2_KA2
+0x5CE579E7=GIRL2_KA2
+
+;0x5DD78DA4=SFX_PAUSE_150
+0x5DD78DA4=SFX_PAUSE_150
+
+;0x5F1E88DC=~z~my friend Lawrence here is going to rip out his prostate.
+0x5F1E88DC=~z~my friend Lawrence here is going to rip out his prostate.
+
+;0x6085D6D2=GIRL2_ED
+0x6085D6D2=GIRL2_ED
+
+;0x614EB328=~z~How is darling Terry?
+0x614EB328=~z~How is darling Terry?
+
+;0x61E5B7CB=~z~As much as any privately educated Brit can be.
+0x61E5B7CB=~z~As much as any privately educated Brit can be.
+
+;0x625F8490=~z~Missed him, did we?
+0x625F8490=~z~Missed him, did we?
+
+;0x6367A764=GIRL2_PB
+0x6367A764=GIRL2_PB
+
+;0x637F2E32=~z~Babe, how you get yourself into this situation?
+0x637F2E32=~z~Babe, how you get yourself into this situation?
+
+;0x640B9E44=SFX_OVERLAP_2210
+0x640B9E44=SFX_OVERLAP_2210
+
+;0x6673E968=~z~but if you're speaking communal showers and anxious fumblings in the meadow, then perhaps.
+0x6673E968=~z~but if you're speaking communal showers and anxious fumblings in the meadow, then perhaps.
+
+;0x67572026=~z~You really just want a wank? We're not twelve.
+0x67572026=~z~You really just want a wank? We're not twelve.
+
+;0x68624C0E=~z~Fuck off.
+0x68624C0E=~z~Fuck off.
+
+;0x68CBE8E8=SFX_PAUSE_250
+0x68CBE8E8=SFX_PAUSE_250
+
+;0x698EED92=~z~Shit. My fiancé...what do you think? Should I call him?
+0x698EED92=~z~Shit. My fiancé...what do you think? Should I call him?
+
+;0x6D234CB5=~z~Fine.
+0x6D234CB5=~z~Fine.
+
+;0x70D63610=~z~Fucking cunting shit! He's posted another bleet.
+0x70D63610=~z~Fucking cunting shit! He's posted another bleet.
+
+;0x714EEB66=010100010100
+0x714EEB66=010100010100
+
+;0x71A554A1=~z~You said that.
+0x71A554A1=~z~You said that.
+
+;0x74502561=GIRL2_HA
+0x74502561=GIRL2_HA
+
+;0x7790C385=~z~Apparently he's premiering his new movie in Star Junction.
+0x7790C385=~z~Apparently he's premiering his new movie in Star Junction.
+
+;0x7899DAD2=100100010
+0x7899DAD2=100100010
+
+;0x79709E17=GIRL2_EE
+0x79709E17=GIRL2_EE
+
+;0x79A90ED4=GIRL2_EC
+0x79A90ED4=GIRL2_EC
+
+;0x7A1CEF83=~z~You're not the one who's about to be wanked over by teenagers and old men all over the world. Bugger!
+0x7A1CEF83=~z~You're not the one who's about to be wanked over by teenagers and old men all over the world. Bugger!
+
+;0x7BB412EF=GIRL2_LD
+0x7BB412EF=GIRL2_LD
+
+;0x7DC8E2C5=~z~It keeps it exciting for them. I was just happy he didn't get out the spreader bar.
+0x7DC8E2C5=~z~It keeps it exciting for them. I was just happy he didn't get out the spreader bar.
+
+;0x7E3DEEEA=~z~The classic blind beard...
+0x7E3DEEEA=~z~The classic blind beard...
+
+;0x7E5280AF=GIRL2_JD
+0x7E5280AF=GIRL2_JD
+
+;0x7F45E664=GIRL2_OE
+0x7F45E664=GIRL2_OE
+
+;0x80D2F2FC=~z~My fiancé. Fuck.
+0x80D2F2FC=~z~My fiancé. Fuck.
+
+;0x819B828E=100090200090100090316090316090100090200090090
+0x819B828E=100090200090100090316090316090100090200090090
+
+;0x81F5CE8A=~z~You've such a sensitive and angry little soul, haven't you, darling?
+0x81F5CE8A=~z~You've such a sensitive and angry little soul, haven't you, darling?
+
+;0x82AFD1FB=~z~Standard Vinewood shit then?
+0x82AFD1FB=~z~Standard Vinewood shit then?
+
+;0x84290633=~z~Oh cock.
+0x84290633=~z~Oh cock.
+
+;0x84A68342=100010100100090
+0x84A68342=100010100100090
+
+;0x85224525=GIRL2_HC
+0x85224525=GIRL2_HC
+
+;0x86A3372C=GIRL2_MD
+0x86A3372C=GIRL2_MD
+
+;0x8B6FABEF=SFX_OVERLAP_5020
+0x8B6FABEF=SFX_OVERLAP_5020
+
+;0x8C3934FA=~z~I wouldn't know about that, sweetheart,
+0x8C3934FA=~z~I wouldn't know about that, sweetheart,
+
+;0x8CB2EADD=~z~Oh my god! Is that my minge? It's ten feet high!
+0x8CB2EADD=~z~Oh my god! Is that my minge? It's ten feet high!
+
+;0x8D62EF29=~z~Star Junction it is then.
+0x8D62EF29=~z~Star Junction it is then.
+
+;0x8D8B43B0=GIRL2_MC
+0x8D8B43B0=GIRL2_MC
+
+;0x8D907876=GIRL2_QA
+0x8D907876=GIRL2_QA
+
+;0x8F901317=~z~He's getting his tailor to check his Johnson and you say this guy ain't gay?
+0x8F901317=~z~He's getting his tailor to check his Johnson and you say this guy ain't gay?
+
+;0x9049B001=GIRL2_JB
+0x9049B001=GIRL2_JB
+
+;0x915D6D59=~z~We're going to be polite. I'm going to ask him to give me the tape, and if he doesn't,
+0x915D6D59=~z~We're going to be polite. I'm going to ask him to give me the tape, and if he doesn't,
+
+;0x91847702=GIRL2_GI
+0x91847702=GIRL2_GI
+
+;0x92E7AE37=~z~Fuck! Fuck! Fuck! My life is over.
+0x92E7AE37=~z~Fuck! Fuck! Fuck! My life is over.
+
+;0x9391C6F4=~z~You don't know where he is?
+0x9391C6F4=~z~You don't know where he is?
+
+;0x94347504=~z~Pretty much. They've always been like that, haven't they?
+0x94347504=~z~Pretty much. They've always been like that, haven't they?
+
+;0x96A60766=~z~I thought you'd be grateful enough for my fucking you to at least help me now.
+0x96A60766=~z~I thought you'd be grateful enough for my fucking you to at least help me now.
+
+;0x96CE1EF6=~z~Listen...God, when you say it out loud and it sounds really awful. And I'm not a slapper.
+0x96CE1EF6=~z~Listen...God, when you say it out loud and it sounds really awful. And I'm not a slapper.
+
+;0x970B632B=GIRL2_GG
+0x970B632B=GIRL2_GG
+
+;0x97C8A01F=~z~No, I'm sorry.
+0x97C8A01F=~z~No, I'm sorry.
+
+;0x97D88B7C=~z~Show me that. His last bleet says he's taking a crap looking over Middle Park. We gonna head uptown.
+0x97D88B7C=~z~Show me that. His last bleet says he's taking a crap looking over Middle Park. We gonna head uptown.
+
+;0x9818C075=GIRL2_FE
+0x9818C075=GIRL2_FE
+
+;0x9863C01F=GIRL2_FD
+0x9863C01F=GIRL2_FD
+
+;0x98A0925F=GIRL2_JI
+0x98A0925F=GIRL2_JI
+
+;0x98E447F4=GIRL2_OC
+0x98E447F4=GIRL2_OC
+
+;0x9BB729E0=~z~Oh, please, please, darling. I need your help.
+0x9BB729E0=~z~Oh, please, please, darling. I need your help.
+
+;0x9C5FB958=GIRL2_JG
+0x9C5FB958=GIRL2_JG
+
+;0xA4F0A3FB=~z~You fucking ass!
+0xA4F0A3FB=~z~You fucking ass!
+
+;0xA502740D=GIRL2_GB
+0xA502740D=GIRL2_GB
+
+;0xA5C3EB58=~z~We need to find this twat. Fuck!
+0xA5C3EB58=~z~We need to find this twat. Fuck!
+
+;0xA62C98F4=~z~What movie's he premiering?
+0xA62C98F4=~z~What movie's he premiering?
+
+;0xA6D0BEFB=~z~A what?
+0xA6D0BEFB=~z~A what?
+
+;0xA6EE3A17=010100100010100
+0xA6EE3A17=010100100010100
+
+;0xA8A3CF28=~z~Bollocks.
+0xA8A3CF28=~z~Bollocks.
+
+;0xAA0BC80E=~z~so it wouldn't exactly be a first.
+0xAA0BC80E=~z~so it wouldn't exactly be a first.
+
+;0xAA1AC58F=~z~So, anyway, I was really drunk, but anyway, you know Chris Hunt?
+0xAA1AC58F=~z~So, anyway, I was really drunk, but anyway, you know Chris Hunt?
+
+;0xAA9645BA=~z~Listen, have you got any coke?
+0xAA9645BA=~z~Listen, have you got any coke?
+
+;0xAD108C45=GIRL2_GH
+0xAD108C45=GIRL2_GH
+
+;0xAEBB5F5B=GIRL2_JH
+0xAEBB5F5B=GIRL2_JH
+
+;0xB1415031=GIRL2_JJ1
+0xB1415031=GIRL2_JJ1
+
+;0xB1D8ED77=GIRL2_JF
+0xB1D8ED77=GIRL2_JF
+
+;0xB35A770E=~z~Alright.
+0xB35A770E=~z~Alright.
+
+;0xB49805B7=~z~Your private schools are like our prisons then?
+0xB49805B7=~z~Your private schools are like our prisons then?
+
+;0xB506513F=~z~I know you've got the best intentions and all that, but please don't lecture me.
+0xB506513F=~z~I know you've got the best intentions and all that, but please don't lecture me.
+
+;0xB5670545=~z~We've met enough of our parent's mistresses, and fourth wives,
+0xB5670545=~z~We've met enough of our parent's mistresses, and fourth wives,
+
+;0xB5BD8B53=~z~In the mean time, let's go uptown, okay? Thank you, darling.
+0xB5BD8B53=~z~In the mean time, let's go uptown, okay? Thank you, darling.
+
+;0xB5CEF8B5=GIRL2_FF
+0xB5CEF8B5=GIRL2_FF
+
+;0xB6EB6BB7=~z~Hey there.
+0xB6EB6BB7=~z~Hey there.
+
+;0xB7EA3C6F=~z~I don't know. Something where he beats people up and pretends to be straight.
+0xB7EA3C6F=~z~I don't know. Something where he beats people up and pretends to be straight.
+
+;0xBB0CA6ED=GIRL2_GC2
+0xBB0CA6ED=GIRL2_GC2
+
+;0xBCB56D61=~z~All I know is I wanked him off, okay? I mean, you and I had sex and you're a bit fruity,
+0xBCB56D61=~z~All I know is I wanked him off, okay? I mean, you and I had sex and you're a bit fruity,
+
+;0xBF0F0933=GIRL2_JE2
+0xBF0F0933=GIRL2_JE2
+
+;0xC072BCB7=100100010
+0xC072BCB7=100100010
+
+;0xC298745B=GIRL2_FI
+0xC298745B=GIRL2_FI
+
+;0xC5067A9A=~z~So good to see you, darling.
+0xC5067A9A=~z~So good to see you, darling.
+
+;0xC586E6D8=~z~Let me look at that thing. He's posted from a bathroom with Middle Park views. We should head uptown.
+0xC586E6D8=~z~Let me look at that thing. He's posted from a bathroom with Middle Park views. We should head uptown.
+
+;0xC628A6C8=~z~Grow up, Leon. Aren't we jaded enough to be realistic for a second?
+0xC628A6C8=~z~Grow up, Leon. Aren't we jaded enough to be realistic for a second?
+
+;0xC6DB49E6=GIRL2_HB
+0xC6DB49E6=GIRL2_HB
+
+;0xC80B2FEE=~z~He's always on that bloody Bleeter website. We'll wait until he bleets and then we should be able to find him.
+0xC80B2FEE=~z~He's always on that bloody Bleeter website. We'll wait until he bleets and then we should be able to find him.
+
+;0xC8636AE0=~z~I did my best, girl. But you better wise up. Bad things happen to annoying people. See ya.
+0xC8636AE0=~z~I did my best, girl. But you better wise up. Bad things happen to annoying people. See ya.
+
+;0xC98F1B85=~z~See you later, babe. Couldn't a happened to a nicer person.
+0xC98F1B85=~z~See you later, babe. Couldn't a happened to a nicer person.
+
+;0xCABD403F=GIRL2_ME
+0xCABD403F=GIRL2_ME
+
+;0xCACE0921=~z~Man, I just wish we had coke.
+0xCACE0921=~z~Man, I just wish we had coke.
+
+;0xCAD03343=GIRL2_FB1
+0xCAD03343=GIRL2_FB1
+
+;0xCCDA19C3=010010100100100100100010100100100100100010
+0xCCDA19C3=010010100100100100100010100100100100100010
+
+;0xD369B806=GIRL2_ID
+0xD369B806=GIRL2_ID
+
+;0xD4051837=~z~I did? Yes, I did. I came back.
+0xD4051837=~z~I did? Yes, I did. I came back.
+
+;0xD4143C17=GIRL2_OD
+0xD4143C17=GIRL2_OD
+
+;0xD46E8224=GIRL2_OH
+0xD46E8224=GIRL2_OH
+
+;0xD4A7C5FD=GIRL2_LA
+0xD4A7C5FD=GIRL2_LA
+
+;0xD4AFF3F1=~z~What are we gonna do when we find him?
+0xD4AFF3F1=~z~What are we gonna do when we find him?
+
+;0xD536F77D=GIRL2_NA
+0xD536F77D=GIRL2_NA
+
+;0xD57E4C84=GIRL2_CC
+0xD57E4C84=GIRL2_CC
+
+;0xD6D91E3F=~z~Not to worry. I don't need it. I've more or less stopped doing it now. I only do it at night now.
+0xD6D91E3F=~z~Not to worry. I don't need it. I've more or less stopped doing it now. I only do it at night now.
+
+;0xD75822AA=~z~If you say so.
+0xD75822AA=~z~If you say so.
+
+;0xD7C3C9FE=~z~Growing up wasn't like that for me. Just my moms, three kids and a lot of debt.
+0xD7C3C9FE=~z~Growing up wasn't like that for me. Just my moms, three kids and a lot of debt.
+
+;0xD9AF315E=~z~Bugger.
+0xD9AF315E=~z~Bugger.
+
+;0xDC4DE893=GIRL2_GC1
+0xDC4DE893=GIRL2_GC1
+
+;0xDCD662D0=GIRL2_GA
+0xDCD662D0=GIRL2_GA
+
+;0xDE45752E=GIRL2_HE1
+0xDE45752E=GIRL2_HE1
+
+;0xE246EAC6=100
+0xE246EAC6=100
+
+;0xE3BDE1F2=~z~rent boys and boy toys to know that love is never lasting. Haven't we, babe?
+0xE3BDE1F2=~z~rent boys and boy toys to know that love is never lasting. Haven't we, babe?
+
+;0xE501845F=GIRL2_BA
+0xE501845F=GIRL2_BA
+
+;0xE52DBAE8=~z~How are you, mate? It's so good to see you.
+0xE52DBAE8=~z~How are you, mate? It's so good to see you.
+
+;0xE5DADC0E=~z~I can secure the rights to at least
+0xE5DADC0E=~z~I can secure the rights to at least
+
+;0xE62EBC8A=~z~Yeah, a lot of people say that about him. Anyway, I thought you said you were going back to London.
+0xE62EBC8A=~z~Yeah, a lot of people say that about him. Anyway, I thought you said you were going back to London.
+
+;0xE6E35091=GIRL2_IA
+0xE6E35091=GIRL2_IA
+
+;0xE7CEE482=GIRL2_EA
+0xE7CEE482=GIRL2_EA
+
+;0xE7DF422B=~z~He's not gay. He's a virile man who takes an interest in personal grooming,
+0xE7DF422B=~z~He's not gay. He's a virile man who takes an interest in personal grooming,
+
+;0xE8F2E577=010100100010100010010100100010100100
+0xE8F2E577=010100100010100010010100100010100100
+
+;0xEC0CB65C=GIRL2_PA1
+0xEC0CB65C=GIRL2_PA1
+
+;0xEC8F78F6=~z~Okay.
+0xEC8F78F6=~z~Okay.
+
+;0xEDB7CB9D=GIRL2_FJ
+0xEDB7CB9D=GIRL2_FJ
+
+;0xEF13929E=GIRL2_GF
+0xEF13929E=GIRL2_GF
+
+;0xF0271CCA=010
+0xF0271CCA=010
+
+;0xF154B831=~z~Yo. Okay. Worst case scenario the video comes out, you lay low for a while, maybe get a reality TV show.
+0xF154B831=~z~Yo. Okay. Worst case scenario the video comes out, you lay low for a while, maybe get a reality TV show.
+
+;0xF268F58A=~z~I think he's getting his inner seam measured at a tailor.
+0xF268F58A=~z~I think he's getting his inner seam measured at a tailor.
+
+;0xF2821E9F=GIRL2_HD
+0xF2821E9F=GIRL2_HD
+
+;0xF30AEA24=GIRL2_IB1
+0xF30AEA24=GIRL2_IB1
+
+;0xF318DA2B=~z~Then maybe I have been hanging out with Tony too long? Or maybe it's you.
+0xF318DA2B=~z~Then maybe I have been hanging out with Tony too long? Or maybe it's you.
+
+;0xF38BD74C=~z~I love that man! Just a shame he's a poof!
+0xF38BD74C=~z~I love that man! Just a shame he's a poof!
+
+;0xF3C40F40=GIRL2_MB
+0xF3C40F40=GIRL2_MB
+
+;0xF3CE77A7=GIRL2_IF
+0xF3CE77A7=GIRL2_IF
+
+;0xF4157883=~z~I just don't want my cameo in his bedroom saga to be broadcast to friends and family before
+0xF4157883=~z~I just don't want my cameo in his bedroom saga to be broadcast to friends and family before
+
+;0xF49F97F3=GIRL2_MA
+0xF49F97F3=GIRL2_MA
+
+;0xF6006954=GIRL2_SA
+0xF6006954=GIRL2_SA
+
+;0xF6C05E0D=~z~Hey, Steve.
+0xF6C05E0D=~z~Hey, Steve.
+
+;0xF7F7EFCE=SFX_PAUSE_450
+0xF7F7EFCE=SFX_PAUSE_450
+
+;0xF826B2A2=100
+0xF826B2A2=100
+
+;0xF9A0E36E=~z~Oh, fuck.
+0xF9A0E36E=~z~Oh, fuck.
+
+;0xFA709197=GIRL2_FA
+0xFA709197=GIRL2_FA
+
+;0xFC4D1310=~z~If this footage comes out there's no way he won't make me sign it.
+0xFC4D1310=~z~If this footage comes out there's no way he won't make me sign it.
+
+;0xFC6FCA5D=~z~Gimme some digits too, baby. Three of them!
+0xFC6FCA5D=~z~Gimme some digits too, baby. Three of them!
+
+;0xFD2AEDDA=~z~Come on. Let's go.
+0xFD2AEDDA=~z~Come on. Let's go.
+
+;0xFD2D8B1B=~z~He's bleeted "Marcus asked me if I hang left or right and I told him to find out for himself."
+0xFD2D8B1B=~z~He's bleeted "Marcus asked me if I hang left or right and I told him to find out for himself."
+
+;0xFDF2E2F1=GIRL2_QB1
+0xFDF2E2F1=GIRL2_QB1
+

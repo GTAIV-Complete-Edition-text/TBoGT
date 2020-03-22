@@ -1,0 +1,31 @@
+﻿[RAN2]
+;0x06360B3F=~r~You were meant to dump the car in the river.~s~
+0x06360B3F=~r~You were meant to dump the car in the river.~s~
+
+;0x17CF8570=PLACEHOLDER MOCAP~n~Louis's ex-girlfriend turns out to be crazy.~n~She thinks Louis is cheating on her~n~and has planted a car bomb in the women's car.~n~Player must deal with the bomb.
+0x17CF8570=PLACEHOLDER MOCAP~n~Louis's ex-girlfriend turns out to be crazy.~n~She thinks Louis is cheating on her~n~and has planted a car bomb in the women's car.~n~Player must deal with the bomb.
+
+;0x261721FF=PLACEHOLDER CUTSCENE~n~As the player steals the car~n~the cops arrive on the scene~n~and the bomb activates.
+0x261721FF=PLACEHOLDER CUTSCENE~n~As the player steals the car~n~the cops arrive on the scene~n~and the bomb activates.
+
+;0x2955517D=~r~The car has been destroyed.~s~
+0x2955517D=~r~The car has been destroyed.~s~
+
+;0x3B77F5C2=~s~Lose the cops.~s~
+0x3B77F5C2=~s~Lose the cops.~s~
+
+;0x4CB21836=~s~Get back in the ~b~car.~s~
+0x4CB21836=~s~Get back in the ~b~car.~s~
+
+;0x5C28FF6E=Leaving the car, damaging it badly or running out of time will detonate the bomb.
+0x5C28FF6E=Leaving the car, damaging it badly or running out of time will detonate the bomb.
+
+;0x5F0DBCED=Dump the car in the river before it explodes.
+0x5F0DBCED=Dump the car in the river before it explodes.
+
+;0x622CC32B=Dump the car in the river before it explodes.
+0x622CC32B=Dump the car in the river before it explodes.
+
+;0x748167D4=Get to the ~b~car~s~ before the bomb goes off.
+0x748167D4=Get to the ~b~car~s~ before the bomb goes off.
+

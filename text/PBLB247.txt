@@ -1,0 +1,13 @@
+﻿[PBLB247]
+;0x27FAB847=Joshua Crane
+0x27FAB847=Joshua Crane
+
+;0x67AAB144=The military industrial complex claims another victim. Notorious agent of death, Frickie van Hardenburg was killed yesterday, seemingly in the middle of an arms deal. Having only just been allowed a visa to enter the country, the slave trader and arms dealer that human rights groups have been trying to put on trial was himself the victim of horrific violence, after a bloody attack by an unknown assailant on his boat, seemingly killing all on board. This is the kind of violence we expect when the government cares more about weapons than health care. Mr. van Hardenburg who saw himself as a legitimate businessman, but who had links to countless repressive regimes in Africa and the Middle East, and who has been implicated in slave trading in Asia, along with diamond dealing and above all weapons smuggling into conflicts across the globe, was a popular guest of several Senators, who will no doubt mourn his passing and the healthy campaign donations he made.
+0x67AAB144=The military industrial complex claims another victim. Notorious agent of death, Frickie van Hardenburg was killed yesterday, seemingly in the middle of an arms deal. Having only just been allowed a visa to enter the country, the slave trader and arms dealer that human rights groups have been trying to put on trial was himself the victim of horrific violence, after a bloody attack by an unknown assailant on his boat, seemingly killing all on board. This is the kind of violence we expect when the government cares more about weapons than health care. Mr. van Hardenburg who saw himself as a legitimate businessman, but who had links to countless repressive regimes in Africa and the Middle East, and who has been implicated in slave trading in Asia, along with diamond dealing and above all weapons smuggling into conflicts across the globe, was a popular guest of several Senators, who will no doubt mourn his passing and the healthy campaign donations he made.
+
+;0x68F26CFF=DEATH OF AN ARMS SALESMAN
+0x68F26CFF=DEATH OF AN ARMS SALESMAN
+
+;0xC49198AB=Justice Done as Mega Yacht Sinks
+0xC49198AB=Justice Done as Mega Yacht Sinks
+

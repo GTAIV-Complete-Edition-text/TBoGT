@@ -1,0 +1,13 @@
+﻿[PBLB27]
+;0x2B380D0B=Joshua Crane
+0x2B380D0B=Joshua Crane
+
+;0x49223736=Exploitation that needs to be explained
+0x49223736=Exploitation that needs to be explained
+
+;0xB8855569=Who will stand up for the privileged?
+0xB8855569=Who will stand up for the privileged?
+
+;0xBF54ABC2=Sweatshops. That's what the ragged, broken American college student finds when they hit the workforce. Fresh out of college, a place of learning, they want time to balance life by taking long hikes, getting colon cleansing, writing in a journal! How do we expect people to be part of a democracy when they are bogged down by oppressive work 8-9 hours a day? We feel sad for Sandra McColland, she's standing up for herself and fighting corporate America. Good for you. You go girl. These conservatives will take every ounce of your being. Sue them till they get a clue that work is about more than working.
+0xBF54ABC2=Sweatshops. That's what the ragged, broken American college student finds when they hit the workforce. Fresh out of college, a place of learning, they want time to balance life by taking long hikes, getting colon cleansing, writing in a journal! How do we expect people to be part of a democracy when they are bogged down by oppressive work 8-9 hours a day? We feel sad for Sandra McColland, she's standing up for herself and fighting corporate America. Good for you. You go girl. These conservatives will take every ounce of your being. Sue them till they get a clue that work is about more than working.
+

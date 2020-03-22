@@ -1,0 +1,13 @@
+﻿[RC1]
+;0x955E5B04=Go back for ~b~ex-girlfriend.
+0x955E5B04=Go back for ~b~ex-girlfriend.
+
+;0xA695FDA7=Take ex-girlfriend ~y~home.
+0xA695FDA7=Take ex-girlfriend ~y~home.
+
+;0xE3B99525=PLACEHOLDER: Ex-girlfriend's brothers don't like Luis and express that physically.
+0xE3B99525=PLACEHOLDER: Ex-girlfriend's brothers don't like Luis and express that physically.
+
+;0xFE074863=MOCAP: Luis bumps into an ex while she shops, gives her a lift home.
+0xFE074863=MOCAP: Luis bumps into an ex while she shops, gives her a lift home.
+

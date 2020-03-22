@@ -1,0 +1,925 @@
+﻿[ROM1AUD]
+;0x000F8EA3=ROM1_NA
+0x000F8EA3=ROM1_NA
+
+;0x003A667A=~z~Now we are soft and miserable, just like you.
+0x003A667A=~z~Now we are soft and miserable, just like you.
+
+;0x0081E9C3=100090100090010090100090100010
+0x0081E9C3=100090100090010090100090100010
+
+;0x01894AA6=~z~Few hours later you was getting your ass beat by a pimp in Bohan. Life sure does twist and turn.
+0x01894AA6=~z~Few hours later you was getting your ass beat by a pimp in Bohan. Life sure does twist and turn.
+
+;0x018DED1F=~z~This is mine, man, I just... errr... forgot the keys.
+0x018DED1F=~z~This is mine, man, I just... errr... forgot the keys.
+
+;0x02074768=~z~You don't need to tell me.
+0x02074768=~z~You don't need to tell me.
+
+;0x0635A87E=~z~Excuse me?
+0x0635A87E=~z~Excuse me?
+
+;0x06E07C4D=~z~Arnaud, what are you doing down here, bro?
+0x06E07C4D=~z~Arnaud, what are you doing down here, bro?
+
+;0x08BEEF61=ROM1_SA
+0x08BEEF61=ROM1_SA
+
+;0x0C4F872F=~z~Luis!
+0x0C4F872F=~z~Luis!
+
+;0x0C94007D=~z~I had a family... meaningless... honor? Don't make me puke.
+0x0C94007D=~z~I had a family... meaningless... honor? Don't make me puke.
+
+;0x0EDF5CB1=SFX_PAUSE_100
+0x0EDF5CB1=SFX_PAUSE_100
+
+;0x0EE77626=ROM1_DE1
+0x0EE77626=ROM1_DE1
+
+;0x0F5394E4=202
+0x0F5394E4=202
+
+;0x0F7D845B=ROM1_AA
+0x0F7D845B=ROM1_AA
+
+;0x0F88A1B0=ROM1_ZC
+0x0F88A1B0=ROM1_ZC
+
+;0x1136E5C7=~z~Here is an example for you to digest.
+0x1136E5C7=~z~Here is an example for you to digest.
+
+;0x11AA60E7=ROM1_IA
+0x11AA60E7=ROM1_IA
+
+;0x137111DE=ROM1_BA
+0x137111DE=ROM1_BA
+
+;0x141E474A=SFX_PAUSE_270
+0x141E474A=SFX_PAUSE_270
+
+;0x146F37A0=ROM1_QA
+0x146F37A0=ROM1_QA
+
+;0x14C74557=SFX_PAUSE_200
+0x14C74557=SFX_PAUSE_200
+
+;0x15813520=ROM1_VA
+0x15813520=ROM1_VA
+
+;0x1638D117=ROM1_CB
+0x1638D117=ROM1_CB
+
+;0x168C6203=ROM1_MC
+0x168C6203=ROM1_MC
+
+;0x191A70F9=~z~The rich red stain of a Bordeaux, the salty residue of a whore's crocodile tears,
+0x191A70F9=~z~The rich red stain of a Bordeaux, the salty residue of a whore's crocodile tears,
+
+;0x192F9624=~z~I like you. You find things as - as ridiculous as me.
+0x192F9624=~z~I like you. You find things as - as ridiculous as me.
+
+;0x19EF0800=ROM1_DG
+0x19EF0800=ROM1_DG
+
+;0x1A7B6509=ROM1_IC
+0x1A7B6509=ROM1_IC
+
+;0x1A82A3FD=SFX_PAUSE_250
+0x1A82A3FD=SFX_PAUSE_250
+
+;0x1A8A23A4=~z~Yeah.
+0x1A8A23A4=~z~Yeah.
+
+;0x1B889D5B=ROM1_JG1
+0x1B889D5B=ROM1_JG1
+
+;0x1BF0A37A=~z~Keep that double ender away from me.
+0x1BF0A37A=~z~Keep that double ender away from me.
+
+;0x1C8392C1=ROM1_JF
+0x1C8392C1=ROM1_JF
+
+;0x1E12972B=010010010
+0x1E12972B=010010010
+
+;0x1E56A402=~z~No, mon ami, I hate to tell you my friend,
+0x1E56A402=~z~No, mon ami, I hate to tell you my friend,
+
+;0x1F0AA0EF=SFX_PAUSE_140
+0x1F0AA0EF=SFX_PAUSE_140
+
+;0x1F1969AD=100100090100090100090010
+0x1F1969AD=100100090100090100090010
+
+;0x22A76161=~z~I'm not sure someone from the Heights qualifies as being Spaniard, but whatever.
+0x22A76161=~z~I'm not sure someone from the Heights qualifies as being Spaniard, but whatever.
+
+;0x234D0E2D=~z~Soon she was drenched in champagne and bent over naked in my hotel suite.
+0x234D0E2D=~z~Soon she was drenched in champagne and bent over naked in my hotel suite.
+
+;0x23B58525=~z~Yo. Don't worry, bro. We going to subject him to some shit soon enough.
+0x23B58525=~z~Yo. Don't worry, bro. We going to subject him to some shit soon enough.
+
+;0x24099141=ROM1_ID
+0x24099141=ROM1_ID
+
+;0x24A9C6E9=010
+0x24A9C6E9=010
+
+;0x25C24D87=102
+0x25C24D87=102
+
+;0x274801AF=~z~Exactly, my friend...err...well...
+0x274801AF=~z~Exactly, my friend...err...well...
+
+;0x29CC0C15=~z~Ou est la masseuse?
+0x29CC0C15=~z~Ou est la masseuse?
+
+;0x29FFBD19=SFX_PAUSE_180
+0x29FFBD19=SFX_PAUSE_180
+
+;0x2A13EAA0=010
+0x2A13EAA0=010
+
+;0x2A3769FF=ROM1_YA
+0x2A3769FF=ROM1_YA
+
+;0x2C3F5F52=SFX_PAUSE_210
+0x2C3F5F52=SFX_PAUSE_210
+
+;0x2EED9951=ROM1_MB
+0x2EED9951=ROM1_MB
+
+;0x2F3DFAEA=~z~In that case, fuck you.
+0x2F3DFAEA=~z~In that case, fuck you.
+
+;0x2F96A93B=SFX_PAUSE_090
+0x2F96A93B=SFX_PAUSE_090
+
+;0x2F9C152E=SFX_PAUSE_270
+0x2F9C152E=SFX_PAUSE_270
+
+;0x30BCE915=~z~You are a valiant hero, Spaniard.
+0x30BCE915=~z~You are a valiant hero, Spaniard.
+
+;0x30E2CD62=~z~Fuck You!
+0x30E2CD62=~z~Fuck You!
+
+;0x32B75F9F=~z~Do you not wish to ascend the lofty peak of the Horny Mountain?
+0x32B75F9F=~z~Do you not wish to ascend the lofty peak of the Horny Mountain?
+
+;0x345DAA86=ROM1_JC
+0x345DAA86=ROM1_JC
+
+;0x35EBE213=ROM1_DC
+0x35EBE213=ROM1_DC
+
+;0x36CD5814=ROM1_LD
+0x36CD5814=ROM1_LD
+
+;0x37389FAC=ROM1_OA
+0x37389FAC=ROM1_OA
+
+;0x37449E49=~z~He ain't getting away.
+0x37449E49=~z~He ain't getting away.
+
+;0x378D0569=~z~Here. Here. I didn't want that sicko motherfucker's wallet anyways.
+0x378D0569=~z~Here. Here. I didn't want that sicko motherfucker's wallet anyways.
+
+;0x37B3F1BB=ROM1_DA2
+0x37B3F1BB=ROM1_DA2
+
+;0x380BD770=~z~I like a man who's so focused.
+0x380BD770=~z~I like a man who's so focused.
+
+;0x38DD8F7D=~z~Civilian like you coming out to the Point is almost as suicidal.
+0x38DD8F7D=~z~Civilian like you coming out to the Point is almost as suicidal.
+
+;0x39A50FB8=~z~and you just debase it with 'whatever' or 'like' or 'fuck you' or 'get over yourself'.
+0x39A50FB8=~z~and you just debase it with 'whatever' or 'like' or 'fuck you' or 'get over yourself'.
+
+;0x39B657C8=ROM1_GA
+0x39B657C8=ROM1_GA
+
+;0x3B95DE80=~z~I come to fuck and get high. What else is there?
+0x3B95DE80=~z~I come to fuck and get high. What else is there?
+
+;0x3C22B80F=ROM1_MD
+0x3C22B80F=ROM1_MD
+
+;0x3C3CA708=SFX_PAUSE_240
+0x3C3CA708=SFX_PAUSE_240
+
+;0x3CD6BADB=SFX_PAUSE_350
+0x3CD6BADB=SFX_PAUSE_350
+
+;0x3D490EB8=~z~We are all scared by everything that happens to us, whether those marks are visible or not.
+0x3D490EB8=~z~We are all scared by everything that happens to us, whether those marks are visible or not.
+
+;0x3FD572E9=010090100090010090100
+0x3FD572E9=010090100090010090100
+
+;0x4185F8DA=ROM1_KA
+0x4185F8DA=ROM1_KA
+
+;0x432AD203=010
+0x432AD203=010
+
+;0x45823AC4=~z~Come back here, motherfucker.
+0x45823AC4=~z~Come back here, motherfucker.
+
+;0x45E2F31A=~z~I don't know... family?
+0x45E2F31A=~z~I don't know... family?
+
+;0x46DF47BF=SFX_PAUSE_250
+0x46DF47BF=SFX_PAUSE_250
+
+;0x470E83C3=~z~Why did he not just ask me for the money? If he needed it, we could have made an arrangement.
+0x470E83C3=~z~Why did he not just ask me for the money? If he needed it, we could have made an arrangement.
+
+;0x4753AB15=~z~What is wrong you? The British, they give you this beautiful, if a little awkward language,
+0x4753AB15=~z~What is wrong you? The British, they give you this beautiful, if a little awkward language,
+
+;0x476E72A1=~z~Let's go for a drive.
+0x476E72A1=~z~Let's go for a drive.
+
+;0x481B0331=100100100090010090100100100100090010
+0x481B0331=100100100090010090100100100100090010
+
+;0x48B143A4=ROM1_IB
+0x48B143A4=ROM1_IB
+
+;0x4904780D=~z~My people watch American television and then they complain about it afterwards.
+0x4904780D=~z~My people watch American television and then they complain about it afterwards.
+
+;0x4A7969F4=ROM1_DE2
+0x4A7969F4=ROM1_DE2
+
+;0x4BE0DF23=ROM1_IE
+0x4BE0DF23=ROM1_IE
+
+;0x4C4A7C96=ROM1_KC
+0x4C4A7C96=ROM1_KC
+
+;0x4C91A590=ROM1_IF
+0x4C91A590=ROM1_IF
+
+;0x4CB18028=SFX_PAUSE_200
+0x4CB18028=SFX_PAUSE_200
+
+;0x4E18CF50=~z~Hey, compared to the shit I've dealt with today, okay, that doesn't sound so shady,
+0x4E18CF50=~z~Hey, compared to the shit I've dealt with today, okay, that doesn't sound so shady,
+
+;0x4E783116=~z~That will be another experience, my friend. It shall be worth remembering, too.
+0x4E783116=~z~That will be another experience, my friend. It shall be worth remembering, too.
+
+;0x4EBD0916=~z~Don't get that whip out again, motherfucker
+0x4EBD0916=~z~Don't get that whip out again, motherfucker
+
+;0x4F09D690=~z~Howdy partner.
+0x4F09D690=~z~Howdy partner.
+
+;0x501DE7CE=~z~Before 11 am, she was shovelling cocaine into her nose with a caviar spoon
+0x501DE7CE=~z~Before 11 am, she was shovelling cocaine into her nose with a caviar spoon
+
+;0x507304B2=~z~Have you got a car?
+0x507304B2=~z~Have you got a car?
+
+;0x50D4D3E8=~z~I tell you, it is a bad combination - Chinese opium and Brazilian prostitute. No no no no no.
+0x50D4D3E8=~z~I tell you, it is a bad combination - Chinese opium and Brazilian prostitute. No no no no no.
+
+;0x50E392D0=100
+0x50E392D0=100
+
+;0x52CA2E71=~z~Please, can you get rid of the gendarmes?
+0x52CA2E71=~z~Please, can you get rid of the gendarmes?
+
+;0x5391A2B8=ROM1_LB1
+0x5391A2B8=ROM1_LB1
+
+;0x54105A5B=~z~I was just nodding off after a little bit of light after dinner bondage and,
+0x54105A5B=~z~I was just nodding off after a little bit of light after dinner bondage and,
+
+;0x5469E529=SFX_PAUSE_320
+0x5469E529=SFX_PAUSE_320
+
+;0x55900E69=ROM1_JI
+0x55900E69=ROM1_JI
+
+;0x582F166A=~z~Well, then clearly you do not watch enough television.
+0x582F166A=~z~Well, then clearly you do not watch enough television.
+
+;0x59B41B31=SFX_PAUSE_090
+0x59B41B31=SFX_PAUSE_090
+
+;0x5A9294E2=ROM1_JG2
+0x5A9294E2=ROM1_JG2
+
+;0x5BFB0F67=SFX_PAUSE_250
+0x5BFB0F67=SFX_PAUSE_250
+
+;0x5C6E6BFB=~z~maybe you can help me get back the wallet?
+0x5C6E6BFB=~z~maybe you can help me get back the wallet?
+
+;0x5C7156A4=~z~It's your life you playing with, bro. I just don't wanna see you end up one of them deviant sex stories gone wrong.
+0x5C7156A4=~z~It's your life you playing with, bro. I just don't wanna see you end up one of them deviant sex stories gone wrong.
+
+;0x5CA96C6D=~z~so why the "fuck you" not?
+0x5CA96C6D=~z~so why the "fuck you" not?
+
+;0x5D60733D=~z~Et pourquoi pas?
+0x5D60733D=~z~Et pourquoi pas?
+
+;0x5E337610=~z~No doubt. If we survive that long you're on.
+0x5E337610=~z~No doubt. If we survive that long you're on.
+
+;0x5F004224=ROM1_RD
+0x5F004224=ROM1_RD
+
+;0x5F0B34EB=~z~Arnaud, you petite rascal, where are you now?
+0x5F0B34EB=~z~Arnaud, you petite rascal, where are you now?
+
+;0x605F70AD=ROM1_PB
+0x605F70AD=ROM1_PB
+
+;0x60F4CAC6=~z~A police presence may scare them off.
+0x60F4CAC6=~z~A police presence may scare them off.
+
+;0x61BDAAD7=~z~Well, I do not come to Liberty City to watch television.
+0x61BDAAD7=~z~Well, I do not come to Liberty City to watch television.
+
+;0x61D675E7=~z~Yeah, no doubt, man.
+0x61D675E7=~z~Yeah, no doubt, man.
+
+;0x64CF1EF7=~z~Okay, bro. This is where I'm leaving you. You still might get robbed round here, but they won't kill you.
+0x64CF1EF7=~z~Okay, bro. This is where I'm leaving you. You still might get robbed round here, but they won't kill you.
+
+;0x6665B2D7=~z~Hey, I'm not miserable.
+0x6665B2D7=~z~Hey, I'm not miserable.
+
+;0x669BB4EF=~z~I have a lovely little masseuse booked in Chinatown, can we go there?
+0x669BB4EF=~z~I have a lovely little masseuse booked in Chinatown, can we go there?
+
+;0x66EF1FD3=ROM1_DF
+0x66EF1FD3=ROM1_DF
+
+;0x67A9A6A9=ROM1_DD
+0x67A9A6A9=ROM1_DD
+
+;0x67E3A868=SFX_PAUSE_250
+0x67E3A868=SFX_PAUSE_250
+
+;0x681FF907=190
+0x681FF907=190
+
+;0x68727D1A=ROM1_FB
+0x68727D1A=ROM1_FB
+
+;0x6981466D=~z~We cannot lead the police to these shy, innocent girls.
+0x6981466D=~z~We cannot lead the police to these shy, innocent girls.
+
+;0x69E65BB6=ROM1_TA
+0x69E65BB6=ROM1_TA
+
+;0x6B216D34=~z~That is him. Do you think you can get my wallet back?
+0x6B216D34=~z~That is him. Do you think you can get my wallet back?
+
+;0x6B987346=010090100090010
+0x6B987346=010090100090010
+
+;0x6D932E18=~z~Well, maybe bring some protection next trip... of all kinds. Later on.
+0x6D932E18=~z~Well, maybe bring some protection next trip... of all kinds. Later on.
+
+;0x709A5809=~z~Shit. Shit. Shit.
+0x709A5809=~z~Shit. Shit. Shit.
+
+;0x70FB1A72=~z~The smell in the air...
+0x70FB1A72=~z~The smell in the air...
+
+;0x728684F8=~z~The pervert's back? I ain't letting you nowhere near me you fuckin French freak
+0x728684F8=~z~The pervert's back? I ain't letting you nowhere near me you fuckin French freak
+
+;0x7412FE74=~z~You the greasy Chase Point pimp and you calling him a sicko? Get over yourself, bro.
+0x7412FE74=~z~You the greasy Chase Point pimp and you calling him a sicko? Get over yourself, bro.
+
+;0x74232B8A=~z~The only thing on her mind was buying a coffee, but I made her a proposal.
+0x74232B8A=~z~The only thing on her mind was buying a coffee, but I made her a proposal.
+
+;0x74D85168=~z~I have an appointment at the High End Massage Spa on Diamond Street.
+0x74D85168=~z~I have an appointment at the High End Massage Spa on Diamond Street.
+
+;0x76B3629F=100090010
+0x76B3629F=100090010
+
+;0x796E735B=~z~Shiva with the goddess Shak-ti as Sherpa-guide.
+0x796E735B=~z~Shiva with the goddess Shak-ti as Sherpa-guide.
+
+;0x7B80F41F=~z~Can I buy a massage for you? It's the least I can do considering your many kindnesses.
+0x7B80F41F=~z~Can I buy a massage for you? It's the least I can do considering your many kindnesses.
+
+;0x7C9BD9D4=ROM1_JH
+0x7C9BD9D4=ROM1_JH
+
+;0x7D3861CC=~z~and your people, maybe can make a nice little TV show with you and your friends.
+0x7D3861CC=~z~and your people, maybe can make a nice little TV show with you and your friends.
+
+;0x7F1745CC=ROM1_JA
+0x7F1745CC=ROM1_JA
+
+;0x7FF2BEA8=~z~This wallet is very precious to me, I need it back.
+0x7FF2BEA8=~z~This wallet is very precious to me, I need it back.
+
+;0x80B1A167=ROM1_CD
+0x80B1A167=ROM1_CD
+
+;0x80FAED91=~z~He's a fucking pervert.
+0x80FAED91=~z~He's a fucking pervert.
+
+;0x835FFD94=~z~Merde!
+0x835FFD94=~z~Merde!
+
+;0x84F13C20=~z~when the pimp comes in, he steals my wallet and gives me a good beating.
+0x84F13C20=~z~when the pimp comes in, he steals my wallet and gives me a good beating.
+
+;0x860E2041=~z~Even in this white-washed, vanilla essence country we find ourselves in.
+0x860E2041=~z~Even in this white-washed, vanilla essence country we find ourselves in.
+
+;0x8682057C=~z~ the chip of painted fingernail embedded in its leather - they are all my memories.
+0x8682057C=~z~ the chip of painted fingernail embedded in its leather - they are all my memories.
+
+;0x86CA8103=~z~I do not want to hear the moans of a policeman coming from the next door room.
+0x86CA8103=~z~I do not want to hear the moans of a policeman coming from the next door room.
+
+;0x86D9D0F7=~z~This morning, a delicious twenty two year old girl left her parents' apartment in Middle Park East.
+0x86D9D0F7=~z~This morning, a delicious twenty two year old girl left her parents' apartment in Middle Park East.
+
+;0x86E0916B=SFX_PAUSE_140
+0x86E0916B=SFX_PAUSE_140
+
+;0x889FC37D=~z~Ha, ha, ha.
+0x889FC37D=~z~Ha, ha, ha.
+
+;0x891A8F52=~z~No, I'm cool, bro. I don't need no slave laborer fluffing me. I like things given up willingly.
+0x891A8F52=~z~No, I'm cool, bro. I don't need no slave laborer fluffing me. I like things given up willingly.
+
+;0x893AC240=~z~You should keep better company, bro.
+0x893AC240=~z~You should keep better company, bro.
+
+;0x897F6578=010
+0x897F6578=010
+
+;0x89AC1AF6=~z~Fight them, my friend.
+0x89AC1AF6=~z~Fight them, my friend.
+
+;0x89BED279=190
+0x89BED279=190
+
+;0x89D68DE0=~z~A table shower, two hands, maybe four?
+0x89D68DE0=~z~A table shower, two hands, maybe four?
+
+;0x8A1EE72F=~z~Adieu, dear boy. It's been fun.
+0x8A1EE72F=~z~Adieu, dear boy. It's been fun.
+
+;0x8E7402EF=~z~Vive la France!
+0x8E7402EF=~z~Vive la France!
+
+;0x8EAF46EF=ROM1_FA
+0x8EAF46EF=ROM1_FA
+
+;0x8F00BBC2=~z~Like one of them guys who strangle themselves trying to get off.
+0x8F00BBC2=~z~Like one of them guys who strangle themselves trying to get off.
+
+;0x8F6E6413=ROM1_HA
+0x8F6E6413=ROM1_HA
+
+;0x8F8D1941=~z~I ain't going nowhere horny with you, bro.
+0x8F8D1941=~z~I ain't going nowhere horny with you, bro.
+
+;0x92A5640D=~z~No, it has a sentimental value.
+0x92A5640D=~z~No, it has a sentimental value.
+
+;0x92C6CE2A=SFX_PAUSE_320
+0x92C6CE2A=SFX_PAUSE_320
+
+;0x938934AC=ROM1_NB
+0x938934AC=ROM1_NB
+
+;0x938C498B=~z~Motherfucker's driving off. We'll get him.
+0x938C498B=~z~Motherfucker's driving off. We'll get him.
+
+;0x93BB9555=ROM1_ND
+0x93BB9555=ROM1_ND
+
+;0x95F61C1E=ROM1_NC
+0x95F61C1E=ROM1_NC
+
+;0x973260A2=~z~For watching too much television?
+0x973260A2=~z~For watching too much television?
+
+;0x9744988A=~z~Excuse me bro. It's how we do it in L.C.
+0x9744988A=~z~Excuse me bro. It's how we do it in L.C.
+
+;0x976C9D23=~z~I believe he is over on Bronco, my valiant Spaniard.
+0x976C9D23=~z~I believe he is over on Bronco, my valiant Spaniard.
+
+;0x9835B02A=ROM1_RB
+0x9835B02A=ROM1_RB
+
+;0x993525D8=~z~Please. These sirens are giving me a headache.
+0x993525D8=~z~Please. These sirens are giving me a headache.
+
+;0x9A6C33DF=SFX_PAUSE_230
+0x9A6C33DF=SFX_PAUSE_230
+
+;0x9B8166CD=~z~Nice pimp you got here.
+0x9B8166CD=~z~Nice pimp you got here.
+
+;0x9B8C2B2E=100100090010090100
+0x9B8C2B2E=100100090010090100
+
+;0x9BC99B5E=~z~I'm not sure I want to get into a car with someone like you.
+0x9BC99B5E=~z~I'm not sure I want to get into a car with someone like you.
+
+;0x9D840D0E=100
+0x9D840D0E=100
+
+;0x9DB4A170=~z~Time was when we would chop someone's head off and would run around the streets with it on a stick.
+0x9DB4A170=~z~Time was when we would chop someone's head off and would run around the streets with it on a stick.
+
+;0x9DDB35DD=~z~Merde, a prude! Do not worry. I'll be on my own quest.
+0x9DDB35DD=~z~Merde, a prude! Do not worry. I'll be on my own quest.
+
+;0x9E3858DD=~z~Hey, have you a light?
+0x9E3858DD=~z~Hey, have you a light?
+
+;0x9E724482=~z~Their reign of violence has come to an end.
+0x9E724482=~z~Their reign of violence has come to an end.
+
+;0xA00635B1=~z~Maybe he didn't want to subject himself to no bondage. Light or otherwise.
+0xA00635B1=~z~Maybe he didn't want to subject himself to no bondage. Light or otherwise.
+
+;0xA0B3CDA9=SFX_PAUSE_250
+0xA0B3CDA9=SFX_PAUSE_250
+
+;0xA123B091=~z~They're just over on la rue de Bronco.
+0xA123B091=~z~They're just over on la rue de Bronco.
+
+;0xA12BE7FB=SFX_PAUSE_120
+0xA12BE7FB=SFX_PAUSE_120
+
+;0xA25B617C=~z~by the coming of age party I threw for her this morning? Or my Godson only moments later?
+0xA25B617C=~z~by the coming of age party I threw for her this morning? Or my Godson only moments later?
+
+;0xA292B023=ROM1_XA
+0xA292B023=ROM1_XA
+
+;0xA38E0493=ROM1_CA
+0xA38E0493=ROM1_CA
+
+;0xA58B89D9=~z~Not for the money, or that wrap of cocaine, or the precious phone numbers stored in it.
+0xA58B89D9=~z~Not for the money, or that wrap of cocaine, or the precious phone numbers stored in it.
+
+;0xA6164250=ROM1_LB2
+0xA6164250=ROM1_LB2
+
+;0xA64B3B20=~z~What happened, bro?
+0xA64B3B20=~z~What happened, bro?
+
+;0xA6A693DC=100090010100090100090100090100090100090100010090100
+0xA6A693DC=100090010100090100090100090100090100090100010090100
+
+;0xA76D166F=~z~Touché.
+0xA76D166F=~z~Touché.
+
+;0xA7A2F616=ROM1_ME
+0xA7A2F616=ROM1_ME
+
+;0xA94907A5=010
+0xA94907A5=010
+
+;0xAA42305A=ROM1_XB
+0xAA42305A=ROM1_XB
+
+;0xAA574B86=~z~Naughty, naughty, naughty.
+0xAA574B86=~z~Naughty, naughty, naughty.
+
+;0xABB6BF99=ROM1_LC
+0xABB6BF99=ROM1_LC
+
+;0xABEA8A12=~z~Wait a second.
+0xABEA8A12=~z~Wait a second.
+
+;0xAC48E02F=~z~Bravo! Bravo!
+0xAC48E02F=~z~Bravo! Bravo!
+
+;0xAD681996=~z~Mais oui, it has seen some things.
+0xAD681996=~z~Mais oui, it has seen some things.
+
+;0xADA39E8F=ROM1_MA
+0xADA39E8F=ROM1_MA
+
+;0xADC05E6A=100090010090100090100090010
+0xADC05E6A=100090010090100090100090010
+
+;0xAE043FD3=~z~Oh, Relax. Relax.
+0xAE043FD3=~z~Oh, Relax. Relax.
+
+;0xAE688C87=~z~Stop, you shit!
+0xAE688C87=~z~Stop, you shit!
+
+;0xAF81DA4B=ROM1_AAA
+0xAF81DA4B=ROM1_AAA
+
+;0xB004DD26=~z~As you wish, but there are pleasures distinct to the professional mistress.
+0xB004DD26=~z~As you wish, but there are pleasures distinct to the professional mistress.
+
+;0xB052DAD8=~z~What is your pleasure, kind Spaniard?
+0xB052DAD8=~z~What is your pleasure, kind Spaniard?
+
+;0xB2D3A90C=SFX_PAUSE_220
+0xB2D3A90C=SFX_PAUSE_220
+
+;0xB3B02ABB=~z~Life is an unpredictable thing, my friend.
+0xB3B02ABB=~z~Life is an unpredictable thing, my friend.
+
+;0xB3BA67F2=~z~Dude, you just getting your dick pulled, don't romanticize that shit too much.
+0xB3BA67F2=~z~Dude, you just getting your dick pulled, don't romanticize that shit too much.
+
+;0xB4BEBC6E=~z~Here's your wallet, bro. I'd stay in Algonquin from now on if I was you. Things get rough out here in the boroughs.
+0xB4BEBC6E=~z~Here's your wallet, bro. I'd stay in Algonquin from now on if I was you. Things get rough out here in the boroughs.
+
+;0xB5FF6F11=SFX_PAUSE_310
+0xB5FF6F11=SFX_PAUSE_310
+
+;0xB6603B90=SFX_PAUSE_200
+0xB6603B90=SFX_PAUSE_200
+
+;0xB79D930F=~z~Thank you, Spaniard. I am only sorry you will not join me in this adventure.
+0xB79D930F=~z~Thank you, Spaniard. I am only sorry you will not join me in this adventure.
+
+;0xB8198CF8=~z~Am I so naïve as to think my Goddaughter was not changed
+0xB8198CF8=~z~Am I so naïve as to think my Goddaughter was not changed
+
+;0xB9F90673=200090020
+0xB9F90673=200090020
+
+;0xBAD5A7E8=~z~Somehow err, somehow I feel my dignity is still intact.
+0xBAD5A7E8=~z~Somehow err, somehow I feel my dignity is still intact.
+
+;0xBBE7E659=~z~I don't mind when the girl play rough, but when the pimp come in and he plays rough too...
+0xBBE7E659=~z~I don't mind when the girl play rough, but when the pimp come in and he plays rough too...
+
+;0xBC28EF29=~z~Bad little boys get punished.
+0xBC28EF29=~z~Bad little boys get punished.
+
+;0xBECC2D71=ROM1_EA
+0xBECC2D71=ROM1_EA
+
+;0xC0222FFA=~z~This better be some baddass bitch of a wallet.
+0xC0222FFA=~z~This better be some baddass bitch of a wallet.
+
+;0xC0873B6A=100090010
+0xC0873B6A=100090010
+
+;0xC1C2C24B=~z~Been some crazy places with you?
+0xC1C2C24B=~z~Been some crazy places with you?
+
+;0xC263E73F=SFX_PAUSE_210
+0xC263E73F=SFX_PAUSE_210
+
+;0xC2F0EFB7=SFX_PAUSE_150
+0xC2F0EFB7=SFX_PAUSE_150
+
+;0xC31BB9F3=SFX_PAUSE_260
+0xC31BB9F3=SFX_PAUSE_260
+
+;0xC3D6AE70=ROM1_CC
+0xC3D6AE70=ROM1_CC
+
+;0xC438550C=SFX_PAUSE_140
+0xC438550C=SFX_PAUSE_140
+
+;0xC70E7577=~z~Hey, knowing my friends, I hope not.
+0xC70E7577=~z~Hey, knowing my friends, I hope not.
+
+;0xC872DA4D=ROM1_JD
+0xC872DA4D=ROM1_JD
+
+;0xCA5A833E=~z~Oh la la la la la.
+0xCA5A833E=~z~Oh la la la la la.
+
+;0xCAE8FBDC=~z~You enjoy the bright lights and the big cities and the hope that maybe one day you become rich and stupid
+0xCAE8FBDC=~z~You enjoy the bright lights and the big cities and the hope that maybe one day you become rich and stupid
+
+;0xCAFB94EA=ROM1_LF1
+0xCAFB94EA=ROM1_LF1
+
+;0xCB3BFF28=292
+0xCB3BFF28=292
+
+;0xCB78940D=~z~You may come to understand that in later years, Spaniard.
+0xCB78940D=~z~You may come to understand that in later years, Spaniard.
+
+;0xCBC5FD92=~z~"Ooh la la, I am rich."
+0xCBC5FD92=~z~"Ooh la la, I am rich."
+
+;0xCCC9A45B=ROM1_UA
+0xCCC9A45B=ROM1_UA
+
+;0xCD1385C5=~z~What you doing on the Point anyway?
+0xCD1385C5=~z~What you doing on the Point anyway?
+
+;0xCD4E3A86=~z~Yo. It's the French whipping boy. You ain't getting your cash back, fool.
+0xCD4E3A86=~z~Yo. It's the French whipping boy. You ain't getting your cash back, fool.
+
+;0xCF3A3A88=~z~Sorry papi, I don't smoke.
+0xCF3A3A88=~z~Sorry papi, I don't smoke.
+
+;0xD0F08F73=100090100010090100090010100090100010090100
+0xD0F08F73=100090100010090100090010100090100010090100
+
+;0xD1107511=~z~They do. And that is why I like it.
+0xD1107511=~z~They do. And that is why I like it.
+
+;0xD2E6F756=SFX_PAUSE_120
+0xD2E6F756=SFX_PAUSE_120
+
+;0xD31A3A60=~z~That a fact?
+0xD31A3A60=~z~That a fact?
+
+;0xD44028FD=~z~Alas. A poet you are not.
+0xD44028FD=~z~Alas. A poet you are not.
+
+;0xD48F4CF2=~z~Don't catch nothing, bro.
+0xD48F4CF2=~z~Don't catch nothing, bro.
+
+;0xD577C1E7=~z~Whatever's left of it.
+0xD577C1E7=~z~Whatever's left of it.
+
+;0xD77B30E8=ROM1_RC
+0xD77B30E8=ROM1_RC
+
+;0xD86A630D=~z~how could your dignity ever be in question?
+0xD86A630D=~z~how could your dignity ever be in question?
+
+;0xD87BCD0B=~z~Exactly, whatever. Whatever you say, Daddy.
+0xD87BCD0B=~z~Exactly, whatever. Whatever you say, Daddy.
+
+;0xD884A6AD=~z~He was, perhaps, more dom than sub, that is true.
+0xD884A6AD=~z~He was, perhaps, more dom than sub, that is true.
+
+;0xD8B99779=~z~Who am I to complain? My country is not much better. We are the worst.
+0xD8B99779=~z~Who am I to complain? My country is not much better. We are the worst.
+
+;0xDB5622CC=SFX_PAUSE_250
+0xDB5622CC=SFX_PAUSE_250
+
+;0xDC85F186=~z~Oh la la.
+0xDC85F186=~z~Oh la la.
+
+;0xDCB0A0BB=~z~nothing matters in this world apart from getting your rocks off,
+0xDCB0A0BB=~z~nothing matters in this world apart from getting your rocks off,
+
+;0xDCC73201=ROM1_LA
+0xDCC73201=ROM1_LA
+
+;0xDD8D1EC5=SFX_PAUSE_270
+0xDD8D1EC5=SFX_PAUSE_270
+
+;0xDD90B398=~z~We'll try to get it back then. Hopefully it won't get too stained with no pimp-blood in the process.
+0xDD90B398=~z~We'll try to get it back then. Hopefully it won't get too stained with no pimp-blood in the process.
+
+;0xDE2D6E97=~z~You're a guy who just enjoyed an opium laden threesome with some light bondage...
+0xDE2D6E97=~z~You're a guy who just enjoyed an opium laden threesome with some light bondage...
+
+;0xDF57C78E=~z~This is not a matter I care to report to the police.
+0xDF57C78E=~z~This is not a matter I care to report to the police.
+
+;0xDFFAAE7E=~z~Well,
+0xDFFAAE7E=~z~Well,
+
+;0xE0646968=~z~I'm gonna drop you round the corner, bro. It ain't safe here.
+0xE0646968=~z~I'm gonna drop you round the corner, bro. It ain't safe here.
+
+;0xE0E2C6A5=ROM1_ZA
+0xE0E2C6A5=ROM1_ZA
+
+;0xE1267BAC=~z~I should introduce you to my boss, bro. You guys could party together.
+0xE1267BAC=~z~I should introduce you to my boss, bro. You guys could party together.
+
+;0xE252E808=SFX_PAUSE_270
+0xE252E808=SFX_PAUSE_270
+
+;0xE43F89A3=ROM1_JB
+0xE43F89A3=ROM1_JB
+
+;0xE5360F20=100
+0xE5360F20=100
+
+;0xE582B10C=ROM1_KB
+0xE582B10C=ROM1_KB
+
+;0xE6F033E6=~z~~c~ Whatever, fuck you.
+0xE6F033E6=~z~~c~ Whatever, fuck you.
+
+;0xE823BB87=ROM1_LF2
+0xE823BB87=ROM1_LF2
+
+;0xE845722C=ROM1_WA
+0xE845722C=ROM1_WA
+
+;0xE9026EC9=~z~It was an education... for everyone involved.
+0xE9026EC9=~z~It was an education... for everyone involved.
+
+;0xE9CBD0B3=~z~Yeah, okay, Frenchman.
+0xE9CBD0B3=~z~Yeah, okay, Frenchman.
+
+;0xE9CFE7C7=~z~That is what makes every human being interesting and individual.
+0xE9CFE7C7=~z~That is what makes every human being interesting and individual.
+
+;0xEA11D32F=ROM1_LG
+0xEA11D32F=ROM1_LG
+
+;0xEB52DCA2=ROM1_DB
+0xEB52DCA2=ROM1_DB
+
+;0xED665AE1=ROM1_DA1
+0xED665AE1=ROM1_DA1
+
+;0xEE1E4AC5=~z~we had a little incident...
+0xEE1E4AC5=~z~we had a little incident...
+
+;0xF075035B=~z~Don't worry, bro. He ain't getting away with your wallet.
+0xF075035B=~z~Don't worry, bro. He ain't getting away with your wallet.
+
+;0xF08D5F18=ROM1_RA
+0xF08D5F18=ROM1_RA
+
+;0xF094468F=SFX_PAUSE_220
+0xF094468F=SFX_PAUSE_220
+
+;0xF19B51C3=~z~It is me, Arnaud. Thank fucking God I see you. Thank you, God! Maybe you do exist!
+0xF19B51C3=~z~It is me, Arnaud. Thank fucking God I see you. Thank you, God! Maybe you do exist!
+
+;0xF2CF971A=SFX_PAUSE_180
+0xF2CF971A=SFX_PAUSE_180
+
+;0xF2D04CFA=~z~or getting so out of it so you don't realize you haven't got your rocks off.
+0xF2D04CFA=~z~or getting so out of it so you don't realize you haven't got your rocks off.
+
+;0xF2D66DC0=ROM1_ZB
+0xF2D66DC0=ROM1_ZB
+
+;0xF398AEC5=~z~ and begging me to give it to her again.
+0xF398AEC5=~z~ and begging me to give it to her again.
+
+;0xF3BED181=~z~I thought a free spirit like you wouldn't mind a bit of joy riding.
+0xF3BED181=~z~I thought a free spirit like you wouldn't mind a bit of joy riding.
+
+;0xF4F88604=~z~Ah, a Spaniard. Wonderful. A man of culture.
+0xF4F88604=~z~Ah, a Spaniard. Wonderful. A man of culture.
+
+;0xF55464DA=~z~Yo, I'm cool.
+0xF55464DA=~z~Yo, I'm cool.
+
+;0xF62C8C8D=ROM1_PA
+0xF62C8C8D=ROM1_PA
+
+;0xF6AB2C1B=~z~Every mark on it represents a different pleasure, a different experience.
+0xF6AB2C1B=~z~Every mark on it represents a different pleasure, a different experience.
+
+;0xF72DD9F9=~z~I ain't having you double team on me.
+0xF72DD9F9=~z~I ain't having you double team on me.
+
+;0xF78B3ABD=ROM1_JE
+0xF78B3ABD=ROM1_JE
+
+;0xF86CF56E=SFX_PAUSE_230
+0xF86CF56E=SFX_PAUSE_230
+
+;0xF91E04D4=100
+0xF91E04D4=100
+
+;0xF99470BB=ROM1_LE
+0xF99470BB=ROM1_LE
+
+;0xFA5D2E65=~z~Perhaps on my next trip.
+0xFA5D2E65=~z~Perhaps on my next trip.
+
+;0xFB6F1940=ROM1_CE
+0xFB6F1940=ROM1_CE
+
+;0xFBD37F43=~z~Spaniard, I salute you.
+0xFBD37F43=~z~Spaniard, I salute you.
+
+;0xFC2A1520=~z~Nice, bro. Their parents must be happy they put their trust in you.
+0xFC2A1520=~z~Nice, bro. Their parents must be happy they put their trust in you.
+
+;0xFCE86F78=~z~Perhaps a little four-way?
+0xFCE86F78=~z~Perhaps a little four-way?
+
+;0xFCE96F76=~z~But surely being a pimp implies some perversity, or at least curiosity. It would have been an experience.
+0xFCE96F76=~z~But surely being a pimp implies some perversity, or at least curiosity. It would have been an experience.
+

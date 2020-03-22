@@ -1,0 +1,82 @@
+﻿[TONY8]
+;0x050A3466=Get to ~b~Yusuf's chopper.
+0x050A3466=Get to ~b~Yusuf's chopper.
+
+;0x0ADCBFFF=Get back in ~b~Yusuf's chopper.
+0x0ADCBFFF=Get back in ~b~Yusuf's chopper.
+
+;0x13008ADD=~r~You abandoned Yusuf's chopper.
+0x13008ADD=~r~You abandoned Yusuf's chopper.
+
+;0x19FB5E48=Take the helicopter back to the ~y~helipad.
+0x19FB5E48=Take the helicopter back to the ~y~helipad.
+
+;0x211CA715=~r~You attacked Johnny.
+0x211CA715=~r~You attacked Johnny.
+
+;0x24C773E0=Climb down the scaffolding to the ~y~window~s~ overlooking the deal.
+0x24C773E0=Climb down the scaffolding to the ~y~window~s~ overlooking the deal.
+
+;0x44C76E6A=~r~You attacked Niko.
+0x44C76E6A=~r~You attacked Niko.
+
+;0x4B193F6F=~s~Flee the Libertonian in ~b~Yusuf's chopper.
+0x4B193F6F=~s~Flee the Libertonian in ~b~Yusuf's chopper.
+
+;0x4CD642E9=~s~Destroy the pursuing police ~r~choppers.
+0x4CD642E9=~s~Destroy the pursuing police ~r~choppers.
+
+;0x4FB6C9BE=Fly to the roof of the ~y~Libertonian.
+0x4FB6C9BE=Fly to the roof of the ~y~Libertonian.
+
+;0x638A9F88=~r~Tony's car was destroyed.
+0x638A9F88=~r~Tony's car was destroyed.
+
+;0x6F7DC3D6=~r~Niko has been injured.
+0x6F7DC3D6=~r~Niko has been injured.
+
+;0x70BA39E7=~r~Tony has been injured.
+0x70BA39E7=~r~Tony has been injured.
+
+;0x7603C47E=~r~Johnny has been injured.
+0x7603C47E=~r~Johnny has been injured.
+
+;0x84B661E3=~r~You alerted security.
+0x84B661E3=~r~You alerted security.
+
+;0x87116695=~r~Tony's friend is dead.
+0x87116695=~r~Tony's friend is dead.
+
+;0x915B8795=~r~Yusuf's chopper is stuck.
+0x915B8795=~r~Yusuf's chopper is stuck.
+
+;0x9F7423C6=~r~Yusuf's chopper was destroyed.
+0x9F7423C6=~r~Yusuf's chopper was destroyed.
+
+;0xB4AA4E32=~r~You spooked the dealers.
+0xB4AA4E32=~r~You spooked the dealers.
+
+;0xC2FFEADD=~r~Isaac has been killed.
+0xC2FFEADD=~r~Isaac has been killed.
+
+;0xC84A3AEB=Escape the Libertonian via the ~y~skylight.
+0xC84A3AEB=Escape the Libertonian via the ~y~skylight.
+
+;0xCBCDC1F2=Take the diamonds to ~b~Tony.
+0xCBCDC1F2=Take the diamonds to ~b~Tony.
+
+;0xCCDD722C=~r~Tony's friend has been injured.
+0xCCDD722C=~r~Tony's friend has been injured.
+
+;0xD85F159B=~r~Tony is dead.
+0xD85F159B=~r~Tony is dead.
+
+;0xDD5B650D=~s~Lose the cops.
+0xDD5B650D=~s~Lose the cops.
+
+;0xE689B1F0=~r~Yusuf's chopper was wrecked.
+0xE689B1F0=~r~Yusuf's chopper was wrecked.
+
+;0xF74B18DC=Fly back to the roof of the ~y~Libertonian.
+0xF74B18DC=Fly back to the roof of the ~y~Libertonian.
+

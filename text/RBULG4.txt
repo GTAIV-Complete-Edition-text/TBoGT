@@ -1,0 +1,43 @@
+﻿[RBULG4]
+;0x1B0743DC=Take out the ~r~snipers.~s~
+0x1B0743DC=Take out the ~r~snipers.~s~
+
+;0x30F71A06=~r~You are out of sniper rifle ammo.
+0x30F71A06=~r~You are out of sniper rifle ammo.
+
+;0x464D2FC4=Killed ~1~ of ~1~ snipers.
+0x464D2FC4=Killed ~1~ of ~1~ snipers.
+
+;0x56F83A11=More assassins have arrived. Find a way off the ~y~roof.
+0x56F83A11=More assassins have arrived. Find a way off the ~y~roof.
+
+;0x6BC3E71F=The snipers will be marked when they fire a shot. Try to pinpoint their location and take them out.
+0x6BC3E71F=The snipers will be marked when they fire a shot. Try to pinpoint their location and take them out.
+
+;0x87D15BB6=Go to the ~y~building ~s~and protect Timur.
+0x87D15BB6=Go to the ~y~building ~s~and protect Timur.
+
+;0x964FE835=Lose the cops.
+0x964FE835=Lose the cops.
+
+;0xABF12117=Mission passed phonecall.
+0xABF12117=Mission passed phonecall.
+
+;0xB03B8C15=~r~You failed to kill the snipers.~s~
+0xB03B8C15=~r~You failed to kill the snipers.~s~
+
+;0xB527B662=Go and collect the ~g~sniper rifle.~s~
+0xB527B662=Go and collect the ~g~sniper rifle.~s~
+
+;0xB7C093DD=Go into the ~y~building.
+0xB7C093DD=Go into the ~y~building.
+
+;0xBF477F90=The building is on fire. Find another escape route then leave the area.
+0xBF477F90=The building is on fire. Find another escape route then leave the area.
+
+;0xD3C0BEC8=Leave the area.
+0xD3C0BEC8=Leave the area.
+
+;0xE8E5BA7D=~s~Get back to the ~y~building.
+0xE8E5BA7D=~s~Get back to the ~y~building.
+
