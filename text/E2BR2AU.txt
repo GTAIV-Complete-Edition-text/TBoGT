@@ -1,0 +1,718 @@
+﻿[E2BR2AU]
+;0x00754A1D=~z~Man, you got to love interns. Those fucks'll do anything.
+0x00754A1D=~z~Man, you got to love interns. Those fucks'll do anything.
+
+;0x012ED3C0=~z~Bring it bro.
+0x012ED3C0=~z~Bring it bro.
+
+;0x033D4F98=~z~Good for you, Tiny. So, umm, do we got to see each other again?
+0x033D4F98=~z~Good for you, Tiny. So, umm, do we got to see each other again?
+
+;0x0345EC5E=SFX_PAUSE_170
+0x0345EC5E=SFX_PAUSE_170
+
+;0x0372410E=~z~Let me win. Come on.
+0x0372410E=~z~Let me win. Come on.
+
+;0x049003DE=SFX_PAUSE_310
+0x049003DE=SFX_PAUSE_310
+
+;0x05C841E7=~z~Kiss my orange ass.
+0x05C841E7=~z~Kiss my orange ass.
+
+;0x0749E1DF=011
+0x0749E1DF=011
+
+;0x078221FF=~z~It's Mori's friend.
+0x078221FF=~z~It's Mori's friend.
+
+;0x07DA84D9=100090100090010100090100100090010090100100090010
+0x07DA84D9=100090100090010100090100100090010090100100090010
+
+;0x07F64E62=E2BR2_HD
+0x07F64E62=E2BR2_HD
+
+;0x08237F40=SFX_PAUSE_130
+0x08237F40=SFX_PAUSE_130
+
+;0x083E49E4=E2BR2_GA
+0x083E49E4=E2BR2_GA
+
+;0x097B3AE7=~z~Calculated risk. What are you gonna do?
+0x097B3AE7=~z~Calculated risk. What are you gonna do?
+
+;0x0B01944C=SFX_PAUSE_170
+0x0B01944C=SFX_PAUSE_170
+
+;0x0B6F357E=E2BR2_GD
+0x0B6F357E=E2BR2_GD
+
+;0x0BD3116A=SFX_PAUSE_150
+0x0BD3116A=SFX_PAUSE_150
+
+;0x0C65C556=E2BR2_FE
+0x0C65C556=E2BR2_FE
+
+;0x0CC3D52F=E2BR2_GB
+0x0CC3D52F=E2BR2_GB
+
+;0x0F021778=~z~Maybe that's because I had a brother as pathetic as little B,
+0x0F021778=~z~Maybe that's because I had a brother as pathetic as little B,
+
+;0x10B55B60=SFX_PAUSE_190
+0x10B55B60=SFX_PAUSE_190
+
+;0x12AC17CE=~z~Oh, Luis. You're gonna get your ass handed to you, you bitch.
+0x12AC17CE=~z~Oh, Luis. You're gonna get your ass handed to you, you bitch.
+
+;0x14831A43=291291090291090291
+0x14831A43=291291090291090291
+
+;0x14EC5E15=100090010100090010
+0x14EC5E15=100090010100090010
+
+;0x1561F3D9=E2BR2_AAA
+0x1561F3D9=E2BR2_AAA
+
+;0x16635CBF=E2BR2_DE1
+0x16635CBF=E2BR2_DE1
+
+;0x16A45E49=SFX_PAUSE_190
+0x16A45E49=SFX_PAUSE_190
+
+;0x16DA1BDF=SFX_PAUSE_130
+0x16DA1BDF=SFX_PAUSE_130
+
+;0x16DD9AC7=~z~I'm racing an orange midget. Why wouldn't I be ready?
+0x16DD9AC7=~z~I'm racing an orange midget. Why wouldn't I be ready?
+
+;0x17576D92=~z~Oooh! My jackhammer would crush the shit outta you, bitch.
+0x17576D92=~z~Oooh! My jackhammer would crush the shit outta you, bitch.
+
+;0x17A113FF=E2BR2_EH
+0x17A113FF=E2BR2_EH
+
+;0x18238421=~z~I got into two. Come on, let's get outta here.
+0x18238421=~z~I got into two. Come on, let's get outta here.
+
+;0x1BCB2287=~z~The first person to make it to the finish in Middle Park is the winner.
+0x1BCB2287=~z~The first person to make it to the finish in Middle Park is the winner.
+
+;0x1BF52A60=~z~Ho! I never thought hustling you was gonna be this easy, Lopez.
+0x1BF52A60=~z~Ho! I never thought hustling you was gonna be this easy, Lopez.
+
+;0x1D6F6E4F=E2BR2_DD
+0x1D6F6E4F=E2BR2_DD
+
+;0x1D911F6F=~z~Saving one last job I need help with, I'll let you off all your contractual obligations.
+0x1D911F6F=~z~Saving one last job I need help with, I'll let you off all your contractual obligations.
+
+;0x20487462=~z~3!
+0x20487462=~z~3!
+
+;0x2259A6FC=E2BR2_EI
+0x2259A6FC=E2BR2_EI
+
+;0x24DBFE38=SFX_PAUSE_210
+0x24DBFE38=SFX_PAUSE_210
+
+;0x2518EB1B=SFX_PAUSE_160
+0x2518EB1B=SFX_PAUSE_160
+
+;0x2783CC34=E2BR2_ED
+0x2783CC34=E2BR2_ED
+
+;0x28D0B6E5=SFX_PAUSE_220
+0x28D0B6E5=SFX_PAUSE_220
+
+;0x2A61A89D=~z~Little thicko never went to college... I never got into an Ivy League school.
+0x2A61A89D=~z~Little thicko never went to college... I never got into an Ivy League school.
+
+;0x2BF3BC3F=SFX_PAUSE_170
+0x2BF3BC3F=SFX_PAUSE_170
+
+;0x2D61B7D8=~z~Hey, here's to that.
+0x2D61B7D8=~z~Hey, here's to that.
+
+;0x2E658157=~z~It's Luis, bro.
+0x2E658157=~z~It's Luis, bro.
+
+;0x2E715B48=101
+0x2E715B48=101
+
+;0x2EA50F9E=SFX_PAUSE_190
+0x2EA50F9E=SFX_PAUSE_190
+
+;0x2FA88B05=E2BR2_CC1
+0x2FA88B05=E2BR2_CC1
+
+;0x2FB64B43=SFX_PAUSE_130
+0x2FB64B43=SFX_PAUSE_130
+
+;0x300E0596=~z~Ahh, you'll be my bitch for life after this, Louie.
+0x300E0596=~z~Ahh, you'll be my bitch for life after this, Louie.
+
+;0x35810CC6=~z~Maybe they couldn't get the seat up high enough to bring your head into shot.
+0x35810CC6=~z~Maybe they couldn't get the seat up high enough to bring your head into shot.
+
+;0x35C0AB0A=SFX_PAUSE_190
+0x35C0AB0A=SFX_PAUSE_190
+
+;0x361B665E=091
+0x361B665E=091
+
+;0x364FB5D1=~z~Oh well we agree on something at least?
+0x364FB5D1=~z~Oh well we agree on something at least?
+
+;0x388844E2=~z~Hey Lou! Come on in.. hang on one second...
+0x388844E2=~z~Hey Lou! Come on in.. hang on one second...
+
+;0x38F3D634=~z~You win and I forget about the dollars I'm owed.
+0x38F3D634=~z~You win and I forget about the dollars I'm owed.
+
+;0x3AEB5973=SFX_PAUSE_170
+0x3AEB5973=SFX_PAUSE_170
+
+;0x3B9FB622=~z~I ain't having no monster measuring contest, bro. I keep telling you I ain't into that creepy shit.
+0x3B9FB622=~z~I ain't having no monster measuring contest, bro. I keep telling you I ain't into that creepy shit.
+
+;0x3DD0A11B=~z~I'm unstoppable, bitch.
+0x3DD0A11B=~z~I'm unstoppable, bitch.
+
+;0x3EA3E568=E2BR2_EF
+0x3EA3E568=E2BR2_EF
+
+;0x3ED85167=~z~Them little legs of yours ain't gonna carry you too fast.
+0x3ED85167=~z~Them little legs of yours ain't gonna carry you too fast.
+
+;0x403768B9=E2BR2_PD
+0x403768B9=E2BR2_PD
+
+;0x40A025CC=~z~It'll be Little Louise if I want it to be, you still owe me money, so you're still my bitch.
+0x40A025CC=~z~It'll be Little Louise if I want it to be, you still owe me money, so you're still my bitch.
+
+;0x415DE0F8=SFX_PAUSE_190
+0x415DE0F8=SFX_PAUSE_190
+
+;0x41B66C0B=E2BR2_HF
+0x41B66C0B=E2BR2_HF
+
+;0x44A3F254=E2BR2_VE
+0x44A3F254=E2BR2_VE
+
+;0x44C7B41E=SFX_PAUSE_170
+0x44C7B41E=SFX_PAUSE_170
+
+;0x45835A58=E2BR2_VF
+0x45835A58=E2BR2_VF
+
+;0x45EE54F5=~z~Ouch, man. That's got to be an expensive race for you.
+0x45EE54F5=~z~Ouch, man. That's got to be an expensive race for you.
+
+;0x45FF5EB6=E2BR2_BC
+0x45FF5EB6=E2BR2_BC
+
+;0x46C0ECD6=E2BR2_EB
+0x46C0ECD6=E2BR2_EB
+
+;0x4936FD5E=~z~Are you ready?
+0x4936FD5E=~z~Are you ready?
+
+;0x4A308569=SFX_PAUSE_180
+0x4A308569=SFX_PAUSE_180
+
+;0x4AED38BC=100090010090100090100090100090010
+0x4AED38BC=100090010090100090100090100090010
+
+;0x4D6E841D=SFX_PAUSE_190
+0x4D6E841D=SFX_PAUSE_190
+
+;0x4EE25EAE=~z~Oh sure. Sure. Don't you ever get tired a that shit? That muscle bound fag hag routine?
+0x4EE25EAE=~z~Oh sure. Sure. Don't you ever get tired a that shit? That muscle bound fag hag routine?
+
+;0x4FC0187C=~z~Get us to the heliport near Fishmarket South.
+0x4FC0187C=~z~Get us to the heliport near Fishmarket South.
+
+;0x503FD01C=E2BR2_HE
+0x503FD01C=E2BR2_HE
+
+;0x51D0482C=~z~So I got a proposition for you, Louie.
+0x51D0482C=~z~So I got a proposition for you, Louie.
+
+;0x521CC5FD=~z~How's that business of yours? I been looking in them financial papers and I ain't been seeing your face.
+0x521CC5FD=~z~How's that business of yours? I been looking in them financial papers and I ain't been seeing your face.
+
+;0x533174D4=SFX_PAUSE_190
+0x533174D4=SFX_PAUSE_190
+
+;0x549604A5=SFX_PAUSE_220
+0x549604A5=SFX_PAUSE_220
+
+;0x55437E3D=~z~We gonna give a headstart to those under four feet?
+0x55437E3D=~z~We gonna give a headstart to those under four feet?
+
+;0x56A85AC7=SFX_PAUSE_160
+0x56A85AC7=SFX_PAUSE_160
+
+;0x5804A24D=~z~Alright, bro, I gave my word.
+0x5804A24D=~z~Alright, bro, I gave my word.
+
+;0x588B0B2F=E2BR2_IF
+0x588B0B2F=E2BR2_IF
+
+;0x59D8D92B=~z~Oh yeah, I'm the shit.
+0x59D8D92B=~z~Oh yeah, I'm the shit.
+
+;0x5A97A087=SFX_PAUSE_160
+0x5A97A087=SFX_PAUSE_160
+
+;0x5B30F176=E2BR2_HC
+0x5B30F176=E2BR2_HC
+
+;0x5C20250A=E2BR2_PB
+0x5C20250A=E2BR2_PB
+
+;0x5DDEBC1A=E2BR2_HA
+0x5DDEBC1A=E2BR2_HA
+
+;0x5E7335E2=~z~Take us over the bridge and to the heliport.
+0x5E7335E2=~z~Take us over the bridge and to the heliport.
+
+;0x5EC17C65=~z~Now listen to me, I got a wager.
+0x5EC17C65=~z~Now listen to me, I got a wager.
+
+;0x616425E3=SFX_PAUSE_360
+0x616425E3=SFX_PAUSE_360
+
+;0x62557091=E2BR2_GC1
+0x62557091=E2BR2_GC1
+
+;0x630F8377=SFX_PAUSE_120
+0x630F8377=SFX_PAUSE_120
+
+;0x6932CBD8=~z~or maybe it is because I am the S-H-I-T, bitch!
+0x6932CBD8=~z~or maybe it is because I am the S-H-I-T, bitch!
+
+;0x6A360331=SFX_PAUSE_210
+0x6A360331=SFX_PAUSE_210
+
+;0x6A967AA6=~z~I'm the daddy. I'm the daddy. Oh, I'm the daddy.
+0x6A967AA6=~z~I'm the daddy. I'm the daddy. Oh, I'm the daddy.
+
+;0x6B5C17A1=~z~Working with Tone? You must be joking, man. Even jail would be a vacation in comparison to hanging with you.
+0x6B5C17A1=~z~Working with Tone? You must be joking, man. Even jail would be a vacation in comparison to hanging with you.
+
+;0x6CE2F70C=SFX_PAUSE_190
+0x6CE2F70C=SFX_PAUSE_190
+
+;0x6DB647DC=SFX_PAUSE_150
+0x6DB647DC=SFX_PAUSE_150
+
+;0x6F239873=~z~Stay away from me.
+0x6F239873=~z~Stay away from me.
+
+;0x6FD448C5=E2BR2_FA
+0x6FD448C5=E2BR2_FA
+
+;0x737A01A9=302
+0x737A01A9=302
+
+;0x7421507F=SFX_PAUSE_150
+0x7421507F=SFX_PAUSE_150
+
+;0x75051865=E2BR2_CC2
+0x75051865=E2BR2_CC2
+
+;0x762DD9F3=E2BR2_DE2
+0x762DD9F3=E2BR2_DE2
+
+;0x76FFDA73=E2BR2_DG
+0x76FFDA73=E2BR2_DG
+
+;0x77819F9A=E2BR2_KA
+0x77819F9A=E2BR2_KA
+
+;0x7D863609=191
+0x7D863609=191
+
+;0x7E522A89=E2BR2_FC
+0x7E522A89=E2BR2_FC
+
+;0x802D64CE=~z~Enough of this bullshit, Lou. How about a wager?
+0x802D64CE=~z~Enough of this bullshit, Lou. How about a wager?
+
+;0x803637DF=010090010090100090100010
+0x803637DF=010090010090100090100010
+
+;0x80D7A76E=E2BR2_DB
+0x80D7A76E=E2BR2_DB
+
+;0x81F7CD20=~z~Oh yeah! Marketing associates, publicity, entertainment - we never pay a buck for those people.
+0x81F7CD20=~z~Oh yeah! Marketing associates, publicity, entertainment - we never pay a buck for those people.
+
+;0x828C72F0=E2BR2_VC
+0x828C72F0=E2BR2_VC
+
+;0x8532F02D=E2BR2_EG
+0x8532F02D=E2BR2_EG
+
+;0x85A630C5=~z~I own this shit!
+0x85A630C5=~z~I own this shit!
+
+;0x891204BE=100090010100090100
+0x891204BE=100090010100090100
+
+;0x8A3BBA96=E2BR2_CA
+0x8A3BBA96=E2BR2_CA
+
+;0x8CBF0CA0=E2BR2_IJ
+0x8CBF0CA0=E2BR2_IJ
+
+;0x8D813CB5=~z~Not really, bro. Being around people you want to kill. That shit gets confusing, Mori.
+0x8D813CB5=~z~Not really, bro. Being around people you want to kill. That shit gets confusing, Mori.
+
+;0x8D83FD18=~z~All or nothing, eh? Heavenly peace or a lifetime of being tortured by some hellish imp?
+0x8D83FD18=~z~All or nothing, eh? Heavenly peace or a lifetime of being tortured by some hellish imp?
+
+;0x8F0851F0=~z~Go!
+0x8F0851F0=~z~Go!
+
+;0x91177F46=~z~Yeah, you shit alright.
+0x91177F46=~z~Yeah, you shit alright.
+
+;0x93B24CDD=~z~You're gonna get left in the dust, you big lug.
+0x93B24CDD=~z~You're gonna get left in the dust, you big lug.
+
+;0x94D877AD=SFX_PAUSE_160
+0x94D877AD=SFX_PAUSE_160
+
+;0x95B57807=E2BR2_IC
+0x95B57807=E2BR2_IC
+
+;0x96EFFF40=E2BR2_IA
+0x96EFFF40=E2BR2_IA
+
+;0x97AF5111=~z~Chill the fuck out. Being around all those gay dudes all day must get confusing, I understand.
+0x97AF5111=~z~Chill the fuck out. Being around all those gay dudes all day must get confusing, I understand.
+
+;0x97D0D904=SFX_PAUSE_160
+0x97D0D904=SFX_PAUSE_160
+
+;0x980D8437=SFX_PAUSE_180
+0x980D8437=SFX_PAUSE_180
+
+;0x983E81E1=~z~An extreme race around the city. Air, more air, water, land, it's got it all.
+0x983E81E1=~z~An extreme race around the city. Air, more air, water, land, it's got it all.
+
+;0x994003F0=~z~Shit, that's heavy man. But maybe losing everything is about worth it to not see you again. What we betting on?
+0x994003F0=~z~Shit, that's heavy man. But maybe losing everything is about worth it to not see you again. What we betting on?
+
+;0x99B39E00=E2BR2_PC
+0x99B39E00=E2BR2_PC
+
+;0x9C4C22C7=SFX_PAUSE_190
+0x9C4C22C7=SFX_PAUSE_190
+
+;0x9E9E61C3=SFX_PAUSE_210
+0x9E9E61C3=SFX_PAUSE_210
+
+;0x9EC80B2A=~z~Fuck yeah!
+0x9EC80B2A=~z~Fuck yeah!
+
+;0x9EFF38D0=E2BR2_IG
+0x9EFF38D0=E2BR2_IG
+
+;0x9FC8B96F=~z~It's a race, you fucking pussy. All around the city. Only for serious high roller cats.
+0x9FC8B96F=~z~It's a race, you fucking pussy. All around the city. Only for serious high roller cats.
+
+;0x9FD18CC1=E2BR2_BA
+0x9FD18CC1=E2BR2_BA
+
+;0xA0297FDF=E2BR2_VG
+0xA0297FDF=E2BR2_VG
+
+;0xA16BE850=~z~I'm gonna own those clubs, Lopez.
+0xA16BE850=~z~I'm gonna own those clubs, Lopez.
+
+;0xA1862524=~z~I get everything. You're rolling with me full time, hombre. Buddies for life. Mmmwah.
+0xA1862524=~z~I get everything. You're rolling with me full time, hombre. Buddies for life. Mmmwah.
+
+;0xA1B27D90=~z~I mortgaged my house to do this race.
+0xA1B27D90=~z~I mortgaged my house to do this race.
+
+;0xA1F332A5=E2BR2_DF
+0xA1F332A5=E2BR2_DF
+
+;0xA3C8824A=SFX_PAUSE_300
+0xA3C8824A=SFX_PAUSE_300
+
+;0xA500B9E8=E2BR2_VB
+0xA500B9E8=E2BR2_VB
+
+;0xA77D8AFE=SFX_PAUSE_180
+0xA77D8AFE=SFX_PAUSE_180
+
+;0xA8837909=E2BR2_DA
+0xA8837909=E2BR2_DA
+
+;0xA8DB4409=100090100090100100010090100090010090100100090010
+0xA8DB4409=100090100090100100010090100090010090100100090010
+
+;0xAA979623=~z~You know, I don't get you, Lopez. No ambition.
+0xAA979623=~z~You know, I don't get you, Lopez. No ambition.
+
+;0xAB6D0AB9=~z~1!
+0xAB6D0AB9=~z~1!
+
+;0xAC3828B0=E2BR2_ID
+0xAC3828B0=E2BR2_ID
+
+;0xAE3E046E=~z~Okay. So what we betting on?
+0xAE3E046E=~z~Okay. So what we betting on?
+
+;0xAF1E068A=E2BR2_CB
+0xAF1E068A=E2BR2_CB
+
+;0xAF5C0438=~z~I'm gonna beat you, Lou.
+0xAF5C0438=~z~I'm gonna beat you, Lou.
+
+;0xB30078F9=~z~This race is mine, midget whisperer.
+0xB30078F9=~z~This race is mine, midget whisperer.
+
+;0xB3330818=~z~You know I'm sensing a little tension here, Lou. You should let it out. I don't know, beat off more or something.
+0xB3330818=~z~You know I'm sensing a little tension here, Lou. You should let it out. I don't know, beat off more or something.
+
+;0xB34EA016=~z~I'm worried I'd be replacing it with "tiny cunt management".
+0xB34EA016=~z~I'm worried I'd be replacing it with "tiny cunt management".
+
+;0xB3B1CE52=SFX_PAUSE_220
+0xB3B1CE52=SFX_PAUSE_220
+
+;0xB3F195B6=402
+0xB3F195B6=402
+
+;0xB6172659=~z~Back off of me.
+0xB6172659=~z~Back off of me.
+
+;0xB6C8A85E=SFX_PAUSE_130
+0xB6C8A85E=SFX_PAUSE_130
+
+;0xB75037D4=~z~Don't even have to pay them neither.
+0xB75037D4=~z~Don't even have to pay them neither.
+
+;0xB7BAB890=~z~I told you, Louie. One more job. I got some cars to procure and you're gonna help me.
+0xB7BAB890=~z~I told you, Louie. One more job. I got some cars to procure and you're gonna help me.
+
+;0xB7F043BA=E2BR2_BB
+0xB7F043BA=E2BR2_BB
+
+;0xBAC9E7EA=E2BR2_VA
+0xBAC9E7EA=E2BR2_VA
+
+;0xBB297030=~z~Choppers, boats, cars and everything in between.
+0xBB297030=~z~Choppers, boats, cars and everything in between.
+
+;0xBC9CE695=E2BR2_MA
+0xBC9CE695=E2BR2_MA
+
+;0xBCBA8C71=~z~Hey! Why you hang out with that asshole Mori?
+0xBCBA8C71=~z~Hey! Why you hang out with that asshole Mori?
+
+;0xBCECAF7B=E2BR2_DC
+0xBCECAF7B=E2BR2_DC
+
+;0xBEC4364B=010090100090010090100010090010100090010
+0xBEC4364B=010090100090010090100010090010100090010
+
+;0xBFE1799E=192
+0xBFE1799E=192
+
+;0xC1F77CE9=~z~Algonquin heliport, come on, hit it.
+0xC1F77CE9=~z~Algonquin heliport, come on, hit it.
+
+;0xC2657A2C=E2BR2_II
+0xC2657A2C=E2BR2_II
+
+;0xC5966D1A=E2BR2_BD
+0xC5966D1A=E2BR2_BD
+
+;0xC603EE1F=~z~That sounds too good to be true, bro. What happens if I lose?
+0xC603EE1F=~z~That sounds too good to be true, bro. What happens if I lose?
+
+;0xC7760413=E2BR2_MC1
+0xC7760413=E2BR2_MC1
+
+;0xC7C56CA1=~z~and then all your contractual obligations are released.
+0xC7C56CA1=~z~and then all your contractual obligations are released.
+
+;0xC7F3C3C6=~z~2!
+0xC7F3C3C6=~z~2!
+
+;0xCAC00F5D=~z~So all I gotta do is win that and you out of our lives?
+0xCAC00F5D=~z~So all I gotta do is win that and you out of our lives?
+
+;0xCC276776=E2BR2_IE
+0xCC276776=E2BR2_IE
+
+;0xCCBBFB8B=~z~Well, how about everything Tony owes me? And I promise to get out of your life if you win.
+0xCCBBFB8B=~z~Well, how about everything Tony owes me? And I promise to get out of your life if you win.
+
+;0xCCF304B4=~z~You will be airlifted to the start where you will race from one vehicle to the next.
+0xCCF304B4=~z~You will be airlifted to the start where you will race from one vehicle to the next.
+
+;0xCEFFF15F=E2BR2_IB
+0xCEFFF15F=E2BR2_IB
+
+;0xCF54588D=E2BR2_PA
+0xCF54588D=E2BR2_PA
+
+;0xCFAC03CA=~z~And you sign everything over to me.
+0xCFAC03CA=~z~And you sign everything over to me.
+
+;0xD26281DB=~z~Now if you do win, which you won't, you just got to help me with one more thing
+0xD26281DB=~z~Now if you do win, which you won't, you just got to help me with one more thing
+
+;0xD2858959=~z~Bro, I need that little speech in writing. What if I lose?
+0xD2858959=~z~Bro, I need that little speech in writing. What if I lose?
+
+;0xD4176922=~z~You should give it all up to work with some real men on some serious shit.
+0xD4176922=~z~You should give it all up to work with some real men on some serious shit.
+
+;0xD84C1BE2=E2BR2_VD
+0xD84C1BE2=E2BR2_VD
+
+;0xD881AAE0=~z~In theory, yes. But that ain't gonna happen, dog. 'Cause I never lost at nothing in my whole life.
+0xD881AAE0=~z~In theory, yes. But that ain't gonna happen, dog. 'Cause I never lost at nothing in my whole life.
+
+;0xD97DFC2F=~z~God bless college credit. Ooh!
+0xD97DFC2F=~z~God bless college credit. Ooh!
+
+;0xDBE93348=SFX_PAUSE_190
+0xDBE93348=SFX_PAUSE_190
+
+;0xDD20DFC1=~z~What part of this race am I not good at?
+0xDD20DFC1=~z~What part of this race am I not good at?
+
+;0xDFB7CF11=E2BR2_AA
+0xDFB7CF11=E2BR2_AA
+
+;0xE131D3D0=E2BR2_JA
+0xE131D3D0=E2BR2_JA
+
+;0xE19B949A=~z~Only the richest most hardcore cats can enter. You in?
+0xE19B949A=~z~Only the richest most hardcore cats can enter. You in?
+
+;0xE2EAF073=SFX_PAUSE_150
+0xE2EAF073=SFX_PAUSE_150
+
+;0xE56AD13D=100
+0xE56AD13D=100
+
+;0xE6721962=E2BR2_ZA
+0xE6721962=E2BR2_ZA
+
+;0xE7251D18=E2BR2_QA
+0xE7251D18=E2BR2_QA
+
+;0xE7F8C237=~z~Come by Brucie's and we'll hit it.
+0xE7F8C237=~z~Come by Brucie's and we'll hit it.
+
+;0xE821B491=~z~I get the fuck outta your life, you and your fairy godmother can assfuck a pumpkin all night long.
+0xE821B491=~z~I get the fuck outta your life, you and your fairy godmother can assfuck a pumpkin all night long.
+
+;0xE9DF985D=011090101090101090011090101101090011
+0xE9DF985D=011090101090101090011090101101090011
+
+;0xEA521DBE=~z~Bullshit, man. Someone musta sabotaged me or something. No, shit, no I wanted to lose.
+0xEA521DBE=~z~Bullshit, man. Someone musta sabotaged me or something. No, shit, no I wanted to lose.
+
+;0xEAFC68F4=~z~You're not winning, you dwarf loving gimp.
+0xEAFC68F4=~z~You're not winning, you dwarf loving gimp.
+
+;0xED273C61=~z~What's on the line then, you terrifyingly insecure midget?
+0xED273C61=~z~What's on the line then, you terrifyingly insecure midget?
+
+;0xED6DC180=E2BR2_IH
+0xED6DC180=E2BR2_IH
+
+;0xEF9B2029=~z~You could add a zero to that little tiny pay check a yours and take "mopping cum" out the job description.
+0xEF9B2029=~z~You could add a zero to that little tiny pay check a yours and take "mopping cum" out the job description.
+
+;0xF19F638D=~z~There ain't much beyond a common love of free labor from snotty graduates. That for sure.
+0xF19F638D=~z~There ain't much beyond a common love of free labor from snotty graduates. That for sure.
+
+;0xF1F60E7C=E2BR2_NA
+0xF1F60E7C=E2BR2_NA
+
+;0xF2C795A0=E2BR2_EE2
+0xF2C795A0=E2BR2_EE2
+
+;0xF3023AE9=SFX_PAUSE_270
+0xF3023AE9=SFX_PAUSE_270
+
+;0xF304A4ED=~z~No, no, no, no. I'm talking a fair bet. Calculated risk.
+0xF304A4ED=~z~No, no, no, no. I'm talking a fair bet. Calculated risk.
+
+;0xF38A441A=E2BR2_EA
+0xF38A441A=E2BR2_EA
+
+;0xF42C5C27=SFX_PAUSE_150
+0xF42C5C27=SFX_PAUSE_150
+
+;0xF605086A=E2BR2_GC2
+0xF605086A=E2BR2_GC2
+
+;0xF75F9348=~z~Man, Tony, you owe me, bro. Making me hang out with this jackass.
+0xF75F9348=~z~Man, Tony, you owe me, bro. Making me hang out with this jackass.
+
+;0xF78C1709=~z~Shit is tough.
+0xF78C1709=~z~Shit is tough.
+
+;0xF81A1CFD=E2BR2_EE1
+0xF81A1CFD=E2BR2_EE1
+
+;0xF820A485=E2BR2_OA
+0xF820A485=E2BR2_OA
+
+;0xF965AB6D=E2BR2_HB
+0xF965AB6D=E2BR2_HB
+
+;0xF967DA02=E2BR2_FB
+0xF967DA02=E2BR2_FB
+
+;0xF9C2473C=~z~I don't like your chances, big man.
+0xF9C2473C=~z~I don't like your chances, big man.
+
+;0xFA1A597B=E2BR2_MB
+0xFA1A597B=E2BR2_MB
+
+;0xFA4023FA=291090291090291090291
+0xFA4023FA=291090291090291090291
+
+;0xFAEC2183=E2BR2_FD
+0xFAEC2183=E2BR2_FD
+
+;0xFAF07262=E2BR2_EC
+0xFAF07262=E2BR2_EC
+
+;0xFB3AE143=~z~You have all been provided, parachutes, boats, and cars.
+0xFB3AE143=~z~You have all been provided, parachutes, boats, and cars.
+
+;0xFB53E98E=E2BR2_MC2
+0xFB53E98E=E2BR2_MC2
+
+;0xFBD91760=E2BR2_GE
+0xFBD91760=E2BR2_GE
+
+;0xFC1C395B=100090010090100010090100090010
+0xFC1C395B=100090010090100010090100090010
+
+;0xFC95CD0A=~z~Check...mate. See ya!
+0xFC95CD0A=~z~Check...mate. See ya!
+
+;0xFD7BED6A=~z~Here we be! This is where the shit kicks off.
+0xFD7BED6A=~z~Here we be! This is where the shit kicks off.
+
+;0xFDF8C50B=~z~You think Tony's cash means shit to me? I got other investments.
+0xFDF8C50B=~z~You think Tony's cash means shit to me? I got other investments.
+

@@ -1,0 +1,163 @@
+﻿[BRO2]
+;0x01B512DE=12th
+0x01B512DE=12th
+
+;0x059DA632=10th
+0x059DA632=10th
+
+;0x078E6C91=~r~You injured a fellow competitor.
+0x078E6C91=~r~You injured a fellow competitor.
+
+;0x093BE03D=~r~You destroyed a fellow competitor's car.
+0x093BE03D=~r~You destroyed a fellow competitor's car.
+
+;0x0A6274B5=~r~You beached the boat.
+0x0A6274B5=~r~You beached the boat.
+
+;0x12AB08C4=Press ~INPUT_VEH_CIN_CAM~ to activate nitro.
+0x12AB08C4=Press ~INPUT_VEH_CIN_CAM~ to activate nitro.
+
+;0x146528DF=7th
+0x146528DF=7th
+
+;0x19D8B3C5=4th
+0x19D8B3C5=4th
+
+;0x242ADCA8=~r~You lose.
+0x242ADCA8=~r~You lose.
+
+;0x25ABF293=MOCAP CUTSCENE: Player Loses the race.
+0x25ABF293=MOCAP CUTSCENE: Player Loses the race.
+
+;0x27F4A583=~s~Get in the ~b~car.~s~
+0x27F4A583=~s~Get in the ~b~car.~s~
+
+;0x293E4155=3rd
+0x293E4155=3rd
+
+;0x2AEF62EB=~R~The car was wrecked.
+0x2AEF62EB=~R~The car was wrecked.
+
+;0x2FC30569=~r~The cops scared off the other racers.
+0x2FC30569=~r~The cops scared off the other racers.
+
+;0x37CE2EC0=11th
+0x37CE2EC0=11th
+
+;0x38FD019F=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+0x38FD019F=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+
+;0x3C674C79=2nd
+0x3C674C79=2nd
+
+;0x4068C4B9=~s~Get in a ~b~car.~s~
+0x4068C4B9=~s~Get in a ~b~car.~s~
+
+;0x45B6A76B=8th
+0x45B6A76B=8th
+
+;0x4720D909=9th
+0x4720D909=9th
+
+;0x4EFF9B6B=~s~Go to the ~y~heliport.~s~
+0x4EFF9B6B=~s~Go to the ~y~heliport.~s~
+
+;0x550558DC=Get a bike and get to the ~y~start line.
+0x550558DC=Get a bike and get to the ~y~start line.
+
+;0x562EF3B6=~s~Get in a ~b~boat.~s~
+0x562EF3B6=~s~Get in a ~b~boat.~s~
+
+;0x5A64CE31=~r~Race abandoned.
+0x5A64CE31=~r~Race abandoned.
+
+;0x63BAE96F=Get back on the bike.
+0x63BAE96F=Get back on the bike.
+
+;0x6E7DAE2B=MOCAP CUTSCENE: Mori tells Luis to get to a race.
+0x6E7DAE2B=MOCAP CUTSCENE: Mori tells Luis to get to a race.
+
+;0x6E7E59BB=5th
+0x6E7E59BB=5th
+
+;0x7B35DC78=1st
+0x7B35DC78=1st
+
+;0x8D6AF2AF=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0x8D6AF2AF=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+
+;0x9C783318=Open your parachute.
+0x9C783318=Open your parachute.
+
+;0xA2220B09=Land close to the ~b~boats.~s~
+0xA2220B09=Land close to the ~b~boats.~s~
+
+;0xA7B5B559=Lose the cops.
+0xA7B5B559=Lose the cops.
+
+;0xB12B41DA=MOCAP CUTSCENE: Player Comes in 1st in race.
+0xB12B41DA=MOCAP CUTSCENE: Player Comes in 1st in race.
+
+;0xB81124A6=MOCAP CUTSCENE: Player is airlifted into a heelicopter with other competitors.
+0xB81124A6=MOCAP CUTSCENE: Player is airlifted into a heelicopter with other competitors.
+
+;0xBC72D3CE=Jump off the building to go into free-fall.
+0xBC72D3CE=Jump off the building to go into free-fall.
+
+;0xBC8C7F23=~s~Get in a ~b~boat.~s~
+0xBC8C7F23=~s~Get in a ~b~boat.~s~
+
+;0xBEBE721B=Line up your bike.
+0xBEBE721B=Line up your bike.
+
+;0xC287C91F=~r~You wrecked the boat.
+0xC287C91F=~r~You wrecked the boat.
+
+;0xDFAA424E=6th
+0xDFAA424E=6th
+
+;0xE12CCF67=~R~You abandoned Mori.
+0xE12CCF67=~R~You abandoned Mori.
+
+;0xE1697F99=~r~You destroyed a fellow competitor's boat.
+0xE1697F99=~r~You destroyed a fellow competitor's boat.
+
+;0xE23F4E87=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to to view different cameras.
+0xE23F4E87=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to to view different cameras.
+
+;0xE487B866=Gain speed, then press ~INPUT_VEH_CIN_CAM~ to activate nitro.
+0xE487B866=Gain speed, then press ~INPUT_VEH_CIN_CAM~ to activate nitro.
+
+;0xE6CFBE73=3
+0xE6CFBE73=3
+
+;0xE85E163A=You win.
+0xE85E163A=You win.
+
+;0xEBFD487E=1
+0xEBFD487E=1
+
+;0xEC6C65CA=~R~Mori is dead.
+0xEC6C65CA=~R~Mori is dead.
+
+;0xEC940C59=Wait for ~b~Mori.
+0xEC940C59=Wait for ~b~Mori.
+
+;0xEE171F7F=Lose your wanted level, or the race may be abandoned.
+0xEE171F7F=Lose your wanted level, or the race may be abandoned.
+
+;0xFAC8075F=Get a suitable bike.
+0xFAC8075F=Get a suitable bike.
+
+;0xFCAF866C=~R~Mori was injured.
+0xFCAF866C=~R~Mori was injured.
+
+;0xFCBE6F1E=Go
+0xFCBE6F1E=Go
+
+;0xFCDA7232=Go to the ~y~start line.
+0xFCDA7232=Go to the ~y~start line.
+
+;0xFE6A950A=2
+0xFE6A950A=2
+

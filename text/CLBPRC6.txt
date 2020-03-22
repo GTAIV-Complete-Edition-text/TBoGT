@@ -1,0 +1,46 @@
+﻿[CLBPRC6]
+;0x44824EDC=Get to ~y~Vespucci University.
+0x44824EDC=Get to ~y~Vespucci University.
+
+;0x6AE01B93=You've left ~b~Al~s~ behind.
+0x6AE01B93=You've left ~b~Al~s~ behind.
+
+;0x781E360F=~r~You abandoned Al Di Napoli.
+0x781E360F=~r~You abandoned Al Di Napoli.
+
+;0x9996456B=~r~You spooked the dealers. The deal is off.
+0x9996456B=~r~You spooked the dealers. The deal is off.
+
+;0x9CD0FF74=Get to the ~y~Amdram Theater.
+0x9CD0FF74=Get to the ~y~Amdram Theater.
+
+;0xA29ED760=Get a vehicle.
+0xA29ED760=Get a vehicle.
+
+;0xA9277401=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0xA9277401=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+
+;0xC5849D47=~r~You hurt Troy.
+0xC5849D47=~r~You hurt Troy.
+
+;0xC825561C=Lose the cops.
+0xC825561C=Lose the cops.
+
+;0xCC59AAED=~r~Al Di Napoli was hurt.
+0xCC59AAED=~r~Al Di Napoli was hurt.
+
+;0xD3C86D62=~r~Al Di Napoli is dead.
+0xD3C86D62=~r~Al Di Napoli is dead.
+
+;0xD4AE3B9A=~r~You hurt Dessie.
+0xD4AE3B9A=~r~You hurt Dessie.
+
+;0xD844C2C7=~r~Club management failed.
+0xD844C2C7=~r~Club management failed.
+
+;0xE8461655=Gor to ~y~Hercules.
+0xE8461655=Gor to ~y~Hercules.
+
+;0xF3602C89=Go and meet ~b~Al Di Napoli.
+0xF3602C89=Go and meet ~b~Al Di Napoli.
+

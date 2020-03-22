@@ -1,0 +1,808 @@
+﻿[E2CM1AU]
+;0x022EDBA3=~z~but, if you put it into cold water and you heat the water up,
+0x022EDBA3=~z~but, if you put it into cold water and you heat the water up,
+
+;0x049FECA2=~z~before I got bored and started fucking stuff.
+0x049FECA2=~z~before I got bored and started fucking stuff.
+
+;0x0508FFD6=~z~They'll drag up some wee guy with leukemia or something and go
+0x0508FFD6=~z~They'll drag up some wee guy with leukemia or something and go
+
+;0x054EDF8C=~z~You might want to send money to people in Africa.
+0x054EDF8C=~z~You might want to send money to people in Africa.
+
+;0x069102EA=~z~Who the fuck is texting people the news that they've got cancer?
+0x069102EA=~z~Who the fuck is texting people the news that they've got cancer?
+
+;0x07B056A0=~z~I'm gonna open your arse cheeks with a car jack."
+0x07B056A0=~z~I'm gonna open your arse cheeks with a car jack."
+
+;0x08796D96=~z~The oldest woman ever to give birth gave birth this year.
+0x08796D96=~z~The oldest woman ever to give birth gave birth this year.
+
+;0x090D63F4=~z~and you can last for longer.
+0x090D63F4=~z~and you can last for longer.
+
+;0x09B08809=~z~Do you know what I hate, right?
+0x09B08809=~z~Do you know what I hate, right?
+
+;0x09D5F670=~z~said that scientists are going to start treating alcoholism with LSD.
+0x09D5F670=~z~said that scientists are going to start treating alcoholism with LSD.
+
+;0x0D6C043A=~z~I don't even have to think about it. It's definitely you".
+0x0D6C043A=~z~I don't even have to think about it. It's definitely you".
+
+;0x0E9B0291=~z~because it's like giving the kids pornography.
+0x0E9B0291=~z~because it's like giving the kids pornography.
+
+;0x124C1700=~z~"Fire, fire".
+0x124C1700=~z~"Fire, fire".
+
+;0x12EC1960=~z~six foot one, six foot two?
+0x12EC1960=~z~six foot one, six foot two?
+
+;0x13147B17=~z~Because we want it to work won't make it fucking work.
+0x13147B17=~z~Because we want it to work won't make it fucking work.
+
+;0x1368EF59=~z~Because, when you get a hard-on, you look like a sundial at noon.
+0x1368EF59=~z~Because, when you get a hard-on, you look like a sundial at noon.
+
+;0x13737E2C=~z~the frog won't realize and it'll die?
+0x13737E2C=~z~the frog won't realize and it'll die?
+
+;0x152E119E=~z~The great thing about kids,
+0x152E119E=~z~The great thing about kids,
+
+;0x162689E8=~z~you could wake up with much more money than you thought you had.
+0x162689E8=~z~you could wake up with much more money than you thought you had.
+
+;0x1702A06D=~z~Cause people will come if it's a fire,
+0x1702A06D=~z~Cause people will come if it's a fire,
+
+;0x182A5275=~z~I used to have a big beard.
+0x182A5275=~z~I used to have a big beard.
+
+;0x1C1BA199=~z~And she sat there for a bit, and then she went
+0x1C1BA199=~z~And she sat there for a bit, and then she went
+
+;0x1CF11127=~z~It was news to me.
+0x1CF11127=~z~It was news to me.
+
+;0x1D7E2FA4=~z~I hate those awards ceremonies celebrities have
+0x1D7E2FA4=~z~I hate those awards ceremonies celebrities have
+
+;0x1D8A0D6E=~z~I'd been planning on redecorating using diarrhea pills and stencils.
+0x1D8A0D6E=~z~I'd been planning on redecorating using diarrhea pills and stencils.
+
+;0x1F3FA3DA=~z~I'm not even into young women.
+0x1F3FA3DA=~z~I'm not even into young women.
+
+;0x2123CF29=~z~And now, give it up, for Frankie Boyle!
+0x2123CF29=~z~And now, give it up, for Frankie Boyle!
+
+;0x233B8C3E=~z~Hey, it's been a pleasure.
+0x233B8C3E=~z~Hey, it's been a pleasure.
+
+;0x24290F91=~z~and they try to get heat off you?"
+0x24290F91=~z~and they try to get heat off you?"
+
+;0x2468BC59=~z~which I'm going to make quite difficult for you.
+0x2468BC59=~z~which I'm going to make quite difficult for you.
+
+;0x26E56FEB=~z~By the time the beard gets to a certain length,
+0x26E56FEB=~z~By the time the beard gets to a certain length,
+
+;0x278F2CB9=~z~than waking up in the morning with less money than you thought you had
+0x278F2CB9=~z~than waking up in the morning with less money than you thought you had
+
+;0x2A833A0C=~z~well you're not allowed to go, "let's just call it a draw".
+0x2A833A0C=~z~well you're not allowed to go, "let's just call it a draw".
+
+;0x2CB9BF6D=~z~I didn't have the kids with me, but I was in that mode,
+0x2CB9BF6D=~z~I didn't have the kids with me, but I was in that mode,
+
+;0x2EDB537E=~z~By the way, have you noticed that the word "cancer"
+0x2EDB537E=~z~By the way, have you noticed that the word "cancer"
+
+;0x2F0ED2C5=~z~You get your homework back and he's drawn a cock on it.
+0x2F0ED2C5=~z~You get your homework back and he's drawn a cock on it.
+
+;0x2F0FD1A7=~z~you trying to shag an eighteen year old girl
+0x2F0FD1A7=~z~you trying to shag an eighteen year old girl
+
+;0x2F19442C=~z~And this guy beside me got really angry!
+0x2F19442C=~z~And this guy beside me got really angry!
+
+;0x2F4AB5DA=~z~ I'll never wear a blindfold again.
+0x2F4AB5DA=~z~ I'll never wear a blindfold again.
+
+;0x2F9F51A6=~z~Can I ask you something, pal -
+0x2F9F51A6=~z~Can I ask you something, pal -
+
+;0x31C5AACA=~z~And I always think, well, what if you're a necrophiliac?
+0x31C5AACA=~z~And I always think, well, what if you're a necrophiliac?
+
+;0x31DE2983=~z~Apparently, now we've got to call them poof lanterns.
+0x31DE2983=~z~Apparently, now we've got to call them poof lanterns.
+
+;0x33DA4A6E=~z~Don't know why I've done that as an Al Jolson number there -
+0x33DA4A6E=~z~Don't know why I've done that as an Al Jolson number there -
+
+;0x3407B9E8=~z~And, basically, it's got an anesthetic in the lining and it makes you numb
+0x3407B9E8=~z~And, basically, it's got an anesthetic in the lining and it makes you numb
+
+;0x3653C195=~z~"Shall we have a go at curing cancer? "
+0x3653C195=~z~"Shall we have a go at curing cancer? "
+
+;0x381CE601=~z~is on predictive text?
+0x381CE601=~z~is on predictive text?
+
+;0x399B955F=~z~you look like you've got one of those ball vaginas.
+0x399B955F=~z~you look like you've got one of those ball vaginas.
+
+;0x3B76DC48=~z~Church has got a great thing at the minute.
+0x3B76DC48=~z~Church has got a great thing at the minute.
+
+;0x3BD0CAD4=~z~Split Sides Comedy Club welcomes, Frankie Boyle!
+0x3BD0CAD4=~z~Split Sides Comedy Club welcomes, Frankie Boyle!
+
+;0x3DC5D83A=~z~to the state of a 70-year-old's fanny?
+0x3DC5D83A=~z~to the state of a 70-year-old's fanny?
+
+;0x3EDBE3B1=~z~Cause he thought I was talking to him.
+0x3EDBE3B1=~z~Cause he thought I was talking to him.
+
+;0x3FF8DD8C=~z~I don't drink.
+0x3FF8DD8C=~z~I don't drink.
+
+;0x4017C76E=~z~Maybe you love it when they're cold?
+0x4017C76E=~z~Maybe you love it when they're cold?
+
+;0x4054E604=~z~They say they don't want sex education in schools,
+0x4054E604=~z~They say they don't want sex education in schools,
+
+;0x4096F395=~z~Must be quite confusing - for the rapist.
+0x4096F395=~z~Must be quite confusing - for the rapist.
+
+;0x41324AFF=~z~I'm trying to think if I've got any cheerful jokes at all.
+0x41324AFF=~z~I'm trying to think if I've got any cheerful jokes at all.
+
+;0x4149D46C=~z~Apparently, scientists have come up with a condom for premature ejaculation.
+0x4149D46C=~z~Apparently, scientists have come up with a condom for premature ejaculation.
+
+;0x42CE127D=~z~Hello!
+0x42CE127D=~z~Hello!
+
+;0x44AFFCE7=~z~See like an eighteen year old girl now can be what,
+0x44AFFCE7=~z~See like an eighteen year old girl now can be what,
+
+;0x488AE85A=~z~They told me she was European.
+0x488AE85A=~z~They told me she was European.
+
+;0x4A5D36E2=~z~So, eh, let me tell you a bit about myself.
+0x4A5D36E2=~z~So, eh, let me tell you a bit about myself.
+
+;0x4B47E8E9=~z~Then shaving the word 'Welcome' into my fucking dog's back.
+0x4B47E8E9=~z~Then shaving the word 'Welcome' into my fucking dog's back.
+
+;0x4B938AAE=~z~By the time you're sixty
+0x4B938AAE=~z~By the time you're sixty
+
+;0x4BE8F56C=~z~said, "It could be worse;
+0x4BE8F56C=~z~said, "It could be worse;
+
+;0x4DE96311=~z~"Oh, that's brilliant, you're freezing.
+0x4DE96311=~z~"Oh, that's brilliant, you're freezing.
+
+;0x4E178370=~z~Especially if you get them little cute tops that say "Future DJ", that kind of thing.
+0x4E178370=~z~Especially if you get them little cute tops that say "Future DJ", that kind of thing.
+
+;0x50360325=~z~You know how men go,
+0x50360325=~z~You know how men go,
+
+;0x506D72B3=~z~Any spare change, pal? I've got a unicorn to feed.
+0x506D72B3=~z~Any spare change, pal? I've got a unicorn to feed.
+
+;0x50E77E71=~z~And then eventually I realized that these girls were wearing a different type of bra...
+0x50E77E71=~z~And then eventually I realized that these girls were wearing a different type of bra...
+
+;0x52FD9BC2=~z~Tell you what else is on there - "rape".
+0x52FD9BC2=~z~Tell you what else is on there - "rape".
+
+;0x54DC110D=~z~They're a real conversation starter.
+0x54DC110D=~z~They're a real conversation starter.
+
+;0x557B8C88=~z~What's a guy who doesn't know what he's doing with his hands like?
+0x557B8C88=~z~What's a guy who doesn't know what he's doing with his hands like?
+
+;0x5669F29A=~z~Stay black!
+0x5669F29A=~z~Stay black!
+
+;0x59CB152F=~z~to my cost.
+0x59CB152F=~z~to my cost.
+
+;0x5C939515=~z~I suppose the only thing I don't like about old people is that,
+0x5C939515=~z~I suppose the only thing I don't like about old people is that,
+
+;0x5D28B018=~z~Who the fuck is using that facility?
+0x5D28B018=~z~Who the fuck is using that facility?
+
+;0x5D301D47=~z~Hello!
+0x5D301D47=~z~Hello!
+
+;0x5D612203=~z~I went to the supermarket a couple of weeks ago.
+0x5D612203=~z~I went to the supermarket a couple of weeks ago.
+
+;0x5E561A46=~z~and he said it was because he could never imagine anything worse
+0x5E561A46=~z~and he said it was because he could never imagine anything worse
+
+;0x5F98A1EA=~z~"Oh, women don't know how to wank us off"?
+0x5F98A1EA=~z~"Oh, women don't know how to wank us off"?
+
+;0x60AB9508=~z~It said - if someone's coming round to view the house,
+0x60AB9508=~z~It said - if someone's coming round to view the house,
+
+;0x611D948C=~z~Is there anything sadder than seeing someone with a dog picking up dog shit?
+0x611D948C=~z~Is there anything sadder than seeing someone with a dog picking up dog shit?
+
+;0x6132B5EC=~z~See by the time you're sixty,
+0x6132B5EC=~z~See by the time you're sixty,
+
+;0x62E0A752=~z~It's like a hungry child wearing oven gloves trying to get a beetroot out of a jar.
+0x62E0A752=~z~It's like a hungry child wearing oven gloves trying to get a beetroot out of a jar.
+
+;0x63B328FF=~z~You know that thing when you're having sex,
+0x63B328FF=~z~You know that thing when you're having sex,
+
+;0x63D5BA12=~z~"I'm going as quick as I can here"!
+0x63D5BA12=~z~"I'm going as quick as I can here"!
+
+;0x63E79055=~z~Another two, if I move my bike.
+0x63E79055=~z~Another two, if I move my bike.
+
+;0x64769187=~z~that we're often talking about big stereotypes and generalizations.
+0x64769187=~z~that we're often talking about big stereotypes and generalizations.
+
+;0x64C42CE9=~z~Hey, have a great weekend!
+0x64C42CE9=~z~Hey, have a great weekend!
+
+;0x6632D946=~z~You've made an effort tonight, haven't you, pal?
+0x6632D946=~z~You've made an effort tonight, haven't you, pal?
+
+;0x66363095=~z~I've got children now, I've got a wee boy - he's eleven months.
+0x66363095=~z~I've got children now, I've got a wee boy - he's eleven months.
+
+;0x669DC1E2=~z~to get publicity for themselves.
+0x669DC1E2=~z~to get publicity for themselves.
+
+;0x68F4B743=~z~How do you spell "Awhahahaw"?
+0x68F4B743=~z~How do you spell "Awhahahaw"?
+
+;0x6A6D3AD7=~z~I was having breakfast with my daughter a couple of weeks ago,
+0x6A6D3AD7=~z~I was having breakfast with my daughter a couple of weeks ago,
+
+;0x6B681E0A=~z~"Oh, don't you hate it when your partner comes to bed and they're cold,
+0x6B681E0A=~z~"Oh, don't you hate it when your partner comes to bed and they're cold,
+
+;0x6BA53BAC=~z~As opposed to the traditional Catholic method of educating them -
+0x6BA53BAC=~z~As opposed to the traditional Catholic method of educating them -
+
+;0x6D5F2FAB=~z~That money takes no account of cultural difference.
+0x6D5F2FAB=~z~That money takes no account of cultural difference.
+
+;0x6E32AFA3=~z~Hello!
+0x6E32AFA3=~z~Hello!
+
+;0x6E4DB889=~z~Nobody gives a fuck how many Jews you killed.
+0x6E4DB889=~z~Nobody gives a fuck how many Jews you killed.
+
+;0x6F0231B5=~z~I saw one the other day, right.
+0x6F0231B5=~z~I saw one the other day, right.
+
+;0x6FDAC6F6=~z~And you'll just say things that have never been said in human history.
+0x6FDAC6F6=~z~And you'll just say things that have never been said in human history.
+
+;0x70ACC44A=~z~I actually lost my virginity to my mother's best friend -
+0x70ACC44A=~z~I actually lost my virginity to my mother's best friend -
+
+;0x71DF360F=~z~I've had to fall back on the less judgmental animal kingdom."
+0x71DF360F=~z~I've had to fall back on the less judgmental animal kingdom."
+
+;0x72034597=~z~There's stuff you can't say in bed, at all, isn't there?
+0x72034597=~z~There's stuff you can't say in bed, at all, isn't there?
+
+;0x7378DCB8=~z~"I've got cancer, laugh out loud".
+0x7378DCB8=~z~"I've got cancer, laugh out loud".
+
+;0x74624E1E=~z~Even if I could get an eighteen year old to suck my cock,
+0x74624E1E=~z~Even if I could get an eighteen year old to suck my cock,
+
+;0x7473F5C8=~z~Hey, how you doing?
+0x7473F5C8=~z~Hey, how you doing?
+
+;0x752E47F6=~z~My best mate gave up the same time as me
+0x752E47F6=~z~My best mate gave up the same time as me
+
+;0x762134C8=~z~See, I think a lot of this stuff with offensiveness in comedy comes from the fact
+0x762134C8=~z~See, I think a lot of this stuff with offensiveness in comedy comes from the fact
+
+;0x7648CE2A=~z~and you sort of know that you're not going to come,
+0x7648CE2A=~z~and you sort of know that you're not going to come,
+
+;0x768B49C4=~z~I imagine at seventy, the baby didn't have to force its way out.
+0x768B49C4=~z~I imagine at seventy, the baby didn't have to force its way out.
+
+;0x77F4648F=~z~They'll have awards for brave children.
+0x77F4648F=~z~They'll have awards for brave children.
+
+;0x77FD4338=~z~You'll leave here with an asshole like a yawning hippo's mouth.
+0x77FD4338=~z~You'll leave here with an asshole like a yawning hippo's mouth.
+
+;0x7A5A59B9=~z~Don't let men tell you what's sexy, women,
+0x7A5A59B9=~z~Don't let men tell you what's sexy, women,
+
+;0x7AAFD818=~z~I mean admittedly, if you've got a woman who doesn't know what she's doing,
+0x7AAFD818=~z~I mean admittedly, if you've got a woman who doesn't know what she's doing,
+
+;0x7ACFDB98=~z~and I picked up the cheese and I went "Hello, Mr. Cheese!"
+0x7ACFDB98=~z~and I picked up the cheese and I went "Hello, Mr. Cheese!"
+
+;0x7B073BD4=~z~used to be called spastic gay talk.
+0x7B073BD4=~z~used to be called spastic gay talk.
+
+;0x7B3E4A2D=~z~Oh, thanks for that.
+0x7B3E4A2D=~z~Oh, thanks for that.
+
+;0x7B80D2EF=~z~You'd get more purchase fucking their open grave.
+0x7B80D2EF=~z~You'd get more purchase fucking their open grave.
+
+;0x7D0206E8=~z~There's a lot of stuff I don't understand about sex, you know,
+0x7D0206E8=~z~There's a lot of stuff I don't understand about sex, you know,
+
+;0x7D496E19=~z~will be like a chihuahua attacking a giraffe.
+0x7D496E19=~z~will be like a chihuahua attacking a giraffe.
+
+;0x7E77506F=~z~Or maybe swap it for a fish.
+0x7E77506F=~z~Or maybe swap it for a fish.
+
+;0x7F81C4C9=~z~because it might be homophobic.
+0x7F81C4C9=~z~because it might be homophobic.
+
+;0x7FF5E184=~z~and you kind of know that they're not going to come either,
+0x7FF5E184=~z~and you kind of know that they're not going to come either,
+
+;0x81A07907=~z~"Sad face".
+0x81A07907=~z~"Sad face".
+
+;0x81BBE8D1=~z~she'd be fucking texting someone while she was doing it.
+0x81BBE8D1=~z~she'd be fucking texting someone while she was doing it.
+
+;0x81EBE690=~z~It was the only time he ever told me he loved me.
+0x81EBE690=~z~It was the only time he ever told me he loved me.
+
+;0x82545BF0=~z~You ever heard that science thing that the human female
+0x82545BF0=~z~You ever heard that science thing that the human female
+
+;0x84B35BB7=~z~Vet - that's a job I'd like to have.
+0x84B35BB7=~z~Vet - that's a job I'd like to have.
+
+;0x8865ED79=~z~It spent the last three months bungee jumping.
+0x8865ED79=~z~It spent the last three months bungee jumping.
+
+;0x8AD27192=~z~when you have anal sex with them, there's almost no grip.
+0x8AD27192=~z~when you have anal sex with them, there's almost no grip.
+
+;0x8AECFD1A=~z~is that sometimes you're just in that kid mode and you don't even have them with you.
+0x8AECFD1A=~z~is that sometimes you're just in that kid mode and you don't even have them with you.
+
+;0x8B84F9F0=~z~All the way from Glasgow, Frankie Boyle!
+0x8B84F9F0=~z~All the way from Glasgow, Frankie Boyle!
+
+;0x8D3F6044=~z~Apparently, at Christmas now we're not supposed to say fairy lights anymore
+0x8D3F6044=~z~Apparently, at Christmas now we're not supposed to say fairy lights anymore
+
+;0x8DCA72DC=~z~has exactly the same pheromone scent as an orangutan female?
+0x8DCA72DC=~z~has exactly the same pheromone scent as an orangutan female?
+
+;0x8E120085=~z~Sex education at my school was a muttered warning about the janitor.
+0x8E120085=~z~Sex education at my school was a muttered warning about the janitor.
+
+;0x8E97721B=~z~It takes no account of the reality of those people's lives.
+0x8E97721B=~z~It takes no account of the reality of those people's lives.
+
+;0x90AB841D=~z~Hey, is this your woman, pal?
+0x90AB841D=~z~Hey, is this your woman, pal?
+
+;0x91E97783=~z~remember to open your curtains and tidy up.
+0x91E97783=~z~remember to open your curtains and tidy up.
+
+;0x92950AEE=~z~"I wasn't talking to you, mate - I was talking to the cheese".
+0x92950AEE=~z~"I wasn't talking to you, mate - I was talking to the cheese".
+
+;0x93FD83E8=~z~but I hate it when they're always boasting about what they did in the war.
+0x93FD83E8=~z~but I hate it when they're always boasting about what they did in the war.
+
+;0x95997E70=~z~Hey, shut it pal.
+0x95997E70=~z~Hey, shut it pal.
+
+;0x95C88081=~z~Charity. Charity doesn't work, right?
+0x95C88081=~z~Charity. Charity doesn't work, right?
+
+;0x9603CE32=~z~Hey, how you doing, buddy?
+0x9603CE32=~z~Hey, how you doing, buddy?
+
+;0x96397FF3=~z~I hate that fat fuck, John Hunter.
+0x96397FF3=~z~I hate that fat fuck, John Hunter.
+
+;0x963BFEC8=~z~I suppose, maybe someone without a dog?
+0x963BFEC8=~z~I suppose, maybe someone without a dog?
+
+;0x9675009E=~z~he can't wear a belt and a tie on the same day
+0x9675009E=~z~he can't wear a belt and a tie on the same day
+
+;0x977991B3=~z~Mammy, I wish I hadn't said that.
+0x977991B3=~z~Mammy, I wish I hadn't said that.
+
+;0x97FFBCE3=~z~Looks like someone shaved a monkey and kicked it through Binco.
+0x97FFBCE3=~z~Looks like someone shaved a monkey and kicked it through Binco.
+
+;0x98289799=~z~But daddy's single!"
+0x98289799=~z~But daddy's single!"
+
+;0x983513D2=~z~I'd fuck an owl,
+0x983513D2=~z~I'd fuck an owl,
+
+;0x9AD39254=~z~Can you imagine what having a baby must have done
+0x9AD39254=~z~Can you imagine what having a baby must have done
+
+;0x9B3F9817=~z~I just found this out recently,
+0x9B3F9817=~z~I just found this out recently,
+
+;0x9B6B0A13=~z~I drink, er, that Electrolyte drink to do the shows.
+0x9B6B0A13=~z~I drink, er, that Electrolyte drink to do the shows.
+
+;0x9BE793B8=~z~I'd love to have been there when her dust broke.
+0x9BE793B8=~z~I'd love to have been there when her dust broke.
+
+;0x9C0D1D73=~z~the only way you'll be able to satisfy an eighteen year old girl,
+0x9C0D1D73=~z~the only way you'll be able to satisfy an eighteen year old girl,
+
+;0x9C38AD17=~z~Why do pedophiles always have beards and glasses?
+0x9C38AD17=~z~Why do pedophiles always have beards and glasses?
+
+;0x9C869D3D=~z~And you know what no one tells you?
+0x9C869D3D=~z~And you know what no one tells you?
+
+;0x9D2C1F60=~z~"Darling, eh - you know that mug tree we've got in the kitchen..?
+0x9D2C1F60=~z~"Darling, eh - you know that mug tree we've got in the kitchen..?
+
+;0x9D8B039B=~z~You know my favorite time of year? Halloween.
+0x9D8B039B=~z~You know my favorite time of year? Halloween.
+
+;0x9EEB22DE=~z~That's the one.
+0x9EEB22DE=~z~That's the one.
+
+;0x9F53A19F=~z~it was my father.
+0x9F53A19F=~z~it was my father.
+
+;0xA187CFF3=~z~Who's wanking going,
+0xA187CFF3=~z~Who's wanking going,
+
+;0xA2E367ED=~z~people started shouting "Pedophile" at me.
+0xA2E367ED=~z~people started shouting "Pedophile" at me.
+
+;0xA4426AAF=~z~You've got your trousers pulled up so tight
+0xA4426AAF=~z~You've got your trousers pulled up so tight
+
+;0xA5852F6B=~z~Anyway, gotta go now - I need a shit!
+0xA5852F6B=~z~Anyway, gotta go now - I need a shit!
+
+;0xA5BD2767=~z~I love old people, I do,
+0xA5BD2767=~z~I love old people, I do,
+
+;0xA753A60E=~z~Or, to put it another way, scientists have got a lot of fucking time on their hands.
+0xA753A60E=~z~Or, to put it another way, scientists have got a lot of fucking time on their hands.
+
+;0xA9B0269D=~z~I'm quite a grumpy bastard.
+0xA9B0269D=~z~I'm quite a grumpy bastard.
+
+;0xAA52B9FE=~z~will be if an eighteen year old guy uses you as a strap on.
+0xAA52B9FE=~z~will be if an eighteen year old guy uses you as a strap on.
+
+;0xAC6C3D08=~z~I mean you'd be frightened that they said no
+0xAC6C3D08=~z~I mean you'd be frightened that they said no
+
+;0xADC1376B=~z~No, I'm sure it was actually a magical moment.
+0xADC1376B=~z~No, I'm sure it was actually a magical moment.
+
+;0xAE172FE2=~z~You're talking about a guy who's so fat
+0xAE172FE2=~z~You're talking about a guy who's so fat
+
+;0xAE9EBFFD=~z~Women are actually better with their hands than men,
+0xAE9EBFFD=~z~Women are actually better with their hands than men,
+
+;0xAEF8A676=~z~Halloween, a wonderful time of year for the agoraphobic pedophile.
+0xAEF8A676=~z~Halloween, a wonderful time of year for the agoraphobic pedophile.
+
+;0xAF346B4C=~z~like nudie calendars.
+0xAF346B4C=~z~like nudie calendars.
+
+;0xB069C81B=~z~My mummy's dead.
+0xB069C81B=~z~My mummy's dead.
+
+;0xB08EC3E3=~z~Does he touch the sides?
+0xB08EC3E3=~z~Does he touch the sides?
+
+;0xB0C144EA=~z~Or fuck a kitten.
+0xB0C144EA=~z~Or fuck a kitten.
+
+;0xB3A3399A=~z~That's a joke, I don't have a dog, obviously.
+0xB3A3399A=~z~That's a joke, I don't have a dog, obviously.
+
+;0xB3BF749E=~z~"I can't believe it's Mother's Day".
+0xB3BF749E=~z~"I can't believe it's Mother's Day".
+
+;0xB3C6BC7D=~z~Do you know what I hate?
+0xB3C6BC7D=~z~Do you know what I hate?
+
+;0xB45D3A99=~z~the woman has managed to wriggle free.
+0xB45D3A99=~z~the woman has managed to wriggle free.
+
+;0xB6005E66=~z~Better tell my mum that I won't be home for dinner.
+0xB6005E66=~z~Better tell my mum that I won't be home for dinner.
+
+;0xB75890DB=~z~All the way from Scotland, England - Frankie Boyle!
+0xB75890DB=~z~All the way from Scotland, England - Frankie Boyle!
+
+;0xB787C163=~z~Having a pet is basically saying,
+0xB787C163=~z~Having a pet is basically saying,
+
+;0xB7B7D477=~z~Never understood how you get into like kinky sex with your partner.
+0xB7B7D477=~z~Never understood how you get into like kinky sex with your partner.
+
+;0xB7F7D5B3=~z~and she goes "Daddy, what's the best thing in the world?"
+0xB7F7D5B3=~z~and she goes "Daddy, what's the best thing in the world?"
+
+;0xB8195462=~z~Starting to get a bit fucking sick of him to be honest.
+0xB8195462=~z~Starting to get a bit fucking sick of him to be honest.
+
+;0xBA094902=~z~If you give him a fishing rod, he'll break it up for firewood.
+0xBA094902=~z~If you give him a fishing rod, he'll break it up for firewood.
+
+;0xBB1AD3BA=~z~And a really sore arse."
+0xBB1AD3BA=~z~And a really sore arse."
+
+;0xBEC4604E=~z~She looks like she could rip you apart like a fucking chicken wing.
+0xBEC4604E=~z~She looks like she could rip you apart like a fucking chicken wing.
+
+;0xBF054543=~z~And they're not always true, are they?
+0xBF054543=~z~And they're not always true, are they?
+
+;0xBF2F5B0B=~z~If you don't like that, you're going to fucking hate this next bit.
+0xBF2F5B0B=~z~If you don't like that, you're going to fucking hate this next bit.
+
+;0xBF4251C1=~z~It's good that they've finally managed to can anxiety, isn't it?
+0xBF4251C1=~z~It's good that they've finally managed to can anxiety, isn't it?
+
+;0xC036DC5A=~z~Come on, Grandad, we're trying to have Christmas dinner here.
+0xC036DC5A=~z~Come on, Grandad, we're trying to have Christmas dinner here.
+
+;0xC0F7E650=~z~of actually fucking them.
+0xC0F7E650=~z~of actually fucking them.
+
+;0xC130543F=~z~I often find that, in that time,
+0xC130543F=~z~I often find that, in that time,
+
+;0xC1BA75DA=~z~"Sorry, mum - goin' out raping".
+0xC1BA75DA=~z~"Sorry, mum - goin' out raping".
+
+;0xC39E6E84=~z~So my daughter's four, I've got her a lovely little pink top that says
+0xC39E6E84=~z~So my daughter's four, I've got her a lovely little pink top that says
+
+;0xC44BEE5B=~z~And I had to turn to this guy and go,
+0xC44BEE5B=~z~And I had to turn to this guy and go,
+
+;0xC4F76B86=~z~it can be a bit like having someone with Parkinson's disease
+0xC4F76B86=~z~it can be a bit like having someone with Parkinson's disease
+
+;0xC5BDADA5=~z~Hello!
+0xC5BDADA5=~z~Hello!
+
+;0xC7FB837C=~z~you worry about the future?
+0xC7FB837C=~z~you worry about the future?
+
+;0xC844052D=~z~Did you hear that stuff with the pedophile schoolteachers?
+0xC844052D=~z~Did you hear that stuff with the pedophile schoolteachers?
+
+;0xC8A4E4FD=~z~or he'll turn into sausages.
+0xC8A4E4FD=~z~or he'll turn into sausages.
+
+;0xC8BDD740=~z~I mean, people forget that even political correctness itself
+0xC8BDD740=~z~I mean, people forget that even political correctness itself
+
+;0xC8D866A0=~z~If you give a man a fish, he'll eat for a day.
+0xC8D866A0=~z~If you give a man a fish, he'll eat for a day.
+
+;0xC90374C6=~z~"They don't know how to wank us off, mammy!"
+0xC90374C6=~z~"They don't know how to wank us off, mammy!"
+
+;0xC92EDAE2=~z~They're being delivered to the door, in little costumes?
+0xC92EDAE2=~z~They're being delivered to the door, in little costumes?
+
+;0xC94564DE=~z~Having pets is fucking tragic.
+0xC94564DE=~z~Having pets is fucking tragic.
+
+;0xCAE779FE=~z~I've got a wee girl as well, she's four.
+0xCAE779FE=~z~I've got a wee girl as well, she's four.
+
+;0xCB0EFD79=~z~Kids are a fantastic way of meeting women.
+0xCB0EFD79=~z~Kids are a fantastic way of meeting women.
+
+;0xCB69FBDB=~z~Must be a point where you bring it up in conversation over dinner, or something.
+0xCB69FBDB=~z~Must be a point where you bring it up in conversation over dinner, or something.
+
+;0xCCD67731=~z~When I was at school, I could never work out how to get girls' bras undone.
+0xCCD67731=~z~When I was at school, I could never work out how to get girls' bras undone.
+
+;0xCDEF7F46=~z~because it could give you eye contact whatever position you took it in.
+0xCDEF7F46=~z~because it could give you eye contact whatever position you took it in.
+
+;0xCE3AE3AE=~z~So, for example, I've got a friend does a routine about,
+0xCE3AE3AE=~z~So, for example, I've got a friend does a routine about,
+
+;0xCEF98156=~z~I don't know how long I could be a vet
+0xCEF98156=~z~I don't know how long I could be a vet
+
+;0xCF579474=~z~"Oh look at him. Still keeps smiling, keeps laughing".
+0xCF579474=~z~"Oh look at him. Still keeps smiling, keeps laughing".
+
+;0xCF8C041F=~z~Men just think they are,
+0xCF8C041F=~z~Men just think they are,
+
+;0xCFE1F1A2=~z~Mollis actually takes half an hour to have any effect.
+0xCFE1F1A2=~z~Mollis actually takes half an hour to have any effect.
+
+;0xD0EF060D=~z~"Yes, why not! Get the sandwich maker and the lava lamp out.
+0xD0EF060D=~z~"Yes, why not! Get the sandwich maker and the lava lamp out.
+
+;0xD109FEC0=~z~Every time she went for a shit, it had to brace itself.
+0xD109FEC0=~z~Every time she went for a shit, it had to brace itself.
+
+;0xD1AF0002=~z~She was seventy.
+0xD1AF0002=~z~She was seventy.
+
+;0xD373994C=~z~You ever heard that thing at women's self defense classes they say
+0xD373994C=~z~You ever heard that thing at women's self defense classes they say
+
+;0xD3808B28=~z~I'd like to stick it up your arse tonight".
+0xD3808B28=~z~I'd like to stick it up your arse tonight".
+
+;0xD48C005E=~z~You ever heard that science thing that,
+0xD48C005E=~z~You ever heard that science thing that,
+
+;0xD59B147D=~z~Hey, a pleasure talking to you motherfuckers!
+0xD59B147D=~z~Hey, a pleasure talking to you motherfuckers!
+
+;0xD6450E21=~z~trying to unblock a sink.
+0xD6450E21=~z~trying to unblock a sink.
+
+;0xDA657D4F=~z~How many dead hookers can you fit in a garage?
+0xDA657D4F=~z~How many dead hookers can you fit in a garage?
+
+;0xDBB29A2A=~z~Read this great thing recently,
+0xDBB29A2A=~z~Read this great thing recently,
+
+;0xDE36AFF2=~z~You should - particularly the next couple of minutes,
+0xDE36AFF2=~z~You should - particularly the next couple of minutes,
+
+;0xDE74204F=~z~Imagine having sex with something you actually wanted to cuddle afterwards?
+0xDE74204F=~z~Imagine having sex with something you actually wanted to cuddle afterwards?
+
+;0xDEBC9B15=~z~I just couldn't do it.
+0xDEBC9B15=~z~I just couldn't do it.
+
+;0xDECC0F72=~z~Mollis is overrated, isn't it?
+0xDECC0F72=~z~Mollis is overrated, isn't it?
+
+;0xE0323629=~z~Course he's smiling, he's off his tits on fucking morphine!
+0xE0323629=~z~Course he's smiling, he's off his tits on fucking morphine!
+
+;0xE2039747=~z~of a serial killer ejaculating into a school sock.
+0xE2039747=~z~of a serial killer ejaculating into a school sock.
+
+;0xE3762BF3=~z~because it reminds them of the staple in a porno mag.
+0xE3762BF3=~z~because it reminds them of the staple in a porno mag.
+
+;0xE3902B4F=~z~Let's make a fucking night of it!"
+0xE3902B4F=~z~Let's make a fucking night of it!"
+
+;0xE3A5B092=~z~"For me it's sausages".
+0xE3A5B092=~z~"For me it's sausages".
+
+;0xE3F4A48D=~z~from my Gran.
+0xE3F4A48D=~z~from my Gran.
+
+;0xE5363CD1=~z~"Don't shout rape, shout fire"?
+0xE5363CD1=~z~"Don't shout rape, shout fire"?
+
+;0xE55E3F61=~z~That's got to be creepy.
+0xE55E3F61=~z~That's got to be creepy.
+
+;0xE5F74093=~z~What is it about that look
+0xE5F74093=~z~What is it about that look
+
+;0xE624B070=~z~Is that, is that how you start, 'cause it -
+0xE624B070=~z~Is that, is that how you start, 'cause it -
+
+;0xE64831EC=~z~"Feels like he's got cancer".
+0xE64831EC=~z~"Feels like he's got cancer".
+
+;0xE7E7A715=~z~if you put a frog into boiling water it'll jump out,
+0xE7E7A715=~z~if you put a frog into boiling water it'll jump out,
+
+;0xE86225A7=~z~"No, I'm going to see how many fruit pastilles it takes to choke a kestrel. "
+0xE86225A7=~z~"No, I'm going to see how many fruit pastilles it takes to choke a kestrel. "
+
+;0xE95A248E=~z~and you don't have to wake anybody up.
+0xE95A248E=~z~and you don't have to wake anybody up.
+
+;0xEA61C728=~z~but they might be frightened if it's a rape.
+0xEA61C728=~z~but they might be frightened if it's a rape.
+
+;0xEA739C27=~z~Don't move a fucking muscle.
+0xEA739C27=~z~Don't move a fucking muscle.
+
+;0xEB6CBC9C=~z~"Darling, you're the best thing in the world.
+0xEB6CBC9C=~z~"Darling, you're the best thing in the world.
+
+;0xEDD12DF5=~z~"I have tried to find love among my own species and I have failed.
+0xEDD12DF5=~z~"I have tried to find love among my own species and I have failed.
+
+;0xEDE13E87=~z~When he does, do you vibrate and your nose lights up?
+0xEDE13E87=~z~When he does, do you vibrate and your nose lights up?
+
+;0xF0F5352A=~z~It's good that there's a drink that gives me the resting heart rate
+0xF0F5352A=~z~It's good that there's a drink that gives me the resting heart rate
+
+;0xF266387F=~z~I hate property programs.
+0xF266387F=~z~I hate property programs.
+
+;0xF292D8AA=~z~Do you not worry about young women getting bigger?
+0xF292D8AA=~z~Do you not worry about young women getting bigger?
+
+;0xF2C3C323=~z~and a really sore head.
+0xF2C3C323=~z~and a really sore head.
+
+;0xF619B4BB=~z~Oh yes! As a man, never get a Brazilian.
+0xF619B4BB=~z~Oh yes! As a man, never get a Brazilian.
+
+;0xF724510D=~z~That's going to make tramps very different people.
+0xF724510D=~z~That's going to make tramps very different people.
+
+;0xF7943584=~z~See, political correctness has changed everything, hasn't it?
+0xF7943584=~z~See, political correctness has changed everything, hasn't it?
+
+;0xF8D9E658=~z~that children find so sexy?
+0xF8D9E658=~z~that children find so sexy?
+
+;0xF8DA38F4=~z~I want it to be realistic -
+0xF8DA38F4=~z~I want it to be realistic -
+
+;0xFA47C669=~z~Or, you can wear it inside out,
+0xFA47C669=~z~Or, you can wear it inside out,
+
+;0xFBFDDD02=~z~cause men don't know what's sexy.
+0xFBFDDD02=~z~cause men don't know what's sexy.
+
+;0xFDF2E0EC=~z~I mean belly button piercings aren't sexy.
+0xFDF2E0EC=~z~I mean belly button piercings aren't sexy.
+
+;0xFF15E3EE=~z~So I didn't even have to think about it, right, I said
+0xFF15E3EE=~z~So I didn't even have to think about it, right, I said
+
+;0xFF5CE2E8=~z~but you'd be a lot more frightened that they said yes!
+0xFF5CE2E8=~z~but you'd be a lot more frightened that they said yes!
+
+;0xFF87DAFF=~z~Absolutely nothing at all.
+0xFF87DAFF=~z~Absolutely nothing at all.
+

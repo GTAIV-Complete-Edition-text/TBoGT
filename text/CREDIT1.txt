@@ -1,0 +1,2308 @@
+﻿[CREDIT1]
+;0x004127F4=Rocco Cambareri
+0x004127F4=Rocco Cambareri
+
+;0x01297FE4=Michael Zigon
+0x01297FE4=Michael Zigon
+
+;0x014C3B76=Peter Field
+0x014C3B76=Peter Field
+
+;0x014C7455=Rick Winter
+0x014C7455=Rick Winter
+
+;0x01FDEE7E=Melissa Leebaert
+0x01FDEE7E=Melissa Leebaert
+
+;0x023E9859=Brianna
+0x023E9859=Brianna
+
+;0x02A66508=Tim Fletcher
+0x02A66508=Tim Fletcher
+
+;0x03311A5A=Rizzo, Andre Blake, Daniel Stewart Sherman,
+0x03311A5A=Rizzo, Andre Blake, Daniel Stewart Sherman,
+
+;0x0374E7A8=Vanessa Mojica
+0x0374E7A8=Vanessa Mojica
+
+;0x037F0280=T Ryder Smith
+0x037F0280=T Ryder Smith
+
+;0x03BBA926=Norm "Tubbz" Brown
+0x03BBA926=Norm "Tubbz" Brown
+
+;0x03BE8129=Miriam Rodriguez,Wendy Rodriguez aka Wendoliza, Ash Roeca,
+0x03BE8129=Miriam Rodriguez,Wendy Rodriguez aka Wendoliza, Ash Roeca,
+
+;0x03DA1E30=Stephen Levant, Steven J Cambria,Robert J Santiago,
+0x03DA1E30=Stephen Levant, Steven J Cambria,Robert J Santiago,
+
+;0x03E3EC6B=Forrest Karbowski, Aaron Stewart
+0x03E3EC6B=Forrest Karbowski, Aaron Stewart
+
+;0x0455EA93=Intellectual alien
+0x0455EA93=Intellectual alien
+
+;0x049E6787=Ashley Joyce
+0x049E6787=Ashley Joyce
+
+;0x04E6C807=The Lost and Damned
+0x04E6C807=The Lost and Damned
+
+;0x0502D830=The New Crowd Of Liberty City
+0x0502D830=The New Crowd Of Liberty City
+
+;0x05107711=Prison Guard
+0x05107711=Prison Guard
+
+;0x0581359B=Katie Pica
+0x0581359B=Katie Pica
+
+;0x05E3C9B6=Curious Pictures
+0x05E3C9B6=Curious Pictures
+
+;0x070DB9CE=Lead Test Analysts
+0x070DB9CE=Lead Test Analysts
+
+;0x07408571=Sharon Morton
+0x07408571=Sharon Morton
+
+;0x07A0920B=Galina
+0x07A0920B=Galina
+
+;0x07ABA0DB=Ted OBrien, EJ Offrum, Caleb Oglesby, Kelly Coffield Park,
+0x07ABA0DB=Ted OBrien, EJ Offrum, Caleb Oglesby, Kelly Coffield Park,
+
+;0x07D6A5DE=Scott Nicholson, Dennis Paladino, Armando Riesco,
+0x07D6A5DE=Scott Nicholson, Dennis Paladino, Armando Riesco,
+
+;0x0821C8B5=Pete Armstrong
+0x0821C8B5=Pete Armstrong
+
+;0x0828FC51=Graeme Wright
+0x0828FC51=Graeme Wright
+
+;0x083CB5C8=Technical Designers
+0x083CB5C8=Technical Designers
+
+;0x0872511F=Andrew Caira
+0x0872511F=Andrew Caira
+
+;0x08A4924C=Mori Kibbutz
+0x08A4924C=Mori Kibbutz
+
+;0x09C1244F=Jaime Fernandez, Glenn Fleshler, Jeff Gurner,
+0x09C1244F=Jaime Fernandez, Glenn Fleshler, Jeff Gurner,
+
+;0x09CCC216=Sicilianaire Riddim by Oliver Rodigan
+0x09CCC216=Sicilianaire Riddim by Oliver Rodigan
+
+;0x0A25484E=Weathercaster
+0x0A25484E=Weathercaster
+
+;0x0AE68633=Radio and TV Singing by Anthony Cumia, Allison Ford,
+0x0AE68633=Radio and TV Singing by Anthony Cumia, Allison Ford,
+
+;0x0B59CB8E=Andrew Savage
+0x0B59CB8E=Andrew Savage
+
+;0x0C0A2AF0=Steve Guillaume, Joseph Haniff, Andi Hanley, Jordan Harbinger,
+0x0C0A2AF0=Steve Guillaume, Joseph Haniff, Andi Hanley, Jordan Harbinger,
+
+;0x0C59CDA7=Robert McBryde
+0x0C59CDA7=Robert McBryde
+
+;0x0C5EE08A=Adrian Martinez
+0x0C5EE08A=Adrian Martinez
+
+;0x0CA5D343=Location: Mediahouse (London)
+0x0CA5D343=Location: Mediahouse (London)
+
+;0x0CA9B351=Mathew P McCarthy
+0x0CA9B351=Mathew P McCarthy
+
+;0x0CF239EC=Audio Development Assistant
+0x0CF239EC=Audio Development Assistant
+
+;0x0D11AC1F=Chris Mansfield, Jesus E. Martinez, Joselyn Martinez,
+0x0D11AC1F=Chris Mansfield, Jesus E. Martinez, Joselyn Martinez,
+
+;0x0D29A9A7=Adam De le Cruz,Dan Derwin, Jeff Dougherty, Rogelio Douglas Jr.,
+0x0D29A9A7=Adam De le Cruz,Dan Derwin, Jeff Dougherty, Rogelio Douglas Jr.,
+
+;0x0D3E0589=Ian Kiigan
+0x0D3E0589=Ian Kiigan
+
+;0x0D9831AC=Kamilah Forbes, Luis Anthony Rodriguez, Hassan Brown,
+0x0D9831AC=Kamilah Forbes, Luis Anthony Rodriguez, Hassan Brown,
+
+;0x0DD3AB25=Dan - Lake Forest Automotive
+0x0DD3AB25=Dan - Lake Forest Automotive
+
+;0x0DD6A5A0=President Zane
+0x0DD6A5A0=President Zane
+
+;0x0E1CCC13=Terry Litrenta
+0x0E1CCC13=Terry Litrenta
+
+;0x0E442DA5=Daniel Heacox
+0x0E442DA5=Daniel Heacox
+
+;0x0E6C6408=DJ Paul played by Paul Martin
+0x0E6C6408=DJ Paul played by Paul Martin
+
+;0x0E964198=Darlan Monterisi
+0x0E964198=Darlan Monterisi
+
+;0x0ECA644C=Ben Jennings
+0x0ECA644C=Ben Jennings
+
+;0x0FA8280C=Felix Karavassilis,
+0x0FA8280C=Felix Karavassilis,
+
+;0x0FCA3280=Arthur Khaldarov, Jason Knox, Ravi Lakheeram, Tafari Lawton,
+0x0FCA3280=Arthur Khaldarov, Jason Knox, Ravi Lakheeram, Tafari Lawton,
+
+;0x103134FF=Produced by Stuart Hart and Tony Eicher for SelecTracks
+0x103134FF=Produced by Stuart Hart and Tony Eicher for SelecTracks
+
+;0x10371512=Sam Chivers
+0x10371512=Sam Chivers
+
+;0x119FA140=Tramp
+0x119FA140=Tramp
+
+;0x126F57D8=Rocco Cambareri
+0x126F57D8=Rocco Cambareri
+
+;0x128C0021=Ifeoma Obi
+0x128C0021=Ifeoma Obi
+
+;0x12965EEF=Alan Japp
+0x12965EEF=Alan Japp
+
+;0x131F1ECA=Adam Tetzloff, Lloyd Anthony Thompson, Jose A. Torres,
+0x131F1ECA=Adam Tetzloff, Lloyd Anthony Thompson, Jose A. Torres,
+
+;0x13395DB2=Mathias Breton
+0x13395DB2=Mathias Breton
+
+;0x137DBBCB=Joe Coots, Paugh Shadow, Leyla Pistone,
+0x137DBBCB=Joe Coots, Paugh Shadow, Leyla Pistone,
+
+;0x1382BD09=Alexis Iacono, Robert Youngren, Steve MacFadden,
+0x1382BD09=Alexis Iacono, Robert Youngren, Steve MacFadden,
+
+;0x138E95EE=Christian Kjeldsen
+0x138E95EE=Christian Kjeldsen
+
+;0x13F63C68=John Zurhellen, Lazlow, Couzin Ed, Anthony Litton
+0x13F63C68=John Zurhellen, Lazlow, Couzin Ed, Anthony Litton
+
+;0x14103FD5=Roy Isserlis
+0x14103FD5=Roy Isserlis
+
+;0x14643CA4=Michael Elkind
+0x14643CA4=Michael Elkind
+
+;0x14E3A648=Suzanne Boroujerdi
+0x14E3A648=Suzanne Boroujerdi
+
+;0x14E3BA73=Johnny Andrew, Armand Anthony, Ashley "Faro" Alfaro,
+0x14E3BA73=Johnny Andrew, Armand Anthony, Ashley "Faro" Alfaro,
+
+;0x14F3139D=Mario D'Leon
+0x14F3139D=Mario D'Leon
+
+;0x1507AD06=Kevin Gray
+0x1507AD06=Kevin Gray
+
+;0x151D406B=Giselle Rodriguez, Kareem Savinon, Greg Siff,
+0x151D406B=Giselle Rodriguez, Kareem Savinon, Greg Siff,
+
+;0x158CB4D6=Troy
+0x158CB4D6=Troy
+
+;0x15C3EA8D=Paul Vlachou, Daniel Weiner
+0x15C3EA8D=Paul Vlachou, Daniel Weiner
+
+;0x15D2FDA9=Thomas Stubbs III
+0x15D2FDA9=Thomas Stubbs III
+
+;0x162025EC=Ramon Stokes,Kat Storm, Ray Smiling, Robert Spampinato,
+0x162025EC=Ramon Stokes,Kat Storm, Ray Smiling, Robert Spampinato,
+
+;0x16F3D2F1=The Men's Room with Bas and Jeremy
+0x16F3D2F1=The Men's Room with Bas and Jeremy
+
+;0x17163EF6=Paul Blyth
+0x17163EF6=Paul Blyth
+
+;0x1737F2B6=Catherine LeFrere
+0x1737F2B6=Catherine LeFrere
+
+;0x17FC1415=Patrick Conroy
+0x17FC1415=Patrick Conroy
+
+;0x182B6E50=Richard Cole
+0x182B6E50=Richard Cole
+
+;0x183130BD=Lewis Edwards
+0x183130BD=Lewis Edwards
+
+;0x1881CFAB=Marissa Warner-Wu
+0x1881CFAB=Marissa Warner-Wu
+
+;0x188C3DBC=Officer
+0x188C3DBC=Officer
+
+;0x189EC20A=Elizabeth Jasicki, Simon Jutras, Catherine LeFrere,
+0x189EC20A=Elizabeth Jasicki, Simon Jutras, Catherine LeFrere,
+
+;0x18C64478=Alex Kalvzhsky, Forrest Karbowski, Jay Klaitz, Kelly Klein,
+0x18C64478=Alex Kalvzhsky, Forrest Karbowski, Jay Klaitz, Kelly Klein,
+
+;0x1944440C=Brian Nicholson, Scott Nicholson, Ifeoma Obi,
+0x1944440C=Brian Nicholson, Scott Nicholson, Ifeoma Obi,
+
+;0x19FD710E=Matt Rowley
+0x19FD710E=Matt Rowley
+
+;0x1A32CC34=Cutscene Cameras
+0x1A32CC34=Cutscene Cameras
+
+;0x1A92CC35=Nikki Imbornone, Ray "Fling Poo" Lai, Brett Bisogno,
+0x1A92CC35=Nikki Imbornone, Ray "Fling Poo" Lai, Brett Bisogno,
+
+;0x1AE2B613=Peter Appel
+0x1AE2B613=Peter Appel
+
+;0x1BBC7222=Raquel Garcia
+0x1BBC7222=Raquel Garcia
+
+;0x1C0473A6=Motion Capture Characters performed by
+0x1C0473A6=Motion Capture Characters performed by
+
+;0x1C935DAD=Tom Adam
+0x1C935DAD=Tom Adam
+
+;0x1CF5CDE5=Luke Howard
+0x1CF5CDE5=Luke Howard
+
+;0x1DC04AD4=Stephen M. Ellis, Martin Ewens,Rob Falcone, Joeseph Farrington,
+0x1DC04AD4=Stephen M. Ellis, Martin Ewens,Rob Falcone, Joeseph Farrington,
+
+;0x1ECE4F98=Robert Ian Mackenzie, Meg Maise, Charles Manley,
+0x1ECE4F98=Robert Ian Mackenzie, Meg Maise, Charles Manley,
+
+;0x1FD38F46=Dessie
+0x1FD38F46=Dessie
+
+;0x1FD7EA82=Jasmine Wong
+0x1FD7EA82=Jasmine Wong
+
+;0x2047D70B=Adrian Johansson, Amy Landon, Roy S Woo,
+0x2047D70B=Adrian Johansson, Amy Landon, Roy S Woo,
+
+;0x20A9D7E7=Matthew Schembri
+0x20A9D7E7=Matthew Schembri
+
+;0x212F45D0=Billy Grey
+0x212F45D0=Billy Grey
+
+;0x21305763=D.B. Cooper
+0x21305763=D.B. Cooper
+
+;0x2141D6DB=Animation Director
+0x2141D6DB=Animation Director
+
+;0x22B00A04=Greg Weller
+0x22B00A04=Greg Weller
+
+;0x22B97076=Systems Programmers
+0x22B97076=Systems Programmers
+
+;0x23075D6A=Victor Cruz, Vincent C Parker, Lazzarus,
+0x23075D6A=Victor Cruz, Vincent C Parker, Lazzarus,
+
+;0x2310DEE1=Bobby Blue
+0x2310DEE1=Bobby Blue
+
+;0x2342E35C=Great City Productions
+0x2342E35C=Great City Productions
+
+;0x2361DA0D=Jorje
+0x2361DA0D=Jorje
+
+;0x23A0213E=Personal Assistant
+0x23A0213E=Personal Assistant
+
+;0x23B05FE1=Robert Bogue
+0x23B05FE1=Robert Bogue
+
+;0x245AD619=Robert Chimes
+0x245AD619=Robert Chimes
+
+;0x24795DDE=Weaponry
+0x24795DDE=Weaponry
+
+;0x24B55F6E=Andrew Einhorn, Andrew Lee, Corey Noble,
+0x24B55F6E=Andrew Einhorn, Andrew Lee, Corey Noble,
+
+;0x25A70E97=Chris Dixon
+0x25A70E97=Chris Dixon
+
+;0x268EF7C7=Pedestrians Directed By:
+0x268EF7C7=Pedestrians Directed By:
+
+;0x26CE2B85=Andreas
+0x26CE2B85=Andreas
+
+;0x26CE4C5A=Jay Patterson
+0x26CE4C5A=Jay Patterson
+
+;0x271A5EE0=Joey Auzenne, Heike Bachmann, Sarah Barbeau, Jayce Bartok,
+0x271A5EE0=Joey Auzenne, Heike Bachmann, Sarah Barbeau, Jayce Bartok,
+
+;0x279E65CC=Matthew Flewelling
+0x279E65CC=Matthew Flewelling
+
+;0x27A5A286=Yevgnity Dekhtyar
+0x27A5A286=Yevgnity Dekhtyar
+
+;0x27BF644E=Matt Mack, Brenna Wallace, Luke Pistone,
+0x27BF644E=Matt Mack, Brenna Wallace, Luke Pistone,
+
+;0x285A0E30=Matthew Puthiampadavil
+0x285A0E30=Matthew Puthiampadavil
+
+;0x28A43E06=Richard Fisher
+0x28A43E06=Richard Fisher
+
+;0x28EAA013=Lesley Robertson
+0x28EAA013=Lesley Robertson
+
+;0x28FBB359=John Reilly
+0x28FBB359=John Reilly
+
+;0x29123AEA=Pretty Boy
+0x29123AEA=Pretty Boy
+
+;0x292E2E8E=Technical Director
+0x292E2E8E=Technical Director
+
+;0x295B69C6=Dennis K. Philbert, Angela Funk, Nate Smith,
+0x295B69C6=Dennis K. Philbert, Angela Funk, Nate Smith,
+
+;0x2A1CEAB5=Chris Lee, Michael Tully, DJ Baker, Eric Arriola,
+0x2A1CEAB5=Chris Lee, Michael Tully, DJ Baker, Eric Arriola,
+
+;0x2B0A95A9=HAVIN' IT WITH DJ PAUL Show featuring DJ Paul Martin
+0x2B0A95A9=HAVIN' IT WITH DJ PAUL Show featuring DJ Paul Martin
+
+;0x2B226930=Arseny Lebedev, Glenn Levy, Joe Lisi, Paty Lombard,
+0x2B226930=Arseny Lebedev, Glenn Levy, Joe Lisi, Paty Lombard,
+
+;0x2C397853=Michael Alan Erickson
+0x2C397853=Michael Alan Erickson
+
+;0x2C84EB05=Florence Loubiere, Ruben Luque, Erica Lutz,Anthony Macbain,
+0x2C84EB05=Florence Loubiere, Ruben Luque, Erica Lutz,Anthony Macbain,
+
+;0x2C9F35C2=Chris McKinney
+0x2C9F35C2=Chris McKinney
+
+;0x2D4471E4=Jabari-Amir Jones, Berman Fenelus, Grace Maiden of Metal,
+0x2D4471E4=Jabari-Amir Jones, Berman Fenelus, Grace Maiden of Metal,
+
+;0x2D890918=Jochen Faerber
+0x2D890918=Jochen Faerber
+
+;0x2E617EDF=David D. McDonald
+0x2E617EDF=David D. McDonald
+
+;0x2F077412=Mathew Cronin, Selena N Singleton, Toney Palumbo,
+0x2F077412=Mathew Cronin, Selena N Singleton, Toney Palumbo,
+
+;0x2F0BA048=Ara Mot
+0x2F0BA048=Ara Mot
+
+;0x2F107720=Rocco Pelosi
+0x2F107720=Rocco Pelosi
+
+;0x2F3F9907=Max Cavalera
+0x2F3F9907=Max Cavalera
+
+;0x2F6276B4=Cutscene Resource Assistant
+0x2F6276B4=Cutscene Resource Assistant
+
+;0x2F82EE59=Wayne Sean Dyson,John A Dzubak, Rachel Epstein,
+0x2F82EE59=Wayne Sean Dyson,John A Dzubak, Rachel Epstein,
+
+;0x2F97422B=Gordon McKenzie
+0x2F97422B=Gordon McKenzie
+
+;0x2F979B61=Scott Penman
+0x2F979B61=Scott Penman
+
+;0x313C463C=Barman
+0x313C463C=Barman
+
+;0x315E7368=Vincent Parker, Rocco Cambareri, Lioyd Anthony Thompson.
+0x315E7368=Vincent Parker, Rocco Cambareri, Lioyd Anthony Thompson.
+
+;0x31A3773E=Gregory Dann, Amari Cheatom, Louis Changchien,
+0x31A3773E=Gregory Dann, Amari Cheatom, Louis Changchien,
+
+;0x31EB8A64=Blood Fire War Hate Death Metal Show
+0x31EB8A64=Blood Fire War Hate Death Metal Show
+
+;0x326DE4E3=Wilhelm Lewis
+0x326DE4E3=Wilhelm Lewis
+
+;0x327F0712=Amy Evinger
+0x327F0712=Amy Evinger
+
+;0x32D4A76C=Republican Space Rangers Episode 456
+0x32D4A76C=Republican Space Rangers Episode 456
+
+;0x32DE5E48=Yomi, Jon Young, Trevor Zhou, John Zurhellen
+0x32DE5E48=Yomi, Jon Young, Trevor Zhou, John Zurhellen
+
+;0x33B1BC26=John Moros, Rory Cash
+0x33B1BC26=John Moros, Rory Cash
+
+;0x33D6A7BC=Steve Guillaume
+0x33D6A7BC=Steve Guillaume
+
+;0x33FC4BFA=Cutscenes Mixed By
+0x33FC4BFA=Cutscenes Mixed By
+
+;0x340D6E2B=James Crocker
+0x340D6E2B=James Crocker
+
+;0x344F3581=Struan Brydone
+0x344F3581=Struan Brydone
+
+;0x3654FD76=Wilhelm Lewis, J. Salomé Martinez Jr., Pollyanna McIntosh,
+0x3654FD76=Wilhelm Lewis, J. Salomé Martinez Jr., Pollyanna McIntosh,
+
+;0x36EE68C5=Jochen Till
+0x36EE68C5=Jochen Till
+
+;0x37BA8766=Dude Walker
+0x37BA8766=Dude Walker
+
+;0x37F4AB89=Geoffrey Fermin
+0x37F4AB89=Geoffrey Fermin
+
+;0x3812A173=Marta
+0x3812A173=Marta
+
+;0x381F2286=Fernando Martinez - Frank Chavez
+0x381F2286=Fernando Martinez - Frank Chavez
+
+;0x390A8818=Justin Tejada, David Carranza, Arianne Recto,
+0x390A8818=Justin Tejada, David Carranza, Arianne Recto,
+
+;0x399E4FE3=Craig McIntosh
+0x399E4FE3=Craig McIntosh
+
+;0x3A26A5BB=Associate Technical Directors
+0x3A26A5BB=Associate Technical Directors
+
+;0x3A7A0447=Jaesun Celebre, Jason Cerbone, Pei Chien, Eddie Hyungjin Cho,
+0x3A7A0447=Jaesun Celebre, Jason Cerbone, Pei Chien, Eddie Hyungjin Cho,
+
+;0x3A96BB05=Harrison Chad
+0x3A96BB05=Harrison Chad
+
+;0x3B2921B8=David Santana
+0x3B2921B8=David Santana
+
+;0x3B2AB390=Image Metrics
+0x3B2AB390=Image Metrics
+
+;0x3BDB2AB7=Sebastian Huland
+0x3BDB2AB7=Sebastian Huland
+
+;0x3BE3D827=Jack Harte
+0x3BE3D827=Jack Harte
+
+;0x3BF24F51=Karl Lagerfeld
+0x3BF24F51=Karl Lagerfeld
+
+;0x3BF75C6A=Alexander Armitage
+0x3BF75C6A=Alexander Armitage
+
+;0x3C3E100C=Mario D'Leon, Franklin Abrams, Jas Anderson,
+0x3C3E100C=Mario D'Leon, Franklin Abrams, Jas Anderson,
+
+;0x3C700DAF=Marc C. Yarrish, Sean Tierney, Skippy "D",
+0x3C700DAF=Marc C. Yarrish, Sean Tierney, Skippy "D",
+
+;0x3CCFF09E=Joni
+0x3CCFF09E=Joni
+
+;0x3D380CB2=Jim Conroy
+0x3D380CB2=Jim Conroy
+
+;0x3D40C718=Shaun Johnston
+0x3D40C718=Shaun Johnston
+
+;0x3D4B7322=Peter Poppa Sandwich Woloszyn, Alpher Xian,
+0x3D4B7322=Peter Poppa Sandwich Woloszyn, Alpher Xian,
+
+;0x3E327592=Daniel Ebanks
+0x3E327592=Daniel Ebanks
+
+;0x3E485C3D=Rowan Cockcroft
+0x3E485C3D=Rowan Cockcroft
+
+;0x3E6E6CA5=Chris Kies
+0x3E6E6CA5=Chris Kies
+
+;0x3EAE3AE7=Oscar Valer
+0x3EAE3AE7=Oscar Valer
+
+;0x3F5E7868=John M. Soto, Adam Stennentt, Aaron Stewart-Ahn,
+0x3F5E7868=John M. Soto, Adam Stennentt, Aaron Stewart-Ahn,
+
+;0x3F705137=David Mueller
+0x3F705137=David Mueller
+
+;0x3F90777F=AJ Allen
+0x3F90777F=AJ Allen
+
+;0x3FCAEF9E=Onno Bos
+0x3FCAEF9E=Onno Bos
+
+;0x4097A343=Smithy the Stunt Boy
+0x4097A343=Smithy the Stunt Boy
+
+;0x41238F5C=Lori Diangelo-Stockton
+0x41238F5C=Lori Diangelo-Stockton
+
+;0x414B41EF=James Fraser
+0x414B41EF=James Fraser
+
+;0x41D09C52=Jay Adams
+0x41D09C52=Jay Adams
+
+;0x41D4DE9C=John McKay
+0x41D4DE9C=John McKay
+
+;0x4281E6E7=Harry Bernstein
+0x4281E6E7=Harry Bernstein
+
+;0x42C03DE4=Statik Selektah
+0x42C03DE4=Statik Selektah
+
+;0x431E3442=Luis Fernando Lopez
+0x431E3442=Luis Fernando Lopez
+
+;0x4332170F=Ethan Abeles, Abraham Ahmed, Pia Alessandri, Bryan Apple,
+0x4332170F=Ethan Abeles, Abraham Ahmed, Pia Alessandri, Bryan Apple,
+
+;0x4335A13C=Yusuf Amir
+0x4335A13C=Yusuf Amir
+
+;0x43FE82E2=Ben Rollinson
+0x43FE82E2=Ben Rollinson
+
+;0x4423ED18=Lloyd Thompson
+0x4423ED18=Lloyd Thompson
+
+;0x444ED8DA=Conspire
+0x444ED8DA=Conspire
+
+;0x450CD642=Bill Cohen
+0x450CD642=Bill Cohen
+
+;0x4532E5C9=Koji Nonoyama
+0x4532E5C9=Koji Nonoyama
+
+;0x45635941=TV Graphics by Stephen Ellis
+0x45635941=TV Graphics by Stephen Ellis
+
+;0x46555B53=Simon Edgeler
+0x46555B53=Simon Edgeler
+
+;0x4690DCE1=Charles Czerkawski
+0x4690DCE1=Charles Czerkawski
+
+;0x469D34B0=The People of Liberty City
+0x469D34B0=The People of Liberty City
+
+;0x46C29B55=John Lantz
+0x46C29B55=John Lantz
+
+;0x470820FB=Ivica Kovacevic, Violet Krumbein, Felix Germanus,
+0x470820FB=Ivica Kovacevic, Violet Krumbein, Felix Germanus,
+
+;0x470D9F9E=Chris J. Murray, Kianné Muschett, Burt Natkins,
+0x470D9F9E=Chris J. Murray, Kianné Muschett, Burt Natkins,
+
+;0x475F4E20=William Kennedy
+0x475F4E20=William Kennedy
+
+;0x4760ECFF=Poison Pen
+0x4760ECFF=Poison Pen
+
+;0x479C3D4A=Margot
+0x479C3D4A=Margot
+
+;0x47F5DF46=CJ Gibson
+0x47F5DF46=CJ Gibson
+
+;0x4863B0D7=Oscar Farrar
+0x4863B0D7=Oscar Farrar
+
+;0x48BEFAA9=Monica Puricelli
+0x48BEFAA9=Monica Puricelli
+
+;0x48FEAA09=Raymond Dela Cruz
+0x48FEAA09=Raymond Dela Cruz
+
+;0x49B25D43=Elizabeth Jasicki
+0x49B25D43=Elizabeth Jasicki
+
+;0x4A28AC22=Lisa Olsen
+0x4A28AC22=Lisa Olsen
+
+;0x4A48AE0F=Police Officer
+0x4A48AE0F=Police Officer
+
+;0x4A8DD1F4=Associate Producer
+0x4A8DD1F4=Associate Producer
+
+;0x4ADDA99E=Chris Corley
+0x4ADDA99E=Chris Corley
+
+;0x4B00AAD0=Lauren Fortgang, M Fletcher, Cathy Trien,
+0x4B00AAD0=Lauren Fortgang, M Fletcher, Cathy Trien,
+
+;0x4B99C861=Caricature Artist
+0x4B99C861=Caricature Artist
+
+;0x4BECAC6F=Build Engineers
+0x4BECAC6F=Build Engineers
+
+;0x4C29E766=Nelson Vasquez
+0x4C29E766=Nelson Vasquez
+
+;0x4C9466C4=Rob Yang
+0x4C9466C4=Rob Yang
+
+;0x4CCA11B0=Jerome Pilchard
+0x4CCA11B0=Jerome Pilchard
+
+;0x4CFC00BC=Jeff Gurner
+0x4CFC00BC=Jeff Gurner
+
+;0x4D67B59E=Craig Kinghorn
+0x4D67B59E=Craig Kinghorn
+
+;0x4DE490E8=Armando Torres
+0x4DE490E8=Armando Torres
+
+;0x4DF98B1B=Elisa Olmedo Camacho
+0x4DF98B1B=Elisa Olmedo Camacho
+
+;0x4DFF8CDF=Chris Conway
+0x4DFF8CDF=Chris Conway
+
+;0x4E733C8F=Triad 1
+0x4E733C8F=Triad 1
+
+;0x4E7B770A=Hotdog Vendor
+0x4E7B770A=Hotdog Vendor
+
+;0x4F304649=Anneline Groves
+0x4F304649=Anneline Groves
+
+;0x4FA6FF88=Brian Tarantina
+0x4FA6FF88=Brian Tarantina
+
+;0x5112F160=Andrea Malerba
+0x5112F160=Andrea Malerba
+
+;0x513E9621=Pete Andrews
+0x513E9621=Pete Andrews
+
+;0x51721228=Dick Ervasti
+0x51721228=Dick Ervasti
+
+;0x51FF00E4=Kevin Gomez
+0x51FF00E4=Kevin Gomez
+
+;0x524DB546=Jim Bracchitta, Bridget Burke, Charles Burrell, Hannah Cabell,
+0x524DB546=Jim Bracchitta, Bridget Burke, Charles Burrell, Hannah Cabell,
+
+;0x52677B00=Blair Thorburn
+0x52677B00=Blair Thorburn
+
+;0x52783C80=J Ganser, Tighe Swanson, Robert Youells,
+0x52783C80=J Ganser, Tighe Swanson, Robert Youells,
+
+;0x5285F3E9=Tom McKeon
+0x5285F3E9=Tom McKeon
+
+;0x52A2B589=EPISODES FROM LIBERTY CITY
+0x52A2B589=EPISODES FROM LIBERTY CITY
+
+;0x52A408EA=Antifan1
+0x52A408EA=Antifan1
+
+;0x52D61A3D=Lloyd Thompson,
+0x52D61A3D=Lloyd Thompson,
+
+;0x5300A13E=Duncan Shields
+0x5300A13E=Duncan Shields
+
+;0x530CE86F=Robot
+0x530CE86F=Robot
+
+;0x539BFCB9=Dealer
+0x539BFCB9=Dealer
+
+;0x540F0A25=Christopher Ferguson
+0x540F0A25=Christopher Ferguson
+
+;0x54AFA1EA=Maurice Watkins, Tracy Weiler, Larry White,
+0x54AFA1EA=Maurice Watkins, Tracy Weiler, Larry White,
+
+;0x54B99C2A=Bill Blue
+0x54B99C2A=Bill Blue
+
+;0x554F76AF=Armando Riesco
+0x554F76AF=Armando Riesco
+
+;0x556EAFA0=Mike Schouten
+0x556EAFA0=Mike Schouten
+
+;0x55B0CD75=Will Forte
+0x55B0CD75=Will Forte
+
+;0x55F33B39=Tamara Carrion,Drew Cahsin, Herb Carter Jr., Saad Sizzle Cecil,
+0x55F33B39=Tamara Carrion,Drew Cahsin, Herb Carter Jr., Saad Sizzle Cecil,
+
+;0x5643E1AC=Nick Shier
+0x5643E1AC=Nick Shier
+
+;0x56653C58=Mike Wolfe
+0x56653C58=Mike Wolfe
+
+;0x5673232D=Cook
+0x5673232D=Cook
+
+;0x56F96A42=Street Percussion Musician
+0x56F96A42=Street Percussion Musician
+
+;0x57C6FD50=Production voice and Imaging
+0x57C6FD50=Production voice and Imaging
+
+;0x57E5D74E=Sword Boy
+0x57E5D74E=Sword Boy
+
+;0x584FA428=Frank Chen
+0x584FA428=Frank Chen
+
+;0x58B72B19=Raffeal A. Sears, Julia Segal, Robert Saietta,
+0x58B72B19=Raffeal A. Sears, Julia Segal, Robert Saietta,
+
+;0x58F33C05=Photo Scan
+0x58F33C05=Photo Scan
+
+;0x58F39298=Charles Burrell
+0x58F39298=Charles Burrell
+
+;0x58FF36A5=Immigration Agent
+0x58FF36A5=Immigration Agent
+
+;0x591206DD=Broker, Bohan, Dukes Map Artists
+0x591206DD=Broker, Bohan, Dukes Map Artists
+
+;0x59129C77=HOST:
+0x59129C77=HOST:
+
+;0x59189690=Dave Scott
+0x59189690=Dave Scott
+
+;0x5940065A=Girl in Office
+0x5940065A=Girl in Office
+
+;0x5AFF4C6C=Lazlow as himself
+0x5AFF4C6C=Lazlow as himself
+
+;0x5BCC03B8=Thierry Stokman
+0x5BCC03B8=Thierry Stokman
+
+;0x5C302B20=Rachel Gittler
+0x5C302B20=Rachel Gittler
+
+;0x5C739344=Craig "Mums" Grant
+0x5C739344=Craig "Mums" Grant
+
+;0x5C962075=Wendy Rodriguez
+0x5C962075=Wendy Rodriguez
+
+;0x5CB1E0F9=Music Credits
+0x5CB1E0F9=Music Credits
+
+;0x5D0F7073=TV camera work by Charles Burrell,
+0x5D0F7073=TV camera work by Charles Burrell,
+
+;0x5D664988=Steve "Knuckles" Donohoe
+0x5D664988=Steve "Knuckles" Donohoe
+
+;0x5DFF6FFA=Mr. Roncero
+0x5DFF6FFA=Mr. Roncero
+
+;0x5E132143=Rupert Humphries, Nick Giovannetti,
+0x5E132143=Rupert Humphries, Nick Giovannetti,
+
+;0x5E373195=Alpher Xian
+0x5E373195=Alpher Xian
+
+;0x5E833C9E=Terry Thorpe
+0x5E833C9E=Terry Thorpe
+
+;0x5F62DE0B=Santos
+0x5F62DE0B=Santos
+
+;0x608728E6=Maia McCann
+0x608728E6=Maia McCann
+
+;0x60A95621=James Edward Becton, Neal Bledsoe, Billy Griffith,
+0x60A95621=James Edward Becton, Neal Bledsoe, Billy Griffith,
+
+;0x60C07D50=RAMJAM FM
+0x60C07D50=RAMJAM FM
+
+;0x60D45090=Seckin Oezduendar
+0x60D45090=Seckin Oezduendar
+
+;0x60F3D977=Craig "Mums" Grant, Genia Morgan, John Joseph Gallager,
+0x60F3D977=Craig "Mums" Grant, Genia Morgan, John Joseph Gallager,
+
+;0x610B3BFD=Linda Vezzoli
+0x610B3BFD=Linda Vezzoli
+
+;0x61191FC2=Dani Joyce
+0x61191FC2=Dani Joyce
+
+;0x6167101A=SELF ACTUALIZATION FM
+0x6167101A=SELF ACTUALIZATION FM
+
+;0x6182B7F4=Max Casella
+0x6182B7F4=Max Casella
+
+;0x61B16101=Rob Elsworthy
+0x61B16101=Rob Elsworthy
+
+;0x61D57785=The Crookers
+0x61D57785=The Crookers
+
+;0x62683DE8=John Tormey
+0x62683DE8=John Tormey
+
+;0x62808616=Abdul Amir
+0x62808616=Abdul Amir
+
+;0x62B5829A=Casting
+0x62B5829A=Casting
+
+;0x63074210=Ryan Schacter
+0x63074210=Ryan Schacter
+
+;0x63306874=Stacey the Porn Star
+0x63306874=Stacey the Porn Star
+
+;0x639184FA=Federico Clonfero
+0x639184FA=Federico Clonfero
+
+;0x64811A56=Det. Mathews
+0x64811A56=Det. Mathews
+
+;0x652CD69D=Wilhelm Lewis
+0x652CD69D=Wilhelm Lewis
+
+;0x6544608B=Daniel Blatman, Nick Matteo, Zach Lombardo,
+0x6544608B=Daniel Blatman, Nick Matteo, Zach Lombardo,
+
+;0x65725497=J. Salomé Martinez Jr.
+0x65725497=J. Salomé Martinez Jr.
+
+;0x658F152A=Written and produced by Aaron Johnston, Jesse Murphy and Avi Bortnick
+0x658F152A=Written and produced by Aaron Johnston, Jesse Murphy and Avi Bortnick
+
+;0x667A457F=Fidel Vicioso, Faina Vitebsky, Andrew L Walker Jr.,
+0x667A457F=Fidel Vicioso, Faina Vitebsky, Andrew L Walker Jr.,
+
+;0x66A64603=Franceska Clemens and Gail Bennington
+0x66A64603=Franceska Clemens and Gail Bennington
+
+;0x66C2E7B1=Rockstar Studios
+0x66C2E7B1=Rockstar Studios
+
+;0x66E772F6=Cesar Hernandez
+0x66E772F6=Cesar Hernandez
+
+;0x672F4539=Jody Wood
+0x672F4539=Jody Wood
+
+;0x67385E35=Vasiko Manjgaladze
+0x67385E35=Vasiko Manjgaladze
+
+;0x6758BF00=Audio Tester
+0x6758BF00=Audio Tester
+
+;0x6791557A=Bradlay Law
+0x6791557A=Bradlay Law
+
+;0x67C498D9=Buttons Studios
+0x67C498D9=Buttons Studios
+
+;0x67E363A9=Alison Larkan
+0x67E363A9=Alison Larkan
+
+;0x67E7DF22=Miss D, Noré Davis, Mike Dazé,TJ Del Reno, Noemi Del Rio,
+0x67E7DF22=Miss D, Noré Davis, Mike Dazé,TJ Del Reno, Noemi Del Rio,
+
+;0x69014C9F=Kevin Hoare
+0x69014C9F=Kevin Hoare
+
+;0x69545F99=Dave Collier
+0x69545F99=Dave Collier
+
+;0x69A3F4AE=Junior Artist
+0x69A3F4AE=Junior Artist
+
+;0x69A73A2E=Special Thanks
+0x69A73A2E=Special Thanks
+
+;0x69D13744=Antifan2
+0x69D13744=Antifan2
+
+;0x69F419B5=Zachary Gershman
+0x69F419B5=Zachary Gershman
+
+;0x6A16BC6B=Cloe Parker
+0x6A16BC6B=Cloe Parker
+
+;0x6A29C5A2=Ian Muirhead
+0x6A29C5A2=Ian Muirhead
+
+;0x6A2BCE02=Jessisca Salas, Omar T. Saleem, James Scruggs, Jen Cohn,
+0x6A2BCE02=Jessisca Salas, Omar T. Saleem, James Scruggs, Jen Cohn,
+
+;0x6A70F2C8=Dance Manhattan
+0x6A70F2C8=Dance Manhattan
+
+;0x6AAA94F4=Liam Halley
+0x6AAA94F4=Liam Halley
+
+;0x6B00A326=Donald Hutchison
+0x6B00A326=Donald Hutchison
+
+;0x6B14E00F=DeSean
+0x6B14E00F=DeSean
+
+;0x6BCDDC9E=Angus Martin
+0x6BCDDC9E=Angus Martin
+
+;0x6BCFE84A=J. Cabrera, Rocco Cambareri, Jay Capozello, Christopher Caramelli,
+0x6BCFE84A=J. Cabrera, Rocco Cambareri, Jay Capozello, Christopher Caramelli,
+
+;0x6C3D69FD=Curtis B. Rembert, Matthew Ritter, Danny J. Rivera,
+0x6C3D69FD=Curtis B. Rembert, Matthew Ritter, Danny J. Rivera,
+
+;0x6C5E89EB=Rob Nelson
+0x6C5E89EB=Rob Nelson
+
+;0x6CA780D5=Andy Welihozkiy
+0x6CA780D5=Andy Welihozkiy
+
+;0x6CAB34DB=Gemma Horsburgh
+0x6CAB34DB=Gemma Horsburgh
+
+;0x6D210E0C=Rafael Lage
+0x6D210E0C=Rafael Lage
+
+;0x6D8C19EA=Ross Parker
+0x6D8C19EA=Ross Parker
+
+;0x6DDFD2A5=Jonathan Hodge
+0x6DDFD2A5=Jonathan Hodge
+
+;0x6ED6B98F=Reginald Woods
+0x6ED6B98F=Reginald Woods
+
+;0x6F17E0E3=Bas Rutten
+0x6F17E0E3=Bas Rutten
+
+;0x6F1A5A5E=Malcolm Angus
+0x6F1A5A5E=Malcolm Angus
+
+;0x6F3389D3=Alicia Hall
+0x6F3389D3=Alicia Hall
+
+;0x6F471BC6=Graeme Hutton
+0x6F471BC6=Graeme Hutton
+
+;0x6F86F61C=Mathew Kugler, Hector Palacios, Mari Mori,
+0x6F86F61C=Mathew Kugler, Hector Palacios, Mari Mori,
+
+;0x6FBAA0E3=Gordon Yeoman
+0x6FBAA0E3=Gordon Yeoman
+
+;0x70ADF0AE=Chris Choi, Allegra Cohen, Steve Covino, Victor Cruz, Ben Curtis,
+0x70ADF0AE=Chris Choi, Allegra Cohen, Steve Covino, Victor Cruz, Ben Curtis,
+
+;0x7165FA13=Alex Dunn
+0x7165FA13=Alex Dunn
+
+;0x71E3F781=THE LOST AND THE DAMNED THEME
+0x71E3F781=THE LOST AND THE DAMNED THEME
+
+;0x7215EF8A=Clark Harris
+0x7215EF8A=Clark Harris
+
+;0x7305BF81=George Cascarino
+0x7305BF81=George Cascarino
+
+;0x73790F4B=Russian drug dealer
+0x73790F4B=Russian drug dealer
+
+;0x7471E28E=Jerry Rohira, Alan Rosinsky,Danny Rutigliano,
+0x7471E28E=Jerry Rohira, Alan Rosinsky,Danny Rutigliano,
+
+;0x747E03DD=Admin Support
+0x747E03DD=Admin Support
+
+;0x74B4EA18=Iain Downie
+0x74B4EA18=Iain Downie
+
+;0x74D44702=Internet written by Michael Unsworth, Lazlow,
+0x74D44702=Internet written by Michael Unsworth, Lazlow,
+
+;0x7517C61D=Evan Moss
+0x7517C61D=Evan Moss
+
+;0x75B182F2=Traci Godfrey, Ryan Woodle, Jose Ramon Rosario,
+0x75B182F2=Traci Godfrey, Ryan Woodle, Jose Ramon Rosario,
+
+;0x75BB81F6=Robert Blumenfeld, Mathew P McCarthy,
+0x75BB81F6=Robert Blumenfeld, Mathew P McCarthy,
+
+;0x75C0F729=Tanya Holland
+0x75C0F729=Tanya Holland
+
+;0x75DD7890=Maksims Avotins
+0x75DD7890=Maksims Avotins
+
+;0x7727BAB6=Lennox Kincade
+0x7727BAB6=Lennox Kincade
+
+;0x7834927C=Carla Renata Williams
+0x7834927C=Carla Renata Williams
+
+;0x78A4E90C=Maisonette 9 girl
+0x78A4E90C=Maisonette 9 girl
+
+;0x79990816=Matthew Forman
+0x79990816=Matthew Forman
+
+;0x79ED32FF=Clay "PG" Jackson
+0x79ED32FF=Clay "PG" Jackson
+
+;0x7A0EC97D=Oscar de la Fe
+0x7A0EC97D=Oscar de la Fe
+
+;0x7A1CB710=Ryan Woodle
+0x7A1CB710=Ryan Woodle
+
+;0x7A424145=Facial Animation
+0x7A424145=Facial Animation
+
+;0x7A44D320=John Beach
+0x7A44D320=John Beach
+
+;0x7A8BEB29=Serge Boguslavskij
+0x7A8BEB29=Serge Boguslavskij
+
+;0x7A98FF72=Cutscene Production Co-ordinator
+0x7A98FF72=Cutscene Production Co-ordinator
+
+;0x7B243F47=Tahir
+0x7B243F47=Tahir
+
+;0x7B4E8E5B=Location Sound
+0x7B4E8E5B=Location Sound
+
+;0x7B60C689=Crack Ho
+0x7B60C689=Crack Ho
+
+;0x7BE65235=Tom Hatton
+0x7BE65235=Tom Hatton
+
+;0x7C24CFEE=Rachael Walker
+0x7C24CFEE=Rachael Walker
+
+;0x7C450A88=William Prinsell, Craig Reid,Curtis Jido Reyes,
+0x7C450A88=William Prinsell, Craig Reid,Curtis Jido Reyes,
+
+;0x7CEAB42A=Associate Art Directors
+0x7CEAB42A=Associate Art Directors
+
+;0x7CFE8AA3=Jonathan Beesen, André Blake, Michelle Blakely, Ian Bedford,
+0x7CFE8AA3=Jonathan Beesen, André Blake, Michelle Blakely, Ian Bedford,
+
+;0x7D21FCD3=Clay Simons
+0x7D21FCD3=Clay Simons
+
+;0x7D4949BB=Senior Localization Supervisor
+0x7D4949BB=Senior Localization Supervisor
+
+;0x7D6CEFB3=Stephen Cooper
+0x7D6CEFB3=Stephen Cooper
+
+;0x7D73AA5A=Hector C Cassels
+0x7D73AA5A=Hector C Cassels
+
+;0x7D906FBD=Giselle Rodriguez
+0x7D906FBD=Giselle Rodriguez
+
+;0x7DE09331=Philip Doust
+0x7DE09331=Philip Doust
+
+;0x7DF09248=Vitali Baganov, Rebecca Benhayon, Robert Bogue,
+0x7DF09248=Vitali Baganov, Rebecca Benhayon, Robert Bogue,
+
+;0x7E9225BB=Henry Santos Jeter
+0x7E9225BB=Henry Santos Jeter
+
+;0x7EA26372=Prisoner
+0x7EA26372=Prisoner
+
+;0x7F75E199=Curtis Reyes
+0x7F75E199=Curtis Reyes
+
+;0x7F8B5D47=Jessica Blank
+0x7F8B5D47=Jessica Blank
+
+;0x8001BC9A=Nick Dablin
+0x8001BC9A=Nick Dablin
+
+;0x806A795F=Vance Tucker, Gabrielle Tully, Yul Vasquez,
+0x806A795F=Vance Tucker, Gabrielle Tully, Yul Vasquez,
+
+;0x809A0045=Silvia Cabrera
+0x809A0045=Silvia Cabrera
+
+;0x80DDA580=Cutscene Assistant
+0x80DDA580=Cutscene Assistant
+
+;0x80E3163F=Robert Blumenfeld
+0x80E3163F=Robert Blumenfeld
+
+;0x80FB0D56=Pei Chien
+0x80FB0D56=Pei Chien
+
+;0x81A62BEC=Nicholas Browning
+0x81A62BEC=Nicholas Browning
+
+;0x81D916B4=Triad
+0x81D916B4=Triad
+
+;0x82DAE73C=Mark Mears
+0x82DAE73C=Mark Mears
+
+;0x8370D9A9=TJ Usher
+0x8370D9A9=TJ Usher
+
+;0x83956FD2=Brian Thomas
+0x83956FD2=Brian Thomas
+
+;0x83BA9B6B=Liza Mosquito de Guia, Eric Strickler, Leif Riddell,
+0x83BA9B6B=Liza Mosquito de Guia, Eric Strickler, Leif Riddell,
+
+;0x83C368EE=TV Graphics and cartoon animation by Stephen Ellis and Jasmina Mathieu
+0x83C368EE=TV Graphics and cartoon animation by Stephen Ellis and Jasmina Mathieu
+
+;0x83E74294=Studio Head
+0x83E74294=Studio Head
+
+;0x840813C2=Tony Prince
+0x840813C2=Tony Prince
+
+;0x84257D12=Jared P. Raia
+0x84257D12=Jared P. Raia
+
+;0x84831CE4=Stephen Ellis
+0x84831CE4=Stephen Ellis
+
+;0x84A34B66=Neil Suttie
+0x84A34B66=Neil Suttie
+
+;0x84B1F042=WKTT RADIO
+0x84B1F042=WKTT RADIO
+
+;0x84C2B218=Reggie Washington
+0x84C2B218=Reggie Washington
+
+;0x85B07195=Martin Polok
+0x85B07195=Martin Polok
+
+;0x86EFEBCD=Henry Evans
+0x86EFEBCD=Henry Evans
+
+;0x877E257B=Benton Greene, Chris McKinney, Wass Stevens,
+0x877E257B=Benton Greene, Chris McKinney, Wass Stevens,
+
+;0x87913135=Martin Serious
+0x87913135=Martin Serious
+
+;0x87DFFA1E=Bruce Spade
+0x87DFFA1E=Bruce Spade
+
+;0x87E12761=Honey Rockwell, Paula M King, Kirk Larsen,
+0x87E12761=Honey Rockwell, Paula M King, Kirk Larsen,
+
+;0x87F358B7=Rehearsal Studio
+0x87F358B7=Rehearsal Studio
+
+;0x880CC157=Frankie Boyle
+0x880CC157=Frankie Boyle
+
+;0x887CF616=Ahmed
+0x887CF616=Ahmed
+
+;0x888EA0B2=Funk Flex
+0x888EA0B2=Funk Flex
+
+;0x8912C201=Iain Berekis
+0x8912C201=Iain Berekis
+
+;0x89E769BC=Andrew Mariuchno
+0x89E769BC=Andrew Mariuchno
+
+;0x8A0CED34=Callers: Ben Curtis, Jim Brachiatta, Meg Maise, Brian Schreie,
+0x8A0CED34=Callers: Ben Curtis, Jim Brachiatta, Meg Maise, Brian Schreie,
+
+;0x8A843B32=Production Music
+0x8A843B32=Production Music
+
+;0x8B4F0B8F=Shakira Wood
+0x8B4F0B8F=Shakira Wood
+
+;0x8B7A80E5=Bill Burr
+0x8B7A80E5=Bill Burr
+
+;0x8BA39E32=Pailo Heitz
+0x8BA39E32=Pailo Heitz
+
+;0x8BC9B81D=Eoin Martin
+0x8BC9B81D=Eoin Martin
+
+;0x8BEFAF6E=Arnie Mazer, Joe Barbara, Jay Patterson,
+0x8BEFAF6E=Arnie Mazer, Joe Barbara, Jay Patterson,
+
+;0x8BFB7CAE=Mohammad Dagman
+0x8BFB7CAE=Mohammad Dagman
+
+;0x8CE43E2B=Karim Hemraj
+0x8CE43E2B=Karim Hemraj
+
+;0x8E9484B3=Jamil Mena
+0x8E9484B3=Jamil Mena
+
+;0x8EB3907A=Cara Castronova
+0x8EB3907A=Cara Castronova
+
+;0x8EBB2E1C=Gail Bennington, Miles Bennington, Cameron Berkman, Roger Bova,
+0x8EBB2E1C=Gail Bennington, Miles Bennington, Cameron Berkman, Roger Bova,
+
+;0x8F0856D5=Kene Holiday
+0x8F0856D5=Kene Holiday
+
+;0x8F60F0C4=Stephen McMullan
+0x8F60F0C4=Stephen McMullan
+
+;0x9018E514=David Gomez
+0x9018E514=David Gomez
+
+;0x903736D5=Timothy Adams, Maine Anders, Lucia Armendariz,
+0x903736D5=Timothy Adams, Maine Anders, Lucia Armendariz,
+
+;0x9081F7C0=The Ballad of Gay Tony Theme:
+0x9081F7C0=The Ballad of Gay Tony Theme:
+
+;0x909893F8=John Kim
+0x909893F8=John Kim
+
+;0x90F9C3A2=Maitre D
+0x90F9C3A2=Maitre D
+
+;0x9122C74A=Callers
+0x9122C74A=Callers
+
+;0x91D3B188=Conor McGuire
+0x91D3B188=Conor McGuire
+
+;0x91EDF7C4=James Adwick
+0x91EDF7C4=James Adwick
+
+;0x91F3BF6B=Michael Burton
+0x91F3BF6B=Michael Burton
+
+;0x92019418=Stephen Ellis
+0x92019418=Stephen Ellis
+
+;0x920298C5=Ben Jackson
+0x920298C5=Ben Jackson
+
+;0x928038F6=Tracy Westmoreland, Jennifer Stano, David Dollase,
+0x928038F6=Tracy Westmoreland, Jennifer Stano, David Dollase,
+
+;0x92D39E31=Marc Sylvain, Nick Tebelekian, Jesse R. Tendler,
+0x92D39E31=Marc Sylvain, Nick Tebelekian, Jesse R. Tendler,
+
+;0x92EA63C0=Alessandra Morra
+0x92EA63C0=Alessandra Morra
+
+;0x9319C1DB=Benjamin Chue
+0x9319C1DB=Benjamin Chue
+
+;0x934C8B83=Richard Archibald
+0x934C8B83=Richard Archibald
+
+;0x939A27D9=Ben Clark
+0x939A27D9=Ben Clark
+
+;0x942CFCC9=Maikel Van Dijk
+0x942CFCC9=Maikel Van Dijk
+
+;0x943D2C94=Tamara Le Vasan
+0x943D2C94=Tamara Le Vasan
+
+;0x94832978=Jeremy St.Ives
+0x94832978=Jeremy St.Ives
+
+;0x94BCB153=Mark Allan
+0x94BCB153=Mark Allan
+
+;0x9509571F=Franceska Clemens
+0x9509571F=Franceska Clemens
+
+;0x9549C232=Scott Hill, John Lantz, Anthony J Mangano,
+0x9549C232=Scott Hill, John Lantz, Anthony J Mangano,
+
+;0x959F39F2=Location Mediahouse (London)
+0x959F39F2=Location Mediahouse (London)
+
+;0x95BEDDF2=Lucia Armendariz
+0x95BEDDF2=Lucia Armendariz
+
+;0x9624485B=PJ Sim
+0x9624485B=PJ Sim
+
+;0x964C476F=Vice City FM
+0x964C476F=Vice City FM
+
+;0x973ADA25=Paul Davies
+0x973ADA25=Paul Davies
+
+;0x97EF2720=Lukasz Bogaj
+0x97EF2720=Lukasz Bogaj
+
+;0x97FB44C0=Craig Walker, John Senese, Jessica Knutson,
+0x97FB44C0=Craig Walker, John Senese, Jessica Knutson,
+
+;0x987AC51C=Panty Machine Man
+0x987AC51C=Panty Machine Man
+
+;0x9888DD16=Callers: Felix Karavassilis, Lloyd Thompson, Wendy Rodriguez
+0x9888DD16=Callers: Felix Karavassilis, Lloyd Thompson, Wendy Rodriguez
+
+;0x99855026=Stephen Orr
+0x99855026=Stephen Orr
+
+;0x99871AFF=Craig Ballantyne
+0x99871AFF=Craig Ballantyne
+
+;0x99BAEA0F=Pedestrian dialogue by
+0x99BAEA0F=Pedestrian dialogue by
+
+;0x9A00F17C=Matt Kazan
+0x9A00F17C=Matt Kazan
+
+;0x9A032DB4=Gregg E. Sullivan, Zbigniew Ziggy Szymczyk,
+0x9A032DB4=Gregg E. Sullivan, Zbigniew Ziggy Szymczyk,
+
+;0x9A1D4BC9=John Lantz, Santos, Charlie Parker,
+0x9A1D4BC9=John Lantz, Santos, Charlie Parker,
+
+;0x9A4D5BAB=Innes Forbes
+0x9A4D5BAB=Innes Forbes
+
+;0x9A71C24B=RJ Allison
+0x9A71C24B=RJ Allison
+
+;0x9A7AEB49=Clark Harris, Shawn Allen, Caleb Oglesby
+0x9A7AEB49=Clark Harris, Shawn Allen, Caleb Oglesby
+
+;0x9B47B8AF=Jamie Fernandez
+0x9B47B8AF=Jamie Fernandez
+
+;0x9B60C789=Gareth Evans
+0x9B60C789=Gareth Evans
+
+;0x9BC34DED=Luis Fernando Lopez played by: Mario D'Leon.
+0x9BC34DED=Luis Fernando Lopez played by: Mario D'Leon.
+
+;0x9BD89447=Omid Djalili
+0x9BD89447=Omid Djalili
+
+;0x9BDA6E4E=John "Baron" Vaughan-Chaldy - Baron Customs
+0x9BDA6E4E=John "Baron" Vaughan-Chaldy - Baron Customs
+
+;0x9C1241E6=Gail Bennington
+0x9C1241E6=Gail Bennington
+
+;0x9C65A881=Oswald Greene
+0x9C65A881=Oswald Greene
+
+;0x9D2FDFF9=Luke Shelswell
+0x9D2FDFF9=Luke Shelswell
+
+;0x9D7A778D=Santiago Hurtado
+0x9D7A778D=Santiago Hurtado
+
+;0x9E31B704=Santo
+0x9E31B704=Santo
+
+;0x9EF4CF9B=Marcus Pratt
+0x9EF4CF9B=Marcus Pratt
+
+;0x9F0F5214=Jeffrey C Hawkins, Jena Axelrod, Darlan Monterisi,
+0x9F0F5214=Jeffrey C Hawkins, Jena Axelrod, Darlan Monterisi,
+
+;0x9F2ED23B=Cassandra Nguyen
+0x9F2ED23B=Cassandra Nguyen
+
+;0x9F6BE797=Geoff Herbynchuk
+0x9F6BE797=Geoff Herbynchuk
+
+;0x9FAEB907=Elan Luz Rivera, Frank G. Rivers, Bryan Rodriguez,
+0x9FAEB907=Elan Luz Rivera, Frank G. Rivers, Bryan Rodriguez,
+
+;0xA1346736=Republican Space Rangers - Homecoming
+0xA1346736=Republican Space Rangers - Homecoming
+
+;0xA1653C4D=John Sloan
+0xA1653C4D=John Sloan
+
+;0xA23912E7=Will Haslewood
+0xA23912E7=Will Haslewood
+
+;0xA25131A0=Adam Westwood
+0xA25131A0=Adam Westwood
+
+;0xA2727C5F=Hispanic Alien
+0xA2727C5F=Hispanic Alien
+
+;0xA31CA81F=Robert Dudzic and Groove Addicts
+0xA31CA81F=Robert Dudzic and Groove Addicts
+
+;0xA4596437=Denis Cawson
+0xA4596437=Denis Cawson
+
+;0xA4FD6061=Adrian Martinez, John Zurhellen
+0xA4FD6061=Adrian Martinez, John Zurhellen
+
+;0xA558966B=Ramon Stokes
+0xA558966B=Ramon Stokes
+
+;0xA595B167=John Zurhellen
+0xA595B167=John Zurhellen
+
+;0xA5C8E05B=Grace Randolph, Deborah Napier, Gust Hookanson,
+0xA5C8E05B=Grace Randolph, Deborah Napier, Gust Hookanson,
+
+;0xA642B78F=Jose Ramon Rosario
+0xA642B78F=Jose Ramon Rosario
+
+;0xA6FDE818=Jeff Berlin
+0xA6FDE818=Jeff Berlin
+
+;0xA7156B00=Jonathan Foot
+0xA7156B00=Jonathan Foot
+
+;0xA77D345E=Rod Edge, Hugh Michaels, John Zurhellen,
+0xA77D345E=Rod Edge, Hugh Michaels, John Zurhellen,
+
+;0xA7C79C2D=Simon Ramsey
+0xA7C79C2D=Simon Ramsey
+
+;0xA7E4A4E0=Game Testers
+0xA7E4A4E0=Game Testers
+
+;0xA7EB364F=Jim Bracchitta, Kelly Coffield Park
+0xA7EB364F=Jim Bracchitta, Kelly Coffield Park
+
+;0xA84133EE=Punter
+0xA84133EE=Punter
+
+;0xA93D3737=TV camera work by Clark Harris, Shawn Allen,
+0xA93D3737=TV camera work by Clark Harris, Shawn Allen,
+
+;0xA9508D00=Test Tool Support
+0xA9508D00=Test Tool Support
+
+;0xA9A21247=Richard Cole, Mike Colter, D.B. Cooper, Mario D'Leon,
+0xA9A21247=Richard Cole, Mike Colter, D.B. Cooper, Mario D'Leon,
+
+;0xA9E89128=Radio and TV stations, commercials, DJ dialog,
+0xA9E89128=Radio and TV stations, commercials, DJ dialog,
+
+;0xAA2A7E3A=Animation Services
+0xAA2A7E3A=Animation Services
+
+;0xAA5C76CB=Lisa Lynn
+0xAA5C76CB=Lisa Lynn
+
+;0xAA639F22=Alastair Hebson
+0xAA639F22=Alastair Hebson
+
+;0xAA67EB4D=Philip Estrera, Stephen Spencer, Maurice Murphy,
+0xAA67EB4D=Philip Estrera, Stephen Spencer, Maurice Murphy,
+
+;0xAA852043=Fred Navarrete
+0xAA852043=Fred Navarrete
+
+;0xABA38E20=Technical Analyst
+0xABA38E20=Technical Analyst
+
+;0xAC2BC06E=Poppy Mitchell
+0xAC2BC06E=Poppy Mitchell
+
+;0xAC7D36F4=Antony Rinaldi
+0xAC7D36F4=Antony Rinaldi
+
+;0xAD4C0D4B=Pedestrian production by
+0xAD4C0D4B=Pedestrian production by
+
+;0xADC9B6D3=Sean Casey
+0xADC9B6D3=Sean Casey
+
+;0xAE547437=Jarel Davidow, David Kenner, Sonia Cauchi,
+0xAE547437=Jarel Davidow, David Kenner, Sonia Cauchi,
+
+;0xAE720048=Michael Bahurinsky
+0xAE720048=Michael Bahurinsky
+
+;0xAE8A401A=Ayana Osada
+0xAE8A401A=Ayana Osada
+
+;0xAEF14346=Anthony Litton, Rob Karol, Lazlow, Dan Houser
+0xAEF14346=Anthony Litton, Rob Karol, Lazlow, Dan Houser
+
+;0xAEFFA509=Denny Borges
+0xAEFFA509=Denny Borges
+
+;0xB1489080=Tony Mirrcandani
+0xB1489080=Tony Mirrcandani
+
+;0xB1D9F7A9=Duke Vanenti, Deanna Sidoti, Steven Marcus,
+0xB1D9F7A9=Duke Vanenti, Deanna Sidoti, Steven Marcus,
+
+;0xB2087A8F=Joshua Burrow, Robert Romani, Lou Sumrall,
+0xB2087A8F=Joshua Burrow, Robert Romani, Lou Sumrall,
+
+;0xB239F851=Dorothy Williams
+0xB239F851=Dorothy Williams
+
+;0xB248416C=Shannon Murphy
+0xB248416C=Shannon Murphy
+
+;0xB26423CF=Jay Klaitz, Catherine LeFrere, Jessica Miangolarra
+0xB26423CF=Jay Klaitz, Catherine LeFrere, Jessica Miangolarra
+
+;0xB2BDDCFC=Bouncer
+0xB2BDDCFC=Bouncer
+
+;0xB30712D2=Papi
+0xB30712D2=Papi
+
+;0xB310A352=Francesca Howard
+0xB310A352=Francesca Howard
+
+;0xB3126526=Internet built by Stuart Petri, Adam Tedman,
+0xB3126526=Internet built by Stuart Petri, Adam Tedman,
+
+;0xB3623411=Soldier
+0xB3623411=Soldier
+
+;0xB3B4A5C4=A History of Liberty City part 2
+0xB3B4A5C4=A History of Liberty City part 2
+
+;0xB4535153=Martin Logan
+0xB4535153=Martin Logan
+
+;0xB4792C44=The Séance
+0xB4792C44=The Séance
+
+;0xB57CD29C=Adriana
+0xB57CD29C=Adriana
+
+;0xB5C77AE0=Amy Franklin, Lionel Galant,Rachel Gittler,Nick Giovannetti,
+0xB5C77AE0=Amy Franklin, Lionel Galant,Rachel Gittler,Nick Giovannetti,
+
+;0xB73C75E1=Saki
+0xB73C75E1=Saki
+
+;0xB7669A35=David Yang
+0xB7669A35=David Yang
+
+;0xB84539DB=Mark Pinnock
+0xB84539DB=Mark Pinnock
+
+;0xB8476E5C=The Ballad of Gay Tony
+0xB8476E5C=The Ballad of Gay Tony
+
+;0xB88F3614=Steff McMullan
+0xB88F3614=Steff McMullan
+
+;0xB90E0A02=Paul MacPherson
+0xB90E0A02=Paul MacPherson
+
+;0xB93C20BF=Dave Malcom
+0xB93C20BF=Dave Malcom
+
+;0xB962B1C8=Sebastian Alvarado, Vitali Baganov, Robert Bogue,
+0xB962B1C8=Sebastian Alvarado, Vitali Baganov, Robert Bogue,
+
+;0xBA02818F=Elan Trybuch
+0xBA02818F=Elan Trybuch
+
+;0xBA190B3F=Brian Rodriguez, Jared Raia, Montserrat Mendez,
+0xBA190B3F=Brian Rodriguez, Jared Raia, Montserrat Mendez,
+
+;0xBA4ACE6F=Andrew Knight
+0xBA4ACE6F=Andrew Knight
+
+;0xBA94091D=Tiffany Little Canfield, Wade Mylius, Danny Hoch,
+0xBA94091D=Tiffany Little Canfield, Wade Mylius, Danny Hoch,
+
+;0xBB0AA917=Liam Ross
+0xBB0AA917=Liam Ross
+
+;0xBC0BCB1C=Jen Mordue
+0xBC0BCB1C=Jen Mordue
+
+;0xBD4F7936=Milton Savanah
+0xBD4F7936=Milton Savanah
+
+;0xBDCC6BEB=Jenny Toft
+0xBDCC6BEB=Jenny Toft
+
+;0xBEBBB990=Kareem Savinon
+0xBEBBB990=Kareem Savinon
+
+;0xBEE2E9A1=Joe Ries
+0xBEE2E9A1=Joe Ries
+
+;0xBEF339DB=Daisy
+0xBEF339DB=Daisy
+
+;0xBF2D796D=Shawn Allen
+0xBF2D796D=Shawn Allen
+
+;0xBF64CC49=David "Dave" Grossman
+0xBF64CC49=David "Dave" Grossman
+
+;0xBF88E8CF=David Scott
+0xBF88E8CF=David Scott
+
+;0xBFA6DBBA=Kevin Black
+0xBFA6DBBA=Kevin Black
+
+;0xBFA96130=Ian Malone
+0xBFA96130=Ian Malone
+
+;0xBFE3F56D=Nick Snell
+0xBFE3F56D=Nick Snell
+
+;0xC017F09D=Maurice
+0xC017F09D=Maurice
+
+;0xC05D40F3=Vince
+0xC05D40F3=Vince
+
+;0xC0760C3B=Al Di Napoli
+0xC0760C3B=Al Di Napoli
+
+;0xC0950527=Craig Gilmore
+0xC0950527=Craig Gilmore
+
+;0xC0F108D7=Vic
+0xC0F108D7=Vic
+
+;0xC16101C3=Euan Duncan, Jill Menzies, Ray Smiling,
+0xC16101C3=Euan Duncan, Jill Menzies, Ray Smiling,
+
+;0xC2763487=Development Assistant
+0xC2763487=Development Assistant
+
+;0xC2E96A3A=Jeff Bottoms
+0xC2E96A3A=Jeff Bottoms
+
+;0xC304CD5A=Master Hentai
+0xC304CD5A=Master Hentai
+
+;0xC3549CDB=Charlene T.Smith, Jonathan David Smyth, Lou Sumrall,
+0xC3549CDB=Charlene T.Smith, Jonathan David Smyth, Lou Sumrall,
+
+;0xC406C587=Matt West
+0xC406C587=Matt West
+
+;0xC4A0A19E=Ian McFarland
+0xC4A0A19E=Ian McFarland
+
+;0xC4D220B1=Seiko Suzuki, Rich Hsu, Alix Nedrick,
+0xC4D220B1=Seiko Suzuki, Rich Hsu, Alix Nedrick,
+
+;0xC50E5C0B=Genia Morgan
+0xC50E5C0B=Genia Morgan
+
+;0xC5346FCC=Vincent Parker, Marisa Palumbo, Ayana Osada,
+0xC5346FCC=Vincent Parker, Marisa Palumbo, Ayana Osada,
+
+;0xC5D835B1=David Steel
+0xC5D835B1=David Steel
+
+;0xC62CB22A=Greg Siff
+0xC62CB22A=Greg Siff
+
+;0xC6409F6A=Robert Jason Jackson, Gregory Johnson,Jill Jones,
+0xC6409F6A=Robert Jason Jackson, Gregory Johnson,Jill Jones,
+
+;0xC67B9B56=Cristiana Colombo
+0xC67B9B56=Cristiana Colombo
+
+;0xC6D6A096=Bruno Iannone,Matthew L. Imparato,Jason Jacob,
+0xC6D6A096=Bruno Iannone,Matthew L. Imparato,Jason Jacob,
+
+;0xC719E11D=Mixed By
+0xC719E11D=Mixed By
+
+;0xC747FEBD=Union Official
+0xC747FEBD=Union Official
+
+;0xC7921E75=Angel Feliciano,Raymond C. Figueroa, Joey Fish,
+0xC7921E75=Angel Feliciano,Raymond C. Figueroa, Joey Fish,
+
+;0xC7EE16F9=Honey Rockwell
+0xC7EE16F9=Honey Rockwell
+
+;0xC7F53C08=Amelise Javier
+0xC7F53C08=Amelise Javier
+
+;0xC8305EA1=Steve Hahnel
+0xC8305EA1=Steve Hahnel
+
+;0xC8569B18=Jelson Innocent
+0xC8569B18=Jelson Innocent
+
+;0xC85F3F39=Keith Thorburn
+0xC85F3F39=Keith Thorburn
+
+;0xC8D6565C=Michael Mangus
+0xC8D6565C=Michael Mangus
+
+;0xC8E8A0B3=Gemma James
+0xC8E8A0B3=Gemma James
+
+;0xC97548EE=Daniel Tay
+0xC97548EE=Daniel Tay
+
+;0xC9CBFC35=Jen Cohn
+0xC9CBFC35=Jen Cohn
+
+;0xC9FAF4AF=Frankie Boyle motion capture recorded by
+0xC9FAF4AF=Frankie Boyle motion capture recorded by
+
+;0xCA4222C0=Lloyd Floyd
+0xCA4222C0=Lloyd Floyd
+
+;0xCA6C29A5=Patrick Mulligan, Jonny McGovern, Sean Gardner,
+0xCA6C29A5=Patrick Mulligan, Jonny McGovern, Sean Gardner,
+
+;0xCA857263=Rupert Humphries, Dan Houser
+0xCA857263=Rupert Humphries, Dan Houser
+
+;0xCA8C592F=Simon Reekie
+0xCA8C592F=Simon Reekie
+
+;0xCAA9E025=Gena Feist
+0xCAA9E025=Gena Feist
+
+;0xCB569D7C=Weapons Specialists Ltd.
+0xCB569D7C=Weapons Specialists Ltd.
+
+;0xCBCBFAA8=Fionn Wright
+0xCBCBFAA8=Fionn Wright
+
+;0xCC1177A3=Jackson Loo
+0xCC1177A3=Jackson Loo
+
+;0xCC1A28DD=Yanni Walker, Daphane Johnson, Andrea L Patterson,
+0xCC1A28DD=Yanni Walker, Daphane Johnson, Andrea L Patterson,
+
+;0xCC1DFC6A=CUTSCENES AND GAME DIALOGUE WRITTEN BY
+0xCC1DFC6A=CUTSCENES AND GAME DIALOGUE WRITTEN BY
+
+;0xCC3ED70D=Neil Hartop
+0xCC3ED70D=Neil Hartop
+
+;0xCC4D6408=Richard Barnes
+0xCC4D6408=Richard Barnes
+
+;0xCC796A3A=Kirk Johnston
+0xCC796A3A=Kirk Johnston
+
+;0xCCABF90B=Dialogue Assistant
+0xCCABF90B=Dialogue Assistant
+
+;0xCD1402B4=Chad Coleman,
+0xCD1402B4=Chad Coleman,
+
+;0xCD229A2D=Waseem Punnu
+0xCD229A2D=Waseem Punnu
+
+;0xCD45AE80=Danni, Gregory Konow, Joel M Garland,
+0xCD45AE80=Danni, Gregory Konow, Joel M Garland,
+
+;0xCD6B042D=Andrea Stapleton
+0xCD6B042D=Andrea Stapleton
+
+;0xCE06BE4D=Brian Donahue
+0xCE06BE4D=Brian Donahue
+
+;0xCED33E91=HR officer
+0xCED33E91=HR officer
+
+;0xCEDDD1AE=Walter Houser
+0xCEDDD1AE=Walter Houser
+
+;0xCEE3DE26=Chad
+0xCEE3DE26=Chad
+
+;0xCEF0B1BE=Ritchie the Fan
+0xCEF0B1BE=Ritchie the Fan
+
+;0xD0585FB7=Jaime Fernandez, Glenn Fleshler, Jeff Gurner, Simon Jutras,
+0xD0585FB7=Jaime Fernandez, Glenn Fleshler, Jeff Gurner, Simon Jutras,
+
+;0xD0B4AAFF=Dennis Paladino
+0xD0B4AAFF=Dennis Paladino
+
+;0xD0DF8E29=Jason Michaels
+0xD0DF8E29=Jason Michaels
+
+;0xD12F38C0=Omid Djalili, Aella Jordan-Edge, Rod Edge, Angel Feliciano,
+0xD12F38C0=Omid Djalili, Aella Jordan-Edge, Rod Edge, Angel Feliciano,
+
+;0xD1701C8D=Jason Shebiro, Levi Shells, Heather Alicia Simms,
+0xD1701C8D=Jason Shebiro, Levi Shells, Heather Alicia Simms,
+
+;0xD1E03D4A=Roger Bova
+0xD1E03D4A=Roger Bova
+
+;0xD1E0E556=Telsey & Company, Donna Deseta Casting, Rob Kenner
+0xD1E0E556=Telsey & Company, Donna Deseta Casting, Rob Kenner
+
+;0xD26718AB=Wass Stevens
+0xD26718AB=Wass Stevens
+
+;0xD2A5FCFE=Mitch Todd
+0xD2A5FCFE=Mitch Todd
+
+;0xD2B8AC89=Club Dude
+0xD2B8AC89=Club Dude
+
+;0xD3AC2E47=Megan Raye Manzi
+0xD3AC2E47=Megan Raye Manzi
+
+;0xD3CE9C3E=Pasha Korniyenko
+0xD3CE9C3E=Pasha Korniyenko
+
+;0xD4235079=Leigh Harris
+0xD4235079=Leigh Harris
+
+;0xD46A3F06=John Tormey, Victor Velez, Monica Valdivia,
+0xD46A3F06=John Tormey, Victor Velez, Monica Valdivia,
+
+;0xD4763F48=Glenn Fleshler
+0xD4763F48=Glenn Fleshler
+
+;0xD48B2B4F=Anthony Litton
+0xD48B2B4F=Anthony Litton
+
+;0xD4AC0B3C=Oscar de la Fé Colon
+0xD4AC0B3C=Oscar de la Fé Colon
+
+;0xD58A9078=Michael Unsworth, Gregory Johnson, Sanford Santacroce,
+0xD58A9078=Michael Unsworth, Gregory Johnson, Sanford Santacroce,
+
+;0xD5A9C260=Franceska Clemens, Leo Kin, Tony Aroya,
+0xD5A9C260=Franceska Clemens, Leo Kin, Tony Aroya,
+
+;0xD687BF6E=Matt Smith
+0xD687BF6E=Matt Smith
+
+;0xD6C2C17A=Chuck Anthony, Hasan Salaam, Katie Flahive,
+0xD6C2C17A=Chuck Anthony, Hasan Salaam, Katie Flahive,
+
+;0xD7496845=Ben Holgate
+0xD7496845=Ben Holgate
+
+;0xD78C18D6=Malc
+0xD78C18D6=Malc
+
+;0xD7ED711D=Benjamin Welby
+0xD7ED711D=Benjamin Welby
+
+;0xD829A8E0=Kevin Kaine Williams, Lance Millionz,
+0xD829A8E0=Kevin Kaine Williams, Lance Millionz,
+
+;0xD896A064=Sean McGrath
+0xD896A064=Sean McGrath
+
+;0xD8B72438=John MacPherson
+0xD8B72438=John MacPherson
+
+;0xD8F1D401=Mark the General Manager
+0xD8F1D401=Mark the General Manager
+
+;0xD9288E66=Robert Youells
+0xD9288E66=Robert Youells
+
+;0xD9B9554C=THE END
+0xD9B9554C=THE END
+
+;0xD9FFB09E=Sarah Viccelio
+0xD9FFB09E=Sarah Viccelio
+
+;0xDA2A151F=Joshua Burrow
+0xDA2A151F=Joshua Burrow
+
+;0xDA41729E=Lou Sumrall
+0xDA41729E=Lou Sumrall
+
+;0xDA95D5E4=Paul Nicholls
+0xDA95D5E4=Paul Nicholls
+
+;0xDACE35D2=John Smith
+0xDACE35D2=John Smith
+
+;0xDB1A5D9A=Eric Edwards
+0xDB1A5D9A=Eric Edwards
+
+;0xDB79B38C=Integrity 2.0
+0xDB79B38C=Integrity 2.0
+
+;0xDBED06F2=John Webb
+0xDBED06F2=John Webb
+
+;0xDC18F620=Martin Schwitzner
+0xDC18F620=Martin Schwitzner
+
+;0xDCAB3303=David Ian Salter, Brian Schreier, Bradford Scobie,
+0xDCAB3303=David Ian Salter, Brian Schreier, Bradford Scobie,
+
+;0xDCF7F8F6=Rivera Boxing, Elena Sakevich, Greg Siff, John Tormey,
+0xDCF7F8F6=Rivera Boxing, Elena Sakevich, Greg Siff, John Tormey,
+
+;0xDD4DED90=Recorded at Blue Sunset Studios, Brooklyn, NY
+0xDD4DED90=Recorded at Blue Sunset Studios, Brooklyn, NY
+
+;0xDDC6CC36=Joe Gonzalez, Clark Harris, Charles Burrell,
+0xDDC6CC36=Joe Gonzalez, Clark Harris, Charles Burrell,
+
+;0xDE9F7B7C=Recorded at
+0xDE9F7B7C=Recorded at
+
+;0xDF17C9E4=Gary Yeung
+0xDF17C9E4=Gary Yeung
+
+;0xDF793DF3=Greg Lau, Mike Torok, Mike Carnevale, Alice Chuang
+0xDF793DF3=Greg Lau, Mike Torok, Mike Carnevale, Alice Chuang
+
+;0xE00B6D6E=Chi-Wai Chiu
+0xE00B6D6E=Chi-Wai Chiu
+
+;0xE039B254=Lewis Edwards
+0xE039B254=Lewis Edwards
+
+;0xE0D04091=Soundtrack Recording Studio
+0xE0D04091=Soundtrack Recording Studio
+
+;0xE0F48F41=Brian Jeremy
+0xE0F48F41=Brian Jeremy
+
+;0xE0F9E653=Voice of Saxaphone player:
+0xE0F9E653=Voice of Saxaphone player:
+
+;0xE169FF0E=Chaz Kelly
+0xE169FF0E=Chaz Kelly
+
+;0xE1A45631=Alicia Hornstein,Fiona Horrigan, Luke Howard, Jeff Horn,
+0xE1A45631=Alicia Hornstein,Fiona Horrigan, Luke Howard, Jeff Horn,
+
+;0xE2CCAB4D=Michael Carnevale
+0xE2CCAB4D=Michael Carnevale
+
+;0xE2D9DBE5=Sarah Viccellio, Savannah Wise, Robert Youells,
+0xE2D9DBE5=Sarah Viccellio, Savannah Wise, Robert Youells,
+
+;0xE3385C58=Patricia Pucci
+0xE3385C58=Patricia Pucci
+
+;0xE445A3C6=Anthony J Mangano
+0xE445A3C6=Anthony J Mangano
+
+;0xE470DF43=D.B. Cooper, Duane Nakia Cooper, Mohammad Jamil Dagman,
+0xE470DF43=D.B. Cooper, Duane Nakia Cooper, Mohammad Jamil Dagman,
+
+;0xE4D4A0FB=Timur
+0xE4D4A0FB=Timur
+
+;0xE5F38CFD=Audio Programmer
+0xE5F38CFD=Audio Programmer
+
+;0xE6160AFA=Neil Bechtloff
+0xE6160AFA=Neil Bechtloff
+
+;0xE7018BAB=Random Biker
+0xE7018BAB=Random Biker
+
+;0xE745FBB0=Princess Robot Bubblegum
+0xE745FBB0=Princess Robot Bubblegum
+
+;0xE7A28A7C=Crookers
+0xE7A28A7C=Crookers
+
+;0xE7C4E4C7=Angus Hepburn
+0xE7C4E4C7=Angus Hepburn
+
+;0xE828CED0=Dave Campbell
+0xE828CED0=Dave Campbell
+
+;0xE8F03289=Audiomotion Studios Ltd (London)
+0xE8F03289=Audiomotion Studios Ltd (London)
+
+;0xE8F165D7=Steven Huie, Clem Cheung, Grant Chang,
+0xE8F165D7=Steven Huie, Clem Cheung, Grant Chang,
+
+;0xE914C65F=Siobhan Boes
+0xE914C65F=Siobhan Boes
+
+;0xE990ABBD=Arthur Chiang
+0xE990ABBD=Arthur Chiang
+
+;0xE9BA0E19=Jamie Price
+0xE9BA0E19=Jamie Price
+
+;0xE9D1A521=Oliver Elliott
+0xE9D1A521=Oliver Elliott
+
+;0xEB3F4A0D=Frank Kozuh
+0xEB3F4A0D=Frank Kozuh
+
+;0xEB50921A=Talking Plant
+0xEB50921A=Talking Plant
+
+;0xEB5515B0=J. Salomé Martinez Jr., Tony Mirrcandani, Josh Moskovitz,
+0xEB5515B0=J. Salomé Martinez Jr., Tony Mirrcandani, Josh Moskovitz,
+
+;0xEB56DEB3=Emmanuel Tramblais
+0xEB56DEB3=Emmanuel Tramblais
+
+;0xEB57F73F=Colin Orr
+0xEB57F73F=Colin Orr
+
+;0xEC5E2050=Richard Gouldbourn
+0xEC5E2050=Richard Gouldbourn
+
+;0xEC6F7D20=Ashley Albert
+0xEC6F7D20=Ashley Albert
+
+;0xECB7A358=Abigail Grayson
+0xECB7A358=Abigail Grayson
+
+;0xED2C3326=Leo Walsh
+0xED2C3326=Leo Walsh
+
+;0xEDEEF23F=Cara Castronova, Oscar de la Fé Colon, Marisa Comptello,
+0xEDEEF23F=Cara Castronova, Oscar de la Fé Colon, Marisa Comptello,
+
+;0xEE0A601F=Jack Condon
+0xEE0A601F=Jack Condon
+
+;0xEFD9114D=Grant Kim
+0xEFD9114D=Grant Kim
+
+;0xEFF3F619=Rob Yang, Jason Zumwalt, John Zurhellen
+0xEFF3F619=Rob Yang, Jason Zumwalt, John Zurhellen
+
+;0xF139C3CB=Paddy Curran
+0xF139C3CB=Paddy Curran
+
+;0xF19B330E=Saxaphone
+0xF19B330E=Saxaphone
+
+;0xF1DA609C=Pedestrian and Cutscene Production by:
+0xF1DA609C=Pedestrian and Cutscene Production by:
+
+;0xF22EA8CF=Henrique Bardas
+0xF22EA8CF=Henrique Bardas
+
+;0xF2627415=Javonne Nicole Dove, Joast den Duude ende Gaste,
+0xF2627415=Javonne Nicole Dove, Joast den Duude ende Gaste,
+
+;0xF27DA0F4=Emanuele Orlando
+0xF27DA0F4=Emanuele Orlando
+
+;0xF2ADFCA2=Walter T Mudu
+0xF2ADFCA2=Walter T Mudu
+
+;0xF2F680C7=Matthew Booton
+0xF2F680C7=Matthew Booton
+
+;0xF3CC84E6=George Richards
+0xF3CC84E6=George Richards
+
+;0xF3E3AA47=New Liberty City Radio
+0xF3E3AA47=New Liberty City Radio
+
+;0xF3F57AD3=William Jackson Harper, Maria Helan, Michael Hong,
+0xF3F57AD3=William Jackson Harper, Maria Helan, Michael Hong,
+
+;0xF44DFFA8=Seif Eldah, Darryl K. Brown, Jameel Vega,
+0xF44DFFA8=Seif Eldah, Darryl K. Brown, Jameel Vega,
+
+;0xF4AD073E=Matthew Wilson
+0xF4AD073E=Matthew Wilson
+
+;0xF4DDF825=Localization Supervisors
+0xF4DDF825=Localization Supervisors
+
+;0xF586139E=Gregory Johnson
+0xF586139E=Gregory Johnson
+
+;0xF5D85C13=Michael Baker, Victoria Edwards
+0xF5D85C13=Michael Baker, Victoria Edwards
+
+;0xF5FC80C9=Brock Busby, Brian M. Wixon, Gaylord Rice,
+0xF5FC80C9=Brock Busby, Brian M. Wixon, Gaylord Rice,
+
+;0xF65C5B8E=Michelle Tanner
+0xF65C5B8E=Michelle Tanner
+
+;0xF66F7080=Celebinator
+0xF66F7080=Celebinator
+
+;0xF6D990D4=David Rodigan
+0xF6D990D4=David Rodigan
+
+;0xF71FAA11=Matt Tempest
+0xF71FAA11=Matt Tempest
+
+;0xF749782E=Richard Kealey
+0xF749782E=Richard Kealey
+
+;0xF7FA4172=Ollie Elliott
+0xF7FA4172=Ollie Elliott
+
+;0xF899A8A8=David Saguil
+0xF899A8A8=David Saguil
+
+;0xF8D61AE8=Rita Liberator
+0xF8D61AE8=Rita Liberator
+
+;0xF9140BF3=John Gordon
+0xF9140BF3=John Gordon
+
+;0xF924E1A1=Jerry Chen
+0xF924E1A1=Jerry Chen
+
+;0xF9C14B50=Dan Van Zant
+0xF9C14B50=Dan Van Zant
+
+;0xF9E589FC=Jamil Mena, Tony Mirrcandani, Rich Nelson, Brian Nicholson,
+0xF9E589FC=Jamil Mena, Tony Mirrcandani, Rich Nelson, Brian Nicholson,
+
+;0xFA41075E=Meredith Goldberg,Glenna Grant, Andrew Gross,Phillippe Guillaume,
+0xFA41075E=Meredith Goldberg,Glenna Grant, Andrew Gross,Phillippe Guillaume,
+
+;0xFA4C65EB=The SANTIAGO MIX featuring DJ Henry Santos Jeter A.K.A "Henryhustlehard"
+0xFA4C65EB=The SANTIAGO MIX featuring DJ Henry Santos Jeter A.K.A "Henryhustlehard"
+
+;0xFA51FC2D=The Martin Serious Show
+0xFA51FC2D=The Martin Serious Show
+
+;0xFA759774=Female Jogger
+0xFA759774=Female Jogger
+
+;0xFAD869CB=Written by Stuart Hart
+0xFAD869CB=Written by Stuart Hart
+
+;0xFB43152B=Khalipa Oldjohn
+0xFB43152B=Khalipa Oldjohn
+
+;0xFBDF4E44=Bobby Simpson
+0xFBDF4E44=Bobby Simpson
+
+;0xFC1A8ADB=Keith Randolph Smith
+0xFC1A8ADB=Keith Randolph Smith
+
+;0xFC1FEF83=Kenneth Ross
+0xFC1FEF83=Kenneth Ross
+
+;0xFCFBE0AF=Jason Jacob,Tafari Lawton, Kelly Klein, Brian Schreier,
+0xFCFBE0AF=Jason Jacob,Tafari Lawton, Kelly Klein, Brian Schreier,
+
+;0xFD999F56=Girl in Bathroom
+0xFD999F56=Girl in Bathroom
+
+;0xFDBCBAE8=Parking Attendant
+0xFDBCBAE8=Parking Attendant
+
+;0xFDE98D57=Chris Perry, Chris Peterson,Inese Petruna, Chris Plummer,
+0xFDE98D57=Chris Perry, Chris Peterson,Inese Petruna, Chris Plummer,
+
+;0xFDF592FB=David Levin, Hoon lee, Dominique Johnson,
+0xFDF592FB=David Levin, Hoon lee, Dominique Johnson,
+
+;0xFF002063=British Prince
+0xFF002063=British Prince
+
+;0xFF21B26E=Det. McCornish
+0xFF21B26E=Det. McCornish
+
+;0xFF33D599=Shawn Church - Church Automotive
+0xFF33D599=Shawn Church - Church Automotive
+
+;0xFFB29161=Jasmina Mathieu,Marika Mnatobishvili, Hana Moon,
+0xFFB29161=Jasmina Mathieu,Marika Mnatobishvili, Hana Moon,
+
+;0xFFC1B1D2=Ciaran Muldoon
+0xFFC1B1D2=Ciaran Muldoon
+
+;0xFFD1B8A3=Charles Turner
+0xFFD1B8A3=Charles Turner
+

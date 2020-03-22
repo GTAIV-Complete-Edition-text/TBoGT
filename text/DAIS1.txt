@@ -1,0 +1,49 @@
+﻿[DAIS1]
+;0x12C29D96=~r~You abandoned Daisy.~s~
+0x12C29D96=~r~You abandoned Daisy.~s~
+
+;0x1360E918=Use ~PAD_RSTICK_ALL~ to look around the area.
+0x1360E918=Use ~PAD_RSTICK_ALL~ to look around the area.
+
+;0x2501C214=~r~Daisy died.~s~
+0x2501C214=~r~Daisy died.~s~
+
+;0x2A0DD72F=~s~Don't leave ~b~Daisy~s~ behind.
+0x2A0DD72F=~s~Don't leave ~b~Daisy~s~ behind.
+
+;0x36BE7090=~s~Lose the cops.~s~
+0x36BE7090=~s~Lose the cops.~s~
+
+;0x4C889C24=~s~Get in a vehicle.~s~
+0x4C889C24=~s~Get in a vehicle.~s~
+
+;0x5B36397F=~s~Drive ~y~uptown.~s~
+0x5B36397F=~s~Drive ~y~uptown.~s~
+
+;0x61DF46D1=~s~Go to ~y~Perseus.~s~
+0x61DF46D1=~s~Go to ~y~Perseus.~s~
+
+;0x6E3AD45D=~r~Chris has been injured.~s~
+0x6E3AD45D=~r~Chris has been injured.~s~
+
+;0x6FA5E25E=~s~Go to the ~y~Squid Row~s~ restaurant.
+0x6FA5E25E=~s~Go to the ~y~Squid Row~s~ restaurant.
+
+;0x86740FFA=~s~Go to ~y~Star Junction.~s~
+0x86740FFA=~s~Go to ~y~Star Junction.~s~
+
+;0x87930715=~r~Chris died.~s~
+0x87930715=~r~Chris died.~s~
+
+;0x944BABA9=~s~Look around for Chris.
+0x944BABA9=~s~Look around for Chris.
+
+;0x99D52B99=~r~You took too long to find Chris.~s~
+0x99D52B99=~r~You took too long to find Chris.~s~
+
+;0xD4199031=~s~Go back to the ~y~Squid Row~s~ restaurant and look for Chris.
+0xD4199031=~s~Go back to the ~y~Squid Row~s~ restaurant and look for Chris.
+
+;0xE65F34BC=~s~Go back to ~y~Perseus~s~ and look for Chris.
+0xE65F34BC=~s~Go back to ~y~Perseus~s~ and look for Chris.
+

@@ -1,0 +1,688 @@
+﻿[E2Tm1AU]
+;0x00A97201=~z~I mean, you haven't got the side of you that goes to Hercules and feels up bodybuilders on the album, right?
+0x00A97201=~z~I mean, you haven't got the side of you that goes to Hercules and feels up bodybuilders on the album, right?
+
+;0x021E808B=~z~Chill out, bro. I'm doing my best.
+0x021E808B=~z~Chill out, bro. I'm doing my best.
+
+;0x02F22A66=E2Tm1_NA
+0x02F22A66=E2Tm1_NA
+
+;0x05780E25=~z~Get out of here, PG. A sensitive soul like you don't wanna get locked up for photographer abuse.
+0x05780E25=~z~Get out of here, PG. A sensitive soul like you don't wanna get locked up for photographer abuse.
+
+;0x057F7F6F=~z~You got the magic touch, boss. Come back to Maisonette.
+0x057F7F6F=~z~You got the magic touch, boss. Come back to Maisonette.
+
+;0x0600B987=E2Tm1_VA
+0x0600B987=E2Tm1_VA
+
+;0x066A3DF9=~z~What is it, bro? Can't Troy handle this?
+0x066A3DF9=~z~What is it, bro? Can't Troy handle this?
+
+;0x06792914=E2Tm1_SB
+0x06792914=E2Tm1_SB
+
+;0x0698BC2D=~z~You can't see me.
+0x0698BC2D=~z~You can't see me.
+
+;0x0908D36D=SFX_PAUSE_220
+0x0908D36D=SFX_PAUSE_220
+
+;0x0B3505CB=~z~No problem, boss.
+0x0B3505CB=~z~No problem, boss.
+
+;0x0C40C77D=~z~Damn. Go away.
+0x0C40C77D=~z~Damn. Go away.
+
+;0x0C922E9D=E2Tm1_ABB2
+0x0C922E9D=E2Tm1_ABB2
+
+;0x0D093076=~z~Shit Clay, I'm sorry about that, man. It must be a hard loss.
+0x0D093076=~z~Shit Clay, I'm sorry about that, man. It must be a hard loss.
+
+;0x0EE639F7=010090100
+0x0EE639F7=010090100
+
+;0x0F5059E0=~z~Where were you when they launched a naval assault on that gay cruise last summer?
+0x0F5059E0=~z~Where were you when they launched a naval assault on that gay cruise last summer?
+
+;0x10E71819=~z~Your loss. These kicks are the shit, man.
+0x10E71819=~z~Your loss. These kicks are the shit, man.
+
+;0x11276956=E2Tm1_AFA
+0x11276956=E2Tm1_AFA
+
+;0x131858C6=~z~I ain't never been to no Hercules. I don't know what you talking about, but trust me, homie, I hate that gay shit.
+0x131858C6=~z~I ain't never been to no Hercules. I don't know what you talking about, but trust me, homie, I hate that gay shit.
+
+;0x13DF42C0=SFX_PAUSE_380
+0x13DF42C0=SFX_PAUSE_380
+
+;0x156270EC=SFX_PAUSE_350
+0x156270EC=SFX_PAUSE_350
+
+;0x16FAA00A=010090100
+0x16FAA00A=010090100
+
+;0x184655B8=~z~You want them to take a picture? Go!
+0x184655B8=~z~You want them to take a picture? Go!
+
+;0x1903626C=E2Tm1_FB
+0x1903626C=E2Tm1_FB
+
+;0x1AD6979A=~z~Why do they harass me like this? I'm an artist. I'm allowed to be interested in fashion and disco and male dancers.
+0x1AD6979A=~z~Why do they harass me like this? I'm an artist. I'm allowed to be interested in fashion and disco and male dancers.
+
+;0x1BF240B7=SFX_PAUSE_420
+0x1BF240B7=SFX_PAUSE_420
+
+;0x1C950B7D=010090100
+0x1C950B7D=010090100
+
+;0x1CE06AE5=~z~Luis. I need you to take timeout from this management stuff. We got an emergency at Hercules.
+0x1CE06AE5=~z~Luis. I need you to take timeout from this management stuff. We got an emergency at Hercules.
+
+;0x1CE734F1=E2Tm1_ZC
+0x1CE734F1=E2Tm1_ZC
+
+;0x1CE7C8FF=E2Tm1_ADA
+0x1CE7C8FF=E2Tm1_ADA
+
+;0x1D8B5D90=020090200
+0x1D8B5D90=020090200
+
+;0x204D0F96=E2Tm1_AIB
+0x204D0F96=E2Tm1_AIB
+
+;0x2075ED96=~z~I think you been outed, bro. Maybe it might be the best thing for you. Later.
+0x2075ED96=~z~I think you been outed, bro. Maybe it might be the best thing for you. Later.
+
+;0x2146F44B=SFX_PAUSE_170
+0x2146F44B=SFX_PAUSE_170
+
+;0x25BD4958=~z~I'm here to save your ass, Clay. Open up.
+0x25BD4958=~z~I'm here to save your ass, Clay. Open up.
+
+;0x27EFDC83=E2Tm1_ADB
+0x27EFDC83=E2Tm1_ADB
+
+;0x280A7E8C=200090020090200
+0x280A7E8C=200090020090200
+
+;0x2A047934=~z~Don't hang around. Move it!
+0x2A047934=~z~Don't hang around. Move it!
+
+;0x2C62023E=E2Tm1_KB
+0x2C62023E=E2Tm1_KB
+
+;0x2DC51A33=E2Tm1_AAD
+0x2DC51A33=E2Tm1_AAD
+
+;0x2F131E6D=E2Tm1_AFB
+0x2F131E6D=E2Tm1_AFB
+
+;0x2F1BD111=200090020
+0x2F1BD111=200090020
+
+;0x2FAC11ED=~z~Okay, bro. If that's what makes you comfortable. Sure you haven't.
+0x2FAC11ED=~z~Okay, bro. If that's what makes you comfortable. Sure you haven't.
+
+;0x305EE1FC=~z~This thing ain't happening, D . We ran into an issue.
+0x305EE1FC=~z~This thing ain't happening, D . We ran into an issue.
+
+;0x30CD2293=SFX_PAUSE_250
+0x30CD2293=SFX_PAUSE_250
+
+;0x31200226=400
+0x31200226=400
+
+;0x31CCDB7D=SFX_PAUSE_140
+0x31CCDB7D=SFX_PAUSE_140
+
+;0x32639B7C=010090100
+0x32639B7C=010090100
+
+;0x32645C03=~z~Coño. I knew I shouldn't have gone on that run, bro.
+0x32645C03=~z~Coño. I knew I shouldn't have gone on that run, bro.
+
+;0x32AC6064=E2Tm1_IA
+0x32AC6064=E2Tm1_IA
+
+;0x3312CD4F=E2Tm1_RA
+0x3312CD4F=E2Tm1_RA
+
+;0x35439E23=E2Tm1_LA
+0x35439E23=E2Tm1_LA
+
+;0x3729681F=E2Tm1_AAG
+0x3729681F=E2Tm1_AAG
+
+;0x379ADE96=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+0x379ADE96=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+
+;0x3A0147DF=~z~I'll leave you two to it. That ain't really my scene.
+0x3A0147DF=~z~I'll leave you two to it. That ain't really my scene.
+
+;0x3A19965D=E2Tm1_AEB
+0x3A19965D=E2Tm1_AEB
+
+;0x40D27DF6=~z~It's all a big mistake man. I'm not gay. In fact, I can't stand them! Get us out of here.
+0x40D27DF6=~z~It's all a big mistake man. I'm not gay. In fact, I can't stand them! Get us out of here.
+
+;0x40EDAEF3=E2Tm1_AIA
+0x40EDAEF3=E2Tm1_AIA
+
+;0x4111CC16=010
+0x4111CC16=010
+
+;0x41531FFC=200090020
+0x41531FFC=200090020
+
+;0x41F8DED9=091
+0x41F8DED9=091
+
+;0x45C1A695=~z~Crazy. Crazy. Crazy. Either you come out, or I'm going to be hitting the Herc solo.
+0x45C1A695=~z~Crazy. Crazy. Crazy. Either you come out, or I'm going to be hitting the Herc solo.
+
+;0x47EFE3B0=~z~Yeah, I don't know if me and Tony is the same kind of partners as you guys. I mean, we don't share hotel rooms, for example.
+0x47EFE3B0=~z~Yeah, I don't know if me and Tony is the same kind of partners as you guys. I mean, we don't share hotel rooms, for example.
+
+;0x48C938F7=E2Tm1_SC
+0x48C938F7=E2Tm1_SC
+
+;0x4B236A23=~z~You must get so lonely. You can bunk in with us if you like. We're gonna order some shoes from Tokyo when we get back.
+0x4B236A23=~z~You must get so lonely. You can bunk in with us if you like. We're gonna order some shoes from Tokyo when we get back.
+
+;0x4C6C3F03=~z~Whatever, bro.
+0x4C6C3F03=~z~Whatever, bro.
+
+;0x4E1F5797=SFX_PAUSE_320
+0x4E1F5797=SFX_PAUSE_320
+
+;0x4F20A705=~z~You got the touch, boss. We'll see you another time.
+0x4F20A705=~z~You got the touch, boss. We'll see you another time.
+
+;0x52199BB5=E2Tm1_ZD
+0x52199BB5=E2Tm1_ZD
+
+;0x5252BC71=E2Tm1_ABB1
+0x5252BC71=E2Tm1_ABB1
+
+;0x5286B20C=500
+0x5286B20C=500
+
+;0x5380CC8F=E2Tm1_JB
+0x5380CC8F=E2Tm1_JB
+
+;0x53DB3DDC=SFX_PAUSE_150
+0x53DB3DDC=SFX_PAUSE_150
+
+;0x561AAD73=~z~I hope it's nothing serious, boss. You take care.
+0x561AAD73=~z~I hope it's nothing serious, boss. You take care.
+
+;0x562328A6=E2T2_AXA
+0x562328A6=E2T2_AXA
+
+;0x58312E3F=~z~I work for Tony, man. Let me in.
+0x58312E3F=~z~I work for Tony, man. Let me in.
+
+;0x59128D9E=~z~Get the fuck out of here. And don't tell no one that I was around when PG kicked it. Conyo.
+0x59128D9E=~z~Get the fuck out of here. And don't tell no one that I was around when PG kicked it. Conyo.
+
+;0x59ABC3E7=~z~The big guy's back there.
+0x59ABC3E7=~z~The big guy's back there.
+
+;0x59CCC7F5=SFX_PAUSE_220
+0x59CCC7F5=SFX_PAUSE_220
+
+;0x59F5521E=SFX_PAUSE_120
+0x59F5521E=SFX_PAUSE_120
+
+;0x5AF05E3C=~z~Boring. When is this going to be over?
+0x5AF05E3C=~z~Boring. When is this going to be over?
+
+;0x5BA2A805=200090020
+0x5BA2A805=200090020
+
+;0x5D2771BA=E2Tm1_YA
+0x5D2771BA=E2Tm1_YA
+
+;0x606CB1E5=090
+0x606CB1E5=090
+
+;0x6271DB46=~z~Fuck it! Streets ain't nothing nice, homie.
+0x6271DB46=~z~Fuck it! Streets ain't nothing nice, homie.
+
+;0x6271F4F2=020
+0x6271F4F2=020
+
+;0x65508809=SFX_PAUSE_420
+0x65508809=SFX_PAUSE_420
+
+;0x66D068BE=E2Tm1_AEA
+0x66D068BE=E2Tm1_AEA
+
+;0x68515644=010090100
+0x68515644=010090100
+
+;0x692AFAB1=~z~This is totally killing my vibe.
+0x692AFAB1=~z~This is totally killing my vibe.
+
+;0x6C34728A=SFX_PAUSE_420
+0x6C34728A=SFX_PAUSE_420
+
+;0x6CA50789=SFX_PAUSE_140
+0x6CA50789=SFX_PAUSE_140
+
+;0x6E210B46=SFX_PAUSE_360
+0x6E210B46=SFX_PAUSE_360
+
+;0x70015C13=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+0x70015C13=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+
+;0x7151DE2E=~z~I'm coming through, motherfucker.
+0x7151DE2E=~z~I'm coming through, motherfucker.
+
+;0x71F073AB=SFX_PAUSE_220
+0x71F073AB=SFX_PAUSE_220
+
+;0x7744050F=SFX_PAUSE_250
+0x7744050F=SFX_PAUSE_250
+
+;0x77699966=~z~Okay, boss. Anyone asks, I ain't seen you.
+0x77699966=~z~Okay, boss. Anyone asks, I ain't seen you.
+
+;0x7B1B7AD9=~z~Yo valet, this the Pain Giver's car. Look after it.
+0x7B1B7AD9=~z~Yo valet, this the Pain Giver's car. Look after it.
+
+;0x7B4754D5=E2Tm1_GB
+0x7B4754D5=E2Tm1_GB
+
+;0x7C6EA138=~z~Clayton, you have got enough money. Get us out of this.
+0x7C6EA138=~z~Clayton, you have got enough money. Get us out of this.
+
+;0x7D209142=E2Tm1_HB
+0x7D209142=E2Tm1_HB
+
+;0x7ED88871=200090020
+0x7ED88871=200090020
+
+;0x7FFD7B85=~z~Get out my way.
+0x7FFD7B85=~z~Get out my way.
+
+;0x81D3887B=~z~Dump these motherfucking paps! They always misconstrue things!
+0x81D3887B=~z~Dump these motherfucking paps! They always misconstrue things!
+
+;0x83093813=~z~If that's what you say was going on, that's what was going on.
+0x83093813=~z~If that's what you say was going on, that's what was going on.
+
+;0x840DFB55=SFX_PAUSE_300
+0x840DFB55=SFX_PAUSE_300
+
+;0x86BF017F=E2Tm1_ZB
+0x86BF017F=E2Tm1_ZB
+
+;0x87BD8805=~z~Yeah. The kids will love that. The marketing guys been all over my ass to get more raps about gay clubs in there.
+0x87BD8805=~z~Yeah. The kids will love that. The marketing guys been all over my ass to get more raps about gay clubs in there.
+
+;0x88F6C3EE=~z~So what if I dance disco? Shit. I love women!
+0x88F6C3EE=~z~So what if I dance disco? Shit. I love women!
+
+;0x89414F3D=~z~Okay, guys. Here you are. Come back to the club soon for some good clean hetero fun.
+0x89414F3D=~z~Okay, guys. Here you are. Come back to the club soon for some good clean hetero fun.
+
+;0x8CA4446C=E2Tm1_PA
+0x8CA4446C=E2Tm1_PA
+
+;0x8D907D0C=010090100
+0x8D907D0C=010090100
+
+;0x8DBAE94F=E2Tm1_WA
+0x8DBAE94F=E2Tm1_WA
+
+;0x8DC96EA1=020
+0x8DC96EA1=020
+
+;0x8E68F0A5=~z~Really? That's funny because Jacob here is my business partner, too.
+0x8E68F0A5=~z~Really? That's funny because Jacob here is my business partner, too.
+
+;0x8ED19225=E2Tm1_IB
+0x8ED19225=E2Tm1_IB
+
+;0x8F62285D=~z~Cool man. Can you drop us back at the Majestic?
+0x8F62285D=~z~Cool man. Can you drop us back at the Majestic?
+
+;0x8FD1B605=~z~Okay.
+0x8FD1B605=~z~Okay.
+
+;0x8FD79099=E2Tm1_UA
+0x8FD79099=E2Tm1_UA
+
+;0x8FE83BB1=020200
+0x8FE83BB1=020200
+
+;0x91D3CC02=~z~This is a long way from chilled, Clayton.
+0x91D3CC02=~z~This is a long way from chilled, Clayton.
+
+;0x92B1D6C7=SFX_PAUSE_250
+0x92B1D6C7=SFX_PAUSE_250
+
+;0x9344E5F3=SFX_PAUSE_350
+0x9344E5F3=SFX_PAUSE_350
+
+;0x97BD3FE5=E2Tm1_ABA
+0x97BD3FE5=E2Tm1_ABA
+
+;0x9AF0AD6C=E2Tm1_AAF
+0x9AF0AD6C=E2Tm1_AAF
+
+;0x9C06A552=E2Tm1_ZF
+0x9C06A552=E2Tm1_ZF
+
+;0x9D43E0B1=~z~I doubt that, but whatever man.
+0x9D43E0B1=~z~I doubt that, but whatever man.
+
+;0x9DB9EC96=~z~Damn! Poor bastard. I'll see what I can do.
+0x9DB9EC96=~z~Damn! Poor bastard. I'll see what I can do.
+
+;0x9F537F88=~z~You fine, bro. I'm getting you out of there.
+0x9F537F88=~z~You fine, bro. I'm getting you out of there.
+
+;0xA022689F=~z~I am not going to prison.
+0xA022689F=~z~I am not going to prison.
+
+;0xA090AD86=E2Tm1_ZE
+0xA090AD86=E2Tm1_ZE
+
+;0xA0DDD254=SFX_PAUSE_360
+0xA0DDD254=SFX_PAUSE_360
+
+;0xA0E94F27=E2Tm1_RB
+0xA0E94F27=E2Tm1_RB
+
+;0xA13423F4=~z~We lost those photographers, man.
+0xA13423F4=~z~We lost those photographers, man.
+
+;0xA19A33E8=~z~Congratulations on the new album, PG. My friends who are into that stuff say it's good.
+0xA19A33E8=~z~Congratulations on the new album, PG. My friends who are into that stuff say it's good.
+
+;0xA230CDFA=~z~That's tight, bro! Can you please take us back to the Majestic now?
+0xA230CDFA=~z~That's tight, bro! Can you please take us back to the Majestic now?
+
+;0xA2ED4164=~z~This my club. Move out the way.
+0xA2ED4164=~z~This my club. Move out the way.
+
+;0xA5063DD9=E2Tm1_AKA
+0xA5063DD9=E2Tm1_AKA
+
+;0xA55EF28A=E2Tm1_JA
+0xA55EF28A=E2Tm1_JA
+
+;0xA6A2E3A3=~z~Pain Giver don't care about shit! I lose business partners everyday.
+0xA6A2E3A3=~z~Pain Giver don't care about shit! I lose business partners everyday.
+
+;0xA79589C0=E2Tm1_AFD
+0xA79589C0=E2Tm1_AFD
+
+;0xAA81722D=E2Tm1_GA
+0xAA81722D=E2Tm1_GA
+
+;0xAACD246C=E2Tm1_AWA
+0xAACD246C=E2Tm1_AWA
+
+;0xAADCA98C=~z~We're business partners.
+0xAADCA98C=~z~We're business partners.
+
+;0xAB4ACF1F=~z~Show my street side and my tolerant sophisticated side, in the same track.
+0xAB4ACF1F=~z~Show my street side and my tolerant sophisticated side, in the same track.
+
+;0xADAD8D6B=~z~What is the world coming to if a straight man can't have fun with his gay friends without being accused on the internet?
+0xADAD8D6B=~z~What is the world coming to if a straight man can't have fun with his gay friends without being accused on the internet?
+
+;0xADBF0CAF=~z~Tell Clay I love that new joint.
+0xADBF0CAF=~z~Tell Clay I love that new joint.
+
+;0xADF897E6=E2Tm1_AFC2
+0xADF897E6=E2Tm1_AFC2
+
+;0xAE096C85=~z~The VIP's back there, boss. You wouldn't believe what I walked in on earlier.
+0xAE096C85=~z~The VIP's back there, boss. You wouldn't believe what I walked in on earlier.
+
+;0xAE8CCDC9=~z~Thank you, homie. I thought it was time my fans heard the sensitive side of the Pain Giver.
+0xAE8CCDC9=~z~Thank you, homie. I thought it was time my fans heard the sensitive side of the Pain Giver.
+
+;0xAFE714CA=090
+0xAFE714CA=090
+
+;0xB093E9EA=~z~Dessie, bro, the Pain Giver can stay in his closet for a few more days. We done with that shit.
+0xB093E9EA=~z~Dessie, bro, the Pain Giver can stay in his closet for a few more days. We done with that shit.
+
+;0xB0CE06BD=~z~Move it, man. They're gonna snap us.
+0xB0CE06BD=~z~Move it, man. They're gonna snap us.
+
+;0xB168233C=~z~Too bad about your car, PG. That's fucked up.
+0xB168233C=~z~Too bad about your car, PG. That's fucked up.
+
+;0xB262C651=~z~Oye, I think we're in the clear.
+0xB262C651=~z~Oye, I think we're in the clear.
+
+;0xB40A6CE8=~z~Lose these paparrazzi pricks, will you?
+0xB40A6CE8=~z~Lose these paparrazzi pricks, will you?
+
+;0xB5518FD8=~z~I don't wanna be no cover boy. Fucking hustle.
+0xB5518FD8=~z~I don't wanna be no cover boy. Fucking hustle.
+
+;0xB576040C=E2Tm1_HA
+0xB576040C=E2Tm1_HA
+
+;0xB784F02E=E2Tm1_AJA
+0xB784F02E=E2Tm1_AJA
+
+;0xB7F8646E=~z~Dessie, bro, the Pain Giver can stay in his closet for a few more days. We done with that shit.
+0xB7F8646E=~z~Dessie, bro, the Pain Giver can stay in his closet for a few more days. We done with that shit.
+
+;0xB9F134C3=~z~Yo, you think they got my picture? None of that stuff was useable, right?
+0xB9F134C3=~z~Yo, you think they got my picture? None of that stuff was useable, right?
+
+;0xBB3106F0=~z~Captain Hetero's having himself some good clean fun, boss.
+0xBB3106F0=~z~Captain Hetero's having himself some good clean fun, boss.
+
+;0xBBF641F9=E2Tm1_ZG
+0xBBF641F9=E2Tm1_ZG
+
+;0xBE71AE14=~z~Hope Hercules is cool, boss.
+0xBE71AE14=~z~Hope Hercules is cool, boss.
+
+;0xBEBE3F4B=E2Tm1_AAB
+0xBEBE3F4B=E2Tm1_AAB
+
+;0xBF322070=020
+0xBF322070=020
+
+;0xC08E3637=200
+0xC08E3637=200
+
+;0xC0AC4167=E2Tm1_FA
+0xC0AC4167=E2Tm1_FA
+
+;0xC1173354=~z~Seems the Pain Giver needs a fast extraction.
+0xC1173354=~z~Seems the Pain Giver needs a fast extraction.
+
+;0xC1B13E93=~z~Oye. We'll be away from these stalkers in no time, man. Don't worry.
+0xC1B13E93=~z~Oye. We'll be away from these stalkers in no time, man. Don't worry.
+
+;0xC45F84CE=~z~Shit, L. Okay. I'll get on damage control.
+0xC45F84CE=~z~Shit, L. Okay. I'll get on damage control.
+
+;0xC509B6BF=~z~They got the shot. I could swear they got the motherfucking shot.
+0xC509B6BF=~z~They got the shot. I could swear they got the motherfucking shot.
+
+;0xC5DDC205=E2Tm1_XA
+0xC5DDC205=E2Tm1_XA
+
+;0xC722B848=E2Tm1_QA
+0xC722B848=E2Tm1_QA
+
+;0xC7606293=~z~So, you and Tony are friends, huh?
+0xC7606293=~z~So, you and Tony are friends, huh?
+
+;0xCAF986A2=~z~Sensitive, but not too sensitive?
+0xCAF986A2=~z~Sensitive, but not too sensitive?
+
+;0xCBE66461=E2Tm1_WB
+0xCBE66461=E2Tm1_WB
+
+;0xCC5ED840=E2Tm1_AAC
+0xCC5ED840=E2Tm1_AAC
+
+;0xCC8B92FF=SFX_PAUSE_250
+0xCC8B92FF=SFX_PAUSE_250
+
+;0xCD48C52F=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+0xCD48C52F=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+
+;0xCDCE5E2D=020200090200
+0xCDCE5E2D=020200090200
+
+;0xCF161568=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+0xCF161568=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+
+;0xCF1D4E5D=E2Tm1_VB
+0xCF1D4E5D=E2Tm1_VB
+
+;0xD1BC89DF=SFX_PAUSE_300
+0xD1BC89DF=SFX_PAUSE_300
+
+;0xD2E15829=E2Tm1_AAA
+0xD2E15829=E2Tm1_AAA
+
+;0xD339556B=~z~I'm not who you think I am!
+0xD339556B=~z~I'm not who you think I am!
+
+;0xD4DDEA27=~z~Damn right that was too bad. I've only got, like, six of them. Keeping it real, homie. Real.
+0xD4DDEA27=~z~Damn right that was too bad. I've only got, like, six of them. Keeping it real, homie. Real.
+
+;0xD5E59C26=010090100
+0xD5E59C26=010090100
+
+;0xD635B729=E2Tm1_ABC
+0xD635B729=E2Tm1_ABC
+
+;0xD68692AF=020090200090020200090020090200090020
+0xD68692AF=020090200090020200090020090200090020
+
+;0xDA6B6981=E2Tm1_SA
+0xDA6B6981=E2Tm1_SA
+
+;0xDCF00F0B=100
+0xDCF00F0B=100
+
+;0xDD50BE89=E2Tm1_ACA
+0xDD50BE89=E2Tm1_ACA
+
+;0xDF5E0E66=020
+0xDF5E0E66=020
+
+;0xE09F4943=020200090200090020
+0xE09F4943=020200090200090020
+
+;0xE3146B5D=~z~We ain't posing for the weeklies. Get us out of here.
+0xE3146B5D=~z~We ain't posing for the weeklies. Get us out of here.
+
+;0xE396F853=~z~That rapper Clay PG Jackson's been pinned down by paparazzi.
+0xE396F853=~z~That rapper Clay PG Jackson's been pinned down by paparazzi.
+
+;0xE439677C=200
+0xE439677C=200
+
+;0xE445B93A=~z~What's that mean?
+0xE445B93A=~z~What's that mean?
+
+;0xE4509036=100090010090100090100010
+0xE4509036=100090010090100090100010
+
+;0xE4F778E7=~z~Leave us alone!
+0xE4F778E7=~z~Leave us alone!
+
+;0xE54FF2D3=SFX_PAUSE_140
+0xE54FF2D3=SFX_PAUSE_140
+
+;0xE67A1C0B=400
+0xE67A1C0B=400
+
+;0xE8AB7852=SFX_PAUSE_130
+0xE8AB7852=SFX_PAUSE_130
+
+;0xE90E94D9=E2Tm1_AFC1
+0xE90E94D9=E2Tm1_AFC1
+
+;0xE946CDC7=SFX_PAUSE_350
+0xE946CDC7=SFX_PAUSE_350
+
+;0xE9827B4A=~z~I'm starting to feel nauseous here.
+0xE9827B4A=~z~I'm starting to feel nauseous here.
+
+;0xEB544D08=E2Tm1_ZA
+0xEB544D08=E2Tm1_ZA
+
+;0xEE97D5F6=200
+0xEE97D5F6=200
+
+;0xEEA855D9=~z~You gonna rap about this shit, man?
+0xEEA855D9=~z~You gonna rap about this shit, man?
+
+;0xEEC3205A=E2Tm1_ALA
+0xEEC3205A=E2Tm1_ALA
+
+;0xEF8A84FF=E2Tm1_AGA
+0xEF8A84FF=E2Tm1_AGA
+
+;0xEFB26525=E2Tm1_UC
+0xEFB26525=E2Tm1_UC
+
+;0xF0C14920=E2Tm1_TB
+0xF0C14920=E2Tm1_TB
+
+;0xF3D9D648=SFX_PAUSE_210
+0xF3D9D648=SFX_PAUSE_210
+
+;0xF49DD2BD=290
+0xF49DD2BD=290
+
+;0xF4B74ECC=E2Tm1_TA
+0xF4B74ECC=E2Tm1_TA
+
+;0xF4CE1C91=E2Tm1_MA
+0xF4CE1C91=E2Tm1_MA
+
+;0xF6921C20=~z~I didn't know this was a gay bar! I just wanted to watch sports!
+0xF6921C20=~z~I didn't know this was a gay bar! I just wanted to watch sports!
+
+;0xF69BE62F=SFX_PAUSE_320
+0xF69BE62F=SFX_PAUSE_320
+
+;0xF7B292C7=E2Tm1_OA
+0xF7B292C7=E2Tm1_OA
+
+;0xF803A38D=SFX_PAUSE_330
+0xF803A38D=SFX_PAUSE_330
+
+;0xF9162E96=E2Tm1_AAE
+0xF9162E96=E2Tm1_AAE
+
+;0xFA50A04C=E2Tm1_KA
+0xFA50A04C=E2Tm1_KA
+
+;0xFAD6AB65=E2Tm1_AHA
+0xFAD6AB65=E2Tm1_AHA
+
+;0xFAF1E535=200090020090200020090200020090200
+0xFAF1E535=200090020090200020090200020090200
+
+;0xFE43DE75=~z~You should put more of that flavor in that gangster shit, Clay. The hood gonna love that.
+0xFE43DE75=~z~You should put more of that flavor in that gangster shit, Clay. The hood gonna love that.
+
+;0xFEE1EB38=E2Tm1_UB
+0xFEE1EB38=E2Tm1_UB
+

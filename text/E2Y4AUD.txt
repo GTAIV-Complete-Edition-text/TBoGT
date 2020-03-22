@@ -1,0 +1,1171 @@
+﻿[E2Y4AUD]
+;0x0015B43C=SFX_PAUSE_090
+0x0015B43C=SFX_PAUSE_090
+
+;0x00D93E66=E2Y4_AKB
+0x00D93E66=E2Y4_AKB
+
+;0x032F2F01=~z~Puneta.
+0x032F2F01=~z~Puneta.
+
+;0x03E4DA4F=~z~A motherfucking subway train! Oh yeah, baby.
+0x03E4DA4F=~z~A motherfucking subway train! Oh yeah, baby.
+
+;0x03F5EF44=~z~Where's the rest of his cell?
+0x03F5EF44=~z~Where's the rest of his cell?
+
+;0x043DA242=~z~Okay. You just need to jump on the train. Climb to the front and unhook the lead car. I'll take it from there.
+0x043DA242=~z~Okay. You just need to jump on the train. Climb to the front and unhook the lead car. I'll take it from there.
+
+;0x049BE34F=~z~I got you that tank thing and the chopper - what now, you want the Statue of Happiness for your back yard?
+0x049BE34F=~z~I got you that tank thing and the chopper - what now, you want the Statue of Happiness for your back yard?
+
+;0x04D53BCC=010
+0x04D53BCC=010
+
+;0x05B01CCE=~z~I see myself getting cut in half or locked up, bro - that's what I see.
+0x05B01CCE=~z~I see myself getting cut in half or locked up, bro - that's what I see.
+
+;0x05D02675=E2Y4_CC
+0x05D02675=E2Y4_CC
+
+;0x086D68D1=092
+0x086D68D1=092
+
+;0x08AE973D=~z~Unleash the beast!
+0x08AE973D=~z~Unleash the beast!
+
+;0x09D6F4A9=092
+0x09D6F4A9=092
+
+;0x0A48F624=E2Y4_EE
+0x0A48F624=E2Y4_EE
+
+;0x0A4D2791=SFX_PAUSE_230
+0x0A4D2791=SFX_PAUSE_230
+
+;0x0A88F2C6=~z~I thought the world liked us now!
+0x0A88F2C6=~z~I thought the world liked us now!
+
+;0x0B400254=~z~Damn.
+0x0B400254=~z~Damn.
+
+;0x0C08DFDC=~z~Whatever, man. How's it going?
+0x0C08DFDC=~z~Whatever, man. How's it going?
+
+;0x0C924450=302
+0x0C924450=302
+
+;0x0CA53E79=~z~Okay, we just need the front car of the train.
+0x0CA53E79=~z~Okay, we just need the front car of the train.
+
+;0x0D2BFBDC=~z~Yusuf. Where are you, man? They think I'm a fucking terrorist.
+0x0D2BFBDC=~z~Yusuf. Where are you, man? They think I'm a fucking terrorist.
+
+;0x0D9C86B9=~z~Too close, man.
+0x0D9C86B9=~z~Too close, man.
+
+;0x0DFA407B=E2Y4_UA
+0x0DFA407B=E2Y4_UA
+
+;0x0E3512B3=SFX_PAUSE_230
+0x0E3512B3=SFX_PAUSE_230
+
+;0x0E44FE0A=~z~Chill out, homie. Yusuf's on his way.
+0x0E44FE0A=~z~Chill out, homie. Yusuf's on his way.
+
+;0x0E4F00BF=SFX_PAUSE_150
+0x0E4F00BF=SFX_PAUSE_150
+
+;0x0E69B99B=~z~You, Tony Gayer and a camel getting all velvet rope on some Arabic shit.
+0x0E69B99B=~z~You, Tony Gayer and a camel getting all velvet rope on some Arabic shit.
+
+;0x0E6CA87A=E2Y4_BAA
+0x0E6CA87A=E2Y4_BAA
+
+;0x0EF0FEC3=E2Y4_KB
+0x0EF0FEC3=E2Y4_KB
+
+;0x0EF2CE8D=SFX_PAUSE_530
+0x0EF2CE8D=SFX_PAUSE_530
+
+;0x0F366F94=SFX_PAUSE_160
+0x0F366F94=SFX_PAUSE_160
+
+;0x0F5EC858=~z~Conyo.
+0x0F5EC858=~z~Conyo.
+
+;0x102731DD=E2Y4_LA
+0x102731DD=E2Y4_LA
+
+;0x113CC3A9=E2Y4_GE
+0x113CC3A9=E2Y4_GE
+
+;0x11501A09=E2Y4_DB
+0x11501A09=E2Y4_DB
+
+;0x1158250C=SFX_PAUSE_330
+0x1158250C=SFX_PAUSE_330
+
+;0x13262270=~z~We haven't got all day. Unhook the front car.
+0x13262270=~z~We haven't got all day. Unhook the front car.
+
+;0x13EA6720=~z~I have to go now, man. Wait here above the tracks.
+0x13EA6720=~z~I have to go now, man. Wait here above the tracks.
+
+;0x16925AD2=012
+0x16925AD2=012
+
+;0x16986F43=SFX_PAUSE_180
+0x16986F43=SFX_PAUSE_180
+
+;0x16C9F666=~z~I hope you got your work shoes on.
+0x16C9F666=~z~I hope you got your work shoes on.
+
+;0x16F033C0=~z~Free that baby up for me!
+0x16F033C0=~z~Free that baby up for me!
+
+;0x173471AE=~z~Be my guest, bro. You jump on the train and I'll put my feet up.
+0x173471AE=~z~Be my guest, bro. You jump on the train and I'll put my feet up.
+
+;0x1934C3D7=~z~made of models on a track made of gold.
+0x1934C3D7=~z~made of models on a track made of gold.
+
+;0x1AFFB25F=~z~You got choppers on my ass too?
+0x1AFFB25F=~z~You got choppers on my ass too?
+
+;0x1D394F97=SFX_PAUSE_270
+0x1D394F97=SFX_PAUSE_270
+
+;0x1DA0F1B8=~z~Here's the spot!
+0x1DA0F1B8=~z~Here's the spot!
+
+;0x1E339CA9=E2Y4_AHA
+0x1E339CA9=E2Y4_AHA
+
+;0x1E71A4A3=106
+0x1E71A4A3=106
+
+;0x1F5EC121=092
+0x1F5EC121=092
+
+;0x204F9324=~z~The prize of the fleet. The assfucking flagship of the LTA. Give it up!
+0x204F9324=~z~The prize of the fleet. The assfucking flagship of the LTA. Give it up!
+
+;0x21820B9B=~z~I guess I better wait for that motherfucker.
+0x21820B9B=~z~I guess I better wait for that motherfucker.
+
+;0x21936ACD=~z~We have liftoff, motherfuckers.
+0x21936ACD=~z~We have liftoff, motherfuckers.
+
+;0x22988A56=~z~Just fucking tell me, bro!
+0x22988A56=~z~Just fucking tell me, bro!
+
+;0x235C6FA4=~z~Aside from how fucking dumb that sounds, how am I supposed to take that thing?
+0x235C6FA4=~z~Aside from how fucking dumb that sounds, how am I supposed to take that thing?
+
+;0x241CBB35=~z~I fucking love you, man. I love you. See you later.
+0x241CBB35=~z~I fucking love you, man. I love you. See you later.
+
+;0x25C64242=E2Y4_YA
+0x25C64242=E2Y4_YA
+
+;0x26B5C9CB=~z~What you need a chopper for, cop?
+0x26B5C9CB=~z~What you need a chopper for, cop?
+
+;0x26C96801=E2Y4_SA
+0x26C96801=E2Y4_SA
+
+;0x27BD781D=~z~Here we go.
+0x27BD781D=~z~Here we go.
+
+;0x27CBF4BE=~z~Yo. How am I supposed to pull this off?
+0x27CBF4BE=~z~Yo. How am I supposed to pull this off?
+
+;0x27D1D0DC=E2Y4_DE
+0x27D1D0DC=E2Y4_DE
+
+;0x27E60BB8=~z~There you go.
+0x27E60BB8=~z~There you go.
+
+;0x2809F542=~z~You jump on board, you climb to the front and you unhook the car.
+0x2809F542=~z~You jump on board, you climb to the front and you unhook the car.
+
+;0x283E5CA6=~z~Arab money, bitches! Fuck yeah!
+0x283E5CA6=~z~Arab money, bitches! Fuck yeah!
+
+;0x28EAFFD1=100090010090100
+0x28EAFFD1=100090010090100
+
+;0x2A47C00F=~z~Got lucky there.
+0x2A47C00F=~z~Got lucky there.
+
+;0x2A8A82A7=~z~Someone better be grateful for this.
+0x2A8A82A7=~z~Someone better be grateful for this.
+
+;0x2B14B913=SFX_PAUSE_110
+0x2B14B913=SFX_PAUSE_110
+
+;0x2B88C8DA=SFX_PAUSE_220
+0x2B88C8DA=SFX_PAUSE_220
+
+;0x2C12010F=~z~Can't you just buy yourself a subway car, bro?
+0x2C12010F=~z~Can't you just buy yourself a subway car, bro?
+
+;0x2CC15071=091
+0x2CC15071=091
+
+;0x2E1C2406=~z~Would you shut the fuck up, man? What's wrong with you?
+0x2E1C2406=~z~Would you shut the fuck up, man? What's wrong with you?
+
+;0x2E7BA71A=~z~Here I come, baby. You better be gripping tight.
+0x2E7BA71A=~z~Here I come, baby. You better be gripping tight.
+
+;0x2E849C54=~z~Get in position to jump, my friend. I will meet you later.
+0x2E849C54=~z~Get in position to jump, my friend. I will meet you later.
+
+;0x2FD08890=~z~No, man, shit. We need the genuine article. The real deal.
+0x2FD08890=~z~No, man, shit. We need the genuine article. The real deal.
+
+;0x2FFCDE48=SFX_PAUSE_300
+0x2FFCDE48=SFX_PAUSE_300
+
+;0x3022166B=010090100090100090010090100090100
+0x3022166B=010090100090100090010090100090100
+
+;0x302F7E6A=010
+0x302F7E6A=010
+
+;0x315AD209=010090100090100090010090100090100090010
+0x315AD209=010090100090100090010090100090100090010
+
+;0x32762808=~z~Hey man, I missed the train, bro. You're gonna have to rethink things.
+0x32762808=~z~Hey man, I missed the train, bro. You're gonna have to rethink things.
+
+;0x332EAEF4=~z~I'm here, Yusuf. Where the fuck are you?
+0x332EAEF4=~z~I'm here, Yusuf. Where the fuck are you?
+
+;0x334A8025=SFX_PAUSE_160
+0x334A8025=SFX_PAUSE_160
+
+;0x339A9A46=~z~Don't joke around with that weapon, dog.
+0x339A9A46=~z~Don't joke around with that weapon, dog.
+
+;0x351C9473=092
+0x351C9473=092
+
+;0x37C8036A=E2Y4_AIA
+0x37C8036A=E2Y4_AIA
+
+;0x389BE420=E2Y4_DD
+0x389BE420=E2Y4_DD
+
+;0x38B90A3C=E2Y4_MC
+0x38B90A3C=E2Y4_MC
+
+;0x39290A64=E2Y4_FE
+0x39290A64=E2Y4_FE
+
+;0x396DAEC7=~z~Here goes.
+0x396DAEC7=~z~Here goes.
+
+;0x397E3D19=E2Y4_AUA
+0x397E3D19=E2Y4_AUA
+
+;0x3A7E3841=~z~I wish I was coming with you, man. I'd be one crazy motherfucker on that train.
+0x3A7E3841=~z~I wish I was coming with you, man. I'd be one crazy motherfucker on that train.
+
+;0x3B1E00D2=E2Y4_XA
+0x3B1E00D2=E2Y4_XA
+
+;0x3B9162A2=~z~I got to be quicker.
+0x3B9162A2=~z~I got to be quicker.
+
+;0x3BCD7DCA=E2Y4_VA
+0x3BCD7DCA=E2Y4_VA
+
+;0x3BCE3B16=E2Y4_BC
+0x3BCE3B16=E2Y4_BC
+
+;0x3C62F525=~z~You doing worse to this train than I am.
+0x3C62F525=~z~You doing worse to this train than I am.
+
+;0x3CE85BD9=SFX_PAUSE_290
+0x3CE85BD9=SFX_PAUSE_290
+
+;0x3D62BF8C=E2Y4_AMA
+0x3D62BF8C=E2Y4_AMA
+
+;0x3DCB72E5=106
+0x3DCB72E5=106
+
+;0x3DF93D5D=100090100090010090100090100090100
+0x3DF93D5D=100090100090010090100090100090100
+
+;0x3EF24309=~z~You ready?
+0x3EF24309=~z~You ready?
+
+;0x3FF80468=106
+0x3FF80468=106
+
+;0x403B0659=~z~Unhook the lead car.
+0x403B0659=~z~Unhook the lead car.
+
+;0x406A807B=E2Y4_MB
+0x406A807B=E2Y4_MB
+
+;0x406B48A4=~z~Yo, nigga!
+0x406B48A4=~z~Yo, nigga!
+
+;0x41B39A65=010090100090100090100090010090100090100090100090010
+0x41B39A65=010090100090100090100090010090100090100090100090010
+
+;0x420491B5=SFX_PAUSE_220
+0x420491B5=SFX_PAUSE_220
+
+;0x426D3386=SFX_PAUSE_240
+0x426D3386=SFX_PAUSE_240
+
+;0x439D8282=~z~But he's obsessed with what they won't sell him.
+0x439D8282=~z~But he's obsessed with what they won't sell him.
+
+;0x448A0573=~z~I fuckin' hate helicopters.
+0x448A0573=~z~I fuckin' hate helicopters.
+
+;0x45E3EB79=E2Y4_EB
+0x45E3EB79=E2Y4_EB
+
+;0x471CD155=~z~Okay, man, okay. Back to the drawing board. Call me.
+0x471CD155=~z~Okay, man, okay. Back to the drawing board. Call me.
+
+;0x47340300=SFX_PAUSE_120
+0x47340300=SFX_PAUSE_120
+
+;0x47813AA9=~z~Yo, I'm Dominican. We ain't terrorists, you dumb fucks.
+0x47813AA9=~z~Yo, I'm Dominican. We ain't terrorists, you dumb fucks.
+
+;0x4A0109BA=E2Y4_DC
+0x4A0109BA=E2Y4_DC
+
+;0x4A1D0DEF=~z~I don't think I'm going to get this bitch.
+0x4A1D0DEF=~z~I don't think I'm going to get this bitch.
+
+;0x4B6CC710=SFX_PAUSE_190
+0x4B6CC710=SFX_PAUSE_190
+
+;0x4B94CE68=E2Y4_HB
+0x4B94CE68=E2Y4_HB
+
+;0x4BAFBB82=~z~Fuuuuuck.
+0x4BAFBB82=~z~Fuuuuuck.
+
+;0x4C18EA03=SFX_PAUSE_220
+0x4C18EA03=SFX_PAUSE_220
+
+;0x4D5AC91B=~z~Before I forget, you mind handing over some more of those explosive shells? Those things are tight, man.
+0x4D5AC91B=~z~Before I forget, you mind handing over some more of those explosive shells? Those things are tight, man.
+
+;0x4DCD07AB=100090010090100090100090010090100090100
+0x4DCD07AB=100090010090100090100090010090100090100
+
+;0x4E0E510B=E2Y4_HC
+0x4E0E510B=E2Y4_HC
+
+;0x4F154BBC=~z~Here goes nothing.
+0x4F154BBC=~z~Here goes nothing.
+
+;0x4F441462=~z~What? They on me already?
+0x4F441462=~z~What? They on me already?
+
+;0x511F25EC=010090100090010
+0x511F25EC=010090100090010
+
+;0x51647EDA=SFX_PAUSE_210
+0x51647EDA=SFX_PAUSE_210
+
+;0x52C7A1EE=~z~Give a man a break.
+0x52C7A1EE=~z~Give a man a break.
+
+;0x541F2DED=E2Y4_BCA
+0x541F2DED=E2Y4_BCA
+
+;0x54960A82=~z~We good to go?
+0x54960A82=~z~We good to go?
+
+;0x55829311=~z~You think we could put the Amir name to anything but authentic shit?
+0x55829311=~z~You think we could put the Amir name to anything but authentic shit?
+
+;0x5795D816=~z~No one likes people fucking with their public transport in this paranoid age.
+0x5795D816=~z~No one likes people fucking with their public transport in this paranoid age.
+
+;0x57EC9C41=E2Y4_ABA
+0x57EC9C41=E2Y4_ABA
+
+;0x5892E93C=SFX_PAUSE_300
+0x5892E93C=SFX_PAUSE_300
+
+;0x596EFBB3=~z~Damn right, motherfucker!
+0x596EFBB3=~z~Damn right, motherfucker!
+
+;0x59C8592E=106
+0x59C8592E=106
+
+;0x5A0C3F30=E2Y4_CD
+0x5A0C3F30=E2Y4_CD
+
+;0x5A1C0D55=E2Y4_AZA
+0x5A1C0D55=E2Y4_AZA
+
+;0x5B1D2546=E2Y4_HG
+0x5B1D2546=E2Y4_HG
+
+;0x5B6F839D=E2Y4_BBA
+0x5B6F839D=E2Y4_BBA
+
+;0x5C212E1C=~z~You kidding me? Where were they hiding?
+0x5C212E1C=~z~You kidding me? Where were they hiding?
+
+;0x5FB8E864=~z~You know what, I can drive to the chopper later. Take us to the Broker side of the Algonquin bridge now.
+0x5FB8E864=~z~You know what, I can drive to the chopper later. Take us to the Broker side of the Algonquin bridge now.
+
+;0x60496EF8=~z~Yusuf, bro. Hand over some more exploding shotgun shells. I love those things.
+0x60496EF8=~z~Yusuf, bro. Hand over some more exploding shotgun shells. I love those things.
+
+;0x60BFEF11=~z~What I got myself into?
+0x60BFEF11=~z~What I got myself into?
+
+;0x60EF9DB3=~z~Shit, man, I was already playing subway conductor in my head. Too fucking lame. Call me soon.
+0x60EF9DB3=~z~Shit, man, I was already playing subway conductor in my head. Too fucking lame. Call me soon.
+
+;0x61136754=~z~I don't know why I hang out with you, bro.
+0x61136754=~z~I don't know why I hang out with you, bro.
+
+;0x63F90FBF=~z~They invented math and shit. I'm here I'm not afraid. I can get my hands dirty. I can work.
+0x63F90FBF=~z~They invented math and shit. I'm here I'm not afraid. I can get my hands dirty. I can work.
+
+;0x645DA068=E2Y4_AFA
+0x645DA068=E2Y4_AFA
+
+;0x64F0E039=E2Y4_CE1
+0x64F0E039=E2Y4_CE1
+
+;0x65C97EA3=~z~Don't fucking shoot me, man.
+0x65C97EA3=~z~Don't fucking shoot me, man.
+
+;0x66752A5B=E2Y4_EC
+0x66752A5B=E2Y4_EC
+
+;0x6751B2F3=SFX_PAUSE_220
+0x6751B2F3=SFX_PAUSE_220
+
+;0x67C294DD=E2Y4_BA
+0x67C294DD=E2Y4_BA
+
+;0x67FDF981=~z~Diablo.
+0x67FDF981=~z~Diablo.
+
+;0x68311910=~z~Yusuf, where are you, bro?
+0x68311910=~z~Yusuf, where are you, bro?
+
+;0x6A7C6BF5=E2Y4_IB1
+0x6A7C6BF5=E2Y4_IB1
+
+;0x6B584459=E2Y4_IC
+0x6B584459=E2Y4_IC
+
+;0x6D7BD142=E2Y4_GB
+0x6D7BD142=E2Y4_GB
+
+;0x6DDDC7C2=091
+0x6DDDC7C2=091
+
+;0x6DFEF5E1=~z~We can always get a new car.
+0x6DFEF5E1=~z~We can always get a new car.
+
+;0x6E4280A7=~z~Shiiiiiit.
+0x6E4280A7=~z~Shiiiiiit.
+
+;0x6E5E8863=~z~Leave me alone!
+0x6E5E8863=~z~Leave me alone!
+
+;0x6E881021=E2Y4_HA
+0x6E881021=E2Y4_HA
+
+;0x6F0804F0=~z~We rolling out to the Broker side of the Algonquin bridge, homeboy.
+0x6F0804F0=~z~We rolling out to the Broker side of the Algonquin bridge, homeboy.
+
+;0x6F103832=~z~Wait for it.
+0x6F103832=~z~Wait for it.
+
+;0x71400B2D=~z~Urgh...shit.
+0x71400B2D=~z~Urgh...shit.
+
+;0x71FC7565=~z~What the fuck am I getting into, man? Shit.
+0x71FC7565=~z~What the fuck am I getting into, man? Shit.
+
+;0x7252E477=~z~Okay, cool man, listen, it was good catching up with you, okay? I'll see you soon.
+0x7252E477=~z~Okay, cool man, listen, it was good catching up with you, okay? I'll see you soon.
+
+;0x732536AC=E2Y4_HD
+0x732536AC=E2Y4_HD
+
+;0x73A9AA97=~z~The plan doesn't allow for that, homie. Disappoints me as much as you. Probably more. Inside, I am crying.
+0x73A9AA97=~z~The plan doesn't allow for that, homie. Disappoints me as much as you. Probably more. Inside, I am crying.
+
+;0x747805B2=~z~There might even be room for a Maisonette 9 franchise there. How about it?
+0x747805B2=~z~There might even be room for a Maisonette 9 franchise there. How about it?
+
+;0x74939F71=E2Y4_BG
+0x74939F71=E2Y4_BG
+
+;0x749C15D6=E2Y4_AKA
+0x749C15D6=E2Y4_AKA
+
+;0x7549325F=~z~Well you know it's my father...uh...hey, you know my ancestors, we built the pyramids baby! We built the ziggurats.
+0x7549325F=~z~Well you know it's my father...uh...hey, you know my ancestors, we built the pyramids baby! We built the ziggurats.
+
+;0x75AE4771=106
+0x75AE4771=106
+
+;0x76CA608F=~z~Have fun with it, you crazy fool.
+0x76CA608F=~z~Have fun with it, you crazy fool.
+
+;0x778A08D5=~z~Sounds real simple.
+0x778A08D5=~z~Sounds real simple.
+
+;0x7790B445=~z~I'm waiting.
+0x7790B445=~z~I'm waiting.
+
+;0x78C19235=106
+0x78C19235=106
+
+;0x79370452=~z~Cynics don't build pyramids, man. You got to believe. Tell me you believe, Luis.
+0x79370452=~z~Cynics don't build pyramids, man. You got to believe. Tell me you believe, Luis.
+
+;0x7A26F423=~z~what are you doing here?
+0x7A26F423=~z~what are you doing here?
+
+;0x7A6E5632=~z~Do it! Do it! Let's go.
+0x7A6E5632=~z~Do it! Do it! Let's go.
+
+;0x7B94E224=010090100
+0x7B94E224=010090100
+
+;0x7C9077AD=~z~That and I'm going to put your clubs on the world stage.
+0x7C9077AD=~z~That and I'm going to put your clubs on the world stage.
+
+;0x7CD4C3CF=~z~I'm going in for the kill. Hold on!
+0x7CD4C3CF=~z~I'm going in for the kill. Hold on!
+
+;0x7D7C56CC=~z~Yusuf, bro, we got problems, man. I couldn't handle that thing for you.
+0x7D7C56CC=~z~Yusuf, bro, we got problems, man. I couldn't handle that thing for you.
+
+;0x8035A90C=~z~Come on.
+0x8035A90C=~z~Come on.
+
+;0x806A90AB=E2Y4_AWA
+0x806A90AB=E2Y4_AWA
+
+;0x80E128A2=~z~Head out to the east side of the Algonquin Bridge, my dude.
+0x80E128A2=~z~Head out to the east side of the Algonquin Bridge, my dude.
+
+;0x820579E4=~z~Where the fuck did they come from?
+0x820579E4=~z~Where the fuck did they come from?
+
+;0x8236A12F=~z~The train is not just for me. It will be the centerpiece of a new Liberty themed development in the Gulf.
+0x8236A12F=~z~The train is not just for me. It will be the centerpiece of a new Liberty themed development in the Gulf.
+
+;0x82FAAEA2=~z~Man.
+0x82FAAEA2=~z~Man.
+
+;0x8343B6A9=E2Y4_QA
+0x8343B6A9=E2Y4_QA
+
+;0x8351A54D=E2Y4_CE2
+0x8351A54D=E2Y4_CE2
+
+;0x83982B08=100
+0x83982B08=100
+
+;0x84242512=~z~They called Michelangelo crazy, but he invented the wheel and who's laughing now?
+0x84242512=~z~They called Michelangelo crazy, but he invented the wheel and who's laughing now?
+
+;0x8511FAC2=106
+0x8511FAC2=106
+
+;0x852D5DF5=E2Y4_ZA
+0x852D5DF5=E2Y4_ZA
+
+;0x853EF79B=106
+0x853EF79B=106
+
+;0x86080BE1=~z~Hey, not so fast, homie.
+0x86080BE1=~z~Hey, not so fast, homie.
+
+;0x861CB7DF=~z~I'm just riding the motherfucking metro!
+0x861CB7DF=~z~I'm just riding the motherfucking metro!
+
+;0x867EFB2D=SFX_PAUSE_170
+0x867EFB2D=SFX_PAUSE_170
+
+;0x86B3F45B=091
+0x86B3F45B=091
+
+;0x86ED797A=SFX_PAUSE_390
+0x86ED797A=SFX_PAUSE_390
+
+;0x876CEC84=~z~I'm gonna look after you. You and Tony. Your problems, man, Yusuf can make them go away.
+0x876CEC84=~z~I'm gonna look after you. You and Tony. Your problems, man, Yusuf can make them go away.
+
+;0x87B9ED2A=~z~You better be able to, bro. 'Cause you about to owe me big time.
+0x87B9ED2A=~z~You better be able to, bro. 'Cause you about to owe me big time.
+
+;0x87C48373=E2Y4_AVA
+0x87C48373=E2Y4_AVA
+
+;0x89C1228B=~z~Ever since I played with my golden train set as a child, I have always wanted one and now we're gonna get it.
+0x89C1228B=~z~Ever since I played with my golden train set as a child, I have always wanted one and now we're gonna get it.
+
+;0x8A476E6E=E2Y4_FG
+0x8A476E6E=E2Y4_FG
+
+;0x8A7DEE6E=E2Y4_AA
+0x8A7DEE6E=E2Y4_AA
+
+;0x8CC2DC81=~z~I told you I was getting one of these.
+0x8CC2DC81=~z~I told you I was getting one of these.
+
+;0x8D0AECB1=~z~Check this out, a genuine LTA submarine train!
+0x8D0AECB1=~z~Check this out, a genuine LTA submarine train!
+
+;0x8D56DDA3=E2Y4_AMB
+0x8D56DDA3=E2Y4_AMB
+
+;0x8D72023E=~z~Get your gas masks on!
+0x8D72023E=~z~Get your gas masks on!
+
+;0x8DEE1BB1=~z~I'm crafting this whole thing with my bare hands.
+0x8DEE1BB1=~z~I'm crafting this whole thing with my bare hands.
+
+;0x8DEF33F6=SFX_PAUSE_300
+0x8DEF33F6=SFX_PAUSE_300
+
+;0x8F4889B4=010090100
+0x8F4889B4=010090100
+
+;0x8F640192=E2Y4_EG
+0x8F640192=E2Y4_EG
+
+;0x913758E3=~z~This is where you going to jump.
+0x913758E3=~z~This is where you going to jump.
+
+;0x920D090B=~z~Believe it, baby. Pinch yourself. You ain't dreaming. This is no film. The city is our playground, homie.
+0x920D090B=~z~Believe it, baby. Pinch yourself. You ain't dreaming. This is no film. The city is our playground, homie.
+
+;0x9320EF16=~z~What?
+0x9320EF16=~z~What?
+
+;0x93701027=SFX_PAUSE_190
+0x93701027=SFX_PAUSE_190
+
+;0x9457BA0C=E2Y4_FB
+0x9457BA0C=E2Y4_FB
+
+;0x94913CFF=E2Y4_FC
+0x94913CFF=E2Y4_FC
+
+;0x94FE3901=E2Y4_FA
+0x94FE3901=E2Y4_FA
+
+;0x9581D030=~z~I'll handle all the rest. Real simple, man.
+0x9581D030=~z~I'll handle all the rest. Real simple, man.
+
+;0x95B10F17=~z~But I thought you was busy building the pyramids?
+0x95B10F17=~z~But I thought you was busy building the pyramids?
+
+;0x97A2F4AE=106
+0x97A2F4AE=106
+
+;0x98019158=~z~Come on, man.
+0x98019158=~z~Come on, man.
+
+;0x983C99EB=E2Y4_AJA
+0x983C99EB=E2Y4_AJA
+
+;0x98AF2428=~z~Greatest heist in Liberty City history. Look at us, man! We're the biggest pimps in the city.
+0x98AF2428=~z~Greatest heist in Liberty City history. Look at us, man! We're the biggest pimps in the city.
+
+;0x98F29D63=~z~Fuck. That was close.
+0x98F29D63=~z~Fuck. That was close.
+
+;0x9B2CB2B7=~z~This is where the city's budget goes?
+0x9B2CB2B7=~z~This is where the city's budget goes?
+
+;0x9C09DC35=~z~Ahhhhhhhh.
+0x9C09DC35=~z~Ahhhhhhhh.
+
+;0x9C11F40E=~z~OK, done.
+0x9C11F40E=~z~OK, done.
+
+;0x9CACA128=E2Y4_DA
+0x9CACA128=E2Y4_DA
+
+;0x9D14A183=~z~He's got a bomb!
+0x9D14A183=~z~He's got a bomb!
+
+;0x9D2EFC2D=~z~Just get me on the fucking ground!
+0x9D2EFC2D=~z~Just get me on the fucking ground!
+
+;0x9DDBE759=~z~Asshole! What the fuck?
+0x9DDBE759=~z~Asshole! What the fuck?
+
+;0x9E16B86D=SFX_PAUSE_180
+0x9E16B86D=SFX_PAUSE_180
+
+;0x9EF9BDC8=~z~"The impossible dream. Priceless indulgence. Style by Yusuf Amir. A timeless classic. Timeless classic!"
+0x9EF9BDC8=~z~"The impossible dream. Priceless indulgence. Style by Yusuf Amir. A timeless classic. Timeless classic!"
+
+;0x9F728E81=SFX_PAUSE_460
+0x9F728E81=SFX_PAUSE_460
+
+;0x9FDF3E4A=~z~'Cause you fucking love this shit, homie. Ain't nothing like rolling with this Arabic bad boy.
+0x9FDF3E4A=~z~'Cause you fucking love this shit, homie. Ain't nothing like rolling with this Arabic bad boy.
+
+;0xA110DC46=~z~Okay, shit, if I do help you, what's the plan?
+0xA110DC46=~z~Okay, shit, if I do help you, what's the plan?
+
+;0xA2C878A5=~z~Nothing can go wrong.
+0xA2C878A5=~z~Nothing can go wrong.
+
+;0xA3EE25A2=~z~Violate this punk.
+0xA3EE25A2=~z~Violate this punk.
+
+;0xA4A59B57=010090100
+0xA4A59B57=010090100
+
+;0xA589E7D5=~z~I ain't.
+0xA589E7D5=~z~I ain't.
+
+;0xA595ABC5=E2Y4_EH
+0xA595ABC5=E2Y4_EH
+
+;0xA714B468=SFX_PAUSE_050
+0xA714B468=SFX_PAUSE_050
+
+;0xA79FEC09=~z~You fucking crazy, you know that?
+0xA79FEC09=~z~You fucking crazy, you know that?
+
+;0xA7F9AA04=~z~Excellent idea, my friend, but that will have to wait.
+0xA7F9AA04=~z~Excellent idea, my friend, but that will have to wait.
+
+;0xA947958A=~z~Get ready for liftoff, motherfucker.
+0xA947958A=~z~Get ready for liftoff, motherfucker.
+
+;0xA969BB0A=E2Y4_HF
+0xA969BB0A=E2Y4_HF
+
+;0xA9DB0A2E=~z~Here's where you board the train.
+0xA9DB0A2E=~z~Here's where you board the train.
+
+;0xAC18D457=~z~Disconnect the front car. Come on.
+0xAC18D457=~z~Disconnect the front car. Come on.
+
+;0xACB6F09E=SFX_PAUSE_200
+0xACB6F09E=SFX_PAUSE_200
+
+;0xACB71AFF=091
+0xACB71AFF=091
+
+;0xAE92A4F1=~z~People will write a bible about this shit in the future, baby.
+0xAE92A4F1=~z~People will write a bible about this shit in the future, baby.
+
+;0xAF054564=~z~Fucking terrorist!
+0xAF054564=~z~Fucking terrorist!
+
+;0xAFBC397D=~z~What you after this time, man?
+0xAFBC397D=~z~What you after this time, man?
+
+;0xAFFB067A=100
+0xAFFB067A=100
+
+;0xB00351F4=E2Y4_VB
+0xB00351F4=E2Y4_VB
+
+;0xB0B9E148=~z~Yeah, sounds perfect, man. Just what the people want right now. But...
+0xB0B9E148=~z~Yeah, sounds perfect, man. Just what the people want right now. But...
+
+;0xB0BE7E51=E2Y4_MA
+0xB0BE7E51=E2Y4_MA
+
+;0xB27497FC=~z~Shit, dude, you got attitude. Ease off with that thing.
+0xB27497FC=~z~Shit, dude, you got attitude. Ease off with that thing.
+
+;0xB277F3BA=E2Y4_CB
+0xB277F3BA=E2Y4_CB
+
+;0xB303C3BD=~z~Terrorist on the train!
+0xB303C3BD=~z~Terrorist on the train!
+
+;0xB34B87E3=SFX_PAUSE_270
+0xB34B87E3=SFX_PAUSE_270
+
+;0xB357E53B=~z~Dios Mio.
+0xB357E53B=~z~Dios Mio.
+
+;0xB3EF5344=E2Y4_AAA
+0xB3EF5344=E2Y4_AAA
+
+;0xB3F838EC=E2Y4_BE
+0xB3F838EC=E2Y4_BE
+
+;0xB48AF81E=~z~You heard me. A genuine Liberty City subway car.
+0xB48AF81E=~z~You heard me. A genuine Liberty City subway car.
+
+;0xB5287ACD=SFX_PAUSE_160
+0xB5287ACD=SFX_PAUSE_160
+
+;0xB5338964=SFX_OVERLAP_380
+0xB5338964=SFX_OVERLAP_380
+
+;0xB56186A7=SFX_PAUSE_270
+0xB56186A7=SFX_PAUSE_270
+
+;0xB573C93F=SFX_PAUSE_160
+0xB573C93F=SFX_PAUSE_160
+
+;0xB5B5FD4F=~z~Tell me you fucking see it - me and you riding in our very own subway train through a tunnel
+0xB5B5FD4F=~z~Tell me you fucking see it - me and you riding in our very own subway train through a tunnel
+
+;0xB5EE109D=202
+0xB5EE109D=202
+
+;0xB9F0670A=SFX_PAUSE_200
+0xB9F0670A=SFX_PAUSE_200
+
+;0xB9FD1C9E=~z~Fuck.
+0xB9FD1C9E=~z~Fuck.
+
+;0xBA0C2730=~z~Why do I struggle to believe that?
+0xBA0C2730=~z~Why do I struggle to believe that?
+
+;0xBA2D1BCE=E2Y4_ARA
+0xBA2D1BCE=E2Y4_ARA
+
+;0xBF664698=~z~What are you doing here?
+0xBF664698=~z~What are you doing here?
+
+;0xBF73FB0D=~z~Come on, man. Uncouple the front car.
+0xBF73FB0D=~z~Come on, man. Uncouple the front car.
+
+;0xBF7F62B3=~z~Yo, could you give me a ride to my helicopter? I could tell you something on the way.
+0xBF7F62B3=~z~Yo, could you give me a ride to my helicopter? I could tell you something on the way.
+
+;0xBFDEF843=E2Y4_GA
+0xBFDEF843=E2Y4_GA
+
+;0xC16E82B1=~z~It's going to be drowned in gold, y'know it's like, 'yo, yo, is that a diamond in your pocket or are you just pleased to see me', and shit.
+0xC16E82B1=~z~It's going to be drowned in gold, y'know it's like, 'yo, yo, is that a diamond in your pocket or are you just pleased to see me', and shit.
+
+;0xC1A52313=E2Y4_GD
+0xC1A52313=E2Y4_GD
+
+;0xC1C19D4B=~z~That's my boy! There's the reason you're my main hombre.
+0xC1C19D4B=~z~That's my boy! There's the reason you're my main hombre.
+
+;0xC229CD27=~z~You got some exercise plans for me, Yusuf?
+0xC229CD27=~z~You got some exercise plans for me, Yusuf?
+
+;0xC2F546BA=E2Y4_BD
+0xC2F546BA=E2Y4_BD
+
+;0xC3A9CABB=010010090100090010090100090010090100090010
+0xC3A9CABB=010010090100090010090100090010090100090010
+
+;0xC4DF8B20=E2Y4_GF
+0xC4DF8B20=E2Y4_GF
+
+;0xC5236E6C=300
+0xC5236E6C=300
+
+;0xC59E1AA2=E2Y4_KA
+0xC59E1AA2=E2Y4_KA
+
+;0xC5C0F076=~z~I can't believe I'm doing this.
+0xC5C0F076=~z~I can't believe I'm doing this.
+
+;0xC5F002FF=SFX_PAUSE_350
+0xC5F002FF=SFX_PAUSE_350
+
+;0xC7B9C390=E2Y4_WA
+0xC7B9C390=E2Y4_WA
+
+;0xC832BEFB=E2Y4_DF
+0xC832BEFB=E2Y4_DF
+
+;0xC8F1D124=~z~Get in position above the tracks, man. I'll see you soon.
+0xC8F1D124=~z~Get in position above the tracks, man. I'll see you soon.
+
+;0xC9D9C91F=SFX_PAUSE_320
+0xC9D9C91F=SFX_PAUSE_320
+
+;0xCA89BDB7=~z~Damn.
+0xCA89BDB7=~z~Damn.
+
+;0xCBE471D9=~z~Alright then. What we after?
+0xCBE471D9=~z~Alright then. What we after?
+
+;0xCBEAB572=E2Y4_GC
+0xCBEAB572=E2Y4_GC
+
+;0xCBFD95BE=SFX_PAUSE_330
+0xCBFD95BE=SFX_PAUSE_330
+
+;0xCC4579CC=E2Y4_BDA
+0xCC4579CC=E2Y4_BDA
+
+;0xCCC216EF=E2Y4_IB2
+0xCCC216EF=E2Y4_IB2
+
+;0xCD734A2B=E2Y4_BF
+0xCD734A2B=E2Y4_BF
+
+;0xCDD5B4EA=E2Y4_IA
+0xCDD5B4EA=E2Y4_IA
+
+;0xCE7A936E=091
+0xCE7A936E=091
+
+;0xCEE4DF5E=SFX_PAUSE_270
+0xCEE4DF5E=SFX_PAUSE_270
+
+;0xCF979208=SFX_PAUSE_150
+0xCF979208=SFX_PAUSE_150
+
+;0xCFBF02D4=E2Y4_KC
+0xCFBF02D4=E2Y4_KC
+
+;0xD1A6614A=~z~What the fuck, man? I got to go in.
+0xD1A6614A=~z~What the fuck, man? I got to go in.
+
+;0xD21207F7=E2Y4_ED
+0xD21207F7=E2Y4_ED
+
+;0xD2D56D76=~z~Yo, yo, yo. Easy, amigo. I'm just pleased to see you. Come on baby, give me some skin! Come on.
+0xD2D56D76=~z~Yo, yo, yo. Easy, amigo. I'm just pleased to see you. Come on baby, give me some skin! Come on.
+
+;0xD2E2D16A=~z~You treat all the commuters like this?
+0xD2E2D16A=~z~You treat all the commuters like this?
+
+;0xD2F389F7=~z~Arghhhhhh.
+0xD2F389F7=~z~Arghhhhhh.
+
+;0xD3272622=~z~Y'know the sales sheet's going to say,
+0xD3272622=~z~Y'know the sales sheet's going to say,
+
+;0xD3AED001=~z~Alright. Rrrrr.
+0xD3AED001=~z~Alright. Rrrrr.
+
+;0xD5D67E47=~z~What you want a subway train for?
+0xD5D67E47=~z~What you want a subway train for?
+
+;0xD62681F5=SFX_PAUSE_200
+0xD62681F5=SFX_PAUSE_200
+
+;0xD6901479=~z~I knew this day would come!
+0xD6901479=~z~I knew this day would come!
+
+;0xD722713F=~z~I'm here for you, baby.
+0xD722713F=~z~I'm here for you, baby.
+
+;0xD724ACD4=~z~We'll have a lounge on the moon by the time we're done. For real.
+0xD724ACD4=~z~We'll have a lounge on the moon by the time we're done. For real.
+
+;0xD730FE0E=010090100010090100100090100
+0xD730FE0E=010090100010090100100090100
+
+;0xD77DE690=E2Y4_AYA
+0xD77DE690=E2Y4_AYA
+
+;0xD793C9EB=E2Y4_ASA
+0xD793C9EB=E2Y4_ASA
+
+;0xD7C3E1FA=E2Y4_ACA
+0xD7C3E1FA=E2Y4_ACA
+
+;0xD7C52809=E2Y4_ID
+0xD7C52809=E2Y4_ID
+
+;0xD7D24B72=SFX_PAUSE_260
+0xD7D24B72=SFX_PAUSE_260
+
+;0xD866FF09=~z~Things have a tendency to get outta hand man. Maybe you could give me some more exploding shells for peace of mind.
+0xD866FF09=~z~Things have a tendency to get outta hand man. Maybe you could give me some more exploding shells for peace of mind.
+
+;0xD90012B3=SFX_PAUSE_210
+0xD90012B3=SFX_PAUSE_210
+
+;0xD9C67938=E2Y4_BB
+0xD9C67938=E2Y4_BB
+
+;0xD9DC487C=SFX_PAUSE_190
+0xD9DC487C=SFX_PAUSE_190
+
+;0xDAE8DA5B=100
+0xDAE8DA5B=100
+
+;0xDAED155F=SFX_PAUSE_260
+0xDAED155F=SFX_PAUSE_260
+
+;0xDBA6EDC9=E2Y4_TA
+0xDBA6EDC9=E2Y4_TA
+
+;0xDBF851B8=~z~Of course it is. I have this shit calculated to the hundredth decimal fucking point.
+0xDBF851B8=~z~Of course it is. I have this shit calculated to the hundredth decimal fucking point.
+
+;0xDC2E1611=~z~You're not taking our freedom!
+0xDC2E1611=~z~You're not taking our freedom!
+
+;0xDC6F1C9A=~z~All work and no play makes Yusuf a dull boy. Come on, baby, it'll be fun.
+0xDC6F1C9A=~z~All work and no play makes Yusuf a dull boy. Come on, baby, it'll be fun.
+
+;0xDCD53DB9=100090100090100090010090010
+0xDCD53DB9=100090100090100090010090010
+
+;0xDE265EF0=E2Y4_LB
+0xDE265EF0=E2Y4_LB
+
+;0xDFD53E31=E2Y4_EA
+0xDFD53E31=E2Y4_EA
+
+;0xE0062B89=~z~Motherfuck.
+0xE0062B89=~z~Motherfuck.
+
+;0xE03E85DE=100
+0xE03E85DE=100
+
+;0xE1AF7B07=SFX_PAUSE_130
+0xE1AF7B07=SFX_PAUSE_130
+
+;0xE470F6AE=010
+0xE470F6AE=010
+
+;0xE573DFAD=E2Y4_AEA
+0xE573DFAD=E2Y4_AEA
+
+;0xE5D0EBF1=E2Y4_ATA
+0xE5D0EBF1=E2Y4_ATA
+
+;0xE5EB4BAA=~z~I'm talking luxury on a whole new level.
+0xE5EB4BAA=~z~I'm talking luxury on a whole new level.
+
+;0xE64AA3B9=E2Y4_HE
+0xE64AA3B9=E2Y4_HE
+
+;0xE6BE7620=~z~Arrrghhh!
+0xE6BE7620=~z~Arrrghhh!
+
+;0xE6EA32E9=E2Y4_EF
+0xE6EA32E9=E2Y4_EF
+
+;0xE6F52B9F=~z~Get the terrorist!
+0xE6F52B9F=~z~Get the terrorist!
+
+;0xE7899D4E=~z~Hey, bro. Just in case you mind if I hit you for some of them exploding shells? Thanks, man.
+0xE7899D4E=~z~Hey, bro. Just in case you mind if I hit you for some of them exploding shells? Thanks, man.
+
+;0xE7A9DBD1=E2Y4_CA
+0xE7A9DBD1=E2Y4_CA
+
+;0xE859FC58=~z~You fucked with the wrong commuter.
+0xE859FC58=~z~You fucked with the wrong commuter.
+
+;0xEA3AAA1E=106
+0xEA3AAA1E=106
+
+;0xEA49549F=106
+0xEA49549F=106
+
+;0xEAC657EA=SFX_PAUSE_100
+0xEAC657EA=SFX_PAUSE_100
+
+;0xEC1B6E5A=E2Y4_FD
+0xEC1B6E5A=E2Y4_FD
+
+;0xED19F120=SFX_PAUSE_220
+0xED19F120=SFX_PAUSE_220
+
+;0xED43C0B8=SFX_PAUSE_160
+0xED43C0B8=SFX_PAUSE_160
+
+;0xED8BB253=E2Y4_AGA
+0xED8BB253=E2Y4_AGA
+
+;0xEDFE04F0=~z~Shit, actually, it's best that we go to the Algonquin Bridge first. The helicopter can wait.
+0xEDFE04F0=~z~Shit, actually, it's best that we go to the Algonquin Bridge first. The helicopter can wait.
+
+;0xEE964224=~z~If it's our playground, how come I'm the only one getting dirty? Shit.
+0xEE964224=~z~If it's our playground, how come I'm the only one getting dirty? Shit.
+
+;0xF0ED262D=SFX_PAUSE_300
+0xF0ED262D=SFX_PAUSE_300
+
+;0xF11281BE=E2Y4_RA
+0xF11281BE=E2Y4_RA
+
+;0xF1F1341E=100
+0xF1F1341E=100
+
+;0xF23336EC=~z~We're taking that shit out to the Gulf for a new Liberty City themed development out there.
+0xF23336EC=~z~We're taking that shit out to the Gulf for a new Liberty City themed development out there.
+
+;0xF2484BE9=~z~It's an attack!
+0xF2484BE9=~z~It's an attack!
+
+;0xF2A5BA80=E2Y4_AXA
+0xF2A5BA80=E2Y4_AXA
+
+;0xF48F4C7C=E2Y4_JA
+0xF48F4C7C=E2Y4_JA
+
+;0xF48F9D03=E2Y4_BH
+0xF48F9D03=E2Y4_BH
+
+;0xF5E694B9=~z~Not going to be easy, dog.
+0xF5E694B9=~z~Not going to be easy, dog.
+
+;0xF5F84A3D=E2Y4_EI
+0xF5F84A3D=E2Y4_EI
+
+;0xF69E360F=~z~How you feel about helping this Arabic sonofabitch steal himself an LTA subway car?
+0xF69E360F=~z~How you feel about helping this Arabic sonofabitch steal himself an LTA subway car?
+
+;0xF6C9D299=E2Y4_FF
+0xF6C9D299=E2Y4_FF
+
+;0xF7A0EF15=~z~This place going to be so expensive, people won't even be able to afford it.
+0xF7A0EF15=~z~This place going to be so expensive, people won't even be able to afford it.
+
+;0xF7A2B42B=E2Y4_ADA
+0xF7A2B42B=E2Y4_ADA
+
+;0xF9850E79=106
+0xF9850E79=106
+
+;0xF9D03B6B=~z~Epic, homie. This shit is epic.
+0xF9D03B6B=~z~Epic, homie. This shit is epic.
+
+;0xFA370963=106
+0xFA370963=106
+
+;0xFE64B1D9=100090010
+0xFE64B1D9=100090010
+
+;0xFF3BA76B=~z~Slight change of plan, I'll get the chopper later. Head out to the east side of the Algonquin Bridge, homie.
+0xFF3BA76B=~z~Slight change of plan, I'll get the chopper later. Head out to the east side of the Algonquin Bridge, homie.
+
+;0xFF760B81=~z~Get that shit going through a precious and delicate coral reef! Ah! Perfect.
+0xFF760B81=~z~Get that shit going through a precious and delicate coral reef! Ah! Perfect.
+
+;0xFFCADD4A=~z~Redact this asshole.
+0xFFCADD4A=~z~Redact this asshole.
+

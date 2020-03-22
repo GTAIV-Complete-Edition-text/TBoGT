@@ -1,0 +1,862 @@
+﻿[E2BCBAU]
+;0x0134E7A1=500
+0x0134E7A1=500
+
+;0x026D87DB=~z~Yo, it's Luis, I was thinking about you. And maybe we could hook up again.
+0x026D87DB=~z~Yo, it's Luis, I was thinking about you. And maybe we could hook up again.
+
+;0x037F6C49=E2BCB_DAA
+0x037F6C49=E2BCB_DAA
+
+;0x04D97585=~z~If you want it, you got it! I'll be right over.
+0x04D97585=~z~If you want it, you got it! I'll be right over.
+
+;0x059EF7D3=~z~Whatev'!
+0x059EF7D3=~z~Whatev'!
+
+;0x05EA7999=~z~You know, this would even be better if my friend joined us!
+0x05EA7999=~z~You know, this would even be better if my friend joined us!
+
+;0x0645200A=~z~Listen, I gotta go. Bye.
+0x0645200A=~z~Listen, I gotta go. Bye.
+
+;0x07B9D355=091
+0x07B9D355=091
+
+;0x092F597B=~z~Fair enough.
+0x092F597B=~z~Fair enough.
+
+;0x0B239259=~z~Hey!
+0x0B239259=~z~Hey!
+
+;0x0D3E2679=~z~I'm ready to move on I think. Sorry.
+0x0D3E2679=~z~I'm ready to move on I think. Sorry.
+
+;0x0D96098E=100
+0x0D96098E=100
+
+;0x0FAB917F=100
+0x0FAB917F=100
+
+;0x105B0C88=~z~I think I can help you out with that one, girl. I'll be at your place in a few.
+0x105B0C88=~z~I think I can help you out with that one, girl. I'll be at your place in a few.
+
+;0x10A02440=~z~Hey mami, it's Luis. You wanna do something?
+0x10A02440=~z~Hey mami, it's Luis. You wanna do something?
+
+;0x12196538=500
+0x12196538=500
+
+;0x16D674C9=~z~Hey, win some, lose some.
+0x16D674C9=~z~Hey, win some, lose some.
+
+;0x1800952E=100
+0x1800952E=100
+
+;0x1859C2CA=100
+0x1859C2CA=100
+
+;0x1B853C02=~z~Yo, it's Luis.
+0x1B853C02=~z~Yo, it's Luis.
+
+;0x1BEE1F24=~z~I don't have times for games Luis. Bye.
+0x1BEE1F24=~z~I don't have times for games Luis. Bye.
+
+;0x1BF47FA7=E2BCB_DDA
+0x1BF47FA7=E2BCB_DDA
+
+;0x1D5836C2=~z~Hi there!
+0x1D5836C2=~z~Hi there!
+
+;0x1DC17757=E2BCB_DEA
+0x1DC17757=E2BCB_DEA
+
+;0x1DC7B4C0=E2BCB_CXA
+0x1DC7B4C0=E2BCB_CXA
+
+;0x1EAA7AC3=100
+0x1EAA7AC3=100
+
+;0x207F0F9D=~z~Stay safe, okay?
+0x207F0F9D=~z~Stay safe, okay?
+
+;0x2086C079=~z~I've been thinking about you mami, you wanna give me another taste of that shit?
+0x2086C079=~z~I've been thinking about you mami, you wanna give me another taste of that shit?
+
+;0x215CF270=~z~Hi there.
+0x215CF270=~z~Hi there.
+
+;0x21D2AF77=~z~Yo, that could be fun. Put something nice on.
+0x21D2AF77=~z~Yo, that could be fun. Put something nice on.
+
+;0x22EC9AB5=~z~Feel like hookin' up?
+0x22EC9AB5=~z~Feel like hookin' up?
+
+;0x24A64C38=~z~O ye mami, I was thinking we should hook up.
+0x24A64C38=~z~O ye mami, I was thinking we should hook up.
+
+;0x24BCF72C=100
+0x24BCF72C=100
+
+;0x2534E27B=~z~Tell you what Luis, just lose my number.
+0x2534E27B=~z~Tell you what Luis, just lose my number.
+
+;0x253FC341=E2BCB_CAA
+0x253FC341=E2BCB_CAA
+
+;0x25A83298=~z~Just be real Luis. It's all I ask for.
+0x25A83298=~z~Just be real Luis. It's all I ask for.
+
+;0x26A94964=~z~Well hello there!
+0x26A94964=~z~Well hello there!
+
+;0x27FA4297=400
+0x27FA4297=400
+
+;0x286AD010=E2BCB_DVA
+0x286AD010=E2BCB_DVA
+
+;0x28EF274E=E2BCB_CFA
+0x28EF274E=E2BCB_CFA
+
+;0x28F04D65=~z~Alright, see you later some time.
+0x28F04D65=~z~Alright, see you later some time.
+
+;0x2AD84D0E=100
+0x2AD84D0E=100
+
+;0x2C69A55F=~z~Hi baby! What's up?
+0x2C69A55F=~z~Hi baby! What's up?
+
+;0x2CCE1259=~z~Oh, hi!
+0x2CCE1259=~z~Oh, hi!
+
+;0x2D8E00B2=E2BCL_CA
+0x2D8E00B2=E2BCL_CA
+
+;0x2DD15EA2=~z~You remember this voice nena? Why don't we get together.
+0x2DD15EA2=~z~You remember this voice nena? Why don't we get together.
+
+;0x2DD77965=100
+0x2DD77965=100
+
+;0x2FF31D75=~z~Hey, it's me. I'm kind of bored right now.
+0x2FF31D75=~z~Hey, it's me. I'm kind of bored right now.
+
+;0x2FF5B97C=100
+0x2FF5B97C=100
+
+;0x302F635E=~z~Hola mami, remember me? I was thinking we could have some fun.
+0x302F635E=~z~Hola mami, remember me? I was thinking we could have some fun.
+
+;0x30700008=~z~Hi Luis, I've been waiting for you baby.
+0x30700008=~z~Hi Luis, I've been waiting for you baby.
+
+;0x30E99185=~z~Hi darling, how are you?
+0x30E99185=~z~Hi darling, how are you?
+
+;0x32424F6A=~z~Yeah, sounds kind of fun, I'm there.
+0x32424F6A=~z~Yeah, sounds kind of fun, I'm there.
+
+;0x33440B5B=E2BCB_CBA
+0x33440B5B=E2BCB_CBA
+
+;0x33ED1F2E=E2BCB_CSA
+0x33ED1F2E=E2BCB_CSA
+
+;0x33F30A5B=~z~I can't right now.
+0x33F30A5B=~z~I can't right now.
+
+;0x34585222=~z~Ok if my friend joins the party?
+0x34585222=~z~Ok if my friend joins the party?
+
+;0x366A6703=E2BCB_DZA
+0x366A6703=E2BCB_DZA
+
+;0x36D8E936=~z~Whatever darling!
+0x36D8E936=~z~Whatever darling!
+
+;0x3750AF71=~z~Come on in, you sexy Lat man.
+0x3750AF71=~z~Come on in, you sexy Lat man.
+
+;0x376B15CE=~z~Get in here.
+0x376B15CE=~z~Get in here.
+
+;0x387EF66D=E2BCB_CIA
+0x387EF66D=E2BCB_CIA
+
+;0x38B35BC7=~z~Papi, it's me. I've been thinking about you.
+0x38B35BC7=~z~Papi, it's me. I've been thinking about you.
+
+;0x38F7FE53=100
+0x38F7FE53=100
+
+;0x399FD8AF=E2BCB_DKA
+0x399FD8AF=E2BCB_DKA
+
+;0x39B5CAB7=E2BCB_CJA
+0x39B5CAB7=E2BCB_CJA
+
+;0x39FBD93A=100
+0x39FBD93A=100
+
+;0x3A1D31C9=~z~Hi! You doing anything?
+0x3A1D31C9=~z~Hi! You doing anything?
+
+;0x3A3A6042=~z~Put on something sexy.
+0x3A3A6042=~z~Put on something sexy.
+
+;0x3A52D53F=E2BCB_CQA
+0x3A52D53F=E2BCB_CQA
+
+;0x3B33F279=100
+0x3B33F279=100
+
+;0x3B97D23B=E2BCB_CZA
+0x3B97D23B=E2BCB_CZA
+
+;0x3CCC6DA0=E2BCB_CYA
+0x3CCC6DA0=E2BCB_CYA
+
+;0x3D62F1A3=~z~Sounds like fun!
+0x3D62F1A3=~z~Sounds like fun!
+
+;0x3DD6C839=~z~I know who this is. Hi.
+0x3DD6C839=~z~I know who this is. Hi.
+
+;0x3EE2B682=~z~Hello, you!
+0x3EE2B682=~z~Hello, you!
+
+;0x3F462101=~z~Oh bad timing, can't do it. Sorry!
+0x3F462101=~z~Oh bad timing, can't do it. Sorry!
+
+;0x421F6CC3=200
+0x421F6CC3=200
+
+;0x445A74E1=~z~Hey baby, you got a minute for some fun?
+0x445A74E1=~z~Hey baby, you got a minute for some fun?
+
+;0x4794850F=100
+0x4794850F=100
+
+;0x4851479B=100
+0x4851479B=100
+
+;0x48A970E0=~z~I ain't gonna be able to accommodate you right now. Call me later.
+0x48A970E0=~z~I ain't gonna be able to accommodate you right now. Call me later.
+
+;0x4A24FEAA=~z~Hola Papi, remember me?
+0x4A24FEAA=~z~Hola Papi, remember me?
+
+;0x4A7ACED0=100
+0x4A7ACED0=100
+
+;0x4AF72779=090
+0x4AF72779=090
+
+;0x4C4987B6=E2BCB_DJA
+0x4C4987B6=E2BCB_DJA
+
+;0x4E80597B=~z~See you later hot shot.
+0x4E80597B=~z~See you later hot shot.
+
+;0x4EB73C96=~z~Come on up baby!
+0x4EB73C96=~z~Come on up baby!
+
+;0x4EED7341=E2BCL_AA
+0x4EED7341=E2BCL_AA
+
+;0x4FFC6C84=~z~Hello baby! Good to hear from you.
+0x4FFC6C84=~z~Hello baby! Good to hear from you.
+
+;0x50F5770A=100
+0x50F5770A=100
+
+;0x52BD5344=E2BCB_DUA
+0x52BD5344=E2BCB_DUA
+
+;0x52D1397C=~z~Man, I hate this city!
+0x52D1397C=~z~Man, I hate this city!
+
+;0x5310F4C0=~z~Fair enough, you have fun.
+0x5310F4C0=~z~Fair enough, you have fun.
+
+;0x534379DC=100
+0x534379DC=100
+
+;0x54585862=~z~Well, hello.
+0x54585862=~z~Well, hello.
+
+;0x546EDE6D=~z~Why not? We only live once!
+0x546EDE6D=~z~Why not? We only live once!
+
+;0x54A77F42=E2BCL_GA
+0x54A77F42=E2BCL_GA
+
+;0x55E100A1=~z~Wanna meet me for some fun?
+0x55E100A1=~z~Wanna meet me for some fun?
+
+;0x58F529CB=E2BCB_CKA
+0x58F529CB=E2BCB_CKA
+
+;0x5BB1BAF6=100
+0x5BB1BAF6=100
+
+;0x5C59BD28=~z~Minha, I'm sorry, but I'm afraid this ain't gonna work out.
+0x5C59BD28=~z~Minha, I'm sorry, but I'm afraid this ain't gonna work out.
+
+;0x5C64D63E=~z~I need a big strong man to snuggle up to. You available?
+0x5C64D63E=~z~I need a big strong man to snuggle up to. You available?
+
+;0x5E739C74=~z~Cono, shit, um...now? I can't, sorry!
+0x5E739C74=~z~Cono, shit, um...now? I can't, sorry!
+
+;0x5FD9E2DA=~z~I think you're just using me baby. I don't like that. Don't call me again.
+0x5FD9E2DA=~z~I think you're just using me baby. I don't like that. Don't call me again.
+
+;0x5FE694AD=~z~Hey, either I don't like you or I'm busy. Try me again later to find out.
+0x5FE694AD=~z~Hey, either I don't like you or I'm busy. Try me again later to find out.
+
+;0x611190B5=~z~It's okay, we all gotta do our own thing.
+0x611190B5=~z~It's okay, we all gotta do our own thing.
+
+;0x62DD0B23=E2BCL_EA
+0x62DD0B23=E2BCL_EA
+
+;0x62F8396E=E2BCB_DXA
+0x62F8396E=E2BCB_DXA
+
+;0x6473BD3D=E2BCB_DYA
+0x6473BD3D=E2BCB_DYA
+
+;0x6619D4BA=090
+0x6619D4BA=090
+
+;0x679204AF=~z~Get your butt in here handsome.
+0x679204AF=~z~Get your butt in here handsome.
+
+;0x68034A31=E2BCB_CEA
+0x68034A31=E2BCB_CEA
+
+;0x699AFA90=100
+0x699AFA90=100
+
+;0x69AF3196=~z~Well. Ok!
+0x69AF3196=~z~Well. Ok!
+
+;0x69D05897=~z~You ready for me, mami?
+0x69D05897=~z~You ready for me, mami?
+
+;0x6A046275=100
+0x6A046275=100
+
+;0x6ABC2AA7=~z~Ok, we're both adults. Do you. Whatever.
+0x6ABC2AA7=~z~Ok, we're both adults. Do you. Whatever.
+
+;0x6D88FB03=E2BCL_BA
+0x6D88FB03=E2BCL_BA
+
+;0x6DC13B0F=~z~I'd love to, but I've got stuff to handle. Put that shit, on ice for me.
+0x6DC13B0F=~z~I'd love to, but I've got stuff to handle. Put that shit, on ice for me.
+
+;0x6F77289D=~z~Come on in darling!
+0x6F77289D=~z~Come on in darling!
+
+;0x7043C9F8=~z~More the merrier, you win.
+0x7043C9F8=~z~More the merrier, you win.
+
+;0x70A6CCD2=~z~Leave me a message darling and I get right back to you.
+0x70A6CCD2=~z~Leave me a message darling and I get right back to you.
+
+;0x73F0C76A=~z~Sorry, mami. I'm real busy right now.
+0x73F0C76A=~z~Sorry, mami. I'm real busy right now.
+
+;0x74283D2F=~z~You free for a little more partying?
+0x74283D2F=~z~You free for a little more partying?
+
+;0x7526D915=E2BCB_DHA
+0x7526D915=E2BCB_DHA
+
+;0x76373D26=100
+0x76373D26=100
+
+;0x7661981F=E2BCB_CNA
+0x7661981F=E2BCB_CNA
+
+;0x779ABDC7=~z~Hey, that's cool, things weren't gonna work out anyway.
+0x779ABDC7=~z~Hey, that's cool, things weren't gonna work out anyway.
+
+;0x79E6D205=~z~Let's do it, I'm feeling dirty.
+0x79E6D205=~z~Let's do it, I'm feeling dirty.
+
+;0x7AFE36E7=~z~Hi darling, do you want to see me?
+0x7AFE36E7=~z~Hi darling, do you want to see me?
+
+;0x7B6AFBCC=~z~You're gonna open the door, chula?
+0x7B6AFBCC=~z~You're gonna open the door, chula?
+
+;0x7CDF665A=~z~Forget it! Bye.
+0x7CDF665A=~z~Forget it! Bye.
+
+;0x7E2D9D61=~z~Hi y'all! I'm not here. Drop one on me.
+0x7E2D9D61=~z~Hi y'all! I'm not here. Drop one on me.
+
+;0x80263428=100
+0x80263428=100
+
+;0x80ED564F=~z~Not today.
+0x80ED564F=~z~Not today.
+
+;0x8100FD6D=100
+0x8100FD6D=100
+
+;0x822763D7=~z~I got shit going on, mami. I'm sorry.
+0x822763D7=~z~I got shit going on, mami. I'm sorry.
+
+;0x8231059E=~z~Papi, I would love to see you again!
+0x8231059E=~z~Papi, I would love to see you again!
+
+;0x82500996=~z~Let me up.
+0x82500996=~z~Let me up.
+
+;0x8280648D=~z~I'm sorry gorgeaous, I'd love to but I can't.
+0x8280648D=~z~I'm sorry gorgeaous, I'd love to but I can't.
+
+;0x82ACCF08=~z~I'm waiting for you darling!
+0x82ACCF08=~z~I'm waiting for you darling!
+
+;0x8420C9E0=~z~You can't dump me. I'm gonna be a star.
+0x8420C9E0=~z~You can't dump me. I'm gonna be a star.
+
+;0x84325A43=E2BCB_CTA
+0x84325A43=E2BCB_CTA
+
+;0x874E7D7D=E2BCB_CUA
+0x874E7D7D=E2BCB_CUA
+
+;0x8760D9C2=~z~Whatever Luis. Nice knowing you.
+0x8760D9C2=~z~Whatever Luis. Nice knowing you.
+
+;0x87D05E32=~z~And I was just about to call you and tell you I loved you. You broke my poor heart.
+0x87D05E32=~z~And I was just about to call you and tell you I loved you. You broke my poor heart.
+
+;0x8829CF5F=100
+0x8829CF5F=100
+
+;0x889CD224=~z~Remember me darling? Do you want to meet up?
+0x889CD224=~z~Remember me darling? Do you want to meet up?
+
+;0x8979DE88=~z~You're way down the priority list right now darling.
+0x8979DE88=~z~You're way down the priority list right now darling.
+
+;0x8A2BDE77=~z~Hi there, it's you know who. You know what to do.
+0x8A2BDE77=~z~Hi there, it's you know who. You know what to do.
+
+;0x8AEC3233=E2BCB_DCA
+0x8AEC3233=E2BCB_DCA
+
+;0x8B726939=100
+0x8B726939=100
+
+;0x8C68364C=~z~I've been thinking about you baby. You wanna hook up?
+0x8C68364C=~z~I've been thinking about you baby. You wanna hook up?
+
+;0x8F35F2E0=~z~Not feelin' the vibe.
+0x8F35F2E0=~z~Not feelin' the vibe.
+
+;0x8F6F19F3=E2BCB_EAA
+0x8F6F19F3=E2BCB_EAA
+
+;0x8F849C9F=E2BCB_COA
+0x8F849C9F=E2BCB_COA
+
+;0x903524DE=~z~It was fun hanging with you, but I'm afraid this is it.
+0x903524DE=~z~It was fun hanging with you, but I'm afraid this is it.
+
+;0x90628C99=~z~You better be ready for this shit!
+0x90628C99=~z~You better be ready for this shit!
+
+;0x90FD6207=~z~Hope you don't mind if I bring a friend.
+0x90FD6207=~z~Hope you don't mind if I bring a friend.
+
+;0x915D8973=E2BCB_DLA
+0x915D8973=E2BCB_DLA
+
+;0x94C6891D=~z~O ye, now ain't good for me, another time, okay?
+0x94C6891D=~z~O ye, now ain't good for me, another time, okay?
+
+;0x94E40F7A=100
+0x94E40F7A=100
+
+;0x97507A35=~z~Sorry, this is a bad time of the month for me.
+0x97507A35=~z~Sorry, this is a bad time of the month for me.
+
+;0x99556F24=~z~Don't be a stranger now.
+0x99556F24=~z~Don't be a stranger now.
+
+;0x997496F3=E2BCB_CPA
+0x997496F3=E2BCB_CPA
+
+;0x9AE20236=~z~Can't wait to see you!
+0x9AE20236=~z~Can't wait to see you!
+
+;0x9C482630=E2BCB_DFA
+0x9C482630=E2BCB_DFA
+
+;0x9D71E779=100
+0x9D71E779=100
+
+;0x9F592149=100
+0x9F592149=100
+
+;0xA1282E24=~z~I'm on my way.
+0xA1282E24=~z~I'm on my way.
+
+;0xA1B4D85A=E2BCB_CHA
+0xA1B4D85A=E2BCB_CHA
+
+;0xA398FFED=~z~Hi there!
+0xA398FFED=~z~Hi there!
+
+;0xA48885CC=100
+0xA48885CC=100
+
+;0xA5802A90=~z~Sorry babe, I got a lot going on. Another time.
+0xA5802A90=~z~Sorry babe, I got a lot going on. Another time.
+
+;0xA5D0861C=300
+0xA5D0861C=300
+
+;0xA5D8182E=~z~I'm all yours lover boy!
+0xA5D8182E=~z~I'm all yours lover boy!
+
+;0xA63D046D=~z~I can't wait to see you. I'll wear something nice.
+0xA63D046D=~z~I can't wait to see you. I'll wear something nice.
+
+;0xA64713AC=~z~Lovin' the twenty first century.
+0xA64713AC=~z~Lovin' the twenty first century.
+
+;0xA6497389=~z~Yey! Come on in!
+0xA6497389=~z~Yey! Come on in!
+
+;0xA6AB136C=100
+0xA6AB136C=100
+
+;0xA7E37A4B=E2BCB_DMA
+0xA7E37A4B=E2BCB_DMA
+
+;0xA8316DDE=~z~Hey, baby, you busy?
+0xA8316DDE=~z~Hey, baby, you busy?
+
+;0xA92E0CDC=~z~I like hearing your voice baby. See you soon.
+0xA92E0CDC=~z~I like hearing your voice baby. See you soon.
+
+;0xA975EB75=E2BCB_DGA
+0xA975EB75=E2BCB_DGA
+
+;0xAAF2952B=090
+0xAAF2952B=090
+
+;0xAB12886C=400
+0xAB12886C=400
+
+;0xAB4A20B3=~z~You better remember my voice, call me.
+0xAB4A20B3=~z~You better remember my voice, call me.
+
+;0xAD187641=E2BCB_DBA
+0xAD187641=E2BCB_DBA
+
+;0xADE1B746=100
+0xADE1B746=100
+
+;0xADE89952=~z~So glad you picked up, I need to be picked up!
+0xADE89952=~z~So glad you picked up, I need to be picked up!
+
+;0xADFBBC25=100
+0xADFBBC25=100
+
+;0xAEE6239E=100
+0xAEE6239E=100
+
+;0xAFA45910=~z~It's me. I'm bored of this now darling, have a good life.
+0xAFA45910=~z~It's me. I'm bored of this now darling, have a good life.
+
+;0xB05FF3B2=~z~See ya, never.
+0xB05FF3B2=~z~See ya, never.
+
+;0xB0B9D322=E2BCB_EFA
+0xB0B9D322=E2BCB_EFA
+
+;0xB18F6814=~z~Ready for this baby?
+0xB18F6814=~z~Ready for this baby?
+
+;0xB1A42FBA=~z~You know I'm there, wherever.
+0xB1A42FBA=~z~You know I'm there, wherever.
+
+;0xB22E1E90=~z~We're done, loser.
+0xB22E1E90=~z~We're done, loser.
+
+;0xB2B168FC=~z~Yo, I was just passing by.
+0xB2B168FC=~z~Yo, I was just passing by.
+
+;0xB3A28AAC=E2BCB_CDA
+0xB3A28AAC=E2BCB_CDA
+
+;0xB5232734=100
+0xB5232734=100
+
+;0xB6002680=~z~Ok baby. You're my type of guy, you know that?
+0xB6002680=~z~Ok baby. You're my type of guy, you know that?
+
+;0xB655AD8D=~z~Hey darling, do you want to have some fun?
+0xB655AD8D=~z~Hey darling, do you want to have some fun?
+
+;0xB7020192=~z~Cooly, I'll be waiting.
+0xB7020192=~z~Cooly, I'll be waiting.
+
+;0xB78CBB4E=100
+0xB78CBB4E=100
+
+;0xB87530C3=090
+0xB87530C3=090
+
+;0xB9E00265=E2BCB_CLA
+0xB9E00265=E2BCB_CLA
+
+;0xBA1B4960=~z~Oh, you have plans eh? I see. Whatever.
+0xBA1B4960=~z~Oh, you have plans eh? I see. Whatever.
+
+;0xBBA6D6D6=100
+0xBBA6D6D6=100
+
+;0xBD7574B2=~z~Darling, it was fun but I'm done slumming it. Don't call me again.
+0xBD7574B2=~z~Darling, it was fun but I'm done slumming it. Don't call me again.
+
+;0xBD9D4245=E2BCB_CRA
+0xBD9D4245=E2BCB_CRA
+
+;0xBE9368FA=~z~Don't go nowhere.
+0xBE9368FA=~z~Don't go nowhere.
+
+;0xBEADA76E=100
+0xBEADA76E=100
+
+;0xBFD67F41=E2BCB_DWA
+0xBFD67F41=E2BCB_DWA
+
+;0xBFDE7717=E2BCB_CCA
+0xBFDE7717=E2BCB_CCA
+
+;0xC0BACDBB=E2BCB_DOA
+0xC0BACDBB=E2BCB_DOA
+
+;0xC2363F5A=E2BCB_DPA
+0xC2363F5A=E2BCB_DPA
+
+;0xC27F7BED=090
+0xC27F7BED=090
+
+;0xC3648B3C=~z~Hey, gorgeous, you're gonna have to fogive me, but I ain't the relationship type.
+0xC3648B3C=~z~Hey, gorgeous, you're gonna have to fogive me, but I ain't the relationship type.
+
+;0xC3DD2E17=300
+0xC3DD2E17=300
+
+;0xC7BFCF8B=~z~You know what I always say, two's fun, three is a party.
+0xC7BFCF8B=~z~You know what I always say, two's fun, three is a party.
+
+;0xC86D15D3=~z~I'm here minha.
+0xC86D15D3=~z~I'm here minha.
+
+;0xC9E78E41=~z~Papi, wouldn't another girl be twice as fun?
+0xC9E78E41=~z~Papi, wouldn't another girl be twice as fun?
+
+;0xCA2F0DEC=100
+0xCA2F0DEC=100
+
+;0xCBCB87D8=E2BCB_CWA
+0xCBCB87D8=E2BCB_CWA
+
+;0xCCB71C5B=~z~What you doin' right now?
+0xCCB71C5B=~z~What you doin' right now?
+
+;0xCD8A0261=100
+0xCD8A0261=100
+
+;0xCDB3C635=~z~I don't know baby. I don't think I'm in to it right now.
+0xCDB3C635=~z~I don't know baby. I don't think I'm in to it right now.
+
+;0xCDD59286=~z~I'll be there!
+0xCDD59286=~z~I'll be there!
+
+;0xCE1CA848=E2BCB_DQA
+0xCE1CA848=E2BCB_DQA
+
+;0xCF2F214B=~z~O ye, you been thinking about me as much as I've been thinking about you?
+0xCF2F214B=~z~O ye, you been thinking about me as much as I've been thinking about you?
+
+;0xCF56D43B=~z~That sounds like fun!
+0xCF56D43B=~z~That sounds like fun!
+
+;0xCFD56D6D=100
+0xCFD56D6D=100
+
+;0xCFFD45B9=E2BCB_DRA
+0xCFFD45B9=E2BCB_DRA
+
+;0xD01168D2=100
+0xD01168D2=100
+
+;0xD1C2B70F=~z~Coolio, see you soon!
+0xD1C2B70F=~z~Coolio, see you soon!
+
+;0xD1E6D95B=~z~Come on in tiger.
+0xD1E6D95B=~z~Come on in tiger.
+
+;0xD277B4C7=~z~Fuck you. Fuck you in the ass!
+0xD277B4C7=~z~Fuck you. Fuck you in the ass!
+
+;0xD2D7D487=E2BCB_DTA
+0xD2D7D487=E2BCB_DTA
+
+;0xD3B9473F=090
+0xD3B9473F=090
+
+;0xD632B15E=~z~Oye, mami. E Luis.
+0xD632B15E=~z~Oye, mami. E Luis.
+
+;0xD76E1AAF=~z~You been thinking about me, huh? I'll come around.
+0xD76E1AAF=~z~You been thinking about me, huh? I'll come around.
+
+;0xD8D75D50=~z~I was done with you anyway darling.
+0xD8D75D50=~z~I was done with you anyway darling.
+
+;0xD9E3E955=~z~I'd love to!
+0xD9E3E955=~z~I'd love to!
+
+;0xDB78C73A=100
+0xDB78C73A=100
+
+;0xDCC0644E=~z~I'm not that easy baby. Try me some other time.
+0xDCC0644E=~z~I'm not that easy baby. Try me some other time.
+
+;0xDF74435B=~z~Yeah, so it's been fun, and that's all it's gonna be. See you around.
+0xDF74435B=~z~Yeah, so it's been fun, and that's all it's gonna be. See you around.
+
+;0xDF79BF0C=200
+0xDF79BF0C=200
+
+;0xE0B4B844=~z~And I thought this was going to be a boring couple of days!
+0xE0B4B844=~z~And I thought this was going to be a boring couple of days!
+
+;0xE4902FF7=~z~Papi! I've missed you so much.
+0xE4902FF7=~z~Papi! I've missed you so much.
+
+;0xE4AED935=~z~You asshole. After what I let you do to me?
+0xE4AED935=~z~You asshole. After what I let you do to me?
+
+;0xE4E5C303=~z~I'm somewhere in the multiverse. Leave a message.
+0xE4E5C303=~z~I'm somewhere in the multiverse. Leave a message.
+
+;0xE6AB42C3=100
+0xE6AB42C3=100
+
+;0xE6ECB8C7=E2BCB_CMA
+0xE6ECB8C7=E2BCB_CMA
+
+;0xE7813964=~z~Hey, Papi. You miss me? I missed you.
+0xE7813964=~z~Hey, Papi. You miss me? I missed you.
+
+;0xE83FBC52=~z~I'll be over soon, mami.
+0xE83FBC52=~z~I'll be over soon, mami.
+
+;0xE879874E=E2BCB_EGA
+0xE879874E=E2BCB_EGA
+
+;0xEAFC2537=100
+0xEAFC2537=100
+
+;0xEB539C3F=~z~Hope you're ready to put it on me baby!
+0xEB539C3F=~z~Hope you're ready to put it on me baby!
+
+;0xEB96BE0C=~z~Hola sexy, what's good?
+0xEB96BE0C=~z~Hola sexy, what's good?
+
+;0xEBF05ACD=~z~You better be home, mami. Because I want you. Now!
+0xEBF05ACD=~z~You better be home, mami. Because I want you. Now!
+
+;0xEE78DE2C=~z~Promise me you'll speak Spanish to me?
+0xEE78DE2C=~z~Promise me you'll speak Spanish to me?
+
+;0xEEBCD7CB=E2BCB_DIA
+0xEEBCD7CB=E2BCB_DIA
+
+;0xEF8F701D=100
+0xEF8F701D=100
+
+;0xF0BCE2B4=~z~Yes Papi, I really need to unwind.
+0xF0BCE2B4=~z~Yes Papi, I really need to unwind.
+
+;0xF14FE468=E2BCL_FA
+0xF14FE468=E2BCL_FA
+
+;0xF1810977=E2BCB_DNA
+0xF1810977=E2BCB_DNA
+
+;0xF1F89BE7=~z~I'm hot just thinking about you, see you soon.
+0xF1F89BE7=~z~I'm hot just thinking about you, see you soon.
+
+;0xF2EEF8EB=~z~Later for you.
+0xF2EEF8EB=~z~Later for you.
+
+;0xF4FEC82F=~z~Sure, let's hook up.
+0xF4FEC82F=~z~Sure, let's hook up.
+
+;0xF5936F99=~z~Hey sorry, chula, but I've too much going on for a relationship right now.
+0xF5936F99=~z~Hey sorry, chula, but I've too much going on for a relationship right now.
+
+;0xF68C216E=100
+0xF68C216E=100
+
+;0xF696945C=E2BCB_DSA
+0xF696945C=E2BCB_DSA
+
+;0xF6F4B381=~z~Can't wait to see you! Bye Papi!
+0xF6F4B381=~z~Can't wait to see you! Bye Papi!
+
+;0xF8416AF4=~z~You openminded? How about a threesome Papi?
+0xF8416AF4=~z~You openminded? How about a threesome Papi?
+
+;0xF8FFDFC4=~z~I've got a friend who knows a lot of stuff.
+0xF8FFDFC4=~z~I've got a friend who knows a lot of stuff.
+
+;0xF9DD337D=E2BCL_DA
+0xF9DD337D=E2BCL_DA
+
+;0xFA967A25=~z~E mio.
+0xFA967A25=~z~E mio.
+
+;0xFCB30CE6=~z~Yeah, whatever. Bye.
+0xFCB30CE6=~z~Yeah, whatever. Bye.
+
+;0xFCD5914F=E2BCB_CVA
+0xFCD5914F=E2BCB_CVA
+
+;0xFCDC5C17=100
+0xFCDC5C17=100
+
+;0xFD34BB2A=~z~Papi! Come on in!
+0xFD34BB2A=~z~Papi! Come on in!
+
+;0xFDC2FE72=~z~Baby, the things I've been thinking about doing to you...
+0xFDC2FE72=~z~Baby, the things I've been thinking about doing to you...
+
+;0xFDCB67C4=~z~I got a cool idea.
+0xFDCB67C4=~z~I got a cool idea.
+
+;0xFE6301BE=~z~Oye mami, I'm here.
+0xFE6301BE=~z~Oye mami, I'm here.
+
+;0xFEC7D862=E2BCB_CGA
+0xFEC7D862=E2BCB_CGA
+

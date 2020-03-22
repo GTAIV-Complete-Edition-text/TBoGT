@@ -1,0 +1,514 @@
+﻿[E2Tm4AU]
+;0x00E2C60A=E2Tm4_VA
+0x00E2C60A=E2Tm4_VA
+
+;0x02771901=SFX_PAUSE_300
+0x02771901=SFX_PAUSE_300
+
+;0x06BBF51B=~z~I hope your camera ain't ruined.
+0x06BBF51B=~z~I hope your camera ain't ruined.
+
+;0x07B6C81D=~z~It's boring as shit, if you ask me. All those stuck up neurotic models- you can smell puke in the elevators.
+0x07B6C81D=~z~It's boring as shit, if you ask me. All those stuck up neurotic models- you can smell puke in the elevators.
+
+;0x07FA0742=E2Tm1_IA
+0x07FA0742=E2Tm1_IA
+
+;0x0A7691B2=~z~Okay, boss. Anyone asks, I ain't seen you.
+0x0A7691B2=~z~Okay, boss. Anyone asks, I ain't seen you.
+
+;0x0BABC844=~z~I had really good time the other day, but it was a one shot deal. I've got a lot on my plate at the moment.
+0x0BABC844=~z~I had really good time the other day, but it was a one shot deal. I've got a lot on my plate at the moment.
+
+;0x0C6FD5F5=~z~This thing ain't happening, D . We ran into an issue.
+0x0C6FD5F5=~z~This thing ain't happening, D . We ran into an issue.
+
+;0x126C7A05=090
+0x126C7A05=090
+
+;0x12DCF845=E2Tm4_ACA
+0x12DCF845=E2Tm4_ACA
+
+;0x13C09D3C=~z~That sounds like a plan, D. There should be a truck at the Northwood Station. I'll go up there.
+0x13C09D3C=~z~That sounds like a plan, D. There should be a truck at the Northwood Station. I'll go up there.
+
+;0x15589F77=SFX_PAUSE_170
+0x15589F77=SFX_PAUSE_170
+
+;0x177E422C=~z~Boss, if you spray these dudes with the water cannon on a fire truck, it won't look like we compromising their rights.
+0x177E422C=~z~Boss, if you spray these dudes with the water cannon on a fire truck, it won't look like we compromising their rights.
+
+;0x1A24372B=E2Tm1_GB
+0x1A24372B=E2Tm1_GB
+
+;0x1AAD0CE9=~z~These streets have never looked so clean, boss.
+0x1AAD0CE9=~z~These streets have never looked so clean, boss.
+
+;0x1C146858=SFX_PAUSE_250
+0x1C146858=SFX_PAUSE_250
+
+;0x1CAC52F8=~z~Damn, boss. Why'd you get like that. We gonna be all over the news for violent behaviour.
+0x1CAC52F8=~z~Damn, boss. Why'd you get like that. We gonna be all over the news for violent behaviour.
+
+;0x1DE72FB4=E2Tm1_FA
+0x1DE72FB4=E2Tm1_FA
+
+;0x1FC6B7AC=020090200090020200090020090200
+0x1FC6B7AC=020090200090020200090020090200
+
+;0x21A325B6=SFX_PAUSE_150
+0x21A325B6=SFX_PAUSE_150
+
+;0x25BA2F84=E2Tm4_VC
+0x25BA2F84=E2Tm4_VC
+
+;0x25C70CEA=020090200090020200090200
+0x25C70CEA=020090200090020200090200
+
+;0x293F836F=~z~Oh yeah?
+0x293F836F=~z~Oh yeah?
+
+;0x2CA821E7=090
+0x2CA821E7=090
+
+;0x2DB85835=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+0x2DB85835=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+
+;0x32DB96A3=~z~Yeah. I'm like a fucking circus pony. The only way to get to the top in this business is on your back. Sad, but true.
+0x32DB96A3=~z~Yeah. I'm like a fucking circus pony. The only way to get to the top in this business is on your back. Sad, but true.
+
+;0x33D9DFE2=SFX_PAUSE_270
+0x33D9DFE2=SFX_PAUSE_270
+
+;0x33E541B2=E2Tm4_VE
+0x33E541B2=E2Tm4_VE
+
+;0x3555C76B=E2Tm4_LA
+0x3555C76B=E2Tm4_LA
+
+;0x37849EE8=E2Tm4_ZA
+0x37849EE8=E2Tm4_ZA
+
+;0x394C5CE6=020090200
+0x394C5CE6=020090200
+
+;0x39C0679C=E2Tm4_MA
+0x39C0679C=E2Tm4_MA
+
+;0x3B32C812=~z~Here you go, Pop. The HOLE.
+0x3B32C812=~z~Here you go, Pop. The HOLE.
+
+;0x401FADDE=E2Tm4_ZB
+0x401FADDE=E2Tm4_ZB
+
+;0x40F95F71=~z~Good idea, Dessie. I'll get on it.
+0x40F95F71=~z~Good idea, Dessie. I'll get on it.
+
+;0x46A140C9=E2Tm4_WA
+0x46A140C9=E2Tm4_WA
+
+;0x47C7AD9C=100090010
+0x47C7AD9C=100090010
+
+;0x497D4475=~z~Yo, D, you were right. We need to clear the paps from the front of the club.
+0x497D4475=~z~Yo, D, you were right. We need to clear the paps from the front of the club.
+
+;0x4A16275B=~z~Boss, maybe you could get these guys with the water cannon on a fire truck. Make it look like an accident.
+0x4A16275B=~z~Boss, maybe you could get these guys with the water cannon on a fire truck. Make it look like an accident.
+
+;0x4CE13F80=E2Tm4_VF
+0x4CE13F80=E2Tm4_VF
+
+;0x51A85DD4=200
+0x51A85DD4=200
+
+;0x55A346AE=SFX_PAUSE_150
+0x55A346AE=SFX_PAUSE_150
+
+;0x55E5BBF3=E2Tm1_JA
+0x55E5BBF3=E2Tm1_JA
+
+;0x56471FB1=~z~I got a room at HOLE can you take me down there?
+0x56471FB1=~z~I got a room at HOLE can you take me down there?
+
+;0x57714E15=E2Tm4_AAC
+0x57714E15=E2Tm4_AAC
+
+;0x57B8CED8=E2Tm4_RA
+0x57B8CED8=E2Tm4_RA
+
+;0x57DDECD0=~z~I hope it's nothing serious, boss. You take care.
+0x57DDECD0=~z~I hope it's nothing serious, boss. You take care.
+
+;0x581F01EE=~z~Thanks, Luis. You're such a fucking sweetheart. Big kiss to Tony from me.
+0x581F01EE=~z~Thanks, Luis. You're such a fucking sweetheart. Big kiss to Tony from me.
+
+;0x598B5307=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+0x598B5307=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+
+;0x5AB114F1=SFX_PAUSE_320
+0x5AB114F1=SFX_PAUSE_320
+
+;0x5ABDF411=SFX_PAUSE_140
+0x5ABDF411=SFX_PAUSE_140
+
+;0x5B7D5AFF=E2Tm4_YB
+0x5B7D5AFF=E2Tm4_YB
+
+;0x5C64B1DB=E2Tm4_XD2
+0x5C64B1DB=E2Tm4_XD2
+
+;0x608F6F14=010090100
+0x608F6F14=010090100
+
+;0x636D695D=E2Tm4_OA
+0x636D695D=E2Tm4_OA
+
+;0x66A21978=~z~Alright, Pop. I'll give it a look.
+0x66A21978=~z~Alright, Pop. I'll give it a look.
+
+;0x66E15298=E2Tm1_GA
+0x66E15298=E2Tm1_GA
+
+;0x683F97A1=010090100090010
+0x683F97A1=010090100090010
+
+;0x684F5FAE=SFX_PAUSE_130
+0x684F5FAE=SFX_PAUSE_130
+
+;0x69AFB84E=E2Tm4_VD
+0x69AFB84E=E2Tm4_VD
+
+;0x6AB6282C=~z~We got a problem, boss. Poppy Mitchell is freaking out in the VIP.
+0x6AB6282C=~z~We got a problem, boss. Poppy Mitchell is freaking out in the VIP.
+
+;0x72548987=E2Tm4_QA
+0x72548987=E2Tm4_QA
+
+;0x7556E6AF=~z~I'm gonna borrow this bike.
+0x7556E6AF=~z~I'm gonna borrow this bike.
+
+;0x768C95DE=E2Tm4_ABA
+0x768C95DE=E2Tm4_ABA
+
+;0x769F8B45=E2Tm4_SA
+0x769F8B45=E2Tm4_SA
+
+;0x78096335=~z~I'm staying at HOLE, can you take me down there?
+0x78096335=~z~I'm staying at HOLE, can you take me down there?
+
+;0x782E7DDF=020090200090020
+0x782E7DDF=020090200090020
+
+;0x783058EC=SFX_PAUSE_170
+0x783058EC=SFX_PAUSE_170
+
+;0x7A846AC9=E2Tm1_FB
+0x7A846AC9=E2Tm1_FB
+
+;0x7A95EAE9=~z~Nice. They gonna have a truck over at the station in Northwood. I'll check it out.
+0x7A95EAE9=~z~Nice. They gonna have a truck over at the station in Northwood. I'll check it out.
+
+;0x7AE2B1DA=~z~You never get used to it. That and I promised my agent I'd clean my act up. No more sexting for me.
+0x7AE2B1DA=~z~You never get used to it. That and I promised my agent I'd clean my act up. No more sexting for me.
+
+;0x7C19A9B1=~z~Dess, we got to get these photographers out of here. How the fuck we gonna do that?
+0x7C19A9B1=~z~Dess, we got to get these photographers out of here. How the fuck we gonna do that?
+
+;0x7D1A1A2C=~z~No problem, boss.
+0x7D1A1A2C=~z~No problem, boss.
+
+;0x7E0CC413=E2Tm4_ADA
+0x7E0CC413=E2Tm4_ADA
+
+;0x7F97B7D1=~z~I need to get my own place in the City.
+0x7F97B7D1=~z~I need to get my own place in the City.
+
+;0x80DE996A=~z~You drive a fire truck? That's, ummm, a pretty strong move...
+0x80DE996A=~z~You drive a fire truck? That's, ummm, a pretty strong move...
+
+;0x84274C79=~z~Never say never, but not tonight. It's been a long day.
+0x84274C79=~z~Never say never, but not tonight. It's been a long day.
+
+;0x84F9E17D=~z~All clear, Miss Mitchell.
+0x84F9E17D=~z~All clear, Miss Mitchell.
+
+;0x8523D348=E2Tm4_KB
+0x8523D348=E2Tm4_KB
+
+;0x85F5279A=~z~Shit, L. You need to be more careful of the VIPs.
+0x85F5279A=~z~Shit, L. You need to be more careful of the VIPs.
+
+;0x8899E3F3=~z~What's she got to freak out about? She's America's favorite daughter.
+0x8899E3F3=~z~What's she got to freak out about? She's America's favorite daughter.
+
+;0x892DBAC7=E2Tm4_YA
+0x892DBAC7=E2Tm4_YA
+
+;0x8A653EF3=~z~Shit, L. Okay. I'll get on damage control.
+0x8A653EF3=~z~Shit, L. Okay. I'll get on damage control.
+
+;0x8ED319A7=~z~I'll see you guys in a minute.
+0x8ED319A7=~z~I'll see you guys in a minute.
+
+;0x8EDDFCC6=E2Tm4_LB
+0x8EDDFCC6=E2Tm4_LB
+
+;0x8EE29066=SFX_PAUSE_250
+0x8EE29066=SFX_PAUSE_250
+
+;0x8F393FCC=E2Tm4_TA
+0x8F393FCC=E2Tm4_TA
+
+;0x915317BA=E2Tm1_IB
+0x915317BA=E2Tm1_IB
+
+;0x939AD294=~z~Fuck, Luis, thank God it's you. You've got to get rid of those fucking paps outside for me.
+0x939AD294=~z~Fuck, Luis, thank God it's you. You've got to get rid of those fucking paps outside for me.
+
+;0x9429C8B5=SFX_PAUSE_270
+0x9429C8B5=SFX_PAUSE_270
+
+;0x944F905C=~z~We cleaning up these streets.
+0x944F905C=~z~We cleaning up these streets.
+
+;0x95CF3B45=100
+0x95CF3B45=100
+
+;0x96475ACE=090
+0x96475ACE=090
+
+;0x96E14874=E2Tm4_AAA
+0x96E14874=E2Tm4_AAA
+
+;0x9702A698=~z~Coño. I knew I shouldn't have gone on that run, bro.
+0x9702A698=~z~Coño. I knew I shouldn't have gone on that run, bro.
+
+;0x97053344=~z~Sure you will.
+0x97053344=~z~Sure you will.
+
+;0x97576AC3=~z~So, why you so desperate to get away from the paps? I thought you'd be getting used to that.
+0x97576AC3=~z~So, why you so desperate to get away from the paps? I thought you'd be getting used to that.
+
+;0x988D1BF5=SFX_PAUSE_300
+0x988D1BF5=SFX_PAUSE_300
+
+;0x98F11703=~z~OMFGG, not a pap in sight. This is too cool. Let's split.
+0x98F11703=~z~OMFGG, not a pap in sight. This is too cool. Let's split.
+
+;0x9C3E979E=100090010
+0x9C3E979E=100090010
+
+;0x9E51ECC1=~z~Good to know. You gonna come back to Maisonette? We got a club to run.
+0x9E51ECC1=~z~Good to know. You gonna come back to Maisonette? We got a club to run.
+
+;0x9ED16DC4=~z~Yo Dess, Poppy Mitchell is now tucked up safely in bed.
+0x9ED16DC4=~z~Yo Dess, Poppy Mitchell is now tucked up safely in bed.
+
+;0x9F1E0942=E2Tm4_VB
+0x9F1E0942=E2Tm4_VB
+
+;0x9F1E9BB6=~z~Excellent idea, D. I'll go get one right now.
+0x9F1E9BB6=~z~Excellent idea, D. I'll go get one right now.
+
+;0x9FD7C134=SFX_PAUSE_120
+0x9FD7C134=SFX_PAUSE_120
+
+;0xA21FBB04=E2Tm4_XD1
+0xA21FBB04=E2Tm4_XD1
+
+;0xA3A0787E=SFX_PAUSE_220
+0xA3A0787E=SFX_PAUSE_220
+
+;0xA49DA205=SFX_PAUSE_320
+0xA49DA205=SFX_PAUSE_320
+
+;0xA4AC81FA=~z~You get what you pay for.
+0xA4AC81FA=~z~You get what you pay for.
+
+;0xA55D7619=~z~Luis, sweetheart. I can't have another camera shoved up my dress today. I haven't shaved. Get rid of those vultures.
+0xA55D7619=~z~Luis, sweetheart. I can't have another camera shoved up my dress today. I haven't shaved. Get rid of those vultures.
+
+;0xA69AEDAF=E2Tm4_UA
+0xA69AEDAF=E2Tm4_UA
+
+;0xA6E72F1B=200
+0xA6E72F1B=200
+
+;0xA9986B3F=E2Tm1_HB
+0xA9986B3F=E2Tm1_HB
+
+;0xAA81F7A5=SFX_PAUSE_250
+0xAA81F7A5=SFX_PAUSE_250
+
+;0xAB09BDD0=~z~Get out of here.
+0xAB09BDD0=~z~Get out of here.
+
+;0xACA01558=~z~Wait a second, you weren't fucking in our VIP room again, were you?
+0xACA01558=~z~Wait a second, you weren't fucking in our VIP room again, were you?
+
+;0xAEDA7752=~z~Fuck it, bro. No one cares about them blood suckers.
+0xAEDA7752=~z~Fuck it, bro. No one cares about them blood suckers.
+
+;0xB21C8B84=SFX_PAUSE_350
+0xB21C8B84=SFX_PAUSE_350
+
+;0xB3B06008=SFX_PAUSE_140
+0xB3B06008=SFX_PAUSE_140
+
+;0xB3EDBA9A=~z~I don't know, but there's paps all over the place up here.
+0xB3EDBA9A=~z~I don't know, but there's paps all over the place up here.
+
+;0xB581D843=090
+0xB581D843=090
+
+;0xB5F9F9E6=E2Tm1_JB
+0xB5F9F9E6=E2Tm1_JB
+
+;0xB9875ACB=~z~I see a fire.
+0xB9875ACB=~z~I see a fire.
+
+;0xBBD1C209=020090200090020090200
+0xBBD1C209=020090200090020090200
+
+;0xBEA27945=~z~Thanks for the ride, bro...
+0xBEA27945=~z~Thanks for the ride, bro...
+
+;0xC1AF49D2=E2Tm4_AEA
+0xC1AF49D2=E2Tm4_AEA
+
+;0xC1D83FC8=~z~That was after hours, so that don't count. When am I gonna get a second chance at that?
+0xC1D83FC8=~z~That was after hours, so that don't count. When am I gonna get a second chance at that?
+
+;0xC25AF836=E2Tm4_XB
+0xC25AF836=E2Tm4_XB
+
+;0xC2897DA5=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+0xC2897DA5=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+
+;0xC29A3DA3=200
+0xC29A3DA3=200
+
+;0xC2A4FB7A=E2Tm4_XC
+0xC2A4FB7A=E2Tm4_XC
+
+;0xC385B728=~z~Okay.
+0xC385B728=~z~Okay.
+
+;0xC548A1E5=~z~Nice truck. Good to see you're taking the whole global warming thing seriously.
+0xC548A1E5=~z~Nice truck. Good to see you're taking the whole global warming thing seriously.
+
+;0xC68DA28F=E2Tm4_AEC
+0xC68DA28F=E2Tm4_AEC
+
+;0xC74BF3B8=~z~Luis! Amazing! They're all gone. Let's get out of here.
+0xC74BF3B8=~z~Luis! Amazing! They're all gone. Let's get out of here.
+
+;0xCB12A912=SFX_PAUSE_150
+0xCB12A912=SFX_PAUSE_150
+
+;0xCC18BC0A=E2Tm4_NA
+0xCC18BC0A=E2Tm4_NA
+
+;0xCF19388C=E2Tm1_HA
+0xCF19388C=E2Tm1_HA
+
+;0xCF6C34A6=010090100
+0xCF6C34A6=010090100
+
+;0xD097E695=SFX_PAUSE_300
+0xD097E695=SFX_PAUSE_300
+
+;0xD2792A2B=~z~I got just the thing to relax you.
+0xD2792A2B=~z~I got just the thing to relax you.
+
+;0xDA63F0DF=~z~Luis! You know you're the only guy I've fucked in that VIP.
+0xDA63F0DF=~z~Luis! You know you're the only guy I've fucked in that VIP.
+
+;0xDA8BE6CA=200
+0xDA8BE6CA=200
+
+;0xDC4A5A4D=E2Tm4_AAB
+0xDC4A5A4D=E2Tm4_AAB
+
+;0xDD606C4F=E2Tm4_YD
+0xDD606C4F=E2Tm4_YD
+
+;0xDF903FD0=E2Tm4_XA
+0xDF903FD0=E2Tm4_XA
+
+;0xE1FBF4E5=~z~We should hang out again sometime.
+0xE1FBF4E5=~z~We should hang out again sometime.
+
+;0xE30EFEBE=~z~Six hundred dollars a night. For that money it better be Kerry McIntosh's puke.
+0xE30EFEBE=~z~Six hundred dollars a night. For that money it better be Kerry McIntosh's puke.
+
+;0xE3712E86=~z~Oye, cool down.
+0xE3712E86=~z~Oye, cool down.
+
+;0xE6289883=~z~I'll see what I can do, Poppy.
+0xE6289883=~z~I'll see what I can do, Poppy.
+
+;0xE708F83D=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+0xE708F83D=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+
+;0xE8FD7837=E2Tm4_PA
+0xE8FD7837=E2Tm4_PA
+
+;0xE9936ED5=~z~As owner of this place, I reserve the right to do this shit sometimes. Thanks for looking out though, D.
+0xE9936ED5=~z~As owner of this place, I reserve the right to do this shit sometimes. Thanks for looking out though, D.
+
+;0xEB6642C2=E2Tm4_YC
+0xEB6642C2=E2Tm4_YC
+
+;0xED336EAB=E2Tm4_WC
+0xED336EAB=E2Tm4_WC
+
+;0xEE062831=SFX_PAUSE_270
+0xEE062831=SFX_PAUSE_270
+
+;0xEED6EDA3=020
+0xEED6EDA3=020
+
+;0xEEDCF221=SFX_PAUSE_220
+0xEEDCF221=SFX_PAUSE_220
+
+;0xF0563DE6=010090100
+0xF0563DE6=010090100
+
+;0xF2B8CD15=~z~Sorry about this, but I heard there was a fire.
+0xF2B8CD15=~z~Sorry about this, but I heard there was a fire.
+
+;0xF5325F40=SFX_PAUSE_250
+0xF5325F40=SFX_PAUSE_250
+
+;0xF5EC7D26=010090100
+0xF5EC7D26=010090100
+
+;0xF5FF24A2=~z~The HOLE? Nice.
+0xF5FF24A2=~z~The HOLE? Nice.
+
+;0xF60EF305=100
+0xF60EF305=100
+
+;0xF7500647=E2Tm4_AEB
+0xF7500647=E2Tm4_AEB
+
+;0xF8012106=E2Tm4_WB
+0xF8012106=E2Tm4_WB
+
+;0xF9035B1C=100090010090100
+0xF9035B1C=100090010090100
+
+;0xFA9B7A6F=~z~Baby, you're sweet, but this exec from Canyon is meant to come by. I'll call you.
+0xFA9B7A6F=~z~Baby, you're sweet, but this exec from Canyon is meant to come by. I'll call you.
+
+;0xFACD9365=010090100
+0xFACD9365=010090100
+
+;0xFB9B2880=010
+0xFB9B2880=010
+
+;0xFEF2BBA0=E2Tm4_KA
+0xFEF2BBA0=E2Tm4_KA
+

@@ -1,0 +1,1570 @@
+﻿[E2T11AU]
+;0x00B306A8=E2T11_LA
+0x00B306A8=E2T11_LA
+
+;0x01226EE0=~z~Or the desert. Like you was just saying to me. Leave town, bro.
+0x01226EE0=~z~Or the desert. Like you was just saying to me. Leave town, bro.
+
+;0x013340C0=SFX_PAUSE_220
+0x013340C0=SFX_PAUSE_220
+
+;0x0187BC08=~z~Sorry, Pops.
+0x0187BC08=~z~Sorry, Pops.
+
+;0x01D3ADA1=E2T11_AID
+0x01D3ADA1=E2T11_AID
+
+;0x0262EB38=500
+0x0262EB38=500
+
+;0x03986C93=SFX_PAUSE_380
+0x03986C93=SFX_PAUSE_380
+
+;0x03CFDFA6=~z~L, thank God. I've been worried sick. How we doing?
+0x03CFDFA6=~z~L, thank God. I've been worried sick. How we doing?
+
+;0x03E64805=~z~Kill the Dominican prick.
+0x03E64805=~z~Kill the Dominican prick.
+
+;0x04174BDF=E2T11_YA
+0x04174BDF=E2T11_YA
+
+;0x043F0770=~z~Then you're gonna have to punch me out again, Lou!
+0x043F0770=~z~Then you're gonna have to punch me out again, Lou!
+
+;0x054957A5=~z~He will not take the product!
+0x054957A5=~z~He will not take the product!
+
+;0x063DA3F4=~z~Come on, T, give me a break.
+0x063DA3F4=~z~Come on, T, give me a break.
+
+;0x06C855DE=~z~You're welcome very much.
+0x06C855DE=~z~You're welcome very much.
+
+;0x07BFF765=~z~But I don't want you to get a big head. I don't want you to go change; become a mega star, go to Vinewood, write a blog.
+0x07BFF765=~z~But I don't want you to get a big head. I don't want you to go change; become a mega star, go to Vinewood, write a blog.
+
+;0x0865399A=E2T11_AFD
+0x0865399A=E2T11_AFD
+
+;0x0891B891=~z~I'll come find you if all our troubles go away, but if I don't show, you got to run.
+0x0891B891=~z~I'll come find you if all our troubles go away, but if I don't show, you got to run.
+
+;0x08FA9674=~z~This Ray Bulgarin's smack, motherfuckers? Where is he?
+0x08FA9674=~z~This Ray Bulgarin's smack, motherfuckers? Where is he?
+
+;0x092D4E78=~z~You did it, man.
+0x092D4E78=~z~You did it, man.
+
+;0x0A10125A=~z~The Heights is my home man. Always will be. Nothing's worth shit if I can't go back there.
+0x0A10125A=~z~The Heights is my home man. Always will be. Nothing's worth shit if I can't go back there.
+
+;0x0A2CB916=~z~He's a heavily armed motherfucker.
+0x0A2CB916=~z~He's a heavily armed motherfucker.
+
+;0x0A74D9B4=E2T11_AKB
+0x0A74D9B4=E2T11_AKB
+
+;0x0AA02038=~z~Rip him apart!
+0x0AA02038=~z~Rip him apart!
+
+;0x0AEE9465=E2T11_HA
+0x0AEE9465=E2T11_HA
+
+;0x0B545D58=SFX_PAUSE_360
+0x0B545D58=SFX_PAUSE_360
+
+;0x0B924B67=E2T11_AHA1
+0x0B924B67=E2T11_AHA1
+
+;0x0BD5C3EB=~z~I have no fucking clue. Err Dukes?
+0x0BD5C3EB=~z~I have no fucking clue. Err Dukes?
+
+;0x0C6EA90B=E2T11_APA
+0x0C6EA90B=E2T11_APA
+
+;0x0D2E8585=E2T11_AXA
+0x0D2E8585=E2T11_AXA
+
+;0x0D4183E4=E2T11_ADA
+0x0D4183E4=E2T11_ADA
+
+;0x0D497771=396
+0x0D497771=396
+
+;0x0D88BE4E=~z~I didn't come this far...
+0x0D88BE4E=~z~I didn't come this far...
+
+;0x0FB16E48=~z~You ain't leaving, Ray.
+0x0FB16E48=~z~You ain't leaving, Ray.
+
+;0x104A598D=~z~Come on, get up. Get up.
+0x104A598D=~z~Come on, get up. Get up.
+
+;0x10DDC4F8=~z~You ain't getting away from me.
+0x10DDC4F8=~z~You ain't getting away from me.
+
+;0x11A726A1=092
+0x11A726A1=092
+
+;0x11CECC6F=SFX_PAUSE_140
+0x11CECC6F=SFX_PAUSE_140
+
+;0x11EAAC7D=~z~Yusuf? You crazy bastard.
+0x11EAAC7D=~z~Yusuf? You crazy bastard.
+
+;0x120348C3=~z~Don't blow me up, bro.
+0x120348C3=~z~Don't blow me up, bro.
+
+;0x134D43E7=~z~Fly. Get us the fuck out of here.
+0x134D43E7=~z~Fly. Get us the fuck out of here.
+
+;0x13ECC8D4=092
+0x13ECC8D4=092
+
+;0x13F9EBCD=E2T11_ASA
+0x13F9EBCD=E2T11_ASA
+
+;0x14513810=~z~He will pay people to come here and kill you.
+0x14513810=~z~He will pay people to come here and kill you.
+
+;0x14ED28CC=~z~Don't make me, man. You know you just gonna slow me down, bro, and kill us both. I want at least one of us to survive.
+0x14ED28CC=~z~Don't make me, man. You know you just gonna slow me down, bro, and kill us both. I want at least one of us to survive.
+
+;0x151A6DCB=SFX_PAUSE_450
+0x151A6DCB=SFX_PAUSE_450
+
+;0x1597F25D=~z~Any other man would just dust himself off and carry on.
+0x1597F25D=~z~Any other man would just dust himself off and carry on.
+
+;0x15E75A01=~z~I nearly had him, T. I nearly had him. He's gone back to fucking Russia now!
+0x15E75A01=~z~I nearly had him, T. I nearly had him. He's gone back to fucking Russia now!
+
+;0x1627EC88=~z~This man is faggot and you can't kill him?
+0x1627EC88=~z~This man is faggot and you can't kill him?
+
+;0x16636710=E2T11_AYA
+0x16636710=E2T11_AYA
+
+;0x16BE856E=102090012
+0x16BE856E=102090012
+
+;0x16FB7B09=~z~Keep him away from the skag!
+0x16FB7B09=~z~Keep him away from the skag!
+
+;0x1767E282=~z~Yeah, we always had a clientele policy, and you don't cut it.
+0x1767E282=~z~Yeah, we always had a clientele policy, and you don't cut it.
+
+;0x18121B0E=090
+0x18121B0E=090
+
+;0x18FC3B4D=E2T11_ABA
+0x18FC3B4D=E2T11_ABA
+
+;0x19740AEE=~z~Not so good. We got a good man killed doing this shit. Our boy, Yusuf.
+0x19740AEE=~z~Not so good. We got a good man killed doing this shit. Our boy, Yusuf.
+
+;0x19B903D8=~z~You can't shoot me. You will blow whole plane up.
+0x19B903D8=~z~You can't shoot me. You will blow whole plane up.
+
+;0x1AEA56C6=~z~It's our one shot to survive.
+0x1AEA56C6=~z~It's our one shot to survive.
+
+;0x1AEB71F4=~z~Nah, went to Algonquin instead; waiting for the world to come to me.
+0x1AEB71F4=~z~Nah, went to Algonquin instead; waiting for the world to come to me.
+
+;0x1B16AEB4=E2T11_AED
+0x1B16AEB4=E2T11_AED
+
+;0x1D4CAC1F=E2T11_AND
+0x1D4CAC1F=E2T11_AND
+
+;0x1D751F62=~z~Yo. This is personal.
+0x1D751F62=~z~Yo. This is personal.
+
+;0x1DEDE194=090
+0x1DEDE194=090
+
+;0x1EAB6093=~z~Come on. Come on.
+0x1EAB6093=~z~Come on. Come on.
+
+;0x1F12E388=~z~It's just up here.
+0x1F12E388=~z~It's just up here.
+
+;0x2036EED1=SFX_PAUSE_180
+0x2036EED1=SFX_PAUSE_180
+
+;0x20D5C5B8=SFX_PAUSE_290
+0x20D5C5B8=SFX_PAUSE_290
+
+;0x21AA0A81=~z~Well...you're kind of clever aren't you?
+0x21AA0A81=~z~Well...you're kind of clever aren't you?
+
+;0x21D10C7F=~z~Luis. What's happening?
+0x21D10C7F=~z~Luis. What's happening?
+
+;0x237A0918=E2T11_KA
+0x237A0918=E2T11_KA
+
+;0x238A69C4=SFX_PAUSE_250
+0x238A69C4=SFX_PAUSE_250
+
+;0x2425CD2C=~z~You are too late to find Mr. Ray. He is leaving country right now.
+0x2425CD2C=~z~You are too late to find Mr. Ray. He is leaving country right now.
+
+;0x24564CC5=E2T11_AGC2
+0x24564CC5=E2T11_AGC2
+
+;0x26639A2B=E2T11_AZB
+0x26639A2B=E2T11_AZB
+
+;0x269E0CB1=~z~No. I would have come back to finish things with you.
+0x269E0CB1=~z~No. I would have come back to finish things with you.
+
+;0x26E20D6F=~z~You are joke, pretty boy.
+0x26E20D6F=~z~You are joke, pretty boy.
+
+;0x27054E60=E2T11_AIC
+0x27054E60=E2T11_AIC
+
+;0x271F4314=E2T11_AIF
+0x271F4314=E2T11_AIF
+
+;0x2794CD63=~z~Maybe you turned your back on where you was from when you was a kid, but that ain't something I can really do.
+0x2794CD63=~z~Maybe you turned your back on where you was from when you was a kid, but that ain't something I can really do.
+
+;0x27A6082C=~z~You okay?
+0x27A6082C=~z~You okay?
+
+;0x286F6E2B=~z~Take off go.
+0x286F6E2B=~z~Take off go.
+
+;0x28C14B71=SFX_OVERLAP_5310
+0x28C14B71=SFX_OVERLAP_5310
+
+;0x28C65504=E2T11_BAA
+0x28C65504=E2T11_BAA
+
+;0x29122211=~z~I thought I was the annoying drama queen in this pairing.
+0x29122211=~z~I thought I was the annoying drama queen in this pairing.
+
+;0x29DD5125=SFX_PAUSE_230
+0x29DD5125=SFX_PAUSE_230
+
+;0x2AD21D2F=E2T11_ZAB
+0x2AD21D2F=E2T11_ZAB
+
+;0x2B82E995=SFX_PAUSE_240
+0x2B82E995=SFX_PAUSE_240
+
+;0x2BA40D5D=~z~Oh shut up, you hysterical fucking queen. Get a grip, bro.
+0x2BA40D5D=~z~Oh shut up, you hysterical fucking queen. Get a grip, bro.
+
+;0x2BFF93ED=~z~What do you need? Let me help out.
+0x2BFF93ED=~z~What do you need? Let me help out.
+
+;0x2C258A84=100090010090100090010
+0x2C258A84=100090010090100090010
+
+;0x2C8085A7=~z~Okay, shit. I'll do that. Where should I hide?
+0x2C8085A7=~z~Okay, shit. I'll do that. Where should I hide?
+
+;0x2E6A6EFB=~z~Uh oh. Oh dear.
+0x2E6A6EFB=~z~Uh oh. Oh dear.
+
+;0x2E89CB27=~z~Lack of balls was always your problem.
+0x2E89CB27=~z~Lack of balls was always your problem.
+
+;0x2ED183DF=~z~Is sweet of you to see me off.
+0x2ED183DF=~z~Is sweet of you to see me off.
+
+;0x2F55BA86=E2T11_AA
+0x2F55BA86=E2T11_AA
+
+;0x2FB8A846=~z~What do you need? Let me help out.
+0x2FB8A846=~z~What do you need? Let me help out.
+
+;0x301198F2=E2T11_ZA
+0x301198F2=E2T11_ZA
+
+;0x3221AB70=~z~Fuck off, Luis.
+0x3221AB70=~z~Fuck off, Luis.
+
+;0x32596993=~z~Mr. Ray flies away now, pretty boy. You are too late to get him.
+0x32596993=~z~Mr. Ray flies away now, pretty boy. You are too late to get him.
+
+;0x325A7C2D=~z~Okay. I'm armed, I'm dangerous. Let's fucking do this!
+0x325A7C2D=~z~Okay. I'm armed, I'm dangerous. Let's fucking do this!
+
+;0x32C37248=092
+0x32C37248=092
+
+;0x33099309=E2T11_PA
+0x33099309=E2T11_PA
+
+;0x33905A0E=SFX_PAUSE_260
+0x33905A0E=SFX_PAUSE_260
+
+;0x33B9EBF2=~z~Where's Bulgarin? We got a score to settle.
+0x33B9EBF2=~z~Where's Bulgarin? We got a score to settle.
+
+;0x34241B4A=092
+0x34241B4A=092
+
+;0x3478DDC6=E2T11_ADB
+0x3478DDC6=E2T11_ADB
+
+;0x34CD1FD5=E2T11_ZAD
+0x34CD1FD5=E2T11_ZAD
+
+;0x353F9BEC=SFX_PAUSE_180
+0x353F9BEC=SFX_PAUSE_180
+
+;0x35A658AC=E2T11_CA
+0x35A658AC=E2T11_CA
+
+;0x36757705=~z~Time's up, Timmy.
+0x36757705=~z~Time's up, Timmy.
+
+;0x36E059BB=E2T11_ACA
+0x36E059BB=E2T11_ACA
+
+;0x37FE7F6A=~z~You think he will forget about you? You and all your friends are dead.
+0x37FE7F6A=~z~You think he will forget about you? You and all your friends are dead.
+
+;0x3817D85A=E2T11_NA
+0x3817D85A=E2T11_NA
+
+;0x382E4D5D=292
+0x382E4D5D=292
+
+;0x387D91EC=~z~This is our last chance, ain't it, Lou? We've got to take down Bulgarin and all his people.
+0x387D91EC=~z~This is our last chance, ain't it, Lou? We've got to take down Bulgarin and all his people.
+
+;0x38E2D63D=~z~Come out, motherfuckers!
+0x38E2D63D=~z~Come out, motherfuckers!
+
+;0x38FBAAD7=~z~Fuck you.
+0x38FBAAD7=~z~Fuck you.
+
+;0x39C9001E=~z~You people try and kill us. Stop it!
+0x39C9001E=~z~You people try and kill us. Stop it!
+
+;0x39F0A9F6=~z~Oh, yes, silly me. Silly fucking me...huh?
+0x39F0A9F6=~z~Oh, yes, silly me. Silly fucking me...huh?
+
+;0x39F1C818=090
+0x39F1C818=090
+
+;0x3A5F1CA3=~z~Oh, by the way, think my father may be in to franchising the clubs.
+0x3A5F1CA3=~z~Oh, by the way, think my father may be in to franchising the clubs.
+
+;0x3AB94D78=~z~Yusuf too? Shit. How many people got to go down because of us?
+0x3AB94D78=~z~Yusuf too? Shit. How many people got to go down because of us?
+
+;0x3B6B3681=~z~I don't get what Mr. Ray saw in you.
+0x3B6B3681=~z~I don't get what Mr. Ray saw in you.
+
+;0x3B990B21=090
+0x3B990B21=090
+
+;0x3BB59DFC=SFX_PAUSE_190
+0x3BB59DFC=SFX_PAUSE_190
+
+;0x3CB6A728=E2T11_AFF
+0x3CB6A728=E2T11_AFF
+
+;0x3D2AA812=SFX_PAUSE_340
+0x3D2AA812=SFX_PAUSE_340
+
+;0x3DB7A2EC=~z~Yeah I'm serious. You got to hide out out for a bit, T.
+0x3DB7A2EC=~z~Yeah I'm serious. You got to hide out out for a bit, T.
+
+;0x3E41C560=~z~I can't talk, bro. Shit's really coming apart.
+0x3E41C560=~z~I can't talk, bro. Shit's really coming apart.
+
+;0x3E700636=~z~Wish me luck, motherfucker.
+0x3E700636=~z~Wish me luck, motherfucker.
+
+;0x3EB76553=~z~We took on this town and we won. We took on this place and we gave it the fucking finger.
+0x3EB76553=~z~We took on this town and we won. We took on this place and we gave it the fucking finger.
+
+;0x3EECBF5D=100
+0x3EECBF5D=100
+
+;0x3F3D96A1=~z~I'm going to fuck you up!
+0x3F3D96A1=~z~I'm going to fuck you up!
+
+;0x3F5FA8A6=E2T11_AAB
+0x3F5FA8A6=E2T11_AAB
+
+;0x3FD2C6D2=~z~Look, ok, I'm sorry I thought about killing you. I really am. But if you keep up with the bullshit, I might have to kill you for real.
+0x3FD2C6D2=~z~Look, ok, I'm sorry I thought about killing you. I really am. But if you keep up with the bullshit, I might have to kill you for real.
+
+;0x409BC255=SFX_PAUSE_360
+0x409BC255=SFX_PAUSE_360
+
+;0x40DEB74F=~z~Come on! Come on!
+0x40DEB74F=~z~Come on! Come on!
+
+;0x415E8DB4=~z~Put him down and keep him down.
+0x415E8DB4=~z~Put him down and keep him down.
+
+;0x41A4207C=~z~We are leaving this country now. Go. Go.
+0x41A4207C=~z~We are leaving this country now. Go. Go.
+
+;0x426EB1EE=E2T11_SB
+0x426EB1EE=E2T11_SB
+
+;0x4297949C=~z~He has much money. He will use it to have you killed.
+0x4297949C=~z~He has much money. He will use it to have you killed.
+
+;0x4439C153=~z~Take care of yourself, okay? Stay away from idiots like me.
+0x4439C153=~z~Take care of yourself, okay? Stay away from idiots like me.
+
+;0x44592128=402
+0x44592128=402
+
+;0x452D4C66=~z~Tell people Timur and Mr. Ray have serious package now. We own H trade in Liberty.
+0x452D4C66=~z~Tell people Timur and Mr. Ray have serious package now. We own H trade in Liberty.
+
+;0x4541D968=~z~I got some news about that smack, B.
+0x4541D968=~z~I got some news about that smack, B.
+
+;0x45890C87=SFX_PAUSE_330
+0x45890C87=SFX_PAUSE_330
+
+;0x462C5B4E=~z~Hey, I don't know what the hell I was thinking hangin with you, asshole.
+0x462C5B4E=~z~Hey, I don't know what the hell I was thinking hangin with you, asshole.
+
+;0x47208AD7=~z~Overworked and underpaid. Ay Conos.
+0x47208AD7=~z~Overworked and underpaid. Ay Conos.
+
+;0x473E535B=306
+0x473E535B=306
+
+;0x482F74D6=~z~You guys tried to kill me one too many times.
+0x482F74D6=~z~You guys tried to kill me one too many times.
+
+;0x49086457=~z~One of my less salubrious associates told me Bulgarin was in on this H deal at Fun Land on Firefly.
+0x49086457=~z~One of my less salubrious associates told me Bulgarin was in on this H deal at Fun Land on Firefly.
+
+;0x493FD22A=~z~Do it already, wimp.
+0x493FD22A=~z~Do it already, wimp.
+
+;0x4A704811=~z~You are a stupid man. You know how much that was worth!
+0x4A704811=~z~You are a stupid man. You know how much that was worth!
+
+;0x4AC0E1DC=~z~Yeah, that aint happening Timmy.
+0x4AC0E1DC=~z~Yeah, that aint happening Timmy.
+
+;0x4AF609C1=E2T11_ANC
+0x4AF609C1=E2T11_ANC
+
+;0x4C03A493=~z~Stop it back there or I crash into sea!
+0x4C03A493=~z~Stop it back there or I crash into sea!
+
+;0x4C466161=~z~There ain't nothing you can do, Yusuf. If this crazy Russian fuck manages to leave the country, it's over for me and Tone.
+0x4C466161=~z~There ain't nothing you can do, Yusuf. If this crazy Russian fuck manages to leave the country, it's over for me and Tone.
+
+;0x4C545BE3=E2T11_AMB
+0x4C545BE3=E2T11_AMB
+
+;0x4C5A17A5=~z~Lou...
+0x4C5A17A5=~z~Lou...
+
+;0x4D1CEA26=~z~I'm serious, T. This my last testament.
+0x4D1CEA26=~z~I'm serious, T. This my last testament.
+
+;0x4D5E7EBE=E2T11_ANB
+0x4D5E7EBE=E2T11_ANB
+
+;0x4D995768=E2T11_AHC
+0x4D995768=E2T11_AHC
+
+;0x4DE568E0=~z~Don't let him near the shit!
+0x4DE568E0=~z~Don't let him near the shit!
+
+;0x4ED1DDEB=~z~Cut his fucking head off and bring it to me.
+0x4ED1DDEB=~z~Cut his fucking head off and bring it to me.
+
+;0x4F3A49DC=E2T11_AUA
+0x4F3A49DC=E2T11_AUA
+
+;0x4F5D6707=~z~Are you coming now?
+0x4F5D6707=~z~Are you coming now?
+
+;0x4F7E4679=~z~You're serious about this, aren't you? You're gonna walk in there alone.
+0x4F7E4679=~z~You're serious about this, aren't you? You're gonna walk in there alone.
+
+;0x501A9545=500090050090050500090500
+0x501A9545=500090050090050500090500
+
+;0x50294CF8=~z~Go somewhere no one's gonna find you. Maybe back to Dukes? Ain't nobody gonna look for you there.
+0x50294CF8=~z~Go somewhere no one's gonna find you. Maybe back to Dukes? Ain't nobody gonna look for you there.
+
+;0x5073B90D=~z~You weren't expecting this, were you, assholes?
+0x5073B90D=~z~You weren't expecting this, were you, assholes?
+
+;0x50FDB3C3=E2T11_OA
+0x50FDB3C3=E2T11_OA
+
+;0x510FDE09=~z~Luis. What's happening?
+0x510FDE09=~z~Luis. What's happening?
+
+;0x511771D2=E2T11_AZA
+0x511771D2=E2T11_AZA
+
+;0x5245DA29=~z~You guys tried to kill me one too many times.
+0x5245DA29=~z~You guys tried to kill me one too many times.
+
+;0x52BBCD15=201090022
+0x52BBCD15=201090022
+
+;0x531D0212=E2T11_AIH
+0x531D0212=E2T11_AIH
+
+;0x54704C03=E2T11_AAA
+0x54704C03=E2T11_AAA
+
+;0x54B68CCA=E2T11_XA
+0x54B68CCA=E2T11_XA
+
+;0x55A50842=SFX_PAUSE_260
+0x55A50842=SFX_PAUSE_260
+
+;0x5722DEBE=SFX_PAUSE_300
+0x5722DEBE=SFX_PAUSE_300
+
+;0x58A90047=~z~Are you glad to be back with your homo master?
+0x58A90047=~z~Are you glad to be back with your homo master?
+
+;0x5918702D=E2T11_AGB2
+0x5918702D=E2T11_AGB2
+
+;0x592F658F=~z~I was angry before you destroyed our heroin!
+0x592F658F=~z~I was angry before you destroyed our heroin!
+
+;0x59909794=~z~I ain't dead yet, bitches.
+0x59909794=~z~I ain't dead yet, bitches.
+
+;0x59AD4361=092090102
+0x59AD4361=092090102
+
+;0x59AD4AD6=~z~So, say we find them, what are we gonna do then?
+0x59AD4AD6=~z~So, say we find them, what are we gonna do then?
+
+;0x59C2E3E7=E2T11_PB
+0x59C2E3E7=E2T11_PB
+
+;0x59CB3BCE=~z~He will pay for that!
+0x59CB3BCE=~z~He will pay for that!
+
+;0x59D6D1D7=020
+0x59D6D1D7=020
+
+;0x5A79F972=SFX_PAUSE_270
+0x5A79F972=SFX_PAUSE_270
+
+;0x5A7DFC28=~z~But I didn't. And now it's you and me, against the world. Okay?
+0x5A7DFC28=~z~But I didn't. And now it's you and me, against the world. Okay?
+
+;0x5ACD80D6=SFX_PAUSE_250
+0x5ACD80D6=SFX_PAUSE_250
+
+;0x5BA88993=~z~Word is they're taking on a big heroin shipment at Fun Land on Firefly Island.
+0x5BA88993=~z~Word is they're taking on a big heroin shipment at Fun Land on Firefly Island.
+
+;0x5BDF6D4F=200
+0x5BDF6D4F=200
+
+;0x5BF11EB8=~z~Okay, cool. Hit up, like, err, that Monoglobe monument thing in Meadows Park. Hang out for a few hours.
+0x5BF11EB8=~z~Okay, cool. Hit up, like, err, that Monoglobe monument thing in Meadows Park. Hang out for a few hours.
+
+;0x5C877956=~z~He has made asshole of me. Kill him.
+0x5C877956=~z~He has made asshole of me. Kill him.
+
+;0x5C8C972D=E2T11_ADE
+0x5C8C972D=E2T11_ADE
+
+;0x5C9689A4=E2T11_VD
+0x5C9689A4=E2T11_VD
+
+;0x5CABDF93=~z~You will die, Luis.
+0x5CABDF93=~z~You will die, Luis.
+
+;0x5DF70849=SFX_PAUSE_200
+0x5DF70849=SFX_PAUSE_200
+
+;0x5E6AC961=~z~Stop whatever is going on back there. I'm trying to fly plane.
+0x5E6AC961=~z~Stop whatever is going on back there. I'm trying to fly plane.
+
+;0x5F85FEB6=~z~This is embarrassment.
+0x5F85FEB6=~z~This is embarrassment.
+
+;0x616B4B12=~z~Such a waste!
+0x616B4B12=~z~Such a waste!
+
+;0x626E9F95=SFX_PAUSE_400
+0x626E9F95=SFX_PAUSE_400
+
+;0x632413C3=E2T11_VB
+0x632413C3=E2T11_VB
+
+;0x635F365B=E2T11_AHD
+0x635F365B=E2T11_AHD
+
+;0x64095A34=~z~This is really not good.
+0x64095A34=~z~This is really not good.
+
+;0x644912CB=396
+0x644912CB=396
+
+;0x64A7A58C=E2T11_APB
+0x64A7A58C=E2T11_APB
+
+;0x64D12EF6=~z~I have grenade. You kill me we all die.
+0x64D12EF6=~z~I have grenade. You kill me we all die.
+
+;0x666274A5=~z~Come on, let's get out of here.
+0x666274A5=~z~Come on, let's get out of here.
+
+;0x6707953B=~z~It's Bulgarin or us. Or you can shoot us both, and make his life easy for him.
+0x6707953B=~z~It's Bulgarin or us. Or you can shoot us both, and make his life easy for him.
+
+;0x672283D6=~z~Come out, motherfuckers!
+0x672283D6=~z~Come out, motherfuckers!
+
+;0x674583B3=E2T11_IB
+0x674583B3=E2T11_IB
+
+;0x69212E11=~z~I heard you were here, man. Yusuf's here to save the day. Again!
+0x69212E11=~z~I heard you were here, man. Yusuf's here to save the day. Again!
+
+;0x69D29DC0=E2T11_VC
+0x69D29DC0=E2T11_VC
+
+;0x6A5B4BBE=SFX_PAUSE_250
+0x6A5B4BBE=SFX_PAUSE_250
+
+;0x6B2F1E7E=192
+0x6B2F1E7E=192
+
+;0x6B3B640D=E2T11_JA
+0x6B3B640D=E2T11_JA
+
+;0x6B5F98CA=~z~Now Rascalov is dead, we have sole claim to the junk.
+0x6B5F98CA=~z~Now Rascalov is dead, we have sole claim to the junk.
+
+;0x6BAE15DD=~z~Looks kinda high from here.
+0x6BAE15DD=~z~Looks kinda high from here.
+
+;0x6BF6244A=~z~You think he will forget about you? You and all your friends are dead.
+0x6BF6244A=~z~You think he will forget about you? You and all your friends are dead.
+
+;0x6D9D2D7C=~z~I heard Bulgarin was moving some smack out at the Fun Land on Firefly Island.
+0x6D9D2D7C=~z~I heard Bulgarin was moving some smack out at the Fun Land on Firefly Island.
+
+;0x6DCAB52D=E2T11_AIG
+0x6DCAB52D=E2T11_AIG
+
+;0x6F024A9E=~z~We'll leave town and start all over. New clubs, someplace else. If I can do it, you can too.
+0x6F024A9E=~z~We'll leave town and start all over. New clubs, someplace else. If I can do it, you can too.
+
+;0x6F368B12=~z~Dukes? Alright, I'll wait for you in Middle Park by that silly Monoglobe. You are gonna make it, L. I know it.
+0x6F368B12=~z~Dukes? Alright, I'll wait for you in Middle Park by that silly Monoglobe. You are gonna make it, L. I know it.
+
+;0x6F406977=~z~Two in the chest and two in the head!
+0x6F406977=~z~Two in the chest and two in the head!
+
+;0x6FBE2F6C=~z~Yo, send some money to my mom sometimes, and tell her I love her.
+0x6FBE2F6C=~z~Yo, send some money to my mom sometimes, and tell her I love her.
+
+;0x70B06DEC=~z~Shit! What is happening in back of plane?
+0x70B06DEC=~z~Shit! What is happening in back of plane?
+
+;0x70C2CF9C=~z~You want to die, be my guest.
+0x70C2CF9C=~z~You want to die, be my guest.
+
+;0x70D35741=E2T11_AFH
+0x70D35741=E2T11_AFH
+
+;0x70D61FED=SFX_PAUSE_190
+0x70D61FED=SFX_PAUSE_190
+
+;0x71939F43=~z~You always have to make a scene, don't you?
+0x71939F43=~z~You always have to make a scene, don't you?
+
+;0x72D05DDD=100
+0x72D05DDD=100
+
+;0x7359A6FA=~z~Fucking murder the traitor.
+0x7359A6FA=~z~Fucking murder the traitor.
+
+;0x73B0EF9D=~z~Mr. Ray will cut his heart out now!
+0x73B0EF9D=~z~Mr. Ray will cut his heart out now!
+
+;0x73E34395=~z~Luis, bro, do not fear, Yusuf's here. I found you, motherfucker.
+0x73E34395=~z~Luis, bro, do not fear, Yusuf's here. I found you, motherfucker.
+
+;0x74AD9F73=~z~Been through the fact you wanted to kill me?
+0x74AD9F73=~z~Been through the fact you wanted to kill me?
+
+;0x74CE30C8=~z~And if your brains ain't working right, then I'll make the decision for us, okay?
+0x74CE30C8=~z~And if your brains ain't working right, then I'll make the decision for us, okay?
+
+;0x74FEF347=~z~I always told Mr Ray you were too weak.
+0x74FEF347=~z~I always told Mr Ray you were too weak.
+
+;0x75131061=~z~I seen you fight. You're a pussy.
+0x75131061=~z~I seen you fight. You're a pussy.
+
+;0x7600B844=SFX_PAUSE_190
+0x7600B844=SFX_PAUSE_190
+
+;0x7616A9DA=E2T11_ZBA
+0x7616A9DA=E2T11_ZBA
+
+;0x7692D705=~z~Yeah. 'Cause I came here looking for you.
+0x7692D705=~z~Yeah. 'Cause I came here looking for you.
+
+;0x76A92FEC=~z~Time's up, Timmy.
+0x76A92FEC=~z~Time's up, Timmy.
+
+;0x77C5B196=~z~Now we own junk trade in Liberty. Anyone need package, they must deal with us.
+0x77C5B196=~z~Now we own junk trade in Liberty. Anyone need package, they must deal with us.
+
+;0x786B70D1=~z~Good luck, Luis. Get that motherfucker.
+0x786B70D1=~z~Good luck, Luis. Get that motherfucker.
+
+;0x7A373A0E=500050090050
+0x7A373A0E=500050090050
+
+;0x7A7F36B6=E2T11_APC
+0x7A7F36B6=E2T11_APC
+
+;0x7C19B4C1=E2T11_AMA
+0x7C19B4C1=E2T11_AMA
+
+;0x7CB82CA4=~z~You should not have fucked with our business.
+0x7CB82CA4=~z~You should not have fucked with our business.
+
+;0x7D70EB47=E2T11_TA
+0x7D70EB47=E2T11_TA
+
+;0x7DDEE3AD=~z~Tony Prince and Luis Lopez could not be stopped.
+0x7DDEE3AD=~z~Tony Prince and Luis Lopez could not be stopped.
+
+;0x7FA0B2D9=022090201
+0x7FA0B2D9=022090201
+
+;0x7FD56DC1=~z~You're too much of a pussy to do anything.
+0x7FD56DC1=~z~You're too much of a pussy to do anything.
+
+;0x801FDF61=SFX_PAUSE_410
+0x801FDF61=SFX_PAUSE_410
+
+;0x811C427F=~z~Shoot his fucking head off.
+0x811C427F=~z~Shoot his fucking head off.
+
+;0x8259D4D3=~z~No one in this whole crazy town is crazy enough to take you down.
+0x8259D4D3=~z~No one in this whole crazy town is crazy enough to take you down.
+
+;0x825BE086=~z~Yusuf's fucking here! A bad ass A-rab with a mechanical camel.
+0x825BE086=~z~Yusuf's fucking here! A bad ass A-rab with a mechanical camel.
+
+;0x827554DA=~z~Okay, Lou. Shit. You'll be fine. Shit.
+0x827554DA=~z~Okay, Lou. Shit. You'll be fine. Shit.
+
+;0x82763B0C=~z~Hey.
+0x82763B0C=~z~Hey.
+
+;0x82C43BA0=~z~Been through the fact you are far from alone in that desire?
+0x82C43BA0=~z~Been through the fact you are far from alone in that desire?
+
+;0x82CFB1D9=~z~There aren't many places like that left in the City, I'm afraid.
+0x82CFB1D9=~z~There aren't many places like that left in the City, I'm afraid.
+
+;0x8378B91E=~z~Luis, what's happening? Are we in the clear?
+0x8378B91E=~z~Luis, what's happening? Are we in the clear?
+
+;0x83B72DA9=~z~I come with your family when you are dead.
+0x83B72DA9=~z~I come with your family when you are dead.
+
+;0x8421869D=306
+0x8421869D=306
+
+;0x8475295C=192
+0x8475295C=192
+
+;0x848B1F4A=~z~I will enjoy kill your whole family.
+0x848B1F4A=~z~I will enjoy kill your whole family.
+
+;0x84A1983F=E2T11_MA
+0x84A1983F=E2T11_MA
+
+;0x84DF739E=~z~I was hoping to see you, Luis.
+0x84DF739E=~z~I was hoping to see you, Luis.
+
+;0x8512803C=E2T11_ADD
+0x8512803C=E2T11_ADD
+
+;0x85C8A0FB=SFX_PAUSE_280
+0x85C8A0FB=SFX_PAUSE_280
+
+;0x864FECAF=E2T11_EA
+0x864FECAF=E2T11_EA
+
+;0x87FB4223=~z~I'm sorry, T. I couldn't take it. Bulgarin can keep his shipment. We're finished.
+0x87FB4223=~z~I'm sorry, T. I couldn't take it. Bulgarin can keep his shipment. We're finished.
+
+;0x8A591FAC=~z~He is only doorman, kill him!
+0x8A591FAC=~z~He is only doorman, kill him!
+
+;0x8A9C4AC9=~z~Ray! Ray, come out, you bitch.
+0x8A9C4AC9=~z~Ray! Ray, come out, you bitch.
+
+;0x8B7C024F=~z~Not too close though, I don't want to give my father the wrong impression.
+0x8B7C024F=~z~Not too close though, I don't want to give my father the wrong impression.
+
+;0x8C35A365=~z~Take down the pussyman!
+0x8C35A365=~z~Take down the pussyman!
+
+;0x8C4257F8=~z~Eh-oh, you trying to leave without saying goodbye?
+0x8C4257F8=~z~Eh-oh, you trying to leave without saying goodbye?
+
+;0x8D920936=~z~We got a stale mate, asshole.
+0x8D920936=~z~We got a stale mate, asshole.
+
+;0x8DF4CBAF=190
+0x8DF4CBAF=190
+
+;0x8E74A593=~z~Damn, Yusuf. You resourceful.
+0x8E74A593=~z~Damn, Yusuf. You resourceful.
+
+;0x8E876968=~z~Mr. Ray flies away now, pretty boy. You are too late to get him.
+0x8E876968=~z~Mr. Ray flies away now, pretty boy. You are too late to get him.
+
+;0x8ED4A071=192
+0x8ED4A071=192
+
+;0x8EE27BC5=500090050090500090050
+0x8EE27BC5=500090050090500090050
+
+;0x8F3D44B5=~z~You come here to die, faggot?
+0x8F3D44B5=~z~You come here to die, faggot?
+
+;0x90144276=E2T11_AFE
+0x90144276=E2T11_AFE
+
+;0x901E5654=~z~This is over. It's over. I just want to go some place far away from here and quietly wait to die.
+0x901E5654=~z~This is over. It's over. I just want to go some place far away from here and quietly wait to die.
+
+;0x9027F85C=~z~He the last one. I'm giving up on it. I'm out. Sorry, T. Goodbye.
+0x9027F85C=~z~He the last one. I'm giving up on it. I'm out. Sorry, T. Goodbye.
+
+;0x904456A8=~z~Fuck off, Luis.
+0x904456A8=~z~Fuck off, Luis.
+
+;0x90BDB8DE=~z~What? We're in this together!
+0x90BDB8DE=~z~What? We're in this together!
+
+;0x91806360=E2T11_AGB1
+0x91806360=E2T11_AGB1
+
+;0x91B6AE63=~z~Kill the American!
+0x91B6AE63=~z~Kill the American!
+
+;0x93869CD6=~z~Why am I even saying this? Wish me luck, bro.
+0x93869CD6=~z~Why am I even saying this? Wish me luck, bro.
+
+;0x93B088B6=SFX_PAUSE_190
+0x93B088B6=SFX_PAUSE_190
+
+;0x93BCADB5=050090500050090500
+0x93BCADB5=050090500050090500
+
+;0x9419BC3D=E2T11_JB
+0x9419BC3D=E2T11_JB
+
+;0x943F349D=E2T11_AOA
+0x943F349D=E2T11_AOA
+
+;0x94F2B66C=~z~What the fuck is going on back there?
+0x94F2B66C=~z~What the fuck is going on back there?
+
+;0x952D43F1=~z~This your big business idea. Fuck you.
+0x952D43F1=~z~This your big business idea. Fuck you.
+
+;0x96027D35=100090010100090010
+0x96027D35=100090010100090010
+
+;0x961C9A27=092
+0x961C9A27=092
+
+;0x96313E83=~z~Oh shit, I'm fucked.
+0x96313E83=~z~Oh shit, I'm fucked.
+
+;0x97CD7BF8=~z~Fuck you.
+0x97CD7BF8=~z~Fuck you.
+
+;0x9874915E=E2T11_AFA2
+0x9874915E=E2T11_AFA2
+
+;0x98D22FC0=092
+0x98D22FC0=092
+
+;0x98E6D87B=E2T11_UA
+0x98E6D87B=E2T11_UA
+
+;0x99202939=E2T11_ZAA
+0x99202939=E2T11_ZAA
+
+;0x9983198F=100090010090100090010
+0x9983198F=100090010090100090010
+
+;0x99D95FF0=~z~Look, T. Don't go home. Don't go to the clubs.
+0x99D95FF0=~z~Look, T. Don't go home. Don't go to the clubs.
+
+;0x99DB9829=~z~Ray! Ray, come out, you puto.
+0x99DB9829=~z~Ray! Ray, come out, you puto.
+
+;0x99DCFC09=~z~I only hired you because I thought you were dumb.
+0x99DCFC09=~z~I only hired you because I thought you were dumb.
+
+;0x9A1D1C21=~z~You're a pill popping old queen, man. I'm a murdering maniac.
+0x9A1D1C21=~z~You're a pill popping old queen, man. I'm a murdering maniac.
+
+;0x9A6D6DB9=~z~Yeah, thanks.
+0x9A6D6DB9=~z~Yeah, thanks.
+
+;0x9B012B3A=E2T11_QB
+0x9B012B3A=E2T11_QB
+
+;0x9BD1CFC8=~z~Boom! Boom! Kapow, motherbitches!
+0x9BD1CFC8=~z~Boom! Boom! Kapow, motherbitches!
+
+;0x9CE7E00A=~z~Luis, you come to wish me goodbye.
+0x9CE7E00A=~z~Luis, you come to wish me goodbye.
+
+;0x9D157C6F=E2T11_AKC
+0x9D157C6F=E2T11_AKC
+
+;0x9D34A5C0=~z~Yo, T., T., gimme a hug, gimme a hug.
+0x9D34A5C0=~z~Yo, T., T., gimme a hug, gimme a hug.
+
+;0x9DD924CA=SFX_PAUSE_360
+0x9DD924CA=SFX_PAUSE_360
+
+;0x9DE38195=050090050090500090050090500500090050050090050
+0x9DE38195=050090050090500090050090500500090050050090050
+
+;0x9E1BF257=~z~Aye Dios Mio. Haven't we been through this already?
+0x9E1BF257=~z~Aye Dios Mio. Haven't we been through this already?
+
+;0x9E71F2FB=~z~I lived it. I lived it hard and now, I'm ready to end it.
+0x9E71F2FB=~z~I lived it. I lived it hard and now, I'm ready to end it.
+
+;0x9ED5FB18=E2T11_AJA
+0x9ED5FB18=E2T11_AJA
+
+;0x9F416ABC=~z~Come on. Where you think you can hide that no one would expect?
+0x9F416ABC=~z~Come on. Where you think you can hide that no one would expect?
+
+;0x9FD67BC8=~z~Yeah, I know. It's a real problem with me. You know? I wish I was more like you - subtle, shy, retiring.
+0x9FD67BC8=~z~Yeah, I know. It's a real problem with me. You know? I wish I was more like you - subtle, shy, retiring.
+
+;0x9FF434F0=SFX_PAUSE_310
+0x9FF434F0=SFX_PAUSE_310
+
+;0xA065816B=SFX_PAUSE_190
+0xA065816B=SFX_PAUSE_190
+
+;0xA0D9790C=102090012
+0xA0D9790C=102090012
+
+;0xA11601D5=~z~Where your fag master?
+0xA11601D5=~z~Where your fag master?
+
+;0xA13F7E6B=~z~I can't talk, bro. Shit's really coming apart.
+0xA13F7E6B=~z~I can't talk, bro. Shit's really coming apart.
+
+;0xA489B5A8=~z~It ain't like that for me Tone. I still got my family here in LC.
+0xA489B5A8=~z~It ain't like that for me Tone. I still got my family here in LC.
+
+;0xA5DBFC59=SFX_PAUSE_230
+0xA5DBFC59=SFX_PAUSE_230
+
+;0xA5DC7439=102090012
+0xA5DC7439=102090012
+
+;0xA5FC56F2=~z~Shoot his pretty face off!
+0xA5FC56F2=~z~Shoot his pretty face off!
+
+;0xA637D0A4=E2T11_AVA
+0xA637D0A4=E2T11_AVA
+
+;0xA63D0A48=E2T11_DA
+0xA63D0A48=E2T11_DA
+
+;0xA6E2E75C=~z~Say no to drugs motherfucker.
+0xA6E2E75C=~z~Say no to drugs motherfucker.
+
+;0xA78E6A74=SFX_PAUSE_210
+0xA78E6A74=SFX_PAUSE_210
+
+;0xA7ADD805=~z~Yusuf? Shit, bro.
+0xA7ADD805=~z~Yusuf? Shit, bro.
+
+;0xA8241703=~z~Fools must be on the other side.
+0xA8241703=~z~Fools must be on the other side.
+
+;0xA82C35ED=092
+0xA82C35ED=092
+
+;0xA8910D3D=~z~dreaming of the world. Wondering what it was like that at that place over there, or that little island over there.
+0xA8910D3D=~z~dreaming of the world. Wondering what it was like that at that place over there, or that little island over there.
+
+;0xAA8BDF57=E2T11_AJC
+0xAA8BDF57=E2T11_AJC
+
+;0xAB43BE6E=~z~I'm proud of you, man.
+0xAB43BE6E=~z~I'm proud of you, man.
+
+;0xAB6E890D=~z~So we're going into exile together. Okay Lou, here's to the open road.
+0xAB6E890D=~z~So we're going into exile together. Okay Lou, here's to the open road.
+
+;0xABD810AA=~z~Shit.
+0xABD810AA=~z~Shit.
+
+;0xAC71AF56=090
+0xAC71AF56=090
+
+;0xAD00F226=~z~Shit. What fucking button do I press?
+0xAD00F226=~z~Shit. What fucking button do I press?
+
+;0xAE0DDAD8=E2T11_AEA
+0xAE0DDAD8=E2T11_AEA
+
+;0xAE4B770E=E2T11_LB
+0xAE4B770E=E2T11_LB
+
+;0xAEAEC8B4=~z~Shoot, shoot, shoot 'em up. I said, shoot, shoot, shoot 'em up.
+0xAEAEC8B4=~z~Shoot, shoot, shoot 'em up. I said, shoot, shoot, shoot 'em up.
+
+;0xAEBA851A=SFX_PAUSE_200
+0xAEBA851A=SFX_PAUSE_200
+
+;0xAF5586C6=~z~No, no, franchising is not the way to go. The club is all about the people.
+0xAF5586C6=~z~No, no, franchising is not the way to go. The club is all about the people.
+
+;0xAF620ADB=E2T11_AIE
+0xAF620ADB=E2T11_AIE
+
+;0xAF778280=E2T11_RA
+0xAF778280=E2T11_RA
+
+;0xB0611C7D=SFX_PAUSE_190
+0xB0611C7D=SFX_PAUSE_190
+
+;0xB0C4F7B5=~z~Yeah, that ain't happening, Timmy.
+0xB0C4F7B5=~z~Yeah, that ain't happening, Timmy.
+
+;0xB1271C3C=SFX_PAUSE_250
+0xB1271C3C=SFX_PAUSE_250
+
+;0xB2639666=~z~It's worth the risk.
+0xB2639666=~z~It's worth the risk.
+
+;0xB27053A1=SFX_PAUSE_190
+0xB27053A1=SFX_PAUSE_190
+
+;0xB28EEFB3=E2T11_GA
+0xB28EEFB3=E2T11_GA
+
+;0xB294E631=E2T11_BBA
+0xB294E631=E2T11_BBA
+
+;0xB2A32431=E2T11_AGC1
+0xB2A32431=E2T11_AGC1
+
+;0xB2EF2D0D=~z~I'm massively in debt and I just lost 2 million dollars worth of diamonds.
+0xB2EF2D0D=~z~I'm massively in debt and I just lost 2 million dollars worth of diamonds.
+
+;0xB336F71E=500
+0xB336F71E=500
+
+;0xB3541C34=E2T11_AWA
+0xB3541C34=E2T11_AWA
+
+;0xB46DBD01=E2T11_ARA
+0xB46DBD01=E2T11_ARA
+
+;0xB4F1161F=~z~Don't go nowhere anyone might conceivably think to look for you.
+0xB4F1161F=~z~Don't go nowhere anyone might conceivably think to look for you.
+
+;0xB574C795=200
+0xB574C795=200
+
+;0xB5D83901=SFX_PAUSE_260
+0xB5D83901=SFX_PAUSE_260
+
+;0xB5DC7DA7=500090050500090050090500
+0xB5DC7DA7=500090050500090050090500
+
+;0xB669B38E=~z~They gotta be on the other side the park.
+0xB669B38E=~z~They gotta be on the other side the park.
+
+;0xB72F29E4=192
+0xB72F29E4=192
+
+;0xB735F9C5=200090020
+0xB735F9C5=200090020
+
+;0xB7C17A7C=~z~Kill him!
+0xB7C17A7C=~z~Kill him!
+
+;0xB85F5793=~z~I ran away from there when I was a kid and I swore blind I'd never go back, apart from to catch a plane.
+0xB85F5793=~z~I ran away from there when I was a kid and I swore blind I'd never go back, apart from to catch a plane.
+
+;0xB8A4FA9E=~z~Yusuf, you a fucking hero, bro.
+0xB8A4FA9E=~z~Yusuf, you a fucking hero, bro.
+
+;0xB90BEE6C=100090010090100090010
+0xB90BEE6C=100090010090100090010
+
+;0xB930A1C9=020
+0xB930A1C9=020
+
+;0xBA114A89=E2T11_ZDA
+0xBA114A89=E2T11_ZDA
+
+;0xBA12AF85=E2T11_AJB
+0xBA12AF85=E2T11_AJB
+
+;0xBA39BCBE=~z~ Well let's go, come on.
+0xBA39BCBE=~z~ Well let's go, come on.
+
+;0xBB49F59F=E2T11_AIA
+0xBB49F59F=E2T11_AIA
+
+;0xBBB4A908=~z~I'll take my chances.
+0xBBB4A908=~z~I'll take my chances.
+
+;0xBC7BC764=E2T11_VC
+0xBC7BC764=E2T11_VC
+
+;0xBC8D4C01=SFX_PAUSE_260
+0xBC8D4C01=SFX_PAUSE_260
+
+;0xBC8E8BE2=E2T11_FA
+0xBC8E8BE2=E2T11_FA
+
+;0xBCE1F929=100090010100090010
+0xBCE1F929=100090010100090010
+
+;0xBD1A91AF=~z~We gonna take out their income stream and then we gonna take them out. End this bullshit.
+0xBD1A91AF=~z~We gonna take out their income stream and then we gonna take them out. End this bullshit.
+
+;0xBD4BE170=~z~Move to Brazil. Move somewhere. Don't ever look back, T.
+0xBD4BE170=~z~Move to Brazil. Move somewhere. Don't ever look back, T.
+
+;0xBD61F5EC=E2T11_AEC
+0xBD61F5EC=E2T11_AEC
+
+;0xBE0AE3FC=~z~ Thank you.
+0xBE0AE3FC=~z~ Thank you.
+
+;0xBE43B2FD=E2T11_KB
+0xBE43B2FD=E2T11_KB
+
+;0xBE85F601=SFX_PAUSE_460
+0xBE85F601=SFX_PAUSE_460
+
+;0xBED7BDF5=~z~Fucking kill him.
+0xBED7BDF5=~z~Fucking kill him.
+
+;0xBF03AC3B=~z~The problem ain't gone away, Tony. He's gonna come right back at us. We're still fucked, bro. I'll talk to you soon.
+0xBF03AC3B=~z~The problem ain't gone away, Tony. He's gonna come right back at us. We're still fucked, bro. I'll talk to you soon.
+
+;0xBF6066AB=~z~Hey man, I did what I could, bro.
+0xBF6066AB=~z~Hey man, I did what I could, bro.
+
+;0xBF9118B8=~z~You ain't making no money today.
+0xBF9118B8=~z~You ain't making no money today.
+
+;0xBFCBBF57=SFX_PAUSE_210
+0xBFCBBF57=SFX_PAUSE_210
+
+;0xC0746C3F=~z~You fucking made it... man, that was some serious gangster shit.
+0xC0746C3F=~z~You fucking made it... man, that was some serious gangster shit.
+
+;0xC1311D63=~z~You're a fucking joke, man. All the money in the world and you can't get shit done.
+0xC1311D63=~z~You're a fucking joke, man. All the money in the world and you can't get shit done.
+
+;0xC1E92F13=E2T11_AAC
+0xC1E92F13=E2T11_AAC
+
+;0xC218AC4C=~z~Fuck the people. Fuck them all! Whip out your dick and piss all over them.
+0xC218AC4C=~z~Fuck the people. Fuck them all! Whip out your dick and piss all over them.
+
+;0xC306046A=E2T11_AOC
+0xC306046A=E2T11_AOC
+
+;0xC321B9F7=~z~This is not so hospitable, Mr. hospitality man.
+0xC321B9F7=~z~This is not so hospitable, Mr. hospitality man.
+
+;0xC339B31B=~z~We'll see.
+0xC339B31B=~z~We'll see.
+
+;0xC3EBA525=~z~Don't stop. Fly the fucking plane.
+0xC3EBA525=~z~Don't stop. Fly the fucking plane.
+
+;0xC405C426=~z~Boy.
+0xC405C426=~z~Boy.
+
+;0xC44F2995=~z~Tony, man, I ain't gonna take you into a fiesta full of angry Russian gangsters
+0xC44F2995=~z~Tony, man, I ain't gonna take you into a fiesta full of angry Russian gangsters
+
+;0xC5BA2C67=~z~What do you mean? If we go down, we go down together.
+0xC5BA2C67=~z~What do you mean? If we go down, we go down together.
+
+;0xC6F26C6B=SFX_PAUSE_190
+0xC6F26C6B=SFX_PAUSE_190
+
+;0xC7CEFC36=~z~Fuck Ray Bulgarin, fuck the mob, fuck the loan sharks, fuck the angry triads, the moaning celebrities, fuck everybody, Lou.
+0xC7CEFC36=~z~Fuck Ray Bulgarin, fuck the mob, fuck the loan sharks, fuck the angry triads, the moaning celebrities, fuck everybody, Lou.
+
+;0xC84FC45D=050090500
+0xC84FC45D=050090500
+
+;0xC85EB401=022090201
+0xC85EB401=022090201
+
+;0xC91CB000=SFX_PAUSE_310
+0xC91CB000=SFX_PAUSE_310
+
+;0xC9B47A3D=~z~If I survive this shit, I'll find you. If I don't show, then I'm gone.
+0xC9B47A3D=~z~If I survive this shit, I'll find you. If I don't show, then I'm gone.
+
+;0xC9CF9FFF=~z~Later, T.
+0xC9CF9FFF=~z~Later, T.
+
+;0xC9F84200=~z~Luis, shit, are you okay?
+0xC9F84200=~z~Luis, shit, are you okay?
+
+;0xCB461FD8=~z~Yeah, well, I'm strong enough to kill your ass.
+0xCB461FD8=~z~Yeah, well, I'm strong enough to kill your ass.
+
+;0xCBCA20EC=~z~Thanks, Yusuf.
+0xCBCA20EC=~z~Thanks, Yusuf.
+
+;0xCBE0DE7C=~z~Damn. They gotta be hiding out round the other side.
+0xCBE0DE7C=~z~Damn. They gotta be hiding out round the other side.
+
+;0xCC8D5960=~z~I want him dead! NOW!
+0xCC8D5960=~z~I want him dead! NOW!
+
+;0xCD4172AF=E2T11_ALA
+0xCD4172AF=E2T11_ALA
+
+;0xCDF7B41B=~z~Come on, you motherfuckers.
+0xCDF7B41B=~z~Come on, you motherfuckers.
+
+;0xCF025034=~z~I ain't that fucking cheery, bro. Later.
+0xCF025034=~z~I ain't that fucking cheery, bro. Later.
+
+;0xD094E329=E2T11_AHB
+0xD094E329=E2T11_AHB
+
+;0xD15FBC55=~z~I ain't letting you make no profit.
+0xD15FBC55=~z~I ain't letting you make no profit.
+
+;0xD1884407=~z~It's not like I haven't been in my share of fire fights, Lou. By now, I'm a seasoned veteran by anyone's fucking standards!
+0xD1884407=~z~It's not like I haven't been in my share of fire fights, Lou. By now, I'm a seasoned veteran by anyone's fucking standards!
+
+;0xD1888AF7=~z~Fuck you all! I don't care what people say.
+0xD1888AF7=~z~Fuck you all! I don't care what people say.
+
+;0xD301BFB1=~z~Bye bye, birdie.
+0xD301BFB1=~z~Bye bye, birdie.
+
+;0xD3C56A61=SFX_OVERLAP_1190
+0xD3C56A61=SFX_OVERLAP_1190
+
+;0xD3CF4FB9=~z~You're going to go a long way in hospitality, my friend.
+0xD3CF4FB9=~z~You're going to go a long way in hospitality, my friend.
+
+;0xD3F11324=~z~Luis, I love you, man. I love you.
+0xD3F11324=~z~Luis, I love you, man. I love you.
+
+;0xD4406C77=E2T11_APD
+0xD4406C77=E2T11_APD
+
+;0xD447D762=E2T11_IA
+0xD447D762=E2T11_IA
+
+;0xD488E4FD=~z~Stay away, Yusuf. You don't need to get involved with this. I'll call you if I make it out.
+0xD488E4FD=~z~Stay away, Yusuf. You don't need to get involved with this. I'll call you if I make it out.
+
+;0xD4BD8DEC=~z~You miss me?
+0xD4BD8DEC=~z~You miss me?
+
+;0xD4F72F1C=E2T11_AOB
+0xD4F72F1C=E2T11_AOB
+
+;0xD5CEC69E=~z~I will get you done, you bitch.
+0xD5CEC69E=~z~I will get you done, you bitch.
+
+;0xD5DAA071=E2T11_VA
+0xD5DAA071=E2T11_VA
+
+;0xD6B091D8=E2T11_ZCA
+0xD6B091D8=E2T11_ZCA
+
+;0xD6D1E9BE=~z~You ever go there, T?
+0xD6D1E9BE=~z~You ever go there, T?
+
+;0xD8831C58=~z~Yeah, hey man.
+0xD8831C58=~z~Yeah, hey man.
+
+;0xD998596A=~z~You could have had it all.
+0xD998596A=~z~You could have had it all.
+
+;0xDAAC0812=E2T11_AOD
+0xDAAC0812=E2T11_AOD
+
+;0xDB5383BA=~z~Protect the shipment with your pathetic little lives.
+0xDB5383BA=~z~Protect the shipment with your pathetic little lives.
+
+;0xDBD665E0=~z~That's great! He's out of here. We can rest easy.
+0xDBD665E0=~z~That's great! He's out of here. We can rest easy.
+
+;0xDBF6F9FF=102
+0xDBF6F9FF=102
+
+;0xDC08D1A7=~z~There goes your profit margin.
+0xDC08D1A7=~z~There goes your profit margin.
+
+;0xDCCB045E=SFX_PAUSE_270
+0xDCCB045E=SFX_PAUSE_270
+
+;0xDD1A0282=~z~Yes I'm coming now.
+0xDD1A0282=~z~Yes I'm coming now.
+
+;0xDD41A71F=~z~Okay, then you come too.
+0xDD41A71F=~z~Okay, then you come too.
+
+;0xDDAEFF35=292
+0xDDAEFF35=292
+
+;0xDEDF3AFC=SFX_PAUSE_260
+0xDEDF3AFC=SFX_PAUSE_260
+
+;0xDF01CA63=~z~Shit, Lou. Look after yourself.
+0xDF01CA63=~z~Shit, Lou. Look after yourself.
+
+;0xDF7A5E8F=100090010100090010090010090010
+0xDF7A5E8F=100090010100090010090010090010
+
+;0xDFC157AE=~z~You! Over there! You fuck with Luis Lopez you get one angry fucking Arab on your ass!
+0xDFC157AE=~z~You! Over there! You fuck with Luis Lopez you get one angry fucking Arab on your ass!
+
+;0xE0657011=E2T11_SA
+0xE0657011=E2T11_SA
+
+;0xE0D0E302=E2T11_AFG
+0xE0D0E302=E2T11_AFG
+
+;0xE11C0C70=E2T11_ZAC
+0xE11C0C70=E2T11_ZAC
+
+;0xE13D364C=E2T11_ADC
+0xE13D364C=E2T11_ADC
+
+;0xE2292C38=~z~But we survived, bro...we survived.
+0xE2292C38=~z~But we survived, bro...we survived.
+
+;0xE26637DF=E2T11_AHE
+0xE26637DF=E2T11_AHE
+
+;0xE3484689=~z~You the man, Lopez. Kick their asses.
+0xE3484689=~z~You the man, Lopez. Kick their asses.
+
+;0xE3B52BDB=~z~Where's Bulgarin?
+0xE3B52BDB=~z~Where's Bulgarin?
+
+;0xE4184FA8=E2T11_BA
+0xE4184FA8=E2T11_BA
+
+;0xE4AE092B=E2T11_AKD
+0xE4AE092B=E2T11_AKD
+
+;0xE4DC92A4=500090500090050500090050500
+0xE4DC92A4=500090500090050500090050500
+
+;0xE632B7A7=~z~I love you too.
+0xE632B7A7=~z~I love you too.
+
+;0xE64237D6=~z~- Wassup, my niggas? ~n~ '- Oh, did he just say that?
+0xE64237D6=~z~- Wassup, my niggas? ~n~ '- Oh, did he just say that?
+
+;0xE6DE9A02=201022
+0xE6DE9A02=201022
+
+;0xE746F2D6=E2T11_AFB
+0xE746F2D6=E2T11_AFB
+
+;0xE80B3888=SFX_PAUSE_180
+0xE80B3888=SFX_PAUSE_180
+
+;0xE85576E4=~z~You and the gay are nothing!
+0xE85576E4=~z~You and the gay are nothing!
+
+;0xE92807EB=~z~I ain't dead yet, bitches.
+0xE92807EB=~z~I ain't dead yet, bitches.
+
+;0xEA8313F5=SFX_PAUSE_220
+0xEA8313F5=SFX_PAUSE_220
+
+;0xEAA26A31=E2T11_ATA
+0xEAA26A31=E2T11_ATA
+
+;0xEBD487FF=E2T11_AGA
+0xEBD487FF=E2T11_AGA
+
+;0xEBD4D5D4=E2T11_AIB
+0xEBD4D5D4=E2T11_AIB
+
+;0xEC389F9F=~z~No, you fuck off, Tony. I didn't kill you. I wanted to. Why? Because you've become a useless junkie fuck, that's why.
+0xEC389F9F=~z~No, you fuck off, Tony. I didn't kill you. I wanted to. Why? Because you've become a useless junkie fuck, that's why.
+
+;0xECDA26C7=~z~Stop him!
+0xECDA26C7=~z~Stop him!
+
+;0xEDDA754A=~z~Shit, did I just do that.
+0xEDDA754A=~z~Shit, did I just do that.
+
+;0xEE7E85F1=E2T11_AAD
+0xEE7E85F1=E2T11_AAD
+
+;0xEEBC47EF=E2T11_QA
+0xEEBC47EF=E2T11_QA
+
+;0xEEC35C79=~z~Tony, bro, I love you, but I should handle this alone. I don't want you getting yourself killed.
+0xEEC35C79=~z~Tony, bro, I love you, but I should handle this alone. I don't want you getting yourself killed.
+
+;0xEF79CB8F=~z~I know that, bro, but there's no point in you coming in there. You can go off and die alone on some beach somewhere.
+0xEF79CB8F=~z~I know that, bro, but there's no point in you coming in there. You can go off and die alone on some beach somewhere.
+
+;0xEFDD8478=~z~Don't fuck with that guy.
+0xEFDD8478=~z~Don't fuck with that guy.
+
+;0xF01D44AB=~z~Timur! Where you at, bitch?
+0xF01D44AB=~z~Timur! Where you at, bitch?
+
+;0xF07481DB=~z~For me, maybe.
+0xF07481DB=~z~For me, maybe.
+
+;0xF17A7B20=~z~You dumb bastard trying to screw with Luis Lopez! Bring it on, bitches!
+0xF17A7B20=~z~You dumb bastard trying to screw with Luis Lopez! Bring it on, bitches!
+
+;0xF1FC685C=~z~Tell Ray there an angry Dominican here to see him.
+0xF1FC685C=~z~Tell Ray there an angry Dominican here to see him.
+
+;0xF2339423=E2T11_AFC
+0xF2339423=E2T11_AFC
+
+;0xF23BA091=~z~I used to play round here when I was a kid,
+0xF23BA091=~z~I used to play round here when I was a kid,
+
+;0xF251E11F=E2T11_AEB
+0xF251E11F=E2T11_AEB
+
+;0xF2D178BB=E2T11_RB
+0xF2D178BB=E2T11_RB
+
+;0xF30D2E68=~z~Yeah thank you very much.
+0xF30D2E68=~z~Yeah thank you very much.
+
+;0xF4548E0C=~z~This is where the deal is meant to be.
+0xF4548E0C=~z~This is where the deal is meant to be.
+
+;0xF4E451AE=~z~We did more than survive, amigo, we prospered.
+0xF4E451AE=~z~We did more than survive, amigo, we prospered.
+
+;0xF5002B26=SFX_PAUSE_370
+0xF5002B26=SFX_PAUSE_370
+
+;0xF52BD09A=E2T11_ANA
+0xF52BD09A=E2T11_ANA
+
+;0xF5596AAB=~z~Go give 'em hell, Luis.
+0xF5596AAB=~z~Go give 'em hell, Luis.
+
+;0xF57B31FD=E2T11_AKA
+0xF57B31FD=E2T11_AKA
+
+;0xF770DA23=~z~I love everyone!
+0xF770DA23=~z~I love everyone!
+
+;0xF78ED649=E2T11_AFA1
+0xF78ED649=E2T11_AFA1
+
+;0xF7EB362B=E2T11_VA
+0xF7EB362B=E2T11_VA
+
+;0xF8085B62=~z~Huh? Oh jeez, who's this?
+0xF8085B62=~z~Huh? Oh jeez, who's this?
+
+;0xF8AAD155=050050090500090500090500050090050090050
+0xF8AAD155=050050090500090500090500050090050090050
+
+;0xF8AC3886=~z~The Russian mob want me dead, my best friend just contemplated murdering me, the mob are on my case,
+0xF8AC3886=~z~The Russian mob want me dead, my best friend just contemplated murdering me, the mob are on my case,
+
+;0xF8B93A48=~z~I got to get down the Dukes Expressway without any number of Russian assassins taking me down, or we're done.
+0xF8B93A48=~z~I got to get down the Dukes Expressway without any number of Russian assassins taking me down, or we're done.
+
+;0xF94F6347=~z~Come on! Come on!
+0xF94F6347=~z~Come on! Come on!
+
+;0xF96BC2F2=~z~I'll take my chances.
+0xF96BC2F2=~z~I'll take my chances.
+
+;0xF97CB57D=~z~Timur is name, asshole.
+0xF97CB57D=~z~Timur is name, asshole.
+
+;0xF9F52555=E2T11_AHA2
+0xF9F52555=E2T11_AHA2
+
+;0xFB56345C=E2T11_AQA
+0xFB56345C=E2T11_AQA
+
+;0xFB5CBBCF=SFX_PAUSE_190
+0xFB5CBBCF=SFX_PAUSE_190
+
+;0xFBF356F1=292
+0xFBF356F1=292
+
+;0xFC188A58=~z~Oh bollocks. What have I done?
+0xFC188A58=~z~Oh bollocks. What have I done?
+
+;0xFD26C01C=E2T11_WA
+0xFD26C01C=E2T11_WA
+
+;0xFD96CA13=~z~Look who's here, Ray.
+0xFD96CA13=~z~Look who's here, Ray.
+
+;0xFDFBE068=~z~Timur! Bulgarin! Come on, motherfuckers.
+0xFDFBE068=~z~Timur! Bulgarin! Come on, motherfuckers.
+
+;0xFEF81D18=SFX_PAUSE_310
+0xFEF81D18=SFX_PAUSE_310
+
+;0xFF68BAEF=~z~You did it. You saved my life, you saved the business. You fucking did it.
+0xFF68BAEF=~z~You did it. You saved my life, you saved the business. You fucking did it.
+
+;0xFFAB0437=~z~Mr. Ray has left, faggot. He already at airport.
+0xFFAB0437=~z~Mr. Ray has left, faggot. He already at airport.
+

@@ -1,0 +1,994 @@
+﻿[E2FHAU]
+;0x00B08C60=200
+0x00B08C60=200
+
+;0x0396CEA1=~z~Yo man! Fuck, I don't wanna abuse your generosity, but I need a Bullet like right now. That cool, bro?
+0x0396CEA1=~z~Yo man! Fuck, I don't wanna abuse your generosity, but I need a Bullet like right now. That cool, bro?
+
+;0x045B0176=~z~Something up? I was enjoying that.
+0x045B0176=~z~Something up? I was enjoying that.
+
+;0x054DB094=~z~It's like baseball only hitting along the ground. No wonder you good.
+0x054DB094=~z~It's like baseball only hitting along the ground. No wonder you good.
+
+;0x065B19ED=100
+0x065B19ED=100
+
+;0x067A1484=200
+0x067A1484=200
+
+;0x06B20F34=200
+0x06B20F34=200
+
+;0x0898AE65=~z~We can't right now, man. Armando has some scheme we working on. Another time.
+0x0898AE65=~z~We can't right now, man. Armando has some scheme we working on. Another time.
+
+;0x08BA931C=~z~L, it's Henrique.
+0x08BA931C=~z~L, it's Henrique.
+
+;0x0ABE0FAF=200
+0x0ABE0FAF=200
+
+;0x0B6E9B69=~z~We can't leave A like that. He my boss. Let's go back.
+0x0B6E9B69=~z~We can't leave A like that. He my boss. Let's go back.
+
+;0x0BB29886=~z~Okay, loco, I'm on my way.
+0x0BB29886=~z~Okay, loco, I'm on my way.
+
+;0x0BD37E9C=~z~Shit. I never lost to no woman before.
+0x0BD37E9C=~z~Shit. I never lost to no woman before.
+
+;0x0C0A1102=010
+0x0C0A1102=010
+
+;0x0DD0B7AF=100
+0x0DD0B7AF=100
+
+;0x0E2FDFD8=E2FH_LA
+0x0E2FDFD8=E2FH_LA
+
+;0x0E6AA5A1=~z~I got to go back the corners now? Shit.
+0x0E6AA5A1=~z~I got to go back the corners now? Shit.
+
+;0x0ECA9EA9=~z~Yo, man. I just as good at that shit as you.
+0x0ECA9EA9=~z~Yo, man. I just as good at that shit as you.
+
+;0x0EEFCE52=200
+0x0EEFCE52=200
+
+;0x0F96568D=~z~You wait up and I gonna be there with exactly what you need. Wait and see.
+0x0F96568D=~z~You wait up and I gonna be there with exactly what you need. Wait and see.
+
+;0x0FAF2B27=~z~No more pool for me, bro. I might puke on that felt or somethin'.
+0x0FAF2B27=~z~No more pool for me, bro. I might puke on that felt or somethin'.
+
+;0x10EC65C9=E2FH_BVA
+0x10EC65C9=E2FH_BVA
+
+;0x10EDD255=E2FH_BPA
+0x10EDD255=E2FH_BPA
+
+;0x1189F6FC=~z~Thanks Luis. For nothing.
+0x1189F6FC=~z~Thanks Luis. For nothing.
+
+;0x12A85CFF=~z~L, nice to talk to you, but I can't help out. I got some things to handle in the Heights. I hope you gonna be okay.
+0x12A85CFF=~z~L, nice to talk to you, but I can't help out. I got some things to handle in the Heights. I hope you gonna be okay.
+
+;0x145ECC43=~z~Oye, loco, big favor, but you think you could get one them NOOSE Tanks for me?
+0x145ECC43=~z~Oye, loco, big favor, but you think you could get one them NOOSE Tanks for me?
+
+;0x14AD41D5=010
+0x14AD41D5=010
+
+;0x153FD447=200
+0x153FD447=200
+
+;0x158DE4C9=~z~Wanna get a drink?
+0x158DE4C9=~z~Wanna get a drink?
+
+;0x15B37C6B=~z~I don't like leaving shit unfinished.
+0x15B37C6B=~z~I don't like leaving shit unfinished.
+
+;0x1624A509=~z~What we got to do that better than darts.
+0x1624A509=~z~What we got to do that better than darts.
+
+;0x1631A16F=~z~You wanna bowl? We near memory lanes.
+0x1631A16F=~z~You wanna bowl? We near memory lanes.
+
+;0x17059BB9=E2FH_ARA
+0x17059BB9=E2FH_ARA
+
+;0x1ACBAE72=~z~Sorry man, I'm having a nap.
+0x1ACBAE72=~z~Sorry man, I'm having a nap.
+
+;0x1BD60705=~z~I done my ball hitting and I can concentrate on staying drunk.
+0x1BD60705=~z~I done my ball hitting and I can concentrate on staying drunk.
+
+;0x1D27E760=E2FH_ALA
+0x1D27E760=E2FH_ALA
+
+;0x1E9C3E59=~z~K, no doubt.
+0x1E9C3E59=~z~K, no doubt.
+
+;0x1F6FDB82=200
+0x1F6FDB82=200
+
+;0x202CF85E=E2FH_AZA
+0x202CF85E=E2FH_AZA
+
+;0x20736B31=100
+0x20736B31=100
+
+;0x20793B1B=E2FH_QA
+0x20793B1B=E2FH_QA
+
+;0x20921555=~z~Yo, L. I was thinking since you so busy and I got time, I could get you a car if you need it. Let me know.
+0x20921555=~z~Yo, L. I was thinking since you so busy and I got time, I could get you a car if you need it. Let me know.
+
+;0x214F43BF=~z~I'll be there soon, bro.
+0x214F43BF=~z~I'll be there soon, bro.
+
+;0x229D2ACA=~z~You always were lucky L.
+0x229D2ACA=~z~You always were lucky L.
+
+;0x22BC68FE=~z~Hey, bro. I don't want you taking uneccessary risks, but I could really use a NOOSE Tank. There somewhere you can find one?
+0x22BC68FE=~z~Hey, bro. I don't want you taking uneccessary risks, but I could really use a NOOSE Tank. There somewhere you can find one?
+
+;0x23CF4144=E2FH_BA
+0x23CF4144=E2FH_BA
+
+;0x241F3398=200
+0x241F3398=200
+
+;0x248F3C5E=~z~Wanna hit up Honkers?
+0x248F3C5E=~z~Wanna hit up Honkers?
+
+;0x252D4C01=~z~Bro, it's me, H.
+0x252D4C01=~z~Bro, it's me, H.
+
+;0x25E6CB18=~z~I outsmarted you on the table, bro. Maybe we should play chess next.
+0x25E6CB18=~z~I outsmarted you on the table, bro. Maybe we should play chess next.
+
+;0x27223C7D=~z~Sure thing, man. Come and pick us up. We'll be here for the next couple of hours.
+0x27223C7D=~z~Sure thing, man. Come and pick us up. We'll be here for the next couple of hours.
+
+;0x27631FCE=~z~I guess we will finish another time, L.
+0x27631FCE=~z~I guess we will finish another time, L.
+
+;0x286AEAC3=E2FH_BTA
+0x286AEAC3=E2FH_BTA
+
+;0x29064AE7=~z~Sorry dude, I'm resting - some other time.
+0x29064AE7=~z~Sorry dude, I'm resting - some other time.
+
+;0x296DFF81=~z~My fingers too big for that shit, bro. I never gonna be good.
+0x296DFF81=~z~My fingers too big for that shit, bro. I never gonna be good.
+
+;0x2A98A48A=~z~We finished with hitting them balls.
+0x2A98A48A=~z~We finished with hitting them balls.
+
+;0x2ACCC90A=~z~Sorry bro, but I can't hang.
+0x2ACCC90A=~z~Sorry bro, but I can't hang.
+
+;0x2BB3CAB4=~z~Sorry H, but I can't hang right now. Some shit came up.
+0x2BB3CAB4=~z~Sorry H, but I can't hang right now. Some shit came up.
+
+;0x2BE5D531=200
+0x2BE5D531=200
+
+;0x2E562542=E2FH_AIA
+0x2E562542=E2FH_AIA
+
+;0x3028C41D=~z~Okay monstruo, I hit you up later.
+0x3028C41D=~z~Okay monstruo, I hit you up later.
+
+;0x32B42F82=~z~Bowling and booze - I feel like white trash.
+0x32B42F82=~z~Bowling and booze - I feel like white trash.
+
+;0x3390B114=~z~You busy, or can you hang with me and the freak?
+0x3390B114=~z~You busy, or can you hang with me and the freak?
+
+;0x34212752=~z~Sorry I didn't get your call. Please try back later.
+0x34212752=~z~Sorry I didn't get your call. Please try back later.
+
+;0x345144CA=~z~Armando all by himself. He really not gonna like that. He gets lonely.
+0x345144CA=~z~Armando all by himself. He really not gonna like that. He gets lonely.
+
+;0x34E26AD8=~z~Hey, you seen that. We even, bro.
+0x34E26AD8=~z~Hey, you seen that. We even, bro.
+
+;0x34E7884F=~z~Rique, que la que monstruo? I could really use a Turismo if you could get one.
+0x34E7884F=~z~Rique, que la que monstruo? I could really use a Turismo if you could get one.
+
+;0x3530D89A=~z~Okay man, sure. We'll be waiting for you. Don't leave us waiting too long.
+0x3530D89A=~z~Okay man, sure. We'll be waiting for you. Don't leave us waiting too long.
+
+;0x35F56AE2=E2FH_BBA
+0x35F56AE2=E2FH_BBA
+
+;0x374500E5=200
+0x374500E5=200
+
+;0x37653E08=~z~Yo, H. I need you to come get me in your pickup truck.
+0x37653E08=~z~Yo, H. I need you to come get me in your pickup truck.
+
+;0x395F80DD=E2FH_BMA
+0x395F80DD=E2FH_BMA
+
+;0x398053D7=E2FH_AEA
+0x398053D7=E2FH_AEA
+
+;0x3A13422F=200
+0x3A13422F=200
+
+;0x3B6547D2=~z~It a shame we didn't finish that frame, L. Damn.
+0x3B6547D2=~z~It a shame we didn't finish that frame, L. Damn.
+
+;0x3C15DBBB=E2FH_BCA
+0x3C15DBBB=E2FH_BCA
+
+;0x3C372C9B=~z~Well you're leaving me with that a-hole Armando, but apart from that no worries.
+0x3C372C9B=~z~Well you're leaving me with that a-hole Armando, but apart from that no worries.
+
+;0x3C5F3F08=~z~I thought you had forgotten about us, homie... but of course we can hang out, come pick us up.
+0x3C5F3F08=~z~I thought you had forgotten about us, homie... but of course we can hang out, come pick us up.
+
+;0x3D2C6DC9=~z~Oye monstruo, I got a problem, I can't hang out right now.
+0x3D2C6DC9=~z~Oye monstruo, I got a problem, I can't hang out right now.
+
+;0x3D776E3B=~z~Sorry, homie, but I can't hang right now. Something just came up.
+0x3D776E3B=~z~Sorry, homie, but I can't hang right now. Something just came up.
+
+;0x3D991BAA=200
+0x3D991BAA=200
+
+;0x3DB05F30=~z~I hear you, pa. We all get busy... I'll hit you up later.
+0x3DB05F30=~z~I hear you, pa. We all get busy... I'll hit you up later.
+
+;0x3DB2CCB9=200
+0x3DB2CCB9=200
+
+;0x3DEC7B27=~z~You can't say I'm dumb, bro. Because that, like, a tactical game too.
+0x3DEC7B27=~z~You can't say I'm dumb, bro. Because that, like, a tactical game too.
+
+;0x3EB19A96=~z~Another time, man. I'm kind of busy right now.
+0x3EB19A96=~z~Another time, man. I'm kind of busy right now.
+
+;0x3EE8B942=E2FH_AAA
+0x3EE8B942=E2FH_AAA
+
+;0x3FA9A78C=~z~You say I just a thug, but them darts is delicate shit.
+0x3FA9A78C=~z~You say I just a thug, but them darts is delicate shit.
+
+;0x3FF87828=200
+0x3FF87828=200
+
+;0x4060C97D=~z~Wanna play darts? There's a pub nearby with a board.
+0x4060C97D=~z~Wanna play darts? There's a pub nearby with a board.
+
+;0x410EF582=200
+0x410EF582=200
+
+;0x4228CE44=~z~You wanna hang with your boys, bro?
+0x4228CE44=~z~You wanna hang with your boys, bro?
+
+;0x42F98E98=~z~Look. Look. You called and I'm here, L. Just like I said.
+0x42F98E98=~z~Look. Look. You called and I'm here, L. Just like I said.
+
+;0x4394F562=~z~Sure thing, man. Come get us as soon as you can.
+0x4394F562=~z~Sure thing, man. Come get us as soon as you can.
+
+;0x4440D815=~z~Sorry I was boring you, man.
+0x4440D815=~z~Sorry I was boring you, man.
+
+;0x44F03FAB=200
+0x44F03FAB=200
+
+;0x44F80BD7=E2FH_UA
+0x44F80BD7=E2FH_UA
+
+;0x453C056F=200
+0x453C056F=200
+
+;0x45B150C0=~z~Man, I'm drunk.
+0x45B150C0=~z~Man, I'm drunk.
+
+;0x45B451B2=~z~I thought you was dead, bro. I miss you, man. Come on, come pick us up, but trust me, Armando gonna be annoying, but I look forward to seeing you.
+0x45B451B2=~z~I thought you was dead, bro. I miss you, man. Come on, come pick us up, but trust me, Armando gonna be annoying, but I look forward to seeing you.
+
+;0x46166854=~z~We ditched Armando, L. He gonna be pissed.
+0x46166854=~z~We ditched Armando, L. He gonna be pissed.
+
+;0x46522B24=~z~Dimelo, fam. I don't wanna trouble you but I got need for a Turismo. You think maybe you could bring one?
+0x46522B24=~z~Dimelo, fam. I don't wanna trouble you but I got need for a Turismo. You think maybe you could bring one?
+
+;0x4654D4EC=~z~Sorry man.
+0x4654D4EC=~z~Sorry man.
+
+;0x472FB115=200
+0x472FB115=200
+
+;0x49952EF2=010
+0x49952EF2=010
+
+;0x4A181D1F=~z~Oh, I thought you must have finally moved on from us, man... yeah, see you soon, I guess.
+0x4A181D1F=~z~Oh, I thought you must have finally moved on from us, man... yeah, see you soon, I guess.
+
+;0x4A607F8C=200
+0x4A607F8C=200
+
+;0x4B4FC968=E2FH_BNA
+0x4B4FC968=E2FH_BNA
+
+;0x4B5B91DB=200
+0x4B5B91DB=200
+
+;0x4C4FFC6F=~z~Okay then, I guess I'll hit you up later.
+0x4C4FFC6F=~z~Okay then, I guess I'll hit you up later.
+
+;0x4D49E5FC=E2FH_YA
+0x4D49E5FC=E2FH_YA
+
+;0x4DAB9E4F=~z~Wanna eat? There's a Burger Shot.
+0x4DAB9E4F=~z~Wanna eat? There's a Burger Shot.
+
+;0x4EE943B5=E2FH_AMA
+0x4EE943B5=E2FH_AMA
+
+;0x4F043216=E2FH_AVA
+0x4F043216=E2FH_AVA
+
+;0x4F8656A7=E2FH_ACA
+0x4F8656A7=E2FH_ACA
+
+;0x506D6ACD=~z~You up to much? Me and the freak want to see you.
+0x506D6ACD=~z~You up to much? Me and the freak want to see you.
+
+;0x50AEC83D=~z~I know they ain't eighteen holes on a driving range, but we shoulda like gone the whole eighteen. You get me?
+0x50AEC83D=~z~I know they ain't eighteen holes on a driving range, but we shoulda like gone the whole eighteen. You get me?
+
+;0x50E4DE08=E2FH_KA
+0x50E4DE08=E2FH_KA
+
+;0x51885588=E2FH_WA
+0x51885588=E2FH_WA
+
+;0x51C82C35=~z~
+0x51C82C35=~z~
+
+;0x51DA91F1=~z~Sure man, we ain't up to shit, come and pick us up.
+0x51DA91F1=~z~Sure man, we ain't up to shit, come and pick us up.
+
+;0x52477DE4=E2FH_ANA
+0x52477DE4=E2FH_ANA
+
+;0x52CE3145=010
+0x52CE3145=010
+
+;0x531F4230=010
+0x531F4230=010
+
+;0x54E17F7B=100
+0x54E17F7B=100
+
+;0x57295B22=E2FH_BFA
+0x57295B22=E2FH_BFA
+
+;0x59EDE0E6=E2FH_BLA
+0x59EDE0E6=E2FH_BLA
+
+;0x5A089DBD=~z~Oye, H, it's Luis.
+0x5A089DBD=~z~Oye, H, it's Luis.
+
+;0x5BF38200=~z~Sometimes I wish I could bowl instead of working in the corners.
+0x5BF38200=~z~Sometimes I wish I could bowl instead of working in the corners.
+
+;0x5C0F7D7C=~z~Air hockey and booze kind of works together, bro.
+0x5C0F7D7C=~z~Air hockey and booze kind of works together, bro.
+
+;0x5C98DA22=200
+0x5C98DA22=200
+
+;0x5E877E9D=E2FH_RA
+0x5E877E9D=E2FH_RA
+
+;0x5FB43BE0=100
+0x5FB43BE0=100
+
+;0x6004A1FE=E2FH_FA
+0x6004A1FE=E2FH_FA
+
+;0x60C01A17=E2FH_AJA
+0x60C01A17=E2FH_AJA
+
+;0x618ACBF0=~z~We could hit up Bahama Mamas.
+0x618ACBF0=~z~We could hit up Bahama Mamas.
+
+;0x61E6FE80=E2FH_AHA
+0x61E6FE80=E2FH_AHA
+
+;0x6218A758=E2FH_BGA
+0x6218A758=E2FH_BGA
+
+;0x6321934C=~z~There's that golf driving range nearby.
+0x6321934C=~z~There's that golf driving range nearby.
+
+;0x63F99730=~z~Yo, H. You think you could come by in that pickup of yours? I need some help.
+0x63F99730=~z~Yo, H. You think you could come by in that pickup of yours? I need some help.
+
+;0x64B3B313=~z~H, it's me.
+0x64B3B313=~z~H, it's me.
+
+;0x6573710F=E2FH_CA
+0x6573710F=E2FH_CA
+
+;0x65BB2CC9=200
+0x65BB2CC9=200
+
+;0x65E9DC99=010
+0x65E9DC99=010
+
+;0x660D8362=~z~Oye, H. What's up? You got the time to maybe find a F620?
+0x660D8362=~z~Oye, H. What's up? You got the time to maybe find a F620?
+
+;0x664CA500=200
+0x664CA500=200
+
+;0x6813DDBC=~z~Great Luis, see you soon.
+0x6813DDBC=~z~Great Luis, see you soon.
+
+;0x684B703C=E2FH_HA
+0x684B703C=E2FH_HA
+
+;0x68679BA1=200
+0x68679BA1=200
+
+;0x6876CDC1=~z~Okay, I guess... I mean, I'm not bothered. Another time.
+0x6876CDC1=~z~Okay, I guess... I mean, I'm not bothered. Another time.
+
+;0x69516399=~z~L man, of course, but I ain't from you in time... you know how annoying Mando gets and you leave me with him? So hurry the fuck up.
+0x69516399=~z~L man, of course, but I ain't from you in time... you know how annoying Mando gets and you leave me with him? So hurry the fuck up.
+
+;0x696E42FD=100
+0x696E42FD=100
+
+;0x69E3AFFF=E2FH_BIA
+0x69E3AFFF=E2FH_BIA
+
+;0x6B5F293D=~z~The homebrow café has a pool table.
+0x6B5F293D=~z~The homebrow café has a pool table.
+
+;0x6BEB3BA5=~z~Okay, bro, I'll call another time.
+0x6BEB3BA5=~z~Okay, bro, I'll call another time.
+
+;0x6C2CF58C=~z~We can't right now, L. Armando has gone off some place and I've got to wait for him. Later, though, for sure.
+0x6C2CF58C=~z~We can't right now, L. Armando has gone off some place and I've got to wait for him. Later, though, for sure.
+
+;0x6D1419B3=~z~Sorry man, but I'm crazy fucking busy right now.
+0x6D1419B3=~z~Sorry man, but I'm crazy fucking busy right now.
+
+;0x6EA93D27=~z~Wanna get some food?
+0x6EA93D27=~z~Wanna get some food?
+
+;0x6EB44000=E2FH_BXA
+0x6EB44000=E2FH_BXA
+
+;0x6EE33F27=200
+0x6EE33F27=200
+
+;0x6F420B4B=E2FH_TA
+0x6F420B4B=E2FH_TA
+
+;0x70FAC0BC=~z~Wanna get some food? There's a chicken spot.
+0x70FAC0BC=~z~Wanna get some food? There's a chicken spot.
+
+;0x711C5AF0=~z~Where you been fool? You wanna hang out or have you finally given up on us?
+0x711C5AF0=~z~Where you been fool? You wanna hang out or have you finally given up on us?
+
+;0x7234F1FE=~z~See you soon, bro.
+0x7234F1FE=~z~See you soon, bro.
+
+;0x72663220=010
+0x72663220=010
+
+;0x736435AD=E2FH_ATA
+0x736435AD=E2FH_ATA
+
+;0x73A5E5BF=~z~Oye, sorry I woke you, H.
+0x73A5E5BF=~z~Oye, sorry I woke you, H.
+
+;0x7400BB37=~z~You good at potting them balls. Must be all the tea-bagging you do. He he he.
+0x7400BB37=~z~You good at potting them balls. Must be all the tea-bagging you do. He he he.
+
+;0x74104DAF=~z~You were lucky, L.
+0x74104DAF=~z~You were lucky, L.
+
+;0x7551FB7F=~z~Coño, H. That's real generous, man. I'll call you if I need something.
+0x7551FB7F=~z~Coño, H. That's real generous, man. I'll call you if I need something.
+
+;0x75EAB9DF=E2FH_GA
+0x75EAB9DF=E2FH_GA
+
+;0x76120BF9=100
+0x76120BF9=100
+
+;0x7663106D=E2FH_AGA
+0x7663106D=E2FH_AGA
+
+;0x766D5686=~z~Hey, bro, it's me.
+0x766D5686=~z~Hey, bro, it's me.
+
+;0x76BC6A4C=~z~Well, we miss you man... another time.
+0x76BC6A4C=~z~Well, we miss you man... another time.
+
+;0x785427EF=~z~H, man, I'm kinda in a rush. I need an F620. There any way you could bring me one?
+0x785427EF=~z~H, man, I'm kinda in a rush. I need an F620. There any way you could bring me one?
+
+;0x7910C557=~z~You handy with the stick, L. The ladies must like that.
+0x7910C557=~z~You handy with the stick, L. The ladies must like that.
+
+;0x791C76C3=~z~We left A, bro. We got to go back for him.
+0x791C76C3=~z~We left A, bro. We got to go back for him.
+
+;0x79F8564F=~z~Do you and your angry little friend want to hang out?
+0x79F8564F=~z~Do you and your angry little friend want to hang out?
+
+;0x7A59E3E4=~z~I didn't wanna say but I was getting' real dizzy staring at that board.
+0x7A59E3E4=~z~I didn't wanna say but I was getting' real dizzy staring at that board.
+
+;0x7AAFFA80=100
+0x7AAFFA80=100
+
+;0x7CB07B83=E2FH_NA
+0x7CB07B83=E2FH_NA
+
+;0x7D0EC436=~z~That was fun, but I'm drunk.
+0x7D0EC436=~z~That was fun, but I'm drunk.
+
+;0x7D2B07EE=~z~Cool, L, see you soon.
+0x7D2B07EE=~z~Cool, L, see you soon.
+
+;0x7D439BC6=E2FH_SA
+0x7D439BC6=E2FH_SA
+
+;0x7ED271D5=100
+0x7ED271D5=100
+
+;0x7F099100=~z~Is'nt Hercules your favorite spot, L? I know you got a job there.
+0x7F099100=~z~Is'nt Hercules your favorite spot, L? I know you got a job there.
+
+;0x806BF98F=~z~Bro where the fuck youu at? I miss you, man... you wanna hang out?
+0x806BF98F=~z~Bro where the fuck youu at? I miss you, man... you wanna hang out?
+
+;0x8219B960=200
+0x8219B960=200
+
+;0x82A713FB=E2FH_BAA
+0x82A713FB=E2FH_BAA
+
+;0x8480205D=E2FH_BSA
+0x8480205D=E2FH_BSA
+
+;0x8654F38B=100
+0x8654F38B=100
+
+;0x865B9DA9=~z~Okay ,an, but where you been? You getting too cool for us, I guess, but be good to see you any how.
+0x865B9DA9=~z~Okay ,an, but where you been? You getting too cool for us, I guess, but be good to see you any how.
+
+;0x877EE4FC=200
+0x877EE4FC=200
+
+;0x87C53669=~z~Why didn't we finish the game, yo.
+0x87C53669=~z~Why didn't we finish the game, yo.
+
+;0x884D6E36=200
+0x884D6E36=200
+
+;0x89B1F5C2=~z~You morons free to hang out for a while?
+0x89B1F5C2=~z~You morons free to hang out for a while?
+
+;0x89D87803=100
+0x89D87803=100
+
+;0x8B60CE88=200
+0x8B60CE88=200
+
+;0x8CF980EA=~z~Luis, you won, man. You pretty good.
+0x8CF980EA=~z~Luis, you won, man. You pretty good.
+
+;0x8E4E66B5=~z~We bowled the shit out that shit. I like bowling.
+0x8E4E66B5=~z~We bowled the shit out that shit. I like bowling.
+
+;0x8EC66CC9=~z~Mira, monstruo. What you doing? You think you could swing by in the pickup truck.
+0x8EC66CC9=~z~Mira, monstruo. What you doing? You think you could swing by in the pickup truck.
+
+;0x8F9024B9=E2FH_PA
+0x8F9024B9=E2FH_PA
+
+;0x90F6D61D=~z~No worries, bro, see you soon.
+0x90F6D61D=~z~No worries, bro, see you soon.
+
+;0x91A877D6=010
+0x91A877D6=010
+
+;0x92A11CBF=~z~Yo, H. I need a Serrano, bro. Can you get one?
+0x92A11CBF=~z~Yo, H. I need a Serrano, bro. Can you get one?
+
+;0x931C0155=E2FH_ADA
+0x931C0155=E2FH_ADA
+
+;0x93AB7FCD=010
+0x93AB7FCD=010
+
+;0x94F227A7=100
+0x94F227A7=100
+
+;0x972A6300=E2FH_AKA
+0x972A6300=E2FH_AKA
+
+;0x97F01F14=~z~I'm real drunk, yo.
+0x97F01F14=~z~I'm real drunk, yo.
+
+;0x97FA48E3=010
+0x97FA48E3=010
+
+;0x98DD22A5=010
+0x98DD22A5=010
+
+;0x99622A18=~z~Damn, I knew I was stronger than you. I can hit them things better.
+0x99622A18=~z~Damn, I knew I was stronger than you. I can hit them things better.
+
+;0x9AD806AF=~z~Sorry dude, but you always was shit at that.
+0x9AD806AF=~z~Sorry dude, but you always was shit at that.
+
+;0x9CCCC864=010
+0x9CCCC864=010
+
+;0x9D1E097C=~z~Oye, monstruo. I'm in a tight spot. You mind cruising by in your pickup?
+0x9D1E097C=~z~Oye, monstruo. I'm in a tight spot. You mind cruising by in your pickup?
+
+;0x9DA332C3=~z~Henrique, you think you might be able to get hold of a Serrano for me?
+0x9DA332C3=~z~Henrique, you think you might be able to get hold of a Serrano for me?
+
+;0x9DC85C3D=E2FH_EA
+0x9DC85C3D=E2FH_EA
+
+;0x9E0FCD0F=E2FH_BOA
+0x9E0FCD0F=E2FH_BOA
+
+;0x9EAF2455=~z~You ain't bad at this shit, L.
+0x9EAF2455=~z~You ain't bad at this shit, L.
+
+;0x9F840AA8=E2FH_DA
+0x9F840AA8=E2FH_DA
+
+;0xA0B80E67=100
+0xA0B80E67=100
+
+;0xA0EF9175=~z~Thanks, H. You a good guy.
+0xA0EF9175=~z~Thanks, H. You a good guy.
+
+;0xA1470F0A=200
+0xA1470F0A=200
+
+;0xA1C441FB=~z~I'll hit you up some other time, H. Have a good sleep.
+0xA1C441FB=~z~I'll hit you up some other time, H. Have a good sleep.
+
+;0xA2658D0C=~z~Who the champion now, bro. Yeah. The H bomb.
+0xA2658D0C=~z~Who the champion now, bro. Yeah. The H bomb.
+
+;0xA26E621C=200
+0xA26E621C=200
+
+;0xA27699F2=010
+0xA27699F2=010
+
+;0xA3119B37=~z~Oye, bro. I'm in a real rush, and I was thinking I could use a Buffalo. You think you could get your hands on one?
+0xA3119B37=~z~Oye, bro. I'm in a real rush, and I was thinking I could use a Buffalo. You think you could get your hands on one?
+
+;0xA349F33B=~z~I guess you good with little spikey things, Luis. He he he.
+0xA349F33B=~z~I guess you good with little spikey things, Luis. He he he.
+
+;0xA3714064=200
+0xA3714064=200
+
+;0xA3D0CF33=E2FH_AQA
+0xA3D0CF33=E2FH_AQA
+
+;0xA51BFB83=~z~Hey bro - remember me? You wanna hang?
+0xA51BFB83=~z~Hey bro - remember me? You wanna hang?
+
+;0xA779F8DA=E2FH_ASA
+0xA779F8DA=E2FH_ASA
+
+;0xA7EF878F=~z~Shit, bro. I'm real sorry, but I can't help you. Sorry, bro.
+0xA7EF878F=~z~Shit, bro. I'm real sorry, but I can't help you. Sorry, bro.
+
+;0xA80F1D83=010
+0xA80F1D83=010
+
+;0xA84A760B=E2FH_BRA
+0xA84A760B=E2FH_BRA
+
+;0xA89AA234=~z~Sorry man, but it's different when you play with men... wait.. that sounded wrong.
+0xA89AA234=~z~Sorry man, but it's different when you play with men... wait.. that sounded wrong.
+
+;0xA9CEC301=~z~Should we head into maisonette, L?
+0xA9CEC301=~z~Should we head into maisonette, L?
+
+;0xA9D020FC=200
+0xA9D020FC=200
+
+;0xAB05DEAF=~z~Here I am, L. Like I promised.
+0xAB05DEAF=~z~Here I am, L. Like I promised.
+
+;0xAB5807FB=~z~It's me, L - you wanna hang out or you too busy again?
+0xAB5807FB=~z~It's me, L - you wanna hang out or you too busy again?
+
+;0xADF1F09D=200
+0xADF1F09D=200
+
+;0xAF43E779=~z~Oh, it's you... where you been man? We been missing you, sure we can hang, I'm just saying it's sad that's all.
+0xAF43E779=~z~Oh, it's you... where you been man? We been missing you, sure we can hang, I'm just saying it's sad that's all.
+
+;0xB0144282=~z~You and A want to hang out?
+0xB0144282=~z~You and A want to hang out?
+
+;0xB016179E=~z~I coming right at you with that shit, L. Anything to help out a friend.
+0xB016179E=~z~I coming right at you with that shit, L. Anything to help out a friend.
+
+;0xB169EB7B=~z~Here I am, L. H bomb to the rescue.
+0xB169EB7B=~z~Here I am, L. H bomb to the rescue.
+
+;0xB1C82BD1=~z~I won, yo. You see that, bro? I won.
+0xB1C82BD1=~z~I won, yo. You see that, bro? I won.
+
+;0xB29401CF=E2FH_AFA
+0xB29401CF=E2FH_AFA
+
+;0xB33427C3=~z~Okay. Hit me up when you free
+0xB33427C3=~z~Okay. Hit me up when you free
+
+;0xB37A4515=E2FH_VA
+0xB37A4515=E2FH_VA
+
+;0xB392E73B=E2FH_XA
+0xB392E73B=E2FH_XA
+
+;0xB496F1D1=~z~I may be dumb, but I'm dependable, L.
+0xB496F1D1=~z~I may be dumb, but I'm dependable, L.
+
+;0xB5669A34=E2FH_BHA
+0xB5669A34=E2FH_BHA
+
+;0xB5C12332=~z~Damn, L. I wish I could get out this shit, but Armando gonna get pissed if I leave. Another time, yo.
+0xB5C12332=~z~Damn, L. I wish I could get out this shit, but Armando gonna get pissed if I leave. Another time, yo.
+
+;0xB908352D=200
+0xB908352D=200
+
+;0xBC283754=010
+0xBC283754=010
+
+;0xBC732125=~z~You didn't go easy on me, L? I won fair.
+0xBC732125=~z~You didn't go easy on me, L? I won fair.
+
+;0xBC9006C1=E2FH_BEA
+0xBC9006C1=E2FH_BEA
+
+;0xBDAC2035=100
+0xBDAC2035=100
+
+;0xBE0A4503=200
+0xBE0A4503=200
+
+;0xBE16C971=100
+0xBE16C971=100
+
+;0xBEDAABCC=~z~Now you gotta hang out again, L. 'Cause we need to have us a rematch.
+0xBEDAABCC=~z~Now you gotta hang out again, L. 'Cause we need to have us a rematch.
+
+;0xC10CC374=~z~Sad to hear that. Hit me when you free.
+0xC10CC374=~z~Sad to hear that. Hit me when you free.
+
+;0xC15D3983=E2FH_ZA
+0xC15D3983=E2FH_ZA
+
+;0xC19998D6=~z~Yeah sure, I'm on my way.
+0xC19998D6=~z~Yeah sure, I'm on my way.
+
+;0xC378A6A5=E2FH_AYA
+0xC378A6A5=E2FH_AYA
+
+;0xC3B4D2CB=~z~Wanna hit up the Triangle Club?
+0xC3B4D2CB=~z~Wanna hit up the Triangle Club?
+
+;0xC3B5B029=E2FH_OA
+0xC3B5B029=E2FH_OA
+
+;0xC518B2F9=E2FH_BJA
+0xC518B2F9=E2FH_BJA
+
+;0xC64FFFD2=E2FH_MA
+0xC64FFFD2=E2FH_MA
+
+;0xC6FA5635=~z~I told you I always beat women, L.
+0xC6FA5635=~z~I told you I always beat women, L.
+
+;0xC76900FE=020
+0xC76900FE=020
+
+;0xC7FAF157=E2FH_IA
+0xC7FAF157=E2FH_IA
+
+;0xC81226E4=010
+0xC81226E4=010
+
+;0xC836FA18=~z~Henrique, it's me, man, L.
+0xC836FA18=~z~Henrique, it's me, man, L.
+
+;0xC866605E=~z~We should have finished that.
+0xC866605E=~z~We should have finished that.
+
+;0xC9E4C1D4=~z~A draw is the best result.
+0xC9E4C1D4=~z~A draw is the best result.
+
+;0xCA4D4C0C=~z~Sure thing, L. It gonna be good to get away from Armando for a bit. He gets kinda clingy.
+0xCA4D4C0C=~z~Sure thing, L. It gonna be good to get away from Armando for a bit. He gets kinda clingy.
+
+;0xCB39E609=~z~Coño, bro. You a true friend.
+0xCB39E609=~z~Coño, bro. You a true friend.
+
+;0xCBAEEEF8=E2FH_BQA
+0xCBAEEEF8=E2FH_BQA
+
+;0xCBD6D737=~z~Sorry pa, I'm kinda busy.
+0xCBD6D737=~z~Sorry pa, I'm kinda busy.
+
+;0xCCA1C75A=~z~You owe me a rematch now, bor. Don't duck out on it. You owe me a rematch.
+0xCCA1C75A=~z~You owe me a rematch now, bor. Don't duck out on it. You owe me a rematch.
+
+;0xD136F781=~z~Henrique. Que la que? Do you think you could get me a Buffalo? It would help.
+0xD136F781=~z~Henrique. Que la que? Do you think you could get me a Buffalo? It would help.
+
+;0xD48A6086=~z~No problem, homie. Anything to get off this corner.
+0xD48A6086=~z~No problem, homie. Anything to get off this corner.
+
+;0xD6BEEED8=~z~Okay...then hit me up when you free
+0xD6BEEED8=~z~Okay...then hit me up when you free
+
+;0xD7E1C566=~z~No doubt. I'll head over.
+0xD7E1C566=~z~No doubt. I'll head over.
+
+;0xD94F06F2=E2FH_AOA
+0xD94F06F2=E2FH_AOA
+
+;0xD9B382FC=~z~You the best, H. Believe that.
+0xD9B382FC=~z~You the best, H. Believe that.
+
+;0xD9F93FBC=~z~We done with the pool shit. Man, I'm getting real horny.
+0xD9F93FBC=~z~We done with the pool shit. Man, I'm getting real horny.
+
+;0xDA58968E=E2FH_JA
+0xDA58968E=E2FH_JA
+
+;0xDAB974FC=~z~I can't right now bro.
+0xDAB974FC=~z~I can't right now bro.
+
+;0xDB0B4BF5=~z~No doubt. I'll be with you soon. Within two hours.
+0xDB0B4BF5=~z~No doubt. I'll be with you soon. Within two hours.
+
+;0xDB7064F7=~z~Well done man - a draw is a cool result.
+0xDB7064F7=~z~Well done man - a draw is a cool result.
+
+;0xDC682EBF=100
+0xDC682EBF=100
+
+;0xDC77B042=~z~I only won because I'm stronger. You need to beef up.
+0xDC77B042=~z~I only won because I'm stronger. You need to beef up.
+
+;0xDC9D3AE2=~z~Hey Luis, it's me.
+0xDC9D3AE2=~z~Hey Luis, it's me.
+
+;0xDCB9FC11=100
+0xDCB9FC11=100
+
+;0xDCE22ADC=E2FH_BDA
+0xDCE22ADC=E2FH_BDA
+
+;0xDE5B86AB=~z~Me and the freak want to see you, can you hang out?
+0xDE5B86AB=~z~Me and the freak want to see you, can you hang out?
+
+;0xE1E436F4=E2FH_AXA
+0xE1E436F4=E2FH_AXA
+
+;0xE34E9A86=~z~Cool, cause it's good to know people don't give a shit about you, man.
+0xE34E9A86=~z~Cool, cause it's good to know people don't give a shit about you, man.
+
+;0xE4B08ABB=~z~Well, when you got more time, hit one of us up.
+0xE4B08ABB=~z~Well, when you got more time, hit one of us up.
+
+;0xE528602F=~z~Cool bro, I'm down. I'll come and get you. I'll be there within two hours.
+0xE528602F=~z~Cool bro, I'm down. I'll come and get you. I'll be there within two hours.
+
+;0xE5AD837F=E2FH_APA
+0xE5AD837F=E2FH_APA
+
+;0xE65EAF16=~z~You boys up to anything? Want to hang out?
+0xE65EAF16=~z~You boys up to anything? Want to hang out?
+
+;0xE6C8CCDB=200
+0xE6C8CCDB=200
+
+;0xE8681059=~z~Oye, sorry H, but I got mad shit going on right now.
+0xE8681059=~z~Oye, sorry H, but I got mad shit going on right now.
+
+;0xE89C8AA7=200
+0xE89C8AA7=200
+
+;0xE8ECC733=200
+0xE8ECC733=200
+
+;0xEA7C7225=~z~Shit, sorry L, kind of tied up right now. Maybe later.
+0xEA7C7225=~z~Shit, sorry L, kind of tied up right now. Maybe later.
+
+;0xEC51F92E=E2FH_BUA
+0xEC51F92E=E2FH_BUA
+
+;0xEE30A3D5=~z~Rique, it's Luis, bro. I was thinking I could really use a Bullet. You know of one that might be available?
+0xEE30A3D5=~z~Rique, it's Luis, bro. I was thinking I could really use a Bullet. You know of one that might be available?
+
+;0xEF4CAE2E=~z~Conõ, Rique, you the man. Thank you.
+0xEF4CAE2E=~z~Conõ, Rique, you the man. Thank you.
+
+;0xF086AE1B=E2FH_ABA
+0xF086AE1B=E2FH_ABA
+
+;0xF11B918D=E2FH_AWA
+0xF11B918D=E2FH_AWA
+
+;0xF125B350=~z~I guess we'll finish when you're not on your period.
+0xF125B350=~z~I guess we'll finish when you're not on your period.
+
+;0xF126BB24=E2FH_AUA
+0xF126BB24=E2FH_AUA
+
+;0xF22871E7=~z~Great. I need someone to deal with Armando. That fool has been annoying the hell outta me. See you soon.
+0xF22871E7=~z~Great. I need someone to deal with Armando. That fool has been annoying the hell outta me. See you soon.
+
+;0xF30BBB79=E2FH_AA
+0xF30BBB79=E2FH_AA
+
+;0xF4D76B14=100
+0xF4D76B14=100
+
+;0xF4E74D07=E2FH_BKA
+0xF4E74D07=E2FH_BKA
+
+;0xF6971327=~z~Damn, Luis. You one finessful motherfucker.
+0xF6971327=~z~Damn, Luis. You one finessful motherfucker.
+
+;0xF8B691F7=100
+0xF8B691F7=100
+
+;0xF8DCFAF8=~z~Hey, we could play airhockey, at memory lanes?
+0xF8DCFAF8=~z~Hey, we could play airhockey, at memory lanes?
+
+;0xFA6CDBCF=~z~I can't believe you won. I never lost to a woman before.
+0xFA6CDBCF=~z~I can't believe you won. I never lost to a woman before.
+
+;0xFB087732=~z~I'm on my way, fool.
+0xFB087732=~z~I'm on my way, fool.
+
+;0xFCDE316B=~z~I can't do that right now. Armando got me looking after some stuff for him. I don't want him to get angry again.
+0xFCDE316B=~z~I can't do that right now. Armando got me looking after some stuff for him. I don't want him to get angry again.
+
+;0xFDE34B5B=~z~Here he is. I appreciate this, bro.
+0xFDE34B5B=~z~Here he is. I appreciate this, bro.
+
+;0xFE687E78=~z~Hey man, it's Henrique.
+0xFE687E78=~z~Hey man, it's Henrique.
+
+;0xFFAF882B=~z~Damn. I don't get to finish nothing these days.
+0xFFAF882B=~z~Damn. I don't get to finish nothing these days.
+

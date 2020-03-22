@@ -1,0 +1,58 @@
+﻿[CLBPRC1]
+;0x06754C79=~r~Clay's friend was hurt.
+0x06754C79=~r~Clay's friend was hurt.
+
+;0x162AEBE4=~r~Clay was hurt.
+0x162AEBE4=~r~Clay was hurt.
+
+;0x2AF11570=Get back in Clay's ~b~car.
+0x2AF11570=Get back in Clay's ~b~car.
+
+;0x389FB0CD=~r~The paparazzi were injured.
+0x389FB0CD=~r~The paparazzi were injured.
+
+;0x6FB31BA7=Lose the cops.
+0x6FB31BA7=Lose the cops.
+
+;0x915C5EF9=~r~You wrecked Clay PG Jackson's car.
+0x915C5EF9=~r~You wrecked Clay PG Jackson's car.
+
+;0xA187FF50=~r~You've attracted negative attention to the club.
+0xA187FF50=~r~You've attracted negative attention to the club.
+
+;0xA3E5040E=Lose the ~r~paparazzi~s~ without hurting them.
+0xA3E5040E=Lose the ~r~paparazzi~s~ without hurting them.
+
+;0xA6708931=Get to the ~y~Majestic hotel.
+0xA6708931=Get to the ~y~Majestic hotel.
+
+;0xB4FD8BAD=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0xB4FD8BAD=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+
+;0xB8A0B0D1=~r~You wrecked a paparazzi vehicle.
+0xB8A0B0D1=~r~You wrecked a paparazzi vehicle.
+
+;0xBB85B35B=~r~You abandoned Clay PG Jackson.
+0xBB85B35B=~r~You abandoned Clay PG Jackson.
+
+;0xCE5758F2=Go and meet ~b~Clay PG Jackson.
+0xCE5758F2=Go and meet ~b~Clay PG Jackson.
+
+;0xCED2DD35=~r~The paparazzi got their pictures.
+0xCED2DD35=~r~The paparazzi got their pictures.
+
+;0xD89B6D86=You've left ~b~Clay PG Jackson~s~ behind.
+0xD89B6D86=You've left ~b~Clay PG Jackson~s~ behind.
+
+;0xDE2D7BEA=~r~You hurt Troy.
+0xDE2D7BEA=~r~You hurt Troy.
+
+;0xE3EB878A=~r~Club management failed.
+0xE3EB878A=~r~Club management failed.
+
+;0xEBB113A5=Get in the ~b~car.
+0xEBB113A5=Get in the ~b~car.
+
+;0xF264A458=~r~You hurt Dessie.
+0xF264A458=~r~You hurt Dessie.
+

@@ -1,0 +1,52 @@
+﻿[ARN02]
+;0x071F00E2=Collect the ~g~wallet.
+0x071F00E2=Collect the ~g~wallet.
+
+;0x148D9AA7=You've left ~b~Arnaud~s~ behind.
+0x148D9AA7=You've left ~b~Arnaud~s~ behind.
+
+;0x1D652D6E=~r~The wallet was destroyed in the fire.
+0x1D652D6E=~r~The wallet was destroyed in the fire.
+
+;0x263C3E04=Lose the cops.
+0x263C3E04=Lose the cops.
+
+;0x42BBF703=~r~You abandoned Arnaud.
+0x42BBF703=~r~You abandoned Arnaud.
+
+;0x74FFDC9A=~r~You abandoned the wallet.
+0x74FFDC9A=~r~You abandoned the wallet.
+
+;0x95941CB6=The ~r~pimp~s~ is fleeing on foot. Take him out.
+0x95941CB6=The ~r~pimp~s~ is fleeing on foot. Take him out.
+
+;0x9F60315E=~r~The cops scared off the pimp.
+0x9F60315E=~r~The cops scared off the pimp.
+
+;0xA6C5BF19=Take out the ~r~pimp.
+0xA6C5BF19=Take out the ~r~pimp.
+
+;0xB08DD3BD=~r~You killed the pimp before Arnaud could identify him.
+0xB08DD3BD=~r~You killed the pimp before Arnaud could identify him.
+
+;0xCC998AC0=~r~Arnaud is dead.
+0xCC998AC0=~r~Arnaud is dead.
+
+;0xDE112DAF=Take Arnaud to ~y~Bronco Street.
+0xDE112DAF=Take Arnaud to ~y~Bronco Street.
+
+;0xE24BB738=Go back and get ~b~Arnaud.
+0xE24BB738=Go back and get ~b~Arnaud.
+
+;0xE82941DF=~r~The pimp got away.
+0xE82941DF=~r~The pimp got away.
+
+;0xECC24C25=~r~You scared the pimp away before Arnaud could identify him.
+0xECC24C25=~r~You scared the pimp away before Arnaud could identify him.
+
+;0xF993E4B4=~r~Arnaud was hurt.
+0xF993E4B4=~r~Arnaud was hurt.
+
+;0xFB1BE8D8=Take Arnaud to ~y~Fortside.
+0xFB1BE8D8=Take Arnaud to ~y~Fortside.
+

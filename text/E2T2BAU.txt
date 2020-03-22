@@ -1,0 +1,112 @@
+﻿[E2T2BAU]
+;0x03316FEF=~z~Stick together, Luis. Fuck!
+0x03316FEF=~z~Stick together, Luis. Fuck!
+
+;0x0636A2A3=~z~Luis, shit, that was my fucking car!
+0x0636A2A3=~z~Luis, shit, that was my fucking car!
+
+;0x17DA0018=E2T2_ATB
+0x17DA0018=E2T2_ATB
+
+;0x2BC33F8A=SFX_PAUSE_430
+0x2BC33F8A=SFX_PAUSE_430
+
+;0x31DBF9ED=~z~Jesus, Lou. No wonder our business ventures are going so fucking well.
+0x31DBF9ED=~z~Jesus, Lou. No wonder our business ventures are going so fucking well.
+
+;0x3456A8EB=100
+0x3456A8EB=100
+
+;0x3E574C06=SFX_PAUSE_330
+0x3E574C06=SFX_PAUSE_330
+
+;0x4F8A2BD1=~z~Grenade! Watch out!
+0x4F8A2BD1=~z~Grenade! Watch out!
+
+;0x53689064=~z~You leaving me to die here?
+0x53689064=~z~You leaving me to die here?
+
+;0x5C65895F=100010090100090100
+0x5C65895F=100010090100090100
+
+;0x5C894F47=~z~Tone, come on, we been through enough together to not let a stupid car get us down.
+0x5C894F47=~z~Tone, come on, we been through enough together to not let a stupid car get us down.
+
+;0x662435DB=~z~Where are you going? Get back here.
+0x662435DB=~z~Where are you going? Get back here.
+
+;0x6772F0DB=~z~There's my bodyguard.
+0x6772F0DB=~z~There's my bodyguard.
+
+;0x7012494F=E2T2_ATC1
+0x7012494F=E2T2_ATC1
+
+;0x73F374A3=~z~He threw a grenade! Fuck!
+0x73F374A3=~z~He threw a grenade! Fuck!
+
+;0x75E70DC3=~z~There he is.
+0x75E70DC3=~z~There he is.
+
+;0x8400777F=E2T2_ATC2
+0x8400777F=E2T2_ATC2
+
+;0x86DC130C=~z~I can't do this again, Lou. I ain't getting all gung ho again. What happened with Rocco was it for me.
+0x86DC130C=~z~I can't do this again, Lou. I ain't getting all gung ho again. What happened with Rocco was it for me.
+
+;0x8B3FED6F=E2T2B_AVA
+0x8B3FED6F=E2T2B_AVA
+
+;0x8C7D8289=~z~Luis! Where have you gone? Shit.
+0x8C7D8289=~z~Luis! Where have you gone? Shit.
+
+;0x913216C0=E2T2_ARA
+0x913216C0=E2T2_ARA
+
+;0x9394B3E9=~z~Shit! Grenade!
+0x9394B3E9=~z~Shit! Grenade!
+
+;0x93E013D2=E2T2_ATA
+0x93E013D2=E2T2_ATA
+
+;0x94404A75=~z~This shit's serious, Lou.
+0x94404A75=~z~This shit's serious, Lou.
+
+;0xAC5189ED=012
+0xAC5189ED=012
+
+;0xB3208B3C=E2T2_AUA
+0xB3208B3C=E2T2_AUA
+
+;0xB7853F6B=100
+0xB7853F6B=100
+
+;0xB79ED8CB=~z~Don't run off and leave me.
+0xB79ED8CB=~z~Don't run off and leave me.
+
+;0xBDDF1D8A=~z~Thank you!
+0xBDDF1D8A=~z~Thank you!
+
+;0xC8E17B50=~z~Help! Where are you going?
+0xC8E17B50=~z~Help! Where are you going?
+
+;0xCCEFB01A=~z~When did you become the kind of big shot who could throw away cars like dirty underwear?
+0xCCEFB01A=~z~When did you become the kind of big shot who could throw away cars like dirty underwear?
+
+;0xD942D451=~z~Don't pull any more stunts like that.
+0xD942D451=~z~Don't pull any more stunts like that.
+
+;0xDC3AD4A7=100
+0xDC3AD4A7=100
+
+;0xDF82C458=~z~I ain't shooting no one else here. Not after what went down at the driving range.
+0xDF82C458=~z~I ain't shooting no one else here. Not after what went down at the driving range.
+
+;0xE91173EE=~z~Don't leave me again.
+0xE91173EE=~z~Don't leave me again.
+
+;0xEC8F43BE=E2T2_ASA
+0xEC8F43BE=E2T2_ASA
+
+;0xEDC160D5=~z~I'm giving peace a chance. I shot at enough people on the Golf Course to do me for a while.
+0xEDC160D5=~z~I'm giving peace a chance. I shot at enough people on the Golf Course to do me for a while.
+

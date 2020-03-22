@@ -1,0 +1,1360 @@
+﻿[E2MF1AU]
+;0x00B8FB3C=~z~Hey if Tony gave you my number, then it's okay bro.
+0x00B8FB3C=~z~Hey if Tony gave you my number, then it's okay bro.
+
+;0x00FA60A5=E2MF1_MA
+0x00FA60A5=E2MF1_MA
+
+;0x010E0DF3=~z~Ray, hey man, I hate to disappoint you.
+0x010E0DF3=~z~Ray, hey man, I hate to disappoint you.
+
+;0x02C7981A=SFX_PAUSE_250
+0x02C7981A=SFX_PAUSE_250
+
+;0x0353DFEC=~z~Sometimes I dream about being a rich playboy who everyone loves.
+0x0353DFEC=~z~Sometimes I dream about being a rich playboy who everyone loves.
+
+;0x039B12C9=E2MF1_FH
+0x039B12C9=E2MF1_FH
+
+;0x03A53328=E2MF1_GE2
+0x03A53328=E2MF1_GE2
+
+;0x03FF3DE8=~z~Now I do something and it ain't good enough because I ain't hanging out around the neighborhood with them.
+0x03FF3DE8=~z~Now I do something and it ain't good enough because I ain't hanging out around the neighborhood with them.
+
+;0x0412D70B=010090100100090010
+0x0412D70B=010090100100090010
+
+;0x043C64E8=E2MF1_QA
+0x043C64E8=E2MF1_QA
+
+;0x049B6F31=SFX_PAUSE_260
+0x049B6F31=SFX_PAUSE_260
+
+;0x0507FC36=E2MF1_SB
+0x0507FC36=E2MF1_SB
+
+;0x05D38339=SFX_PAUSE_250
+0x05D38339=SFX_PAUSE_250
+
+;0x062700B3=SFX_PAUSE_230
+0x062700B3=SFX_PAUSE_230
+
+;0x068E5C51=E2MF1_NF
+0x068E5C51=E2MF1_NF
+
+;0x07D985C9=~z~Yusuf. You staying out of trouble, man?
+0x07D985C9=~z~Yusuf. You staying out of trouble, man?
+
+;0x0863C6B1=~z~They aren't as bright as you and you have disrespected them. Laughed at them with your rich friends
+0x0863C6B1=~z~They aren't as bright as you and you have disrespected them. Laughed at them with your rich friends
+
+;0x08BA27B6=100090100090100
+0x08BA27B6=100090100090100
+
+;0x091F2EE9=~z~Hello?
+0x091F2EE9=~z~Hello?
+
+;0x09654373=~z~and I know it takes a lot to put up with you and keep you on the path.
+0x09654373=~z~and I know it takes a lot to put up with you and keep you on the path.
+
+;0x0A218D5F=~z~Nice man? Mami, he's a loan shark! You didn't borrow no money did you?
+0x0A218D5F=~z~Nice man? Mami, he's a loan shark! You didn't borrow no money did you?
+
+;0x0A2F0B90=E2MF1_XJ
+0x0A2F0B90=E2MF1_XJ
+
+;0x0A73BD22=E2MF1_HH
+0x0A73BD22=E2MF1_HH
+
+;0x0B264E71=010100090010090100100010
+0x0B264E71=010100090010090100100010
+
+;0x0C05EBB4=E2MF1_NC
+0x0C05EBB4=E2MF1_NC
+
+;0x0DC618A7=SFX_PAUSE_240
+0x0DC618A7=SFX_PAUSE_240
+
+;0x0E637730=~z~Luis. Hello, my friend. Did you like the car. Did you like the other gift?
+0x0E637730=~z~Luis. Hello, my friend. Did you like the car. Did you like the other gift?
+
+;0x0E89DD6E=SFX_PAUSE_160
+0x0E89DD6E=SFX_PAUSE_160
+
+;0x0EBCD02A=E2MF1_VB
+0x0EBCD02A=E2MF1_VB
+
+;0x0EDAD397=~z~Listen to me on this, son.
+0x0EDAD397=~z~Listen to me on this, son.
+
+;0x101BD9D9=E2MF1_KE
+0x101BD9D9=E2MF1_KE
+
+;0x110C67E9=E2MF1_JA
+0x110C67E9=E2MF1_JA
+
+;0x1202F74C=010100010100090100090100090010100090010
+0x1202F74C=010100010100090100090100090010100090010
+
+;0x1316D5B2=SFX_PAUSE_350
+0x1316D5B2=SFX_PAUSE_350
+
+;0x134725E4=E2MF1_HC
+0x134725E4=E2MF1_HC
+
+;0x13AE2240=SFX_PAUSE_280
+0x13AE2240=SFX_PAUSE_280
+
+;0x13C2E9D8=~z~This is not an opportunity you want to miss out on,
+0x13C2E9D8=~z~This is not an opportunity you want to miss out on,
+
+;0x13CA5B24=~z~Homie! What's happening, man?
+0x13CA5B24=~z~Homie! What's happening, man?
+
+;0x147CEB62=E2MF1_JB
+0x147CEB62=E2MF1_JB
+
+;0x148EC6EE=010090100090010100090100090010100100090100090010100090100100090010
+0x148EC6EE=010090100090010100090100090010100100090100090010100090100100090010
+
+;0x1560C460=SFX_PAUSE_150
+0x1560C460=SFX_PAUSE_150
+
+;0x15AA216A=~z~You better believe it, bro. Totally guilt free. It's business, business, business with me.
+0x15AA216A=~z~You better believe it, bro. Totally guilt free. It's business, business, business with me.
+
+;0x1614BE7F=SFX_PAUSE_260
+0x1614BE7F=SFX_PAUSE_260
+
+;0x161A621E=~z~You have left them behind
+0x161A621E=~z~You have left them behind
+
+;0x168FEA0C=~z~Mami.
+0x168FEA0C=~z~Mami.
+
+;0x175944CD=~z~Hey Ray, what's up?
+0x175944CD=~z~Hey Ray, what's up?
+
+;0x180F2635=~z~Listen, I thought you should know that things is cool with Tony now. It looks like we might be okay.
+0x180F2635=~z~Listen, I thought you should know that things is cool with Tony now. It looks like we might be okay.
+
+;0x1824E14A=010090100090010100090010090100010100100010010090100
+0x1824E14A=010090100090010100090010090100010100100010010090100
+
+;0x185CE957=E2MF1_KC
+0x185CE957=E2MF1_KC
+
+;0x192F24D2=~z~Shit. If he even half liked pussy, you know how many bitches he'd fuck?
+0x192F24D2=~z~Shit. If he even half liked pussy, you know how many bitches he'd fuck?
+
+;0x1963B12A=E2MF1_UA
+0x1963B12A=E2MF1_UA
+
+;0x19F3A392=E2MF1_VJ
+0x19F3A392=E2MF1_VJ
+
+;0x1A50EA33=SFX_PAUSE_290
+0x1A50EA33=SFX_PAUSE_290
+
+;0x1AB57445=E2MF1_IB
+0x1AB57445=E2MF1_IB
+
+;0x1ACFAC4B=~z~You can respect him from a college library, not just the bandstand of his nightclub.
+0x1ACFAC4B=~z~You can respect him from a college library, not just the bandstand of his nightclub.
+
+;0x1B5FD272=~z~Heh heh, yeah. Kibbutz on a motherfucking kibbutz, huh! Yeah but I've taken this shit over.
+0x1B5FD272=~z~Heh heh, yeah. Kibbutz on a motherfucking kibbutz, huh! Yeah but I've taken this shit over.
+
+;0x1C1F7027=~z~Luis.
+0x1C1F7027=~z~Luis.
+
+;0x1C28C428=~z~Then do not.
+0x1C28C428=~z~Then do not.
+
+;0x1C451C21=E2MF1_VG
+0x1C451C21=E2MF1_VG
+
+;0x1D54391E=SFX_PAUSE_240
+0x1D54391E=SFX_PAUSE_240
+
+;0x1FF07FC7=SFX_PAUSE_260
+0x1FF07FC7=SFX_PAUSE_260
+
+;0x228DBF8C=SFX_PAUSE_220
+0x228DBF8C=SFX_PAUSE_220
+
+;0x23F25852=E2MF1_RG
+0x23F25852=E2MF1_RG
+
+;0x25C29347=E2MF1_JG
+0x25C29347=E2MF1_JG
+
+;0x2602C21C=~z~My wayward son, I hope you ain't brought no curses on the family.
+0x2602C21C=~z~My wayward son, I hope you ain't brought no curses on the family.
+
+;0x2712D2F5=010100090010090100010100090100090010100090100090100090100010
+0x2712D2F5=010100090010090100010100090100090010100090100090100090100010
+
+;0x278631CB=E2MF1_VH
+0x278631CB=E2MF1_VH
+
+;0x28462330=SFX_PAUSE_220
+0x28462330=SFX_PAUSE_220
+
+;0x28BB4730=E2MF1_TB
+0x28BB4730=E2MF1_TB
+
+;0x28E0FAAE=SFX_PAUSE_280
+0x28E0FAAE=SFX_PAUSE_280
+
+;0x29081462=~z~Yeah I don't know where you heard that...
+0x29081462=~z~Yeah I don't know where you heard that...
+
+;0x290D9B6D=E2MF1_PB
+0x290D9B6D=E2MF1_PB
+
+;0x29A39A90=~z~Thank you.
+0x29A39A90=~z~Thank you.
+
+;0x29E8FE8F=E2MF1_GF1
+0x29E8FE8F=E2MF1_GF1
+
+;0x29ECAD15=~z~Anyway, it changes. Give him a break, for me okay?
+0x29ECAD15=~z~Anyway, it changes. Give him a break, for me okay?
+
+;0x2A2937DC=SFX_PAUSE_440
+0x2A2937DC=SFX_PAUSE_440
+
+;0x2A84BD83=SFX_PAUSE_160
+0x2A84BD83=SFX_PAUSE_160
+
+;0x2AAAD2AE=SFX_PAUSE_200
+0x2AAAD2AE=SFX_PAUSE_200
+
+;0x2C8E50BD=E2MF1_BC
+0x2C8E50BD=E2MF1_BC
+
+;0x2CC38BBC=E2MF1_KA
+0x2CC38BBC=E2MF1_KA
+
+;0x2D00D31D=~z~No. He helped me with my shopping. He is a real gentleman.
+0x2D00D31D=~z~No. He helped me with my shopping. He is a real gentleman.
+
+;0x2E83C529=~z~It's just usually you start throwing stuff at me and telling me I'm wasting my life.
+0x2E83C529=~z~It's just usually you start throwing stuff at me and telling me I'm wasting my life.
+
+;0x2E9871C6=SFX_PAUSE_290
+0x2E9871C6=SFX_PAUSE_290
+
+;0x2EB637C5=~z~Look, I just wanted to apologize to you. I was an asshole.
+0x2EB637C5=~z~Look, I just wanted to apologize to you. I was an asshole.
+
+;0x2F1C0AC0=~z~What's up, Luis? Things is good?
+0x2F1C0AC0=~z~What's up, Luis? Things is good?
+
+;0x30EEE34E=SFX_PAUSE_180
+0x30EEE34E=SFX_PAUSE_180
+
+;0x3131257C=E2MF1_AA
+0x3131257C=E2MF1_AA
+
+;0x3155E72F=010090100090010100090010100090100090100010090100090010100
+0x3155E72F=010090100090010100090010100090100090100010090100090010100
+
+;0x31B4FF1C=~z~Oh yeah?
+0x31B4FF1C=~z~Oh yeah?
+
+;0x31B8D5E5=~z~Yeah, sure.
+0x31B8D5E5=~z~Yeah, sure.
+
+;0x322C52A6=~z~You are though to the M. Kibbutz Holding Company, Tanya's away from her desk.
+0x322C52A6=~z~You are though to the M. Kibbutz Holding Company, Tanya's away from her desk.
+
+;0x329F1AAD=E2MF1_DA
+0x329F1AAD=E2MF1_DA
+
+;0x32D5CDB1=E2MF1_WF
+0x32D5CDB1=E2MF1_WF
+
+;0x347DE29A=E2MF1_UC
+0x347DE29A=E2MF1_UC
+
+;0x35076207=SFX_PAUSE_190
+0x35076207=SFX_PAUSE_190
+
+;0x35DD488D=E2MF1_VK
+0x35DD488D=E2MF1_VK
+
+;0x36E91378=SFX_PAUSE_280
+0x36E91378=SFX_PAUSE_280
+
+;0x371709BC=~z~Yeah but, but it's a commune?
+0x371709BC=~z~Yeah but, but it's a commune?
+
+;0x372AFF7B=E2MF1_RH
+0x372AFF7B=E2MF1_RH
+
+;0x375DB10D=~z~especially as I hear that "Gay" Tony Prince's ship is sinking.
+0x375DB10D=~z~especially as I hear that "Gay" Tony Prince's ship is sinking.
+
+;0x386A6F05=E2MF1_RM
+0x386A6F05=E2MF1_RM
+
+;0x38873F12=E2MF1_NE
+0x38873F12=E2MF1_NE
+
+;0x38BBEB45=~z~It's right on the Middle Park, prime location, one of the most exclusive in the city.
+0x38BBEB45=~z~It's right on the Middle Park, prime location, one of the most exclusive in the city.
+
+;0x3A1B311A=~z~And you haven't got any time for your old friends.
+0x3A1B311A=~z~And you haven't got any time for your old friends.
+
+;0x3A20B56B=E2MF1_IC
+0x3A20B56B=E2MF1_IC
+
+;0x3AFAE869=~z~Give him some slack. He's Tony fucking Prince! He's a legend
+0x3AFAE869=~z~Give him some slack. He's Tony fucking Prince! He's a legend
+
+;0x3CB200C4=~z~But listen, can you come and meet me at the construction site? I have something to discuss.
+0x3CB200C4=~z~But listen, can you come and meet me at the construction site? I have something to discuss.
+
+;0x3CDAAF9E=~z~I love those guys, Mami. I do what I can to help them.
+0x3CDAAF9E=~z~I love those guys, Mami. I do what I can to help them.
+
+;0x3D2CE6F3=SFX_PAUSE_090
+0x3D2CE6F3=SFX_PAUSE_090
+
+;0x3D7A898C=E2MF1_GH
+0x3D7A898C=E2MF1_GH
+
+;0x3DD0609F=SFX_PAUSE_200
+0x3DD0609F=SFX_PAUSE_200
+
+;0x3E2076D3=SFX_PAUSE_400
+0x3E2076D3=SFX_PAUSE_400
+
+;0x3EC4B21B=E2MF1_AD
+0x3EC4B21B=E2MF1_AD
+
+;0x3EDE760F=E2MF1_UD1
+0x3EDE760F=E2MF1_UD1
+
+;0x3F050EF5=E2MF1_GJ
+0x3F050EF5=E2MF1_GJ
+
+;0x3FC659E5=~z~Hey, Mori?
+0x3FC659E5=~z~Hey, Mori?
+
+;0x3FF49AFA=E2MF1_GG
+0x3FF49AFA=E2MF1_GG
+
+;0x40086073=E2MF1_VI
+0x40086073=E2MF1_VI
+
+;0x4092C52F=SFX_OVERLAP_5150
+0x4092C52F=SFX_OVERLAP_5150
+
+;0x40CBAE1F=~z~No, man, they a long way from good.
+0x40CBAE1F=~z~No, man, they a long way from good.
+
+;0x410CE7F0=E2MF1_VF2
+0x410CE7F0=E2MF1_VF2
+
+;0x4163F9A0=E2MF1_FE
+0x4163F9A0=E2MF1_FE
+
+;0x41774178=E2MF1_CC
+0x41774178=E2MF1_CC
+
+;0x421D3BAB=E2MF1_KD
+0x421D3BAB=E2MF1_KD
+
+;0x42217A58=~z~Yeah, why's that make me think you're about to ask me to do some dumb shit?
+0x42217A58=~z~Yeah, why's that make me think you're about to ask me to do some dumb shit?
+
+;0x42A838DF=~z~Who's this?
+0x42A838DF=~z~Who's this?
+
+;0x4403852E=E2MF1_MD
+0x4403852E=E2MF1_MD
+
+;0x445279E7=SFX_PAUSE_210
+0x445279E7=SFX_PAUSE_210
+
+;0x461A7C9F=E2MF1_ED
+0x461A7C9F=E2MF1_ED
+
+;0x46482119=E2MF1_GB
+0x46482119=E2MF1_GB
+
+;0x476E47BC=E2MF1_VF1
+0x476E47BC=E2MF1_VF1
+
+;0x4773AA75=~z~Hey, hey, Iike, hey do some fucking work. Huh?
+0x4773AA75=~z~Hey, hey, Iike, hey do some fucking work. Huh?
+
+;0x47E3A330=E2MF1_GC
+0x47E3A330=E2MF1_GC
+
+;0x481509F7=~z~Hey, those conversations are usually Tony's department.
+0x481509F7=~z~Hey, those conversations are usually Tony's department.
+
+;0x49AE893F=E2MF1_AH1
+0x49AE893F=E2MF1_AH1
+
+;0x49D4A2EE=E2MF1_RF
+0x49D4A2EE=E2MF1_RF
+
+;0x4B3BC1E4=E2MF1_RK2
+0x4B3BC1E4=E2MF1_RK2
+
+;0x4B518E15=E2MF1_AI
+0x4B518E15=E2MF1_AI
+
+;0x4BEF9307=E2MF1_BE1
+0x4BEF9307=E2MF1_BE1
+
+;0x4BF8DF05=E2MF1_JE1
+0x4BF8DF05=E2MF1_JE1
+
+;0x4E497FA5=E2MF1_EB
+0x4E497FA5=E2MF1_EB
+
+;0x4E6C1383=~z~I love you, hijo.
+0x4E6C1383=~z~I love you, hijo.
+
+;0x4E74A449=~z~Yeah, okay, man, I'll try to come by.
+0x4E74A449=~z~Yeah, okay, man, I'll try to come by.
+
+;0x4F129740=~z~Stay away from him, Mami. Listen to me on this.
+0x4F129740=~z~Stay away from him, Mami. Listen to me on this.
+
+;0x4F8A1D41=010090100090010010090100010
+0x4F8A1D41=010090100090010010090100010
+
+;0x4FDACE41=E2MF1_XD
+0x4FDACE41=E2MF1_XD
+
+;0x500511BB=E2MF1_MI
+0x500511BB=E2MF1_MI
+
+;0x50755479=~z~Who?
+0x50755479=~z~Who?
+
+;0x509121BF=E2MF1_HE
+0x509121BF=E2MF1_HE
+
+;0x5140D923=E2MF1_AE2
+0x5140D923=E2MF1_AE2
+
+;0x51A9F4E7=~z~Yeah. Thanks for the sensible advice. I'll try. See you soon, okay.
+0x51A9F4E7=~z~Yeah. Thanks for the sensible advice. I'll try. See you soon, okay.
+
+;0x51B9595B=~z~No, Mami, it ain't like that at all. You wanted me to do something.
+0x51B9595B=~z~No, Mami, it ain't like that at all. You wanted me to do something.
+
+;0x523CBA8F=~z~This is not like thing in your American supermarket. It has sell by date.
+0x523CBA8F=~z~This is not like thing in your American supermarket. It has sell by date.
+
+;0x527C9647=E2MF1_EE
+0x527C9647=E2MF1_EE
+
+;0x52E595F3=~z~Shit, man, I already killed for it. I'm thinking, alright?
+0x52E595F3=~z~Shit, man, I already killed for it. I'm thinking, alright?
+
+;0x535C8752=E2MF1_HF
+0x535C8752=E2MF1_HF
+
+;0x53A7281B=E2MF1_TF
+0x53A7281B=E2MF1_TF
+
+;0x53D1D531=E2MF1_HK2
+0x53D1D531=E2MF1_HK2
+
+;0x546F10BB=~z~Luis, why do you never come to see your mama?
+0x546F10BB=~z~Luis, why do you never come to see your mama?
+
+;0x54F108B1=~z~Hey, this ain't going, man, and there's nothing you can do. Me and Tony got to find some way to dig ourselves out.
+0x54F108B1=~z~Hey, this ain't going, man, and there's nothing you can do. Me and Tony got to find some way to dig ourselves out.
+
+;0x54F88BEA=SFX_PAUSE_220
+0x54F88BEA=SFX_PAUSE_220
+
+;0x556147BC=SFX_PAUSE_160
+0x556147BC=SFX_PAUSE_160
+
+;0x55913208=~z~Don't you "Yo" me. You think I'm one of your little nightclub putas?
+0x55913208=~z~Don't you "Yo" me. You think I'm one of your little nightclub putas?
+
+;0x5762F117=~z~Just come to my house, we will talk.
+0x5762F117=~z~Just come to my house, we will talk.
+
+;0x57D82D5E=E2MF1_RD
+0x57D82D5E=E2MF1_RD
+
+;0x57EDB727=~z~How's things bro?
+0x57EDB727=~z~How's things bro?
+
+;0x58E48C29=~z~Luis, man, how goes it, huh?
+0x58E48C29=~z~Luis, man, how goes it, huh?
+
+;0x591A5A97=~z~You wish to accept. Of course. No one refuses Ray Bulgarin.
+0x591A5A97=~z~You wish to accept. Of course. No one refuses Ray Bulgarin.
+
+;0x59B895CE=E2MF1_WD
+0x59B895CE=E2MF1_WD
+
+;0x5A1488FC=SFX_PAUSE_160
+0x5A1488FC=SFX_PAUSE_160
+
+;0x5B796122=SFX_PAUSE_190
+0x5B796122=SFX_PAUSE_190
+
+;0x5C323A21=E2MF1_HD
+0x5C323A21=E2MF1_HD
+
+;0x5D3DF85D=E2MF1_IA
+0x5D3DF85D=E2MF1_IA
+
+;0x5D94F80D=~z~Que?
+0x5D94F80D=~z~Que?
+
+;0x5DA3A904=E2MF1_WE
+0x5DA3A904=E2MF1_WE
+
+;0x5E2479F2=E2MF1_CB
+0x5E2479F2=E2MF1_CB
+
+;0x5E3DB41E=SFX_PAUSE_360
+0x5E3DB41E=SFX_PAUSE_360
+
+;0x5EBAF104=~z~This is Yusuf Amir, man.
+0x5EBAF104=~z~This is Yusuf Amir, man.
+
+;0x5F27F370=E2MF1_KB
+0x5F27F370=E2MF1_KB
+
+;0x5F9CB1AC=~z~Yeah, not good, bro. Sometimes it's hard with that guy.
+0x5F9CB1AC=~z~Yeah, not good, bro. Sometimes it's hard with that guy.
+
+;0x603DD1CD=SFX_PAUSE_190
+0x603DD1CD=SFX_PAUSE_190
+
+;0x604DD890=E2MF1_NI2
+0x604DD890=E2MF1_NI2
+
+;0x60AE54F9=E2MF1_RI
+0x60AE54F9=E2MF1_RI
+
+;0x61FE6C01=E2MF1_RJ
+0x61FE6C01=E2MF1_RJ
+
+;0x63980CFF=~z~No, I did. There is a little bit of fun for you in the glove compartment. I think you will enjoy it.
+0x63980CFF=~z~No, I did. There is a little bit of fun for you in the glove compartment. I think you will enjoy it.
+
+;0x6490724D=E2MF1_RK1
+0x6490724D=E2MF1_RK1
+
+;0x64CA0677=~z~How are you, son?
+0x64CA0677=~z~How are you, son?
+
+;0x6532563E=~z~Luis.
+0x6532563E=~z~Luis.
+
+;0x6619E1E8=E2MF1_NI1
+0x6619E1E8=E2MF1_NI1
+
+;0x66604951=E2MF1_XG
+0x66604951=E2MF1_XG
+
+;0x66A5AEC4=E2MF1_WB
+0x66A5AEC4=E2MF1_WB
+
+;0x68473D55=SFX_PAUSE_270
+0x68473D55=SFX_PAUSE_270
+
+;0x68D0ED2F=~z~Was. Now it's more of a umm, how do I say this - dictatorship you know. Hah ha.
+0x68D0ED2F=~z~Was. Now it's more of a umm, how do I say this - dictatorship you know. Hah ha.
+
+;0x697548BC=~z~Mami.
+0x697548BC=~z~Mami.
+
+;0x69B38869=100090010090100010090100090100090010
+0x69B38869=100090010090100010090100090100090010
+
+;0x6C07323C=E2MF1_OA
+0x6C07323C=E2MF1_OA
+
+;0x6CA5F000=E2MF1_GD
+0x6CA5F000=E2MF1_GD
+
+;0x6CB18A0A=E2MF1_VA
+0x6CB18A0A=E2MF1_VA
+
+;0x6D11F0F8=SFX_PAUSE_200
+0x6D11F0F8=SFX_PAUSE_200
+
+;0x6D26E47E=E2MF1_NJ2
+0x6D26E47E=E2MF1_NJ2
+
+;0x6D86BBDF=E2MF1_EC
+0x6D86BBDF=E2MF1_EC
+
+;0x6D8FC6D0=E2MF1_SC
+0x6D8FC6D0=E2MF1_SC
+
+;0x6DA55786=SFX_PAUSE_180
+0x6DA55786=SFX_PAUSE_180
+
+;0x6DBD7190=~z~I told you where I stand.
+0x6DBD7190=~z~I told you where I stand.
+
+;0x6E72D1AE=SFX_PAUSE_440
+0x6E72D1AE=SFX_PAUSE_440
+
+;0x6EEAEF02=E2MF1_GA
+0x6EEAEF02=E2MF1_GA
+
+;0x6EF0D282=100090100
+0x6EF0D282=100090100
+
+;0x710A9A93=100090010090100010090100090100010090100
+0x710A9A93=100090010090100010090100090100010090100
+
+;0x71A77F0C=E2MF1_WG
+0x71A77F0C=E2MF1_WG
+
+;0x71AB8E5C=SFX_PAUSE_120
+0x71AB8E5C=SFX_PAUSE_120
+
+;0x71C45D59=E2MF1_IE
+0x71C45D59=E2MF1_IE
+
+;0x7256F942=E2MF1_NH
+0x7256F942=E2MF1_NH
+
+;0x728A83D0=~z~Hello, Shalom. This is Mori. I'm getting spiritual with nature and shit in the Promised Land.
+0x728A83D0=~z~Hello, Shalom. This is Mori. I'm getting spiritual with nature and shit in the Promised Land.
+
+;0x73281E3B=~z~You understand?
+0x73281E3B=~z~You understand?
+
+;0x73C8DE3C=~z~Bandstand? Huh, Dios Mio. Look, I can't ever win with you. I love you, Mami.
+0x73C8DE3C=~z~Bandstand? Huh, Dios Mio. Look, I can't ever win with you. I love you, Mami.
+
+;0x745DBD99=SFX_PAUSE_160
+0x745DBD99=SFX_PAUSE_160
+
+;0x74C1AF52=~z~Thanks a lot, bro. You didn't need to do that though.
+0x74C1AF52=~z~Thanks a lot, bro. You didn't need to do that though.
+
+;0x7529DAB3=E2MF1_FA
+0x7529DAB3=E2MF1_FA
+
+;0x76405CA8=~z~Then think harder. Goodbye.
+0x76405CA8=~z~Then think harder. Goodbye.
+
+;0x77D8578D=~z~I do come see you, Mami.
+0x77D8578D=~z~I do come see you, Mami.
+
+;0x7869CB33=~z~It's okay, bro.
+0x7869CB33=~z~It's okay, bro.
+
+;0x788A6182=E2MF1_AF
+0x788A6182=E2MF1_AF
+
+;0x796B5AF7=~z~Ay Dios mio, Mami. I'll come by soon.
+0x796B5AF7=~z~Ay Dios mio, Mami. I'll come by soon.
+
+;0x7A228571=~z~Cunt!
+0x7A228571=~z~Cunt!
+
+;0x7A48FB77=~z~Yo.
+0x7A48FB77=~z~Yo.
+
+;0x7B277506=E2MF1_BB
+0x7B277506=E2MF1_BB
+
+;0x7B2A5B81=100090010100010090100
+0x7B2A5B81=100090010100010090100
+
+;0x7B5F6F1F=E2MF1_MH
+0x7B5F6F1F=E2MF1_MH
+
+;0x7CFBF208=E2MF1_XK
+0x7CFBF208=E2MF1_XK
+
+;0x7EA3ED30=E2MF1_SA
+0x7EA3ED30=E2MF1_SA
+
+;0x7F2EF2F7=SFX_PAUSE_120
+0x7F2EF2F7=SFX_PAUSE_120
+
+;0x7F89F214=SFX_PAUSE_120
+0x7F89F214=SFX_PAUSE_120
+
+;0x7F91F196=~z~Luis, dog, how's things? How's Tony?
+0x7F91F196=~z~Luis, dog, how's things? How's Tony?
+
+;0x7FA5FB00=E2MF1_XF
+0x7FA5FB00=E2MF1_XF
+
+;0x80159CD0=~z~ I am spending some time here while I catch up with some old friends
+0x80159CD0=~z~ I am spending some time here while I catch up with some old friends
+
+;0x80AA9CE2=~z~I brought some real modern world shit into this joint. It's a much better use of my time.
+0x80AA9CE2=~z~I brought some real modern world shit into this joint. It's a much better use of my time.
+
+;0x8197A8FB=SFX_PAUSE_240
+0x8197A8FB=SFX_PAUSE_240
+
+;0x846D3561=~z~Yusuf. Hey, man.
+0x846D3561=~z~Yusuf. Hey, man.
+
+;0x8571E41E=~z~Then I realise I am!
+0x8571E41E=~z~Then I realise I am!
+
+;0x85AEFEA9=~z~That's cute, man. I might be in touch.
+0x85AEFEA9=~z~That's cute, man. I might be in touch.
+
+;0x85F8A829=E2MF1_GF2
+0x85F8A829=E2MF1_GF2
+
+;0x8607FE98=E2MF1_MG
+0x8607FE98=E2MF1_MG
+
+;0x8668277D=E2MF1_RE
+0x8668277D=E2MF1_RE
+
+;0x867B67F8=SFX_PAUSE_280
+0x867B67F8=SFX_PAUSE_280
+
+;0x8681C740=SFX_PAUSE_100
+0x8681C740=SFX_PAUSE_100
+
+;0x86B74559=~z~No, could you say it again, please?
+0x86B74559=~z~No, could you say it again, please?
+
+;0x87A989DB=E2MF1_XI
+0x87A989DB=E2MF1_XI
+
+;0x87F1210A=~z~Bye!
+0x87F1210A=~z~Bye!
+
+;0x87F205F8=~z~It's a special machine, but what you have done for me recently is more special.
+0x87F205F8=~z~It's a special machine, but what you have done for me recently is more special.
+
+;0x880FB180=E2MF1_HJ
+0x880FB180=E2MF1_HJ
+
+;0x884347ED=SFX_PAUSE_310
+0x884347ED=SFX_PAUSE_310
+
+;0x8868CD07=~z~Laters.
+0x8868CD07=~z~Laters.
+
+;0x8946959C=SFX_PAUSE_240
+0x8946959C=SFX_PAUSE_240
+
+;0x89A68962=~z~What you doing with that man? Why don't you go to college like a good boy.
+0x89A68962=~z~What you doing with that man? Why don't you go to college like a good boy.
+
+;0x89DA10B8=SFX_PAUSE_200
+0x89DA10B8=SFX_PAUSE_200
+
+;0x89FBBBDC=E2MF1_WH
+0x89FBBBDC=E2MF1_WH
+
+;0x8A7A1BC8=SFX_PAUSE_300
+0x8A7A1BC8=SFX_PAUSE_300
+
+;0x8AB4CB55=~z~For Armando, for Henrique. Old friends are the best friends, Luis.
+0x8AB4CB55=~z~For Armando, for Henrique. Old friends are the best friends, Luis.
+
+;0x8AC7DA76=100010100010100100100100010100010100010
+0x8AC7DA76=100010100010100100100100010100010100010
+
+;0x8AEA5BA3=~z~Alright, man. I'll check that out. Yo, and thank you again.
+0x8AEA5BA3=~z~Alright, man. I'll check that out. Yo, and thank you again.
+
+;0x8B25FE6C=~z~Hijo. I need you to come home. There is a little complication.
+0x8B25FE6C=~z~Hijo. I need you to come home. There is a little complication.
+
+;0x8B375047=E2MF1_PA
+0x8B375047=E2MF1_PA
+
+;0x8BBFCCA6=E2MF1_VC
+0x8BBFCCA6=E2MF1_VC
+
+;0x8C78AA1D=~z~I'm still not getting it, what about a third time?
+0x8C78AA1D=~z~I'm still not getting it, what about a third time?
+
+;0x8D661498=~z~Great! Come hang out at my apartment.
+0x8D661498=~z~Great! Come hang out at my apartment.
+
+;0x8D751E53=E2MF1_RB
+0x8D751E53=E2MF1_RB
+
+;0x8D8D21FF=~z~Don't you disrespect that man.
+0x8D8D21FF=~z~Don't you disrespect that man.
+
+;0x8E5D65DB=E2MF1_JF
+0x8E5D65DB=E2MF1_JF
+
+;0x8F40EED4=SFX_PAUSE_180
+0x8F40EED4=SFX_PAUSE_180
+
+;0x8F4F596E=SFX_PAUSE_320
+0x8F4F596E=SFX_PAUSE_320
+
+;0x9269CD41=~z~Ah, Mr. Lopez.
+0x9269CD41=~z~Ah, Mr. Lopez.
+
+;0x93B76883=SFX_PAUSE_240
+0x93B76883=SFX_PAUSE_240
+
+;0x95396BC2=~z~Shit, I think the signal's dropping, man. Later, bro.
+0x95396BC2=~z~Shit, I think the signal's dropping, man. Later, bro.
+
+;0x98C584DC=E2MF1_EA
+0x98C584DC=E2MF1_EA
+
+;0x9931588C=100100100090100
+0x9931588C=100100100090100
+
+;0x99C3502B=~z~I did not take you for the sensitive type.
+0x99C3502B=~z~I did not take you for the sensitive type.
+
+;0x9B7A679F=~z~ Don't speak back to me, son.
+0x9B7A679F=~z~ Don't speak back to me, son.
+
+;0x9BE6BC16=SFX_PAUSE_240
+0x9BE6BC16=SFX_PAUSE_240
+
+;0x9BE8613D=E2MF1_HI
+0x9BE8613D=E2MF1_HI
+
+;0x9DA4F353=E2MF1_OB2
+0x9DA4F353=E2MF1_OB2
+
+;0x9DCDB543=E2MF1_XH
+0x9DCDB543=E2MF1_XH
+
+;0x9E1D1B08=~z~The Mafia? I've had problems with some union fucks on the site. Sometimes that shit just goes away.
+0x9E1D1B08=~z~The Mafia? I've had problems with some union fucks on the site. Sometimes that shit just goes away.
+
+;0x9F2F4F8A=~z~Fuck you.
+0x9F2F4F8A=~z~Fuck you.
+
+;0x9F2FC544=~z~Mami, I didn't mean anything like that. I'm stressed at the moment. Tony's putting me through hell.
+0x9F2FC544=~z~Mami, I didn't mean anything like that. I'm stressed at the moment. Tony's putting me through hell.
+
+;0x9F3B1BB3=SFX_PAUSE_290
+0x9F3B1BB3=SFX_PAUSE_290
+
+;0x9F57991A=~z~Solid gold! Only the best for you, Luis. It makes a statement, doesn't it?
+0x9F57991A=~z~Solid gold! Only the best for you, Luis. It makes a statement, doesn't it?
+
+;0x9F7139F2=SFX_PAUSE_220
+0x9F7139F2=SFX_PAUSE_220
+
+;0x9FA4FEE2=E2MF1_CA
+0x9FA4FEE2=E2MF1_CA
+
+;0xA084387D=SFX_PAUSE_270
+0xA084387D=SFX_PAUSE_270
+
+;0xA1E73625=SFX_PAUSE_190
+0xA1E73625=SFX_PAUSE_190
+
+;0xA28185C7=E2MF1_BE2
+0xA28185C7=E2MF1_BE2
+
+;0xA3126CA9=SFX_PAUSE_310
+0xA3126CA9=SFX_PAUSE_310
+
+;0xA41B846C=~z~bad boy and lover, so leave me a fucking message.
+0xA41B846C=~z~bad boy and lover, so leave me a fucking message.
+
+;0xA59C7F33=E2MF1_VD
+0xA59C7F33=E2MF1_VD
+
+;0xA5B58B90=010090100010090100010100090010090100010100090100100010
+0xA5B58B90=010090100010090100010100090010090100010100090100100010
+
+;0xA70B21D3=E2MF1_NK
+0xA70B21D3=E2MF1_NK
+
+;0xA70EB585=E2MF1_TD
+0xA70EB585=E2MF1_TD
+
+;0xA751C603=E2MF1_TA
+0xA751C603=E2MF1_TA
+
+;0xA76A61E0=100090010090100010100
+0xA76A61E0=100090010090100010100
+
+;0xA89F4711=E2MF1_FC
+0xA89F4711=E2MF1_FC
+
+;0xA9341950=SFX_PAUSE_230
+0xA9341950=SFX_PAUSE_230
+
+;0xA9A35A91=~z~Yusuf.
+0xA9A35A91=~z~Yusuf.
+
+;0xAB1087B3=SFX_PAUSE_320
+0xAB1087B3=SFX_PAUSE_320
+
+;0xAB4385FF=E2MF1_HG
+0xAB4385FF=E2MF1_HG
+
+;0xAB87728F=E2MF1_RA
+0xAB87728F=E2MF1_RA
+
+;0xAD4B57DA=E2MF1_IF
+0xAD4B57DA=E2MF1_IF
+
+;0xADCD0285=E2MF1_XC
+0xADCD0285=E2MF1_XC
+
+;0xAECA2556=SFX_PAUSE_320
+0xAECA2556=SFX_PAUSE_320
+
+;0xAED7E6C3=SFX_PAUSE_440
+0xAED7E6C3=SFX_PAUSE_440
+
+;0xAFB1E7D4=E2MF1_FF
+0xAFB1E7D4=E2MF1_FF
+
+;0xAFD31790=~z~Ray, listen...
+0xAFD31790=~z~Ray, listen...
+
+;0xB07C3B63=~z~We are brothers. It is nothing. I've got three more myself. See you soon, my friend.
+0xB07C3B63=~z~We are brothers. It is nothing. I've got three more myself. See you soon, my friend.
+
+;0xB082F08F=E2MF1_GI
+0xB082F08F=E2MF1_GI
+
+;0xB0BC7C16=E2MF1_GK
+0xB0BC7C16=E2MF1_GK
+
+;0xB2396070=E2MF1_ME
+0xB2396070=E2MF1_ME
+
+;0xB2D1ED02=~z~Not that great. My father, he is a very passionate and angry and very disrespectful man.
+0xB2D1ED02=~z~Not that great. My father, he is a very passionate and angry and very disrespectful man.
+
+;0xB35005EA=010090100010090100100090010100010090100
+0xB35005EA=010090100010090100100090010100010090100
+
+;0xB3D93938=E2MF1_NB
+0xB3D93938=E2MF1_NB
+
+;0xB3E51221=SFX_PAUSE_320
+0xB3E51221=SFX_PAUSE_320
+
+;0xB46276E5=E2MF1_FG
+0xB46276E5=E2MF1_FG
+
+;0xB4CEDA26=SFX_PAUSE_220
+0xB4CEDA26=SFX_PAUSE_220
+
+;0xB507C47A=~z~Shit, it sure does. Thanks a lot, Yusuf.
+0xB507C47A=~z~Shit, it sure does. Thanks a lot, Yusuf.
+
+;0xB53566AF=E2MF1_RC
+0xB53566AF=E2MF1_RC
+
+;0xB58D87C7=~z~Oh yeah. You're the Russian who was asking about coke, hookers, and corpses. Yeah, I'm sorry we couldn't accommodate.
+0xB58D87C7=~z~Oh yeah. You're the Russian who was asking about coke, hookers, and corpses. Yeah, I'm sorry we couldn't accommodate.
+
+;0xB659194C=~z~Cash ain't going to fix this problem, okay. We got a crazy Russian after us and we in some deep shit with some Cosa Nostra morons.
+0xB659194C=~z~Cash ain't going to fix this problem, okay. We got a crazy Russian after us and we in some deep shit with some Cosa Nostra morons.
+
+;0xB66D4620=E2MF1_NA
+0xB66D4620=E2MF1_NA
+
+;0xB699C97D=E2MF1_MB
+0xB699C97D=E2MF1_MB
+
+;0xB71D308E=~z~and I need help with some things.
+0xB71D308E=~z~and I need help with some things.
+
+;0xB76FE92C=E2MF1_AJ
+0xB76FE92C=E2MF1_AJ
+
+;0xB773E7CB=~z~This is Ray Bulgarin Liberty City phone. I call you back.
+0xB773E7CB=~z~This is Ray Bulgarin Liberty City phone. I call you back.
+
+;0xB7909782=~z~Come to my house and we will discuss it.
+0xB7909782=~z~Come to my house and we will discuss it.
+
+;0xB85BE32D=~z~Yo.
+0xB85BE32D=~z~Yo.
+
+;0xB8787FF1=SFX_PAUSE_210
+0xB8787FF1=SFX_PAUSE_210
+
+;0xB9BBA72B=SFX_PAUSE_280
+0xB9BBA72B=SFX_PAUSE_280
+
+;0xBA28B133=~z~I'm okay. Busy, you know. Shit's hectic. Tony's in trouble.
+0xBA28B133=~z~I'm okay. Busy, you know. Shit's hectic. Tony's in trouble.
+
+;0xBB87BE86=~z~Please leave a brief message and it may be returned.
+0xBB87BE86=~z~Please leave a brief message and it may be returned.
+
+;0xBB90FE6C=~z~Luis, my man.
+0xBB90FE6C=~z~Luis, my man.
+
+;0xBC60977B=~z~We need people, so pack your bags and come out here. That material shit, it don't matter anymore.
+0xBC60977B=~z~We need people, so pack your bags and come out here. That material shit, it don't matter anymore.
+
+;0xBCD754EC=E2MF1_MC
+0xBCD754EC=E2MF1_MC
+
+;0xBD6EF3F7=~z~You could learn so much from him.
+0xBD6EF3F7=~z~You could learn so much from him.
+
+;0xBDEAB3C3=~z~You fucked with me,
+0xBDEAB3C3=~z~You fucked with me,
+
+;0xBE7B5630=~z~ I come to this city, I want to be the straight Tony Prince. That's my fucking dream, motherfucker.
+0xBE7B5630=~z~ I come to this city, I want to be the straight Tony Prince. That's my fucking dream, motherfucker.
+
+;0xC01DDA96=~z~I've been out tilling the land and it really put shit in perspective for me, you know?
+0xC01DDA96=~z~I've been out tilling the land and it really put shit in perspective for me, you know?
+
+;0xC079C4A9=E2MF1_JC
+0xC079C4A9=E2MF1_JC
+
+;0xC12B9873=~z~Luis Lopez.
+0xC12B9873=~z~Luis Lopez.
+
+;0xC1913B0C=~z~You fucked with me, Luis.
+0xC1913B0C=~z~You fucked with me, Luis.
+
+;0xC1D3C967=E2MF1_JH
+0xC1D3C967=E2MF1_JH
+
+;0xC2B6643A=~z~Don't be too proud, Luis. You ever need something, you call Yusuf, okay? See you round, bro.
+0xC2B6643A=~z~Don't be too proud, Luis. You ever need something, you call Yusuf, okay? See you round, bro.
+
+;0xC3BEEBA8=100100
+0xC3BEEBA8=100100
+
+;0xC52C9635=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
+0xC52C9635=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
+
+;0xC62002DA=SFX_PAUSE_150
+0xC62002DA=SFX_PAUSE_150
+
+;0xC7341032=E2MF1_BD
+0xC7341032=E2MF1_BD
+
+;0xC7A38916=~z~Top dollar shit. You'll love it!
+0xC7A38916=~z~Top dollar shit. You'll love it!
+
+;0xC7D78311=E2MF1_FB
+0xC7D78311=E2MF1_FB
+
+;0xC848D071=SFX_PAUSE_180
+0xC848D071=SFX_PAUSE_180
+
+;0xC8A6CB96=E2MF1_OC
+0xC8A6CB96=E2MF1_OC
+
+;0xC8CC52E7=~z~You and your faggot boss will be killed for this. I will do everything in my power to...
+0xC8CC52E7=~z~You and your faggot boss will be killed for this. I will do everything in my power to...
+
+;0xCC4065D6=E2MF1_JE2
+0xCC4065D6=E2MF1_JE2
+
+;0xCCB80BBC=E2MF1_AG
+0xCCB80BBC=E2MF1_AG
+
+;0xCF6356B4=~z~And now I am going to fuck with you, you little cunt.
+0xCF6356B4=~z~And now I am going to fuck with you, you little cunt.
+
+;0xCF66F79A=E2MF1_OB1
+0xCF66F79A=E2MF1_OB1
+
+;0xCFE19311=~z~This could be your chance to achieve something without the Princess Tony.
+0xCFE19311=~z~This could be your chance to achieve something without the Princess Tony.
+
+;0xD0315110=~z~You should remember that yourself, Ma.
+0xD0315110=~z~You should remember that yourself, Ma.
+
+;0xD03CE94F=E2MF1_JD
+0xD03CE94F=E2MF1_JD
+
+;0xD05C5162=~z~Treat him with respect, you hear me, son. Look after those who have looked after you.
+0xD05C5162=~z~Treat him with respect, you hear me, son. Look after those who have looked after you.
+
+;0xD09D974E=~z~What do you take me for? I'm a giver, not a taker. I don't need anything from you.
+0xD09D974E=~z~What do you take me for? I'm a giver, not a taker. I don't need anything from you.
+
+;0xD0ED4E74=~z~Yusuf don't like his main dude unhappy.
+0xD0ED4E74=~z~Yusuf don't like his main dude unhappy.
+
+;0xD2709E8A=E2MF1_MF
+0xD2709E8A=E2MF1_MF
+
+;0xD281152C=~z~There are others in this city who would kill for opportunity.
+0xD281152C=~z~There are others in this city who would kill for opportunity.
+
+;0xD31E727A=E2MF1_ND
+0xD31E727A=E2MF1_ND
+
+;0xD31EDE27=~z~No. Not at all. That's how things seem, but trust me, that wasn't my intention.
+0xD31EDE27=~z~No. Not at all. That's how things seem, but trust me, that wasn't my intention.
+
+;0xD44DA26A=~z~Alright. I'll be by sometime. Just don't wait up.
+0xD44DA26A=~z~Alright. I'll be by sometime. Just don't wait up.
+
+;0xD46E5240=010090100010090100090100090100090100090010100090100010100
+0xD46E5240=010090100010090100090100090100090100090010100090100010100
+
+;0xD4B21F7C=~z~Hah, you don't need to sacrifice no frogs for me.
+0xD4B21F7C=~z~Hah, you don't need to sacrifice no frogs for me.
+
+;0xD4EBD24A=E2MF1_GE1
+0xD4EBD24A=E2MF1_GE1
+
+;0xD54652ED=~z~Hey I don't even know what it is yet.
+0xD54652ED=~z~Hey I don't even know what it is yet.
+
+;0xD5A3A77F=E2MF1_UB
+0xD5A3A77F=E2MF1_UB
+
+;0xD5DC9FB1=SFX_PAUSE_180
+0xD5DC9FB1=SFX_PAUSE_180
+
+;0xD6116C8A=E2MF1_AB
+0xD6116C8A=E2MF1_AB
+
+;0xD6C5D575=E2MF1_XE
+0xD6C5D575=E2MF1_XE
+
+;0xD7D2B798=E2MF1_NJ1
+0xD7D2B798=E2MF1_NJ1
+
+;0xD7D6BB89=~z~Pathetic. Why did I have faith in this loser?
+0xD7D6BB89=~z~Pathetic. Why did I have faith in this loser?
+
+;0xD8117799=~z~This is Adriana Yanira Lopez.
+0xD8117799=~z~This is Adriana Yanira Lopez.
+
+;0xD82C0FEC=SFX_PAUSE_250
+0xD82C0FEC=SFX_PAUSE_250
+
+;0xD84C6664=SFX_PAUSE_200
+0xD84C6664=SFX_PAUSE_200
+
+;0xDAF46264=E2MF1_HK1
+0xDAF46264=E2MF1_HK1
+
+;0xDAFAAC92=E2MF1_WA
+0xDAFAAC92=E2MF1_WA
+
+;0xDB08574C=E2MF1_WI
+0xDB08574C=E2MF1_WI
+
+;0xDB75537E=~z~I don't care if you're 78. You wanna eat? Work. Oh uh, sorry, Lou. Yeah, now where were we?
+0xDB75537E=~z~I don't care if you're 78. You wanna eat? Work. Oh uh, sorry, Lou. Yeah, now where were we?
+
+;0xDBBEF9D1=~z~I am told you are the man to talk to.
+0xDBBEF9D1=~z~I am told you are the man to talk to.
+
+;0xDC2A06DD=SFX_PAUSE_240
+0xDC2A06DD=SFX_PAUSE_240
+
+;0xDD93FCA7=SFX_PAUSE_210
+0xDD93FCA7=SFX_PAUSE_210
+
+;0xDE35F252=E2MF1_XA
+0xDE35F252=E2MF1_XA
+
+;0xDEC916D7=~z~Sometimes, man. Sometimes I dream about working in Burger Shot.
+0xDEC916D7=~z~Sometimes, man. Sometimes I dream about working in Burger Shot.
+
+;0xDF167F7B=~z~Then maybe you should have asked! Instead you run around this city making a fool of me.
+0xDF167F7B=~z~Then maybe you should have asked! Instead you run around this city making a fool of me.
+
+;0xDF72286F=E2MF1_WC
+0xDF72286F=E2MF1_WC
+
+;0xDFA7B2C9=E2MF1_BA
+0xDFA7B2C9=E2MF1_BA
+
+;0xDFC42DD7=~z~Please leave a message and we will get back to you.
+0xDFC42DD7=~z~Please leave a message and we will get back to you.
+
+;0xE07FF8EF=E2MF1_HL
+0xE07FF8EF=E2MF1_HL
+
+;0xE0EA37EC=~z~Mami, I thought you wanted me to respect him.
+0xE0EA37EC=~z~Mami, I thought you wanted me to respect him.
+
+;0xE1157A18=~z~You are dead. Dead. Dead. Dead.
+0xE1157A18=~z~You are dead. Dead. Dead. Dead.
+
+;0xE1183B4D=~z~Hey Mami.
+0xE1183B4D=~z~Hey Mami.
+
+;0xE2BF4160=E2MF1_RL
+0xE2BF4160=E2MF1_RL
+
+;0xE4DD7BE2=E2MF1_AE1
+0xE4DD7BE2=E2MF1_AE1
+
+;0xE58B67C2=~z~We met at your club. I am Ray Bulgarin.
+0xE58B67C2=~z~We met at your club. I am Ray Bulgarin.
+
+;0xE5A7E703=~z~These people were fucking backwards. Sharing and shit? Come on, I mean, what, communism?
+0xE5A7E703=~z~These people were fucking backwards. Sharing and shit? Come on, I mean, what, communism?
+
+;0xE6350EBD=~z~Listen, man, I got a real busy schedule.
+0xE6350EBD=~z~Listen, man, I got a real busy schedule.
+
+;0xE6F7B612=~z~Mami.
+0xE6F7B612=~z~Mami.
+
+;0xE80308FD=010090100010090010090100010090100010090100
+0xE80308FD=010090100010090010090100010090100010090100
+
+;0xE91CCBD4=E2MF1_HA
+0xE91CCBD4=E2MF1_HA
+
+;0xE95048B3=~z~I wanted to make a gift of my car to you.
+0xE95048B3=~z~I wanted to make a gift of my car to you.
+
+;0xE9A5ADB5=~z~The gun? Fuck me, bro.
+0xE9A5ADB5=~z~The gun? Fuck me, bro.
+
+;0xEA445413=E2MF1_TE
+0xEA445413=E2MF1_TE
+
+;0xEA86ED64=SFX_PAUSE_300
+0xEA86ED64=SFX_PAUSE_300
+
+;0xEAEED228=E2MF1_TC
+0xEAEED228=E2MF1_TC
+
+;0xEC73DFCB=~z~I know you, hijo, and I know your bog ego
+0xEC73DFCB=~z~I know you, hijo, and I know your bog ego
+
+;0xEC7AB23A=~z~Really?
+0xEC7AB23A=~z~Really?
+
+;0xEC9F7DE1=E2MF1_XB
+0xEC9F7DE1=E2MF1_XB
+
+;0xECD18A4C=~z~Mr. Tony, for all his faults, has been just about able to do that.
+0xECD18A4C=~z~Mr. Tony, for all his faults, has been just about able to do that.
+
+;0xECF29619=~z~Unfortunately, I'm busy being a rich, successful and very popular international superhero,
+0xECF29619=~z~Unfortunately, I'm busy being a rich, successful and very popular international superhero,
+
+;0xEE24D481=E2MF1_AH2
+0xEE24D481=E2MF1_AH2
+
+;0xEE92F69C=E2MF1_XL
+0xEE92F69C=E2MF1_XL
+
+;0xEEA027BD=SFX_PAUSE_210
+0xEEA027BD=SFX_PAUSE_210
+
+;0xEF788A22=SFX_PAUSE_320
+0xEF788A22=SFX_PAUSE_320
+
+;0xEFCCD3E8=SFX_PAUSE_150
+0xEFCCD3E8=SFX_PAUSE_150
+
+;0xF0F4DCEC=E2MF1_ID
+0xF0F4DCEC=E2MF1_ID
+
+;0xF1225C0F=~z~Mr. Tony gave me your number, there are some other matters I need to discuss before we get down to the real shit.
+0xF1225C0F=~z~Mr. Tony gave me your number, there are some other matters I need to discuss before we get down to the real shit.
+
+;0xF13F57F6=E2MF1_UE
+0xF13F57F6=E2MF1_UE
+
+;0xF34A2BFF=E2MF1_CD
+0xF34A2BFF=E2MF1_CD
+
+;0xF358DB4B=E2MF1_FD
+0xF358DB4B=E2MF1_FD
+
+;0xF389202D=E2MF1_BF
+0xF389202D=E2MF1_BF
+
+;0xF3EEC9A9=SFX_PAUSE_240
+0xF3EEC9A9=SFX_PAUSE_240
+
+;0xF410E3FC=E2MF1_HB
+0xF410E3FC=E2MF1_HB
+
+;0xF479E210=~z~Luis. I saw that nice man Mr. Santo again.
+0xF479E210=~z~Luis. I saw that nice man Mr. Santo again.
+
+;0xF744A219=~z~Hello?
+0xF744A219=~z~Hello?
+
+;0xF8E16822=E2MF1_UD2
+0xF8E16822=E2MF1_UD2
+
+;0xF96432C7=E2MF1_AC
+0xF96432C7=E2MF1_AC
+
+;0xF9D97A96=~z~I thought you hated Tony.
+0xF9D97A96=~z~I thought you hated Tony.
+
+;0xFA292A9F=E2MF1_VE
+0xFA292A9F=E2MF1_VE
+
+;0xFA7E87BC=E2MF1_NG
+0xFA7E87BC=E2MF1_NG
+
+;0xFAA552AB=SFX_PAUSE_240
+0xFAA552AB=SFX_PAUSE_240
+
+;0xFB32F90E=010090100090010100090100010
+0xFB32F90E=010090100090010100090100010
+
+;0xFBC4AB29=~z~The guy who wants to talk about franchising your clubs.
+0xFBC4AB29=~z~The guy who wants to talk about franchising your clubs.
+
+;0xFBDD8DD6=~z~You have thought about my offer?
+0xFBDD8DD6=~z~You have thought about my offer?
+
+;0xFC0D207E=~z~Hey, Mr. Bulgarin. About this offer, man.
+0xFC0D207E=~z~Hey, Mr. Bulgarin. About this offer, man.
+
+;0xFC65DAAB=E2MF1_QB
+0xFC65DAAB=E2MF1_QB
+
+;0xFC77BA3D=~z~Listen, man, I told you. I didn't know shit about who owned them diamonds.
+0xFC77BA3D=~z~Listen, man, I told you. I didn't know shit about who owned them diamonds.
+
+;0xFCA529F3=~z~Yeah, Tony's kept me on a path alright. I don't know if it's the right one though. I love you, Mami.
+0xFCA529F3=~z~Yeah, Tony's kept me on a path alright. I don't know if it's the right one though. I love you, Mami.
+
+;0xFE0422E7=SFX_PAUSE_190
+0xFE0422E7=SFX_PAUSE_190
+
+;0xFEE11A55=~z~Yeah, we were saying good bye, Mori.
+0xFEE11A55=~z~Yeah, we were saying good bye, Mori.
+
+;0xFF2B8479=100
+0xFF2B8479=100
+
+;0xFF7C2B91=~z~Well how much you need? How much money you want me to throw at this problem for you?
+0xFF7C2B91=~z~Well how much you need? How much money you want me to throw at this problem for you?
+
+;0xFFB0BB95=~z~This is your man, Yusuf.
+0xFFB0BB95=~z~This is your man, Yusuf.
+

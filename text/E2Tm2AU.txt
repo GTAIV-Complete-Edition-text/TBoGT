@@ -1,0 +1,508 @@
+﻿[E2Tm2AU]
+;0x0019F50B=SFX_PAUSE_250
+0x0019F50B=SFX_PAUSE_250
+
+;0x0050F943=E2Tm2_TA
+0x0050F943=E2Tm2_TA
+
+;0x00718D01=E2Tm2_XD
+0x00718D01=E2Tm2_XD
+
+;0x00F6A2E4=SFX_PAUSE_220
+0x00F6A2E4=SFX_PAUSE_220
+
+;0x016357F1=E2Tm1_FA
+0x016357F1=E2Tm1_FA
+
+;0x01F365B2=SFX_PAUSE_250
+0x01F365B2=SFX_PAUSE_250
+
+;0x04488F4E=~z~Tony's fine. It's that Kerry McIntosh - she's demanding some takeout from the Iron Belly in Bohan.
+0x04488F4E=~z~Tony's fine. It's that Kerry McIntosh - she's demanding some takeout from the Iron Belly in Bohan.
+
+;0x046F3478=E2Tm2_SD
+0x046F3478=E2Tm2_SD
+
+;0x0990BD43=SFX_PAUSE_250
+0x0990BD43=SFX_PAUSE_250
+
+;0x0AED44D0=SFX_PAUSE_250
+0x0AED44D0=SFX_PAUSE_250
+
+;0x0B5BA011=~z~Finally. Miss McIntosh has been asking about you, boss.
+0x0B5BA011=~z~Finally. Miss McIntosh has been asking about you, boss.
+
+;0x0E1BE57D=~z~Hi there. This is Danni, Miss McIntosh's assistant.
+0x0E1BE57D=~z~Hi there. This is Danni, Miss McIntosh's assistant.
+
+;0x0F3E3AB7=E2Tm1_JA
+0x0F3E3AB7=E2Tm1_JA
+
+;0x0FB0AFE3=E2Tm2_SA1
+0x0FB0AFE3=E2Tm2_SA1
+
+;0x0FCB6B26=~z~This thing ain't happening, D . We ran into an issue.
+0x0FCB6B26=~z~This thing ain't happening, D . We ran into an issue.
+
+;0x10078579=SFX_PAUSE_120
+0x10078579=SFX_PAUSE_120
+
+;0x127D9EC8=SFX_PAUSE_250
+0x127D9EC8=SFX_PAUSE_250
+
+;0x161E38F2=E2Tm2_XC
+0x161E38F2=E2Tm2_XC
+
+;0x1632F90D=~z~Reluctant as I may be, I am that guy. Tell your boss to hold on and it'll get there.
+0x1632F90D=~z~Reluctant as I may be, I am that guy. Tell your boss to hold on and it'll get there.
+
+;0x17E5D695=E2Tm2_SB
+0x17E5D695=E2Tm2_SB
+
+;0x1D29E21E=SFX_PAUSE_300
+0x1D29E21E=SFX_PAUSE_300
+
+;0x1F533FAE=~z~I'm running for food that I know she's gonna throw up. Shit.
+0x1F533FAE=~z~I'm running for food that I know she's gonna throw up. Shit.
+
+;0x21B4CCC3=~z~Thanks for coming, L. Give me a club full of queens over that McIntosh girl any day.
+0x21B4CCC3=~z~Thanks for coming, L. Give me a club full of queens over that McIntosh girl any day.
+
+;0x2F1EB432=~z~Come back to the Maisonette when you got a minute.
+0x2F1EB432=~z~Come back to the Maisonette when you got a minute.
+
+;0x3377E5AF=100090100090100010010
+0x3377E5AF=100090100090100010010
+
+;0x34E6B23B=010090100100090010
+0x34E6B23B=010090100100090010
+
+;0x35E2F50F=SFX_Pause_250
+0x35E2F50F=SFX_Pause_250
+
+;0x36A37374=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+0x36A37374=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+
+;0x375A9BA5=~z~Hey, Danni again. Listen, thank you so super much for going out to Bohan for Kerry,
+0x375A9BA5=~z~Hey, Danni again. Listen, thank you so super much for going out to Bohan for Kerry,
+
+;0x3A2233E5=010090100090010100
+0x3A2233E5=010090100090010100
+
+;0x3A419513=E2Tm2_OC
+0x3A419513=E2Tm2_OC
+
+;0x3CE5CCFA=E2Tm2_UB
+0x3CE5CCFA=E2Tm2_UB
+
+;0x3EB0AFC3=290
+0x3EB0AFC3=290
+
+;0x3EB185F0=E2Tm2_XA
+0x3EB185F0=E2Tm2_XA
+
+;0x3EF58418=~z~Okay, boss. Anyone asks, I ain't seen you.
+0x3EF58418=~z~Okay, boss. Anyone asks, I ain't seen you.
+
+;0x4250C618=010090100
+0x4250C618=010090100
+
+;0x485812AC=100010090100090100090010
+0x485812AC=100010090100090100090010
+
+;0x48B0B686=~z~I have here order for woman. We make it smooth so she can throw up easily.
+0x48B0B686=~z~I have here order for woman. We make it smooth so she can throw up easily.
+
+;0x498A3BE2=E2Tm2_QA2
+0x498A3BE2=E2Tm2_QA2
+
+;0x4B50242C=100090100090010
+0x4B50242C=100090100090010
+
+;0x4B6E1D98=~z~Tony treats these fucking supermodel chicks too fucking well. Damn. I'll do it. I'll do it.
+0x4B6E1D98=~z~Tony treats these fucking supermodel chicks too fucking well. Damn. I'll do it. I'll do it.
+
+;0x4C8A74F5=E2Tm2_PB
+0x4C8A74F5=E2Tm2_PB
+
+;0x53E20852=E2Tm2_UD
+0x53E20852=E2Tm2_UD
+
+;0x54F360D3=SFX_PAUSE_150
+0x54F360D3=SFX_PAUSE_150
+
+;0x564C3663=400
+0x564C3663=400
+
+;0x59EC09D0=~z~Remind me to avoid promotion at all costs, L. You the one who got to do all the shit jobs.
+0x59EC09D0=~z~Remind me to avoid promotion at all costs, L. You the one who got to do all the shit jobs.
+
+;0x5B4C871C=100090010090010
+0x5B4C871C=100090010090010
+
+;0x5C17DA83=E2Tm2_OB
+0x5C17DA83=E2Tm2_OB
+
+;0x6004C6C5=~z~What is it? Tony okay?
+0x6004C6C5=~z~What is it? Tony okay?
+
+;0x6026EEA3=E2Tm2_QC
+0x6026EEA3=E2Tm2_QC
+
+;0x6031B14C=E2Tm1_GB
+0x6031B14C=E2Tm1_GB
+
+;0x6184B597=SFX_PAUSE_250
+0x6184B597=SFX_PAUSE_250
+
+;0x626A00DF=~z~Hiya. I know you're coming, like, as superfast as you possibly can,
+0x626A00DF=~z~Hiya. I know you're coming, like, as superfast as you possibly can,
+
+;0x62A211FE=~z~I do so hate to be a pain, but is there any news on that food order?
+0x62A211FE=~z~I do so hate to be a pain, but is there any news on that food order?
+
+;0x62CD727E=~z~but you took a little bit too long.
+0x62CD727E=~z~but you took a little bit too long.
+
+;0x63E1789E=E2Tm2_TD
+0x63E1789E=E2Tm2_TD
+
+;0x6785FCE8=E2Tm2_SC
+0x6785FCE8=E2Tm2_SC
+
+;0x679301D3=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+0x679301D3=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+
+;0x67D230F7=010090100
+0x67D230F7=010090100
+
+;0x6B50DDBE=E2Tm2_MD
+0x6B50DDBE=E2Tm2_MD
+
+;0x6E8FB1BE=E2Tm1_IA
+0x6E8FB1BE=E2Tm1_IA
+
+;0x6F225232=E2Tm2_MA
+0x6F225232=E2Tm2_MA
+
+;0x6F73B571=E2Tm2_UA
+0x6F73B571=E2Tm2_UA
+
+;0x7119567A=E2Tm2_TC1
+0x7119567A=E2Tm2_TC1
+
+;0x72BE1763=SFX_PAUSE_250
+0x72BE1763=SFX_PAUSE_250
+
+;0x732C3710=E2Tm2_PA2
+0x732C3710=E2Tm2_PA2
+
+;0x746EB597=~z~I'm sorry, I don't have this number in my phone. Who is it?
+0x746EB597=~z~I'm sorry, I don't have this number in my phone. Who is it?
+
+;0x754F37C5=E2Tm2_RD
+0x754F37C5=E2Tm2_RD
+
+;0x79EC3D8B=SFX_PAUSE_350
+0x79EC3D8B=SFX_PAUSE_350
+
+;0x7B11FF7C=~z~Boss, you think you could mention about my singing to Miss McIntosh?
+0x7B11FF7C=~z~Boss, you think you could mention about my singing to Miss McIntosh?
+
+;0x7ED6D3A5=~z~Ain't that right, D. Management is for morons.
+0x7ED6D3A5=~z~Ain't that right, D. Management is for morons.
+
+;0x8071D077=SFX_PAUSE_270
+0x8071D077=SFX_PAUSE_270
+
+;0x823398A0=SFX_PAUSE_250
+0x823398A0=SFX_PAUSE_250
+
+;0x833340B6=E2Tm1_HA
+0x833340B6=E2Tm1_HA
+
+;0x838E155C=~z~Tell her to chill out. She must be used to hunger pangs.
+0x838E155C=~z~Tell her to chill out. She must be used to hunger pangs.
+
+;0x85D93895=~z~Kerry wanted to eat something, like, right away so she had to send someone else to this amazing little pizzeria in Alderney.
+0x85D93895=~z~Kerry wanted to eat something, like, right away so she had to send someone else to this amazing little pizzeria in Alderney.
+
+;0x88F094EC=010090100
+0x88F094EC=010090100
+
+;0x8A1C0AEF=E2Tm2_TB
+0x8A1C0AEF=E2Tm2_TB
+
+;0x8A2A8BE0=SFX_PAUSE_150
+0x8A2A8BE0=SFX_PAUSE_150
+
+;0x8D7B1B95=E2Tm2_OA
+0x8D7B1B95=E2Tm2_OA
+
+;0x8F787D1B=~z~Hi again. Kerry's starting to get kind of antsy.
+0x8F787D1B=~z~Hi again. Kerry's starting to get kind of antsy.
+
+;0x921585AF=~z~She's got this super strong craving for pizza, and she sent someone else out to Alderney to get it.
+0x921585AF=~z~She's got this super strong craving for pizza, and she sent someone else out to Alderney to get it.
+
+;0x92B7F930=SFX_PAUSE_170
+0x92B7F930=SFX_PAUSE_170
+
+;0x93B37FF9=SFX_PAUSE_150
+0x93B37FF9=SFX_PAUSE_150
+
+;0x9433974A=~z~I do so hate to be a pain, but is there any news on that food order?
+0x9433974A=~z~I do so hate to be a pain, but is there any news on that food order?
+
+;0x9548E504=100090100090100090100090010
+0x9548E504=100090100090100090100090010
+
+;0x96EC0544=E2Tm1_FB
+0x96EC0544=E2Tm1_FB
+
+;0x97E77C88=~z~Hey, it's Danni on behalf of Kerry McIntosh.
+0x97E77C88=~z~Hey, it's Danni on behalf of Kerry McIntosh.
+
+;0x9A06E0F0=~z~Sorry again and thank you so much.
+0x9A06E0F0=~z~Sorry again and thank you so much.
+
+;0x9C5B5E12=~z~Here's the food. I don't know why she make us make it every night when all she does is throw it up.
+0x9C5B5E12=~z~Here's the food. I don't know why she make us make it every night when all she does is throw it up.
+
+;0x9DC2C9C5=~z~We're doing fine. We just love running errands. There's only so fast a man can get from Bohan to Westminster.
+0x9DC2C9C5=~z~We're doing fine. We just love running errands. There's only so fast a man can get from Bohan to Westminster.
+
+;0x9DF6BCF7=~z~I don't know why I bother, Dess. This girl is bulimic for sure. Serious puker.
+0x9DF6BCF7=~z~I don't know why I bother, Dess. This girl is bulimic for sure. Serious puker.
+
+;0x9F4B019C=E2Tm2_RA1
+0x9F4B019C=E2Tm2_RA1
+
+;0x9FBA6A85=010090100
+0x9FBA6A85=010090100
+
+;0xA15FFECE=~z~but Kerry's kind of having a serious freak out here.
+0xA15FFECE=~z~but Kerry's kind of having a serious freak out here.
+
+;0xA4986AD7=SFX_PAUSE_320
+0xA4986AD7=SFX_PAUSE_320
+
+;0xA6A5581A=E2Tm2_XB
+0xA6A5581A=E2Tm2_XB
+
+;0xA6FC54B3=~z~We don't got no one else who can pick it up.
+0xA6FC54B3=~z~We don't got no one else who can pick it up.
+
+;0xAB1221B1=~z~I hope it's nothing serious, boss. You take care.
+0xAB1221B1=~z~I hope it's nothing serious, boss. You take care.
+
+;0xABC1C0F5=010
+0xABC1C0F5=010
+
+;0xABEF1AE8=E2Tm2_KA
+0xABEF1AE8=E2Tm2_KA
+
+;0xAC8A2257=~z~I've been asked to follow up on the whereabouts of her food order. I'm told you're in charge of it.
+0xAC8A2257=~z~I've been asked to follow up on the whereabouts of her food order. I'm told you're in charge of it.
+
+;0xB1C5EE03=SFX_PAUSE_300
+0xB1C5EE03=SFX_PAUSE_300
+
+;0xB2039C0A=E2Tm1_HB
+0xB2039C0A=E2Tm1_HB
+
+;0xB4DBB481=E2Tm2_RC
+0xB4DBB481=E2Tm2_RC
+
+;0xB58240FB=~z~Kerry's got her takeout, D.
+0xB58240FB=~z~Kerry's got her takeout, D.
+
+;0xB6351060=SFX_PAUSE_270
+0xB6351060=SFX_PAUSE_270
+
+;0xB7C75E71=~z~The news is I'm bringing it as fast as I can. It'll get to you when it gets to you.
+0xB7C75E71=~z~The news is I'm bringing it as fast as I can. It'll get to you when it gets to you.
+
+;0xB8780874=E2Tm2_NC
+0xB8780874=E2Tm2_NC
+
+;0xB921EA48=E2Tm2_MC
+0xB921EA48=E2Tm2_MC
+
+;0xB9C14124=E2Tm1_IB
+0xB9C14124=E2Tm1_IB
+
+;0xBA031286=E2Tm1_JB
+0xBA031286=E2Tm1_JB
+
+;0xBADBEB7A=E2Tm2_LA
+0xBADBEB7A=E2Tm2_LA
+
+;0xBC4986D2=~z~Hi there. Danni again. Miss McIntosh wanted me to chase up that order. How are we doing?
+0xBC4986D2=~z~Hi there. Danni again. Miss McIntosh wanted me to chase up that order. How are we doing?
+
+;0xBDBBB785=~z~She's like "where the fuck is my fucking food?" She gets kind of, like, cranky if she doesn't eat. Comprende?
+0xBDBBB785=~z~She's like "where the fuck is my fucking food?" She gets kind of, like, cranky if she doesn't eat. Comprende?
+
+;0xBE6DDE5F=~z~I really hope that you didn't go out of your way.
+0xBE6DDE5F=~z~I really hope that you didn't go out of your way.
+
+;0xBE76A9DB=~z~Fuck this shit.
+0xBE76A9DB=~z~Fuck this shit.
+
+;0xBFCA1D06=100
+0xBFCA1D06=100
+
+;0xC11931F2=E2Tm2_QB
+0xC11931F2=E2Tm2_QB
+
+;0xC2516AFA=E2Tm1_GA
+0xC2516AFA=E2Tm1_GA
+
+;0xC30BC027=E2Tm2_QD
+0xC30BC027=E2Tm2_QD
+
+;0xC5D247B2=~z~Really? She must be one cranky bitch then, 'cause I seen photos of her, and she don't eat much at all.
+0xC5D247B2=~z~Really? She must be one cranky bitch then, 'cause I seen photos of her, and she don't eat much at all.
+
+;0xC765ECF5=~z~When's it going to be here?
+0xC765ECF5=~z~When's it going to be here?
+
+;0xC899F2B7=~z~Kerry had kind of a change of mind.
+0xC899F2B7=~z~Kerry had kind of a change of mind.
+
+;0xC8C6BACC=E2Tm2_SA2
+0xC8C6BACC=E2Tm2_SA2
+
+;0xCA99CEC7=E2Tm2_VA
+0xCA99CEC7=E2Tm2_VA
+
+;0xCAC2B863=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+0xCAC2B863=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+
+;0xCB717520=~z~There's no way she gonna starve to death in the couple of minutes it takes me to get this foul smelling shit to her. Chill out.
+0xCB717520=~z~There's no way she gonna starve to death in the couple of minutes it takes me to get this foul smelling shit to her. Chill out.
+
+;0xCBF5B26D=010090100090100090010
+0xCBF5B26D=010090100090100090010
+
+;0xCDB90C4C=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+0xCDB90C4C=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+
+;0xCE837080=SFX_PAUSE_140
+0xCE837080=SFX_PAUSE_140
+
+;0xCF4275E2=E2Tm2_RA2
+0xCF4275E2=E2Tm2_RA2
+
+;0xD181395E=SFX_PAUSE_130
+0xD181395E=SFX_PAUSE_130
+
+;0xD30304C2=E2Tm2_UE
+0xD30304C2=E2Tm2_UE
+
+;0xD51583C8=E2Tm2_RB
+0xD51583C8=E2Tm2_RB
+
+;0xD54981F5=E2Tm2_PA1
+0xD54981F5=E2Tm2_PA1
+
+;0xD5CDB336=SFX_PAUSE_250
+0xD5CDB336=SFX_PAUSE_250
+
+;0xD68E8B46=~z~It's coming, okay! I mean, I seen photos of Kerry, and I know she don't eat for months at a time. She looks like a famine victim.
+0xD68E8B46=~z~It's coming, okay! I mean, I seen photos of Kerry, and I know she don't eat for months at a time. She looks like a famine victim.
+
+;0xD68F14F8=E2Tm2_WA
+0xD68F14F8=E2Tm2_WA
+
+;0xD6A93F85=SFX_PAUSE_150
+0xD6A93F85=SFX_PAUSE_150
+
+;0xD7557FCF=E2Tm2_UC
+0xD7557FCF=E2Tm2_UC
+
+;0xDDF416A9=SFX_PAUSE_220
+0xDDF416A9=SFX_PAUSE_220
+
+;0xDFF246A2=~z~Hold up, L. We got an urgent request from Hercules.
+0xDFF246A2=~z~Hold up, L. We got an urgent request from Hercules.
+
+;0xE0BF6961=SFX_PAUSE_320
+0xE0BF6961=SFX_PAUSE_320
+
+;0xE0F3C8A3=E2Tm2_NA
+0xE0F3C8A3=E2Tm2_NA
+
+;0xE24A974B=~z~You gonna bring me takeout, too?
+0xE24A974B=~z~You gonna bring me takeout, too?
+
+;0xE2A7815C=~z~This food is coming to her as fast as it can, you passive aggressive nightmare. Conyo!
+0xE2A7815C=~z~This food is coming to her as fast as it can, you passive aggressive nightmare. Conyo!
+
+;0xE4DAA7DE=~z~She's, like, super hungry and really needs that takeout.
+0xE4DAA7DE=~z~She's, like, super hungry and really needs that takeout.
+
+;0xE52DABDE=~z~Oh hi. Danni again. Look I really hope that you aren't still trying to get that stuff from Iron Belly.
+0xE52DABDE=~z~Oh hi. Danni again. Look I really hope that you aren't still trying to get that stuff from Iron Belly.
+
+;0xE557718A=100090100090100100090010
+0xE557718A=100090100090100100090010
+
+;0xE5CF2660=SFX_PAUSE_220
+0xE5CF2660=SFX_PAUSE_220
+
+;0xE67ED491=E2Tm2_PA2
+0xE67ED491=E2Tm2_PA2
+
+;0xE6901769=100090100090100010090010
+0xE6901769=100090100090100010090010
+
+;0xE8EF74BC=~z~Shit, L. Okay. I'll get on damage control.
+0xE8EF74BC=~z~Shit, L. Okay. I'll get on damage control.
+
+;0xED1C4B12=~z~No problem, boss.
+0xED1C4B12=~z~No problem, boss.
+
+;0xEDA85188=E2Tm2_MB
+0xEDA85188=E2Tm2_MB
+
+;0xEE0CA697=~z~Yeah. I've got it right here. If she can hold on tight, it's coming.
+0xEE0CA697=~z~Yeah. I've got it right here. If she can hold on tight, it's coming.
+
+;0xEF18CD2F=~z~Hey, it's Danni on behalf of Kerry McIntosh.
+0xEF18CD2F=~z~Hey, it's Danni on behalf of Kerry McIntosh.
+
+;0xEFFE344C=SFX_PAUSE_350
+0xEFFE344C=SFX_PAUSE_350
+
+;0xF09F33F4=~z~Have fun on the food run, boss.
+0xF09F33F4=~z~Have fun on the food run, boss.
+
+;0xF1B6F0B9=E2Tm2_PA1
+0xF1B6F0B9=E2Tm2_PA1
+
+;0xF1F7C582=~z~No, girl, I didn't go out my way at all. Thanks for letting me know. Fucking perfect!
+0xF1F7C582=~z~No, girl, I didn't go out my way at all. Thanks for letting me know. Fucking perfect!
+
+;0xF1F8861C=E2Tm2_QA1
+0xF1F8861C=E2Tm2_QA1
+
+;0xF43031A6=~z~Hello. Who is this?
+0xF43031A6=~z~Hello. Who is this?
+
+;0xF57DAA85=010090100
+0xF57DAA85=010090100
+
+;0xFA42C695=SFX_PAUSE_250
+0xFA42C695=SFX_PAUSE_250
+
+;0xFCFAACA4=~z~Coño. I knew I shouldn't have gone on that run, bro.
+0xFCFAACA4=~z~Coño. I knew I shouldn't have gone on that run, bro.
+
+;0xFDEF7170=E2Tm2_TC2
+0xFDEF7170=E2Tm2_TC2
+
+;0xFE970755=SFX_PAUSE_300
+0xFE970755=SFX_PAUSE_300
+

@@ -1,0 +1,733 @@
+﻿[E2CLJA]
+;0x033508B7=E2CLJ_IB
+0x033508B7=E2CLJ_IB
+
+;0x03E48860=~z~I saw you fuck that bitch on the monitor. Were you trying to rub my face in it?
+0x03E48860=~z~I saw you fuck that bitch on the monitor. Were you trying to rub my face in it?
+
+;0x05337CF1=~z~Okay. I see something happening in the men's washroom. Might be worth investigating.
+0x05337CF1=~z~Okay. I see something happening in the men's washroom. Might be worth investigating.
+
+;0x077FFDA1=~z~Woah, no one should treat a lady like that.
+0x077FFDA1=~z~Woah, no one should treat a lady like that.
+
+;0x083B1BDC=SFX_PAUSE_270
+0x083B1BDC=SFX_PAUSE_270
+
+;0x0A07250D=~z~Hey Mr. boss, sir. Your wish is my command.
+0x0A07250D=~z~Hey Mr. boss, sir. Your wish is my command.
+
+;0x0A08016F=~z~These screens are like porno sometimes. I could show you the highlight reel.
+0x0A08016F=~z~These screens are like porno sometimes. I could show you the highlight reel.
+
+;0x0D5F3605=~z~Okay, Joni. This is weird. Try to relax, yo? I'm going back to work now.
+0x0D5F3605=~z~Okay, Joni. This is weird. Try to relax, yo? I'm going back to work now.
+
+;0x0DFC3EAB=101
+0x0DFC3EAB=101
+
+;0x0E23C776=010090100010090100090010
+0x0E23C776=010090100010090100090010
+
+;0x0EED28CE=E2CLJ_HA
+0x0EED28CE=E2CLJ_HA
+
+;0x0FF99CCD=E2CLJ_XC
+0x0FF99CCD=E2CLJ_XC
+
+;0x1112ADEC=~z~Cut that shit out, L. I need you to head to the office right away.
+0x1112ADEC=~z~Cut that shit out, L. I need you to head to the office right away.
+
+;0x116EA663=E2CLJ_XB
+0x116EA663=E2CLJ_XB
+
+;0x11F1AE1F=E2CLJ_HC
+0x11F1AE1F=E2CLJ_HC
+
+;0x12534D72=~z~I see something weird on the dancefloor, L. Can you check it?
+0x12534D72=~z~I see something weird on the dancefloor, L. Can you check it?
+
+;0x135006C2=090
+0x135006C2=090
+
+;0x155FDA50=~z~Can you take a look at the VIP, L? I see something on the monitor.
+0x155FDA50=~z~Can you take a look at the VIP, L? I see something on the monitor.
+
+;0x156C997A=~z~I'm getting this serious creepy rape vibe off some dude.
+0x156C997A=~z~I'm getting this serious creepy rape vibe off some dude.
+
+;0x177FD42E=~z~Go get 'em.
+0x177FD42E=~z~Go get 'em.
+
+;0x19F0B10B=~z~Oh, jesus.
+0x19F0B10B=~z~Oh, jesus.
+
+;0x1A69DA74=E2CLJ_BA
+0x1A69DA74=E2CLJ_BA
+
+;0x1AC4C688=~z~The club's not the only thing that needs management, you know.
+0x1AC4C688=~z~The club's not the only thing that needs management, you know.
+
+;0x1B3A66D8=010
+0x1B3A66D8=010
+
+;0x1BC467A7=E2CLJ_JD
+0x1BC467A7=E2CLJ_JD
+
+;0x1C21A6E4=~z~There's some sexual harassment shit going down. Fuck.
+0x1C21A6E4=~z~There's some sexual harassment shit going down. Fuck.
+
+;0x1E3CEA48=E2CLJ_JF
+0x1E3CEA48=E2CLJ_JF
+
+;0x1F3DC8C1=E2CLJ_XA
+0x1F3DC8C1=E2CLJ_XA
+
+;0x20C3B72D=E2CLJ_QA
+0x20C3B72D=E2CLJ_QA
+
+;0x21453A39=~z~Sit down, you idiot.
+0x21453A39=~z~Sit down, you idiot.
+
+;0x22DA42E2=~z~You want some attention, is that what you want? How's this for attention? Turn the fuck around.
+0x22DA42E2=~z~You want some attention, is that what you want? How's this for attention? Turn the fuck around.
+
+;0x231246BB=~z~I don't know what you saw, but it was entirely unintentional. Look, are we cool?
+0x231246BB=~z~I don't know what you saw, but it was entirely unintentional. Look, are we cool?
+
+;0x247BA4E4=E2CLJ_MA
+0x247BA4E4=E2CLJ_MA
+
+;0x24CE792D=~z~Hey L. It might be worth heading down to the VIP. I see something weird down there.
+0x24CE792D=~z~Hey L. It might be worth heading down to the VIP. I see something weird down there.
+
+;0x25750CAB=E2CL_QA
+0x25750CAB=E2CL_QA
+
+;0x261D9F0D=E2CL_NA
+0x261D9F0D=E2CL_NA
+
+;0x267B0390=~z~Get the fuck out of here!
+0x267B0390=~z~Get the fuck out of here!
+
+;0x26864A36=~z~Stop with that bullshit.
+0x26864A36=~z~Stop with that bullshit.
+
+;0x277709C8=~z~Later, L.
+0x277709C8=~z~Later, L.
+
+;0x27A5A4B9=~z~Oye, I think this guy's fucked up on something. Either that or he's an idiot.
+0x27A5A4B9=~z~Oye, I think this guy's fucked up on something. Either that or he's an idiot.
+
+;0x29E14263=~z~There some asshole manhandling a lady here.
+0x29E14263=~z~There some asshole manhandling a lady here.
+
+;0x2A5EF9EC=~z~Do your thing, baby.
+0x2A5EF9EC=~z~Do your thing, baby.
+
+;0x2B771D44=010
+0x2B771D44=010
+
+;0x2BCA5FFF=~z~I won't peek, I promise.
+0x2BCA5FFF=~z~I won't peek, I promise.
+
+;0x2CA7F4BC=E2CLJ_IA
+0x2CA7F4BC=E2CLJ_IA
+
+;0x2DBAE7F1=SFX_PAUSE_270
+0x2DBAE7F1=SFX_PAUSE_270
+
+;0x2EA1DC77=101
+0x2EA1DC77=101
+
+;0x2F2FDB14=SFX_PAUSE_300
+0x2F2FDB14=SFX_PAUSE_300
+
+;0x2F3D543F=010
+0x2F3D543F=010
+
+;0x3081FD56=E2CLJ_TA
+0x3081FD56=E2CLJ_TA
+
+;0x30BC2B92=E2CLJ_RA
+0x30BC2B92=E2CLJ_RA
+
+;0x32DD8101=~z~Actually, don't worry. Forget I said anything. Just forget it. I should probably go on meds or something.
+0x32DD8101=~z~Actually, don't worry. Forget I said anything. Just forget it. I should probably go on meds or something.
+
+;0x33A6E086=E2CLJ_NA
+0x33A6E086=E2CLJ_NA
+
+;0x3478E61F=~z~Shit, L. I think I can feel it.
+0x3478E61F=~z~Shit, L. I think I can feel it.
+
+;0x34DE960F=101
+0x34DE960F=101
+
+;0x369BDA96=~z~Is it hot in here, or is it just me?
+0x369BDA96=~z~Is it hot in here, or is it just me?
+
+;0x3727D308=~z~I don't care whose fault it was. Stay the fuck away.
+0x3727D308=~z~I don't care whose fault it was. Stay the fuck away.
+
+;0x37A686CD=~z~Things are closing down, Luis.
+0x37A686CD=~z~Things are closing down, Luis.
+
+;0x38B8EE9B=~z~So, when you going to make an honest woman of me?
+0x38B8EE9B=~z~So, when you going to make an honest woman of me?
+
+;0x38FB6CA5=100
+0x38FB6CA5=100
+
+;0x394EAD77=~z~See ya, L.
+0x394EAD77=~z~See ya, L.
+
+;0x3BCCF8C6=SFX_PAUSE_250
+0x3BCCF8C6=SFX_PAUSE_250
+
+;0x3BDAE514=~z~I hope you haven't been e-stalking me, L. You seem like the stalker type.
+0x3BDAE514=~z~I hope you haven't been e-stalking me, L. You seem like the stalker type.
+
+;0x3CFA35FF=E2CLJ_GA
+0x3CFA35FF=E2CLJ_GA
+
+;0x3D548348=~z~That slut was checking you out, L.
+0x3D548348=~z~That slut was checking you out, L.
+
+;0x3EEA3C71=E2CL_IA
+0x3EEA3C71=E2CL_IA
+
+;0x40188D09=101
+0x40188D09=101
+
+;0x40C856FE=~z~Whoah, this dude is way overly refreshed.
+0x40C856FE=~z~Whoah, this dude is way overly refreshed.
+
+;0x434E3B36=SFX_PAUSE_320
+0x434E3B36=SFX_PAUSE_320
+
+;0x460E2762=~z~Nothing, it's just like, what the fuck is this, Luis? Is something going on? Is it not going on?
+0x460E2762=~z~Nothing, it's just like, what the fuck is this, Luis? Is something going on? Is it not going on?
+
+;0x474A6D13=E2CLJ_FA
+0x474A6D13=E2CLJ_FA
+
+;0x48160F40=SFX_PAUSE_320
+0x48160F40=SFX_PAUSE_320
+
+;0x48808ED5=E2CLJ_ID
+0x48808ED5=E2CLJ_ID
+
+;0x48A98F30=SFX_OVERLAP_1670
+0x48A98F30=SFX_OVERLAP_1670
+
+;0x497777A7=~z~Both of you are banned.
+0x497777A7=~z~Both of you are banned.
+
+;0x4C2CD31F=~z~Bye, baby. Look after yourself.
+0x4C2CD31F=~z~Bye, baby. Look after yourself.
+
+;0x4CDABE5C=~z~All work and no play makes Joni a dull girl.
+0x4CDABE5C=~z~All work and no play makes Joni a dull girl.
+
+;0x4D3F5132=~z~Have fun out there, soldier.
+0x4D3F5132=~z~Have fun out there, soldier.
+
+;0x4E541D3E=~z~Are you feeling alright? I got a job to do.
+0x4E541D3E=~z~Are you feeling alright? I got a job to do.
+
+;0x4E5F19EB=~z~I got the call.
+0x4E5F19EB=~z~I got the call.
+
+;0x4F09F381=~z~I see someone who's had way too much to drink.
+0x4F09F381=~z~I see someone who's had way too much to drink.
+
+;0x4F35A53B=E2CL_MA
+0x4F35A53B=E2CL_MA
+
+;0x508898BF=~z~Where's the fire?
+0x508898BF=~z~Where's the fire?
+
+;0x522E2D9D=~z~I'm witnessing some aggression here.
+0x522E2D9D=~z~I'm witnessing some aggression here.
+
+;0x534F93F9=~z~I get so bored in here. If only there was something that could spice things up...
+0x534F93F9=~z~I get so bored in here. If only there was something that could spice things up...
+
+;0x546A4789=~z~Someone ain't patting down right, man, 'cause we got a dealer in the club.
+0x546A4789=~z~Someone ain't patting down right, man, 'cause we got a dealer in the club.
+
+;0x567B099A=010100010100010100010
+0x567B099A=010100010100010100010
+
+;0x57179B71=~z~It's scary for a girl in here all by herself. A manager or someone could take advantage...
+0x57179B71=~z~It's scary for a girl in here all by herself. A manager or someone could take advantage...
+
+;0x580E66D8=~z~Look at him go. Great looking and dumb as can be.
+0x580E66D8=~z~Look at him go. Great looking and dumb as can be.
+
+;0x58EDE3B5=E2CLJ_JC
+0x58EDE3B5=E2CLJ_JC
+
+;0x5BFCBF98=E2CLJ_HD
+0x5BFCBF98=E2CLJ_HD
+
+;0x5C350DD7=~z~There's a guy way out of control down here.
+0x5C350DD7=~z~There's a guy way out of control down here.
+
+;0x5D45A7CD=~z~The girls out there get to have all the fun.
+0x5D45A7CD=~z~The girls out there get to have all the fun.
+
+;0x5E19D797=~z~Sure, we're cool. I'm cool. Whatever.
+0x5E19D797=~z~Sure, we're cool. I'm cool. Whatever.
+
+;0x5E74CA2A=101
+0x5E74CA2A=101
+
+;0x5F138638=~z~What was that?
+0x5F138638=~z~What was that?
+
+;0x6024BD76=~z~I bet you did, you asshole. You come running for work, but for anything else...
+0x6024BD76=~z~I bet you did, you asshole. You come running for work, but for anything else...
+
+;0x61DB3110=~z~Do you think anyone would catch me if I started acting bad in here?
+0x61DB3110=~z~Do you think anyone would catch me if I started acting bad in here?
+
+;0x62A65214=E2CLJ_IF
+0x62A65214=E2CLJ_IF
+
+;0x631E7CF0=~z~See you.
+0x631E7CF0=~z~See you.
+
+;0x640A5F94=~z~Hey, L. We're about to close up for the night.
+0x640A5F94=~z~Hey, L. We're about to close up for the night.
+
+;0x667339CE=E2CLJ_DA
+0x667339CE=E2CLJ_DA
+
+;0x68DF9A20=~z~Concentrate on the club, J.
+0x68DF9A20=~z~Concentrate on the club, J.
+
+;0x6A063953=E2CLJ_AA
+0x6A063953=E2CLJ_AA
+
+;0x6A148AAE=~z~Pathetic little asshole.
+0x6A148AAE=~z~Pathetic little asshole.
+
+;0x6BA5304B=E2CLJ_WA
+0x6BA5304B=E2CLJ_WA
+
+;0x6C0EDB8D=SFX_PAUSE_300
+0x6C0EDB8D=SFX_PAUSE_300
+
+;0x6C547A98=~z~Looks like something weird could be happening at the back of the club. Can you take a look?
+0x6C547A98=~z~Looks like something weird could be happening at the back of the club. Can you take a look?
+
+;0x6CA54D2D=~z~Things are all good here, Joni.
+0x6CA54D2D=~z~Things are all good here, Joni.
+
+;0x6D8691A6=~z~We got a back room without cameras for next time.
+0x6D8691A6=~z~We got a back room without cameras for next time.
+
+;0x6DC2965E=~z~Don't work too hard. You might explode.
+0x6DC2965E=~z~Don't work too hard. You might explode.
+
+;0x7070663F=E2CLJ_HE
+0x7070663F=E2CLJ_HE
+
+;0x71D794A0=SFX_PAUSE_300
+0x71D794A0=SFX_PAUSE_300
+
+;0x72CA6A14=E2CLJ_IC
+0x72CA6A14=E2CLJ_IC
+
+;0x769E35DF=010
+0x769E35DF=010
+
+;0x77288637=010
+0x77288637=010
+
+;0x77D10E5E=~z~We got a dealer down here.
+0x77D10E5E=~z~We got a dealer down here.
+
+;0x7A8D970A=~z~Whoa. We've got something going down at the back of the club. Might be worth checking out.
+0x7A8D970A=~z~Whoa. We've got something going down at the back of the club. Might be worth checking out.
+
+;0x7CC6711E=~z~Oye, J. You can move.
+0x7CC6711E=~z~Oye, J. You can move.
+
+;0x7D727000=090
+0x7D727000=090
+
+;0x7E2CAD43=~z~I'm on it.
+0x7E2CAD43=~z~I'm on it.
+
+;0x7E307043=~z~These people are on coke. But it's discreet enough to ignore, don't worry about it.
+0x7E307043=~z~These people are on coke. But it's discreet enough to ignore, don't worry about it.
+
+;0x7E8976D0=010090100090010100010100
+0x7E8976D0=010090100090010100010100
+
+;0x7F05C66C=~z~Oh, really?
+0x7F05C66C=~z~Oh, really?
+
+;0x8006BD49=E2CLJ_KB
+0x8006BD49=E2CLJ_KB
+
+;0x809A2559=E2CL_PA
+0x809A2559=E2CL_PA
+
+;0x82E0BC5A=~z~We got special treatment for second time offenders!
+0x82E0BC5A=~z~We got special treatment for second time offenders!
+
+;0x838582AC=010090100090100090010090010100
+0x838582AC=010090100090100090010090010100
+
+;0x8488766A=~z~I'm so frustrated right now. If only there was some way to get rid of the tension.
+0x8488766A=~z~I'm so frustrated right now. If only there was some way to get rid of the tension.
+
+;0x85689309=E2CLJ_XD
+0x85689309=E2CLJ_XD
+
+;0x856DAF81=~z~You work so hard, I thought you needed a break.
+0x856DAF81=~z~You work so hard, I thought you needed a break.
+
+;0x8603AAC3=~z~I spotted us a pusher.
+0x8603AAC3=~z~I spotted us a pusher.
+
+;0x861D94DD=~z~A girl gets bored all alone, Luis.
+0x861D94DD=~z~A girl gets bored all alone, Luis.
+
+;0x87040E1F=E2CLJ_IE
+0x87040E1F=E2CLJ_IE
+
+;0x874A16FD=~z~You really work out, don't you? Is it to compensate for things?
+0x874A16FD=~z~You really work out, don't you? Is it to compensate for things?
+
+;0x889428A7=~z~We're done for the night, baby.
+0x889428A7=~z~We're done for the night, baby.
+
+;0x8943B61C=E2CLJ_JA
+0x8943B61C=E2CLJ_JA
+
+;0x897E9BEB=E2CLJ_HB
+0x897E9BEB=E2CLJ_HB
+
+;0x89E007A6=~z~I ain't gonna kick someone out for being a douche. We cool here.
+0x89E007A6=~z~I ain't gonna kick someone out for being a douche. We cool here.
+
+;0x8BC74878=~z~Be there in a minute.
+0x8BC74878=~z~Be there in a minute.
+
+;0x8C586111=~z~Sure.
+0x8C586111=~z~Sure.
+
+;0x8EA7F2FC=100
+0x8EA7F2FC=100
+
+;0x8EE9C271=~z~What you need, J... whoa!
+0x8EE9C271=~z~What you need, J... whoa!
+
+;0x92205AD9=~z~I'll remember that face, asshole.
+0x92205AD9=~z~I'll remember that face, asshole.
+
+;0x931A62E6=E2CLJ_EA
+0x931A62E6=E2CLJ_EA
+
+;0x9561B32C=~z~Is it true that steroids shrink your balls? Or were they always like that?
+0x9561B32C=~z~Is it true that steroids shrink your balls? Or were they always like that?
+
+;0x95A01F22=~z~They all seem to be enjoying themselves.
+0x95A01F22=~z~They all seem to be enjoying themselves.
+
+;0x966C32A1=E2CLJ_LA
+0x966C32A1=E2CLJ_LA
+
+;0x97576547=~z~I don't wanna see you again.
+0x97576547=~z~I don't wanna see you again.
+
+;0x99B76458=~z~Cool, I got it.
+0x99B76458=~z~Cool, I got it.
+
+;0x9A51CC22=~z~That's nearly it for tonight, L.
+0x9A51CC22=~z~That's nearly it for tonight, L.
+
+;0x9BF672C5=~z~Don't forget about me, L. I'm the girl in the back with the IQ above 30.
+0x9BF672C5=~z~Don't forget about me, L. I'm the girl in the back with the IQ above 30.
+
+;0x9DF0E8C6=E2CLJ_JE
+0x9DF0E8C6=E2CLJ_JE
+
+;0x9E5FD804=~z~Huh?
+0x9E5FD804=~z~Huh?
+
+;0xA05EC95F=~z~I'm so lonely in here, L.
+0xA05EC95F=~z~I'm so lonely in here, L.
+
+;0xA41AD1B5=~z~Yo. Fuck, man! What people gotta fight for?
+0xA41AD1B5=~z~Yo. Fuck, man! What people gotta fight for?
+
+;0xA4ECE158=~z~We're wrapping up, L.
+0xA4ECE158=~z~We're wrapping up, L.
+
+;0xA55C0580=~z~Bye, Luis. See you soon.
+0xA55C0580=~z~Bye, Luis. See you soon.
+
+;0xA5A3FC2D=~z~Okay, done.
+0xA5A3FC2D=~z~Okay, done.
+
+;0xA60F5B4D=~z~Some punk's trying to get out of a bar tab here.
+0xA60F5B4D=~z~Some punk's trying to get out of a bar tab here.
+
+;0xA80B00FF=~z~No doubt. Be there soon.
+0xA80B00FF=~z~No doubt. Be there soon.
+
+;0xA81C2C23=E2CLJ_KE
+0xA81C2C23=E2CLJ_KE
+
+;0xA976F793=~z~There ain't nothing dull about that...
+0xA976F793=~z~There ain't nothing dull about that...
+
+;0xAA735E2A=~z~There some bullying in the playground, yo.
+0xAA735E2A=~z~There some bullying in the playground, yo.
+
+;0xAB38DEDA=~z~Man, you ain't shy, are you?
+0xAB38DEDA=~z~Man, you ain't shy, are you?
+
+;0xB1937E6B=~z~I got here as fast as I could. What's going on?
+0xB1937E6B=~z~I got here as fast as I could. What's going on?
+
+;0xB2556D4C=~z~God, did you see that tramp you just walked past? Gruesome.
+0xB2556D4C=~z~God, did you see that tramp you just walked past? Gruesome.
+
+;0xB30B59F8=~z~Joni, mami, things are fine here.
+0xB30B59F8=~z~Joni, mami, things are fine here.
+
+;0xB3BBF6A6=~z~Looks like some punk thinks he can get away with not paying.
+0xB3BBF6A6=~z~Looks like some punk thinks he can get away with not paying.
+
+;0xB4780E20=~z~Put on a show for me, L. I love it when you act tough.
+0xB4780E20=~z~Put on a show for me, L. I love it when you act tough.
+
+;0xB5649BAE=~z~No problem.
+0xB5649BAE=~z~No problem.
+
+;0xB5FE9D0A=101
+0xB5FE9D0A=101
+
+;0xB81873BF=101
+0xB81873BF=101
+
+;0xB8594DBD=E2CLJ_KF
+0xB8594DBD=E2CLJ_KF
+
+;0xB8736476=~z~There's some kind of ruckus in the hall, L. Could you check it out?
+0xB8736476=~z~There's some kind of ruckus in the hall, L. Could you check it out?
+
+;0xB892FA69=~z~There some aggressive behavior going on down here, bro.
+0xB892FA69=~z~There some aggressive behavior going on down here, bro.
+
+;0xB999949C=101
+0xB999949C=101
+
+;0xBBF10083=~z~Shit, L. People are scared of you.
+0xBBF10083=~z~Shit, L. People are scared of you.
+
+;0xBBFD88CA=E2CLJ_CA
+0xBBFD88CA=E2CLJ_CA
+
+;0xBC128155=E2CLJ_UA
+0xBC128155=E2CLJ_UA
+
+;0xBD08DED0=~z~If you really like fighting why don't you fight me and Dessie?
+0xBD08DED0=~z~If you really like fighting why don't you fight me and Dessie?
+
+;0xBDFF846B=~z~I'm covering my eyes.
+0xBDFF846B=~z~I'm covering my eyes.
+
+;0xBF961DE7=~z~That guy is not trying to deal in our club.
+0xBF961DE7=~z~That guy is not trying to deal in our club.
+
+;0xC16891E3=~z~Oye. I hate it when people try to scam the wait staff.
+0xC16891E3=~z~Oye. I hate it when people try to scam the wait staff.
+
+;0xC33B9777=~z~Taking some time off from the ladies, are you?
+0xC33B9777=~z~Taking some time off from the ladies, are you?
+
+;0xC3EAFBB7=~z~Looks like we having a peaceful night.
+0xC3EAFBB7=~z~Looks like we having a peaceful night.
+
+;0xCA1E60F0=E2CLJ_PA
+0xCA1E60F0=E2CLJ_PA
+
+;0xCC2320B2=~z~So you ARE over compensating.
+0xCC2320B2=~z~So you ARE over compensating.
+
+;0xCC47F03F=E2CLJ_VA
+0xCC47F03F=E2CLJ_VA
+
+;0xCCC4D03B=~z~Knock 'em dead.
+0xCCC4D03B=~z~Knock 'em dead.
+
+;0xCDB94017=~z~Damn! This what I'm talkin' about!
+0xCDB94017=~z~Damn! This what I'm talkin' about!
+
+;0xCDBCE38D=~z~Uh huh.
+0xCDBCE38D=~z~Uh huh.
+
+;0xCDBEA41E=~z~You're so commanding down there, boss.
+0xCDBEA41E=~z~You're so commanding down there, boss.
+
+;0xCEA3C97B=010
+0xCEA3C97B=010
+
+;0xCFD2C8F8=E2CLJ_OA
+0xCFD2C8F8=E2CLJ_OA
+
+;0xD16533CA=~z~Oh! He's going to grace us with his presence.
+0xD16533CA=~z~Oh! He's going to grace us with his presence.
+
+;0xD2F59876=~z~We've got a disturbance in the men's room, L. Go break some heads.
+0xD2F59876=~z~We've got a disturbance in the men's room, L. Go break some heads.
+
+;0xD5C27798=E2CL_OA
+0xD5C27798=E2CL_OA
+
+;0xD6AD74C4=100
+0xD6AD74C4=100
+
+;0xD7F4B081=~z~Nothing's going on in here. Nothing! The shit is happening out there.
+0xD7F4B081=~z~Nothing's going on in here. Nothing! The shit is happening out there.
+
+;0xD8D0D774=101
+0xD8D0D774=101
+
+;0xD9F0BFA9=~z~L, shit, I need you to come see me in the office right now!
+0xD9F0BFA9=~z~L, shit, I need you to come see me in the office right now!
+
+;0xDB18FE95=~z~Work is work, mami.
+0xDB18FE95=~z~Work is work, mami.
+
+;0xDCBF3A12=~z~What's going in in here?
+0xDCBF3A12=~z~What's going in in here?
+
+;0xDDB8CA83=~z~Some guy here thinks he can drink for free.
+0xDDB8CA83=~z~Some guy here thinks he can drink for free.
+
+;0xDF5DB29C=~z~People seem happy, J. Things are cool.
+0xDF5DB29C=~z~People seem happy, J. Things are cool.
+
+;0xDFEA574A=~z~We've got to close soon, L.
+0xDFEA574A=~z~We've got to close soon, L.
+
+;0xDFF07003=~z~There's something happening at the bar, L. Could you check it out?
+0xDFF07003=~z~There's something happening at the bar, L. Could you check it out?
+
+;0xE002E4AA=~z~At least you're a grow-er, cause you sure ain't a show-er.
+0xE002E4AA=~z~At least you're a grow-er, cause you sure ain't a show-er.
+
+;0xE1E14865=SFX_PAUSE_320
+0xE1E14865=SFX_PAUSE_320
+
+;0xE2644D34=~z~Lesser women would look right now.
+0xE2644D34=~z~Lesser women would look right now.
+
+;0xE2A6F636=~z~On my way.
+0xE2A6F636=~z~On my way.
+
+;0xE2B2B8F4=~z~Yo, L. Looks like you're needed in the hall. There's something going down.
+0xE2B2B8F4=~z~Yo, L. Looks like you're needed in the hall. There's something going down.
+
+;0xE2BBEAA7=~z~I'll be watching.
+0xE2BBEAA7=~z~I'll be watching.
+
+;0xE2F5DE17=100
+0xE2F5DE17=100
+
+;0xE33AD23D=~z~Luis, minor emergency. Please come straight to the office.
+0xE33AD23D=~z~Luis, minor emergency. Please come straight to the office.
+
+;0xE817440F=~z~Things look good here, J.
+0xE817440F=~z~Things look good here, J.
+
+;0xE96EDB7E=~z~This is so serious. We should kick back sometime, baby. Discuss the children we're going to have together.
+0xE96EDB7E=~z~This is so serious. We should kick back sometime, baby. Discuss the children we're going to have together.
+
+;0xEBEDCF8B=~z~Don't talk.
+0xEBEDCF8B=~z~Don't talk.
+
+;0xEC550220=100
+0xEC550220=100
+
+;0xEDA36C46=~z~You really don't need to chip in, L. We can handle it.
+0xEDA36C46=~z~You really don't need to chip in, L. We can handle it.
+
+;0xEDF19A35=E2CLJ_KC
+0xEDF19A35=E2CLJ_KC
+
+;0xF0ECEA45=~z~That is some body, L, shame about the little guy!
+0xF0ECEA45=~z~That is some body, L, shame about the little guy!
+
+;0xF14A9381=~z~Okay.
+0xF14A9381=~z~Okay.
+
+;0xF1C21A35=~z~Don't forget about me.
+0xF1C21A35=~z~Don't forget about me.
+
+;0xF3B19B6A=E2CLJ_JB
+0xF3B19B6A=E2CLJ_JB
+
+;0xF4476F3B=SFX_PAUSE_250
+0xF4476F3B=SFX_PAUSE_250
+
+;0xF56B769E=~z~Fuck, L. Stop whatever you're doing right now and come straight to the office.
+0xF56B769E=~z~Fuck, L. Stop whatever you're doing right now and come straight to the office.
+
+;0xF5B09B87=~z~Hey L. You're needed at the bar.
+0xF5B09B87=~z~Hey L. You're needed at the bar.
+
+;0xF7421750=~z~L, can you head to the dancefloor? I think there's something going on.
+0xF7421750=~z~L, can you head to the dancefloor? I think there's something going on.
+
+;0xF78425B9=~z~Try not to catch any more infections, soldier.
+0xF78425B9=~z~Try not to catch any more infections, soldier.
+
+;0xF8E4D1B8=101
+0xF8E4D1B8=101
+
+;0xF8EB65FD=010
+0xF8EB65FD=010
+
+;0xF9C8174E=010
+0xF9C8174E=010
+
+;0xFA02E8CD=E2CLJ_SA
+0xFA02E8CD=E2CLJ_SA
+
+;0xFB117EC3=~z~We work too hard, baby. We should enjoy some downtime.
+0xFB117EC3=~z~We work too hard, baby. We should enjoy some downtime.
+
+;0xFB1C548E=E2CLJ_KG
+0xFB1C548E=E2CLJ_KG
+
+;0xFB4BB605=E2CLJ_KD
+0xFB4BB605=E2CLJ_KD
+
+;0xFC27B461=E2CLJ_KA
+0xFC27B461=E2CLJ_KA
+
+;0xFC531DD5=~z~I wouldn't want to be them.
+0xFC531DD5=~z~I wouldn't want to be them.
+
+;0xFC6A09D3=~z~Luis. How refreshing. You're working. Makes a change!
+0xFC6A09D3=~z~Luis. How refreshing. You're working. Makes a change!
+
+;0xFCC27DF1=SFX_PAUSE_400
+0xFCC27DF1=SFX_PAUSE_400
+
+;0xFD4DC6AB=010090100090010090100
+0xFD4DC6AB=010090100090010090100
+
+;0xFE9D2269=~z~Deal 'em up, muscles.
+0xFE9D2269=~z~Deal 'em up, muscles.
+

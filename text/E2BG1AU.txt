@@ -1,0 +1,1081 @@
+﻿[E2BG1AU]
+;0x00979068=~z~Why do you stand out in the open. Hide yourself, you idiot.
+0x00979068=~z~Why do you stand out in the open. Hide yourself, you idiot.
+
+;0x00B88E89=~z~Be quiet. They are here.
+0x00B88E89=~z~Be quiet. They are here.
+
+;0x020C238C=SFX_PAUSE_500
+0x020C238C=SFX_PAUSE_500
+
+;0x02361FE0=~z~~c~ I think Mr. Lopez will kick your ass tomorrow.
+0x02361FE0=~z~~c~ I think Mr. Lopez will kick your ass tomorrow.
+
+;0x03F530BC=~z~Don't fuck with the money.
+0x03F530BC=~z~Don't fuck with the money.
+
+;0x043CB683=E2BG1_ZAA
+0x043CB683=E2BG1_ZAA
+
+;0x045B1AAE=E2BG1_BEA
+0x045B1AAE=E2BG1_BEA
+
+;0x07C5760D=SFX_PAUSE_490
+0x07C5760D=SFX_PAUSE_490
+
+;0x07D183CB=~z~Target sighted. Let's finish this and get payment from Ashvilli.
+0x07D183CB=~z~Target sighted. Let's finish this and get payment from Ashvilli.
+
+;0x07E2BAAE=~z~I always wanted to kill me a Russian.
+0x07E2BAAE=~z~I always wanted to kill me a Russian.
+
+;0x0CE0FC05=~z~Get behind these cars. We must be hidden when they get here.
+0x0CE0FC05=~z~Get behind these cars. We must be hidden when they get here.
+
+;0x0D64EB21=SFX_PAUSE_210
+0x0D64EB21=SFX_PAUSE_210
+
+;0x0D797187=020090200
+0x0D797187=020090200
+
+;0x0E6DB0B0=~z~You left Timur, you idiot.
+0x0E6DB0B0=~z~You left Timur, you idiot.
+
+;0x0F39FEC7=E2BG1_VA
+0x0F39FEC7=E2BG1_VA
+
+;0x0F5BFE32=~z~Think about what I said to you. The offer will not be there forever.
+0x0F5BFE32=~z~Think about what I said to you. The offer will not be there forever.
+
+;0x0FAA9E03=100
+0x0FAA9E03=100
+
+;0x0FFE2D14=~z~Shut up! They are coming.
+0x0FFE2D14=~z~Shut up! They are coming.
+
+;0x10969919=~z~I'd start running before we start shooting.
+0x10969919=~z~I'd start running before we start shooting.
+
+;0x119E9FF3=~z~Lose this heat. Come on.
+0x119E9FF3=~z~Lose this heat. Come on.
+
+;0x13326ADF=~z~Make these scumbags pay!
+0x13326ADF=~z~Make these scumbags pay!
+
+;0x14507D3E=112
+0x14507D3E=112
+
+;0x14A802CC=~z~Go! Go! Go! Go!
+0x14A802CC=~z~Go! Go! Go! Go!
+
+;0x15B3F250=~z~Get out my face, you piece of shit.
+0x15B3F250=~z~Get out my face, you piece of shit.
+
+;0x1734BB42=SFX_PAUSE_500
+0x1734BB42=SFX_PAUSE_500
+
+;0x17568882=392
+0x17568882=392
+
+;0x18B75682=~z~You like?
+0x18B75682=~z~You like?
+
+;0x19D8B5E6=~z~Is this so difficult?
+0x19D8B5E6=~z~Is this so difficult?
+
+;0x1A274A66=~z~And now we attack!
+0x1A274A66=~z~And now we attack!
+
+;0x1AA94231=E2BG1_HA
+0x1AA94231=E2BG1_HA
+
+;0x1B06B2C3=~z~Lose these fucks. Come on.
+0x1B06B2C3=~z~Lose these fucks. Come on.
+
+;0x1B8CEAE5=E2BG1_BA
+0x1B8CEAE5=E2BG1_BA
+
+;0x1BC7F2DA=~z~Timur? He is replaceable, but his death is part of the large failure.
+0x1BC7F2DA=~z~Timur? He is replaceable, but his death is part of the large failure.
+
+;0x1BD6023F=102
+0x1BD6023F=102
+
+;0x1CF8C40C=E2BG1_UA
+0x1CF8C40C=E2BG1_UA
+
+;0x1D01C500=~z~Park the car over there.
+0x1D01C500=~z~Park the car over there.
+
+;0x1DB0FC24=E2BG1_ALA
+0x1DB0FC24=E2BG1_ALA
+
+;0x1DF9AF2A=E2BG1_ACB
+0x1DF9AF2A=E2BG1_ACB
+
+;0x1FC68D40=102
+0x1FC68D40=102
+
+;0x20260A26=E2BG1_BCA
+0x20260A26=E2BG1_BCA
+
+;0x20CDFBDD=SFX_PAUSE_340
+0x20CDFBDD=SFX_PAUSE_340
+
+;0x21A73B3A=~z~You'd get the fuck out of here if you knew what was good for you.
+0x21A73B3A=~z~You'd get the fuck out of here if you knew what was good for you.
+
+;0x228421C1=E2BG1_APB
+0x228421C1=E2BG1_APB
+
+;0x241683D7=~z~ Fuck this amateur shit.
+0x241683D7=~z~ Fuck this amateur shit.
+
+;0x27283151=~z~We will conceal ourselves. Place a bomb where they will not see it.
+0x27283151=~z~We will conceal ourselves. Place a bomb where they will not see it.
+
+;0x272923E5=E2BG1_ASA
+0x272923E5=E2BG1_ASA
+
+;0x280C7253=~z~I'm glad I cheat my tax returns!
+0x280C7253=~z~I'm glad I cheat my tax returns!
+
+;0x294A5326=100
+0x294A5326=100
+
+;0x2B157B3E=~z~Eat mine.
+0x2B157B3E=~z~Eat mine.
+
+;0x2B6648C1=122090212
+0x2B6648C1=122090212
+
+;0x2BFFB779=~z~Okay, I will.
+0x2BFFB779=~z~Okay, I will.
+
+;0x2CEBB955=~z~We can't leave car like this. Straighten her.
+0x2CEBB955=~z~We can't leave car like this. Straighten her.
+
+;0x2E512692=E2BG1_AQB
+0x2E512692=E2BG1_AQB
+
+;0x2E5A8400=~z~Take down the hostiles!
+0x2E5A8400=~z~Take down the hostiles!
+
+;0x2EB8F44F=~z~Let us leave. Come on.
+0x2EB8F44F=~z~Let us leave. Come on.
+
+;0x2FEFD534=SFX_PAUSE_360
+0x2FEFD534=SFX_PAUSE_360
+
+;0x31516C2F=E2BG1_BFB
+0x31516C2F=E2BG1_BFB
+
+;0x35477CA9=010
+0x35477CA9=010
+
+;0x388A5D43=292
+0x388A5D43=292
+
+;0x390FC4E7=~z~Maybe not.
+0x390FC4E7=~z~Maybe not.
+
+;0x3CAD5C5B=~z~Make sure a bomb is well hidden. We shall be concealed here.
+0x3CAD5C5B=~z~Make sure a bomb is well hidden. We shall be concealed here.
+
+;0x3E5FBB49=E2BG1_ZBA
+0x3E5FBB49=E2BG1_ZBA
+
+;0x3F33F92C=E2BG1_BDC
+0x3F33F92C=E2BG1_BDC
+
+;0x3F3537FE=SFX_PAUSE_310
+0x3F3537FE=SFX_PAUSE_310
+
+;0x3F917BD8=~z~We've got to get rid of this attention.
+0x3F917BD8=~z~We've got to get rid of this attention.
+
+;0x3FCBCEA6=~z~I'd prefer we weren't taking on the National Office of Security Enforcement, but that's a different matter.
+0x3FCBCEA6=~z~I'd prefer we weren't taking on the National Office of Security Enforcement, but that's a different matter.
+
+;0x405CAE11=E2BG1_FA
+0x405CAE11=E2BG1_FA
+
+;0x414CA181=020090200090020
+0x414CA181=020090200090020
+
+;0x425F0E9F=492
+0x425F0E9F=492
+
+;0x42CCB8CC=~z~ I expect more from a man of your reputation, Mr. Lopez. Goodbye.
+0x42CCB8CC=~z~ I expect more from a man of your reputation, Mr. Lopez. Goodbye.
+
+;0x439968ED=E2BG1_WA
+0x439968ED=E2BG1_WA
+
+;0x440E8B22=010090100090100090100
+0x440E8B22=010090100090100090100
+
+;0x454C202C=300
+0x454C202C=300
+
+;0x4566D24A=~z~This NOOSE team is in charge of half the drugs running in the city.
+0x4566D24A=~z~This NOOSE team is in charge of half the drugs running in the city.
+
+;0x461B4D1A=E2BG1_YA
+0x461B4D1A=E2BG1_YA
+
+;0x472F656C=SFX_PAUSE_220
+0x472F656C=SFX_PAUSE_220
+
+;0x478274AE=E2BG1_ADC
+0x478274AE=E2BG1_ADC
+
+;0x4A24BB94=~z~You're fucking with the wrong people, Russians.
+0x4A24BB94=~z~You're fucking with the wrong people, Russians.
+
+;0x4AE2F8C6=~z~Place a bomb out of sight. We will hide here.
+0x4AE2F8C6=~z~Place a bomb out of sight. We will hide here.
+
+;0x4B8841FC=~z~Neutralise the hostiles!
+0x4B8841FC=~z~Neutralise the hostiles!
+
+;0x4BF02807=~z~Take these sticky bombs, Luis. We will need them for our NOOSE friends.
+0x4BF02807=~z~Take these sticky bombs, Luis. We will need them for our NOOSE friends.
+
+;0x4C9C98C5=E2BG1_BDA
+0x4C9C98C5=E2BG1_BDA
+
+;0x4D69B8C2=E2BG1_ATB
+0x4D69B8C2=E2BG1_ATB
+
+;0x4DE26E17=SFX_PAUSE_330
+0x4DE26E17=SFX_PAUSE_330
+
+;0x4F94C43C=~z~Urghhhh.
+0x4F94C43C=~z~Urghhhh.
+
+;0x4FD3B614=~z~You like getting your hands dirty, Mr. B?
+0x4FD3B614=~z~You like getting your hands dirty, Mr. B?
+
+;0x5235397B=100
+0x5235397B=100
+
+;0x529AB005=492
+0x529AB005=492
+
+;0x533A9506=E2BG1_CA
+0x533A9506=E2BG1_CA
+
+;0x53B22E80=~z~What's so fucking funny, man? I don't get you.
+0x53B22E80=~z~What's so fucking funny, man? I don't get you.
+
+;0x53D36AE2=E2BG1_AIA
+0x53D36AE2=E2BG1_AIA
+
+;0x558DC7E2=~z~Fuck! We need this car!
+0x558DC7E2=~z~Fuck! We need this car!
+
+;0x561B8BB0=~z~Send my regards to big Tony.
+0x561B8BB0=~z~Send my regards to big Tony.
+
+;0x57BF653C=012090102
+0x57BF653C=012090102
+
+;0x57F9006A=102090012
+0x57F9006A=102090012
+
+;0x58116355=~z~Man, I guess shit just don't go to plan every time.
+0x58116355=~z~Man, I guess shit just don't go to plan every time.
+
+;0x5AC41247=~z~Good. Good. They should not see that until it's too late.
+0x5AC41247=~z~Good. Good. They should not see that until it's too late.
+
+;0x5B15852D=~z~Don't worry about me.
+0x5B15852D=~z~Don't worry about me.
+
+;0x5B73D925=~z~Fuck off.
+0x5B73D925=~z~Fuck off.
+
+;0x5C90037A=~z~Sure.
+0x5C90037A=~z~Sure.
+
+;0x5C9E838F=~z~We need to go down into the lot.
+0x5C9E838F=~z~We need to go down into the lot.
+
+;0x5D3DE567=~z~Stay calm.
+0x5D3DE567=~z~Stay calm.
+
+;0x5D4F1751=~z~Well done. It will be a fun treat for them.
+0x5D4F1751=~z~Well done. It will be a fun treat for them.
+
+;0x5DBC56EB=~z~I don't think so. Maybe I hurt my hands hitting his head.
+0x5DBC56EB=~z~I don't think so. Maybe I hurt my hands hitting his head.
+
+;0x5E3CCCA0=~z~Here are some makeshift bombs. They will be useful.
+0x5E3CCCA0=~z~Here are some makeshift bombs. They will be useful.
+
+;0x5F6DB625=E2BG1_BGB
+0x5F6DB625=E2BG1_BGB
+
+;0x61A6B774=~z~I see the target car. Let's set up this Russian and get out of here.
+0x61A6B774=~z~I see the target car. Let's set up this Russian and get out of here.
+
+;0x63620364=SFX_PAUSE_310
+0x63620364=SFX_PAUSE_310
+
+;0x65939DEE=~z~~c~ Our Hispanic friend is really very useful.
+0x65939DEE=~z~~c~ Our Hispanic friend is really very useful.
+
+;0x65A0728B=~z~The President said we can do whatever the fuck we want, assholes.
+0x65A0728B=~z~The President said we can do whatever the fuck we want, assholes.
+
+;0x65B0529C=102
+0x65B0529C=102
+
+;0x661B1A53=E2BG1_AAA
+0x661B1A53=E2BG1_AAA
+
+;0x67FA38E2=E2BG1_BJA
+0x67FA38E2=E2BG1_BJA
+
+;0x686C230E=100090010090010
+0x686C230E=100090010090010
+
+;0x687FC937=100
+0x687FC937=100
+
+;0x69519B2C=192
+0x69519B2C=192
+
+;0x69AA8C00=~z~Place a sticky bomb on the car.
+0x69AA8C00=~z~Place a sticky bomb on the car.
+
+;0x6B6F3A95=SFX_PAUSE_500
+0x6B6F3A95=SFX_PAUSE_500
+
+;0x6C2CA978=100
+0x6C2CA978=100
+
+;0x6C35B52A=~z~Well placed. The bomb should prove quite a surprise for our friends.
+0x6C35B52A=~z~Well placed. The bomb should prove quite a surprise for our friends.
+
+;0x6CCEC500=300
+0x6CCEC500=300
+
+;0x6D296AE9=E2BG1_KA
+0x6D296AE9=E2BG1_KA
+
+;0x6D70EB36=~z~Let's drop this fucker and say he was an insurgent!
+0x6D70EB36=~z~Let's drop this fucker and say he was an insurgent!
+
+;0x6D8B1391=E2BG1_AEA
+0x6D8B1391=E2BG1_AEA
+
+;0x6E592704=~z~Go down into the garage.
+0x6E592704=~z~Go down into the garage.
+
+;0x6E7FA759=~z~You're the boss.
+0x6E7FA759=~z~You're the boss.
+
+;0x6F9BA807=~z~We can't have this police attention. Lose it.
+0x6F9BA807=~z~We can't have this police attention. Lose it.
+
+;0x6FF0A6CC=~z~You gonna be okay?
+0x6FF0A6CC=~z~You gonna be okay?
+
+;0x7030E513=E2BG1_TA
+0x7030E513=E2BG1_TA
+
+;0x705FE7DB=~z~~x~
+0x705FE7DB=~z~~x~
+
+;0x70AADF92=~z~Stay down now. We shall wait for them.
+0x70AADF92=~z~Stay down now. We shall wait for them.
+
+;0x71529D48=E2BG1_AEB
+0x71529D48=E2BG1_AEB
+
+;0x71C2BD00=~z~Close in, people!
+0x71C2BD00=~z~Close in, people!
+
+;0x7256E9AC=122090212
+0x7256E9AC=122090212
+
+;0x7291C49C=~z~This is your excuse for parking? Straighten her up.
+0x7291C49C=~z~This is your excuse for parking? Straighten her up.
+
+;0x74C3769D=~z~This is them. Wait for it.
+0x74C3769D=~z~This is them. Wait for it.
+
+;0x75027A81=~z~Take us to the basement parking lot, in the Middle Park East.
+0x75027A81=~z~Take us to the basement parking lot, in the Middle Park East.
+
+;0x7598A821=E2BG1_AMB
+0x7598A821=E2BG1_AMB
+
+;0x75C5056F=~z~We will die here if we do not fight. Come on. Let's go.
+0x75C5056F=~z~We will die here if we do not fight. Come on. Let's go.
+
+;0x7681DF36=~z~Go back to my sister's house.
+0x7681DF36=~z~Go back to my sister's house.
+
+;0x77A79827=~z~Die! Die! Die!
+0x77A79827=~z~Die! Die! Die!
+
+;0x7A2CC5A3=E2BG1_BHB
+0x7A2CC5A3=E2BG1_BHB
+
+;0x7B1882DC=392
+0x7B1882DC=392
+
+;0x7B418F92=~z~Now is the time. Blow it.
+0x7B418F92=~z~Now is the time. Blow it.
+
+;0x7B52107A=100
+0x7B52107A=100
+
+;0x7D181FD5=492
+0x7D181FD5=492
+
+;0x7D437D79=E2BG1_IA
+0x7D437D79=E2BG1_IA
+
+;0x7E071E4B=~z~Eat it.
+0x7E071E4B=~z~Eat it.
+
+;0x7E70445C=~z~These guys are all crooked, huh?
+0x7E70445C=~z~These guys are all crooked, huh?
+
+;0x7ECC5FA9=SFX_PAUSE_320
+0x7ECC5FA9=SFX_PAUSE_320
+
+;0x7F09C14E=E2BG1_AQA
+0x7F09C14E=E2BG1_AQA
+
+;0x7F1E5BC6=010090100090100
+0x7F1E5BC6=010090100090100
+
+;0x7FF55E89=~z~We're being set up! Incoming! Incoming!
+0x7FF55E89=~z~We're being set up! Incoming! Incoming!
+
+;0x801559A5=~z~Stay in formation!
+0x801559A5=~z~Stay in formation!
+
+;0x80B711C6=~z~I hope you ain't deaf, 'cause I'm about to shoot you!
+0x80B711C6=~z~I hope you ain't deaf, 'cause I'm about to shoot you!
+
+;0x80B94A42=~z~We are looking for specific peace officers. Lose that heat.
+0x80B94A42=~z~We are looking for specific peace officers. Lose that heat.
+
+;0x80BEDC32=100090010090100
+0x80BEDC32=100090010090100
+
+;0x811C2982=~z~We need to drop these suckers!
+0x811C2982=~z~We need to drop these suckers!
+
+;0x8159CD0D=~z~Whatever, bro.
+0x8159CD0D=~z~Whatever, bro.
+
+;0x81EF386A=E2BG1_AZA
+0x81EF386A=E2BG1_AZA
+
+;0x82FB8D1A=E2BG1_BFA
+0x82FB8D1A=E2BG1_BFA
+
+;0x835615E3=~z~Get into cover and ready yourself.
+0x835615E3=~z~Get into cover and ready yourself.
+
+;0x83A26C46=E2BG1_XA
+0x83A26C46=E2BG1_XA
+
+;0x83B39789=~z~Here. You will need these sticky bombs for the party.
+0x83B39789=~z~Here. You will need these sticky bombs for the party.
+
+;0x84AAD24A=SFX_PAUSE_470
+0x84AAD24A=SFX_PAUSE_470
+
+;0x86F75CF0=~z~Now, Luis, we see if you can handle yourself.
+0x86F75CF0=~z~Now, Luis, we see if you can handle yourself.
+
+;0x87415F03=~z~I guess we got to move to plan B.
+0x87415F03=~z~I guess we got to move to plan B.
+
+;0x8829BEFF=~z~They called reinforcements!
+0x8829BEFF=~z~They called reinforcements!
+
+;0x89499FFF=E2BG1_AXA
+0x89499FFF=E2BG1_AXA
+
+;0x894B094A=~z~Do you want them to see the explosive?
+0x894B094A=~z~Do you want them to see the explosive?
+
+;0x8A1D3D0E=~z~Fuck you!
+0x8A1D3D0E=~z~Fuck you!
+
+;0x8A4CE7E6=100
+0x8A4CE7E6=100
+
+;0x8A4D9001=E2BG1_AGA
+0x8A4D9001=E2BG1_AGA
+
+;0x8B29EEA4=E2BG1_ADB1
+0x8B29EEA4=E2BG1_ADB1
+
+;0x8B907514=SFX_PAUSE_390
+0x8B907514=SFX_PAUSE_390
+
+;0x8BFE9639=~z~We must remain hidden until they get here.
+0x8BFE9639=~z~We must remain hidden until they get here.
+
+;0x8C34BAA6=~z~There you go.
+0x8C34BAA6=~z~There you go.
+
+;0x8C5CF832=~z~Park the car straight. That will be suspicious.
+0x8C5CF832=~z~Park the car straight. That will be suspicious.
+
+;0x8C9661FC=~z~Get rid of these cops, Luis. We do not need extra eyes on us.
+0x8C9661FC=~z~Get rid of these cops, Luis. We do not need extra eyes on us.
+
+;0x8E43FB26=~z~This is ain't right! Attack positions!
+0x8E43FB26=~z~This is ain't right! Attack positions!
+
+;0x8E5C3D16=E2BG1_ARA
+0x8E5C3D16=E2BG1_ARA
+
+;0x8FF066E6=192
+0x8FF066E6=192
+
+;0x90BF43BB=~z~Shit.
+0x90BF43BB=~z~Shit.
+
+;0x916AFDBC=100
+0x916AFDBC=100
+
+;0x925B99C8=E2BG1_BGA
+0x925B99C8=E2BG1_BGA
+
+;0x92B02151=SFX_PAUSE_460
+0x92B02151=SFX_PAUSE_460
+
+;0x92E10460=~z~Ambush! Ambush! Get in positions!
+0x92E10460=~z~Ambush! Ambush! Get in positions!
+
+;0x92F6CD37=~z~N - OO - S - E, motherfuckers.
+0x92F6CD37=~z~N - OO - S - E, motherfuckers.
+
+;0x93B9C11D=E2BG1_ARB
+0x93B9C11D=E2BG1_ARB
+
+;0x940AC793=102090012
+0x940AC793=102090012
+
+;0x94170983=E2BG1_AA
+0x94170983=E2BG1_AA
+
+;0x95D75A5A=~z~They called it in. More are coming!
+0x95D75A5A=~z~They called it in. More are coming!
+
+;0x962F96D8=~z~You're coming with me! Get out!
+0x962F96D8=~z~You're coming with me! Get out!
+
+;0x963BEC2B=~z~You got to leave now, civilian.
+0x963BEC2B=~z~You got to leave now, civilian.
+
+;0x97E6DD2F=E2BG1_AJA
+0x97E6DD2F=E2BG1_AJA
+
+;0x985BD98B=~z~Assholes.
+0x985BD98B=~z~Assholes.
+
+;0x9880A772=SFX_PAUSE_460
+0x9880A772=SFX_PAUSE_460
+
+;0x995EB92B=E2BG1_BAA
+0x995EB92B=E2BG1_BAA
+
+;0x99DDD961=102090012
+0x99DDD961=102090012
+
+;0x9A7B92D6=~z~Target acquired!
+0x9A7B92D6=~z~Target acquired!
+
+;0x9BBC35B4=~z~Keep your heads down until the party kicks off.
+0x9BBC35B4=~z~Keep your heads down until the party kicks off.
+
+;0x9D8F7AE2=E2BG1_AFA
+0x9D8F7AE2=E2BG1_AFA
+
+;0x9DA9D462=~z~They in place. Detonate.
+0x9DA9D462=~z~They in place. Detonate.
+
+;0x9F73A960=~z~Get the fuck out of there!
+0x9F73A960=~z~Get the fuck out of there!
+
+;0xA0335392=E2BG1_ADA
+0xA0335392=E2BG1_ADA
+
+;0xA1191254=E2BG1_AKA
+0xA1191254=E2BG1_AKA
+
+;0xA4F4899C=~z~We will use force if you don't vacate immediately.
+0xA4F4899C=~z~We will use force if you don't vacate immediately.
+
+;0xA4FEBC33=~z~Take us back to my sister's.
+0xA4FEBC33=~z~Take us back to my sister's.
+
+;0xA544AA3B=E2BG1_BIA
+0xA544AA3B=E2BG1_BIA
+
+;0xA5C389ED=~z~Get out of here, civilian. We don't want to start reading you the Jingoism Act.
+0xA5C389ED=~z~Get out of here, civilian. We don't want to start reading you the Jingoism Act.
+
+;0xA63589EE=E2BG1_AFB
+0xA63589EE=E2BG1_AFB
+
+;0xA7678ACE=SFX_PAUSE_310
+0xA7678ACE=SFX_PAUSE_310
+
+;0xA7B18D28=~z~Speak English, bro. I ain't feeling comfortable.
+0xA7B18D28=~z~Speak English, bro. I ain't feeling comfortable.
+
+;0xA7B1AA13=E2BG1_ADB2
+0xA7B1AA13=E2BG1_ADB2
+
+;0xA7BDEEA4=E2BG1_ABA
+0xA7BDEEA4=E2BG1_ABA
+
+;0xA7F3ADC6=~z~Let's shoot this fuck and ask questions later. Just like the handbook says.
+0xA7F3ADC6=~z~Let's shoot this fuck and ask questions later. Just like the handbook says.
+
+;0xA8DC13A8=~z~The incompetent fool!
+0xA8DC13A8=~z~The incompetent fool!
+
+;0xA9339CC0=~z~Okay, man.
+0xA9339CC0=~z~Okay, man.
+
+;0xA94A1CE5=~z~Let's go in.
+0xA94A1CE5=~z~Let's go in.
+
+;0xA9640173=~z~They've called more!
+0xA9640173=~z~They've called more!
+
+;0xAA88128D=~z~I hope not!
+0xAA88128D=~z~I hope not!
+
+;0xAA9D104D=E2BG1_NA
+0xAA9D104D=E2BG1_NA
+
+;0xABDDCFDF=100
+0xABDDCFDF=100
+
+;0xAC110BAE=192
+0xAC110BAE=192
+
+;0xAD15AAAF=~z~There is no plan B, you simpleton. Ray Bulgarin should not need to provide for failure.
+0xAD15AAAF=~z~There is no plan B, you simpleton. Ray Bulgarin should not need to provide for failure.
+
+;0xAE86D31E=E2BG1_EA
+0xAE86D31E=E2BG1_EA
+
+;0xAED32FA7=E2BG1_ZA
+0xAED32FA7=E2BG1_ZA
+
+;0xAEDD6E3A=~z~Go to the garage off Topaz Street.
+0xAEDD6E3A=~z~Go to the garage off Topaz Street.
+
+;0xAF52136C=E2BG1_AWA
+0xAF52136C=E2BG1_AWA
+
+;0xAFA175E6=~z~Let's get out of here. Go. Go.
+0xAFA175E6=~z~Let's get out of here. Go. Go.
+
+;0xB25B65C5=E2BG1_MA
+0xB25B65C5=E2BG1_MA
+
+;0xB2773DFF=300
+0xB2773DFF=300
+
+;0xB33A6139=SFX_PAUSE_400
+0xB33A6139=SFX_PAUSE_400
+
+;0xB3645AF2=~z~That's the car. Get in and plant the evidence.
+0xB3645AF2=~z~That's the car. Get in and plant the evidence.
+
+;0xB491CCE0=E2BG1_RA
+0xB491CCE0=E2BG1_RA
+
+;0xB4979A5A=200
+0xB4979A5A=200
+
+;0xB4A263F9=E2BG1_BBB1
+0xB4A263F9=E2BG1_BBB1
+
+;0xB510D81B=~z~Fuck you.
+0xB510D81B=~z~Fuck you.
+
+;0xB52AB1D4=~z~Do not let your conscience worry you.
+0xB52AB1D4=~z~Do not let your conscience worry you.
+
+;0xB543E88A=~z~Someone's fitted the vehicle with an IED. Search the area.
+0xB543E88A=~z~Someone's fitted the vehicle with an IED. Search the area.
+
+;0xB5DEE764=102
+0xB5DEE764=102
+
+;0xB6E2D049=E2BG1_ANB
+0xB6E2D049=E2BG1_ANB
+
+;0xB76A280B=392
+0xB76A280B=392
+
+;0xBA085E34=E2BG1_AOA
+0xBA085E34=E2BG1_AOA
+
+;0xBA38BB5B=~z~Okay then. Enjoy yourself.
+0xBA38BB5B=~z~Okay then. Enjoy yourself.
+
+;0xBA555F23=~z~Stop, motherfuckers!
+0xBA555F23=~z~Stop, motherfuckers!
+
+;0xBA7288DB=490
+0xBA7288DB=490
+
+;0xBAF18B07=010090100
+0xBAF18B07=010090100
+
+;0xBC3852DB=E2BG1_APA
+0xBC3852DB=E2BG1_APA
+
+;0xBD1D90AE=~z~Does not everybody?
+0xBD1D90AE=~z~Does not everybody?
+
+;0xBD315841=~z~Possible target sighted. Take him down!
+0xBD315841=~z~Possible target sighted. Take him down!
+
+;0xBD9DA8D8=100
+0xBD9DA8D8=100
+
+;0xBE1B93D3=E2BG1_BBB2
+0xBE1B93D3=E2BG1_BBB2
+
+;0xBE5BB561=~z~Put one of the bombs on the car and we shall wait for them.
+0xBE5BB561=~z~Put one of the bombs on the car and we shall wait for them.
+
+;0xBE64B815=~z~Look, man, I'm sorry about your friend, okay?
+0xBE64B815=~z~Look, man, I'm sorry about your friend, okay?
+
+;0xBE78B80C=292
+0xBE78B80C=292
+
+;0xBECA266B=~z~Your successors will take my bribes.
+0xBECA266B=~z~Your successors will take my bribes.
+
+;0xBEF8FE80=E2BG1_QA
+0xBEF8FE80=E2BG1_QA
+
+;0xBF99CD2F=~z~What do you wait for? Come on, Luis.
+0xBF99CD2F=~z~What do you wait for? Come on, Luis.
+
+;0xC1164092=~z~Sir. You are going to have to leave the premises. We are on official N. O. O. S. E. business.
+0xC1164092=~z~Sir. You are going to have to leave the premises. We are on official N. O. O. S. E. business.
+
+;0xC4190A68=~z~What's wrong with you?
+0xC4190A68=~z~What's wrong with you?
+
+;0xC4451F2D=~z~Come on. We go now.
+0xC4451F2D=~z~Come on. We go now.
+
+;0xC49D073C=~z~The car's been rigged to blow. Scout the area for hostiles.
+0xC49D073C=~z~The car's been rigged to blow. Scout the area for hostiles.
+
+;0xC4A273BD=~z~This is the end of the line!
+0xC4A273BD=~z~This is the end of the line!
+
+;0xC4C14109=E2BG1_DA
+0xC4C14109=E2BG1_DA
+
+;0xC6DA32D1=~z~Okay!
+0xC6DA32D1=~z~Okay!
+
+;0xC8C5DE27=100
+0xC8C5DE27=100
+
+;0xC8F1EA04=E2BG1_BHC
+0xC8F1EA04=E2BG1_BHC
+
+;0xC9639DC5=~z~Park up this spot by the pillar.
+0xC9639DC5=~z~Park up this spot by the pillar.
+
+;0xCAC16B41=~z~Kill them, Luis.
+0xCAC16B41=~z~Kill them, Luis.
+
+;0xCAE26D49=E2BG1_ASB
+0xCAE26D49=E2BG1_ASB
+
+;0xCB365431=~z~~c~ Now you know what happens to the people who go against us.
+0xCB365431=~z~~c~ Now you know what happens to the people who go against us.
+
+;0xCC07558B=~z~Come on Luis, this is what we are born to do!
+0xCC07558B=~z~Come on Luis, this is what we are born to do!
+
+;0xCC61FD8B=E2BG1_ANA
+0xCC61FD8B=E2BG1_ANA
+
+;0xCCA85493=E2BG1_AFC
+0xCCA85493=E2BG1_AFC
+
+;0xCCD3965E=~z~No money will buy us out of this, we have to lose them.
+0xCCD3965E=~z~No money will buy us out of this, we have to lose them.
+
+;0xCD0BC2EE=~z~You should not leave this tomb!
+0xCD0BC2EE=~z~You should not leave this tomb!
+
+;0xCDAD4638=~z~Head shots only, boys.
+0xCDAD4638=~z~Head shots only, boys.
+
+;0xCFB94D7D=100
+0xCFB94D7D=100
+
+;0xCFC1B88D=~z~Perfect. Blow them up!
+0xCFC1B88D=~z~Perfect. Blow them up!
+
+;0xD06845ED=~z~Grrrrrrrrr!
+0xD06845ED=~z~Grrrrrrrrr!
+
+;0xD1AAF982=010090100
+0xD1AAF982=010090100
+
+;0xD224D34F=~z~Detonate when they are near the car.
+0xD224D34F=~z~Detonate when they are near the car.
+
+;0xD27721D6=E2BG1_BBA
+0xD27721D6=E2BG1_BBA
+
+;0xD2CA9965=~z~Things are about to get hot in here.
+0xD2CA9965=~z~Things are about to get hot in here.
+
+;0xD2CFA3A1=~z~There's a bomb on the car. Let's find the hostile that put it there. Move out.
+0xD2CFA3A1=~z~There's a bomb on the car. Let's find the hostile that put it there. Move out.
+
+;0xD2D4E40F=~z~Hey, civilian, you don't want to be around here. Move on out before we redact your ass.
+0xD2D4E40F=~z~Hey, civilian, you don't want to be around here. Move on out before we redact your ass.
+
+;0xD32F29F8=100
+0xD32F29F8=100
+
+;0xD361A282=E2BG1_GA
+0xD361A282=E2BG1_GA
+
+;0xD49B7E72=SFX_PAUSE_420
+0xD49B7E72=SFX_PAUSE_420
+
+;0xD4EA91B8=E2BG1_AOB
+0xD4EA91B8=E2BG1_AOB
+
+;0xD5534F0F=E2BG1_ATA
+0xD5534F0F=E2BG1_ATA
+
+;0xD5C9FEE0=102090012
+0xD5C9FEE0=102090012
+
+;0xD6B21D58=E2BG1_JA
+0xD6B21D58=E2BG1_JA
+
+;0xD70F7877=~z~Alright.
+0xD70F7877=~z~Alright.
+
+;0xD824E8F3=~z~This will be nasty surprise for them, hide one of those sticky bombs on the car.
+0xD824E8F3=~z~This will be nasty surprise for them, hide one of those sticky bombs on the car.
+
+;0xD88300DD=~z~Mr. Ray is no here. Get him.
+0xD88300DD=~z~Mr. Ray is no here. Get him.
+
+;0xD88C1F11=~z~Timur, bro. You ain't talking much. Nervous?
+0xD88C1F11=~z~Timur, bro. You ain't talking much. Nervous?
+
+;0xD8A856EE=E2BG1_PA
+0xD8A856EE=E2BG1_PA
+
+;0xD8B3AB63=E2BG1_ACA
+0xD8B3AB63=E2BG1_ACA
+
+;0xD99CD56D=~z~Nothing worse than a bad guy with a badge.
+0xD99CD56D=~z~Nothing worse than a bad guy with a badge.
+
+;0xDABA2C27=~z~They will still see that bomb!
+0xDABA2C27=~z~They will still see that bomb!
+
+;0xDABC4F64=~z~We have to fight our way out.
+0xDABC4F64=~z~We have to fight our way out.
+
+;0xDBCB1E11=100
+0xDBCB1E11=100
+
+;0xDCBECA12=~z~Ray! The motherfuckers!
+0xDCBECA12=~z~Ray! The motherfuckers!
+
+;0xDDF510AA=SFX_PAUSE_290
+0xDDF510AA=SFX_PAUSE_290
+
+;0xDE642672=202090022
+0xDE642672=202090022
+
+;0xDE95D33C=~z~Now we slaughter them!
+0xDE95D33C=~z~Now we slaughter them!
+
+;0xDFB11520=~z~Don't use my name, man. Shit!
+0xDFB11520=~z~Don't use my name, man. Shit!
+
+;0xE05E6B9A=~z~Shoot first, plant evidence later.
+0xE05E6B9A=~z~Shoot first, plant evidence later.
+
+;0xE1B36883=~z~Arghhhhh!
+0xE1B36883=~z~Arghhhhh!
+
+;0xE2D215C8=E2BG1_LA
+0xE2D215C8=E2BG1_LA
+
+;0xE2D36C64=E2BG1_OA
+0xE2D36C64=E2BG1_OA
+
+;0xE3FB3B50=390
+0xE3FB3B50=390
+
+;0xE44A3FD6=SFX_PAUSE_400
+0xE44A3FD6=SFX_PAUSE_400
+
+;0xE45416A3=~z~Come on, Luis.
+0xE45416A3=~z~Come on, Luis.
+
+;0xE6AFF051=E2BG1_SA
+0xE6AFF051=E2BG1_SA
+
+;0xE74F70D2=~z~Dirty fucking cops.
+0xE74F70D2=~z~Dirty fucking cops.
+
+;0xE775803A=E2BG1_AHA
+0xE775803A=E2BG1_AHA
+
+;0xE79FD175=~z~I told you to do something.
+0xE79FD175=~z~I told you to do something.
+
+;0xE86D331E=~z~Now we must hide and wait for our friends. Get behind a car.
+0xE86D331E=~z~Now we must hide and wait for our friends. Get behind a car.
+
+;0xE8BA7DEA=100
+0xE8BA7DEA=100
+
+;0xE8F7EBDB=~z~Forward! We must fight out of here.
+0xE8F7EBDB=~z~Forward! We must fight out of here.
+
+;0xE946C940=~z~They will see that there, you imbecile.
+0xE946C940=~z~They will see that there, you imbecile.
+
+;0xEA34A440=~z~You leave Mr. Ray, shithead.
+0xEA34A440=~z~You leave Mr. Ray, shithead.
+
+;0xEA6DFDB2=~z~Where is Marki Ashvilli now?
+0xEA6DFDB2=~z~Where is Marki Ashvilli now?
+
+;0xEB14CF53=100
+0xEB14CF53=100
+
+;0xEC7DF7CC=100
+0xEC7DF7CC=100
+
+;0xECB7EF80=~z~This is the time! Attack!
+0xECB7EF80=~z~This is the time! Attack!
+
+;0xECC6D644=~z~Get us out of here.
+0xECC6D644=~z~Get us out of here.
+
+;0xEE40D5D1=SFX_PAUSE_350
+0xEE40D5D1=SFX_PAUSE_350
+
+;0xEE60E569=100
+0xEE60E569=100
+
+;0xEE9EA1A2=SFX_OVERLAP_1150
+0xEE9EA1A2=SFX_OVERLAP_1150
+
+;0xEFC5B333=E2BG1_BHA
+0xEFC5B333=E2BG1_BHA
+
+;0xEFDF9AA7=392
+0xEFDF9AA7=392
+
+;0xF0515472=~z~No doubt.
+0xF0515472=~z~No doubt.
+
+;0xF0640FCD=~z~When they gather round the car, blow it.
+0xF0640FCD=~z~When they gather round the car, blow it.
+
+;0xF118DAE7=E2BG1_BDB
+0xF118DAE7=E2BG1_BDB
+
+;0xF1273049=~z~Luis! Hurry!
+0xF1273049=~z~Luis! Hurry!
+
+;0xF1543F9A=E2BG1_AYA
+0xF1543F9A=E2BG1_AYA
+
+;0xF19CCDB5=~z~Pull over! Now!
+0xF19CCDB5=~z~Pull over! Now!
+
+;0xF1E2AB43=~z~Marki has this in his pockets.
+0xF1E2AB43=~z~Marki has this in his pockets.
+
+;0xF2E9F50D=~z~Luis! Get behind something.
+0xF2E9F50D=~z~Luis! Get behind something.
+
+;0xF2F3908B=100
+0xF2F3908B=100
+
+;0xF4FB47D6=100090010
+0xF4FB47D6=100090010
+
+;0xF5A79421=~z~You should have taken the money!
+0xF5A79421=~z~You should have taken the money!
+
+;0xF5C5B006=~z~We doin' our best.
+0xF5C5B006=~z~We doin' our best.
+
+;0xF6000E3B=~z~Take that, man.
+0xF6000E3B=~z~Take that, man.
+
+;0xF6139710=~z~We got us a firefight, boys!
+0xF6139710=~z~We got us a firefight, boys!
+
+;0xF65CEEEF=~z~I give you a simple task.
+0xF65CEEEF=~z~I give you a simple task.
+
+;0xF69B27DC=E2BG1_AMA
+0xF69B27DC=E2BG1_AMA
+
+;0xF7317960=~z~Leave the car in this empty space over by the pillar.
+0xF7317960=~z~Leave the car in this empty space over by the pillar.
+
+;0xF761160E=~z~We're gonna get paid extra for killing you.
+0xF761160E=~z~We're gonna get paid extra for killing you.
+
+;0xF91ACD45=092
+0xF91ACD45=092
+
+;0xF9E77148=192
+0xF9E77148=192
+
+;0xFB9B597A=~z~Conceal yourselves behind these car. We will wait for Marki's puppets.
+0xFB9B597A=~z~Conceal yourselves behind these car. We will wait for Marki's puppets.
+
+;0xFC158C00=~z~We have not got Timur. What is this?
+0xFC158C00=~z~We have not got Timur. What is this?
+
+;0xFD429F99=~z~Bye bye.
+0xFD429F99=~z~Bye bye.
+
+;0xFD99A047=~z~You die now.
+0xFD99A047=~z~You die now.
+
+;0xFE80AC06=~z~Detonate when they come to the car, okay?
+0xFE80AC06=~z~Detonate when they come to the car, okay?
+

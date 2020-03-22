@@ -1,0 +1,655 @@
+﻿[E2Tm6AU]
+;0x00C2EE05=100
+0x00C2EE05=100
+
+;0x00FB1CDC=~z~Nobody understands you like I do.
+0x00FB1CDC=~z~Nobody understands you like I do.
+
+;0x01E24C5A=E2Tm6_YH
+0x01E24C5A=E2Tm6_YH
+
+;0x02159BAB=E2Tm6_RA
+0x02159BAB=E2Tm6_RA
+
+;0x03362152=~z~We're soul mates. I promise you!
+0x03362152=~z~We're soul mates. I promise you!
+
+;0x03452342=010
+0x03452342=010
+
+;0x035987E2=~z~Okay. Only 'cause my niece loves those irritating little eunuchs.
+0x035987E2=~z~Okay. Only 'cause my niece loves those irritating little eunuchs.
+
+;0x054F947D=~z~Take me! Take me!
+0x054F947D=~z~Take me! Take me!
+
+;0x06154527=~z~We totally need to get Mom to round up some of these b star star c h es. Hey, gimme five.
+0x06154527=~z~We totally need to get Mom to round up some of these b star star c h es. Hey, gimme five.
+
+;0x0754227E=~z~Seriously uncool vibe with our fans, bro.
+0x0754227E=~z~Seriously uncool vibe with our fans, bro.
+
+;0x07D44225=590
+0x07D44225=590
+
+;0x08CFAC81=~z~I want to conceive your child. Please impregnate me!
+0x08CFAC81=~z~I want to conceive your child. Please impregnate me!
+
+;0x0A7BBDB8=E2Tm6_AAB2
+0x0A7BBDB8=E2Tm6_AAB2
+
+;0x0F41F40E=E2Tm6_YA
+0x0F41F40E=E2Tm6_YA
+
+;0x1152C30B=SFX_PAUSE_220
+0x1152C30B=SFX_PAUSE_220
+
+;0x11FC9D35=SFX_PAUSE_220
+0x11FC9D35=SFX_PAUSE_220
+
+;0x126D712A=E2Tm1_IA
+0x126D712A=E2Tm1_IA
+
+;0x135D7889=E2Tm6_YC
+0x135D7889=E2Tm6_YC
+
+;0x14293230=~z~Marry me! I'm a virgin!
+0x14293230=~z~Marry me! I'm a virgin!
+
+;0x149FF2E6=E2Tm1_FA
+0x149FF2E6=E2Tm1_FA
+
+;0x16FBB874=~z~They grow up quick now days.
+0x16FBB874=~z~They grow up quick now days.
+
+;0x191971F7=100
+0x191971F7=100
+
+;0x195A5C0D=~z~This thing ain't happening, D . We ran into an issue.
+0x195A5C0D=~z~This thing ain't happening, D . We ran into an issue.
+
+;0x1BCB8CF0=E2Tm6_YF
+0x1BCB8CF0=E2Tm6_YF
+
+;0x1BE5FED6=E2Tm1_FB
+0x1BE5FED6=E2Tm1_FB
+
+;0x1C1A4FFE=E2Tm6_SA
+0x1C1A4FFE=E2Tm6_SA
+
+;0x1DC2D66B=~z~We're meant to be together.
+0x1DC2D66B=~z~We're meant to be together.
+
+;0x1E5360AD=~z~If she didn't have braces, I'd face-fstar star k the s star star t out that b star star c h.
+0x1E5360AD=~z~If she didn't have braces, I'd face-fstar star k the s star star t out that b star star c h.
+
+;0x217856C6=~z~Yeah, dude. We only like to injure our fans in the hymen.
+0x217856C6=~z~Yeah, dude. We only like to injure our fans in the hymen.
+
+;0x21B34D44=~z~I just peed myself.
+0x21B34D44=~z~I just peed myself.
+
+;0x21CAC4D4=~z~Yo boss, you mind doing a VIP pickup? Bill and Bobby Blue are coming down from the MeTV building.
+0x21CAC4D4=~z~Yo boss, you mind doing a VIP pickup? Bill and Bobby Blue are coming down from the MeTV building.
+
+;0x220C9C46=E2Tm6_PA
+0x220C9C46=E2Tm6_PA
+
+;0x22755EB8=E2Tm6_XF
+0x22755EB8=E2Tm6_XF
+
+;0x23226C8C=E2Tm6_WB2
+0x23226C8C=E2Tm6_WB2
+
+;0x24842375=~z~Shit, bro. You're fucked. The fans only liked Bobby. Now it's just the "ugly one" left.
+0x24842375=~z~Shit, bro. You're fucked. The fans only liked Bobby. Now it's just the "ugly one" left.
+
+;0x24CD45F6=E2Tm6_ACD
+0x24CD45F6=E2Tm6_ACD
+
+;0x254EE6A2=E2Tm1_GB
+0x254EE6A2=E2Tm1_GB
+
+;0x298D89EB=SFX_PAUSE_190
+0x298D89EB=SFX_PAUSE_190
+
+;0x2D91E5A0=~z~Especially when we're around, they do. Oh yeah! Gimme some skin, homie bro!
+0x2D91E5A0=~z~Especially when we're around, they do. Oh yeah! Gimme some skin, homie bro!
+
+;0x2EAAA678=SFX_PAUSE_140
+0x2EAAA678=SFX_PAUSE_140
+
+;0x3044EDEB=E2Tm6_UA
+0x3044EDEB=E2Tm6_UA
+
+;0x3095EB09=~z~Oh my god! Oh my god! Oh my god!
+0x3095EB09=~z~Oh my god! Oh my god! Oh my god!
+
+;0x3120B62E=E2Tm6_ABB
+0x3120B62E=E2Tm6_ABB
+
+;0x3251A3F1=SFX_PAUSE_260
+0x3251A3F1=SFX_PAUSE_260
+
+;0x33621FC0=~z~The fans are a total blast, aren't they?
+0x33621FC0=~z~The fans are a total blast, aren't they?
+
+;0x3585A979=E2Tm6_NA
+0x3585A979=E2Tm6_NA
+
+;0x35B18555=~z~Don't get all star struck over those kids now.
+0x35B18555=~z~Don't get all star struck over those kids now.
+
+;0x37A3C279=SFX_PAUSE_380
+0x37A3C279=SFX_PAUSE_380
+
+;0x388104C1=E2Tm6_ZB
+0x388104C1=E2Tm6_ZB
+
+;0x38E916DB=SFX_PAUSE_190
+0x38E916DB=SFX_PAUSE_190
+
+;0x39300774=~z~Your ride's here. Come on, boys.
+0x39300774=~z~Your ride's here. Come on, boys.
+
+;0x3993E9FB=~z~I let you video me and put it on the internet.
+0x3993E9FB=~z~I let you video me and put it on the internet.
+
+;0x39946454=030090300200030090200300
+0x39946454=030090300200030090200300
+
+;0x39E319BB=~z~Yeah. Threat level red when we in the house. Whoop whoop! Skin time, B
+0x39E319BB=~z~Yeah. Threat level red when we in the house. Whoop whoop! Skin time, B
+
+;0x3C2B926E=~z~Nah, bro. We be mauling them back too, if you catch my meaning.
+0x3C2B926E=~z~Nah, bro. We be mauling them back too, if you catch my meaning.
+
+;0x3CDD0D8F=~z~For real. Skin me.
+0x3CDD0D8F=~z~For real. Skin me.
+
+;0x3E7E7A78=SFX_PAUSE_360
+0x3E7E7A78=SFX_PAUSE_360
+
+;0x3F7CA91E=~z~Here it is. I'd say have fun, but the girls ain't underage, so it may be a challenge for you.
+0x3F7CA91E=~z~Here it is. I'd say have fun, but the girls ain't underage, so it may be a challenge for you.
+
+;0x4156E175=~z~Go for it, bro. Gimme five.
+0x4156E175=~z~Go for it, bro. Gimme five.
+
+;0x41F525A8=100090010090100090010
+0x41F525A8=100090010090100090010
+
+;0x433F68A6=SFX_PAUSE_150
+0x433F68A6=SFX_PAUSE_150
+
+;0x48FFAC16=~z~It must get weird being mauled like that.
+0x48FFAC16=~z~It must get weird being mauled like that.
+
+;0x49747BBD=010090100
+0x49747BBD=010090100
+
+;0x499AD96A=E2Tm6_YG
+0x499AD96A=E2Tm6_YG
+
+;0x4ADB2ACA=~z~Yo, kids. Get in.
+0x4ADB2ACA=~z~Yo, kids. Get in.
+
+;0x4B9630F4=E2Tm6_XB
+0x4B9630F4=E2Tm6_XB
+
+;0x4D422500=~z~Yo. My niece is a real big fan of you guys.
+0x4D422500=~z~Yo. My niece is a real big fan of you guys.
+
+;0x4E29554E=~z~I think I f star star k-ed that girl. I hope she's not pregnant.
+0x4E29554E=~z~I think I f star star k-ed that girl. I hope she's not pregnant.
+
+;0x50C4E185=SFX_PAUSE_190
+0x50C4E185=SFX_PAUSE_190
+
+;0x527D74AE=SFX_PAUSE_120
+0x527D74AE=SFX_PAUSE_120
+
+;0x53F8D1F0=SFX_PAUSE_140
+0x53F8D1F0=SFX_PAUSE_140
+
+;0x558AE077=E2Tm6_AFA
+0x558AE077=E2Tm6_AFA
+
+;0x55C2F7CB=SFX_PAUSE_220
+0x55C2F7CB=SFX_PAUSE_220
+
+;0x5630D11D=E2Tm6_QA
+0x5630D11D=E2Tm6_QA
+
+;0x577D3038=~z~The Blue Brothers? For real? They even old enough to come in here?
+0x577D3038=~z~The Blue Brothers? For real? They even old enough to come in here?
+
+;0x57D0EF4E=020090200090300
+0x57D0EF4E=020090200090300
+
+;0x5816DB96=~z~I need a DNA sample. Give me some DNA.
+0x5816DB96=~z~I need a DNA sample. Give me some DNA.
+
+;0x5A8354CF=E2Tm6_XD
+0x5A8354CF=E2Tm6_XD
+
+;0x5A988A35=SFX_PAUSE_190
+0x5A988A35=SFX_PAUSE_190
+
+;0x5AB4B2DD=E2Tm6_AHA
+0x5AB4B2DD=E2Tm6_AHA
+
+;0x5B47874F=E2Tm1_JB
+0x5B47874F=E2Tm1_JB
+
+;0x5B6DA854=E2Tm6_WD
+0x5B6DA854=E2Tm6_WD
+
+;0x5BCC5030=E2Tm6_XC
+0x5BCC5030=E2Tm6_XC
+
+;0x5BEA37EF=010090100
+0x5BEA37EF=010090100
+
+;0x5C565EA1=~z~Bro, you might get action, but you look like a little girl.
+0x5C565EA1=~z~Bro, you might get action, but you look like a little girl.
+
+;0x5C63F1C3=~z~No wonder we sedate these bitches, B. They just won't shut up.
+0x5C63F1C3=~z~No wonder we sedate these bitches, B. They just won't shut up.
+
+;0x5CB2C11C=E2Tm6_ACA
+0x5CB2C11C=E2Tm6_ACA
+
+;0x5D9B9408=E2Tm6_YB
+0x5D9B9408=E2Tm6_YB
+
+;0x5E124FF9=~z~Nice. That's real fucking charming. Bye bye, gentlemen.
+0x5E124FF9=~z~Nice. That's real fucking charming. Bye bye, gentlemen.
+
+;0x5F6C193C=~z~Don't you say that, man. Bobby was the ugly one. I'm gonna go solo and shake things up.
+0x5F6C193C=~z~Don't you say that, man. Bobby was the ugly one. I'm gonna go solo and shake things up.
+
+;0x5FED7874=E2Tm6_AEA
+0x5FED7874=E2Tm6_AEA
+
+;0x60749FA4=E2Tm6_WA1
+0x60749FA4=E2Tm6_WA1
+
+;0x60D48F4A=E2Tm6_YE
+0x60D48F4A=E2Tm6_YE
+
+;0x631D12D0=200090300090020200090300090030
+0x631D12D0=200090300090020200090300090030
+
+;0x640F7243=~z~Don't worry about us. Thanks for the ride.
+0x640F7243=~z~Don't worry about us. Thanks for the ride.
+
+;0x642D1A0A=E2Tm6_ABA
+0x642D1A0A=E2Tm6_ABA
+
+;0x665B5732=~z~Yeah. Is she, like, cute?
+0x665B5732=~z~Yeah. Is she, like, cute?
+
+;0x681FA5C4=~z~If it weren't for all the horror stories I heard, I'd think you was smooth down there like a toy doll.
+0x681FA5C4=~z~If it weren't for all the horror stories I heard, I'd think you was smooth down there like a toy doll.
+
+;0x683EA636=~z~That's not very nice, homie.
+0x683EA636=~z~That's not very nice, homie.
+
+;0x69E87F39=~z~Ahhhhh! This is the best moment of my life.
+0x69E87F39=~z~Ahhhhh! This is the best moment of my life.
+
+;0x6A0686A4=~z~That was so funny. Do you mind if I use that?
+0x6A0686A4=~z~That was so funny. Do you mind if I use that?
+
+;0x6A0D944C=SFX_PAUSE_260
+0x6A0D944C=SFX_PAUSE_260
+
+;0x6A6E7EEC=SFX_PAUSE_400
+0x6A6E7EEC=SFX_PAUSE_400
+
+;0x6BBB02E2=~z~Bobby, I love you!
+0x6BBB02E2=~z~Bobby, I love you!
+
+;0x6C2DA279=E2Tm1_IB
+0x6C2DA279=E2Tm1_IB
+
+;0x6E0401F4=~z~cause the only reason girls like you is you the least sexually threatening males in the world.
+0x6E0401F4=~z~cause the only reason girls like you is you the least sexually threatening males in the world.
+
+;0x6E9EE893=E2Tm6_TA
+0x6E9EE893=E2Tm6_TA
+
+;0x6FD937AF=SFX_PAUSE_210
+0x6FD937AF=SFX_PAUSE_210
+
+;0x7094237D=~z~Should be. But I don't know if any is gonna have an elf fetish.
+0x7094237D=~z~Should be. But I don't know if any is gonna have an elf fetish.
+
+;0x712FECDB=~z~That's totally awesome, man. How old is she?
+0x712FECDB=~z~That's totally awesome, man. How old is she?
+
+;0x716306CC=E2Tm6_WC
+0x716306CC=E2Tm6_WC
+
+;0x72BA8976=~z~Aren't our fans just the best? I love them.
+0x72BA8976=~z~Aren't our fans just the best? I love them.
+
+;0x738DE4E6=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+0x738DE4E6=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+
+;0x77700F20=~z~The fans are gonna rip you limb from f star star k-ing limb.
+0x77700F20=~z~The fans are gonna rip you limb from f star star k-ing limb.
+
+;0x77AD7937=~z~Ahhhhhhhhh!
+0x77AD7937=~z~Ahhhhhhhhh!
+
+;0x79D519EF=~z~Okay, boss. Anyone asks, I ain't seen you.
+0x79D519EF=~z~Okay, boss. Anyone asks, I ain't seen you.
+
+;0x7A46C612=E2Tm1_HB
+0x7A46C612=E2Tm1_HB
+
+;0x7A7F7F7E=~z~She way too young for you to get your elf hands on, bro.
+0x7A7F7F7E=~z~She way too young for you to get your elf hands on, bro.
+
+;0x7AA8768E=~z~Twenty one to drink, eighteen to party. Whatever age you like if you're famous, as Tony always says.
+0x7AA8768E=~z~Twenty one to drink, eighteen to party. Whatever age you like if you're famous, as Tony always says.
+
+;0x7AEF307B=E2Tm6_VF
+0x7AEF307B=E2Tm6_VF
+
+;0x7C6A3401=E2Tm6_AGA
+0x7C6A3401=E2Tm6_AGA
+
+;0x7CA9A4BF=~z~Blue Brothers forever.
+0x7CA9A4BF=~z~Blue Brothers forever.
+
+;0x7F540878=~z~Boss, that guy is a mess.
+0x7F540878=~z~Boss, that guy is a mess.
+
+;0x82D54758=SFX_PAUSE_140
+0x82D54758=SFX_PAUSE_140
+
+;0x84BBCC18=E2Tm6_VA
+0x84BBCC18=E2Tm6_VA
+
+;0x8750296A=~z~There's gonna be chicks at Maisonette?
+0x8750296A=~z~There's gonna be chicks at Maisonette?
+
+;0x884450D9=E2Tm6_ADA
+0x884450D9=E2Tm6_ADA
+
+;0x8915B617=E2Tm6_XA
+0x8915B617=E2Tm6_XA
+
+;0x8F60D158=~z~I was like "I promise to bust open your ring piece, you silly b star star c h."
+0x8F60D158=~z~I was like "I promise to bust open your ring piece, you silly b star star c h."
+
+;0x91A9E144=E2Tm6_VC
+0x91A9E144=E2Tm6_VC
+
+;0x920664BD=E2Tm6_NB
+0x920664BD=E2Tm6_NB
+
+;0x9235AC8C=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+0x9235AC8C=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+
+;0x946F9FB1=~z~I can't breathe. I can't breathe.
+0x946F9FB1=~z~I can't breathe. I can't breathe.
+
+;0x9510500C=~z~We're all about sexual threat, hombre. Maximum threat!
+0x9510500C=~z~We're all about sexual threat, hombre. Maximum threat!
+
+;0x95B87F85=E2Tm6_YD
+0x95B87F85=E2Tm6_YD
+
+;0x961BF0D4=E2Tm6_VB
+0x961BF0D4=E2Tm6_VB
+
+;0x96CA4FD2=300
+0x96CA4FD2=300
+
+;0x995059CA=~z~This a new low for me. Shit.
+0x995059CA=~z~This a new low for me. Shit.
+
+;0x9C385EB5=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+0x9C385EB5=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+
+;0x9C3B49F0=E2Tm6_ZA
+0x9C3B49F0=E2Tm6_ZA
+
+;0x9D3D1294=E2Tm6_AAB1
+0x9D3D1294=E2Tm6_AAB1
+
+;0x9D8D10D6=~z~Weird vibes, dude. You're like creeping me out.
+0x9D8D10D6=~z~Weird vibes, dude. You're like creeping me out.
+
+;0x9EC17F13=SFX_PAUSE_220
+0x9EC17F13=SFX_PAUSE_220
+
+;0x9F8E0788=SFX_PAUSE_170
+0x9F8E0788=SFX_PAUSE_170
+
+;0xA0694AA2=~z~Boss, yo, look. That guy said he might put me in his show. Don't let him forget about me, will you?
+0xA0694AA2=~z~Boss, yo, look. That guy said he might put me in his show. Don't let him forget about me, will you?
+
+;0xA0E82AA5=E2Tm6_ND
+0xA0E82AA5=E2Tm6_ND
+
+;0xA20480A1=SFX_PAUSE_190
+0xA20480A1=SFX_PAUSE_190
+
+;0xA3E3E1DD=~z~Yeah. Thanks a mil', homie.
+0xA3E3E1DD=~z~Yeah. Thanks a mil', homie.
+
+;0xA476FAA9=030090300
+0xA476FAA9=030090300
+
+;0xA527FCE6=~z~Oh my god, that was hilarious.
+0xA527FCE6=~z~Oh my god, that was hilarious.
+
+;0xA558028E=E2Tm6_AAA
+0xA558028E=E2Tm6_AAA
+
+;0xA6967456=~z~Next time you're handling the tweeny boppers, motherfucker.
+0xA6967456=~z~Next time you're handling the tweeny boppers, motherfucker.
+
+;0xA6CD446C=~z~If I kill myself tomorrow it's gonna be all your fault!
+0xA6CD446C=~z~If I kill myself tomorrow it's gonna be all your fault!
+
+;0xA77B017C=~z~"Bobby! What about your promise ring?"
+0xA77B017C=~z~"Bobby! What about your promise ring?"
+
+;0xA8C574B8=E2Tm6_WB1
+0xA8C574B8=E2Tm6_WB1
+
+;0xA8F9A2CD=E2Tm1_GA
+0xA8F9A2CD=E2Tm1_GA
+
+;0xA9849225=E2Tm6_VD
+0xA9849225=E2Tm6_VD
+
+;0xAA484FDE=SFX_OVERLAP_2940
+0xAA484FDE=SFX_OVERLAP_2940
+
+;0xAF050764=~z~I hope it's nothing serious, boss. You take care.
+0xAF050764=~z~I hope it's nothing serious, boss. You take care.
+
+;0xAF134C53=010090100
+0xAF134C53=010090100
+
+;0xAF3305D5=200090300090200090020
+0xAF3305D5=200090300090200090020
+
+;0xB046063A=320090320090230230090320090230
+0xB046063A=320090320090230230090320090230
+
+;0xB0C9B4A3=790
+0xB0C9B4A3=790
+
+;0xB0E54591=SFX_PAUSE_240
+0xB0E54591=SFX_PAUSE_240
+
+;0xB265EEB1=E2Tm6_ACB
+0xB265EEB1=E2Tm6_ACB
+
+;0xB60A8645=E2Tm6_OA
+0xB60A8645=E2Tm6_OA
+
+;0xB77B3E46=E2Tm1_HA
+0xB77B3E46=E2Tm1_HA
+
+;0xB97F69D0=~z~I love you!
+0xB97F69D0=~z~I love you!
+
+;0xBA376478=~z~Hey, thanks. Are you taking us to Maisonette?
+0xBA376478=~z~Hey, thanks. Are you taking us to Maisonette?
+
+;0xBDC43F1C=SFX_OVERLAP_1800
+0xBDC43F1C=SFX_OVERLAP_1800
+
+;0xBEBCCBC5=SFX_PAUSE_150
+0xBEBCCBC5=SFX_PAUSE_150
+
+;0xBED04595=010090100
+0xBED04595=010090100
+
+;0xC056BBE2=100
+0xC056BBE2=100
+
+;0xC187FD3D=E2Tm6_ACC
+0xC187FD3D=E2Tm6_ACC
+
+;0xC1B3B499=E2Tm6_VE
+0xC1B3B499=E2Tm6_VE
+
+;0xCB468D5E=~z~You're so beautiful. You're amazing!
+0xCB468D5E=~z~You're so beautiful. You're amazing!
+
+;0xCD93BF2F=~z~That one was crying. I bet she'd be a real f star star k-ing screamer, bro.
+0xCD93BF2F=~z~That one was crying. I bet she'd be a real f star star k-ing screamer, bro.
+
+;0xCE5500DB=SFX_OVERLAP_2050
+0xCE5500DB=SFX_OVERLAP_2050
+
+;0xD1483B47=E2Tm6_XE
+0xD1483B47=E2Tm6_XE
+
+;0xD16AED1E=020
+0xD16AED1E=020
+
+;0xD2EFD865=~z~Hey Bobby, remember when you were about to f star star c k that girl and she was like,
+0xD2EFD865=~z~Hey Bobby, remember when you were about to f star star c k that girl and she was like,
+
+;0xD48F7B83=~z~Welcome, gentlemen. It's a pleasure to have you here. We're all big fans.
+0xD48F7B83=~z~Welcome, gentlemen. It's a pleasure to have you here. We're all big fans.
+
+;0xD652580F=~z~Give me a lock of your hair.
+0xD652580F=~z~Give me a lock of your hair.
+
+;0xD751AEA5=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+0xD751AEA5=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+
+;0xD7D8CFE4=~z~Shit, bro. I'm sorry about your brother.
+0xD7D8CFE4=~z~Shit, bro. I'm sorry about your brother.
+
+;0xD896DB54=~z~You ever need anything, give our mom a call. She handles our s star star t for us.
+0xD896DB54=~z~You ever need anything, give our mom a call. She handles our s star star t for us.
+
+;0xDBF70664=E2Tm1_JA
+0xDBF70664=E2Tm1_JA
+
+;0xDC35DE56=~z~It's weird you guys is such predators,
+0xDC35DE56=~z~It's weird you guys is such predators,
+
+;0xDC4B8599=SFX_PAUSE_130
+0xDC4B8599=SFX_PAUSE_130
+
+;0xDD8FB1F1=020090200090200
+0xDD8FB1F1=020090200090200
+
+;0xE01C403E=~z~Shit, L. Okay. I'll get on damage control.
+0xE01C403E=~z~Shit, L. Okay. I'll get on damage control.
+
+;0xE237DE84=~z~Thanks so much for the ride, dude.
+0xE237DE84=~z~Thanks so much for the ride, dude.
+
+;0xE37FD29C=SFX_PAUSE_210
+0xE37FD29C=SFX_PAUSE_210
+
+;0xE6D99ECB=290
+0xE6D99ECB=290
+
+;0xE754DBA6=E2Tm6_ZC
+0xE754DBA6=E2Tm6_ZC
+
+;0xE7C44D55=~z~Coño. I knew I shouldn't have gone on that run, bro.
+0xE7C44D55=~z~Coño. I knew I shouldn't have gone on that run, bro.
+
+;0xEABE1B4F=~z~What are those f-ing vans doing there? Come the f star star k on!
+0xEABE1B4F=~z~What are those f-ing vans doing there? Come the f star star k on!
+
+;0xEB472701=390
+0xEB472701=390
+
+;0xEBB488FC=SFX_PAUSE_260
+0xEBB488FC=SFX_PAUSE_260
+
+;0xECC661B0=~z~No problem, boss.
+0xECC661B0=~z~No problem, boss.
+
+;0xEFCD7D2D=490
+0xEFCD7D2D=490
+
+;0xEFE5A2A1=SFX_OVERLAP_2070
+0xEFE5A2A1=SFX_OVERLAP_2070
+
+;0xF0A85159=~z~Maisonette 9 has got, like, the best service ever. And good blow.
+0xF0A85159=~z~Maisonette 9 has got, like, the best service ever. And good blow.
+
+;0xF0A99206=E2Tm6_NC
+0xF0A99206=E2Tm6_NC
+
+;0xF0F385EE=~z~That b star star c h is kind of cute, in a prepubescent kind of way.
+0xF0F385EE=~z~That b star star c h is kind of cute, in a prepubescent kind of way.
+
+;0xF116C326=E2Tm6_WA2
+0xF116C326=E2Tm6_WA2
+
+;0xF1408E77=020020090200090300090020090020090200090300
+0xF1408E77=020020090200090300090020090020090200090300
+
+;0xF20F6DED=~z~Don't tell that guy the party's over, L.
+0xF20F6DED=~z~Don't tell that guy the party's over, L.
+
+;0xF3EFADB6=~z~Why are those vans there? Security should f star star k those guys up.
+0xF3EFADB6=~z~Why are those vans there? Security should f star star k those guys up.
+
+;0xF695080C=~z~I'll take both of you. I don't care if you're brothers, I like it!
+0xF695080C=~z~I'll take both of you. I don't care if you're brothers, I like it!
+
+;0xF7B981CF=SFX_PAUSE_240
+0xF7B981CF=SFX_PAUSE_240
+
+;0xF96D0879=010090100
+0xF96D0879=010090100
+
+;0xF99DFC1F=E2Tm6_KA
+0xF99DFC1F=E2Tm6_KA
+
+;0xFA1F9471=~z~This is seriously, un-cool, bro, and I mean that.
+0xFA1F9471=~z~This is seriously, un-cool, bro, and I mean that.
+
+;0xFAFC23DA=200
+0xFAFC23DA=200
+
+;0xFB9A9128=~z~See you soon.
+0xFB9A9128=~z~See you soon.
+
+;0xFBA4486B=SFX_OVERLAP_3680
+0xFBA4486B=SFX_OVERLAP_3680
+
+;0xFCA6083B=690
+0xFCA6083B=690
+

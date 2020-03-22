@@ -1,0 +1,1096 @@
+﻿[E2BG2AU]
+;0x01857C72=E2BG2_AKA
+0x01857C72=E2BG2_AKA
+
+;0x01BC37C1=~z~Faggot - always thinking of interior decoration. Just get job done.
+0x01BC37C1=~z~Faggot - always thinking of interior decoration. Just get job done.
+
+;0x01E27A6F=E2BG2_FA
+0x01E27A6F=E2BG2_FA
+
+;0x036D6160=~z~Nothing there.
+0x036D6160=~z~Nothing there.
+
+;0x0446EC7B=SFX_OVERLAP_290
+0x0446EC7B=SFX_OVERLAP_290
+
+;0x04EFA1F0=E2BG2_IG
+0x04EFA1F0=E2BG2_IG
+
+;0x058D953A=E2BG2_ZZA
+0x058D953A=E2BG2_ZZA
+
+;0x0615B34C=~z~I'm just here for your boss.
+0x0615B34C=~z~I'm just here for your boss.
+
+;0x0682B8F1=E2BG2_BOA
+0x0682B8F1=E2BG2_BOA
+
+;0x06A8CFA4=100090010090100090010090100090010
+0x06A8CFA4=100090010090100090010090100090010
+
+;0x070CFEEC=E2BG2_MC
+0x070CFEEC=E2BG2_MC
+
+;0x0A9D0ED7=~z~Sounds real tough for you, tough guy.
+0x0A9D0ED7=~z~Sounds real tough for you, tough guy.
+
+;0x0CBA3862=020
+0x0CBA3862=020
+
+;0x0E130E5C=SFX_PAUSE_290
+0x0E130E5C=SFX_PAUSE_290
+
+;0x0E3C4167=SFX_PAUSE_340
+0x0E3C4167=SFX_PAUSE_340
+
+;0x0E43C4F0=E2BG2_IC
+0x0E43C4F0=E2BG2_IC
+
+;0x10C90E10=SFX_PAUSE_630
+0x10C90E10=SFX_PAUSE_630
+
+;0x1202E5F6=~z~Chill, man. I'm just trying to converse with you. My job is hospitality and...
+0x1202E5F6=~z~Chill, man. I'm just trying to converse with you. My job is hospitality and...
+
+;0x1214FC2B=~z~Can you tell me what the plan is?
+0x1214FC2B=~z~Can you tell me what the plan is?
+
+;0x12F77E72=~z~So, what's up, bro?
+0x12F77E72=~z~So, what's up, bro?
+
+;0x1396A800=E2BG2_RA
+0x1396A800=E2BG2_RA
+
+;0x145B621E=SFX_PAUSE_180
+0x145B621E=SFX_PAUSE_180
+
+;0x147D0918=~z~Fuck you. You are hard work. Don't even know what you are.
+0x147D0918=~z~Fuck you. You are hard work. Don't even know what you are.
+
+;0x1489CC80=SFX_PAUSE_120
+0x1489CC80=SFX_PAUSE_120
+
+;0x15CE9E43=~z~You fucking pussy.
+0x15CE9E43=~z~You fucking pussy.
+
+;0x16033721=~z~We go above Star Junction. High as you can go.
+0x16033721=~z~We go above Star Junction. High as you can go.
+
+;0x16523C11=SFX_PAUSE_300
+0x16523C11=SFX_PAUSE_300
+
+;0x1718533D=~z~Good. Great. Total fucking silence from here on in.
+0x1718533D=~z~Good. Great. Total fucking silence from here on in.
+
+;0x17628D4E=E2BG2_VE
+0x17628D4E=E2BG2_VE
+
+;0x186D6975=~z~It's an occupational hazard.
+0x186D6975=~z~It's an occupational hazard.
+
+;0x1894E881=SFX_PAUSE_400
+0x1894E881=SFX_PAUSE_400
+
+;0x1A1FF7EE=~z~Glad you enjoy yourself. I knew you had it in you.
+0x1A1FF7EE=~z~Glad you enjoy yourself. I knew you had it in you.
+
+;0x1A477AB1=~z~Hey there.
+0x1A477AB1=~z~Hey there.
+
+;0x1A57E8F8=~z~If you buy this team, you gonna have to get a new office.
+0x1A57E8F8=~z~If you buy this team, you gonna have to get a new office.
+
+;0x1ADCCCCD=E2BG2_ANB
+0x1ADCCCCD=E2BG2_ANB
+
+;0x1B14770C=E2BG2_APB
+0x1B14770C=E2BG2_APB
+
+;0x1BFADAD0=E2BG2_KC
+0x1BFADAD0=E2BG2_KC
+
+;0x1C21A5F5=SFX_PAUSE_250
+0x1C21A5F5=SFX_PAUSE_250
+
+;0x1CAFE31C=E2BG2_AFA
+0x1CAFE31C=E2BG2_AFA
+
+;0x1E7A63BD=SFX_PAUSE_090
+0x1E7A63BD=SFX_PAUSE_090
+
+;0x1ED2EBCD=E2BG2_BOB
+0x1ED2EBCD=E2BG2_BOB
+
+;0x1F9B6BD5=E2BG2_ASA
+0x1F9B6BD5=E2BG2_ASA
+
+;0x2053F8AD=~z~Take command of chopper.
+0x2053F8AD=~z~Take command of chopper.
+
+;0x20BB8109=E2BG2_WE
+0x20BB8109=E2BG2_WE
+
+;0x20FBBDDD=~z~He's here for Ashvilli.
+0x20FBBDDD=~z~He's here for Ashvilli.
+
+;0x2145042C=SFX_PAUSE_310
+0x2145042C=SFX_PAUSE_310
+
+;0x2285EC2C=~z~Your boss upset a lot of people.
+0x2285EC2C=~z~Your boss upset a lot of people.
+
+;0x22DE62E3=~z~You miss building, asshole.
+0x22DE62E3=~z~You miss building, asshole.
+
+;0x2345F1E8=E2BG2_AQA
+0x2345F1E8=E2BG2_AQA
+
+;0x240B461E=E2BG2_PA
+0x240B461E=E2BG2_PA
+
+;0x24DFEEDE=E2BG2_KB
+0x24DFEEDE=E2BG2_KB
+
+;0x25B3F110=E2BG2_ID
+0x25B3F110=E2BG2_ID
+
+;0x25D5A3B8=~z~I would do but there is chance Ashvilli's people come for my family back in old place.
+0x25D5A3B8=~z~I would do but there is chance Ashvilli's people come for my family back in old place.
+
+;0x2745F318=E2BG2_WC
+0x2745F318=E2BG2_WC
+
+;0x2890F62E=~z~You want me to shut up? Good.
+0x2890F62E=~z~You want me to shut up? Good.
+
+;0x28C5F59D=SFX_PAUSE_400
+0x28C5F59D=SFX_PAUSE_400
+
+;0x296A3DD7=~z~Only when I hurt people. When I kill them, no, but hurt them, yes, very tense.
+0x296A3DD7=~z~Only when I hurt people. When I kill them, no, but hurt them, yes, very tense.
+
+;0x2A5BF464=E2BG2_ARA
+0x2A5BF464=E2BG2_ARA
+
+;0x2B3097AD=~z~Mr. Ray wanted me to keep watch on you. Make sure you do what told.
+0x2B3097AD=~z~Mr. Ray wanted me to keep watch on you. Make sure you do what told.
+
+;0x2BA21370=E2BG2_IB
+0x2BA21370=E2BG2_IB
+
+;0x2BBD4A20=~z~Stay the fuck away from Tony, man. You touch him I'll fucking kill you.
+0x2BBD4A20=~z~Stay the fuck away from Tony, man. You touch him I'll fucking kill you.
+
+;0x2CD31240=~z~This is why you tell Mr. Ray you are not "contract killer"? You scared?
+0x2CD31240=~z~This is why you tell Mr. Ray you are not "contract killer"? You scared?
+
+;0x2D27A38B=SFX_PAUSE_140
+0x2D27A38B=SFX_PAUSE_140
+
+;0x2E7E0FC3=E2BG2_ALB
+0x2E7E0FC3=E2BG2_ALB
+
+;0x2F7D17B6=~z~No.
+0x2F7D17B6=~z~No.
+
+;0x30217665=E2BG2_EA
+0x30217665=E2BG2_EA
+
+;0x30DBE8EA=010
+0x30DBE8EA=010
+
+;0x30E682A9=E2BG2_HB
+0x30E682A9=E2BG2_HB
+
+;0x3134D6C7=E2BG2_MD
+0x3134D6C7=E2BG2_MD
+
+;0x3436B052=~z~What's that?
+0x3436B052=~z~What's that?
+
+;0x346BCB9C=E2BG2_VC
+0x346BCB9C=E2BG2_VC
+
+;0x34805EBE=SFX_PAUSE_210
+0x34805EBE=SFX_PAUSE_210
+
+;0x352DE0F9=E2BG2_ME
+0x352DE0F9=E2BG2_ME
+
+;0x353D3787=E2BG2_GB
+0x353D3787=E2BG2_GB
+
+;0x35B55B08=E2BG2_FD
+0x35B55B08=E2BG2_FD
+
+;0x39E9972F=SFX_PAUSE_200
+0x39E9972F=SFX_PAUSE_200
+
+;0x3A71CD72=010090100010090100090
+0x3A71CD72=010090100010090100090
+
+;0x3D51C53C=010090100090010090100090100090010090100
+0x3D51C53C=010090100090010090100090100090010090100
+
+;0x3DEFD664=~z~Waste of time.
+0x3DEFD664=~z~Waste of time.
+
+;0x40E68289=E2BG2_QA
+0x40E68289=E2BG2_QA
+
+;0x4115C88D=E2BG2_AOA
+0x4115C88D=E2BG2_AOA
+
+;0x416297E8=E2BG2_AHA
+0x416297E8=E2BG2_AHA
+
+;0x41FEEDD2=010090100090010090100090100090010
+0x41FEEDD2=010090100090010090100090100090010
+
+;0x45A65331=~z~What's that noise?
+0x45A65331=~z~What's that noise?
+
+;0x460B02D1=E2BG2_NC
+0x460B02D1=E2BG2_NC
+
+;0x46265B99=E2BG2_GA
+0x46265B99=E2BG2_GA
+
+;0x46688E45=~z~Wish you could be here, asshole.
+0x46688E45=~z~Wish you could be here, asshole.
+
+;0x4684302C=~z~ Hospitality is for weaklings.
+0x4684302C=~z~ Hospitality is for weaklings.
+
+;0x46C4E340=100
+0x46C4E340=100
+
+;0x47D0C104=SFX_PAUSE_320
+0x47D0C104=SFX_PAUSE_320
+
+;0x4841AEE6=~z~Oh shit!
+0x4841AEE6=~z~Oh shit!
+
+;0x484F6ACA=E2BG2_XD
+0x484F6ACA=E2BG2_XD
+
+;0x489303CB=~z~Okay, boy. You love fag man. You like him fuck you?
+0x489303CB=~z~Okay, boy. You love fag man. You like him fuck you?
+
+;0x48E85C55=~z~Wakey. Wakey. Where you at?
+0x48E85C55=~z~Wakey. Wakey. Where you at?
+
+;0x4A6776A6=101
+0x4A6776A6=101
+
+;0x4A8C83AE=E2BG2_MB
+0x4A8C83AE=E2BG2_MB
+
+;0x4A98B291=E2BG2_ARB
+0x4A98B291=E2BG2_ARB
+
+;0x4B4A6E95=~z~Out the chopper? Great.
+0x4B4A6E95=~z~Out the chopper? Great.
+
+;0x4B4C31C4=E2BG2_HD
+0x4B4C31C4=E2BG2_HD
+
+;0x4BE4D9C7=~z~How you do in there?
+0x4BE4D9C7=~z~How you do in there?
+
+;0x4C254836=~z~Great. Thanks.
+0x4C254836=~z~Great. Thanks.
+
+;0x4C2F632B=E2BG2_GC
+0x4C2F632B=E2BG2_GC
+
+;0x4C3A72F9=~z~Fucking rats.
+0x4C3A72F9=~z~Fucking rats.
+
+;0x4CA6256C=~z~Sounds real simple.
+0x4CA6256C=~z~Sounds real simple.
+
+;0x4CEC324B=SFX_PAUSE_440
+0x4CEC324B=SFX_PAUSE_440
+
+;0x4EA55E96=~z~Hey I don't need no watcher.
+0x4EA55E96=~z~Hey I don't need no watcher.
+
+;0x4F5CCEC9=E2BG2_UD2
+0x4F5CCEC9=E2BG2_UD2
+
+;0x51408CBE=SFX_PAUSE_2300
+0x51408CBE=SFX_PAUSE_2300
+
+;0x518D0119=E2BG2_XB
+0x518D0119=E2BG2_XB
+
+;0x5254E1F5=SFX_PAUSE_230
+0x5254E1F5=SFX_PAUSE_230
+
+;0x5260721B=~z~Perfect!
+0x5260721B=~z~Perfect!
+
+;0x52649586=E2BG2_TA
+0x52649586=E2BG2_TA
+
+;0x52E354AE=SFX_PAUSE_650
+0x52E354AE=SFX_PAUSE_650
+
+;0x535E1198=~z~Fuck, bro, in the future, can we just listen to the radio on these trips.
+0x535E1198=~z~Fuck, bro, in the future, can we just listen to the radio on these trips.
+
+;0x5381077F=~z~Fuck off.
+0x5381077F=~z~Fuck off.
+
+;0x53A5E026=010090100090010090100090010
+0x53A5E026=010090100090010090100090010
+
+;0x558A3B05=010
+0x558A3B05=010
+
+;0x56365E6E=101
+0x56365E6E=101
+
+;0x56FED4C1=E2BG2_WD
+0x56FED4C1=E2BG2_WD
+
+;0x57132BE8=SFX_PAUSE_350
+0x57132BE8=SFX_PAUSE_350
+
+;0x5826D9AF=100
+0x5826D9AF=100
+
+;0x58379B75=~z~Yeah. Helps you chill, does it? You get tense?
+0x58379B75=~z~Yeah. Helps you chill, does it? You get tense?
+
+;0x58550938=~z~So?
+0x58550938=~z~So?
+
+;0x585DF968=SFX_PAUSE_730
+0x585DF968=SFX_PAUSE_730
+
+;0x590D1CEE=~z~You ain't getting a peep outta me.
+0x590D1CEE=~z~You ain't getting a peep outta me.
+
+;0x5AC62060=~z~My lips are sealed.
+0x5AC62060=~z~My lips are sealed.
+
+;0x5B01C253=~z~I'm not scared, bro, I just don't like it that's all.
+0x5B01C253=~z~I'm not scared, bro, I just don't like it that's all.
+
+;0x5B5F5686=SFX_OVERLAP_3560
+0x5B5F5686=SFX_OVERLAP_3560
+
+;0x5C35E433=SFX_PAUSE_350
+0x5C35E433=SFX_PAUSE_350
+
+;0x5C98F140=E2BG2_BOC
+0x5C98F140=E2BG2_BOC
+
+;0x5CBAFC45=101
+0x5CBAFC45=101
+
+;0x5E76ECD9=~z~Just what I always wanted. A hotline to a fucking charmer.
+0x5E76ECD9=~z~Just what I always wanted. A hotline to a fucking charmer.
+
+;0x5E90877C=E2BG2_XE
+0x5E90877C=E2BG2_XE
+
+;0x5E9BE7DF=E2BG2_HE1
+0x5E9BE7DF=E2BG2_HE1
+
+;0x5F4FE06D=SFX_PAUSE_470
+0x5F4FE06D=SFX_PAUSE_470
+
+;0x5FDC0D16=~z~I didn't want to talk to you in first place.
+0x5FDC0D16=~z~I didn't want to talk to you in first place.
+
+;0x61281DBF=~z~When you get in building I will give instructions through headset.
+0x61281DBF=~z~When you get in building I will give instructions through headset.
+
+;0x6138C040=290
+0x6138C040=290
+
+;0x61CC04E3=~z~Mr. Ray think you do.
+0x61CC04E3=~z~Mr. Ray think you do.
+
+;0x62B07414=SFX_PAUSE_180
+0x62B07414=SFX_PAUSE_180
+
+;0x63EA806E=~z~What's that mean?
+0x63EA806E=~z~What's that mean?
+
+;0x6410904D=E2BG2_JD
+0x6410904D=E2BG2_JD
+
+;0x64A55283=092
+0x64A55283=092
+
+;0x6541E813=E2BG2_HC
+0x6541E813=E2BG2_HC
+
+;0x658C43B7=E2BG2_NB
+0x658C43B7=E2BG2_NB
+
+;0x65ADB637=~z~You need some people kills, bro. You're sorely lacking right now.
+0x65ADB637=~z~You need some people kills, bro. You're sorely lacking right now.
+
+;0x66A1FCFA=SFX_PAUSE_230
+0x66A1FCFA=SFX_PAUSE_230
+
+;0x66F5DA07=~z~What am I supposed to do anyway?
+0x66F5DA07=~z~What am I supposed to do anyway?
+
+;0x6706DA2D=~z~Exactly.
+0x6706DA2D=~z~Exactly.
+
+;0x6849A2CE=010
+0x6849A2CE=010
+
+;0x695FF9E7=~z~Where's Ashvilli?
+0x695FF9E7=~z~Where's Ashvilli?
+
+;0x6BD7479B=SFX_PAUSE_500
+0x6BD7479B=SFX_PAUSE_500
+
+;0x6CAD02C6=E2BG2_AAA
+0x6CAD02C6=E2BG2_AAA
+
+;0x6CB880A4=~z~Let's get this done.
+0x6CB880A4=~z~Let's get this done.
+
+;0x6D253271=010090100090010090100090
+0x6D253271=010090100090010090100090
+
+;0x6E5903EB=SFX_PAUSE_190
+0x6E5903EB=SFX_PAUSE_190
+
+;0x6F33C03B=SFX_PAUSE_110
+0x6F33C03B=SFX_PAUSE_110
+
+;0x6F783E0F=SFX_PAUSE_210
+0x6F783E0F=SFX_PAUSE_210
+
+;0x70305A1F=SFX_PAUSE_210
+0x70305A1F=SFX_PAUSE_210
+
+;0x70368198=SFX_PAUSE_330
+0x70368198=SFX_PAUSE_330
+
+;0x705BF997=SFX_PAUSE_330
+0x705BF997=SFX_PAUSE_330
+
+;0x70E1ECE1=~z~We must go up high above Star Junction.
+0x70E1ECE1=~z~We must go up high above Star Junction.
+
+;0x71174D0A=~z~You a fucking terrible conversationalist, T.
+0x71174D0A=~z~You a fucking terrible conversationalist, T.
+
+;0x71A68668=E2BG2_HA
+0x71A68668=E2BG2_HA
+
+;0x726E17B7=101090010
+0x726E17B7=101090010
+
+;0x738BC286=~z~You kill Ashvilli, send message and leave building. I pick you up on ground.
+0x738BC286=~z~You kill Ashvilli, send message and leave building. I pick you up on ground.
+
+;0x74A107A4=~z~Fuck this!
+0x74A107A4=~z~Fuck this!
+
+;0x753CC939=010090101
+0x753CC939=010090101
+
+;0x7665ACBD=E2BG2_IE
+0x7665ACBD=E2BG2_IE
+
+;0x766FD6FE=100090010090100090010090100010
+0x766FD6FE=100090010090100090010090100010
+
+;0x7681F124=E2BG2_AMA
+0x7681F124=E2BG2_AMA
+
+;0x7944DD8F=~z~It relax me.
+0x7944DD8F=~z~It relax me.
+
+;0x79A6B707=~z~Maybe you right. In the moment you forget everything else, but then they turn into psychos.
+0x79A6B707=~z~Maybe you right. In the moment you forget everything else, but then they turn into psychos.
+
+;0x7B1036EF=~z~You still alive?
+0x7B1036EF=~z~You still alive?
+
+;0x7B89C471=~z~Can we just not talk? Is that a problem? Can you shut the fuck up?
+0x7B89C471=~z~Can we just not talk? Is that a problem? Can you shut the fuck up?
+
+;0x7BF4332E=SFX_PAUSE_1100
+0x7BF4332E=SFX_PAUSE_1100
+
+;0x7C58D900=E2BG2_XC
+0x7C58D900=E2BG2_XC
+
+;0x7E1A18C3=SFX_PAUSE_260
+0x7E1A18C3=SFX_PAUSE_260
+
+;0x7EFB22E9=E2BG2_IA
+0x7EFB22E9=E2BG2_IA
+
+;0x7FCFCA0F=E2BG2_JE
+0x7FCFCA0F=E2BG2_JE
+
+;0x7FE2D8E2=010090100090010090100
+0x7FE2D8E2=010090100090010090100
+
+;0x8164AAA9=SFX_PAUSE_500
+0x8164AAA9=SFX_PAUSE_500
+
+;0x824F8523=100090010090100090010090100
+0x824F8523=100090010090100090010090100
+
+;0x83A69368=~z~Go in, find Ashvilli, kill him. I wait outside with other headset.
+0x83A69368=~z~Go in, find Ashvilli, kill him. I wait outside with other headset.
+
+;0x8466A4FC=E2BG2_LF
+0x8466A4FC=E2BG2_LF
+
+;0x84BEDE96=~z~Wait for me.
+0x84BEDE96=~z~Wait for me.
+
+;0x84FF751C=~z~Shit? Okay.
+0x84FF751C=~z~Shit? Okay.
+
+;0x87195DCB=E2BG2_ABA
+0x87195DCB=E2BG2_ABA
+
+;0x874C8DD2=E2BG2_LB
+0x874C8DD2=E2BG2_LB
+
+;0x87BE10EF=~z~You gotta remind me why I'm doing this.
+0x87BE10EF=~z~You gotta remind me why I'm doing this.
+
+;0x894A3EA7=~z~Whatever.
+0x894A3EA7=~z~Whatever.
+
+;0x8A7310CA=~z~It's only one guy!
+0x8A7310CA=~z~It's only one guy!
+
+;0x8ACCFF55=E2BG2_VB
+0x8ACCFF55=E2BG2_VB
+
+;0x8C6983AE=~z~Not a word...
+0x8C6983AE=~z~Not a word...
+
+;0x8F4640BF=E2BG2_UC
+0x8F4640BF=E2BG2_UC
+
+;0x8F5A915D=~z~You want I should do it? You got money?
+0x8F5A915D=~z~You want I should do it? You got money?
+
+;0x9038CCCB=E2BG2_APA
+0x9038CCCB=E2BG2_APA
+
+;0x90B2B8EC=010090100010090100090100090100090
+0x90B2B8EC=010090100010090100090100090100090
+
+;0x90E46745=~z~You done yet?
+0x90E46745=~z~You done yet?
+
+;0x9110DAD4=E2BG2_UA
+0x9110DAD4=E2BG2_UA
+
+;0x91F208A8=~z~You with us now. I thought you done with him. You kill him and take over.
+0x91F208A8=~z~You with us now. I thought you done with him. You kill him and take over.
+
+;0x933D554F=E2BG2_ASB
+0x933D554F=E2BG2_ASB
+
+;0x9360D6AE=E2BG2_YA
+0x9360D6AE=E2BG2_YA
+
+;0x93A85367=~z~Shit.
+0x93A85367=~z~Shit.
+
+;0x93B26137=SFX_PAUSE_250
+0x93B26137=SFX_PAUSE_250
+
+;0x93FAF11A=E2BG2_AIA
+0x93FAF11A=E2BG2_AIA
+
+;0x940AA1E1=SFX_PAUSE_570
+0x940AA1E1=SFX_PAUSE_570
+
+;0x9418F181=SFX_PAUSE_390
+0x9418F181=SFX_PAUSE_390
+
+;0x94806CBA=~z~Really? They not pain in ass?
+0x94806CBA=~z~Really? They not pain in ass?
+
+;0x9483F631=E2BG2_LE
+0x9483F631=E2BG2_LE
+
+;0x94BB2B86=E2BG2_AMB
+0x94BB2B86=E2BG2_AMB
+
+;0x95F55452=~z~Rampage office is in that building.
+0x95F55452=~z~Rampage office is in that building.
+
+;0x962ACCC8=SFX_OVERLAP_3820
+0x962ACCC8=SFX_OVERLAP_3820
+
+;0x964EDAA4=SFX_PAUSE_160
+0x964EDAA4=SFX_PAUSE_160
+
+;0x97561E31=~z~We nearly here. When you go I will take controls.
+0x97561E31=~z~We nearly here. When you go I will take controls.
+
+;0x98D8F8B5=SFX_PAUSE_350
+0x98D8F8B5=SFX_PAUSE_350
+
+;0x98F2E94E=010100090010090100090010090100010
+0x98F2E94E=010100090010090100090010090100010
+
+;0x98F39B13=E2BG2_FC
+0x98F39B13=E2BG2_FC
+
+;0x9909F881=E2BG2_ACA
+0x9909F881=E2BG2_ACA
+
+;0x9AA2A18D=E2BG2_MA
+0x9AA2A18D=E2BG2_MA
+
+;0x9B4A370B=~z~Take us up.
+0x9B4A370B=~z~Take us up.
+
+;0x9C39B457=~z~I thought it was the fucking cops.
+0x9C39B457=~z~I thought it was the fucking cops.
+
+;0x9C432947=SFX_PAUSE_2980
+0x9C432947=SFX_PAUSE_2980
+
+;0x9D95EA82=E2BG2_VF
+0x9D95EA82=E2BG2_VF
+
+;0x9ED6096D=SFX_PAUSE_410
+0x9ED6096D=SFX_PAUSE_410
+
+;0x9F3D297F=~z~Hey Timmy, I wouldn't have picked you for a musician, bro.
+0x9F3D297F=~z~Hey Timmy, I wouldn't have picked you for a musician, bro.
+
+;0x9F7A511B=090
+0x9F7A511B=090
+
+;0xA088CF54=E2BG2_WB
+0xA088CF54=E2BG2_WB
+
+;0xA0EC16F4=~z~Wait up, asshole.
+0xA0EC16F4=~z~Wait up, asshole.
+
+;0xA2249EE4=~z~I hear that.
+0xA2249EE4=~z~I hear that.
+
+;0xA226C062=E2BG2_LC
+0xA226C062=E2BG2_LC
+
+;0xA4109CBE=E2BG2_AJA
+0xA4109CBE=E2BG2_AJA
+
+;0xA467C39D=E2BG2_NA
+0xA467C39D=E2BG2_NA
+
+;0xA5828A92=SFX_PAUSE_240
+0xA5828A92=SFX_PAUSE_240
+
+;0xA583BA8C=~z~Okay, you soon need jump. I will fly chopper.
+0xA583BA8C=~z~Okay, you soon need jump. I will fly chopper.
+
+;0xA5EA1243=SFX_OVERLAP_1200
+0xA5EA1243=SFX_OVERLAP_1200
+
+;0xA67E0DCA=~z~No thanks to you, motherfucker.
+0xA67E0DCA=~z~No thanks to you, motherfucker.
+
+;0xA6CA7DD9=E2BG2_UF
+0xA6CA7DD9=E2BG2_UF
+
+;0xA6CF79B1=~z~Okay.
+0xA6CF79B1=~z~Okay.
+
+;0xA7F3AB55=~z~You think they would not notice chopper landing on building? You must go in silent.
+0xA7F3AB55=~z~You think they would not notice chopper landing on building? You must go in silent.
+
+;0xA80613C9=~z~What you do to relax?
+0xA80613C9=~z~What you do to relax?
+
+;0xA8889735=~z~Dima la montro
+0xA8889735=~z~Dima la montro
+
+;0xA8B59D56=SFX_PAUSE_170
+0xA8B59D56=SFX_PAUSE_170
+
+;0xA95CAE23=~z~Tell me why we can't just land on the building.
+0xA95CAE23=~z~Tell me why we can't just land on the building.
+
+;0xA993D39E=~z~Up! Up! Come on.
+0xA993D39E=~z~Up! Up! Come on.
+
+;0xA9FA1974=~z~Chill out, bro. I'm lucky to still be alive.
+0xA9FA1974=~z~Chill out, bro. I'm lucky to still be alive.
+
+;0xAABEEADA=E2BG2_KA
+0xAABEEADA=E2BG2_KA
+
+;0xAB207EA8=~z~There is building where Rampage Office is.
+0xAB207EA8=~z~There is building where Rampage Office is.
+
+;0xABC573C1=SFX_PAUSE_210
+0xABC573C1=SFX_PAUSE_210
+
+;0xABE6B7ED=~z~Hey, I know who I am. Sure, I do bad shit, but that ain't who I'm going to be forever.
+0xABE6B7ED=~z~Hey, I know who I am. Sure, I do bad shit, but that ain't who I'm going to be forever.
+
+;0xABE8305D=~z~So fucking what?
+0xABE8305D=~z~So fucking what?
+
+;0xAD43824C=E2BG2_ALA
+0xAD43824C=E2BG2_ALA
+
+;0xAE1E062B=SFX_PAUSE_230
+0xAE1E062B=SFX_PAUSE_230
+
+;0xAE5C08CA=~z~You think I want be here?
+0xAE5C08CA=~z~You think I want be here?
+
+;0xAEA25595=E2BG2_LA
+0xAEA25595=E2BG2_LA
+
+;0xAEBE70F0=E2BG2_ADA
+0xAEBE70F0=E2BG2_ADA
+
+;0xAF779111=E2BG2_AQB
+0xAF779111=E2BG2_AQB
+
+;0xB0DC2571=~z~Me? Women, bro. I'm Dominican, man.
+0xB0DC2571=~z~Me? Women, bro. I'm Dominican, man.
+
+;0xB10324FD=101090010
+0xB10324FD=101090010
+
+;0xB2099C1A=~z~Here is chopper. Drive.
+0xB2099C1A=~z~Here is chopper. Drive.
+
+;0xB26B0466=SFX_PAUSE_430
+0xB26B0466=SFX_PAUSE_430
+
+;0xB27A9FE7=E2BG2_UB
+0xB27A9FE7=E2BG2_UB
+
+;0xB28249D8=~z~When you going to kill fag man your boss?
+0xB28249D8=~z~When you going to kill fag man your boss?
+
+;0xB2A0A73F=~z~You killer like me. That what Bulgarin want you to do, so that what you do.
+0xB2A0A73F=~z~You killer like me. That what Bulgarin want you to do, so that what you do.
+
+;0xB396123B=E2BG2_JC
+0xB396123B=E2BG2_JC
+
+;0xB3F8D6D0=~z~We must pick up chopper. Go to heliport.
+0xB3F8D6D0=~z~We must pick up chopper. Go to heliport.
+
+;0xB41120BE=~z~You like to parachute?
+0xB41120BE=~z~You like to parachute?
+
+;0xB62585A6=100
+0xB62585A6=100
+
+;0xB761A904=E2BG2_BOD
+0xB761A904=E2BG2_BOD
+
+;0xB7DC5A93=~z~What's the point in learning English if you gonna be such a miserable asshole?
+0xB7DC5A93=~z~What's the point in learning English if you gonna be such a miserable asshole?
+
+;0xB7E5C7CE=~z~Ashvilli office is in MeTV Building. You no going to get in from ground so you come in from above.
+0xB7E5C7CE=~z~Ashvilli office is in MeTV Building. You no going to get in from ground so you come in from above.
+
+;0xBA639939=E2BG2_UD1
+0xBA639939=E2BG2_UD1
+
+;0xBA6D5048=~z~Perfect.
+0xBA6D5048=~z~Perfect.
+
+;0xBAADBD4A=~z~Sasha, that you?
+0xBAADBD4A=~z~Sasha, that you?
+
+;0xBB131C06=E2BG2_UE
+0xBB131C06=E2BG2_UE
+
+;0xBB2889AB=E2BG2_DA
+0xBB2889AB=E2BG2_DA
+
+;0xBB757FFE=090
+0xBB757FFE=090
+
+;0xBBA2F329=~z~How'd he get in here?
+0xBBA2F329=~z~How'd he get in here?
+
+;0xBC6EAEB1=010090101
+0xBC6EAEB1=010090101
+
+;0xBCD2543F=~z~Why the fuck did I get involved with these Russians?
+0xBCD2543F=~z~Why the fuck did I get involved with these Russians?
+
+;0xBD7E759F=SFX_PAUSE_320
+0xBD7E759F=SFX_PAUSE_320
+
+;0xBD947017=~z~You going to splat if you no pull cord soon.
+0xBD947017=~z~You going to splat if you no pull cord soon.
+
+;0xBEBE07D8=~z~Here, I have headset for you. This is so we communicate when you in building.
+0xBEBE07D8=~z~Here, I have headset for you. This is so we communicate when you in building.
+
+;0xBF5F426E=~z~You're missing out on all the fun here, Timur.
+0xBF5F426E=~z~You're missing out on all the fun here, Timur.
+
+;0xBFA9175C=SFX_PAUSE_210
+0xBFA9175C=SFX_PAUSE_210
+
+;0xC211C5FA=E2BG2_ZA
+0xC211C5FA=E2BG2_ZA
+
+;0xC2F32D18=~z~Where's the Chairman?
+0xC2F32D18=~z~Where's the Chairman?
+
+;0xC37CD04A=SFX_PAUSE_330
+0xC37CD04A=SFX_PAUSE_330
+
+;0xC68F5D41=~z~Timur, you there? What you doing?
+0xC68F5D41=~z~Timur, you there? What you doing?
+
+;0xC81EC8C5=~z~It means I don't like doing anything that could easily kill me, but sometimes you got to.
+0xC81EC8C5=~z~It means I don't like doing anything that could easily kill me, but sometimes you got to.
+
+;0xCA282086=E2BG2_WA
+0xCA282086=E2BG2_WA
+
+;0xCA2EFF38=~z~Total fucking silence...
+0xCA2EFF38=~z~Total fucking silence...
+
+;0xCAF8D7E3=~z~Sure, they open up when you shoot in their head. You put people in the ground, my friend.
+0xCAF8D7E3=~z~Sure, they open up when you shoot in their head. You put people in the ground, my friend.
+
+;0xCB1F14FF=010090100090010
+0xCB1F14FF=010090100090010
+
+;0xCCBF8F69=~z~Strap in tight, now.
+0xCCBF8F69=~z~Strap in tight, now.
+
+;0xCE3314CA=~z~Definitely not. No fucking way!
+0xCE3314CA=~z~Definitely not. No fucking way!
+
+;0xCF397E92=~z~Have heard this before.
+0xCF397E92=~z~Have heard this before.
+
+;0xD088ED24=010090101
+0xD088ED24=010090101
+
+;0xD08E0676=E2BG2_VD
+0xD08E0676=E2BG2_VD
+
+;0xD0F2BFB0=E2BG2_JA
+0xD0F2BFB0=E2BG2_JA
+
+;0xD12CC98B=~z~You shoulda taken the buyout.
+0xD12CC98B=~z~You shoulda taken the buyout.
+
+;0xD4772775=SFX_PAUSE_450
+0xD4772775=SFX_PAUSE_450
+
+;0xD52256DF=100
+0xD52256DF=100
+
+;0xD62D112D=~z~Tony?
+0xD62D112D=~z~Tony?
+
+;0xD63AEECD=E2BG2_AOB
+0xD63AEECD=E2BG2_AOB
+
+;0xD6605945=SFX_PAUSE_610
+0xD6605945=SFX_PAUSE_610
+
+;0xD662247B=SFX_PAUSE_080
+0xD662247B=SFX_PAUSE_080
+
+;0xD8D2A6B7=~z~Pull the cord already.
+0xD8D2A6B7=~z~Pull the cord already.
+
+;0xD98E2732=100
+0xD98E2732=100
+
+;0xD997A209=~z~We go to heliport in Fishmarket South.
+0xD997A209=~z~We go to heliport in Fishmarket South.
+
+;0xD9AA7554=~z~Having fun, bro. You should come join me.
+0xD9AA7554=~z~Having fun, bro. You should come join me.
+
+;0xD9BD110C=SFX_PAUSE_450
+0xD9BD110C=SFX_PAUSE_450
+
+;0xD9F8BDCA=E2BG2_OA
+0xD9F8BDCA=E2BG2_OA
+
+;0xDA842AF2=~z~"Please" would be nice.
+0xDA842AF2=~z~"Please" would be nice.
+
+;0xDA936267=010090101
+0xDA936267=010090101
+
+;0xDB9F1D08=E2BG2_AGA
+0xDB9F1D08=E2BG2_AGA
+
+;0xDE13B818=SFX_PAUSE_460
+0xDE13B818=SFX_PAUSE_460
+
+;0xDE98E463=~z~Come on, fuckers.
+0xDE98E463=~z~Come on, fuckers.
+
+;0xDEA98C68=~z~Guess someone else had better take this guy out then.
+0xDEA98C68=~z~Guess someone else had better take this guy out then.
+
+;0xDECA1DB3=~z~You're hard work, bro.
+0xDECA1DB3=~z~You're hard work, bro.
+
+;0xDFB0A7F3=100
+0xDFB0A7F3=100
+
+;0xE28AEE14=E2BG2_JB
+0xE28AEE14=E2BG2_JB
+
+;0xE2F5FEA9=~z~And you ain't worried about my family?
+0xE2F5FEA9=~z~And you ain't worried about my family?
+
+;0xE474F95B=SFX_PAUSE_300
+0xE474F95B=SFX_PAUSE_300
+
+;0xE4C57647=100090010090100090010
+0xE4C57647=100090010090100090010
+
+;0xE54963F3=E2BG2_ANA
+0xE54963F3=E2BG2_ANA
+
+;0xE5908181=E2BG2_SA
+0xE5908181=E2BG2_SA
+
+;0xE6AA97DB=~z~I'm still in here cutting through these assholes. I tell you when I'm done!
+0xE6AA97DB=~z~I'm still in here cutting through these assholes. I tell you when I'm done!
+
+;0xE72A1045=~z~Timur, bro, I like to think I can talk to people. I try to put them at ease, make 'em open up.
+0xE72A1045=~z~Timur, bro, I like to think I can talk to people. I try to put them at ease, make 'em open up.
+
+;0xE75F49F2=SFX_PAUSE_210
+0xE75F49F2=SFX_PAUSE_210
+
+;0xEA33C70A=~z~I mean it, bro. Stay the fuck away from him.
+0xEA33C70A=~z~I mean it, bro. Stay the fuck away from him.
+
+;0xEAB34941=~z~Say hello to Ashvilli for me.
+0xEAB34941=~z~Say hello to Ashvilli for me.
+
+;0xEAC9AF62=090
+0xEAC9AF62=090
+
+;0xEB2F268C=~z~I wait for you to kill this asshole.
+0xEB2F268C=~z~I wait for you to kill this asshole.
+
+;0xEC80E35D=~z~Here is a headset. I will tell you what you must be doing with it when you're inside.
+0xEC80E35D=~z~Here is a headset. I will tell you what you must be doing with it when you're inside.
+
+;0xECBDD0C7=010090100090010090100090
+0xECBDD0C7=010090100090010090100090
+
+;0xECCF28B3=~z~Shit, it don't look like I'm gonna be able to do this.
+0xECCF28B3=~z~Shit, it don't look like I'm gonna be able to do this.
+
+;0xED530CED=SFX_PAUSE_350
+0xED530CED=SFX_PAUSE_350
+
+;0xED5720D1=~z~Looking for me?
+0xED5720D1=~z~Looking for me?
+
+;0xEE51A2E5=101090010
+0xEE51A2E5=101090010
+
+;0xEE8041C3=~z~I ain't killing him, man. What gave you that impression?
+0xEE8041C3=~z~I ain't killing him, man. What gave you that impression?
+
+;0xEEF2FC83=SFX_PAUSE_310
+0xEEF2FC83=SFX_PAUSE_310
+
+;0xF02DB85D=~z~Is not so tough.
+0xF02DB85D=~z~Is not so tough.
+
+;0xF0757A1C=E2BG2_IF
+0xF0757A1C=E2BG2_IF
+
+;0xF1F58B6C=E2BG2_AEA
+0xF1F58B6C=E2BG2_AEA
+
+;0xF1FAD3D9=E2BG2_HE2
+0xF1FAD3D9=E2BG2_HE2
+
+;0xF34027CD=~z~Hey I'm sorry to break up your party, man. You looked like you were having fun.
+0xF34027CD=~z~Hey I'm sorry to break up your party, man. You looked like you were having fun.
+
+;0xF39BC04C=SFX_PAUSE_390
+0xF39BC04C=SFX_PAUSE_390
+
+;0xF54087A8=~z~How you manage to miss that big building?
+0xF54087A8=~z~How you manage to miss that big building?
+
+;0xF55C2CA9=~z~Your job is kill Marki Ashvilli for Ray Bulgarin.
+0xF55C2CA9=~z~Your job is kill Marki Ashvilli for Ray Bulgarin.
+
+;0xF68DBFB7=100
+0xF68DBFB7=100
+
+;0xF7299574=~z~Marki! Where the fuck are you, man?
+0xF7299574=~z~Marki! Where the fuck are you, man?
+
+;0xF774E89B=E2BG2_VA
+0xF774E89B=E2BG2_VA
+
+;0xF8575B81=E2BG2_FB
+0xF8575B81=E2BG2_FB
+
+;0xF89D49C6=~z~Fuck off.
+0xF89D49C6=~z~Fuck off.
+
+;0xF97049D9=292
+0xF97049D9=292
+
+;0xF9C51429=E2BG2_KD
+0xF9C51429=E2BG2_KD
+
+;0xFA93495D=290
+0xFA93495D=290
+
+;0xFAA1DA16=~z~Yes. When you kill him?
+0xFAA1DA16=~z~Yes. When you kill him?
+
+;0xFCE110A7=E2BG2_XA
+0xFCE110A7=E2BG2_XA
+
+;0xFCF7409F=100
+0xFCF7409F=100
+
+;0xFD09EDEE=~z~Have fun in there.
+0xFD09EDEE=~z~Have fun in there.
+
+;0xFDD71AFD=101090010
+0xFDD71AFD=101090010
+
+;0xFDEDCB57=E2BG2_LD
+0xFDEDCB57=E2BG2_LD
+
+;0xFFBC44C6=E2BG2_GD
+0xFFBC44C6=E2BG2_GD
+

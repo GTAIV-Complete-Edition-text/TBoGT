@@ -1,0 +1,1114 @@
+﻿[E2T9BA]
+;0x003EB13D=~z~Does it really matter if there's another thing them guys are pissed at us for? I'm sorry, T. Later, bro.
+0x003EB13D=~z~Does it really matter if there's another thing them guys are pissed at us for? I'm sorry, T. Later, bro.
+
+;0x0150AE86=~z~There was that one marble thing you bought.
+0x0150AE86=~z~There was that one marble thing you bought.
+
+;0x01529053=SFX_PAUSE_300
+0x01529053=SFX_PAUSE_300
+
+;0x01AB6119=E2T9_AXD
+0x01AB6119=E2T9_AXD
+
+;0x02A6DD39=E2T9B_AVA
+0x02A6DD39=E2T9B_AVA
+
+;0x02B187A6=SFX_PAUSE_170
+0x02B187A6=SFX_PAUSE_170
+
+;0x03AF4CB9=~z~There he is.
+0x03AF4CB9=~z~There he is.
+
+;0x0422E80F=E2T9_AKH
+0x0422E80F=E2T9_AKH
+
+;0x04291B65=SFX_PAUSE_190
+0x04291B65=SFX_PAUSE_190
+
+;0x0479E722=~z~ It's only got two exits, T. He should come right out over by where we picked up the chopper.
+0x0479E722=~z~ It's only got two exits, T. He should come right out over by where we picked up the chopper.
+
+;0x04AB3AFF=SFX_PAUSE_290
+0x04AB3AFF=SFX_PAUSE_290
+
+;0x05B28851=E2T9_AIA
+0x05B28851=E2T9_AIA
+
+;0x06EE2460=E2T9_AYA
+0x06EE2460=E2T9_AYA
+
+;0x0868179F=SFX_PAUSE_240
+0x0868179F=SFX_PAUSE_240
+
+;0x099A8E99=E2T9_AYE
+0x099A8E99=E2T9_AYE
+
+;0x09D6916D=E2T9_AYD
+0x09D6916D=E2T9_AYD
+
+;0x0A7B97AD=E2T9_APC
+0x0A7B97AD=E2T9_APC
+
+;0x0A89E2B3=~z~Okay, man, let me know if they find Gracie.
+0x0A89E2B3=~z~Okay, man, let me know if they find Gracie.
+
+;0x0AC2EF5E=SFX_PAUSE_140
+0x0AC2EF5E=SFX_PAUSE_140
+
+;0x0B13F1AA=SFX_PAUSE_260
+0x0B13F1AA=SFX_PAUSE_260
+
+;0x0B58E7E9=~z~You're right. You're right. You're not the one with the problem. I am.
+0x0B58E7E9=~z~You're right. You're right. You're not the one with the problem. I am.
+
+;0x0BC17004=E2T9B_CAA
+0x0BC17004=E2T9B_CAA
+
+;0x0CCC0081=~z~Is he going to take us somewhere or what?
+0x0CCC0081=~z~Is he going to take us somewhere or what?
+
+;0x0DCB744F=E2T9_AKE
+0x0DCB744F=E2T9_AKE
+
+;0x0E0B645B=E2T9_AGD
+0x0E0B645B=E2T9_AGD
+
+;0x0E9732BB=~z~Where these guys from? Other than Dukes, I mean.
+0x0E9732BB=~z~Where these guys from? Other than Dukes, I mean.
+
+;0x0EF2BFD2=E2T9_AJD
+0x0EF2BFD2=E2T9_AJD
+
+;0x0F8BD5C3=~z~She's a tough princess.
+0x0F8BD5C3=~z~She's a tough princess.
+
+;0x0FFE1A0C=~z~So that's it.
+0x0FFE1A0C=~z~So that's it.
+
+;0x103CD5D7=E2T9_ALD1
+0x103CD5D7=E2T9_ALD1
+
+;0x10C99184=E2T9_BEC
+0x10C99184=E2T9_BEC
+
+;0x10CB27C5=E2T9_AOB
+0x10CB27C5=E2T9_AOB
+
+;0x12A8EE31=E2T9_BCA
+0x12A8EE31=E2T9_BCA
+
+;0x135F4BF8=~z~How's he meant to take us to Gracie if he's dead?
+0x135F4BF8=~z~How's he meant to take us to Gracie if he's dead?
+
+;0x13727B3B=SFX_PAUSE_260
+0x13727B3B=SFX_PAUSE_260
+
+;0x138D212A=~z~What do you mean?
+0x138D212A=~z~What do you mean?
+
+;0x13BA85F0=100090010100090010
+0x13BA85F0=100090010100090010
+
+;0x175E4FEB=~z~Shit. Rocco just forwarded me a photo of Gracie. They've gagged her.
+0x175E4FEB=~z~Shit. Rocco just forwarded me a photo of Gracie. They've gagged her.
+
+;0x1772FEEC=~z~He's going in the parking lot. What's going on?
+0x1772FEEC=~z~He's going in the parking lot. What's going on?
+
+;0x17AFB302=E2T9_AOC
+0x17AFB302=E2T9_AOC
+
+;0x18A040E3=~z~Look! He's stopping. That must be where they're keeping Gracie.
+0x18A040E3=~z~Look! He's stopping. That must be where they're keeping Gracie.
+
+;0x18BC0A92=SFX_PAUSE_260
+0x18BC0A92=SFX_PAUSE_260
+
+;0x1A0C06FA=E2T9_ASA
+0x1A0C06FA=E2T9_ASA
+
+;0x1CBF0E69=~z~If it wasn't for me, you'd be selling dime bags on a street corner. I made you.
+0x1CBF0E69=~z~If it wasn't for me, you'd be selling dime bags on a street corner. I made you.
+
+;0x1CD9F592=SFX_PAUSE_130
+0x1CD9F592=SFX_PAUSE_130
+
+;0x1D50714C=~z~She's a princess!
+0x1D50714C=~z~She's a princess!
+
+;0x1D7A0C2B=~z~T- Tony, what the - what the fuck are you doing?
+0x1D7A0C2B=~z~T- Tony, what the - what the fuck are you doing?
+
+;0x1DA99924=100
+0x1DA99924=100
+
+;0x1E7E121E=E2T9_ASB
+0x1E7E121E=E2T9_ASB
+
+;0x1E8123C4=100090010090100090010090100
+0x1E8123C4=100090010090100090010090100
+
+;0x1E83CEF9=E2T9_APD
+0x1E83CEF9=E2T9_APD
+
+;0x1E88CCD0=~z~It's somewhere, at least.
+0x1E88CCD0=~z~It's somewhere, at least.
+
+;0x1F352246=E2T9_AKD
+0x1F352246=E2T9_AKD
+
+;0x1F85EAF0=~z~ Gay guys love that shit, you cliché loving moron.
+0x1F85EAF0=~z~ Gay guys love that shit, you cliché loving moron.
+
+;0x207B8A96=~z~You work in the business, Lou. You should know that club promoters are the first to master all new forms of communication.
+0x207B8A96=~z~You work in the business, Lou. You should know that club promoters are the first to master all new forms of communication.
+
+;0x2183F3C7=~z~The Ancelotti chopper. Shit, Lou, the old man loved that as much as his daughter.
+0x2183F3C7=~z~The Ancelotti chopper. Shit, Lou, the old man loved that as much as his daughter.
+
+;0x23DEAAE2=E2T9_AKF1
+0x23DEAAE2=E2T9_AKF1
+
+;0x253E9075=E2T9_AGE
+0x253E9075=E2T9_AGE
+
+;0x255C8164=~z~No, you didn't!
+0x255C8164=~z~No, you didn't!
+
+;0x2578D29A=~z~Down with the kids.
+0x2578D29A=~z~Down with the kids.
+
+;0x27B0244B=~z~Yeah, and she and Evan made you into a junkie. Okay?
+0x27B0244B=~z~Yeah, and she and Evan made you into a junkie. Okay?
+
+;0x283695EB=~z~Look. He's just there.
+0x283695EB=~z~Look. He's just there.
+
+;0x296AA92F=~z~What's he been doing driving anywhere? We give him a moment and call it in if it feels weird.
+0x296AA92F=~z~What's he been doing driving anywhere? We give him a moment and call it in if it feels weird.
+
+;0x29C36A1E=~z~and the fact that we got his baby girl kidnapped in the first place.
+0x29C36A1E=~z~and the fact that we got his baby girl kidnapped in the first place.
+
+;0x2AFABA34=E2T9_AOA
+0x2AFABA34=E2T9_AOA
+
+;0x2B408045=E2T9_AKB
+0x2B408045=E2T9_AKB
+
+;0x2B410292=E2T9_AKA
+0x2B410292=E2T9_AKA
+
+;0x2B88D6D7=~z~If he sees us we're fucked. What are you doing?
+0x2B88D6D7=~z~If he sees us we're fucked. What are you doing?
+
+;0x2C0F84D9=~z~You need some rest, T.
+0x2C0F84D9=~z~You need some rest, T.
+
+;0x2CF2E794=E2T9_AUA
+0x2CF2E794=E2T9_AUA
+
+;0x2D592ECE=~z~Okay, boss.
+0x2D592ECE=~z~Okay, boss.
+
+;0x2DA608E5=SFX_PAUSE_200
+0x2DA608E5=SFX_PAUSE_200
+
+;0x2EA1DE59=~z~We stop that fuck's car, we rig his balls to the battery. By the time he smells them cooking we'll know exactly where Gracie's at.
+0x2EA1DE59=~z~We stop that fuck's car, we rig his balls to the battery. By the time he smells them cooking we'll know exactly where Gracie's at.
+
+;0x2EB5AEA2=~z~Oh yeah, fuck you Luis!
+0x2EB5AEA2=~z~Oh yeah, fuck you Luis!
+
+;0x2F214703=E2T9_AQA
+0x2F214703=E2T9_AQA
+
+;0x2F46CC4A=SFX_PAUSE_260
+0x2F46CC4A=SFX_PAUSE_260
+
+;0x3036BF0E=SFX_PAUSE_160
+0x3036BF0E=SFX_PAUSE_160
+
+;0x308B47FF=~z~I don't know. You want to give him a call and ask him? This was your plan, boss.
+0x308B47FF=~z~I don't know. You want to give him a call and ask him? This was your plan, boss.
+
+;0x30DBED41=E2T9_AUB
+0x30DBED41=E2T9_AUB
+
+;0x32568E19=~z~How the fuck do I know? I guess greed is a powerful motivator.
+0x32568E19=~z~How the fuck do I know? I guess greed is a powerful motivator.
+
+;0x3365D696=~z~I - I don't know!
+0x3365D696=~z~I - I don't know!
+
+;0x35186274=SFX_PAUSE_140
+0x35186274=SFX_PAUSE_140
+
+;0x35440A6F=E2T9_AWD
+0x35440A6F=E2T9_AWD
+
+;0x368075CC=E2T9_AIF2
+0x368075CC=E2T9_AIF2
+
+;0x37808CBC=E2T9_AWC
+0x37808CBC=E2T9_AWC
+
+;0x37AA9A15=~z~There! He's coming out of the tunnel after all.
+0x37AA9A15=~z~There! He's coming out of the tunnel after all.
+
+;0x3832DCA0=~z~Gracie's dead if we lose him. Shit.
+0x3832DCA0=~z~Gracie's dead if we lose him. Shit.
+
+;0x38FE96F9=E2T9_AJC
+0x38FE96F9=E2T9_AJC
+
+;0x3935736F=100090010010090010090100090010090010
+0x3935736F=100090010010090010090100090010090010
+
+;0x39B7C0EC=E2T9_ARA
+0x39B7C0EC=E2T9_ARA
+
+;0x3A21D437=~z~Why? Because people call me "Gay" Tony?
+0x3A21D437=~z~Why? Because people call me "Gay" Tony?
+
+;0x3A33F5DA=100090010
+0x3A33F5DA=100090010
+
+;0x3AA2BA32=E2T9B_AHA
+0x3AA2BA32=E2T9B_AHA
+
+;0x3B21C645=~z~I don't know. Shit.
+0x3B21C645=~z~I don't know. Shit.
+
+;0x3B34F549=SFX_PAUSE_180
+0x3B34F549=SFX_PAUSE_180
+
+;0x3C46AF38=~z~That's not true. I like her.
+0x3C46AF38=~z~That's not true. I like her.
+
+;0x3C5CF5BD=~z~Like the fact that he could get he could get his ankles around his ears and ate a lot of mung beans.
+0x3C5CF5BD=~z~Like the fact that he could get he could get his ankles around his ears and ate a lot of mung beans.
+
+;0x3D64A589=~z~I see him. He's crossed over to Alderney. He's coming out the Booth right now.
+0x3D64A589=~z~I see him. He's crossed over to Alderney. He's coming out the Booth right now.
+
+;0x3DB542DF=~z~Let's get this bird on the ground, Lou.
+0x3DB542DF=~z~Let's get this bird on the ground, Lou.
+
+;0x3DC2FB4B=~z~Lou! Lou, what the fuck. He'll see us if we get any closer.
+0x3DC2FB4B=~z~Lou! Lou, what the fuck. He'll see us if we get any closer.
+
+;0x3F772535=~z~Come on, you dumb Dukes fuck. Take us to her!
+0x3F772535=~z~Come on, you dumb Dukes fuck. Take us to her!
+
+;0x400CEC50=~z~Where's he gone? Where the fuck has he gone?
+0x400CEC50=~z~Where's he gone? Where the fuck has he gone?
+
+;0x411DBF8A=E2T9_AIC
+0x411DBF8A=E2T9_AIC
+
+;0x4190D45B=E2T9_BHA
+0x4190D45B=E2T9_BHA
+
+;0x419652FF=~z~Okay, okay, I'm sorry. I'm sorry. I just - I just couldn't take it anymore.
+0x419652FF=~z~Okay, okay, I'm sorry. I'm sorry. I just - I just couldn't take it anymore.
+
+;0x421D8550=~z~Great. What is it?
+0x421D8550=~z~Great. What is it?
+
+;0x42CF9D31=E2T9_AUD
+0x42CF9D31=E2T9_AUD
+
+;0x42EFB3AB=E2T9_BDB2
+0x42EFB3AB=E2T9_BDB2
+
+;0x45FFAE71=E2T9_AMA
+0x45FFAE71=E2T9_AMA
+
+;0x4617FBFA=~z~Fuck Evan. Who's got Gracie?
+0x4617FBFA=~z~Fuck Evan. Who's got Gracie?
+
+;0x4731D964=E2T9_ARB
+0x4731D964=E2T9_ARB
+
+;0x473A7959=E2T9B_ATA
+0x473A7959=E2T9B_ATA
+
+;0x4762A455=~z~Irish like those guys who robbed our bank? They could be the same ones that held me hostage.
+0x4762A455=~z~Irish like those guys who robbed our bank? They could be the same ones that held me hostage.
+
+;0x476BBB91=~z~But we didn't get her kidnapped.
+0x476BBB91=~z~But we didn't get her kidnapped.
+
+;0x48343C50=~z~Yeah. Giant, veiney, penis-shaped art. At least you made a profit on it. Those were the days.
+0x48343C50=~z~Yeah. Giant, veiney, penis-shaped art. At least you made a profit on it. Those were the days.
+
+;0x487F9229=E2T9_AMB
+0x487F9229=E2T9_AMB
+
+;0x490A48BF=~z~You never liked her. You never did. You never liked anyone.
+0x490A48BF=~z~You never liked her. You never did. You never liked anyone.
+
+;0x4A04260A=SFX_PAUSE_280
+0x4A04260A=SFX_PAUSE_280
+
+;0x4B10246F=E2T9_ANA
+0x4B10246F=E2T9_ANA
+
+;0x4BBC6B94=~z~You think I want you to kill us? Go over and meet him where he comes out. Over by where we picked this chopper up.
+0x4BBC6B94=~z~You think I want you to kill us? Go over and meet him where he comes out. Over by where we picked this chopper up.
+
+;0x4C14C4E3=~z~Don't you worry, I'm taking a spa day the first opportunity I get.
+0x4C14C4E3=~z~Don't you worry, I'm taking a spa day the first opportunity I get.
+
+;0x4C80EDEC=~z~Aw, and what makes you so good, huh?
+0x4C80EDEC=~z~Aw, and what makes you so good, huh?
+
+;0x4CBF684C=E2T9_BHB
+0x4CBF684C=E2T9_BHB
+
+;0x4F9FE6B4=~z~Let's head back to the helipad.
+0x4F9FE6B4=~z~Let's head back to the helipad.
+
+;0x4FF3E293=~z~Unfortunately, I'm a minority too. So fuck you.
+0x4FF3E293=~z~Unfortunately, I'm a minority too. So fuck you.
+
+;0x50D12167=~z~You're getting too close. Pull back.
+0x50D12167=~z~You're getting too close. Pull back.
+
+;0x50EDF312=~z~Come on Tony, chill out.
+0x50EDF312=~z~Come on Tony, chill out.
+
+;0x515B2744=SFX_PAUSE_220
+0x515B2744=SFX_PAUSE_220
+
+;0x518F32C0=~z~What street is that?
+0x518F32C0=~z~What street is that?
+
+;0x52A22CAC=~z~You gonna call him.
+0x52A22CAC=~z~You gonna call him.
+
+;0x52F3EFC8=SFX_PAUSE_200
+0x52F3EFC8=SFX_PAUSE_200
+
+;0x539FF712=~z~What the fuck is wrong with you, you dumb prick? Huh? Get up. Get up, so I can kill you myself. Get up!
+0x539FF712=~z~What the fuck is wrong with you, you dumb prick? Huh? Get up. Get up, so I can kill you myself. Get up!
+
+;0x548A954B=~z~Where's that red piece of shit, Lou. We're losing him.
+0x548A954B=~z~Where's that red piece of shit, Lou. We're losing him.
+
+;0x54A467EF=SFX_PAUSE_300
+0x54A467EF=SFX_PAUSE_300
+
+;0x54DB8014=~z~Okay. Okay. Why does everything feel weird to me?
+0x54DB8014=~z~Okay. Okay. Why does everything feel weird to me?
+
+;0x5591252E=~z~but we need to get the fuck out of here. Call me, okay?
+0x5591252E=~z~but we need to get the fuck out of here. Call me, okay?
+
+;0x56139317=~z~What? Are you just going to follow orders blindly?
+0x56139317=~z~What? Are you just going to follow orders blindly?
+
+;0x56A3C8C6=010090100090010090010090100100100090010090100090010
+0x56A3C8C6=010090100090010090010090100100100090010090100090010
+
+;0x592D7593=SFX_PAUSE_240
+0x592D7593=SFX_PAUSE_240
+
+;0x59D9606C=~z~Shit, you're right. That fucker told me it was my fault so many times that I'm starting to believe it.
+0x59D9606C=~z~Shit, you're right. That fucker told me it was my fault so many times that I'm starting to believe it.
+
+;0x59EBEA82=~z~Yeah, they'll have you, me and a mob family to deal with.
+0x59EBEA82=~z~Yeah, they'll have you, me and a mob family to deal with.
+
+;0x59F41ACE=E2T9_BFA
+0x59F41ACE=E2T9_BFA
+
+;0x5CCFD482=100090010090100090010090100090100090100
+0x5CCFD482=100090010090100090010090100090100090100
+
+;0x5CF2B595=E2T9_ARD
+0x5CF2B595=E2T9_ARD
+
+;0x5D217FE1=E2T9_AGF
+0x5D217FE1=E2T9_AGF
+
+;0x5D483BF2=E2T9_AOD
+0x5D483BF2=E2T9_AOD
+
+;0x5E968D2E=~z~She could be in the trunk of a car in there.
+0x5E968D2E=~z~She could be in the trunk of a car in there.
+
+;0x5EC49D7C=~z~Actually, wait, I can see you driving a pink car, T.
+0x5EC49D7C=~z~Actually, wait, I can see you driving a pink car, T.
+
+;0x5F7CA6D7=SFX_PAUSE_310
+0x5F7CA6D7=SFX_PAUSE_310
+
+;0x5FABFD36=SFX_PAUSE_220
+0x5FABFD36=SFX_PAUSE_220
+
+;0x619C0A73=SFX_PAUSE_330
+0x619C0A73=SFX_PAUSE_330
+
+;0x61B09837=~z~Okay, but she made you into a useless old queen, too whacked out on blow and pills to notice his business is going to shit.
+0x61B09837=~z~Okay, but she made you into a useless old queen, too whacked out on blow and pills to notice his business is going to shit.
+
+;0x6206AEBA=100090010100090010090100090010010
+0x6206AEBA=100090010100090010090100090010010
+
+;0x6270BF71=SFX_PAUSE_180
+0x6270BF71=SFX_PAUSE_180
+
+;0x629792D3=E2T9B_AHE
+0x629792D3=E2T9B_AHE
+
+;0x62DEC582=~z~Don't get so close. He'll know we're on him.
+0x62DEC582=~z~Don't get so close. He'll know we're on him.
+
+;0x63FAE7FE=SFX_PAUSE_120
+0x63FAE7FE=SFX_PAUSE_120
+
+;0x646CF88D=100090010010
+0x646CF88D=100090010010
+
+;0x6586AB0C=~z~She should have got suspicious the second anyone expressed an interest in that thing.
+0x6586AB0C=~z~She should have got suspicious the second anyone expressed an interest in that thing.
+
+;0x664FB8D5=~z~What the fuck did I pay for those lessons for. Don't lose him.
+0x664FB8D5=~z~What the fuck did I pay for those lessons for. Don't lose him.
+
+;0x66D3798E=~z~That was art!
+0x66D3798E=~z~That was art!
+
+;0x66EF1DB4=~z~Get up you old bastard. Huh? Come on. Let's go find Gracie.
+0x66EF1DB4=~z~Get up you old bastard. Huh? Come on. Let's go find Gracie.
+
+;0x69CF692E=~z~They're an Irish operation headed by this maniac called Gerald McReary. He's doing time at Alderney State.
+0x69CF692E=~z~They're an Irish operation headed by this maniac called Gerald McReary. He's doing time at Alderney State.
+
+;0x69E87E90=~z~Look! There he is. He's coming out of the tunnel on the Alderney side.
+0x69E87E90=~z~Look! There he is. He's coming out of the tunnel on the Alderney side.
+
+;0x6A2494B5=E2T9B_AHC
+0x6A2494B5=E2T9B_AHC
+
+;0x6A3CC43F=~z~What are you talking about, bro? Where is she?
+0x6A3CC43F=~z~What are you talking about, bro? Where is she?
+
+;0x6B8A7C91=E2T9_ALA
+0x6B8A7C91=E2T9_ALA
+
+;0x6E1078FF=SFX_PAUSE_360
+0x6E1078FF=SFX_PAUSE_360
+
+;0x6FFA56F2=E2T9_BFB
+0x6FFA56F2=E2T9_BFB
+
+;0x7067EEEB=~z~If he's getting wise it's because you're a tight ass.
+0x7067EEEB=~z~If he's getting wise it's because you're a tight ass.
+
+;0x7083B5DD=~z~Ah, here we go, huh, here we fucking go, huh? Oh, I see it in your eyes. You're embarrassed of me.
+0x7083B5DD=~z~Ah, here we go, huh, here we fucking go, huh? Oh, I see it in your eyes. You're embarrassed of me.
+
+;0x71097E37=100090010010
+0x71097E37=100090010010
+
+;0x71F79AA7=~z~Shit. I just got forwarded a photo of Gracie from the kidnappers. The girl does not look good.
+0x71F79AA7=~z~Shit. I just got forwarded a photo of Gracie from the kidnappers. The girl does not look good.
+
+;0x72CAB908=E2T9_AGC
+0x72CAB908=E2T9_AGC
+
+;0x7337AC87=SFX_PAUSE_260
+0x7337AC87=SFX_PAUSE_260
+
+;0x7459E5B6=~z~That image is gonna stick with me. Jesus.
+0x7459E5B6=~z~That image is gonna stick with me. Jesus.
+
+;0x77071454=~z~Maybe if we concentrate hard enough we can will him to go there.
+0x77071454=~z~Maybe if we concentrate hard enough we can will him to go there.
+
+;0x7721BE19=~z~Come on, get up.
+0x7721BE19=~z~Come on, get up.
+
+;0x772C432E=~z~I mean, she's not a bad person, okay? She's not a murdering greedy psychopath, like me.
+0x772C432E=~z~I mean, she's not a bad person, okay? She's not a murdering greedy psychopath, like me.
+
+;0x7780171F=E2T9_BDB1
+0x7780171F=E2T9_BDB1
+
+;0x77DEA3DE=E2T9_AYF
+0x77DEA3DE=E2T9_AYF
+
+;0x77F6CA46=E2T9_AXC
+0x77F6CA46=E2T9_AXC
+
+;0x783E9F48=E2T9_BDA
+0x783E9F48=E2T9_BDA
+
+;0x7868C72E=~z~Because you owe money to half the city and the other half wants you dead. Paranoia's advised in our situation.
+0x7868C72E=~z~Because you owe money to half the city and the other half wants you dead. Paranoia's advised in our situation.
+
+;0x79985A20=~z~I made you a business partner so you'd question things, not just trudge along after me like some drone.
+0x79985A20=~z~I made you a business partner so you'd question things, not just trudge along after me like some drone.
+
+;0x7AC1FE9E=E2T9_AYC
+0x7AC1FE9E=E2T9_AYC
+
+;0x7B318604=~z~I don't know Alderney well, bro, but I think the big one's Sacramento. Call it in.
+0x7B318604=~z~I don't know Alderney well, bro, but I think the big one's Sacramento. Call it in.
+
+;0x7D0BE9DD=~z~Oh man, Luis, Gracie. Luis, Gracie!
+0x7D0BE9DD=~z~Oh man, Luis, Gracie. Luis, Gracie!
+
+;0x7E488B8D=E2T9_APB
+0x7E488B8D=E2T9_APB
+
+;0x7EBB416A=SFX_PAUSE_320
+0x7EBB416A=SFX_PAUSE_320
+
+;0x7F0228EF=SFX_PAUSE_260
+0x7F0228EF=SFX_PAUSE_260
+
+;0x7FE2B3C9=E2T9_ALD2
+0x7FE2B3C9=E2T9_ALD2
+
+;0x80CA5D61=~z~That guy could be anywhere now. Poor little Gracie.
+0x80CA5D61=~z~That guy could be anywhere now. Poor little Gracie.
+
+;0x82395473=~z~She could be in the trunk of the red piece of shit we're following.
+0x82395473=~z~She could be in the trunk of the red piece of shit we're following.
+
+;0x82CC71CE=~z~Don't lose him, Lou. Where is he?
+0x82CC71CE=~z~Don't lose him, Lou. Where is he?
+
+;0x82DBFC54=100090010100090010
+0x82DBFC54=100090010100090010
+
+;0x82E20588=~z~Shit, you're going to spook him.
+0x82E20588=~z~Shit, you're going to spook him.
+
+;0x831549AE=E2T9_ARE
+0x831549AE=E2T9_ARE
+
+;0x84011045=010090100090010100090010090100
+0x84011045=010090100090010100090010090100
+
+;0x84040CEC=~z~Anyway, bro, I'll see you soon.
+0x84040CEC=~z~Anyway, bro, I'll see you soon.
+
+;0x8794249B=~z~What would they need a mob bosses daughter for when they got all the bank's money?
+0x8794249B=~z~What would they need a mob bosses daughter for when they got all the bank's money?
+
+;0x88FE9551=SFX_PAUSE_250
+0x88FE9551=SFX_PAUSE_250
+
+;0x89732D70=SFX_PAUSE_230
+0x89732D70=SFX_PAUSE_230
+
+;0x89C16387=~z~They would have checked that. Let's see if he comes out.
+0x89C16387=~z~They would have checked that. Let's see if he comes out.
+
+;0x89F65D7E=~z~Always find a new way of profiting.
+0x89F65D7E=~z~Always find a new way of profiting.
+
+;0x8A15953F=~z~Leave the torture to professionals, people in government.
+0x8A15953F=~z~Leave the torture to professionals, people in government.
+
+;0x8A6B74D5=~z~Something to do with that pink piece of shit car she had. They think the guy pretended he wanted to buy it.
+0x8A6B74D5=~z~Something to do with that pink piece of shit car she had. They think the guy pretended he wanted to buy it.
+
+;0x8A6BE4AD=~z~Jesus Christ.
+0x8A6BE4AD=~z~Jesus Christ.
+
+;0x8AEA6827=E2T9_AGB
+0x8AEA6827=E2T9_AGB
+
+;0x8B93CDDF=~z~Hey, who knows. Bound and gagged might be the look for guido sluts next season.
+0x8B93CDDF=~z~Hey, who knows. Bound and gagged might be the look for guido sluts next season.
+
+;0x8CAA935F=~z~Okay. I've sent them the location.
+0x8CAA935F=~z~Okay. I've sent them the location.
+
+;0x8CB3CBE2=SFX_PAUSE_330
+0x8CB3CBE2=SFX_PAUSE_330
+
+;0x8CE4A7E4=~z~You being anti-semitic now? Nice, next you'll call me a fag.
+0x8CE4A7E4=~z~You being anti-semitic now? Nice, next you'll call me a fag.
+
+;0x8DAC9B63=E2T9_AID
+0x8DAC9B63=E2T9_AID
+
+;0x8E06F266=~z~Where's he going? What's he doing in the parking lot?
+0x8E06F266=~z~Where's he going? What's he doing in the parking lot?
+
+;0x8E498C58=~z~I got here as soon as I could, bro.
+0x8E498C58=~z~I got here as soon as I could, bro.
+
+;0x9152D210=SFX_PAUSE_370
+0x9152D210=SFX_PAUSE_370
+
+;0x91D0D37D=SFX_PAUSE_190
+0x91D0D37D=SFX_PAUSE_190
+
+;0x91DF1B9C=100
+0x91DF1B9C=100
+
+;0x923FA963=~z~We are talking about the same Gracie ain't we. Because girl I knew was a foul mouthed whore.
+0x923FA963=~z~We are talking about the same Gracie ain't we. Because girl I knew was a foul mouthed whore.
+
+;0x92E44B5C=E2T9_AWB
+0x92E44B5C=E2T9_AWB
+
+;0x9316D4FD=E2T9_ALB
+0x9316D4FD=E2T9_ALB
+
+;0x9393CD6D=~z~I thought you got over that spiritual shit when you stopped dating the yoga instructor.
+0x9393CD6D=~z~I thought you got over that spiritual shit when you stopped dating the yoga instructor.
+
+;0x93F67CC2=~z~She's all heart...you know, if you can get past the accent.
+0x93F67CC2=~z~She's all heart...you know, if you can get past the accent.
+
+;0x94253EC0=100090010090100090010
+0x94253EC0=100090010090100090010
+
+;0x949B0FA1=E2T9_AKG
+0x949B0FA1=E2T9_AKG
+
+;0x94D08BBC=E2T9_AKI
+0x94D08BBC=E2T9_AKI
+
+;0x94DC6E97=SFX_PAUSE_350
+0x94DC6E97=SFX_PAUSE_350
+
+;0x95203FCF=~z~Stranger things have happened.
+0x95203FCF=~z~Stranger things have happened.
+
+;0x9524BF19=100090010090010
+0x9524BF19=100090010090010
+
+;0x95E4EFF0=SFX_PAUSE_320
+0x95E4EFF0=SFX_PAUSE_320
+
+;0x9618832D=E2T9B_BBA
+0x9618832D=E2T9B_BBA
+
+;0x9689029E=E2T9_AZB
+0x9689029E=E2T9_AZB
+
+;0x96B8E41F=~z~She's my favorite coke whore.
+0x96B8E41F=~z~She's my favorite coke whore.
+
+;0x9733CCDA=SFX_PAUSE_350
+0x9733CCDA=SFX_PAUSE_350
+
+;0x9782A98A=E2T9B_BIA
+0x9782A98A=E2T9B_BIA
+
+;0x978A8411=E2T9_AZD
+0x978A8411=E2T9_AZD
+
+;0x97BCB724=~z~What?
+0x97BCB724=~z~What?
+
+;0x980FC6B5=~z~Then the only thing we've got to worry about with the Ancellotti's is the money we owe them
+0x980FC6B5=~z~Then the only thing we've got to worry about with the Ancellotti's is the money we owe them
+
+;0x9831905A=010090100090010090100090010
+0x9831905A=010090100090010090100090010
+
+;0x99002BDE=SFX_PAUSE_200
+0x99002BDE=SFX_PAUSE_200
+
+;0x99375505=E2T9_AJB
+0x99375505=E2T9_AJB
+
+;0x99B57526=SFX_PAUSE_290
+0x99B57526=SFX_PAUSE_290
+
+;0x9ADCE130=SFX_PAUSE_170
+0x9ADCE130=SFX_PAUSE_170
+
+;0x9B6E79B8=E2T9B_AHD
+0x9B6E79B8=E2T9B_AHD
+
+;0x9BB7B883=~z~This a great bit of improvisation, Lou. But I think we should just follow him.
+0x9BB7B883=~z~This a great bit of improvisation, Lou. But I think we should just follow him.
+
+;0x9BD2766A=E2T9_AGG
+0x9BD2766A=E2T9_AGG
+
+;0x9CA20919=~z~Okay?
+0x9CA20919=~z~Okay?
+
+;0x9DD33464=E2T9_AYB
+0x9DD33464=E2T9_AYB
+
+;0x9E369142=~z~And you're not so smart, you dumb junkie fuck.
+0x9E369142=~z~And you're not so smart, you dumb junkie fuck.
+
+;0x9EB33771=~z~Shit. They're onto us. They're going to fucking kill her.
+0x9EB33771=~z~Shit. They're onto us. They're going to fucking kill her.
+
+;0x9F3B2AAB=~z~Shit, I can't see the car.
+0x9F3B2AAB=~z~Shit, I can't see the car.
+
+;0x9FE6BC6B=SFX_PAUSE_430
+0x9FE6BC6B=SFX_PAUSE_430
+
+;0xA085440C=E2T9_AIF1
+0xA085440C=E2T9_AIF1
+
+;0xA0E749ED=100090010010
+0xA0E749ED=100090010010
+
+;0xA127B214=~z~They got Gracie. She's gone. Evan's dead, now Gracie.
+0xA127B214=~z~They got Gracie. She's gone. Evan's dead, now Gracie.
+
+;0xA186A13D=~z~Or he could highjack some other car and we'll be sitting here waiting for him with our dicks in our hands.
+0xA186A13D=~z~Or he could highjack some other car and we'll be sitting here waiting for him with our dicks in our hands.
+
+;0xA18B479C=SFX_PAUSE_300
+0xA18B479C=SFX_PAUSE_300
+
+;0xA33F0928=~z~Oh yeah, play the minority card. Very clever.
+0xA33F0928=~z~Oh yeah, play the minority card. Very clever.
+
+;0xA6BF5262=~z~Poor Gracie. It's such a big fucking city, and she's such a sweet little girl.
+0xA6BF5262=~z~Poor Gracie. It's such a big fucking city, and she's such a sweet little girl.
+
+;0xA6D1F396=SFX_PAUSE_300
+0xA6D1F396=SFX_PAUSE_300
+
+;0xA76F5645=~z~I'm texting.
+0xA76F5645=~z~I'm texting.
+
+;0xA8033E8F=~z~That's him, isn't it? He better fucking take us back to Gracie now.
+0xA8033E8F=~z~That's him, isn't it? He better fucking take us back to Gracie now.
+
+;0xACF239E2=~z~You know how they got Gracie?
+0xACF239E2=~z~You know how they got Gracie?
+
+;0xAF0A8EC1=E2T9_BCB
+0xAF0A8EC1=E2T9_BCB
+
+;0xAF0D94D2=~z~Anyways, look at the bright side, at least she's alive.
+0xAF0D94D2=~z~Anyways, look at the bright side, at least she's alive.
+
+;0xAF369AEF=SFX_PAUSE_300
+0xAF369AEF=SFX_PAUSE_300
+
+;0xAF6294DD=E2T9_ASD
+0xAF6294DD=E2T9_ASD
+
+;0xAFB838AC=SFX_PAUSE_380
+0xAFB838AC=SFX_PAUSE_380
+
+;0xAFB8AF46=~z~Jesus Christ.
+0xAFB8AF46=~z~Jesus Christ.
+
+;0xAFCCFE91=E2T9_AWA
+0xAFCCFE91=E2T9_AWA
+
+;0xAFEE6276=100
+0xAFEE6276=100
+
+;0xB0EF9888=~z~Hey, Gracie's pretty tough.
+0xB0EF9888=~z~Hey, Gracie's pretty tough.
+
+;0xB10A3349=~z~Shit! Shit!
+0xB10A3349=~z~Shit! Shit!
+
+;0xB2CE5561=~z~What about Gracie?
+0xB2CE5561=~z~What about Gracie?
+
+;0xB530319F=E2T9B_AHB
+0xB530319F=E2T9B_AHB
+
+;0xB76FA588=~z~Some guys at war with her father, I guess. I don't know!
+0xB76FA588=~z~Some guys at war with her father, I guess. I don't know!
+
+;0xB7D11C7C=E2T9_AJE
+0xB7D11C7C=E2T9_AJE
+
+;0xB819BD43=010090100010090100
+0xB819BD43=010090100010090100
+
+;0xB88E7F37=~z~Stop driving suspiciously, Lou. He'll get wise to us.
+0xB88E7F37=~z~Stop driving suspiciously, Lou. He'll get wise to us.
+
+;0xB890D6BC=SFX_PAUSE_340
+0xB890D6BC=SFX_PAUSE_340
+
+;0xB89D13B8=100090010090100090010
+0xB89D13B8=100090010090100090010
+
+;0xBB9B6AEA=010090100090010090100100
+0xBB9B6AEA=010090100090010090100100
+
+;0xBBD11153=E2T9_ANB
+0xBBD11153=E2T9_ANB
+
+;0xBBD46687=E2T9_BEB
+0xBBD46687=E2T9_BEB
+
+;0xBC589DEC=~z~I don't know, man, but if he was the guy that took her, then he deserves it.
+0xBC589DEC=~z~I don't know, man, but if he was the guy that took her, then he deserves it.
+
+;0xBC9EAE75=SFX_PAUSE_160
+0xBC9EAE75=SFX_PAUSE_160
+
+;0xBD49F87A=100090010090100090100090010
+0xBD49F87A=100090010090100090100090010
+
+;0xBE41D158=~z~You see me and think "Oh, this is it," this is the moment to put me down, this is the moment when the apprentice takes over, huh?
+0xBE41D158=~z~You see me and think "Oh, this is it," this is the moment to put me down, this is the moment when the apprentice takes over, huh?
+
+;0xBF41D65F=E2T9_AZA
+0xBF41D65F=E2T9_AZA
+
+;0xBF571666=010
+0xBF571666=010
+
+;0xBFED3502=SFX_PAUSE_100
+0xBFED3502=SFX_PAUSE_100
+
+;0xBFF2A626=~z~There are things that stick with you forever.
+0xBFF2A626=~z~There are things that stick with you forever.
+
+;0xC025D020=~z~Oh, shit Luis.
+0xC025D020=~z~Oh, shit Luis.
+
+;0xC093A662=~z~I don't think the old man's gonna understand it like that though. Later, T.
+0xC093A662=~z~I don't think the old man's gonna understand it like that though. Later, T.
+
+;0xC0E1CB47=E2T9_BGA
+0xC0E1CB47=E2T9_BGA
+
+;0xC0FB5B92=E2T9_BGB1
+0xC0FB5B92=E2T9_BGB1
+
+;0xC2E474B9=~z~Look. He's just there. Lead us back to Gracie, you fucker!
+0xC2E474B9=~z~Look. He's just there. Lead us back to Gracie, you fucker!
+
+;0xC35CD7EE=~z~Fuck!
+0xC35CD7EE=~z~Fuck!
+
+;0xC3EE384E=E2T9_AKC
+0xC3EE384E=E2T9_AKC
+
+;0xC5E82CB1=E2T9B_BAA
+0xC5E82CB1=E2T9B_BAA
+
+;0xC6611B3C=100
+0xC6611B3C=100
+
+;0xC858964A=SFX_PAUSE_240
+0xC858964A=SFX_PAUSE_240
+
+;0xC954D61E=100090010
+0xC954D61E=100090010
+
+;0xC9BEE4A0=SFX_PAUSE_420
+0xC9BEE4A0=SFX_PAUSE_420
+
+;0xCC2E37F2=SFX_PAUSE_300
+0xCC2E37F2=SFX_PAUSE_300
+
+;0xCE65C7A8=E2T9_AWE
+0xCE65C7A8=E2T9_AWE
+
+;0xD0528D2B=E2T9_BEA
+0xD0528D2B=E2T9_BEA
+
+;0xD09175F7=~z~Oh man, you think I'm done. You're not so fucking tough, Luis.
+0xD09175F7=~z~Oh man, you think I'm done. You're not so fucking tough, Luis.
+
+;0xD101A31A=~z~I got an idea.
+0xD101A31A=~z~I got an idea.
+
+;0xD1613597=E2T9_ANC
+0xD1613597=E2T9_ANC
+
+;0xD28058D8=E2T9_ASC
+0xD28058D8=E2T9_ASC
+
+;0xD2C0A25B=SFX_PAUSE_120
+0xD2C0A25B=SFX_PAUSE_120
+
+;0xD464F9FE=~z~Tony. Come on, man.
+0xD464F9FE=~z~Tony. Come on, man.
+
+;0xD46B09C8=SFX_PAUSE_230
+0xD46B09C8=SFX_PAUSE_230
+
+;0xD46C26D2=E2T9_ARC
+0xD46C26D2=E2T9_ARC
+
+;0xD5628694=~z~So what if we lost him, man. They're gonna put in a ransom demand and Ancelotti will pay up. I'll see you soon, ok?
+0xD5628694=~z~So what if we lost him, man. They're gonna put in a ransom demand and Ancelotti will pay up. I'll see you soon, ok?
+
+;0xD5858F51=E2T9_AKF2
+0xD5858F51=E2T9_AKF2
+
+;0xD6823E13=E2T9_APA
+0xD6823E13=E2T9_APA
+
+;0xD7140923=E2T9_BGB2
+0xD7140923=E2T9_BGB2
+
+;0xD71E3C5A=~z~Get wise? What are we in some gumshoe novel now?
+0xD71E3C5A=~z~Get wise? What are we in some gumshoe novel now?
+
+;0xD7BF58D8=E2T9_AJA
+0xD7BF58D8=E2T9_AJA
+
+;0xD9C6372D=E2T9_AIB
+0xD9C6372D=E2T9_AIB
+
+;0xDA572EBF=~z~Sure. Yeah. Providing they find her and get her back safely.
+0xDA572EBF=~z~Sure. Yeah. Providing they find her and get her back safely.
+
+;0xDAC2F893=E2T9_AGA
+0xDAC2F893=E2T9_AGA
+
+;0xDC11F17C=100
+0xDC11F17C=100
+
+;0xDD485DE8=SFX_PAUSE_220
+0xDD485DE8=SFX_PAUSE_220
+
+;0xDDF49A18=~z~Hey, my dick's in my pants not my hand, T, and it's staying there. Let's just wait to see if he comes out.
+0xDDF49A18=~z~Hey, my dick's in my pants not my hand, T, and it's staying there. Let's just wait to see if he comes out.
+
+;0xDEB91197=~z~Look. He's going through the Booth Tunnel.
+0xDEB91197=~z~Look. He's going through the Booth Tunnel.
+
+;0xE56615AF=SFX_PAUSE_320
+0xE56615AF=SFX_PAUSE_320
+
+;0xE5BCBB41=~z~Where have you been?
+0xE5BCBB41=~z~Where have you been?
+
+;0xE5F0D9FF=~z~I'm driving as un-suspiciously as you can when your boss only forked out for a weekend helicopter course.
+0xE5F0D9FF=~z~I'm driving as un-suspiciously as you can when your boss only forked out for a weekend helicopter course.
+
+;0xE66FA272=E2T9_AXA
+0xE66FA272=E2T9_AXA
+
+;0xE686A0F0=SFX_PAUSE_290
+0xE686A0F0=SFX_PAUSE_290
+
+;0xE6D69EE5=~z~Goodbye. I love you.
+0xE6D69EE5=~z~Goodbye. I love you.
+
+;0xE7099136=E2T9_AYG
+0xE7099136=E2T9_AYG
+
+;0xE74522A3=~z~I ain't going in there, T.
+0xE74522A3=~z~I ain't going in there, T.
+
+;0xE7AFA097=~z~No. I'm holding you back. I see that now. I see that now.
+0xE7AFA097=~z~No. I'm holding you back. I see that now. I see that now.
+
+;0xE81BFA66=E2T9_ALC
+0xE81BFA66=E2T9_ALC
+
+;0xE8652EF9=~z~He's going into the tunnel. We're fucked.
+0xE8652EF9=~z~He's going into the tunnel. We're fucked.
+
+;0xE8E19B63=~z~Great. I like my spinal cord, bro. It would be fucking a shame to lose it.
+0xE8E19B63=~z~Great. I like my spinal cord, bro. It would be fucking a shame to lose it.
+
+;0xE94C8878=SFX_PAUSE_200
+0xE94C8878=SFX_PAUSE_200
+
+;0xEBF4A589=~z~I hope for our sake they do. See you soon, partner.
+0xEBF4A589=~z~I hope for our sake they do. See you soon, partner.
+
+;0xEC490A58=SFX_PAUSE_200
+0xEC490A58=SFX_PAUSE_200
+
+;0xED62B2F4=E2T9_AXB
+0xED62B2F4=E2T9_AXB
+
+;0xEE34207A=E2T9_AJF
+0xEE34207A=E2T9_AJF
+
+;0xEEF004BA=SFX_PAUSE_130
+0xEEF004BA=SFX_PAUSE_130
+
+;0xF0CF946A=SFX_PAUSE_250
+0xF0CF946A=SFX_PAUSE_250
+
+;0xF1310E47=~z~In that case, you'd probably think I've got massive sculptures of cocks in my apartment as well.
+0xF1310E47=~z~In that case, you'd probably think I've got massive sculptures of cocks in my apartment as well.
+
+;0xF18A8215=SFX_PAUSE_130
+0xF18A8215=SFX_PAUSE_130
+
+;0xF23BEC21=~z~Look at you, bro.
+0xF23BEC21=~z~Look at you, bro.
+
+;0xF2D33D1D=100090010
+0xF2D33D1D=100090010
+
+;0xF2E086F0=~z~I bet they have. Bro, I want to gag the bitch most times I see her. Joking, man. I was joking.
+0xF2E086F0=~z~I bet they have. Bro, I want to gag the bitch most times I see her. Joking, man. I was joking.
+
+;0xF32ABD48=E2T9_AZC
+0xF32ABD48=E2T9_AZC
+
+;0xF44079B0=E2T9_AUC
+0xF44079B0=E2T9_AUC
+
+;0xF4B23D3F=SFX_PAUSE_230
+0xF4B23D3F=SFX_PAUSE_230
+
+;0xF8165FF4=~z~Yo, T.
+0xF8165FF4=~z~Yo, T.
+
+;0xF8224D40=~z~Come on, hurry up man.
+0xF8224D40=~z~Come on, hurry up man.
+
+;0xF9004940=100090010090100010
+0xF9004940=100090010090100010
+
+;0xF9176C38=~z~Oh yeah, we better leave the country then, T. Vice, Santos, who knows where,
+0xF9176C38=~z~Oh yeah, we better leave the country then, T. Vice, Santos, who knows where,
+
+;0xF9ADFA48=E2T9_AIE
+0xF9ADFA48=E2T9_AIE
+
+;0xF9AE3CFC=~z~If we pull this off we'll profit - we'll get to keep our spinal cords.
+0xF9AE3CFC=~z~If we pull this off we'll profit - we'll get to keep our spinal cords.
+
+;0xFA144560=~z~You're the closest thing I've had to a son. I'm sorry, Luis. I love you. Goodbye.
+0xFA144560=~z~You're the closest thing I've had to a son. I'm sorry, Luis. I love you. Goodbye.
+
+;0xFC3A1EBC=~z~You yell loud enough he might just hear you.
+0xFC3A1EBC=~z~You yell loud enough he might just hear you.
+
+;0xFC6E23FB=010090100
+0xFC6E23FB=010090100
+
+;0xFC7E15BC=SFX_PAUSE_130
+0xFC7E15BC=SFX_PAUSE_130
+
+;0xFCD7D961=010
+0xFCD7D961=010
+
+;0xFCF3F900=SFX_PAUSE_320
+0xFCF3F900=SFX_PAUSE_320
+
+;0xFF53E595=~z~I'll give you some questions alright, T. Just you fucking wait.
+0xFF53E595=~z~I'll give you some questions alright, T. Just you fucking wait.
+
+;0xFFB53616=~z~If they fucking hurt her...
+0xFFB53616=~z~If they fucking hurt her...
+
+;0xFFC979A3=~z~We did our bit. Ancelotti can't hold us responsible no more.
+0xFFC979A3=~z~We did our bit. Ancelotti can't hold us responsible no more.
+

@@ -1,0 +1,316 @@
+﻿[E2BR3BA]
+;0x015A0EA8=~z~Excuse me?
+0x015A0EA8=~z~Excuse me?
+
+;0x06BFFC4A=~z~One thing. Huh?
+0x06BFFC4A=~z~One thing. Huh?
+
+;0x085D7F91=~z~Oh, I'm sorry...
+0x085D7F91=~z~Oh, I'm sorry...
+
+;0x092B011C=~z~Fuck me? Fuck me? You can't fuck me, Baby B. Name one thing you have ever been able to fuck me at.
+0x092B011C=~z~Fuck me? Fuck me? You can't fuck me, Baby B. Name one thing you have ever been able to fuck me at.
+
+;0x0A1A8307=~z~Oh, fuck you Mori.
+0x0A1A8307=~z~Oh, fuck you Mori.
+
+;0x0DB31D10=~z~Ramp? Just perfect.
+0x0DB31D10=~z~Ramp? Just perfect.
+
+;0x101BCFBD=~z~- What the fuck man? What the fuck are you doing? Oh God, you know the rules. ~n~ - I-I-I'm
+0x101BCFBD=~z~- What the fuck man? What the fuck are you doing? Oh God, you know the rules. ~n~ - I-I-I'm
+
+;0x11C76CF5=~z~Come on!
+0x11C76CF5=~z~Come on!
+
+;0x128E3110=~z~You got an opportunity here. Look at me, look at me. Watch my lips move.
+0x128E3110=~z~You got an opportunity here. Look at me, look at me. Watch my lips move.
+
+;0x1520DAE7=~z~Okay, j-j-just don't tell Mom, okay?
+0x1520DAE7=~z~Okay, j-j-just don't tell Mom, okay?
+
+;0x19D0A267=~z~My bling ain't CZ and my paper ain't a photocopy.
+0x19D0A267=~z~My bling ain't CZ and my paper ain't a photocopy.
+
+;0x1B9166A6=010
+0x1B9166A6=010
+
+;0x1DAFC753=~z~You got your cars now, so now I don't have to sit here and listen to your tiny man bullshit.
+0x1DAFC753=~z~You got your cars now, so now I don't have to sit here and listen to your tiny man bullshit.
+
+;0x1DCD6B20=~z~Are you kidding?
+0x1DCD6B20=~z~Are you kidding?
+
+;0x1FAE8307=~z~I mean, I work in nightclubs, I hang out with gangsters. I meet assholes 24 hours a day, but you, you take the cake, man.
+0x1FAE8307=~z~I mean, I work in nightclubs, I hang out with gangsters. I meet assholes 24 hours a day, but you, you take the cake, man.
+
+;0x1FE06568=~z~Thanks for the intel, genius.
+0x1FE06568=~z~Thanks for the intel, genius.
+
+;0x26CF4F48=~z~It's your car, bro. If you want it trashed.
+0x26CF4F48=~z~It's your car, bro. If you want it trashed.
+
+;0x2BFE46C2=~z~I lift more weights, I fly better choppers, I have better cars, I screw better women, hell, I screw women.
+0x2BFE46C2=~z~I lift more weights, I fly better choppers, I have better cars, I screw better women, hell, I screw women.
+
+;0x2FECEBCD=~z~Sure, sure Lou, sure sure sure. You could go... if you're as dumb as you look.
+0x2FECEBCD=~z~Sure, sure Lou, sure sure sure. You could go... if you're as dumb as you look.
+
+;0x30A40762=~z~Get to the side of the road, cowboys.
+0x30A40762=~z~Get to the side of the road, cowboys.
+
+;0x35DE1C61=~z~Never, never in the face. Oh come on.
+0x35DE1C61=~z~Never, never in the face. Oh come on.
+
+;0x3D74444E=~z~You too, B, come on.... stop sulking. Jesus, you're pathetic.
+0x3D74444E=~z~You too, B, come on.... stop sulking. Jesus, you're pathetic.
+
+;0x40C03105=~z~sorry Mori, I forgot, man.
+0x40C03105=~z~sorry Mori, I forgot, man.
+
+;0x422C3F4E=E2BR3_ZBA
+0x422C3F4E=E2BR3_ZBA
+
+;0x43AA3A69=~z~Come on! Think apprentice. Think intern. Minion, yeah! Think squire boy.
+0x43AA3A69=~z~Come on! Think apprentice. Think intern. Minion, yeah! Think squire boy.
+
+;0x495D45CF=~z~You, following me all around, learning to become a business mastermind.
+0x495D45CF=~z~You, following me all around, learning to become a business mastermind.
+
+;0x4BE6E133=~z~Jesus, you guys are a couple of pent up queens. I swear. Come on, let's go have some fun, huh?
+0x4BE6E133=~z~Jesus, you guys are a couple of pent up queens. I swear. Come on, let's go have some fun, huh?
+
+;0x4C0CC8BE=~z~Yeah, shit, okay, yeah, shit. Come on, let's go. Okay. Okay. Come on.
+0x4C0CC8BE=~z~Yeah, shit, okay, yeah, shit. Come on, let's go. Okay. Okay. Come on.
+
+;0x51DD6764=~z~Hey Mori, I've gotta side with your brother on this one, man. I mean, you're fucking annoying.
+0x51DD6764=~z~Hey Mori, I've gotta side with your brother on this one, man. I mean, you're fucking annoying.
+
+;0x57235DCB=~z~Alright cut it out, M.
+0x57235DCB=~z~Alright cut it out, M.
+
+;0x572DE170=~z~No more clubs. No more Tony Queen.
+0x572DE170=~z~No more clubs. No more Tony Queen.
+
+;0x5A715A89=~z~I can see shit myself, thank you.
+0x5A715A89=~z~I can see shit myself, thank you.
+
+;0x5B635CE0=~z~Alright gearheads, pull over.
+0x5B635CE0=~z~Alright gearheads, pull over.
+
+;0x5DB86C15=~z~- Ow ow ow! ~n~ - Yeah yeah yeah, okay.
+0x5DB86C15=~z~- Ow ow ow! ~n~ - Yeah yeah yeah, okay.
+
+;0x5E832BD8=~z~Arrest that shit! Stop!
+0x5E832BD8=~z~Arrest that shit! Stop!
+
+;0x6156317D=~z~Thirty-two, thirty-three, thirty-...
+0x6156317D=~z~Thirty-two, thirty-three, thirty-...
+
+;0x64E8F956=~z~This pale piece of turd?
+0x64E8F956=~z~This pale piece of turd?
+
+;0x64F955E5=~z~I can teach you things.
+0x64F955E5=~z~I can teach you things.
+
+;0x660E71C3=~z~I'm surprised you can see shit from your low ass driving position, Mori.
+0x660E71C3=~z~I'm surprised you can see shit from your low ass driving position, Mori.
+
+;0x665F9068=~z~What's up, Lou.
+0x665F9068=~z~What's up, Lou.
+
+;0x689681D5=~z~Okay?
+0x689681D5=~z~Okay?
+
+;0x6E4738AC=E2BR3_ZCA
+0x6E4738AC=E2BR3_ZCA
+
+;0x704DCF6D=~z~All three vehicles pull to the side of the road.
+0x704DCF6D=~z~All three vehicles pull to the side of the road.
+
+;0x7781951C=~z~Pull over to the side of the road, you idiots.
+0x7781951C=~z~Pull over to the side of the road, you idiots.
+
+;0x79BD2302=~z~That's it Mori! Cut it out!
+0x79BD2302=~z~That's it Mori! Cut it out!
+
+;0x7A49253A=~z~Okay. Okay. You gonna take me home?
+0x7A49253A=~z~Okay. Okay. You gonna take me home?
+
+;0x7B28799A=E2BR3_ZDA
+0x7B28799A=E2BR3_ZDA
+
+;0x7BCF364E=010
+0x7BCF364E=010
+
+;0x7D0EBDC6=~z~So again... One!..
+0x7D0EBDC6=~z~So again... One!..
+
+;0x7D37AD87=~z~Mori, is this a joke, man?
+0x7D37AD87=~z~Mori, is this a joke, man?
+
+;0x82D64955=~z~I mean, I got sent to juvy when I was seventeen years old for shooting a teacher who felt up my sister.
+0x82D64955=~z~I mean, I got sent to juvy when I was seventeen years old for shooting a teacher who felt up my sister.
+
+;0x86A9D6B8=~z~are dating such a wonderful guy as Lou here.
+0x86A9D6B8=~z~are dating such a wonderful guy as Lou here.
+
+;0x8D831F63=~z~Oh. Thanks, bro.
+0x8D831F63=~z~Oh. Thanks, bro.
+
+;0x8E6BA8C9=~z~Fucking intense! Woo! Did you see Little Lou here though?
+0x8E6BA8C9=~z~Fucking intense! Woo! Did you see Little Lou here though?
+
+;0x8F974EB6=~z~- The man is nothing but beyond pathetic. ~n~ - Alright!
+0x8F974EB6=~z~- The man is nothing but beyond pathetic. ~n~ - Alright!
+
+;0x90D154BA=~z~Hey, maybe someone can teach you about the most basic human behavior.
+0x90D154BA=~z~Hey, maybe someone can teach you about the most basic human behavior.
+
+;0x94D07305=~z~It's just the truth is I'm... I'm jealous. I am, I'm jealous... Jealous that... that you...
+0x94D07305=~z~It's just the truth is I'm... I'm jealous. I am, I'm jealous... Jealous that... that you...
+
+;0x95205AE8=~z~Ow, it hurts so bad.
+0x95205AE8=~z~Ow, it hurts so bad.
+
+;0x98AE7505=~z~They tried the tough love thing on me. It didn't fucking work too well. So maybe try a different fucking approach.
+0x98AE7505=~z~They tried the tough love thing on me. It didn't fucking work too well. So maybe try a different fucking approach.
+
+;0x9A9271FD=E2BR3_ZZA
+0x9A9271FD=E2BR3_ZZA
+
+;0x9B6DBB38=~z~Hey, don't go and spend that all in one place, chump.
+0x9B6DBB38=~z~Hey, don't go and spend that all in one place, chump.
+
+;0x9C64E851=~z~Well you're the guy in the family with some manners.
+0x9C64E851=~z~Well you're the guy in the family with some manners.
+
+;0x9EA9F06B=~z~You, my friend, could be free.
+0x9EA9F06B=~z~You, my friend, could be free.
+
+;0xA00303BE=~z~Oh jeez I'm sorry. I'm sorry I'm trying to toughen up my little bro here, my little bro who I love more than life itself and you think that you can interfere that?
+0xA00303BE=~z~Oh jeez I'm sorry. I'm sorry I'm trying to toughen up my little bro here, my little bro who I love more than life itself and you think that you can interfere that?
+
+;0xA00C0980=~z~I love you, but you're such a pussy.
+0xA00C0980=~z~I love you, but you're such a pussy.
+
+;0xA2E7B4A0=~z~Put the breaks on, you maniacs!
+0xA2E7B4A0=~z~Put the breaks on, you maniacs!
+
+;0xB46C8E7A=~z~We don't need you help, idiot.
+0xB46C8E7A=~z~We don't need you help, idiot.
+
+;0xB54C2E50=~z~I think you've maybe taken the tough love thing a little too far, man.
+0xB54C2E50=~z~I think you've maybe taken the tough love thing a little too far, man.
+
+;0xB5BD9C22=~z~See you ladies later, okay?
+0xB5BD9C22=~z~See you ladies later, okay?
+
+;0xB6029BFD=396
+0xB6029BFD=396
+
+;0xB62F1F75=~z~Brucie?
+0xB62F1F75=~z~Brucie?
+
+;0xB73F98BF=E2BR3_ZEA
+0xB73F98BF=E2BR3_ZEA
+
+;0xB7B573C7=~z~Hey buddy, thanks for the tip off. Here you go.
+0xB7B573C7=~z~Hey buddy, thanks for the tip off. Here you go.
+
+;0xBA038B95=~z~I'm coming, don't worry about me.
+0xBA038B95=~z~I'm coming, don't worry about me.
+
+;0xBB1FF6A1=496
+0xBB1FF6A1=496
+
+;0xBC6D1064=~z~I be right behind you momentarily.
+0xBC6D1064=~z~I be right behind you momentarily.
+
+;0xC0A0859D=~z~Money talks and idiots walk.
+0xC0A0859D=~z~Money talks and idiots walk.
+
+;0xC0F6B174=~z~- The marshmallow man? ~n~- Mori.
+0xC0F6B174=~z~- The marshmallow man? ~n~- Mori.
+
+;0xC21B374D=~z~I mean, you're the guy that needs to learn something. Shit, you're awful, bro.
+0xC21B374D=~z~I mean, you're the guy that needs to learn something. Shit, you're awful, bro.
+
+;0xC372B78C=~z~Yeah uh- uh, I'll see you at the club or something! Okay.
+0xC372B78C=~z~Yeah uh- uh, I'll see you at the club or something! Okay.
+
+;0xC6FBD1A3=~z~Come on Baby B. Let's hug it out. Let's hug it out. I love you. I love you, I do. I love you.
+0xC6FBD1A3=~z~Come on Baby B. Let's hug it out. Let's hug it out. I love you. I love you, I do. I love you.
+
+;0xC8681CC1=~z~We're done, right? I mean, we're squared?
+0xC8681CC1=~z~We're done, right? I mean, we're squared?
+
+;0xCE8A2170=~z~Let's get this shit on the road!
+0xCE8A2170=~z~Let's get this shit on the road!
+
+;0xCFBEB70B=~z~Don't think I ain't gonna catch you.
+0xCFBEB70B=~z~Don't think I ain't gonna catch you.
+
+;0xD2273BD8=~z~Shit ain't gone right for me. I be with you soon.
+0xD2273BD8=~z~Shit ain't gone right for me. I be with you soon.
+
+;0xD67CDC80=~z~You think that I could learn something from little B here?
+0xD67CDC80=~z~You think that I could learn something from little B here?
+
+;0xD82E1F30=~z~This race is over!
+0xD82E1F30=~z~This race is over!
+
+;0xD85F63D5=~z~Brucie, please, do this guy a favor.
+0xD85F63D5=~z~Brucie, please, do this guy a favor.
+
+;0xD9F522BE=~z~Stop your cars now!
+0xD9F522BE=~z~Stop your cars now!
+
+;0xDB5DDCDB=~z~Pull over, you're recklessly endangering the public.
+0xDB5DDCDB=~z~Pull over, you're recklessly endangering the public.
+
+;0xE036CC5E=~z~He started shitting in his panties when the cops showed up.
+0xE036CC5E=~z~He started shitting in his panties when the cops showed up.
+
+;0xE0F4D973=~z~Don't slow down on my account, assholes.
+0xE0F4D973=~z~Don't slow down on my account, assholes.
+
+;0xE2410DE5=~z~Whatever. I'm only kidding... Come on!
+0xE2410DE5=~z~Whatever. I'm only kidding... Come on!
+
+;0xE2AE6AFD=~z~Just shut up and drive, bro.
+0xE2AE6AFD=~z~Just shut up and drive, bro.
+
+;0xE47FB7D6=~z~Oh come on, come on one more, come on.
+0xE47FB7D6=~z~Oh come on, come on one more, come on.
+
+;0xE91B7856=~z~Would the illegal street racers please pull over?
+0xE91B7856=~z~Would the illegal street racers please pull over?
+
+;0xE9E8D82D=~z~Hey people!
+0xE9E8D82D=~z~Hey people!
+
+;0xF08AAA78=~z~It's Luis!
+0xF08AAA78=~z~It's Luis!
+
+;0xF2D7F1A0=~z~Hey, check it out, Brucie. You know I think Lou here might be even slightly a bigger pussy than you.
+0xF2D7F1A0=~z~Hey, check it out, Brucie. You know I think Lou here might be even slightly a bigger pussy than you.
+
+;0xF5C5DA62=~z~Screw you, Mori. Why do you gotta be such a cock?
+0xF5C5DA62=~z~Screw you, Mori. Why do you gotta be such a cock?
+
+;0xF82CB404=~z~You know what? I think you might be right.
+0xF82CB404=~z~You know what? I think you might be right.
+
+;0xFAE828DA=~z~Me?
+0xFAE828DA=~z~Me?
+
+;0xFB4E7847=~z~Just what I need? A swim in the Humboldt.
+0xFB4E7847=~z~Just what I need? A swim in the Humboldt.
+
+;0xFBACA7FF=~z~This is - this is top work up here. You know I've got a weakened septum.
+0xFBACA7FF=~z~This is - this is top work up here. You know I've got a weakened septum.
+
+;0xFF5D9471=010
+0xFF5D9471=010
+

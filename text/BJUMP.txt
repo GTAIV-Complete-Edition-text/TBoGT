@@ -1,0 +1,43 @@
+﻿[BJUMP]
+;0x0947F6F9=Base jump onto the ~b~moving vehicle.
+0x0947F6F9=Base jump onto the ~b~moving vehicle.
+
+;0x0B222650=Open the parachute and glide through the checkpoints.
+0x0B222650=Open the parachute and glide through the checkpoints.
+
+;0x29DD6FDB=~r~Base jump failed.
+0x29DD6FDB=~r~Base jump failed.
+
+;0x38DA369C=A parachute is now available in you appartment.
+0x38DA369C=A parachute is now available in you appartment.
+
+;0x44E698BD=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_MOUSE_LMB~ to jump.
+0x44E698BD=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_MOUSE_LMB~ to jump.
+
+;0x4FFA2B10=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0x4FFA2B10=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+
+;0x576B17C9=Base jump onto the checkpoint.
+0x576B17C9=Base jump onto the checkpoint.
+
+;0x96DB65EE=Jump off the ramp then press ~INPUT_ENTER~.
+0x96DB65EE=Jump off the ramp then press ~INPUT_ENTER~.
+
+;0xA2B29590=Base jump onto the moving vehicle.
+0xA2B29590=Base jump onto the moving vehicle.
+
+;0xA4BE06BD=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+0xA4BE06BD=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+
+;0xCC0FDB72=1. Jump to blipped target~n~2. Jump to blipped truck~n~3. Free jump (default)
+0xCC0FDB72=1. Jump to blipped target~n~2. Jump to blipped truck~n~3. Free jump (default)
+
+;0xE0AF506E=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_ENTER~ to jump.
+0xE0AF506E=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_ENTER~ to jump.
+
+;0xE439538C=Open the parachute and glide through the ~y~checkpoints.
+0xE439538C=Open the parachute and glide through the ~y~checkpoints.
+
+;0xF23E4D59=Base jump onto the ~y~checkpoint.
+0xF23E4D59=Base jump onto the ~y~checkpoint.
+

@@ -1,0 +1,487 @@
+﻿[E2T5AUD]
+;0x0358EA78=~z~Later, T.
+0x0358EA78=~z~Later, T.
+
+;0x04706A5A=SFX_PAUSE_250
+0x04706A5A=SFX_PAUSE_250
+
+;0x05C994DE=~z~The head of the LTA is out at Francis International in his private jet.
+0x05C994DE=~z~The head of the LTA is out at Francis International in his private jet.
+
+;0x07BC973A=~z~I forgot something.
+0x07BC973A=~z~I forgot something.
+
+;0x07FF12B1=SFX_PAUSE_260
+0x07FF12B1=SFX_PAUSE_260
+
+;0x085A97A5=~z~Listen, you gotta tell Rocco that the plane took off. I couldn't finish the job.
+0x085A97A5=~z~Listen, you gotta tell Rocco that the plane took off. I couldn't finish the job.
+
+;0x0A93DE37=~z~That's fuckin' done.
+0x0A93DE37=~z~That's fuckin' done.
+
+;0x0B757216=~z~You're a degenerate.
+0x0B757216=~z~You're a degenerate.
+
+;0x0BDCEE03=~z~Shoulda flown commercial.
+0x0BDCEE03=~z~Shoulda flown commercial.
+
+;0x0E350030=~z~Not so good, man. Turns out I don't make much of a subway bomber.
+0x0E350030=~z~Not so good, man. Turns out I don't make much of a subway bomber.
+
+;0x0EEB2EAD=E2T5_CA
+0x0EEB2EAD=E2T5_CA
+
+;0x0F15ED40=~z~Piss off. I wanna die.
+0x0F15ED40=~z~Piss off. I wanna die.
+
+;0x0FF80BFF=E2T5_JB
+0x0FF80BFF=E2T5_JB
+
+;0x153633B7=~z~I'm sorry. As much as I'd like to right now, I'm not letting you kill yourself.
+0x153633B7=~z~I'm sorry. As much as I'd like to right now, I'm not letting you kill yourself.
+
+;0x167B34B7=~z~What?
+0x167B34B7=~z~What?
+
+;0x191959B7=~z~Sooner or later...
+0x191959B7=~z~Sooner or later...
+
+;0x197E0210=~z~Whoa, over here. Over here. Over here.
+0x197E0210=~z~Whoa, over here. Over here. Over here.
+
+;0x19AECA6A=E2T5_HE
+0x19AECA6A=E2T5_HE
+
+;0x1DF58B03=~z~Okay man, if that's how you want it.
+0x1DF58B03=~z~Okay man, if that's how you want it.
+
+;0x1FC6A353=~z~Maybe that's a good thing. I'll tell the brat he needs another demolition guy.
+0x1FC6A353=~z~Maybe that's a good thing. I'll tell the brat he needs another demolition guy.
+
+;0x1FD51AB5=090
+0x1FD51AB5=090
+
+;0x202D71F0=~z~He got a nice plane.
+0x202D71F0=~z~He got a nice plane.
+
+;0x2175E99E=E2T5_DA
+0x2175E99E=E2T5_DA
+
+;0x21CEA7CA=~z~He's in the bedroom.
+0x21CEA7CA=~z~He's in the bedroom.
+
+;0x2507895E=090
+0x2507895E=090
+
+;0x251156A5=~z~Okay. What else?
+0x251156A5=~z~Okay. What else?
+
+;0x2826580D=~z~Th... th... the explosives.
+0x2826580D=~z~Th... th... the explosives.
+
+;0x28720456=E2T5_HG
+0x28720456=E2T5_HG
+
+;0x2ABBA48F=~z~Come on. Let's go, let's go.
+0x2ABBA48F=~z~Come on. Let's go, let's go.
+
+;0x2ADB5F01=~z~I've got to. It's the only way we can survive. Get out my way.
+0x2ADB5F01=~z~I've got to. It's the only way we can survive. Get out my way.
+
+;0x2BD15E92=~z~Only when you want a plane to crash does it stay in the air. Figures. I'll tell him Lou... and thanks.
+0x2BD15E92=~z~Only when you want a plane to crash does it stay in the air. Figures. I'll tell him Lou... and thanks.
+
+;0x2DA9BC25=~z~Where's Tony?
+0x2DA9BC25=~z~Where's Tony?
+
+;0x2DFD0396=~z~Dios mio!
+0x2DFD0396=~z~Dios mio!
+
+;0x318D680D=SFX_PAUSE_200
+0x318D680D=SFX_PAUSE_200
+
+;0x31B91507=~z~He ain't taking off today.
+0x31B91507=~z~He ain't taking off today.
+
+;0x38453F9E=~z~Better?
+0x38453F9E=~z~Better?
+
+;0x388DA5F5=~z~That's gonna take some cleaning up.
+0x388DA5F5=~z~That's gonna take some cleaning up.
+
+;0x39F2FD30=~z~Okay.
+0x39F2FD30=~z~Okay.
+
+;0x3AD7FD70=~z~Forgot what?
+0x3AD7FD70=~z~Forgot what?
+
+;0x3B146157=E2T5_JA
+0x3B146157=E2T5_JA
+
+;0x3BF258B6=~z~What's your problem, man?
+0x3BF258B6=~z~What's your problem, man?
+
+;0x3CF0A17D=~z~Tony woulda killed himself.
+0x3CF0A17D=~z~Tony woulda killed himself.
+
+;0x3D4A57D7=~z~Let's find this dumb fuck and get outta here.
+0x3D4A57D7=~z~Let's find this dumb fuck and get outta here.
+
+;0x3DA20324=~z~Rocco's gone nuts. He's gonna burn the clubs down for insurance. He's gonna fucking kill us.
+0x3DA20324=~z~Rocco's gone nuts. He's gonna burn the clubs down for insurance. He's gonna fucking kill us.
+
+;0x3ED7849E=~z~Fair point.
+0x3ED7849E=~z~Fair point.
+
+;0x3F2A3BB8=100090010090100090010100090010100010090010090010
+0x3F2A3BB8=100090010090100090010100090010100010090010090010
+
+;0x43F70DBC=E2T5_JC
+0x43F70DBC=E2T5_JC
+
+;0x46B7E89A=~z~~x~
+0x46B7E89A=~z~~x~
+
+;0x46E41A4E=~z~Yeah, no doubt, boss. Now, where are you going?
+0x46E41A4E=~z~Yeah, no doubt, boss. Now, where are you going?
+
+;0x4760DDD5=~z~Oh, great.
+0x4760DDD5=~z~Oh, great.
+
+;0x4B12F368=~z~Where this hotshot at?
+0x4B12F368=~z~Where this hotshot at?
+
+;0x4B1676FE=~z~"Hi Evan, like a drink?"
+0x4B1676FE=~z~"Hi Evan, like a drink?"
+
+;0x4E54CE3E=~z~That's got to be him.
+0x4E54CE3E=~z~That's got to be him.
+
+;0x4EC6269A=~z~I'm meant to take the whole thing out.
+0x4EC6269A=~z~I'm meant to take the whole thing out.
+
+;0x4FECA7B9=~z~Explosives? Explosives?! What's wrong with you, man? You run a nightclub, not a terror cell.
+0x4FECA7B9=~z~Explosives? Explosives?! What's wrong with you, man? You run a nightclub, not a terror cell.
+
+;0x51A68019=E2T5_KB
+0x51A68019=E2T5_KB
+
+;0x51A6CAE9=~z~What's that fuck got me into?
+0x51A6CAE9=~z~What's that fuck got me into?
+
+;0x52DD3240=~z~The Transport Workers guy is driving an out of service subway train through North Holland.
+0x52DD3240=~z~The Transport Workers guy is driving an out of service subway train through North Holland.
+
+;0x53070A62=~z~Wow, somebody's got his sister's underwear on by mistake.
+0x53070A62=~z~Wow, somebody's got his sister's underwear on by mistake.
+
+;0x553E738B=~z~Get off the track.
+0x553E738B=~z~Get off the track.
+
+;0x56D7116F=~z~If it ain't Left Hook Lopez.
+0x56D7116F=~z~If it ain't Left Hook Lopez.
+
+;0x572A29AD=~z~You fucking hetero!
+0x572A29AD=~z~You fucking hetero!
+
+;0x58441159=~z~Where's Tony? Where's Tony? What's wrong with, "Hi Evan, you're looking cut".
+0x58441159=~z~Where's Tony? Where's Tony? What's wrong with, "Hi Evan, you're looking cut".
+
+;0x58C387D7=~z~Those private jets ain't safe.
+0x58C387D7=~z~Those private jets ain't safe.
+
+;0x5A3AC0FB=~z~What do you care about the business? You got your fucking head in the clouds. Huh?
+0x5A3AC0FB=~z~What do you care about the business? You got your fucking head in the clouds. Huh?
+
+;0x5E86D89D=~z~Hey Tone.
+0x5E86D89D=~z~Hey Tone.
+
+;0x5EA99869=~z~Yeah, good point.
+0x5EA99869=~z~Yeah, good point.
+
+;0x5FF6493A=~z~And you'll probably blow yourself up as soon as you walk out the door. You ain't doing this.
+0x5FF6493A=~z~And you'll probably blow yourself up as soon as you walk out the door. You ain't doing this.
+
+;0x612F4B6C=~z~A subway train? Jesus Christ. Please tell me that's it.
+0x612F4B6C=~z~A subway train? Jesus Christ. Please tell me that's it.
+
+;0x613DCA5B=~z~What drugs are you on? I hope they're strong.
+0x613DCA5B=~z~What drugs are you on? I hope they're strong.
+
+;0x645D49C8=SFX_PAUSE_300
+0x645D49C8=SFX_PAUSE_300
+
+;0x6634F405=~z~Too fucking close.
+0x6634F405=~z~Too fucking close.
+
+;0x6900B5C2=~z~Hey, T. How's the jaw?
+0x6900B5C2=~z~Hey, T. How's the jaw?
+
+;0x6A042825=~z~That's the train.
+0x6A042825=~z~That's the train.
+
+;0x6AA83915=~z~Okay. I know why you did that, so thank you. How'd it go?
+0x6AA83915=~z~Okay. I know why you did that, so thank you. How'd it go?
+
+;0x6C4BEACF=SFX_PAUSE_480
+0x6C4BEACF=SFX_PAUSE_480
+
+;0x6CB66F54=E2T5_HD
+0x6CB66F54=E2T5_HD
+
+;0x6D596738=~z~They got a guy digging up Frankfort Avenue for Liberty Electric.
+0x6D596738=~z~They got a guy digging up Frankfort Avenue for Liberty Electric.
+
+;0x6D61B5D9=~z~I'm good.
+0x6D61B5D9=~z~I'm good.
+
+;0x6F0214F5=E2T5_HJ
+0x6F0214F5=E2T5_HJ
+
+;0x6F9CA06C=~z~Yeah I heard that before, T. If it's real this time, it's a good thing.
+0x6F9CA06C=~z~Yeah I heard that before, T. If it's real this time, it's a good thing.
+
+;0x6FA4C39D=~z~Okay, I'm just going to admit that. Now would you shut the fuck up before I shut you up? Now where's Tony?
+0x6FA4C39D=~z~Okay, I'm just going to admit that. Now would you shut the fuck up before I shut you up? Now where's Tony?
+
+;0x73836EE6=~z~Yeah, he's gone crazy and you're running around with some bombs, okay.
+0x73836EE6=~z~Yeah, he's gone crazy and you're running around with some bombs, okay.
+
+;0x775B9778=100010090100090010100090010
+0x775B9778=100010090100090010100090010
+
+;0x80B51A6B=E2T5_BA
+0x80B51A6B=E2T5_BA
+
+;0x81B4449B=~z~Thank you, partner. You should know that Evan's walked out on me. We're over.
+0x81B4449B=~z~Thank you, partner. You should know that Evan's walked out on me. We're over.
+
+;0x8556EF01=~z~Ay Dios mio. Evan, look, I've always thought that, even for a coke pushing steroid junkie, you were a particular asshole,
+0x8556EF01=~z~Ay Dios mio. Evan, look, I've always thought that, even for a coke pushing steroid junkie, you were a particular asshole,
+
+;0x85C74067=~z~Get out the way!
+0x85C74067=~z~Get out the way!
+
+;0x87D64AA5=E2T5_FA
+0x87D64AA5=E2T5_FA
+
+;0x8F479358=E2T5_JF
+0x8F479358=E2T5_JF
+
+;0x8F804092=090
+0x8F804092=090
+
+;0x90C67CA2=~z~Now fuck off, Evan. You gave him the pills. Be gone before I get back.
+0x90C67CA2=~z~Now fuck off, Evan. You gave him the pills. Be gone before I get back.
+
+;0x91752F6F=~z~You think you're a big shot. You're a nothing and soon you gonna be a dead nothing.
+0x91752F6F=~z~You think you're a big shot. You're a nothing and soon you gonna be a dead nothing.
+
+;0x939A42C3=~z~I got us into this mess...
+0x939A42C3=~z~I got us into this mess...
+
+;0x94126957=~z~Exactly, man.
+0x94126957=~z~Exactly, man.
+
+;0x94EAA447=~z~Come on, papi. Let's go. This way. This way. Come on.
+0x94EAA447=~z~Come on, papi. Let's go. This way. This way. Come on.
+
+;0x95605247=~z~Fuck!
+0x95605247=~z~Fuck!
+
+;0x96861163=~z~He refuses to get any work done. And p.s: the man's a wreck.
+0x96861163=~z~He refuses to get any work done. And p.s: the man's a wreck.
+
+;0x98DE42EB=E2T5_HB
+0x98DE42EB=E2T5_HB
+
+;0x99BEC724=SFX_OVERLAP_1390
+0x99BEC724=SFX_OVERLAP_1390
+
+;0x9EAAB45E=E2T5_JE
+0x9EAAB45E=E2T5_JE
+
+;0x9F4C6633=~z~These ain't safe.
+0x9F4C6633=~z~These ain't safe.
+
+;0xA02074E9=E2T5_HF
+0xA02074E9=E2T5_HF
+
+;0xA0969C42=~z~I should have let your parole officer put you back in prison all those years ago.
+0xA0969C42=~z~I should have let your parole officer put you back in prison all those years ago.
+
+;0xA15B1FF7=~z~Where this bitch at?
+0xA15B1FF7=~z~Where this bitch at?
+
+;0xA236D0F2=~z~Blowing shit up ain't exactly your side of the business, okay? It's not your forte.
+0xA236D0F2=~z~Blowing shit up ain't exactly your side of the business, okay? It's not your forte.
+
+;0xA3C72595=E2T5_KA
+0xA3C72595=E2T5_KA
+
+;0xA4907DF9=~z~There she goes.
+0xA4907DF9=~z~There she goes.
+
+;0xA5941F48=~z~You going somewhere?
+0xA5941F48=~z~You going somewhere?
+
+;0xA9B0D6BE=SFX_PAUSE_180
+0xA9B0D6BE=SFX_PAUSE_180
+
+;0xAA106FAF=~z~Were you gonna let me take care of this explosive bullshit, or were you gonna insist on blowing yourself up?
+0xAA106FAF=~z~Were you gonna let me take care of this explosive bullshit, or were you gonna insist on blowing yourself up?
+
+;0xAAD3D824=E2T5_HI
+0xAAD3D824=E2T5_HI
+
+;0xAB44DD77=~z~Yeah! You coulda blown yourself up!
+0xAB44DD77=~z~Yeah! You coulda blown yourself up!
+
+;0xAC543CFF=~z~Who cares about fucking Tony? The man's a neurotic. He's back on drugs. He's looking old.
+0xAC543CFF=~z~Who cares about fucking Tony? The man's a neurotic. He's back on drugs. He's looking old.
+
+;0xACA0E02F=~z~My business partner punched me out, my boyfriend left me, could this day get any worse?
+0xACA0E02F=~z~My business partner punched me out, my boyfriend left me, could this day get any worse?
+
+;0xAEA1556B=SFX_PAUSE_190
+0xAEA1556B=SFX_PAUSE_190
+
+;0xAEC23899=~z~You said we had something to take care of. I ain't having you screw up.
+0xAEC23899=~z~You said we had something to take care of. I ain't having you screw up.
+
+;0xB3870298=~z~Alright Lou.
+0xB3870298=~z~Alright Lou.
+
+;0xB3FD747F=~z~Yeah, I wish you'd talked to me about this first, man, okay.
+0xB3FD747F=~z~Yeah, I wish you'd talked to me about this first, man, okay.
+
+;0xB8B7D19A=SFX_PAUSE_490
+0xB8B7D19A=SFX_PAUSE_490
+
+;0xBA10BCBA=090
+0xBA10BCBA=090
+
+;0xBB1CD14E=~z~Let's go. Come on, you got it. Let's go.
+0xBB1CD14E=~z~Let's go. Come on, you got it. Let's go.
+
+;0xBC384C90=~z~I got something for you.
+0xBC384C90=~z~I got something for you.
+
+;0xBE8E0668=~z~Try and stop me.
+0xBE8E0668=~z~Try and stop me.
+
+;0xBFFCD438=090
+0xBFFCD438=090
+
+;0xC54ED05B=E2T5_HC
+0xC54ED05B=E2T5_HC
+
+;0xC65A993D=~z~It's the only way out. Either that, or they kill me.
+0xC65A993D=~z~It's the only way out. Either that, or they kill me.
+
+;0xC896F584=~z~Then break up with him for the last time and fuck off out of all of our lives. Please.
+0xC896F584=~z~Then break up with him for the last time and fuck off out of all of our lives. Please.
+
+;0xC8BD7282=~z~Whoa oh here she comes. Watch out boy, she'll chew you up.
+0xC8BD7282=~z~Whoa oh here she comes. Watch out boy, she'll chew you up.
+
+;0xCAE256F6=~z~You need to concentrate on getting your own life together. See you soon.
+0xCAE256F6=~z~You need to concentrate on getting your own life together. See you soon.
+
+;0xCC069BA9=E2T5_JD
+0xCC069BA9=E2T5_JD
+
+;0xCE370C9D=090
+0xCE370C9D=090
+
+;0xCF3700B4=E2T5_KD
+0xCF3700B4=E2T5_KD
+
+;0xD314B2B1=~z~I told him I'd take care of his Union problems for him.
+0xD314B2B1=~z~I told him I'd take care of his Union problems for him.
+
+;0xD3B97688=~z~Hey Tony, get up.
+0xD3B97688=~z~Hey Tony, get up.
+
+;0xD54D7613=E2T5_GA
+0xD54D7613=E2T5_GA
+
+;0xD852AB16=~z~Come on? Fuck this.
+0xD852AB16=~z~Come on? Fuck this.
+
+;0xD8BF0FDE=E2T5_AA
+0xD8BF0FDE=E2T5_AA
+
+;0xDAAF1665=~z~Whoa oh here she comes, she's a man eater.
+0xDAAF1665=~z~Whoa oh here she comes, she's a man eater.
+
+;0xE184121D=~z~Ahh, piss off.
+0xE184121D=~z~Ahh, piss off.
+
+;0xE1C805C9=SFX_PAUSE_240
+0xE1C805C9=SFX_PAUSE_240
+
+;0xE319CF7F=~z~Shit, Tony. You're a real piece of fucking work, you know that?
+0xE319CF7F=~z~Shit, Tony. You're a real piece of fucking work, you know that?
+
+;0xE4039A95=E2T5_KE
+0xE4039A95=E2T5_KE
+
+;0xE5860C25=E2T5_HA
+0xE5860C25=E2T5_HA
+
+;0xE7088100=E2T5_EA
+0xE7088100=E2T5_EA
+
+;0xE76E17EC=~z~You outta service.
+0xE76E17EC=~z~You outta service.
+
+;0xEBA73855=~z~Here she comes. Watch out boy, she'll chew you up.
+0xEBA73855=~z~Here she comes. Watch out boy, she'll chew you up.
+
+;0xECF08C5C=E2T5_HH
+0xECF08C5C=E2T5_HH
+
+;0xEE5730C7=100010090100010090100
+0xEE5730C7=100010090100010090100
+
+;0xEEF61F1D=~z~He's dragging you down, man. He's a fucking parasite.
+0xEEF61F1D=~z~He's dragging you down, man. He's a fucking parasite.
+
+;0xEF69A5B8=SFX_PAUSE_270
+0xEF69A5B8=SFX_PAUSE_270
+
+;0xF156B1C2=~z~Come on, get up man, let's go.
+0xF156B1C2=~z~Come on, get up man, let's go.
+
+;0xF35AEE77=~z~Oh, wait. Wait. Wait. Wait.
+0xF35AEE77=~z~Oh, wait. Wait. Wait. Wait.
+
+;0xF47D9080=~z~This is fucked up!
+0xF47D9080=~z~This is fucked up!
+
+;0xF4A6CA20=~z~"Hi Evan, if I wasn't straight I'd ravage you right now."
+0xF4A6CA20=~z~"Hi Evan, if I wasn't straight I'd ravage you right now."
+
+;0xFA075864=~z~Evan, where's Tony? He said meet him here.
+0xFA075864=~z~Evan, where's Tony? He said meet him here.
+
+;0xFAB34BB0=~z~Holiday's over, bro.
+0xFAB34BB0=~z~Holiday's over, bro.
+
+;0xFB069196=~z~Was knocking me out really necessary?
+0xFB069196=~z~Was knocking me out really necessary?
+
+;0xFDBED6A9=~z~What about me? You guys can't just leave me here.
+0xFDBED6A9=~z~What about me? You guys can't just leave me here.
+
+;0xFE455BB0=E2T5_KC
+0xFE455BB0=E2T5_KC
+
+;0xFF1BDF3E=~z~Whoa oh here she comes, she's a man eater.
+0xFF1BDF3E=~z~Whoa oh here she comes, she's a man eater.
+
+;0xFF38B323=090
+0xFF38B323=090
+

@@ -1,0 +1,28 @@
+﻿[CLBPRC2]
+;0x58C5BB75=~r~Club management failed.
+0x58C5BB75=~r~Club management failed.
+
+;0x660CD603=~r~You hurt Troy.
+0x660CD603=~r~You hurt Troy.
+
+;0x81560C91=~r~You hurt Dessie.
+0x81560C91=~r~You hurt Dessie.
+
+;0x9292AF0A=Get a vehicle.
+0x9292AF0A=Get a vehicle.
+
+;0x9DF4C5CE=~r~You were too slow.
+0x9DF4C5CE=~r~You were too slow.
+
+;0xAB466071=Lose the cops.
+0xAB466071=Lose the cops.
+
+;0xCA0F9E07=Go to ~y~Hercules.
+0xCA0F9E07=Go to ~y~Hercules.
+
+;0xD8263A34=Go to the ~y~Iron Belly Deli.
+0xD8263A34=Go to the ~y~Iron Belly Deli.
+
+;0xE23EE62F=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0xE23EE62F=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+

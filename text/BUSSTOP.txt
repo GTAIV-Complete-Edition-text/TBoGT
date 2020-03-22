@@ -1,0 +1,67 @@
+﻿[BUSSTOP]
+;0x04762659=Press ~PAD_LSTICK_ALL~ and ~INPUT_KB_DOWN~~INPUT_KB_UP~~INPUT_KB_RIGHT~~INPUT_KB_LEFT~ as they appear to keep the dance going.
+0x04762659=Press ~PAD_LSTICK_ALL~ and ~INPUT_KB_DOWN~~INPUT_KB_UP~~INPUT_KB_RIGHT~~INPUT_KB_LEFT~ as they appear to keep the dance going.
+
+;0x10970BF9=~INPUT_KB_UP~
+0x10970BF9=~INPUT_KB_UP~
+
+;0x193A0EB9=~PAD_A~
+0x193A0EB9=~PAD_A~
+
+;0x2C6C7EB3=~INPUT_KB_RIGHT~
+0x2C6C7EB3=~INPUT_KB_RIGHT~
+
+;0x2F9D306C=~PAD_B~
+0x2F9D306C=~PAD_B~
+
+;0x3A9C963A=~INPUT_KB_DOWN~
+0x3A9C963A=~INPUT_KB_DOWN~
+
+;0x4493528C=~PAD_LSTICK_UP~
+0x4493528C=~PAD_LSTICK_UP~
+
+;0x457099B7=~INPUT_MOVE_UP~
+0x457099B7=~INPUT_MOVE_UP~
+
+;0x4B0CEC2C=Well done. The Bus Stop is complete.
+0x4B0CEC2C=Well done. The Bus Stop is complete.
+
+;0x4EB38078=~PAD_LSTICK_LEFT~
+0x4EB38078=~PAD_LSTICK_LEFT~
+
+;0x5C030933=~PAD_Y~
+0x5C030933=~PAD_Y~
+
+;0x63409733=Excellent, keep it going.
+0x63409733=Excellent, keep it going.
+
+;0x69118616=~PAD_LSTICK_RIGHT~
+0x69118616=~PAD_LSTICK_RIGHT~
+
+;0x83F869F2=Follow the directions as they appear to keep the dance going.
+0x83F869F2=Follow the directions as they appear to keep the dance going.
+
+;0x98326074=~INPUT_MOVE_DOWN~
+0x98326074=~INPUT_MOVE_DOWN~
+
+;0x995844D6=~INPUT_MOVE_RIGHT~
+0x995844D6=~INPUT_MOVE_RIGHT~
+
+;0x9FAE226D=~PAD_LSTICK_DOWN~
+0x9FAE226D=~PAD_LSTICK_DOWN~
+
+;0xA2DD96EB=~PAD_X~
+0xA2DD96EB=~PAD_X~
+
+;0xAF69E9B4=You made too many mistakes. The dance is over.
+0xAF69E9B4=You made too many mistakes. The dance is over.
+
+;0xBF058588=Press the directions as they appear.
+0xBF058588=Press the directions as they appear.
+
+;0xC0497A9C=~INPUT_MOVE_LEFT~
+0xC0497A9C=~INPUT_MOVE_LEFT~
+
+;0xDC7C58EE=~INPUT_KB_LEFT~
+0xDC7C58EE=~INPUT_KB_LEFT~
+

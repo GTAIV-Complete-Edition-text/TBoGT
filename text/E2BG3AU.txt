@@ -1,0 +1,442 @@
+﻿[E2BG3AU]
+;0x03DC8792=E2BG3_ZAE
+0x03DC8792=E2BG3_ZAE
+
+;0x05208FCF=~z~Of course it's locked.
+0x05208FCF=~z~Of course it's locked.
+
+;0x098122EE=~z~Have some grenades, motherfucker.
+0x098122EE=~z~Have some grenades, motherfucker.
+
+;0x0DD8379E=~z~I want you to cover Timur's back. He's is going to talk to some people and I need you there.
+0x0DD8379E=~z~I want you to cover Timur's back. He's is going to talk to some people and I need you there.
+
+;0x0FF9BA57=~z~Never should of worked with that guy...
+0x0FF9BA57=~z~Never should of worked with that guy...
+
+;0x11840998=E2MF1_EA
+0x11840998=E2MF1_EA
+
+;0x1483436A=~z~Ray, you asshole.
+0x1483436A=~z~Ray, you asshole.
+
+;0x15038E60=E2BG3_ZAC
+0x15038E60=E2BG3_ZAC
+
+;0x15C6C77B=~z~Okay, man. I got it. But you should chill out, bro.
+0x15C6C77B=~z~Okay, man. I got it. But you should chill out, bro.
+
+;0x162DC21A=~z~Don't tell me to shut up!
+0x162DC21A=~z~Don't tell me to shut up!
+
+;0x1849C386=~z~Ray! Ray! What are you still doing here anyway?
+0x1849C386=~z~Ray! Ray! What are you still doing here anyway?
+
+;0x189843FF=~z~You got them from the fat cook?
+0x189843FF=~z~You got them from the fat cook?
+
+;0x18B95D67=SFX_PAUSE_300
+0x18B95D67=SFX_PAUSE_300
+
+;0x1D8C22C8=E2MF1_EB
+0x1D8C22C8=E2MF1_EB
+
+;0x256393B2=~z~Ray, hey man, I hate to disappoint you.
+0x256393B2=~z~Ray, hey man, I hate to disappoint you.
+
+;0x2647E6F3=~z~So stupid. I might just deserve this.
+0x2647E6F3=~z~So stupid. I might just deserve this.
+
+;0x27762AC0=E2BG3_ADE
+0x27762AC0=E2BG3_ADE
+
+;0x27B454F6=~z~Locked? What the fuck?
+0x27B454F6=~z~Locked? What the fuck?
+
+;0x285CB245=~z~Yo, We just got some rocks off him. Okay? Look, listen-
+0x285CB245=~z~Yo, We just got some rocks off him. Okay? Look, listen-
+
+;0x286CECC7=~z~Let me decide when to chill out. Go.
+0x286CECC7=~z~Let me decide when to chill out. Go.
+
+;0x28EB6795=~z~So, I heard from some people I know that maybe you have some diamonds for sale?
+0x28EB6795=~z~So, I heard from some people I know that maybe you have some diamonds for sale?
+
+;0x2C137A8A=~z~No, give me a sec...
+0x2C137A8A=~z~No, give me a sec...
+
+;0x2CBF2251=~z~Pathetic. Why did I have faith in this loser?
+0x2CBF2251=~z~Pathetic. Why did I have faith in this loser?
+
+;0x2F66D1C4=~z~He cut that cook's head off. Long story short he wants us dead.
+0x2F66D1C4=~z~He cut that cook's head off. Long story short he wants us dead.
+
+;0x30900383=~z~Open it....
+0x30900383=~z~Open it....
+
+;0x32DD81A4=~z~I gotta talk to Tony.
+0x32DD81A4=~z~I gotta talk to Tony.
+
+;0x32EE6B6A=~z~It's locked. Perfect.
+0x32EE6B6A=~z~It's locked. Perfect.
+
+;0x39D766E8=E2BG3_ADF
+0x39D766E8=E2BG3_ADF
+
+;0x3A9256B0=~z~You colluded with him to steal from me.
+0x3A9256B0=~z~You colluded with him to steal from me.
+
+;0x3B187EF3=~z~Hunting? Hunting humans, dog. I got top of the line sniper shit I can give you.
+0x3B187EF3=~z~Hunting? Hunting humans, dog. I got top of the line sniper shit I can give you.
+
+;0x40DEE628=E2BG3_AAA
+0x40DEE628=E2BG3_AAA
+
+;0x41317559=~z~And it turns out the diamonds we bought were stolen off him in the first place.
+0x41317559=~z~And it turns out the diamonds we bought were stolen off him in the first place.
+
+;0x42CAA7F8=~z~Noooo?
+0x42CAA7F8=~z~Noooo?
+
+;0x4322CF30=~z~Luis.
+0x4322CF30=~z~Luis.
+
+;0x4360998F=~z~You think you're a big man. Where's your house on Middle Park East? Where's your big sports team, huh?
+0x4360998F=~z~You think you're a big man. Where's your house on Middle Park East? Where's your big sports team, huh?
+
+;0x43D8693C=~z~Yo, I don't know shit about those rocks.
+0x43D8693C=~z~Yo, I don't know shit about those rocks.
+
+;0x47D9B037=E2BG3_ZAI
+0x47D9B037=E2BG3_ZAI
+
+;0x4AEF118A=E2BG3_ZAF
+0x4AEF118A=E2BG3_ZAF
+
+;0x4D3E045A=E2BG3_AAC
+0x4D3E045A=E2BG3_AAC
+
+;0x4DDD0EB4=~z~He's bad news. I hate to be the voice of reason here, but I don't think we need that kind of stress in our lives.
+0x4DDD0EB4=~z~He's bad news. I hate to be the voice of reason here, but I don't think we need that kind of stress in our lives.
+
+;0x51546B93=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
+0x51546B93=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
+
+;0x534D3C58=~z~Hey. Where's the one man band?
+0x534D3C58=~z~Hey. Where's the one man band?
+
+;0x56170DB9=~z~No, you listen. I offered you an opportunity, yet you were plotting against me.
+0x56170DB9=~z~No, you listen. I offered you an opportunity, yet you were plotting against me.
+
+;0x56823FD2=~z~I'll stay as long as I like.
+0x56823FD2=~z~I'll stay as long as I like.
+
+;0x5B4921D0=E2BG3_AAB
+0x5B4921D0=E2BG3_AAB
+
+;0x5C960D23=E2BG3_ZCA
+0x5C960D23=E2BG3_ZCA
+
+;0x5F63DAB4=~z~You got to talk to Daddy... I thought I was making you a real man. Not a rentboy.
+0x5F63DAB4=~z~You got to talk to Daddy... I thought I was making you a real man. Not a rentboy.
+
+;0x601EDC26=~z~Ignore her, Luis. The diamonds - tell me.
+0x601EDC26=~z~Ignore her, Luis. The diamonds - tell me.
+
+;0x62173E68=E2BG3_ZAJ
+0x62173E68=E2BG3_ZAJ
+
+;0x64DFAB4A=~z~Shit!
+0x64DFAB4A=~z~Shit!
+
+;0x65426CE7=~z~Have you opened it yet?
+0x65426CE7=~z~Have you opened it yet?
+
+;0x689366E4=~z~Mr. Luis.
+0x689366E4=~z~Mr. Luis.
+
+;0x6A80B873=SFX_PAUSE_210
+0x6A80B873=SFX_PAUSE_210
+
+;0x6C484B8A=~z~Listen, Tony, I got something to talk to you about. You remember that Ray Bulgarin guy?
+0x6C484B8A=~z~Listen, Tony, I got something to talk to you about. You remember that Ray Bulgarin guy?
+
+;0x6CAF44A9=090
+0x6CAF44A9=090
+
+;0x71267E39=~z~I can't sell what ain't mine, bro, and plus, with all the work I put in for you, I don't really feel like a man yet.
+0x71267E39=~z~I can't sell what ain't mine, bro, and plus, with all the work I put in for you, I don't really feel like a man yet.
+
+;0x714BF565=~z~Shut up, you cunt.
+0x714BF565=~z~Shut up, you cunt.
+
+;0x71968F40=~z~That'll teach ya...
+0x71968F40=~z~That'll teach ya...
+
+;0x77224FCF=~z~Do you recognise this man?
+0x77224FCF=~z~Do you recognise this man?
+
+;0x785012EA=~z~Yeah.
+0x785012EA=~z~Yeah.
+
+;0x79D99615=~z~Okay, I'm here.
+0x79D99615=~z~Okay, I'm here.
+
+;0x7BA3EA41=~z~Yo, man, we already got it. I, ummm, talked to him about some opportunities.
+0x7BA3EA41=~z~Yo, man, we already got it. I, ummm, talked to him about some opportunities.
+
+;0x7BCD8A68=~z~Shut up, you fucking cunt.
+0x7BCD8A68=~z~Shut up, you fucking cunt.
+
+;0x7DF61D8F=E2BG3_ZAH
+0x7DF61D8F=E2BG3_ZAH
+
+;0x7DFAEA02=100090010010090100090100
+0x7DFAEA02=100090010010090100090100
+
+;0x80636251=~z~Yo, what the fuck? Is this the guy we bought the ice from?
+0x80636251=~z~Yo, what the fuck? Is this the guy we bought the ice from?
+
+;0x82B51B27=~z~Ray? Hey Ray!
+0x82B51B27=~z~Ray? Hey Ray!
+
+;0x88E971FE=~z~Yeah. A real relief.
+0x88E971FE=~z~Yeah. A real relief.
+
+;0x8B7442FB=~z~You weren't quick enough.
+0x8B7442FB=~z~You weren't quick enough.
+
+;0x8B89A2C7=~z~I was in with some bad Russians, and they've sent this crack sniper team after us.
+0x8B89A2C7=~z~I was in with some bad Russians, and they've sent this crack sniper team after us.
+
+;0x8B96B18B=~z~Take the fucking diamonds. Shit.
+0x8B96B18B=~z~Take the fucking diamonds. Shit.
+
+;0x8DA52E17=~z~Aargh, fuck you, Ray!
+0x8DA52E17=~z~Aargh, fuck you, Ray!
+
+;0x91C5AC4C=~z~Yo, L, what's up?
+0x91C5AC4C=~z~Yo, L, what's up?
+
+;0x92AD06E4=~z~I believe you partnered with him in a diamond deal.
+0x92AD06E4=~z~I believe you partnered with him in a diamond deal.
+
+;0x92F307D1=E2BG3_ZAA
+0x92F307D1=E2BG3_ZAA
+
+;0x9357BC6C=~z~I have company. Shut up.
+0x9357BC6C=~z~I have company. Shut up.
+
+;0x93A49097=~z~Oh, shit! Fucking great.
+0x93A49097=~z~Oh, shit! Fucking great.
+
+;0x959D472A=~z~Mother always said she only had daughters!
+0x959D472A=~z~Mother always said she only had daughters!
+
+;0x95B6BB88=~z~Where all these fucks been hiding...
+0x95B6BB88=~z~Where all these fucks been hiding...
+
+;0x9601B7B3=~z~What? How come?
+0x9601B7B3=~z~What? How come?
+
+;0x98654397=~z~A big gun makes you a big man. Huh?
+0x98654397=~z~A big gun makes you a big man. Huh?
+
+;0x9A0AA70E=~z~That Russian gangster? You think he'd lend us the money we need to get out of this shit?
+0x9A0AA70E=~z~That Russian gangster? You think he'd lend us the money we need to get out of this shit?
+
+;0x9A82573F=E2BG3_ADC
+0x9A82573F=E2BG3_ADC
+
+;0x9CC1DBCD=~z~Ah, yeah okay.
+0x9CC1DBCD=~z~Ah, yeah okay.
+
+;0xA00D48DB=~z~and I think I might need some long range type shit for it. You got a hunting rifle, something like that, for me?
+0xA00D48DB=~z~and I think I might need some long range type shit for it. You got a hunting rifle, something like that, for me?
+
+;0xA04E0134=100010100010100
+0xA04E0134=100010100010100
+
+;0xA7645A12=E2BG3_ZBA
+0xA7645A12=E2BG3_ZBA
+
+;0xA904E4FA=~z~Your thingie was tiny even before the wrestling coach make you take steroids.
+0xA904E4FA=~z~Your thingie was tiny even before the wrestling coach make you take steroids.
+
+;0xA96DBC29=~z~Goodbye.
+0xA96DBC29=~z~Goodbye.
+
+;0xAA1FE70C=~z~Hey, man. Is she okay?
+0xAA1FE70C=~z~Hey, man. Is she okay?
+
+;0xAD14E5DD=~z~I shoulda handled them myself, but I got scared and I ran. I'm sorry, bro. Look after yourself.
+0xAD14E5DD=~z~I shoulda handled them myself, but I got scared and I ran. I'm sorry, bro. Look after yourself.
+
+;0xAD827D4E=~z~You are in position. Do you see a box in front of you?
+0xAD827D4E=~z~You are in position. Do you see a box in front of you?
+
+;0xAEF3C7C9=E2MF1_ED
+0xAEF3C7C9=E2MF1_ED
+
+;0xAF454720=E2MF1_EC
+0xAF454720=E2MF1_EC
+
+;0xAF5B6777=~z~Hey man, quick favor to ask. I got to watch over this deal on Denver in Little Italy
+0xAF5B6777=~z~Hey man, quick favor to ask. I got to watch over this deal on Denver in Little Italy
+
+;0xB1CD865A=E2BG3_ACA
+0xB1CD865A=E2BG3_ACA
+
+;0xB203064F=~z~- Hey.~n~ - Yeah what's up, I'm here.
+0xB203064F=~z~- Hey.~n~ - Yeah what's up, I'm here.
+
+;0xB397E9B2=E2BG3_ZAD
+0xB397E9B2=E2BG3_ZAD
+
+;0xB41C144E=~z~You ain't so hot.
+0xB41C144E=~z~You ain't so hot.
+
+;0xB848E35B=102
+0xB848E35B=102
+
+;0xB86580E1=~z~More of them? You joking?
+0xB86580E1=~z~More of them? You joking?
+
+;0xB8740B45=~z~More trouble than they worth. Damn.
+0xB8740B45=~z~More trouble than they worth. Damn.
+
+;0xB9C69FAB=~z~Sorry, bro.
+0xB9C69FAB=~z~Sorry, bro.
+
+;0xBBD88D71=~z~Not me. My boss, Tony. Well, my other boss.
+0xBBD88D71=~z~Not me. My boss, Tony. Well, my other boss.
+
+;0xBE6B0CBF=~z~I'll blow you off that roof!
+0xBE6B0CBF=~z~I'll blow you off that roof!
+
+;0xC29F7837=~z~Luis, shit, I've been looking for you.
+0xC29F7837=~z~Luis, shit, I've been looking for you.
+
+;0xC6008C33=E2BG3_ZAB
+0xC6008C33=E2BG3_ZAB
+
+;0xC6BF12B5=E2BG3_ABA
+0xC6BF12B5=E2BG3_ABA
+
+;0xCA5624C2=~z~Even more of these guys. Damn.
+0xCA5624C2=~z~Even more of these guys. Damn.
+
+;0xCACFAFFC=~z~If I get out of this...
+0xCACFAFFC=~z~If I get out of this...
+
+;0xCD388D01=~z~I'm sorry. I fucked up. Kind of refreshing for me to be the one getting us in shit for once, don't you think?
+0xCD388D01=~z~I'm sorry. I fucked up. Kind of refreshing for me to be the one getting us in shit for once, don't you think?
+
+;0xCFA900D7=~z~I will do everything in my considerable power to drive you and your faggot master from this earth.
+0xCFA900D7=~z~I will do everything in my considerable power to drive you and your faggot master from this earth.
+
+;0xD0343051=~z~You blow up now, fuckhead.
+0xD0343051=~z~You blow up now, fuckhead.
+
+;0xD220250E=090
+0xD220250E=090
+
+;0xD408C923=SFX_PAUSE_320
+0xD408C923=SFX_PAUSE_320
+
+;0xD6A9D971=~z~Bye bye.
+0xD6A9D971=~z~Bye bye.
+
+;0xD7069749=100010100100010010010100010100
+0xD7069749=100010100100010010010100010100
+
+;0xD77A37B8=~z~I'll leave it in the alleyway right by there. Let's hang soon, yo.
+0xD77A37B8=~z~I'll leave it in the alleyway right by there. Let's hang soon, yo.
+
+;0xD8590F42=E2BG3_AAD
+0xD8590F42=E2BG3_AAD
+
+;0xD9D9B755=E2BG3_ZAG
+0xD9D9B755=E2BG3_ZAG
+
+;0xD9F613DC=SFX_PAUSE_270
+0xD9F613DC=SFX_PAUSE_270
+
+;0xDB8E29AC=~z~Poor old chef. What were you doing talking to these guys without me, Lou?
+0xDB8E29AC=~z~Poor old chef. What were you doing talking to these guys without me, Lou?
+
+;0xDB979CEF=E2BG3_AAE
+0xDB979CEF=E2BG3_AAE
+
+;0xDBEFD23C=~z~This aint my time to die, motherfuckers
+0xDBEFD23C=~z~This aint my time to die, motherfuckers
+
+;0xDD36502C=~z~He's working.
+0xDD36502C=~z~He's working.
+
+;0xDD958417=~z~Then do not.
+0xDD958417=~z~Then do not.
+
+;0xE0449EA2=E2BG3_ADD
+0xE0449EA2=E2BG3_ADD
+
+;0xE05AA755=SFX_PAUSE_330
+0xE05AA755=SFX_PAUSE_330
+
+;0xE1300A89=090
+0xE1300A89=090
+
+;0xE172A46A=~z~But I believe it doesn't matter.
+0xE172A46A=~z~But I believe it doesn't matter.
+
+;0xE1B41E2D=SFX_PAUSE_250
+0xE1B41E2D=SFX_PAUSE_250
+
+;0xE2DED5A6=~z~Eat a grenade, fucker!
+0xE2DED5A6=~z~Eat a grenade, fucker!
+
+;0xE477DD6C=090
+0xE477DD6C=090
+
+;0xE79DC486=100010090100090010090010090100
+0xE79DC486=100010090100090010090010090100
+
+;0xE8C1DD32=~z~Lou. Where've you been?
+0xE8C1DD32=~z~Lou. Where've you been?
+
+;0xE8DE7DDA=~z~Got you.
+0xE8DE7DDA=~z~Got you.
+
+;0xEB3CFADF=E2BG3_ADB
+0xEB3CFADF=E2BG3_ADB
+
+;0xEC2AD140=E2BG3_AEA
+0xEC2AD140=E2BG3_AEA
+
+;0xEE70773D=~z~What were you thinking, Lopez?
+0xEE70773D=~z~What were you thinking, Lopez?
+
+;0xEE90BA1A=SFX_PAUSE_300
+0xEE90BA1A=SFX_PAUSE_300
+
+;0xEFF1F5A3=~z~Okay.
+0xEFF1F5A3=~z~Okay.
+
+;0xF49A0C91=~z~You mean even more people want us dead? How am I not surprised? Fuck!
+0xF49A0C91=~z~You mean even more people want us dead? How am I not surprised? Fuck!
+
+;0xF4B0F94A=~z~You like boom boom, bitch.
+0xF4B0F94A=~z~You like boom boom, bitch.
+
+;0xF51039B5=E2MF1_EE
+0xF51039B5=E2MF1_EE
+
+;0xF984FEB8=~z~Tony? Fuck! Look, bro. I'm sorry I can't explain all this, but you need to lay low a while.
+0xF984FEB8=~z~Tony? Fuck! Look, bro. I'm sorry I can't explain all this, but you need to lay low a while.
+
+;0xFB0A9203=~z~Okay, soon, man, soon.
+0xFB0A9203=~z~Okay, soon, man, soon.
+
+;0xFEBCA0A6=E2BG3_ADA
+0xFEBCA0A6=E2BG3_ADA
+

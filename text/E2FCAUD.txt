@@ -1,0 +1,1105 @@
+﻿[E2FCAUD]
+;0x010A2DEA=E2FC_BM
+0x010A2DEA=E2FC_BM
+
+;0x01AF15EE=190090190090290190190290190290290090290090090190190090290
+0x01AF15EE=190090190090290190190290190290290090290090090190190090290
+
+;0x025232A5=~z~Mellow Luis! That's a funny one.
+0x025232A5=~z~Mellow Luis! That's a funny one.
+
+;0x02B12B34=~z~Here we go again. Blah blah blah... put on a new record, DJ.
+0x02B12B34=~z~Here we go again. Blah blah blah... put on a new record, DJ.
+
+;0x032811FD=~z~But I think you spoke about some shit so you took a walk and I, who didn't talk, I took a fall, and I don't care.
+0x032811FD=~z~But I think you spoke about some shit so you took a walk and I, who didn't talk, I took a fall, and I don't care.
+
+;0x03BAB805=E2FC_AF
+0x03BAB805=E2FC_AF
+
+;0x048E39D8=E2FC_GAA
+0x048E39D8=E2FC_GAA
+
+;0x04A68689=E2FC_GV
+0x04A68689=E2FC_GV
+
+;0x054852C2=E2FC_CA
+0x054852C2=E2FC_CA
+
+;0x059CF3D6=190090190090190090190090190290190290190290090190
+0x059CF3D6=190090190090190090190090190290190290190290090190
+
+;0x05FAD0DD=~z~You a killer, man. Always was.
+0x05FAD0DD=~z~You a killer, man. Always was.
+
+;0x060E36F8=~z~All I was saying is that it's cool to hang out and you've got to both act like a pair of fucking women.
+0x060E36F8=~z~All I was saying is that it's cool to hang out and you've got to both act like a pair of fucking women.
+
+;0x0669F1B9=E2FC_EQ
+0x0669F1B9=E2FC_EQ
+
+;0x07A6BA32=E2FC_DM
+0x07A6BA32=E2FC_DM
+
+;0x07B0F615=~z~What's that, homie?
+0x07B0F615=~z~What's that, homie?
+
+;0x07BAFE07=~z~Oye, I only saw her a minute, man. She came down to Maisonette.
+0x07BAFE07=~z~Oye, I only saw her a minute, man. She came down to Maisonette.
+
+;0x0871DE98=~z~What situation?
+0x0871DE98=~z~What situation?
+
+;0x0A438AA7=E2FC_HL
+0x0A438AA7=E2FC_HL
+
+;0x0AF96A85=~z~Cool. Living and dying for dope... with no hope of nothing better. Seems kind of pathetic to me.
+0x0AF96A85=~z~Cool. Living and dying for dope... with no hope of nothing better. Seems kind of pathetic to me.
+
+;0x0B8F5247=~z~Oye, I help when I can. You know that.
+0x0B8F5247=~z~Oye, I help when I can. You know that.
+
+;0x0C036869=E2FC_IE
+0x0C036869=E2FC_IE
+
+;0x0CCB7374=~z~You ain't losing me, bro. I took a fucking fall for you, you dumb, ingrate prick, and we still friends,
+0x0CCB7374=~z~You ain't losing me, bro. I took a fucking fall for you, you dumb, ingrate prick, and we still friends,
+
+;0x0CD6F21E=~z~I mean why you fucking stupid, bro. Is it 'cause your momma was smoking crack while she had you,
+0x0CD6F21E=~z~I mean why you fucking stupid, bro. Is it 'cause your momma was smoking crack while she had you,
+
+;0x0E189C4D=~z~How you doing, L?
+0x0E189C4D=~z~How you doing, L?
+
+;0x0F90E72F=~z~That ain't true.
+0x0F90E72F=~z~That ain't true.
+
+;0x10194E33=~z~So you'll understand that maybe sometimes I like things to be a little mellower.
+0x10194E33=~z~So you'll understand that maybe sometimes I like things to be a little mellower.
+
+;0x102D918E=~z~That he all growed up while we still the same as we were as kids. He too good for us.
+0x102D918E=~z~That he all growed up while we still the same as we were as kids. He too good for us.
+
+;0x1092CC01=~z~Oh shut up. Both of you. You're both as bad as each other.
+0x1092CC01=~z~Oh shut up. Both of you. You're both as bad as each other.
+
+;0x10BE9B44=E2FC_GL
+0x10BE9B44=E2FC_GL
+
+;0x127DCFA9=E2FC_BN
+0x127DCFA9=E2FC_BN
+
+;0x12F71556=E2FC_AL1
+0x12F71556=E2FC_AL1
+
+;0x13AF813C=~z~Why did I spend a chunk of my life inside, and you didn't?
+0x13AF813C=~z~Why did I spend a chunk of my life inside, and you didn't?
+
+;0x15F99A84=~z~You shoulda linked us, man.
+0x15F99A84=~z~You shoulda linked us, man.
+
+;0x1665529C=~z~Cool, man. You too.
+0x1665529C=~z~Cool, man. You too.
+
+;0x1708C49C=~z~Then what kind, bro?
+0x1708C49C=~z~Then what kind, bro?
+
+;0x1797F2B7=~z~Careful, man. I'm sick. Who knows what I could do?
+0x1797F2B7=~z~Careful, man. I'm sick. Who knows what I could do?
+
+;0x1AD98F16=~z~Like my dad for starters and my mom for second. If the Island life don't grab you, bro,
+0x1AD98F16=~z~Like my dad for starters and my mom for second. If the Island life don't grab you, bro,
+
+;0x1B0FA798=E2FC_EN
+0x1B0FA798=E2FC_EN
+
+;0x1BB66C69=E2FC_CO
+0x1BB66C69=E2FC_CO
+
+;0x1E8C9ACA=E2FC_BC
+0x1E8C9ACA=E2FC_BC
+
+;0x1F18AE8E=E2FC_EK
+0x1F18AE8E=E2FC_EK
+
+;0x1F7A0701=~z~Fuck you, little asshole. I ain't a moron.
+0x1F7A0701=~z~Fuck you, little asshole. I ain't a moron.
+
+;0x1F8818B9=E2FC_GA
+0x1F8818B9=E2FC_GA
+
+;0x21A9CF00=~z~I sleep just fine.
+0x21A9CF00=~z~I sleep just fine.
+
+;0x21DAC3D1=~z~Good, man. How you boys been?
+0x21DAC3D1=~z~Good, man. How you boys been?
+
+;0x229021E1=E2FC_CC
+0x229021E1=E2FC_CC
+
+;0x230F3751=~z~Maybe we is going different directions right now, but that don't mean I think I'm better than you.
+0x230F3751=~z~Maybe we is going different directions right now, but that don't mean I think I'm better than you.
+
+;0x23986D02=~z~Just like the old times.
+0x23986D02=~z~Just like the old times.
+
+;0x23B22141=~z~Well, for real, what happened?
+0x23B22141=~z~Well, for real, what happened?
+
+;0x253660F7=~z~No.
+0x253660F7=~z~No.
+
+;0x25A31FE4=~z~Me neither, but I'd rather die trying to get out of this world, than stuck in it, you know what I mean?
+0x25A31FE4=~z~Me neither, but I'd rather die trying to get out of this world, than stuck in it, you know what I mean?
+
+;0x26B6C5F0=E2FC_GM
+0x26B6C5F0=E2FC_GM
+
+;0x2AE379F4=E2FC_BO
+0x2AE379F4=E2FC_BO
+
+;0x2C925147=E2FC_JL
+0x2C925147=E2FC_JL
+
+;0x2DDBD1B0=E2FC_ER
+0x2DDBD1B0=E2FC_ER
+
+;0x2E7C7C4B=E2FC_FH
+0x2E7C7C4B=E2FC_FH
+
+;0x2EB79887=~z~So, like, when you coming on board full time. When we talking the operation to the next level?
+0x2EB79887=~z~So, like, when you coming on board full time. When we talking the operation to the next level?
+
+;0x2F223FB4=E2FC_IL
+0x2F223FB4=E2FC_IL
+
+;0x30073882=~z~You guys. We supposed to be having a good time. What's got into you?
+0x30073882=~z~You guys. We supposed to be having a good time. What's got into you?
+
+;0x340BAB9E=~z~Well, you certainly seem to like angry asshole, so I see what you mean.
+0x340BAB9E=~z~Well, you certainly seem to like angry asshole, so I see what you mean.
+
+;0x34E15AF5=~z~Well you should do, 'cause it's fucking true.
+0x34E15AF5=~z~Well you should do, 'cause it's fucking true.
+
+;0x34E5F578=~z~Listen, I know you didn't rat me out. If I thought you had, I would have killed you.
+0x34E5F578=~z~Listen, I know you didn't rat me out. If I thought you had, I would have killed you.
+
+;0x34F18DB9=E2FC_FD
+0x34F18DB9=E2FC_FD
+
+;0x359C701D=E2FC_AJ
+0x359C701D=E2FC_AJ
+
+;0x359D8BF1=E2FC_FG
+0x359D8BF1=E2FC_FG
+
+;0x35FDC099=~z~Me too.
+0x35FDC099=~z~Me too.
+
+;0x3614DABA=~z~Ended up cornering Jimmy Boston and crying her eyes out. Telling him she hated her life.
+0x3614DABA=~z~Ended up cornering Jimmy Boston and crying her eyes out. Telling him she hated her life.
+
+;0x363ABA2D=~z~I been meaning to ask you, L. How your tight-ass hermano feel about your current situation.
+0x363ABA2D=~z~I been meaning to ask you, L. How your tight-ass hermano feel about your current situation.
+
+;0x396E2D89=E2FC_DH
+0x396E2D89=E2FC_DH
+
+;0x3996E3FC=~z~Part of making Luis tell us that he ain't like us no more.
+0x3996E3FC=~z~Part of making Luis tell us that he ain't like us no more.
+
+;0x3CFAB50D=~z~So what, man?
+0x3CFAB50D=~z~So what, man?
+
+;0x3E3A56F5=E2FC_CI
+0x3E3A56F5=E2FC_CI
+
+;0x3E68B2ED=E2FC_CL
+0x3E68B2ED=E2FC_CL
+
+;0x3ED503FB=E2FC_FJ
+0x3ED503FB=E2FC_FJ
+
+;0x3F41EF0B=E2FC_AL2
+0x3F41EF0B=E2FC_AL2
+
+;0x4096DA9C=E2FC_DA
+0x4096DA9C=E2FC_DA
+
+;0x42974A15=~z~I mean - what the fuck is wrong with you? You have that little self awareness.
+0x42974A15=~z~I mean - what the fuck is wrong with you? You have that little self awareness.
+
+;0x4421435A=~z~So, L?
+0x4421435A=~z~So, L?
+
+;0x4459D65F=~z~Must really get that dorky motherfucker's back up.
+0x4459D65F=~z~Must really get that dorky motherfucker's back up.
+
+;0x44E5623E=~z~At least I got a momma, A. Least mine didn't run out on me.
+0x44E5623E=~z~At least I got a momma, A. Least mine didn't run out on me.
+
+;0x451F8091=E2FC_GK
+0x451F8091=E2FC_GK
+
+;0x47D96450=~z~I ain't afraid to die.
+0x47D96450=~z~I ain't afraid to die.
+
+;0x48728207=E2FC_JA
+0x48728207=E2FC_JA
+
+;0x489705E8=E2FC_JR
+0x489705E8=E2FC_JR
+
+;0x4913BFA6=E2FC_AG
+0x4913BFA6=E2FC_AG
+
+;0x493C7903=~z~Like who?
+0x493C7903=~z~Like who?
+
+;0x49A712FA=E2FC_GC
+0x49A712FA=E2FC_GC
+
+;0x4C8C3887=~z~Fuck you, Armando. Why you so angry?
+0x4C8C3887=~z~Fuck you, Armando. Why you so angry?
+
+;0x4CAED89B=E2FC_GAE
+0x4CAED89B=E2FC_GAE
+
+;0x4CCFA373=E2FC_GH
+0x4CCFA373=E2FC_GH
+
+;0x4CDD3F8B=~z~Listen that faggot cage fighting bullshit may work with a bunch of Russian models,
+0x4CDD3F8B=~z~Listen that faggot cage fighting bullshit may work with a bunch of Russian models,
+
+;0x4D60C092=~z~Excuse me?
+0x4D60C092=~z~Excuse me?
+
+;0x4F24D21C=E2FC_AI
+0x4F24D21C=E2FC_AI
+
+;0x515F96F8=E2FC_FM
+0x515F96F8=E2FC_FM
+
+;0x52727EC1=~z~This again.
+0x52727EC1=~z~This again.
+
+;0x52C6E918=E2FC_EB
+0x52C6E918=E2FC_EB
+
+;0x53010C50=~z~You being weird, A. Rique can go wherever the fuck he likes.
+0x53010C50=~z~You being weird, A. Rique can go wherever the fuck he likes.
+
+;0x5306154C=E2FC_EL
+0x5306154C=E2FC_EL
+
+;0x539112A1=E2FC_EH
+0x539112A1=E2FC_EH
+
+;0x543080D4=~z~What you mean? Why is he, like, the most dependable motherfucker to have around in the fight?
+0x543080D4=~z~What you mean? Why is he, like, the most dependable motherfucker to have around in the fight?
+
+;0x54C629A7=~z~I just told you - we making moves.
+0x54C629A7=~z~I just told you - we making moves.
+
+;0x550DF28F=E2FC_HD
+0x550DF28F=E2FC_HD
+
+;0x552A2A32=E2FC_JS
+0x552A2A32=E2FC_JS
+
+;0x5565020A=E2FC_CD
+0x5565020A=E2FC_CD
+
+;0x56AAADF0=E2FC_GU
+0x56AAADF0=E2FC_GU
+
+;0x57505811=E2FC_BK
+0x57505811=E2FC_BK
+
+;0x57A326F8=E2FC_GJ
+0x57A326F8=E2FC_GJ
+
+;0x58261C17=090190090190090290190290090190090090190090190090090190090190090090090190090090290190190090290
+0x58261C17=090190090190090290190290090190090090190090190090090190090190090090090190090090290190190090290
+
+;0x582F786B=~z~And what's your excuse, A? For being a moron, I mean...
+0x582F786B=~z~And what's your excuse, A? For being a moron, I mean...
+
+;0x58400850=E2FC_BI
+0x58400850=E2FC_BI
+
+;0x5840DA60=E2FC_AD
+0x5840DA60=E2FC_AD
+
+;0x5849DB6E=~z~Fair enough. Sorry H.
+0x5849DB6E=~z~Fair enough. Sorry H.
+
+;0x5C10AEB4=E2FC_GAC
+0x5C10AEB4=E2FC_GAC
+
+;0x5CEC70FC=E2FC_CM
+0x5CEC70FC=E2FC_CM
+
+;0x5E2BEA7B=~z~Man, we gonna have some fucking fun, right?
+0x5E2BEA7B=~z~Man, we gonna have some fucking fun, right?
+
+;0x5E49DC02=~z~Yeah, bro - why you so angry?
+0x5E49DC02=~z~Yeah, bro - why you so angry?
+
+;0x5E8762DF=~z~What, now you're going to get all in my face and act like the hard man, huh son?
+0x5E8762DF=~z~What, now you're going to get all in my face and act like the hard man, huh son?
+
+;0x5F7FAB96=E2FC_EG
+0x5F7FAB96=E2FC_EG
+
+;0x5F89840D=~z~I ain't sick.
+0x5F89840D=~z~I ain't sick.
+
+;0x5F8CA3D8=E2FC_EF
+0x5F8CA3D8=E2FC_EF
+
+;0x5FD52E30=E2FC_DE
+0x5FD52E30=E2FC_DE
+
+;0x6192F842=E2FC_DI
+0x6192F842=E2FC_DI
+
+;0x6212A68C=E2FC_IO
+0x6212A68C=E2FC_IO
+
+;0x62D59ACE=E2FC_HA
+0x62D59ACE=E2FC_HA
+
+;0x63C3BF72=E2FC_GAD
+0x63C3BF72=E2FC_GAD
+
+;0x64ED85AB=E2FC_DG
+0x64ED85AB=E2FC_DG
+
+;0x665C1F75=E2FC_IC
+0x665C1F75=E2FC_IC
+
+;0x6684CD24=~z~Yes, I got that bit, fool. What I meant was how you and Henrique B planning on doing next?
+0x6684CD24=~z~Yes, I got that bit, fool. What I meant was how you and Henrique B planning on doing next?
+
+;0x67AC7A33=~z~Yeah, sorry H. And he's right. It is good to hang out.
+0x67AC7A33=~z~Yeah, sorry H. And he's right. It is good to hang out.
+
+;0x68D49F54=~z~Yo. You remember when he caught us trying to get into Mr. Ellis's house?
+0x68D49F54=~z~Yo. You remember when he caught us trying to get into Mr. Ellis's house?
+
+;0x6908F180=~z~Yeah, shut up.
+0x6908F180=~z~Yeah, shut up.
+
+;0x69553F20=E2FC_JJ
+0x69553F20=E2FC_JJ
+
+;0x6A0DF951=E2FC_FC
+0x6A0DF951=E2FC_FC
+
+;0x6AE04895=E2FC_FL
+0x6AE04895=E2FC_FL
+
+;0x6B44C915=E2FC_EM
+0x6B44C915=E2FC_EM
+
+;0x6C0733CE=E2FC_CH
+0x6C0733CE=E2FC_CH
+
+;0x6C6606EF=~z~Yeah, smash some skulls.
+0x6C6606EF=~z~Yeah, smash some skulls.
+
+;0x6DDB20B0=~z~You sick. You a sick fuck.
+0x6DDB20B0=~z~You sick. You a sick fuck.
+
+;0x6FACD16F=~z~Yeah, bro. I don't think my brother like my situation.
+0x6FACD16F=~z~Yeah, bro. I don't think my brother like my situation.
+
+;0x7022B9A7=~z~Oye, you got some real abandonment issues you got to deal with, Armando. Damn.
+0x7022B9A7=~z~Oye, you got some real abandonment issues you got to deal with, Armando. Damn.
+
+;0x71EE16DA=E2FC_GY
+0x71EE16DA=E2FC_GY
+
+;0x728FB2CA=~z~Mingling with all these celebrities. We give you shit, but it's kind of impressive.
+0x728FB2CA=~z~Mingling with all these celebrities. We give you shit, but it's kind of impressive.
+
+;0x7297AE32=E2FC_IN
+0x7297AE32=E2FC_IN
+
+;0x734284F6=E2FC_FI
+0x734284F6=E2FC_FI
+
+;0x73FF45EA=E2FC_CB
+0x73FF45EA=E2FC_CB
+
+;0x74735AB8=E2FC_GO
+0x74735AB8=E2FC_GO
+
+;0x74E75BE0=~z~People don't change.
+0x74E75BE0=~z~People don't change.
+
+;0x754F49BD=E2FC_IJ
+0x754F49BD=E2FC_IJ
+
+;0x7569E075=E2FC_JE
+0x7569E075=E2FC_JE
+
+;0x759042BF=E2FC_HH
+0x759042BF=E2FC_HH
+
+;0x7697C691=~z~Shit, A. You can come too, if you like.
+0x7697C691=~z~Shit, A. You can come too, if you like.
+
+;0x7743C85B=~z~I hope you sleep well, bro.
+0x7743C85B=~z~I hope you sleep well, bro.
+
+;0x78361AF3=E2FC_DL
+0x78361AF3=E2FC_DL
+
+;0x79C373BD=E2FC_JB
+0x79C373BD=E2FC_JB
+
+;0x79E253AC=~z~Jimmy Boston? He a good actor, bro.
+0x79E253AC=~z~Jimmy Boston? He a good actor, bro.
+
+;0x7ACB9505=~z~Who are you loyal to, moron?
+0x7ACB9505=~z~Who are you loyal to, moron?
+
+;0x7BA1F75E=~z~We been making serious moves, dude. Serious shit.
+0x7BA1F75E=~z~We been making serious moves, dude. Serious shit.
+
+;0x7CCCA467=E2FC_GW
+0x7CCCA467=E2FC_GW
+
+;0x7D55ECC1=~z~I'd ask him to do the accounts for the club, but I'd be worried the motherfucker would report us to the IRS.
+0x7D55ECC1=~z~I'd ask him to do the accounts for the club, but I'd be worried the motherfucker would report us to the IRS.
+
+;0x7DA7559A=E2FC_BB
+0x7DA7559A=E2FC_BB
+
+;0x7E6944F7=E2FC_IH
+0x7E6944F7=E2FC_IH
+
+;0x7E6C703B=E2FC_EI
+0x7E6C703B=E2FC_EI
+
+;0x7E7B6E30=E2FC_FB
+0x7E7B6E30=E2FC_FB
+
+;0x801616B5=~z~Not sure. Sometimes I think okay, and sometimes I think fucking awful, bro.
+0x801616B5=~z~Not sure. Sometimes I think okay, and sometimes I think fucking awful, bro.
+
+;0x8018B411=E2FC_ET
+0x8018B411=E2FC_ET
+
+;0x80668B6C=E2FC_GE
+0x80668B6C=E2FC_GE
+
+;0x80870567=290090190090190090090190090190090190290090090190090
+0x80870567=290090190090190090090190090190090190290090090190090
+
+;0x8135747C=~z~No they don't.
+0x8135747C=~z~No they don't.
+
+;0x81380E1F=~z~He's so fucking gay, he probably pissed he didn't spend longer inside.
+0x81380E1F=~z~He's so fucking gay, he probably pissed he didn't spend longer inside.
+
+;0x814C7B9A=E2FC_JH
+0x814C7B9A=E2FC_JH
+
+;0x81713E0D=~z~Part of what, motherfucker? Say it.
+0x81713E0D=~z~Part of what, motherfucker? Say it.
+
+;0x819B7668=E2FC_GN
+0x819B7668=E2FC_GN
+
+;0x83193268=E2FC_AB
+0x83193268=E2FC_AB
+
+;0x84DAD108=E2FC_HE
+0x84DAD108=E2FC_HE
+
+;0x84E3E613=190090190190090290190190290090090190290090
+0x84E3E613=190090190190090290190190290090090190290090
+
+;0x84FE4EF6=~z~That's why we love you.
+0x84FE4EF6=~z~That's why we love you.
+
+;0x8581E4D7=~z~Well, whatever, it certainly impacted you. Now you love hanging with fags.
+0x8581E4D7=~z~Well, whatever, it certainly impacted you. Now you love hanging with fags.
+
+;0x85EF7ADC=E2FC_JC
+0x85EF7ADC=E2FC_JC
+
+;0x86D1047B=E2FC_JK
+0x86D1047B=E2FC_JK
+
+;0x882E1C07=~z~But if you get all street philosopher on me, I am going to beat your bitch ass black and fucking blue.
+0x882E1C07=~z~But if you get all street philosopher on me, I am going to beat your bitch ass black and fucking blue.
+
+;0x89CD836D=E2FC_ED
+0x89CD836D=E2FC_ED
+
+;0x89F0ED43=~z~you gonna get shot by a third world cop, or you'll drown your dumb ass. You ain't fucking leaving me.
+0x89F0ED43=~z~you gonna get shot by a third world cop, or you'll drown your dumb ass. You ain't fucking leaving me.
+
+;0x8A226925=E2FC_IA
+0x8A226925=E2FC_IA
+
+;0x8A90897E=E2FC_JD
+0x8A90897E=E2FC_JD
+
+;0x8AC4F571=~z~Don't look down on her for that shit. Not everyone as acclimatized to the fancy-ass celebrity scene as you are, bro.
+0x8AC4F571=~z~Don't look down on her for that shit. Not everyone as acclimatized to the fancy-ass celebrity scene as you are, bro.
+
+;0x8ACE18B2=E2FC_GAB
+0x8ACE18B2=E2FC_GAB
+
+;0x8CCDB024=~z~The kind you're too cool to tell us about, huh?
+0x8CCDB024=~z~The kind you're too cool to tell us about, huh?
+
+;0x8D671AE8=~z~Cool. And what's the plan?
+0x8D671AE8=~z~Cool. And what's the plan?
+
+;0x8DC26394=~z~It ain't your fault. Whole neighborhood knows you got dropped out of a window when you was baby...
+0x8DC26394=~z~It ain't your fault. Whole neighborhood knows you got dropped out of a window when you was baby...
+
+;0x8E500DD5=~z~Exactly...
+0x8E500DD5=~z~Exactly...
+
+;0x8F04682F=E2FC_IQ
+0x8F04682F=E2FC_IQ
+
+;0x8F62C6AC=190090290090290190190290090190290190290290190090
+0x8F62C6AC=190090290090290190190290090190290190290290190090
+
+;0x8F75EEC3=E2FC_CG
+0x8F75EEC3=E2FC_CG
+
+;0x8FC8CD98=~z~Jesus. I thought Henrique was the moron. I mean, gimme a break, L.
+0x8FC8CD98=~z~Jesus. I thought Henrique was the moron. I mean, gimme a break, L.
+
+;0x90EDAD9A=E2FC_GB
+0x90EDAD9A=E2FC_GB
+
+;0x920909F4=E2FC_EE
+0x920909F4=E2FC_EE
+
+;0x92AB9616=E2FC_AO
+0x92AB9616=E2FC_AO
+
+;0x93D4FB45=E2FC_BH
+0x93D4FB45=E2FC_BH
+
+;0x93FE9BA8=E2FC_EP
+0x93FE9BA8=E2FC_EP
+
+;0x94E0A53A=E2FC_JP
+0x94E0A53A=E2FC_JP
+
+;0x954B117C=E2FC_IK
+0x954B117C=E2FC_IK
+
+;0x966FB88A=~z~Shit weren't like that, L.
+0x966FB88A=~z~Shit weren't like that, L.
+
+;0x9680B494=E2FC_GF
+0x9680B494=E2FC_GF
+
+;0x96999BCA=~z~They cool. Same old 9 to 5 shit.
+0x96999BCA=~z~They cool. Same old 9 to 5 shit.
+
+;0x97137BD1=~z~He did always tell us we was never gonna be shit, didn't he?
+0x97137BD1=~z~He did always tell us we was never gonna be shit, didn't he?
+
+;0x977988D2=~z~I guess I'm just worried about losing my friends...
+0x977988D2=~z~I guess I'm just worried about losing my friends...
+
+;0x978BCE85=~z~Sorry... know you don't do anything you don't enjoy.... I meant sucking them off.
+0x978BCE85=~z~Sorry... know you don't do anything you don't enjoy.... I meant sucking them off.
+
+;0x98AE762E=E2FC_EA
+0x98AE762E=E2FC_EA
+
+;0x99027685=E2FC_GAF
+0x99027685=E2FC_GAF
+
+;0x99F359BE=~z~but shit don't mean nothing up here.
+0x99F359BE=~z~but shit don't mean nothing up here.
+
+;0x9A4A085A=190090190090190090190090090290190090290190090
+0x9A4A085A=190090190090190090190090090290190090290190090
+
+;0x9ABE425B=E2FC_GG
+0x9ABE425B=E2FC_GG
+
+;0x9C2C9EA6=~z~Yo, L, I got some news.
+0x9C2C9EA6=~z~Yo, L, I got some news.
+
+;0x9C40BEF4=E2FC_GI
+0x9C40BEF4=E2FC_GI
+
+;0x9C57A746=~z~Yo, L, how your siblings, homie?
+0x9C57A746=~z~Yo, L, how your siblings, homie?
+
+;0x9CDB1F11=E2FC_ES
+0x9CDB1F11=E2FC_ES
+
+;0x9CF3C06B=290090290190090190290190090190190290090
+0x9CF3C06B=290090290190090190290190090190190290090
+
+;0x9D801AE7=~z~I know that, but you'd think she'd want to talk to family, not some guy from the movies.
+0x9D801AE7=~z~I know that, but you'd think she'd want to talk to family, not some guy from the movies.
+
+;0x9D8F6925=~z~Well that'swhat I'm aiming for, a mellow vibe.
+0x9D8F6925=~z~Well that'swhat I'm aiming for, a mellow vibe.
+
+;0x9DD8C760=~z~Is that true, A?
+0x9DD8C760=~z~Is that true, A?
+
+;0x9F7A1388=~z~Who you calling a fool, you poseur. You always was. A pretty boy, but not a street guy.
+0x9F7A1388=~z~Who you calling a fool, you poseur. You always was. A pretty boy, but not a street guy.
+
+;0x9FA41456=~z~Me neither, bro. It's hard to get angry when there's such a glaring fault in your logic.
+0x9FA41456=~z~Me neither, bro. It's hard to get angry when there's such a glaring fault in your logic.
+
+;0x9FD20D38=E2FC_IG
+0x9FD20D38=E2FC_IG
+
+;0xA05240BE=~z~So you want to die on the streets, man? Cause that's how this will end for all of us, way we been living.
+0xA05240BE=~z~So you want to die on the streets, man? Cause that's how this will end for all of us, way we been living.
+
+;0xA0D18F51=~z~Any normal human being woulda helped our asses, not threatened to report us.
+0xA0D18F51=~z~Any normal human being woulda helped our asses, not threatened to report us.
+
+;0xA0E61A3E=~z~Rique, bro, why you think you like you are?
+0xA0E61A3E=~z~Rique, bro, why you think you like you are?
+
+;0xA155E219=~z~Seriously, enano, shut up
+0xA155E219=~z~Seriously, enano, shut up
+
+;0xA4721DFA=~z~I mean, we talking like rainforest depleting tree habit to pop me out.
+0xA4721DFA=~z~I mean, we talking like rainforest depleting tree habit to pop me out.
+
+;0xA47CDF82=~z~You know, usual kind of chaotic shit.
+0xA47CDF82=~z~You know, usual kind of chaotic shit.
+
+;0xA489D712=E2FC_GD
+0xA489D712=E2FC_GD
+
+;0xA4CC19C3=E2FC_BG
+0xA4CC19C3=E2FC_BG
+
+;0xA590EC20=E2FC_EJ
+0xA590EC20=E2FC_EJ
+
+;0xA6182146=~z~She have to smoke up inhuman amounts of weed to make a kid this stupid.
+0xA6182146=~z~She have to smoke up inhuman amounts of weed to make a kid this stupid.
+
+;0xA7B840A1=~z~How about this, L? Me and Rique gonna stop trying to make you change, if pay us the same respect.
+0xA7B840A1=~z~How about this, L? Me and Rique gonna stop trying to make you change, if pay us the same respect.
+
+;0xA81E22A7=E2FC_BE
+0xA81E22A7=E2FC_BE
+
+;0xA8BEC014=~z~She's a mom now, bro.
+0xA8BEC014=~z~She's a mom now, bro.
+
+;0xA9814C86=E2FC_FN
+0xA9814C86=E2FC_FN
+
+;0xA98FA0CD=~z~ We was trying to rob a teacher, after all.
+0xA98FA0CD=~z~ We was trying to rob a teacher, after all.
+
+;0xA9CB448C=E2FC_EC
+0xA9CB448C=E2FC_EC
+
+;0xA9D17C22=E2FC_BL
+0xA9D17C22=E2FC_BL
+
+;0xAA5C5491=E2FC_GR
+0xAA5C5491=E2FC_GR
+
+;0xAAC09A7A=~z~You can't change.
+0xAAC09A7A=~z~You can't change.
+
+;0xAC2763FD=~z~It's bullshit. For real. This guy is just pent up cause Tony won't blow him no more.
+0xAC2763FD=~z~It's bullshit. For real. This guy is just pent up cause Tony won't blow him no more.
+
+;0xAC293E9F=~z~You ain't going, man. I told you that.
+0xAC293E9F=~z~You ain't going, man. I told you that.
+
+;0xAC8C787E=~z~What's going on gentlemen?
+0xAC8C787E=~z~What's going on gentlemen?
+
+;0xAD0C3638=E2FC_EV
+0xAD0C3638=E2FC_EV
+
+;0xB053B53B=~z~Just don't drag H down with you, street genius, that's all.
+0xB053B53B=~z~Just don't drag H down with you, street genius, that's all.
+
+;0xB0C6328B=E2FC_CF
+0xB0C6328B=E2FC_CF
+
+;0xB0F741D5=~z~The movies is good, bro. I shout at the screen the whole time.
+0xB0F741D5=~z~The movies is good, bro. I shout at the screen the whole time.
+
+;0xB1C2BDD6=E2FC_DC
+0xB1C2BDD6=E2FC_DC
+
+;0xB1E638DA=~z~Yo, shit, bro. I'm sorry. I didn't mean nothing.
+0xB1E638DA=~z~Yo, shit, bro. I'm sorry. I didn't mean nothing.
+
+;0xB2F9223C=E2FC_CP
+0xB2F9223C=E2FC_CP
+
+;0xB3E67E51=~z~How you doing, L?
+0xB3E67E51=~z~How you doing, L?
+
+;0xB40E878A=~z~Gentlemen... man, you spent too long wiping rich guy's asses.
+0xB40E878A=~z~Gentlemen... man, you spent too long wiping rich guy's asses.
+
+;0xB4499031=E2FC_DJ
+0xB4499031=E2FC_DJ
+
+;0xB44B1214=E2FC_DK
+0xB44B1214=E2FC_DK
+
+;0xB5F50276=~z~Well I know all about that. I spend all day hanging with H.
+0xB5F50276=~z~Well I know all about that. I spend all day hanging with H.
+
+;0xB6665319=~z~I might go back to the DR for a time. My pia say she wants some company.
+0xB6665319=~z~I might go back to the DR for a time. My pia say she wants some company.
+
+;0xB7221FD1=E2FC_GZ
+0xB7221FD1=E2FC_GZ
+
+;0xB741CEB9=E2FC_IM
+0xB741CEB9=E2FC_IM
+
+;0xB806B506=~z~I can.
+0xB806B506=~z~I can.
+
+;0xB84A62A5=~z~Maybe some people do. But, yeah, whatever, bro.
+0xB84A62A5=~z~Maybe some people do. But, yeah, whatever, bro.
+
+;0xB8D2F911=E2FC_FK
+0xB8D2F911=E2FC_FK
+
+;0xB8E2E05C=~z~Tell your hermana to hit we up when she next in town.
+0xB8E2E05C=~z~Tell your hermana to hit we up when she next in town.
+
+;0xB904200A=~z~What do you mean?
+0xB904200A=~z~What do you mean?
+
+;0xB985E43C=~z~And it don't mean I can't help you guys go legit neither.
+0xB985E43C=~z~And it don't mean I can't help you guys go legit neither.
+
+;0xB98F5150=E2FC_HI
+0xB98F5150=E2FC_HI
+
+;0xBA428033=~z~Listen, I know you didn't get me in worse shit, but I do know you got someone in worse shit. And I don't give a fuck.
+0xBA428033=~z~Listen, I know you didn't get me in worse shit, but I do know you got someone in worse shit. And I don't give a fuck.
+
+;0xBA6776E3=E2FC_JM
+0xBA6776E3=E2FC_JM
+
+;0xBCAAD814=E2FC_BF
+0xBCAAD814=E2FC_BF
+
+;0xBDD336D0=~z~He can be useful sometimes.
+0xBDD336D0=~z~He can be useful sometimes.
+
+;0xBF254343=~z~You a kid who once broke his teacher's arm because the teaher picked on his sister.
+0xBF254343=~z~You a kid who once broke his teacher's arm because the teaher picked on his sister.
+
+;0xC0E7681B=~z~You might have forgotten, but I'm his boss, yo. We got a fuckin' business to run.
+0xC0E7681B=~z~You might have forgotten, but I'm his boss, yo. We got a fuckin' business to run.
+
+;0xC12BD76D=~z~You dudes is both morons. Shit.
+0xC12BD76D=~z~You dudes is both morons. Shit.
+
+;0xC17A7A06=E2FC_HK
+0xC17A7A06=E2FC_HK
+
+;0xC2AF56BE=E2FC_ID
+0xC2AF56BE=E2FC_ID
+
+;0xC2BBE55E=~z~We know you do.
+0xC2BBE55E=~z~We know you do.
+
+;0xC2ED89A1=E2FC_AK
+0xC2ED89A1=E2FC_AK
+
+;0xC34D5448=~z~Biggest asshole teacher in the school.
+0xC34D5448=~z~Biggest asshole teacher in the school.
+
+;0xC411367F=E2FC_AH
+0xC411367F=E2FC_AH
+
+;0xC4BE0995=~z~Dope ain't a long term game.
+0xC4BE0995=~z~Dope ain't a long term game.
+
+;0xC548E303=~z~Damn right I am.
+0xC548E303=~z~Damn right I am.
+
+;0xC61A010E=E2FC_EO
+0xC61A010E=E2FC_EO
+
+;0xC83C364B=~z~Good to be hanging with you again, L.
+0xC83C364B=~z~Good to be hanging with you again, L.
+
+;0xC9462918=~z~Just bullshit to do with hanging out with idiots.
+0xC9462918=~z~Just bullshit to do with hanging out with idiots.
+
+;0xCA66C3CF=E2FC_CJ
+0xCA66C3CF=E2FC_CJ
+
+;0xCB20161A=~z~Which is why I'm thinking of fucking killing you.
+0xCB20161A=~z~Which is why I'm thinking of fucking killing you.
+
+;0xCC5B09EA=~z~And I ain't never not respected that, bro. I always treated you like the freak you are.
+0xCC5B09EA=~z~And I ain't never not respected that, bro. I always treated you like the freak you are.
+
+;0xCCC3B8F4=~z~Ay Dios mio. Shut up.
+0xCCC3B8F4=~z~Ay Dios mio. Shut up.
+
+;0xCCD9CCC4=E2FC_HP
+0xCCD9CCC4=E2FC_HP
+
+;0xCE11B455=190290090190090290090190090190290090290090190190090190290090190090
+0xCE11B455=190290090190090290090190090190290090290090190190090190290090190090
+
+;0xCE5BF1C5=~z~Yeah. What's that?
+0xCE5BF1C5=~z~Yeah. What's that?
+
+;0xCE8C177C=E2FC_JI
+0xCE8C177C=E2FC_JI
+
+;0xCF11D060=E2FC_HO
+0xCF11D060=E2FC_HO
+
+;0xCF8F7344=E2FC_HF
+0xCF8F7344=E2FC_HF
+
+;0xCFD05ACA=~z~I told you not to do this, A. I told you I didn't wanna be no part of it.
+0xCFD05ACA=~z~I told you not to do this, A. I told you I didn't wanna be no part of it.
+
+;0xD0727A55=E2FC_DD
+0xD0727A55=E2FC_DD
+
+;0xD1B4F87F=~z~You got a point. I guess it was crack then.
+0xD1B4F87F=~z~You got a point. I guess it was crack then.
+
+;0xD1F1538F=E2FC_AE
+0xD1F1538F=E2FC_AE
+
+;0xD260589E=E2FC_CN
+0xD260589E=E2FC_CN
+
+;0xD3AA873B=~z~Damn straight.
+0xD3AA873B=~z~Damn straight.
+
+;0xD4247BCC=E2FC_IB
+0xD4247BCC=E2FC_IB
+
+;0xD541D560=E2FC_AA
+0xD541D560=E2FC_AA
+
+;0xD60D9E1F=E2FC_FA
+0xD60D9E1F=E2FC_FA
+
+;0xD680AD1A=~z~I'm a street guy. Do I look like I got a 401K?
+0xD680AD1A=~z~I'm a street guy. Do I look like I got a 401K?
+
+;0xD6EB75E1=~z~It's the company I keep. Two giant, over muscled pea brains.
+0xD6EB75E1=~z~It's the company I keep. Two giant, over muscled pea brains.
+
+;0xD7F17B36=E2FC_II
+0xD7F17B36=E2FC_II
+
+;0xD8979E69=E2FC_AN
+0xD8979E69=E2FC_AN
+
+;0xD901A767=E2FC_GP
+0xD901A767=E2FC_GP
+
+;0xD9EB8C48=~z~Someone gotta step up.
+0xD9EB8C48=~z~Someone gotta step up.
+
+;0xDA4ECB29=~z~Why? What's going on?
+0xDA4ECB29=~z~Why? What's going on?
+
+;0xDA6EB4B7=~z~You'd get a medal for that - services to humanity.
+0xDA6EB4B7=~z~You'd get a medal for that - services to humanity.
+
+;0xDCAF8DF2=~z~Dope is a way to help yourself, not a life, least that's how I see it, but whatever you fools want.
+0xDCAF8DF2=~z~Dope is a way to help yourself, not a life, least that's how I see it, but whatever you fools want.
+
+;0xDCDB88C6=E2FC_IF
+0xDCDB88C6=E2FC_IF
+
+;0xDCDF204A=~z~It's just for a few months. You get someone to fill in.
+0xDCDF204A=~z~It's just for a few months. You get someone to fill in.
+
+;0xDD1B0887=E2FC_HC
+0xDD1B0887=E2FC_HC
+
+;0xDD727FDD=~z~A fucking teacher. You sick, bro.
+0xDD727FDD=~z~A fucking teacher. You sick, bro.
+
+;0xDD7BE394=E2FC_AC
+0xDD7BE394=E2FC_AC
+
+;0xDDC33D52=E2FC_JN
+0xDDC33D52=E2FC_JN
+
+;0xDDF1AD17=~z~We is who we is. End of story.
+0xDDF1AD17=~z~We is who we is. End of story.
+
+;0xDEA53583=E2FC_HJ
+0xDEA53583=E2FC_HJ
+
+;0xDEE0EEAE=E2FC_HN
+0xDEE0EEAE=E2FC_HN
+
+;0xE0331A44=~z~Well, I went down and you didn't. So what was it, huh? Did you squeal?
+0xE0331A44=~z~Well, I went down and you didn't. So what was it, huh? Did you squeal?
+
+;0xE2FAB81D=E2FC_JF
+0xE2FAB81D=E2FC_JF
+
+;0xE4733778=~z~Anyway, she was maybe a couple of months back on a conference.
+0xE4733778=~z~Anyway, she was maybe a couple of months back on a conference.
+
+;0xE54B8F7F=~z~Well, I gotta change.
+0xE54B8F7F=~z~Well, I gotta change.
+
+;0xE6007A02=~z~Jesus - that's funny coming from you. We hear what you've been getting up to. We know what you like.
+0xE6007A02=~z~Jesus - that's funny coming from you. We hear what you've been getting up to. We know what you like.
+
+;0xE64D7BA9=E2FC_BJ
+0xE64D7BA9=E2FC_BJ
+
+;0xE6A140BE=E2FC_JG
+0xE6A140BE=E2FC_JG
+
+;0xE6A2254C=E2FC_DB
+0xE6A2254C=E2FC_DB
+
+;0xE7352F64=E2FC_BD
+0xE7352F64=E2FC_BD
+
+;0xE7D31F4B=E2FC_HB
+0xE7D31F4B=E2FC_HB
+
+;0xE8B929E3=~z~He's like that 'cause you the least dependable guy, A. And you always getting into us fuckin' fights.
+0xE8B929E3=~z~He's like that 'cause you the least dependable guy, A. And you always getting into us fuckin' fights.
+
+;0xE8DA1CE9=E2FC_IP
+0xE8DA1CE9=E2FC_IP
+
+;0xE9780E19=~z~All the way. The three of us together.
+0xE9780E19=~z~All the way. The three of us together.
+
+;0xEA401C8E=~z~Thank you. No one ever called me a genius before.
+0xEA401C8E=~z~Thank you. No one ever called me a genius before.
+
+;0xEBA7CA9B=E2FC_GQ
+0xEBA7CA9B=E2FC_GQ
+
+;0xEBBB025A=~z~Oh really?
+0xEBBB025A=~z~Oh really?
+
+;0xEC942DBB=~z~I guess I ain't so riddled with insecurity as you. I'm happy with who I am.
+0xEC942DBB=~z~I guess I ain't so riddled with insecurity as you. I'm happy with who I am.
+
+;0xECDC9D41=~z~Fuck you.
+0xECDC9D41=~z~Fuck you.
+
+;0xEDA3B892=E2FC_EU
+0xEDA3B892=E2FC_EU
+
+;0xEDCC6746=~z~Whatever you say, bro.
+0xEDCC6746=~z~Whatever you say, bro.
+
+;0xEE82B333=E2FC_CE
+0xEE82B333=E2FC_CE
+
+;0xEE98C3BD=~z~No fucking way. People go to the Island, they don't come back.
+0xEE98C3BD=~z~No fucking way. People go to the Island, they don't come back.
+
+;0xEEA44E7C=~z~You know that ain't how I think, H.
+0xEEA44E7C=~z~You know that ain't how I think, H.
+
+;0xEEF837CE=~z~You didn't take no fall for me.
+0xEEF837CE=~z~You didn't take no fall for me.
+
+;0xF18E430E=E2FC_BA
+0xF18E430E=E2FC_BA
+
+;0xF21389F9=~z~Yeah, only I hope with better results. Maybe this time, I can avoid a bid in a correctional facility.
+0xF21389F9=~z~Yeah, only I hope with better results. Maybe this time, I can avoid a bid in a correctional facility.
+
+;0xF267950C=E2FC_CK
+0xF267950C=E2FC_CK
+
+;0xF27ED38F=~z~Even better.
+0xF27ED38F=~z~Even better.
+
+;0xF29D5D22=E2FC_JQ
+0xF29D5D22=E2FC_JQ
+
+;0xF2D49085=~z~Pair of fucking bitches. Always complaining and shit.
+0xF2D49085=~z~Pair of fucking bitches. Always complaining and shit.
+
+;0xF4CA9796=~z~Let's try to keep things cool, okay?
+0xF4CA9796=~z~Let's try to keep things cool, okay?
+
+;0xF4F9251B=~z~I ain't talking "when you can". I'm talking ditch this other shit and we gonna make something go.
+0xF4F9251B=~z~I ain't talking "when you can". I'm talking ditch this other shit and we gonna make something go.
+
+;0xF6348E00=E2FC_FF
+0xF6348E00=E2FC_FF
+
+;0xF6C7ED24=E2FC_GT
+0xF6C7ED24=E2FC_GT
+
+;0xF7466DF0=E2FC_GS
+0xF7466DF0=E2FC_GS
+
+;0xF94BE0F5=E2FC_AM
+0xF94BE0F5=E2FC_AM
+
+;0xFB78A1D5=~z~Yeah, really.
+0xFB78A1D5=~z~Yeah, really.
+
+;0xFC1A4042=~z~Way I see it, is you're lucky to be as bright as you are. You a genius, given half your brain probably got smashed.
+0xFC1A4042=~z~Way I see it, is you're lucky to be as bright as you are. You a genius, given half your brain probably got smashed.
+
+;0xFCD4290C=E2FC_HM
+0xFCD4290C=E2FC_HM
+
+;0xFD21CD48=E2FC_HG
+0xFD21CD48=E2FC_HG
+
+;0xFD5D9529=190090290090190090190190190090190290290290090190
+0xFD5D9529=190090290090190090190190190090190290290290090190
+
+;0xFD8BE8BB=E2FC_DF
+0xFD8BE8BB=E2FC_DF
+
+;0xFF0ED7FB=~z~even though we seem to hate each other.
+0xFF0ED7FB=~z~even though we seem to hate each other.
+
+;0xFF2056B1=~z~or was it just that weed smoke shit?
+0xFF2056B1=~z~or was it just that weed smoke shit?
+
+;0xFF4AA18C=E2FC_FE
+0xFF4AA18C=E2FC_FE
+
+;0xFFBF7526=E2FC_JO
+0xFFBF7526=E2FC_JO
+

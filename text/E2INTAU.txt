@@ -1,0 +1,181 @@
+﻿[E2INTAU]
+;0x0445E7FC=~z~Nothing to do with me. I swear.
+0x0445E7FC=~z~Nothing to do with me. I swear.
+
+;0x079F2FDE=~z~Thanks.
+0x079F2FDE=~z~Thanks.
+
+;0x0A935BD6=~z~Yeah? They said catching that pass in my high school championship football game was a bad idea
+0x0A935BD6=~z~Yeah? They said catching that pass in my high school championship football game was a bad idea
+
+;0x0C5D2901=~z~when you stop shoving half of Bolivia up your nose every Saturday night.
+0x0C5D2901=~z~when you stop shoving half of Bolivia up your nose every Saturday night.
+
+;0x1C66FF7D=~z~I'm a gun club member.
+0x1C66FF7D=~z~I'm a gun club member.
+
+;0x1D791A6A=~z~Um, some Irish guys. Anyway, uh-
+0x1D791A6A=~z~Um, some Irish guys. Anyway, uh-
+
+;0x21D653F3=~z~That's gonna narrow the search ain't it?
+0x21D653F3=~z~That's gonna narrow the search ain't it?
+
+;0x22C2E625=~z~Well, if you think of anything else Mr. Lopez.
+0x22C2E625=~z~Well, if you think of anything else Mr. Lopez.
+
+;0x232E63F9=E2Tm6_AA
+0x232E63F9=E2Tm6_AA
+
+;0x2CF056A2=~z~You good?
+0x2CF056A2=~z~You good?
+
+;0x2FBEBEF5=~z~listen,
+0x2FBEBEF5=~z~listen,
+
+;0x32569E47=~z~I scored a touchdown and won the game.
+0x32569E47=~z~I scored a touchdown and won the game.
+
+;0x37097E59=~z~Fuck you! Take the needle out your arm then tell me what to do.
+0x37097E59=~z~Fuck you! Take the needle out your arm then tell me what to do.
+
+;0x3814007A=~z~Fuck!
+0x3814007A=~z~Fuck!
+
+;0x38ECD151=~z~I'm coming over, okay? So wake up.
+0x38ECD151=~z~I'm coming over, okay? So wake up.
+
+;0x3AB5D4DF=~z~Hey, Tony it's me.
+0x3AB5D4DF=~z~Hey, Tony it's me.
+
+;0x3B5BF379=~z~Hey!
+0x3B5BF379=~z~Hey!
+
+;0x3D08B3AB=~z~The world was built out of bad ideas my friend.
+0x3D08B3AB=~z~The world was built out of bad ideas my friend.
+
+;0x3D5A1B53=~z~Yeah, sure, sure, I'll give you a call.
+0x3D5A1B53=~z~Yeah, sure, sure, I'll give you a call.
+
+;0x3DCF8B0D=~z~Fucking shit, get the money.
+0x3DCF8B0D=~z~Fucking shit, get the money.
+
+;0x40767AFF=~z~Boss, that guy is a mess.
+0x40767AFF=~z~Boss, that guy is a mess.
+
+;0x410A3BA6=~z~Me and me brother, here.
+0x410A3BA6=~z~Me and me brother, here.
+
+;0x4170498F=~z~I don't think that's such a good idea.
+0x4170498F=~z~I don't think that's such a good idea.
+
+;0x477B1F38=~z~Ireland's not the only thing that's green, dollars are too.
+0x477B1F38=~z~Ireland's not the only thing that's green, dollars are too.
+
+;0x4B5E7630=~z~Yeah, there was a problem at the bank.
+0x4B5E7630=~z~Yeah, there was a problem at the bank.
+
+;0x4D8B2B68=~z~Motherfucker!
+0x4D8B2B68=~z~Motherfucker!
+
+;0x4EA356E0=~z~Come on.
+0x4EA356E0=~z~Come on.
+
+;0x4F7B9E10=~z~Yeah. Mami, don't be like that. Okay?
+0x4F7B9E10=~z~Yeah. Mami, don't be like that. Okay?
+
+;0x4F912E90=~z~Saint fucking Michael!
+0x4F912E90=~z~Saint fucking Michael!
+
+;0x52D9DF45=~z~Why you telling them we're brothers, you idiot?
+0x52D9DF45=~z~Why you telling them we're brothers, you idiot?
+
+;0x53022016=~z~Boss, yo, look. That guy said he might put me in his show. Don't let him forget about me, will you?
+0x53022016=~z~Boss, yo, look. That guy said he might put me in his show. Don't let him forget about me, will you?
+
+;0x55AABB97=~z~Now you've said bloody Ireland.
+0x55AABB97=~z~Now you've said bloody Ireland.
+
+;0x5802699E=~z~The PE4 has been molded and is set to explode in sixty seconds.
+0x5802699E=~z~The PE4 has been molded and is set to explode in sixty seconds.
+
+;0x58B2D204=~z~Like I said man, everything's a little fuzzy.
+0x58B2D204=~z~Like I said man, everything's a little fuzzy.
+
+;0x5C77C941=~z~Shit! Michael!
+0x5C77C941=~z~Shit! Michael!
+
+;0x5CB3F2F9=~z~That's gonna make it hard for them to find us isn't it?
+0x5CB3F2F9=~z~That's gonna make it hard for them to find us isn't it?
+
+;0x5D4A39AD=~z~I'll be home soon.
+0x5D4A39AD=~z~I'll be home soon.
+
+;0x5E84CC77=~z~Diablo, que mienda.
+0x5E84CC77=~z~Diablo, que mienda.
+
+;0x662FABD2=~z~Place got robbed.
+0x662FABD2=~z~Place got robbed.
+
+;0x6C0EE78B=~z~Me and my brother will watch the kids.
+0x6C0EE78B=~z~Me and my brother will watch the kids.
+
+;0x6C6B57EF=~z~Hello. Hey mami, como esta?
+0x6C6B57EF=~z~Hello. Hey mami, como esta?
+
+;0x6E031597=~z~Fuck these people, fuck your cause, that shit's over.
+0x6E031597=~z~Fuck these people, fuck your cause, that shit's over.
+
+;0x7255F4FD=~z~We told you not to fuck with us!
+0x7255F4FD=~z~We told you not to fuck with us!
+
+;0x7A2CF372=~z~Yeah, I'm sorry, yeah- no, I was working late at the club.
+0x7A2CF372=~z~Yeah, I'm sorry, yeah- no, I was working late at the club.
+
+;0x86AA53F6=~z~Hey.
+0x86AA53F6=~z~Hey.
+
+;0x897F8FFF=~z~Yo, what's up, Papi?
+0x897F8FFF=~z~Yo, what's up, Papi?
+
+;0x9349E024=~z~Now listen people, we're your friends.
+0x9349E024=~z~Now listen people, we're your friends.
+
+;0x94EC28F4=~z~Look, I gotta go.
+0x94EC28F4=~z~Look, I gotta go.
+
+;0x969CBCA6=~z~Shit.
+0x969CBCA6=~z~Shit.
+
+;0xA2A24460=~z~Okay.
+0xA2A24460=~z~Okay.
+
+;0xAA3B9B18=~z~Yo!
+0xAA3B9B18=~z~Yo!
+
+;0xAF09A4B4=~z~Hey, what's your name son?
+0xAF09A4B4=~z~Hey, what's your name son?
+
+;0xBB0E558E=~z~You hear me? Wake up.
+0xBB0E558E=~z~You hear me? Wake up.
+
+;0xBCD04041=~z~I'm gonna take these rookies downtown. Are you with me?
+0xBCD04041=~z~I'm gonna take these rookies downtown. Are you with me?
+
+;0xC13AFC86=~z~Don't tell that guy the party's over, L.
+0xC13AFC86=~z~Don't tell that guy the party's over, L.
+
+;0xDCA972F2=~z~Trying to be honest with these people, we put them through a lot today.
+0xDCA972F2=~z~Trying to be honest with these people, we put them through a lot today.
+
+;0xE12240A6=100
+0xE12240A6=100
+
+;0xE5AE920D=~z~It's Luis, man.
+0xE5AE920D=~z~It's Luis, man.
+
+;0xFC59BF63=~z~cause I broke my leg in thirteen places but...
+0xFC59BF63=~z~cause I broke my leg in thirteen places but...
+
+;0xFD538AEE=~z~I'll let you tell me what to do
+0xFD538AEE=~z~I'll let you tell me what to do
+

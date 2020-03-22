@@ -1,0 +1,541 @@
+﻿[E2CLAUD]
+;0x015E615A=~z~Someone ain't patting down right, man, 'cause we got a dealer in the club.
+0x015E615A=~z~Someone ain't patting down right, man, 'cause we got a dealer in the club.
+
+;0x06D5B21E=~z~Fine, yo.
+0x06D5B21E=~z~Fine, yo.
+
+;0x0770151B=E2CL_IA
+0x0770151B=E2CL_IA
+
+;0x078ED088=~z~Yo Mr. Manager, you leaving us?
+0x078ED088=~z~Yo Mr. Manager, you leaving us?
+
+;0x0B9D51C7=~z~I'm actually going easy on him. He's fine.
+0x0B9D51C7=~z~I'm actually going easy on him. He's fine.
+
+;0x0C32A8D1=101
+0x0C32A8D1=101
+
+;0x106ABB41=~z~The back of the club might need your attention, boss.
+0x106ABB41=~z~The back of the club might need your attention, boss.
+
+;0x10D7BC17=~z~Head to the back of the club, boss.
+0x10D7BC17=~z~Head to the back of the club, boss.
+
+;0x12661533=101
+0x12661533=101
+
+;0x12F58A2E=E2CL_FA
+0x12F58A2E=E2CL_FA
+
+;0x143AD5E9=E2CL_LA
+0x143AD5E9=E2CL_LA
+
+;0x1720DC77=101
+0x1720DC77=101
+
+;0x18208EDE=~z~I spotted us a pusher.
+0x18208EDE=~z~I spotted us a pusher.
+
+;0x1A867BCA=~z~Direct me, bro.
+0x1A867BCA=~z~Direct me, bro.
+
+;0x1AB49D05=E2CL_MA
+0x1AB49D05=E2CL_MA
+
+;0x1AF5DBEA=101
+0x1AF5DBEA=101
+
+;0x1EADFEC6=~z~Luis. You still got the ear piece, bro. Come back.
+0x1EADFEC6=~z~Luis. You still got the ear piece, bro. Come back.
+
+;0x216CAE06=~z~I'm there.
+0x216CAE06=~z~I'm there.
+
+;0x22B39998=~z~How we doing?
+0x22B39998=~z~How we doing?
+
+;0x251FB568=~z~Checking in, Dess.
+0x251FB568=~z~Checking in, Dess.
+
+;0x2533E4D3=~z~You wanna go check out the back of the club?
+0x2533E4D3=~z~You wanna go check out the back of the club?
+
+;0x2626719F=~z~On my way.
+0x2626719F=~z~On my way.
+
+;0x26BF465D=E2CL_RA
+0x26BF465D=E2CL_RA
+
+;0x27584657=~z~Just another night in Maisonette right here. Where you want me now?
+0x27584657=~z~Just another night in Maisonette right here. Where you want me now?
+
+;0x2794098E=E2CL_GA
+0x2794098E=E2CL_GA
+
+;0x2885FC90=~z~He's done, Dess.
+0x2885FC90=~z~He's done, Dess.
+
+;0x2BFC9963=~z~Yo, L, where you heading?
+0x2BFC9963=~z~Yo, L, where you heading?
+
+;0x2D8A0CC9=010
+0x2D8A0CC9=010
+
+;0x2E03472F=~z~Here, D.
+0x2E03472F=~z~Here, D.
+
+;0x317663DD=E2CL_NA
+0x317663DD=E2CL_NA
+
+;0x325B0AD7=~z~I'm getting this serious creepy rape vibe off some dude, man.
+0x325B0AD7=~z~I'm getting this serious creepy rape vibe off some dude, man.
+
+;0x33318BB5=~z~No doubt. Be there soon.
+0x33318BB5=~z~No doubt. Be there soon.
+
+;0x34993D63=~z~You see anything suspect?
+0x34993D63=~z~You see anything suspect?
+
+;0x354410BD=~z~There's some sexual harassment shit going down, man. Fuck.
+0x354410BD=~z~There's some sexual harassment shit going down, man. Fuck.
+
+;0x35BF903F=~z~Some guy here thinks he can drink for free.
+0x35BF903F=~z~Some guy here thinks he can drink for free.
+
+;0x3621E3EA=~z~We fine here, D. Where am I heading now?
+0x3621E3EA=~z~We fine here, D. Where am I heading now?
+
+;0x3C45E3B4=~z~What's next?
+0x3C45E3B4=~z~What's next?
+
+;0x3C556A84=~z~Yo. Can you check the hall for me.
+0x3C556A84=~z~Yo. Can you check the hall for me.
+
+;0x3D7DF513=101
+0x3D7DF513=101
+
+;0x415DC978=~z~Where you need me?
+0x415DC978=~z~Where you need me?
+
+;0x416C282A=~z~On it.
+0x416C282A=~z~On it.
+
+;0x4A9B8710=~z~Okay, boss. You mind taking a look in the hall area?
+0x4A9B8710=~z~Okay, boss. You mind taking a look in the hall area?
+
+;0x4BE4C351=~z~We got one less guy to worry about down here.
+0x4BE4C351=~z~We got one less guy to worry about down here.
+
+;0x4C6503FA=~z~Okay.
+0x4C6503FA=~z~Okay.
+
+;0x501FDD33=~z~We'll be waiting for him on the door,.L
+0x501FDD33=~z~We'll be waiting for him on the door,.L
+
+;0x52136AE3=~z~Where am I going?
+0x52136AE3=~z~Where am I going?
+
+;0x52F67A1D=~z~How're things looking?
+0x52F67A1D=~z~How're things looking?
+
+;0x541931F8=~z~Luis bro, you need me to call Tony? You acting all weird.
+0x541931F8=~z~Luis bro, you need me to call Tony? You acting all weird.
+
+;0x56047E3E=101
+0x56047E3E=101
+
+;0x59DD2593=~z~We need someone in the hall, boss.
+0x59DD2593=~z~We need someone in the hall, boss.
+
+;0x5A4988C7=~z~Everyone behaving themselves?
+0x5A4988C7=~z~Everyone behaving themselves?
+
+;0x5E220FDB=101
+0x5E220FDB=101
+
+;0x5EB57A5E=~z~Tell him his night's over, boss.
+0x5EB57A5E=~z~Tell him his night's over, boss.
+
+;0x61CC42DE=010
+0x61CC42DE=010
+
+;0x622AEFDD=~z~I'm bringing this dude out.
+0x622AEFDD=~z~I'm bringing this dude out.
+
+;0x63DD93EE=~z~There some aggressive behavior going on down here, bro.
+0x63DD93EE=~z~There some aggressive behavior going on down here, bro.
+
+;0x64652309=010
+0x64652309=010
+
+;0x64778D20=101
+0x64778D20=101
+
+;0x64A5863E=~z~Get him out of there, Luis.
+0x64A5863E=~z~Get him out of there, Luis.
+
+;0x64DF6F10=~z~Cool. I got it.
+0x64DF6F10=~z~Cool. I got it.
+
+;0x64E44967=~z~Nice work, L.
+0x64E44967=~z~Nice work, L.
+
+;0x6536159D=E2CL_WA
+0x6536159D=E2CL_WA
+
+;0x6886C2E6=~z~I could use someone in the hall, if you don't mind.
+0x6886C2E6=~z~I could use someone in the hall, if you don't mind.
+
+;0x69C01566=~z~There's a guy way out of control down here.
+0x69C01566=~z~There's a guy way out of control down here.
+
+;0x6C0B2C4A=~z~How's it looking?
+0x6C0B2C4A=~z~How's it looking?
+
+;0x6F4EC9CD=~z~Here I am.
+0x6F4EC9CD=~z~Here I am.
+
+;0x73302353=~z~Can't have that. L. Bring him out.
+0x73302353=~z~Can't have that. L. Bring him out.
+
+;0x74508E80=~z~I'm on call, bro. Where's shit happening?
+0x74508E80=~z~I'm on call, bro. Where's shit happening?
+
+;0x756B9030=~z~No problem.
+0x756B9030=~z~No problem.
+
+;0x75903753=~z~There some bullying in the playground, yo.
+0x75903753=~z~There some bullying in the playground, yo.
+
+;0x793B0E9C=010
+0x793B0E9C=010
+
+;0x798472A7=~z~Still getting your hands dirty. That's what I like to see.
+0x798472A7=~z~Still getting your hands dirty. That's what I like to see.
+
+;0x7D92B034=~z~Don't work too hard.
+0x7D92B034=~z~Don't work too hard.
+
+;0x7DB4F313=~z~All good here. Where you want me next?
+0x7DB4F313=~z~All good here. Where you want me next?
+
+;0x7DEEE70D=~z~What now?
+0x7DEEE70D=~z~What now?
+
+;0x7E96825B=~z~Head over to the bar, L.
+0x7E96825B=~z~Head over to the bar, L.
+
+;0x7EE171E5=E2CL_TA
+0x7EE171E5=E2CL_TA
+
+;0x8057607A=~z~Can you go take a look round the dance floor area?
+0x8057607A=~z~Can you go take a look round the dance floor area?
+
+;0x83BEC963=~z~Whoah, this dude is way overly refreshed.
+0x83BEC963=~z~Whoah, this dude is way overly refreshed.
+
+;0x851C50F8=~z~There somewhere I should be?
+0x851C50F8=~z~There somewhere I should be?
+
+;0x85594473=E2CL_XA
+0x85594473=E2CL_XA
+
+;0x864EE0D1=~z~It all fine?
+0x864EE0D1=~z~It all fine?
+
+;0x89694FC5=~z~Never do learn, do they? Bring him out.
+0x89694FC5=~z~Never do learn, do they? Bring him out.
+
+;0x8B2C2601=~z~The men's washroom might need some attention. Make sure nothing too bad's happening in there.
+0x8B2C2601=~z~The men's washroom might need some attention. Make sure nothing too bad's happening in there.
+
+;0x8BB2BD50=~z~Alright Dessie, I'm on duty. What you need help with?
+0x8BB2BD50=~z~Alright Dessie, I'm on duty. What you need help with?
+
+;0x8C3B2237=~z~Tony ain't gonna like the way you behaving, L.
+0x8C3B2237=~z~Tony ain't gonna like the way you behaving, L.
+
+;0x8C73CAA4=010
+0x8C73CAA4=010
+
+;0x8D5DFA8B=~z~I think we might need some eyes on the dance floor. You mind taking a look?
+0x8D5DFA8B=~z~I think we might need some eyes on the dance floor. You mind taking a look?
+
+;0x8EBDE9AE=~z~Yo. Fuck! What people got to fight for?
+0x8EBDE9AE=~z~Yo. Fuck! What people got to fight for?
+
+;0x8F329E03=~z~You mean business, L.
+0x8F329E03=~z~You mean business, L.
+
+;0x90D426D6=~z~Thanks, boss. You mind checking out the bar area?
+0x90D426D6=~z~Thanks, boss. You mind checking out the bar area?
+
+;0x92AA051F=~z~We could do with a presence on or near the dance floor, L.
+0x92AA051F=~z~We could do with a presence on or near the dance floor, L.
+
+;0x92BAC923=101
+0x92BAC923=101
+
+;0x92DA90E4=~z~In position.
+0x92DA90E4=~z~In position.
+
+;0x933051E7=~z~I'm coming up with this guy.
+0x933051E7=~z~I'm coming up with this guy.
+
+;0x945C6A9E=~z~I see someone who's had way too much to drink.
+0x945C6A9E=~z~I see someone who's had way too much to drink.
+
+;0x952770B0=E2CL_EA
+0x952770B0=E2CL_EA
+
+;0x98D8D70A=~z~No doubt, man.
+0x98D8D70A=~z~No doubt, man.
+
+;0x98F4C192=~z~Okay, boss. Can you see what's going down in the men's room.
+0x98F4C192=~z~Okay, boss. Can you see what's going down in the men's room.
+
+;0x9BC3EC96=~z~~c~ Hey, Dessie.
+0x9BC3EC96=~z~~c~ Hey, Dessie.
+
+;0x9C4B7F56=~z~What's happening now?
+0x9C4B7F56=~z~What's happening now?
+
+;0x9CAE001B=~z~Tell me where I'm needed.
+0x9CAE001B=~z~Tell me where I'm needed.
+
+;0x9E4C651A=E2CL_UA
+0x9E4C651A=E2CL_UA
+
+;0x9E94E0C8=E2CL_CA
+0x9E94E0C8=E2CL_CA
+
+;0x9F3318FA=E2CL_AA
+0x9F3318FA=E2CL_AA
+
+;0xA03B381B=~z~We tight here, D. There somewhere else you need me.
+0xA03B381B=~z~We tight here, D. There somewhere else you need me.
+
+;0xA0ED8347=~z~That you off for the night, L?
+0xA0ED8347=~z~That you off for the night, L?
+
+;0xA1C05391=E2CL_DA
+0xA1C05391=E2CL_DA
+
+;0xA252C443=~z~That's why you the boss, boss.
+0xA252C443=~z~That's why you the boss, boss.
+
+;0xA2C38536=E2CL_PA
+0xA2C38536=E2CL_PA
+
+;0xA3AC6D37=~z~You got Luis on the line, Dessie. Tell me where to go.
+0xA3AC6D37=~z~You got Luis on the line, Dessie. Tell me where to go.
+
+;0xA4746F10=~z~Whoa. No one should treat a lady like that.
+0xA4746F10=~z~Whoa. No one should treat a lady like that.
+
+;0xA5631EF9=~z~What's happening there?
+0xA5631EF9=~z~What's happening there?
+
+;0xA5B93E96=010
+0xA5B93E96=010
+
+;0xA619FAC7=010
+0xA619FAC7=010
+
+;0xA6FD7426=~z~There some asshole manhandling a lady here.
+0xA6FD7426=~z~There some asshole manhandling a lady here.
+
+;0xA7146538=E2CL_SA
+0xA7146538=E2CL_SA
+
+;0xA79E7495=~z~Okay, done.
+0xA79E7495=~z~Okay, done.
+
+;0xA803F558=~z~Be there in a minute.
+0xA803F558=~z~Be there in a minute.
+
+;0xA8727C6B=~z~We're ejecting this guy.
+0xA8727C6B=~z~We're ejecting this guy.
+
+;0xA9C4DD4E=~z~Why you behaving like that, boss? We don't need to get sued.
+0xA9C4DD4E=~z~Why you behaving like that, boss? We don't need to get sued.
+
+;0xA9E72135=101
+0xA9E72135=101
+
+;0xAAC64200=~z~We could do with a set of eyes in the VIP area, bro.
+0xAAC64200=~z~We could do with a set of eyes in the VIP area, bro.
+
+;0xADA7DCF5=E2CL_HA
+0xADA7DCF5=E2CL_HA
+
+;0xAE0222C3=~z~Where now?
+0xAE0222C3=~z~Where now?
+
+;0xAFC42683=E2CL_KA
+0xAFC42683=E2CL_KA
+
+;0xAFC8789D=E2CL_BA
+0xAFC8789D=E2CL_BA
+
+;0xB02AEFFE=~z~Do a quick check on the men's room, L.
+0xB02AEFFE=~z~Do a quick check on the men's room, L.
+
+;0xB05859A5=E2CL_VA
+0xB05859A5=E2CL_VA
+
+;0xB0D82395=~z~Oye, I think this guy's fucked up on something. Either that or he's an idiot.
+0xB0D82395=~z~Oye, I think this guy's fucked up on something. Either that or he's an idiot.
+
+;0xB23063FE=~z~Don't mess with him. He's the manager.
+0xB23063FE=~z~Don't mess with him. He's the manager.
+
+;0xB3411B84=~z~You know what to do if he tries to come back here, D.
+0xB3411B84=~z~You know what to do if he tries to come back here, D.
+
+;0xB43C27CF=E2CL_JA
+0xB43C27CF=E2CL_JA
+
+;0xB5A41006=~z~Shit. I hate it when people try to scam the wait staff.
+0xB5A41006=~z~Shit. I hate it when people try to scam the wait staff.
+
+;0xB65ECC88=~z~We need some eyes on the dance floor, L.
+0xB65ECC88=~z~We need some eyes on the dance floor, L.
+
+;0xB65FAE2B=~z~Where you going, boss?
+0xB65FAE2B=~z~Where you going, boss?
+
+;0xB686F6D2=~z~Boss, what's gotten in to you tonight?
+0xB686F6D2=~z~Boss, what's gotten in to you tonight?
+
+;0xB7715B5A=~z~You mind checking out the VIP area?
+0xB7715B5A=~z~You mind checking out the VIP area?
+
+;0xBAE27F85=~z~Luis, I know it's your club and all, but I'm getting complaints...
+0xBAE27F85=~z~Luis, I know it's your club and all, but I'm getting complaints...
+
+;0xBCFD0307=010
+0xBCFD0307=010
+
+;0xBDE68B79=~z~We need someone to take a look in the restroom. Sorry, boss.
+0xBDE68B79=~z~We need someone to take a look in the restroom. Sorry, boss.
+
+;0xBF97D362=~z~We cool there, boss?
+0xBF97D362=~z~We cool there, boss?
+
+;0xBFCB9032=010
+0xBFCB9032=010
+
+;0xC11D6EAE=~z~Can you babysit them "Very Important People" upstairs for a minute, boss.
+0xC11D6EAE=~z~Can you babysit them "Very Important People" upstairs for a minute, boss.
+
+;0xC3DB4E75=~z~Okay. Where to?
+0xC3DB4E75=~z~Okay. Where to?
+
+;0xC4CC8141=~z~Here's cool, Dess. Where you need me next.
+0xC4CC8141=~z~Here's cool, Dess. Where you need me next.
+
+;0xC51A7563=~z~I'm here.
+0xC51A7563=~z~I'm here.
+
+;0xC74C5CFD=E2CL_OA
+0xC74C5CFD=E2CL_OA
+
+;0xC920DD80=010
+0xC920DD80=010
+
+;0xC9EADFAC=E2CL_QA
+0xC9EADFAC=E2CL_QA
+
+;0xCA69AF38=~z~Head to the back, bro. Check out if we got any problems.
+0xCA69AF38=~z~Head to the back, bro. Check out if we got any problems.
+
+;0xCDD6C18B=~z~Okay Dess, I'm here. Where am I going?
+0xCDD6C18B=~z~Okay Dess, I'm here. Where am I going?
+
+;0xCFDED4BF=~z~Keep him out, bro.
+0xCFDED4BF=~z~Keep him out, bro.
+
+;0xD1D677DF=~z~You my eyes, L.
+0xD1D677DF=~z~You my eyes, L.
+
+;0xD992AACD=~z~Just some people having a good time. There somewhere else I should be?
+0xD992AACD=~z~Just some people having a good time. There somewhere else I should be?
+
+;0xDA04D9F3=~z~Club manager reporting for duty, Dess. What you want me doing?
+0xDA04D9F3=~z~Club manager reporting for duty, Dess. What you want me doing?
+
+;0xDAE9DA91=~z~Some punk's trying to get out of a bar tab here, man.
+0xDAE9DA91=~z~Some punk's trying to get out of a bar tab here, man.
+
+;0xDDCD0960=~z~You tell me, boss. We all cool?
+0xDDCD0960=~z~You tell me, boss. We all cool?
+
+;0xE1107722=~z~Why you let this guy in in the first place?
+0xE1107722=~z~Why you let this guy in in the first place?
+
+;0xE343CBB4=~z~Okay, boss. Can you check the bar area?
+0xE343CBB4=~z~Okay, boss. Can you check the bar area?
+
+;0xE3F51991=010
+0xE3F51991=010
+
+;0xE5150713=~z~We can't have that in Maisonette, L. Kick him out.
+0xE5150713=~z~We can't have that in Maisonette, L. Kick him out.
+
+;0xE7CD3C11=~z~Can you check the VIP for me?
+0xE7CD3C11=~z~Can you check the VIP for me?
+
+;0xE9B773BC=010
+0xE9B773BC=010
+
+;0xEC2F7D1C=~z~Looks like some punk thinks he can get away without paying.
+0xEC2F7D1C=~z~Looks like some punk thinks he can get away without paying.
+
+;0xEC82938A=~z~Scratch that, D. This guy's cool.
+0xEC82938A=~z~Scratch that, D. This guy's cool.
+
+;0xECB2B803=~z~We got a dealer down here.
+0xECB2B803=~z~We got a dealer down here.
+
+;0xEF18D5D9=~z~There ain't no trouble here. Where am I going?
+0xEF18D5D9=~z~There ain't no trouble here. Where am I going?
+
+;0xF0379AFC=~z~I've let this guy off, man.
+0xF0379AFC=~z~I've let this guy off, man.
+
+;0xF36AA3BE=~z~Too bad, boss. Get him out of there.
+0xF36AA3BE=~z~Too bad, boss. Get him out of there.
+
+;0xF38BC5B5=~z~That guy is not trying to deal in our club.
+0xF38BC5B5=~z~That guy is not trying to deal in our club.
+
+;0xF642A712=~z~This guy ain't a problem after all.
+0xF642A712=~z~This guy ain't a problem after all.
+
+;0xF7623AF9=~z~I'm witnessing some aggression here.
+0xF7623AF9=~z~I'm witnessing some aggression here.
+
+;0xF7932C2A=010
+0xF7932C2A=010
+
+;0xF94717D8=101
+0xF94717D8=101
+
+;0xFBDC1D0B=~z~Okay.
+0xFBDC1D0B=~z~Okay.
+
+;0xFCD67154=~z~I should look somewhere else, bro. Here's all good.
+0xFCD67154=~z~I should look somewhere else, bro. Here's all good.
+
+;0xFD9A0060=~z~Scope the bar, boss. See what's happening there.
+0xFD9A0060=~z~Scope the bar, boss. See what's happening there.
+
+;0xFDC6A712=~z~Get ready, Dess. Someone's coming out.
+0xFDC6A712=~z~Get ready, Dess. Someone's coming out.
+
+;0xFE116418=~z~Dessie, I'm there.
+0xFE116418=~z~Dessie, I'm there.
+

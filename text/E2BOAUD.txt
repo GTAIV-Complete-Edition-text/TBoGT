@@ -1,0 +1,613 @@
+﻿[E2BOAUD]
+;0x01DA4870=500
+0x01DA4870=500
+
+;0x030EB543=~z~Alright, but next time, try getting dressed with the light on.
+0x030EB543=~z~Alright, but next time, try getting dressed with the light on.
+
+;0x055AFB9B=~z~Take it easy now! I ain't gonna tell you this twice.
+0x055AFB9B=~z~Take it easy now! I ain't gonna tell you this twice.
+
+;0x06DD765D=~z~That's it, times up!
+0x06DD765D=~z~That's it, times up!
+
+;0x07276718=~z~Hey, yo, look who it is!
+0x07276718=~z~Hey, yo, look who it is!
+
+;0x0A304DCD=600
+0x0A304DCD=600
+
+;0x0A71E7E8=~z~No. You can tell your friends you tried.
+0x0A71E7E8=~z~No. You can tell your friends you tried.
+
+;0x0C838556=E2BO_SA
+0x0C838556=E2BO_SA
+
+;0x0D4657FA=~z~You're barred motherfucker.
+0x0D4657FA=~z~You're barred motherfucker.
+
+;0x0E0A8F96=E2BO_UA
+0x0E0A8F96=E2BO_UA
+
+;0x0E1D7F89=~z~No, and the same for some time in the future. Never.
+0x0E1D7F89=~z~No, and the same for some time in the future. Never.
+
+;0x0ED50100=~z~Push off!
+0x0ED50100=~z~Push off!
+
+;0x0F11711B=~z~You serious? No.
+0x0F11711B=~z~You serious? No.
+
+;0x0FC21884=~z~This is a no fly zone as far as your concerned.
+0x0FC21884=~z~This is a no fly zone as far as your concerned.
+
+;0x115851D6=~z~You're lucky, it's quiet in there.
+0x115851D6=~z~You're lucky, it's quiet in there.
+
+;0x122F2F5C=~z~You're lucky it's slow tonight.
+0x122F2F5C=~z~You're lucky it's slow tonight.
+
+;0x12F6F2D6=~z~Alright, get in. They should recommend me for sainthood.
+0x12F6F2D6=~z~Alright, get in. They should recommend me for sainthood.
+
+;0x13238751=~z~Hey! Chill the fuck out, man.
+0x13238751=~z~Hey! Chill the fuck out, man.
+
+;0x13E09CCA=~z~Just go some place else.
+0x13E09CCA=~z~Just go some place else.
+
+;0x140163C4=300
+0x140163C4=300
+
+;0x18746042=~z~Go on, but you're right on the border of too ugly.
+0x18746042=~z~Go on, but you're right on the border of too ugly.
+
+;0x18CFD5C6=600
+0x18CFD5C6=600
+
+;0x1A974081=~z~Welcome back! Go straight in.
+0x1A974081=~z~Welcome back! Go straight in.
+
+;0x1B0FF381=~z~Get back on the sidewalk, you bum.
+0x1B0FF381=~z~Get back on the sidewalk, you bum.
+
+;0x1C627A20=E2BO_AGA
+0x1C627A20=E2BO_AGA
+
+;0x1D6B45D4=~z~Alright. Just this once.
+0x1D6B45D4=~z~Alright. Just this once.
+
+;0x1DF68A6D=400
+0x1DF68A6D=400
+
+;0x1E0C3518=~z~You're not getting in here.
+0x1E0C3518=~z~You're not getting in here.
+
+;0x1EED2497=500
+0x1EED2497=500
+
+;0x20892460=~z~No way!
+0x20892460=~z~No way!
+
+;0x2123A59D=~z~This is not your scene. Trust me.
+0x2123A59D=~z~This is not your scene. Trust me.
+
+;0x22681970=E2BO_JA
+0x22681970=E2BO_JA
+
+;0x229E138F=~z~Tone it down, ok?
+0x229E138F=~z~Tone it down, ok?
+
+;0x24F4E364=~z~Wow, wow there partner.
+0x24F4E364=~z~Wow, wow there partner.
+
+;0x2504AB13=~z~Look, simmer down asshole.
+0x2504AB13=~z~Look, simmer down asshole.
+
+;0x273AA769=~z~Hey! Welcome!
+0x273AA769=~z~Hey! Welcome!
+
+;0x28289D5A=E2BO_GA
+0x28289D5A=E2BO_GA
+
+;0x28A3BB60=300
+0x28A3BB60=300
+
+;0x28BD5CAE=500
+0x28BD5CAE=500
+
+;0x2961B3C9=~z~Hey, come on. Take it easy.
+0x2961B3C9=~z~Hey, come on. Take it easy.
+
+;0x2B744358=~z~You're lucky. Another night, your ass would be outta here.
+0x2B744358=~z~You're lucky. Another night, your ass would be outta here.
+
+;0x2D14E57C=~z~Great to see you back!
+0x2D14E57C=~z~Great to see you back!
+
+;0x305455B1=~z~No fucking way.
+0x305455B1=~z~No fucking way.
+
+;0x3460B714=~z~Look at me! Chill, got it?
+0x3460B714=~z~Look at me! Chill, got it?
+
+;0x360C450C=~z~Just go right ahead.
+0x360C450C=~z~Just go right ahead.
+
+;0x3CFFEAE0=~z~Alright, it's time you chilled the fuck out.
+0x3CFFEAE0=~z~Alright, it's time you chilled the fuck out.
+
+;0x3D7FC952=~z~Hey, relax.
+0x3D7FC952=~z~Hey, relax.
+
+;0x40096C82=~z~Why not? You look like you'll buy a lot of drinks.
+0x40096C82=~z~Why not? You look like you'll buy a lot of drinks.
+
+;0x401F9895=E2BO_LA
+0x401F9895=E2BO_LA
+
+;0x41947831=~z~You must think I'm stupid.
+0x41947831=~z~You must think I'm stupid.
+
+;0x43BFE073=~z~Good to see you.
+0x43BFE073=~z~Good to see you.
+
+;0x44B6D123=400
+0x44B6D123=400
+
+;0x4527CCFE=E2BO_AFA
+0x4527CCFE=E2BO_AFA
+
+;0x454057DB=~z~Time to get gone.
+0x454057DB=~z~Time to get gone.
+
+;0x47255FFF=~z~Do you even own a mirror?
+0x47255FFF=~z~Do you even own a mirror?
+
+;0x49A37927=500
+0x49A37927=500
+
+;0x4A1B051A=~z~Just calm it down man, alright?
+0x4A1B051A=~z~Just calm it down man, alright?
+
+;0x4D50E1A8=200
+0x4D50E1A8=200
+
+;0x4F5F7073=~z~You've gotta be kidding.
+0x4F5F7073=~z~You've gotta be kidding.
+
+;0x500702A4=~z~Have fun in there.
+0x500702A4=~z~Have fun in there.
+
+;0x5204AE79=E2BO_QA
+0x5204AE79=E2BO_QA
+
+;0x52995B75=E2BO_YA
+0x52995B75=E2BO_YA
+
+;0x54D2B528=~z~Go practice at some other places. Then come back.
+0x54D2B528=~z~Go practice at some other places. Then come back.
+
+;0x57AC2857=~z~Not in your wildest dreams.
+0x57AC2857=~z~Not in your wildest dreams.
+
+;0x5951651B=~z~No. No. And no.
+0x5951651B=~z~No. No. And no.
+
+;0x5B0C6710=~z~You deaf? Get outta here!
+0x5B0C6710=~z~You deaf? Get outta here!
+
+;0x5C9D25A9=~z~Yeah, why not? Need some variety I guess.
+0x5C9D25A9=~z~Yeah, why not? Need some variety I guess.
+
+;0x5D7E247C=~z~No, maybe you should try some a little more, down market.
+0x5D7E247C=~z~No, maybe you should try some a little more, down market.
+
+;0x5E7C6C5C=~z~Time you went home. Asshole.
+0x5E7C6C5C=~z~Time you went home. Asshole.
+
+;0x5EB68ACB=~z~You see what you did?
+0x5EB68ACB=~z~You see what you did?
+
+;0x6018901F=500
+0x6018901F=500
+
+;0x602E7C77=~z~I need you to take it down a notch. Understand?
+0x602E7C77=~z~I need you to take it down a notch. Understand?
+
+;0x634EFE65=~z~Looking good.
+0x634EFE65=~z~Looking good.
+
+;0x645741AD=~z~No admittance!
+0x645741AD=~z~No admittance!
+
+;0x64E1AEF3=~z~Just go home.
+0x64E1AEF3=~z~Just go home.
+
+;0x6558FCCE=~z~Just relax tough guy, it's over.
+0x6558FCCE=~z~Just relax tough guy, it's over.
+
+;0x66602F56=~z~Have a great night.
+0x66602F56=~z~Have a great night.
+
+;0x681C51DC=200
+0x681C51DC=200
+
+;0x68202938=~z~Hey, hey, what's poppin'?
+0x68202938=~z~Hey, hey, what's poppin'?
+
+;0x6949C79F=~z~For fuck's sake. Walk away.
+0x6949C79F=~z~For fuck's sake. Walk away.
+
+;0x6AE9884F=~z~You must be delusional.
+0x6AE9884F=~z~You must be delusional.
+
+;0x6BBCC0F9=~z~Seriously? That's not a good look for you. Better luck next time.
+0x6BBCC0F9=~z~Seriously? That's not a good look for you. Better luck next time.
+
+;0x6C36EC6E=E2BO_KA
+0x6C36EC6E=E2BO_KA
+
+;0x6C621A3A=600
+0x6C621A3A=600
+
+;0x6CF39601=~z~We don't like it when you disturb the other patrons. Clear?
+0x6CF39601=~z~We don't like it when you disturb the other patrons. Clear?
+
+;0x6DA0D1A4=E2BO_VA
+0x6DA0D1A4=E2BO_VA
+
+;0x6E8A87E9=~z~We got standards. And you're like, six levels below them.
+0x6E8A87E9=~z~We got standards. And you're like, six levels below them.
+
+;0x6FC40EEB=~z~Go on you piece of shit. Get the fuck outta here.
+0x6FC40EEB=~z~Go on you piece of shit. Get the fuck outta here.
+
+;0x7037B14A=~z~Can't believe I'm saying this but, sure. It's a recession afterall.
+0x7037B14A=~z~Can't believe I'm saying this but, sure. It's a recession afterall.
+
+;0x71FC51E8=E2BO_RA
+0x71FC51E8=E2BO_RA
+
+;0x770D65D4=E2BO_ACA
+0x770D65D4=E2BO_ACA
+
+;0x77892132=~z~Let's go big man.
+0x77892132=~z~Let's go big man.
+
+;0x7C85DBA1=~z~Go straight in.
+0x7C85DBA1=~z~Go straight in.
+
+;0x7CC1359C=~z~Please, check yourself.
+0x7CC1359C=~z~Please, check yourself.
+
+;0x7CD02C1C=~z~Are you serious?
+0x7CD02C1C=~z~Are you serious?
+
+;0x7E306D60=400
+0x7E306D60=400
+
+;0x7FCFAA73=~z~Nah, nah, not tonight.
+0x7FCFAA73=~z~Nah, nah, not tonight.
+
+;0x80089AF6=~z~Get out of here!
+0x80089AF6=~z~Get out of here!
+
+;0x803C65A8=~z~Not in a million years, bitch.
+0x803C65A8=~z~Not in a million years, bitch.
+
+;0x82AA7E53=~z~Do I have to make an example out of you? You can't get in.
+0x82AA7E53=~z~Do I have to make an example out of you? You can't get in.
+
+;0x83842117=100
+0x83842117=100
+
+;0x85D57819=~z~Sure, it's pretty slow.
+0x85D57819=~z~Sure, it's pretty slow.
+
+;0x86109DFF=~z~You're not getting in here.
+0x86109DFF=~z~You're not getting in here.
+
+;0x878946FA=E2BO_TA
+0x878946FA=E2BO_TA
+
+;0x8E4651F1=500
+0x8E4651F1=500
+
+;0x8E71FCFF=E2BO_OA
+0x8E71FCFF=E2BO_OA
+
+;0x8E7944E9=400
+0x8E7944E9=400
+
+;0x9087538A=~z~Give me a fucking break.
+0x9087538A=~z~Give me a fucking break.
+
+;0x90934BF2=~z~Looking like that, they'd fire my ass if I let you in.
+0x90934BF2=~z~Looking like that, they'd fire my ass if I let you in.
+
+;0x93150A75=E2BO_FA
+0x93150A75=E2BO_FA
+
+;0x9368933B=~z~Sure, a bit of comic relief never hurts.
+0x9368933B=~z~Sure, a bit of comic relief never hurts.
+
+;0x93B1D85A=~z~What part of leave don't you understand?
+0x93B1D85A=~z~What part of leave don't you understand?
+
+;0x93B93950=~z~Better get lost.
+0x93B93950=~z~Better get lost.
+
+;0x94579EB7=~z~Hey, good to see you, come on in.
+0x94579EB7=~z~Hey, good to see you, come on in.
+
+;0x94FB76ED=~z~It's your lucky night fruitcake.
+0x94FB76ED=~z~It's your lucky night fruitcake.
+
+;0x958A03DF=~z~Right away sir, have a good time.
+0x958A03DF=~z~Right away sir, have a good time.
+
+;0x9742E708=400
+0x9742E708=400
+
+;0x981BDD9B=100
+0x981BDD9B=100
+
+;0x992C1B18=200
+0x992C1B18=200
+
+;0x998784C6=~z~In your dreams.
+0x998784C6=~z~In your dreams.
+
+;0x999510C5=E2BO_BA
+0x999510C5=E2BO_BA
+
+;0x9E648DAF=~z~Hey, it's the least I can do in these troubled times. Come on in.
+0x9E648DAF=~z~Hey, it's the least I can do in these troubled times. Come on in.
+
+;0xA014FD37=~z~Ok, go in. But you better thank me nicely.
+0xA014FD37=~z~Ok, go in. But you better thank me nicely.
+
+;0xA092A9C9=~z~No more chances!
+0xA092A9C9=~z~No more chances!
+
+;0xA17354C4=~z~This place is not for you.
+0xA17354C4=~z~This place is not for you.
+
+;0xA1F7F4E6=~z~Don't make me tell you again.
+0xA1F7F4E6=~z~Don't make me tell you again.
+
+;0xA240EF4D=~z~Wow. This ain't some irish pub. Clean up a little, then come back to me.
+0xA240EF4D=~z~Wow. This ain't some irish pub. Clean up a little, then come back to me.
+
+;0xA28504E3=E2BO_WA
+0xA28504E3=E2BO_WA
+
+;0xA32E0568=E2BO_ABA
+0xA32E0568=E2BO_ABA
+
+;0xA333D1ED=~z~Sorry, not tonight.
+0xA333D1ED=~z~Sorry, not tonight.
+
+;0xA524B806=E2BO_AHA
+0xA524B806=E2BO_AHA
+
+;0xA8C41885=E2BO_AEA
+0xA8C41885=E2BO_AEA
+
+;0xA9A0A5FA=E2BO_AIA
+0xA9A0A5FA=E2BO_AIA
+
+;0xAA9DA621=~z~Urhh, ok.
+0xAA9DA621=~z~Urhh, ok.
+
+;0xAADEF0A2=~z~That's it, time to go.
+0xAADEF0A2=~z~That's it, time to go.
+
+;0xAD231753=~z~Just this once, I'm gonna look the other way. Get in.
+0xAD231753=~z~Just this once, I'm gonna look the other way. Get in.
+
+;0xAFCD72CD=600
+0xAFCD72CD=600
+
+;0xB26C1242=~z~Easy.
+0xB26C1242=~z~Easy.
+
+;0xB36404AC=300
+0xB36404AC=300
+
+;0xB517FA0E=E2BO_PA
+0xB517FA0E=E2BO_PA
+
+;0xB54FE83C=300
+0xB54FE83C=300
+
+;0xB7C20322=100
+0xB7C20322=100
+
+;0xB864FC4F=~z~No way, no how.
+0xB864FC4F=~z~No way, no how.
+
+;0xB937D79A=~z~No fucking way.
+0xB937D79A=~z~No fucking way.
+
+;0xB9B54450=~z~Sure, I guess in this economy we all got to lower our standards.
+0xB9B54450=~z~Sure, I guess in this economy we all got to lower our standards.
+
+;0xBBE5B4D8=~z~We're not exactly packing the joint out so I guess you can go in.
+0xBBE5B4D8=~z~We're not exactly packing the joint out so I guess you can go in.
+
+;0xBCA4C111=600
+0xBCA4C111=600
+
+;0xBFF430F2=~z~Squash that drama, right fucking now.
+0xBFF430F2=~z~Squash that drama, right fucking now.
+
+;0xC0253827=E2BO_DA
+0xC0253827=E2BO_DA
+
+;0xC066CDB7=~z~I'll let you in, if you spend some money in there.
+0xC066CDB7=~z~I'll let you in, if you spend some money in there.
+
+;0xC3596C41=E2BO_NA
+0xC3596C41=E2BO_NA
+
+;0xC3C6D944=~z~This isn't your kind of place.
+0xC3C6D944=~z~This isn't your kind of place.
+
+;0xC7197361=~z~Give up. You're never getting in here.
+0xC7197361=~z~Give up. You're never getting in here.
+
+;0xC7767417=~z~Never gonna happen.
+0xC7767417=~z~Never gonna happen.
+
+;0xC7DB1AB1=~z~Man, I'm getting soft.
+0xC7DB1AB1=~z~Man, I'm getting soft.
+
+;0xC807A98B=~z~Come on, you tryin' to get noticed?
+0xC807A98B=~z~Come on, you tryin' to get noticed?
+
+;0xC81AE11B=~z~Ok, I feel bad for you. Things are tough all over these days.
+0xC81AE11B=~z~Ok, I feel bad for you. Things are tough all over these days.
+
+;0xC8E23F2E=~z~Slow down there.
+0xC8E23F2E=~z~Slow down there.
+
+;0xCB0B2111=~z~Go on then.
+0xCB0B2111=~z~Go on then.
+
+;0xCC838E11=~z~Get the fuck away from here.
+0xCC838E11=~z~Get the fuck away from here.
+
+;0xCE28693A=~z~Yeah, I guess. Come on in.
+0xCE28693A=~z~Yeah, I guess. Come on in.
+
+;0xD061AC17=~z~Please, head straight through.
+0xD061AC17=~z~Please, head straight through.
+
+;0xD16DAE60=~z~You need some more practice at this game.
+0xD16DAE60=~z~You need some more practice at this game.
+
+;0xD1AED467=~z~I told you, you're not getting in.
+0xD1AED467=~z~I told you, you're not getting in.
+
+;0xD5D5A1B2=~z~Right this way.
+0xD5D5A1B2=~z~Right this way.
+
+;0xD6B7734D=E2BO_ZA
+0xD6B7734D=E2BO_ZA
+
+;0xD710EBD5=E2BO_AAA
+0xD710EBD5=E2BO_AAA
+
+;0xD83C037D=~z~Look around. You think you fit in here?
+0xD83C037D=~z~Look around. You think you fit in here?
+
+;0xD8D39B25=~z~It's actually funny that you thought you could get in here.
+0xD8D39B25=~z~It's actually funny that you thought you could get in here.
+
+;0xD98B44F3=~z~It's not happenin'.
+0xD98B44F3=~z~It's not happenin'.
+
+;0xDB3AF382=~z~Lucky for you, its low standards night.
+0xDB3AF382=~z~Lucky for you, its low standards night.
+
+;0xDCE57C86=100
+0xDCE57C86=100
+
+;0xDD8EA49B=~z~Really, look at yourself. Your really think I could let you in?
+0xDD8EA49B=~z~Really, look at yourself. Your really think I could let you in?
+
+;0xDD93808E=600
+0xDD93808E=600
+
+;0xDEF5DAA8=200
+0xDEF5DAA8=200
+
+;0xE17A95EE=~z~Yeah right. You're joking, right?
+0xE17A95EE=~z~Yeah right. You're joking, right?
+
+;0xE6084217=~z~Step right in.
+0xE6084217=~z~Step right in.
+
+;0xE624FBA4=~z~Alright, just this once.
+0xE624FBA4=~z~Alright, just this once.
+
+;0xE6442B8F=300
+0xE6442B8F=300
+
+;0xE702BE46=100
+0xE702BE46=100
+
+;0xE7C18728=~z~All yours, have fun in there.
+0xE7C18728=~z~All yours, have fun in there.
+
+;0xE81E6219=~z~Try somewhere else.
+0xE81E6219=~z~Try somewhere else.
+
+;0xE9263356=E2BO_MA
+0xE9263356=E2BO_MA
+
+;0xE9527B36=~z~Wow, 'scuse me.
+0xE9527B36=~z~Wow, 'scuse me.
+
+;0xE998ED6D=E2BO_IA
+0xE998ED6D=E2BO_IA
+
+;0xEAFC6186=E2BO_CA
+0xEAFC6186=E2BO_CA
+
+;0xEDC6F509=~z~Cool your jets, ok?
+0xEDC6F509=~z~Cool your jets, ok?
+
+;0xF0B5AE54=~z~Alright fruitcake, get in there.
+0xF0B5AE54=~z~Alright fruitcake, get in there.
+
+;0xF3A6FB67=200
+0xF3A6FB67=200
+
+;0xF3E266EC=200
+0xF3E266EC=200
+
+;0xF43F49DF=300
+0xF43F49DF=300
+
+;0xF4E598F1=~z~Go on then, I'm feeling nice.
+0xF4E598F1=~z~Go on then, I'm feeling nice.
+
+;0xF58D7615=~z~I must be crazy.
+0xF58D7615=~z~I must be crazy.
+
+;0xF5F02385=~z~Nice to see you.
+0xF5F02385=~z~Nice to see you.
+
+;0xF7090A16=E2BO_AA
+0xF7090A16=E2BO_AA
+
+;0xF718D8B2=E2BO_ADA
+0xF718D8B2=E2BO_ADA
+
+;0xF80661DC=400
+0xF80661DC=400
+
+;0xF8B32E72=~z~Ok, you can go in, but you better be a big tipper.
+0xF8B32E72=~z~Ok, you can go in, but you better be a big tipper.
+
+;0xF8ECEB6E=E2BO_HA
+0xF8ECEB6E=E2BO_HA
+
+;0xFAF84F5C=E2BO_AJA
+0xFAF84F5C=E2BO_AJA
+
+;0xFB296643=E2BO_XA
+0xFB296643=E2BO_XA
+
+;0xFBF2DB34=~z~Uhtuh, try somewhere else.
+0xFBF2DB34=~z~Uhtuh, try somewhere else.
+
+;0xFCE4AD72=100
+0xFCE4AD72=100
+
+;0xFED4668C=E2BO_EA
+0xFED4668C=E2BO_EA
+

@@ -1,0 +1,1369 @@
+﻿[E2BR3AU]
+;0x003AF238=E2BR3_AYD
+0x003AF238=E2BR3_AYD
+
+;0x012A9E8E=E2BR3_OA
+0x012A9E8E=E2BR3_OA
+
+;0x016F5CC6=~z~Enjoy that shit.
+0x016F5CC6=~z~Enjoy that shit.
+
+;0x031607D3=E2BR3_SD
+0x031607D3=E2BR3_SD
+
+;0x0323ACC1=SFX_PAUSE_340
+0x0323ACC1=SFX_PAUSE_340
+
+;0x057EAE46=~z~Ah, fuck!
+0x057EAE46=~z~Ah, fuck!
+
+;0x05C2CEEC=SFX_PAUSE_220
+0x05C2CEEC=SFX_PAUSE_220
+
+;0x0694B378=SFX_PAUSE_170
+0x0694B378=SFX_PAUSE_170
+
+;0x07445B51=~z~I can always, like, boost another one for you, Mori.
+0x07445B51=~z~I can always, like, boost another one for you, Mori.
+
+;0x08A9835A=SFX_PAUSE_150
+0x08A9835A=SFX_PAUSE_150
+
+;0x09C6655D=E2BR3_ARA
+0x09C6655D=E2BR3_ARA
+
+;0x0AA01695=~z~See ya, Luis. Bye! Laters!
+0x0AA01695=~z~See ya, Luis. Bye! Laters!
+
+;0x0AD2BD11=120090210090120090120090210
+0x0AD2BD11=120090210090120090120090210
+
+;0x0B1363F1=E2BR3_AJA
+0x0B1363F1=E2BR3_AJA
+
+;0x0BC282E7=~z~Luis, man, I fucking love your club, bro.
+0x0BC282E7=~z~Luis, man, I fucking love your club, bro.
+
+;0x0BC3815F=~z~I'm just here to work out that deal we got. I do this for you and we square, right?
+0x0BC3815F=~z~I'm just here to work out that deal we got. I do this for you and we square, right?
+
+;0x0BCA9B61=~z~Hey, you guys should start a debtors anonymous circle jerk together.
+0x0BCA9B61=~z~Hey, you guys should start a debtors anonymous circle jerk together.
+
+;0x0C767200=E2BR3_AGK
+0x0C767200=E2BR3_AGK
+
+;0x0CDCE777=SFX_PAUSE_180
+0x0CDCE777=SFX_PAUSE_180
+
+;0x0CDF55C4=E2BR3_UF
+0x0CDF55C4=E2BR3_UF
+
+;0x0ED4BFD9=SFX_PAUSE_260
+0x0ED4BFD9=SFX_PAUSE_260
+
+;0x0EFBC6D7=~z~Shut the fuck up, Mori.
+0x0EFBC6D7=~z~Shut the fuck up, Mori.
+
+;0x0F4001D8=E2BR3_AIA
+0x0F4001D8=E2BR3_AIA
+
+;0x0F911256=~z~No excuses for pussying out on this fine piece of road. Do it!
+0x0F911256=~z~No excuses for pussying out on this fine piece of road. Do it!
+
+;0x0F9C3A9D=~z~I don't wanna go to jail, man. Shit.
+0x0F9C3A9D=~z~I don't wanna go to jail, man. Shit.
+
+;0x10C5A297=E2BR3_BDC
+0x10C5A297=E2BR3_BDC
+
+;0x10E02578=E2BR3_AXA
+0x10E02578=E2BR3_AXA
+
+;0x10E8FBB9=~z~Here, have fun.
+0x10E8FBB9=~z~Here, have fun.
+
+;0x12517785=~z~I wasn't talking about him, bro.
+0x12517785=~z~I wasn't talking about him, bro.
+
+;0x12572032=~z~Good luck with that philosophy, bro. He might have been confused, but he was a good guy. Later, Mori.
+0x12572032=~z~Good luck with that philosophy, bro. He might have been confused, but he was a good guy. Later, Mori.
+
+;0x139D429F=~z~They're coming down heavy, bro.
+0x139D429F=~z~They're coming down heavy, bro.
+
+;0x1403FAE7=~z~No, no, I am, bro. I swear it. No, this guy can extend your hose by at least two to three inches.
+0x1403FAE7=~z~No, no, I am, bro. I swear it. No, this guy can extend your hose by at least two to three inches.
+
+;0x14229AD7=~z~Don't lose it on the turn, bitches.
+0x14229AD7=~z~Don't lose it on the turn, bitches.
+
+;0x14A73789=E2BR3_AGG
+0x14A73789=E2BR3_AGG
+
+;0x14DFD1EB=~z~I might be slow, Mori. But I can work a baseball bat, man.
+0x14DFD1EB=~z~I might be slow, Mori. But I can work a baseball bat, man.
+
+;0x150EF159=SFX_PAUSE_300
+0x150EF159=SFX_PAUSE_300
+
+;0x151970F4=101
+0x151970F4=101
+
+;0x15FB93C3=~z~You hang out with immigrant scumbags and you're wacked out on whale semen.
+0x15FB93C3=~z~You hang out with immigrant scumbags and you're wacked out on whale semen.
+
+;0x16AFBB2F=E2BR3_TE
+0x16AFBB2F=E2BR3_TE
+
+;0x17C1B0D8=~z~Yeah. We some dumb individuals, 4.0. See you round.
+0x17C1B0D8=~z~Yeah. We some dumb individuals, 4.0. See you round.
+
+;0x17CED13E=E2BR3_VB
+0x17CED13E=E2BR3_VB
+
+;0x17EC860F=E2BR3_AID
+0x17EC860F=E2BR3_AID
+
+;0x18024623=~z~Me likeee. Nice, bro, nice.
+0x18024623=~z~Me likeee. Nice, bro, nice.
+
+;0x18A11D0B=E2BR3_AHD
+0x18A11D0B=E2BR3_AHD
+
+;0x18FD6A4A=120090120090210120090120090210
+0x18FD6A4A=120090120090210120090120090210
+
+;0x1B03DD1C=E2BR3_VD1
+0x1B03DD1C=E2BR3_VD1
+
+;0x1B0F1CEE=E2BR3_AIB
+0x1B0F1CEE=E2BR3_AIB
+
+;0x1C61CB5A=E2BR3_AGC
+0x1C61CB5A=E2BR3_AGC
+
+;0x1CC84C36=E2BR3_AYA
+0x1CC84C36=E2BR3_AYA
+
+;0x1CE94B84=SFX_PAUSE_270
+0x1CE94B84=SFX_PAUSE_270
+
+;0x1CEB0C8D=E2BR3_BBB
+0x1CEB0C8D=E2BR3_BBB
+
+;0x1E8C4D20=SFX_PAUSE_240
+0x1E8C4D20=SFX_PAUSE_240
+
+;0x1ED0EA75=~z~Yeah, man. How'd they know what's up?
+0x1ED0EA75=~z~Yeah, man. How'd they know what's up?
+
+;0x1EE0109F=~z~The one thing you do got going for you is those 'roid-ravaged beans in your sack.
+0x1EE0109F=~z~The one thing you do got going for you is those 'roid-ravaged beans in your sack.
+
+;0x1F851C44=E2BR3_RD
+0x1F851C44=E2BR3_RD
+
+;0x1F8B22B4=SFX_PAUSE_180
+0x1F8B22B4=SFX_PAUSE_180
+
+;0x2018C6E3=E2BR3_VE
+0x2018C6E3=E2BR3_VE
+
+;0x201C17AB=E2BR3_WC
+0x201C17AB=E2BR3_WC
+
+;0x2029B016=E2BR3_AGH
+0x2029B016=E2BR3_AGH
+
+;0x203D510C=E2BR3_AYB
+0x203D510C=E2BR3_AYB
+
+;0x206B1186=E2BR3_AVA
+0x206B1186=E2BR3_AVA
+
+;0x20C30235=E2BR3_BAC
+0x20C30235=E2BR3_BAC
+
+;0x2134EA1F=~z~Head up to the top of Middle Park, Lou.
+0x2134EA1F=~z~Head up to the top of Middle Park, Lou.
+
+;0x214BD009=E2BR3_VF
+0x214BD009=E2BR3_VF
+
+;0x224E5BE3=~z~I ain't going to jail, Mor. Fuck! I'm not built for that shit!
+0x224E5BE3=~z~I ain't going to jail, Mor. Fuck! I'm not built for that shit!
+
+;0x236F9886=SFX_PAUSE_270
+0x236F9886=SFX_PAUSE_270
+
+;0x2416859E=SFX_PAUSE_190
+0x2416859E=SFX_PAUSE_190
+
+;0x256FE644=~z~The cops are gonna get us for sure.
+0x256FE644=~z~The cops are gonna get us for sure.
+
+;0x261D7466=~z~You want me to demonstrate that Dominican trait on the back of your head?
+0x261D7466=~z~You want me to demonstrate that Dominican trait on the back of your head?
+
+;0x26A55B22=E2BR3_BCA
+0x26A55B22=E2BR3_BCA
+
+;0x2805C52F=E2BR3_BDD
+0x2805C52F=E2BR3_BDD
+
+;0x2958AE31=~z~No way, Mori, the only thing that gets me excited is images of you being driven over by an 18 wheeler.
+0x2958AE31=~z~No way, Mori, the only thing that gets me excited is images of you being driven over by an 18 wheeler.
+
+;0x2AD37248=~z~Shit I can put on my garden. You two ain't go no use.
+0x2AD37248=~z~Shit I can put on my garden. You two ain't go no use.
+
+;0x2BF83E05=101
+0x2BF83E05=101
+
+;0x2C233D3C=E2BR3_XF1
+0x2C233D3C=E2BR3_XF1
+
+;0x2C61D4C1=E2BR3_UA
+0x2C61D4C1=E2BR3_UA
+
+;0x2C892044=~z~I don't want to talk about it.
+0x2C892044=~z~I don't want to talk about it.
+
+;0x2D52EDF1=SFX_PAUSE_110
+0x2D52EDF1=SFX_PAUSE_110
+
+;0x2D53601C=SFX_PAUSE_220
+0x2D53601C=SFX_PAUSE_220
+
+;0x2D5DE8AD=~z~I can't be driving with you on me like that.
+0x2D5DE8AD=~z~I can't be driving with you on me like that.
+
+;0x2DA85DD4=100
+0x2DA85DD4=100
+
+;0x2EE75060=~z~Don't fuck the cars on this corner now.
+0x2EE75060=~z~Don't fuck the cars on this corner now.
+
+;0x2F56DBCC=E2BR3_SC1
+0x2F56DBCC=E2BR3_SC1
+
+;0x2F74109B=E2BR3_AQA
+0x2F74109B=E2BR3_AQA
+
+;0x2F8CDD4E=100090010200
+0x2F8CDD4E=100090010200
+
+;0x30994B6A=SFX_PAUSE_350
+0x30994B6A=SFX_PAUSE_350
+
+;0x31D46FB2=E2BR3_AZC
+0x31D46FB2=E2BR3_AZC
+
+;0x32F092B4=~z~Wake up, pansies. I called them. Shit just got intense, huh?
+0x32F092B4=~z~Wake up, pansies. I called them. Shit just got intense, huh?
+
+;0x333E7404=E2BR3_BAA2
+0x333E7404=E2BR3_BAA2
+
+;0x33E0FF08=~z~Yes, uh three sports cars. They're going near the West River in Algonquin. Use extreme prejudice.
+0x33E0FF08=~z~Yes, uh three sports cars. They're going near the West River in Algonquin. Use extreme prejudice.
+
+;0x36733FD4=~z~Bye now.
+0x36733FD4=~z~Bye now.
+
+;0x3686D4D9=~z~It's bullshark testosterone and that shit fucking works, man!
+0x3686D4D9=~z~It's bullshark testosterone and that shit fucking works, man!
+
+;0x380575D6=E2BR3_BAB
+0x380575D6=E2BR3_BAB
+
+;0x39403E0A=~z~Hook me up with a ride, Luis. Push that thing.
+0x39403E0A=~z~Hook me up with a ride, Luis. Push that thing.
+
+;0x3940C56F=~z~Yeah, man, we are. We should do this more often, bro.
+0x3940C56F=~z~Yeah, man, we are. We should do this more often, bro.
+
+;0x3A05600C=SFX_OVERLAP_2670
+0x3A05600C=SFX_OVERLAP_2670
+
+;0x3AB67CA0=SFX_PAUSE_290
+0x3AB67CA0=SFX_PAUSE_290
+
+;0x3B25288E=E2BR3_RE
+0x3B25288E=E2BR3_RE
+
+;0x3BC59B96=~z~Lopez. What the fuck? Speed that shit up.
+0x3BC59B96=~z~Lopez. What the fuck? Speed that shit up.
+
+;0x3BEBEE26=E2BR3_SC2
+0x3BEBEE26=E2BR3_SC2
+
+;0x3C4779E3=~z~Urgh god I'm hanging out with a group of imbeciles. Can't even pick up the fucking cars."
+0x3C4779E3=~z~Urgh god I'm hanging out with a group of imbeciles. Can't even pick up the fucking cars."
+
+;0x3C8E706C=E2BR3_ANA
+0x3C8E706C=E2BR3_ANA
+
+;0x3C97767D=E2BR3_ACA
+0x3C97767D=E2BR3_ACA
+
+;0x3CC4A932=E2BR3_UB
+0x3CC4A932=E2BR3_UB
+
+;0x3CFD46C6=~z~What is the point in taking a car if it ain't gonna be in a state to make the shipments?
+0x3CFD46C6=~z~What is the point in taking a car if it ain't gonna be in a state to make the shipments?
+
+;0x3E1F4F1D=~z~Shut up, Mori.
+0x3E1F4F1D=~z~Shut up, Mori.
+
+;0x3E2E0A0A=~z~Go straight on this first ramp, okay?
+0x3E2E0A0A=~z~Go straight on this first ramp, okay?
+
+;0x3F0005AD=SFX_OVERLAP_5300
+0x3F0005AD=SFX_OVERLAP_5300
+
+;0x3F27F13A=~z~We are stealing some cars, little B. You think you can handle that?
+0x3F27F13A=~z~We are stealing some cars, little B. You think you can handle that?
+
+;0x408FF3E6=~z~You, me and Luis Lopez cruising down Algonquin to boost some motherfucking cars.
+0x408FF3E6=~z~You, me and Luis Lopez cruising down Algonquin to boost some motherfucking cars.
+
+;0x41970A04=~z~Yeah, Mori. You're a real asshole. You might wanna do something about that.
+0x41970A04=~z~Yeah, Mori. You're a real asshole. You might wanna do something about that.
+
+;0x4279CB03=200090020
+0x4279CB03=200090020
+
+;0x4398CE98=SFX_PAUSE_270
+0x4398CE98=SFX_PAUSE_270
+
+;0x44911717=~z~Don't bang into me, man.
+0x44911717=~z~Don't bang into me, man.
+
+;0x44ABFA9A=~z~Now that's how we roll, motherfuckers!
+0x44ABFA9A=~z~Now that's how we roll, motherfuckers!
+
+;0x44F7B55A=E2BR3_RH
+0x44F7B55A=E2BR3_RH
+
+;0x45978360=~z~Speed up, Luis. Where are you, motherfucker?
+0x45978360=~z~Speed up, Luis. Where are you, motherfucker?
+
+;0x46437559=E2BR3_QA
+0x46437559=E2BR3_QA
+
+;0x4726B3BB=E2BR3_AAI
+0x4726B3BB=E2BR3_AAI
+
+;0x4842F851=~z~You see? You see what I mean? No one's interested in your pathetic rolling shit. You're a Beta male.
+0x4842F851=~z~You see? You see what I mean? No one's interested in your pathetic rolling shit. You're a Beta male.
+
+;0x48A47B1C=~z~What does that even mean? 'This is how we roll'. I certainly don't roll with a flabby little bitch like you.
+0x48A47B1C=~z~What does that even mean? 'This is how we roll'. I certainly don't roll with a flabby little bitch like you.
+
+;0x48F3DE0D=E2BR3_RB
+0x48F3DE0D=E2BR3_RB
+
+;0x48F62399=E2BR3_ZA
+0x48F62399=E2BR3_ZA
+
+;0x49BCE657=E2BR3_RA
+0x49BCE657=E2BR3_RA
+
+;0x4A11E0EF=~z~Shut up, B. These were custom jobs.
+0x4A11E0EF=~z~Shut up, B. These were custom jobs.
+
+;0x4A1FB807=~z~At least we don't owe you shit anymore, Mori. Remember, the debt got erased in that bet. Fuckin' genius.
+0x4A1FB807=~z~At least we don't owe you shit anymore, Mori. Remember, the debt got erased in that bet. Fuckin' genius.
+
+;0x4A26E393=SFX_PAUSE_200
+0x4A26E393=SFX_PAUSE_200
+
+;0x4A32BC5C=SFX_PAUSE_130
+0x4A32BC5C=SFX_PAUSE_130
+
+;0x4A41C062=E2BR3_TC
+0x4A41C062=E2BR3_TC
+
+;0x4B485DC2=~z~And uh a oh oh yeah yeah, what are those properties worth now?!
+0x4B485DC2=~z~And uh a oh oh yeah yeah, what are those properties worth now?!
+
+;0x4BBD14AF=~z~I said I don't want to talk about it, okay?! Shit!
+0x4BBD14AF=~z~I said I don't want to talk about it, okay?! Shit!
+
+;0x4C39003D=~z~Warning! Warning! 'Roid rage alert. 'Roids in the house. Control yourself, little B.
+0x4C39003D=~z~Warning! Warning! 'Roid rage alert. 'Roids in the house. Control yourself, little B.
+
+;0x4C470494=~z~Too easy for you, was it, Bruce? Well let me see if I can do something about that. If we're all getting bored.
+0x4C470494=~z~Too easy for you, was it, Bruce? Well let me see if I can do something about that. If we're all getting bored.
+
+;0x4CB68C37=~z~Shit, yeah, of course, man. I can handle anything you throw at me, bro. This is going to be some slick shit.
+0x4CB68C37=~z~Shit, yeah, of course, man. I can handle anything you throw at me, bro. This is going to be some slick shit.
+
+;0x4DB28E53=~z~So, Mori, bro, what are we doing?
+0x4DB28E53=~z~So, Mori, bro, what are we doing?
+
+;0x4E15DADE=100090010010090100
+0x4E15DADE=100090010010090100
+
+;0x4E2B7972=~z~I'd call your parents, man. Shit, I don't know. I'm sorry, bro. Maybe things might turn out okay. Later.
+0x4E2B7972=~z~I'd call your parents, man. Shit, I don't know. I'm sorry, bro. Maybe things might turn out okay. Later.
+
+;0x4E9C094C=E2BR3_AUA
+0x4E9C094C=E2BR3_AUA
+
+;0x4E9E44BF=SFX_PAUSE_200
+0x4E9E44BF=SFX_PAUSE_200
+
+;0x4EEC906A=~z~Whoa, sharp corner ahead.
+0x4EEC906A=~z~Whoa, sharp corner ahead.
+
+;0x4F061ED3=~z~They got an air unit on us. Now we really got to turn up the heat.
+0x4F061ED3=~z~They got an air unit on us. Now we really got to turn up the heat.
+
+;0x4FE752E8=~z~Fuck me, bro.
+0x4FE752E8=~z~Fuck me, bro.
+
+;0x50F055F0=100010090100
+0x50F055F0=100010090100
+
+;0x5115B50A=SFX_PAUSE_240
+0x5115B50A=SFX_PAUSE_240
+
+;0x51413F23=~z~What have I got to work with. You guys are worse than shit.
+0x51413F23=~z~What have I got to work with. You guys are worse than shit.
+
+;0x514ACEE0=SFX_PAUSE_150
+0x514ACEE0=SFX_PAUSE_150
+
+;0x51773A0F=E2BR3_VG1
+0x51773A0F=E2BR3_VG1
+
+;0x52BC10D9=~z~I'm real distracted when I'm in Maisonette, Brucie. It's work for me. Glad you enjoy it though.
+0x52BC10D9=~z~I'm real distracted when I'm in Maisonette, Brucie. It's work for me. Glad you enjoy it though.
+
+;0x5475A118=~z~Luis is way back. Shit.
+0x5475A118=~z~Luis is way back. Shit.
+
+;0x54938C1C=~z~And that, gentlemen, is a wrap.
+0x54938C1C=~z~And that, gentlemen, is a wrap.
+
+;0x54A2CAE8=E2BR3_APA
+0x54A2CAE8=E2BR3_APA
+
+;0x54B001BD=~z~Oh, hey! Anyone for a beef frank?
+0x54B001BD=~z~Oh, hey! Anyone for a beef frank?
+
+;0x556488A6=E2BR3_XF2
+0x556488A6=E2BR3_XF2
+
+;0x56403C07=E2BR3_AXC
+0x56403C07=E2BR3_AXC
+
+;0x56DCF5FC=E2BR3_AAH1
+0x56DCF5FC=E2BR3_AAH1
+
+;0x56EF260F=~z~We can't wait for you, Luis. Come on.
+0x56EF260F=~z~We can't wait for you, Luis. Come on.
+
+;0x56F6979F=E2BR3_AMA
+0x56F6979F=E2BR3_AMA
+
+;0x574CCD28=E2BR3_XC
+0x574CCD28=E2BR3_XC
+
+;0x575152AD=~z~Hurry it up, Lou.
+0x575152AD=~z~Hurry it up, Lou.
+
+;0x5774A02F=~z~Whoo! Intense!
+0x5774A02F=~z~Whoo! Intense!
+
+;0x57A208F1=200090200090020090120090210210210090210
+0x57A208F1=200090200090020090120090210210210090210
+
+;0x57F055E4=SFX_PAUSE_210
+0x57F055E4=SFX_PAUSE_210
+
+;0x585E5D8F=~z~Are you Alpha or Omega? You think you can handle it?
+0x585E5D8F=~z~Are you Alpha or Omega? You think you can handle it?
+
+;0x58D18EBE=~z~My brother, man. He's gone. I don't know what to do.
+0x58D18EBE=~z~My brother, man. He's gone. I don't know what to do.
+
+;0x59675B22=E2BR3_VC
+0x59675B22=E2BR3_VC
+
+;0x5A0709F1=~z~I don't know about you, but I'd feel more comfortable on dry land.
+0x5A0709F1=~z~I don't know about you, but I'd feel more comfortable on dry land.
+
+;0x5ABBD51A=~z~Ahh, come on, I only do this 'cause I love him. Look, fucking shoot me, but what can I say?
+0x5ABBD51A=~z~Ahh, come on, I only do this 'cause I love him. Look, fucking shoot me, but what can I say?
+
+;0x5BA15DD9=E2BR3_RF
+0x5BA15DD9=E2BR3_RF
+
+;0x5BA3113B=E2BR3_RC2
+0x5BA3113B=E2BR3_RC2
+
+;0x5CDD26EA=E2BR3_ZAA
+0x5CDD26EA=E2BR3_ZAA
+
+;0x5D32BB2C=~z~You think you can handle a chopper, ladies? 'Cause it's on us!
+0x5D32BB2C=~z~You think you can handle a chopper, ladies? 'Cause it's on us!
+
+;0x5D85FD5E=E2BR3_AFA
+0x5D85FD5E=E2BR3_AFA
+
+;0x5FD483A4=100
+0x5FD483A4=100
+
+;0x60270BC6=SFX_PAUSE_240
+0x60270BC6=SFX_PAUSE_240
+
+;0x604DBB12=~z~You think my lumpy brother is gonna fit into that thing. Think, Lopez. Brain. Use it.
+0x604DBB12=~z~You think my lumpy brother is gonna fit into that thing. Think, Lopez. Brain. Use it.
+
+;0x60A0AE8A=120090210090120090120010090120090010090100090210
+0x60A0AE8A=120090210090120090120010090120090010090100090210
+
+;0x611D3DBD=~z~Uhh yeah, sometimes nature takes the weakest of us so the herd can move faster.
+0x611D3DBD=~z~Uhh yeah, sometimes nature takes the weakest of us so the herd can move faster.
+
+;0x611F2E5C=~z~Shit, man, you're a prize asshole.
+0x611F2E5C=~z~Shit, man, you're a prize asshole.
+
+;0x612A34E5=~z~Keep it together on this turn.
+0x612A34E5=~z~Keep it together on this turn.
+
+;0x61910FED=~z~I don't know. Maybe you shoulda planned for some fuckups.
+0x61910FED=~z~I don't know. Maybe you shoulda planned for some fuckups.
+
+;0x61F92FF8=~z~Don't do nothing, Mori. This is just fine.
+0x61F92FF8=~z~Don't do nothing, Mori. This is just fine.
+
+;0x6208D1BF=~z~Okay, now hit this ramp at a good angle. Don't fuck it up.
+0x6208D1BF=~z~Okay, now hit this ramp at a good angle. Don't fuck it up.
+
+;0x65513F9F=101
+0x65513F9F=101
+
+;0x6620BF76=E2BR3_AYC
+0x6620BF76=E2BR3_AYC
+
+;0x669DD46A=~z~Don't overdo the second ramp, assholes.
+0x669DD46A=~z~Don't overdo the second ramp, assholes.
+
+;0x66B8459D=~z~Where's Luis, bro.
+0x66B8459D=~z~Where's Luis, bro.
+
+;0x66D87178=~z~Yeah you could sit around crying and hugging and talking about how you lost it all.
+0x66D87178=~z~Yeah you could sit around crying and hugging and talking about how you lost it all.
+
+;0x673429D3=E2BR3_WA
+0x673429D3=E2BR3_WA
+
+;0x68F27187=~z~You fucking guys, man. Would you give it a rest?
+0x68F27187=~z~You fucking guys, man. Would you give it a rest?
+
+;0x6912A523=E2BR3_WE
+0x6912A523=E2BR3_WE
+
+;0x6912F630=~z~Come on, Lopez. We're waiting.
+0x6912F630=~z~Come on, Lopez. We're waiting.
+
+;0x69354A9B=~z~You alright there, Luis?
+0x69354A9B=~z~You alright there, Luis?
+
+;0x698C3A23=~z~Because the car's fucked, Kibbutz.
+0x698C3A23=~z~Because the car's fucked, Kibbutz.
+
+;0x6A080012=E2BR3_TD
+0x6A080012=E2BR3_TD
+
+;0x6B65CA1C=101
+0x6B65CA1C=101
+
+;0x6BB57F03=E2BR3_AHA
+0x6BB57F03=E2BR3_AHA
+
+;0x6BB7B3FE=SFX_PAUSE_180
+0x6BB7B3FE=SFX_PAUSE_180
+
+;0x6C43CB18=~z~See how you take this corner.
+0x6C43CB18=~z~See how you take this corner.
+
+;0x6C69EEF6=SFX_PAUSE_280
+0x6C69EEF6=SFX_PAUSE_280
+
+;0x6DDCDC55=E2BR3_BEA
+0x6DDCDC55=E2BR3_BEA
+
+;0x6E235EB1=E2BR3_BDB
+0x6E235EB1=E2BR3_BDB
+
+;0x6E2ACD9B=~z~Oh, you see that, bitches! You punks.
+0x6E2ACD9B=~z~Oh, you see that, bitches! You punks.
+
+;0x6E6172DC=~z~Sweet, bro.
+0x6E6172DC=~z~Sweet, bro.
+
+;0x6ECD08CE=E2BR3_AYE
+0x6ECD08CE=E2BR3_AYE
+
+;0x6F3527FC=SFX_PAUSE_190
+0x6F3527FC=SFX_PAUSE_190
+
+;0x7073D4FC=SFX_PAUSE_170
+0x7073D4FC=SFX_PAUSE_170
+
+;0x70A0EE1C=E2BR3_BCC
+0x70A0EE1C=E2BR3_BCC
+
+;0x71811B3D=~z~Oh yeah? What's that?
+0x71811B3D=~z~Oh yeah? What's that?
+
+;0x719121BD=SFX_PAUSE_270
+0x719121BD=SFX_PAUSE_270
+
+;0x71CF0765=~z~G-string on too tight, is it? You guys should lighten the fuck up. Come on!
+0x71CF0765=~z~G-string on too tight, is it? You guys should lighten the fuck up. Come on!
+
+;0x73C27532=~z~Don't fuck up the jump. You gotta be in line.
+0x73C27532=~z~Don't fuck up the jump. You gotta be in line.
+
+;0x74331B7F=~z~Whoa.
+0x74331B7F=~z~Whoa.
+
+;0x74402FB1=~z~Remind me again what you paid for that place in Broker, Brucie.
+0x74402FB1=~z~Remind me again what you paid for that place in Broker, Brucie.
+
+;0x74DF0103=~z~I just turned up the heat, bitches! Deal with it!
+0x74DF0103=~z~I just turned up the heat, bitches! Deal with it!
+
+;0x756C78CD=~z~Shit! Can you stay off my tail.
+0x756C78CD=~z~Shit! Can you stay off my tail.
+
+;0x75837235=~z~Now go easy on this one. You don't wanna overshoot the third.
+0x75837235=~z~Now go easy on this one. You don't wanna overshoot the third.
+
+;0x75ED7BCD=E2BR3_AAC2
+0x75ED7BCD=E2BR3_AAC2
+
+;0x76493164=~z~Here's our guy with the cars. You chumps could learn a thing or two here.
+0x76493164=~z~Here's our guy with the cars. You chumps could learn a thing or two here.
+
+;0x76A454FA=200
+0x76A454FA=200
+
+;0x7762DA26=~z~I think Brucie is talking about Hercules. That's where you pick up, ain't it?
+0x7762DA26=~z~I think Brucie is talking about Hercules. That's where you pick up, ain't it?
+
+;0x7844C8E6=~z~I could stop for a frank and still crush you bitches. Yeah!
+0x7844C8E6=~z~I could stop for a frank and still crush you bitches. Yeah!
+
+;0x786557D5=~z~Why you calling me, Lopez?
+0x786557D5=~z~Why you calling me, Lopez?
+
+;0x786C2ECC=SFX_PAUSE_290
+0x786C2ECC=SFX_PAUSE_290
+
+;0x78787505=SFX_PAUSE_330
+0x78787505=SFX_PAUSE_330
+
+;0x78A86F99=101
+0x78A86F99=101
+
+;0x798984BF=~z~Stick a seahorse up your ass, whatever nautical shit you like to calm yourself down with.
+0x798984BF=~z~Stick a seahorse up your ass, whatever nautical shit you like to calm yourself down with.
+
+;0x7ABFBF83=E2BR3_YD
+0x7ABFBF83=E2BR3_YD
+
+;0x7B8AFDFA=SFX_PAUSE_250
+0x7B8AFDFA=SFX_PAUSE_250
+
+;0x7B98418E=E2BR3_BBD
+0x7B98418E=E2BR3_BBD
+
+;0x7BAEC540=E2BR3_AKA
+0x7BAEC540=E2BR3_AKA
+
+;0x7C8BF49A=~z~But we gotta keep on going.
+0x7C8BF49A=~z~But we gotta keep on going.
+
+;0x7CAA86AD=E2BR3_AZB
+0x7CAA86AD=E2BR3_AZB
+
+;0x7D5EE6C3=~z~Ah, hello there, yes I would like to report the theft of three sports cars. They're in North West Algonquin.
+0x7D5EE6C3=~z~Ah, hello there, yes I would like to report the theft of three sports cars. They're in North West Algonquin.
+
+;0x7F024471=E2BR3_ABA
+0x7F024471=E2BR3_ABA
+
+;0x7F729661=~z~Like fucking clockwork, bro. We should boost cars more often.
+0x7F729661=~z~Like fucking clockwork, bro. We should boost cars more often.
+
+;0x7F995213=~z~Yeah, you hear that, Brucie, he called you a little cunt.
+0x7F995213=~z~Yeah, you hear that, Brucie, he called you a little cunt.
+
+;0x8039835F=E2BR3_ZC
+0x8039835F=E2BR3_ZC
+
+;0x816DB8A6=SFX_PAUSE_240
+0x816DB8A6=SFX_PAUSE_240
+
+;0x819DA281=~z~You really mean that, bro?
+0x819DA281=~z~You really mean that, bro?
+
+;0x8201CB34=~z~Huh?
+0x8201CB34=~z~Huh?
+
+;0x82B3FA5E=120120090120090210090120090120
+0x82B3FA5E=120120090120090210090120090120
+
+;0x83A1896B=201
+0x83A1896B=201
+
+;0x83C3123C=E2BR3_BCB
+0x83C3123C=E2BR3_BCB
+
+;0x843450D3=E2BR3_WF
+0x843450D3=E2BR3_WF
+
+;0x8452A01D=~z~Oh yes, hello there. I'd like to report a robbery.
+0x8452A01D=~z~Oh yes, hello there. I'd like to report a robbery.
+
+;0x8460B207=101
+0x8460B207=101
+
+;0x8584F214=~z~You fucking chump. How'd I know that was coming. Call me later, okay?
+0x8584F214=~z~You fucking chump. How'd I know that was coming. Call me later, okay?
+
+;0x861B425F=010100090100090010
+0x861B425F=010100090100090010
+
+;0x866B6FCB=~z~Bring her home, bitches.
+0x866B6FCB=~z~Bring her home, bitches.
+
+;0x87D19371=~z~You see? What did I tell you, Lopez? Overexposed like a stripper in Fleet Week.
+0x87D19371=~z~You see? What did I tell you, Lopez? Overexposed like a stripper in Fleet Week.
+
+;0x87E05B49=~z~Yo, bro, uh-hum, get me a car, will you? Push the button.
+0x87E05B49=~z~Yo, bro, uh-hum, get me a car, will you? Push the button.
+
+;0x8807CBD7=SFX_PAUSE_160
+0x8807CBD7=SFX_PAUSE_160
+
+;0x886F17B3=~z~It's called America.
+0x886F17B3=~z~It's called America.
+
+;0x88F24D1A=100
+0x88F24D1A=100
+
+;0x8AD25FE0=020
+0x8AD25FE0=020
+
+;0x8B72DC0E=101
+0x8B72DC0E=101
+
+;0x8BF7B3FD=~z~About to do untold damage to this motherfucker! That is how we roll!
+0x8BF7B3FD=~z~About to do untold damage to this motherfucker! That is how we roll!
+
+;0x8C711757=SFX_PAUSE_170
+0x8C711757=SFX_PAUSE_170
+
+;0x8DB9D292=E2BR3_RG
+0x8DB9D292=E2BR3_RG
+
+;0x8DCC6E76=~z~Anything would look big hanging next to those peanuts. Right? Yeah, am I right?
+0x8DCC6E76=~z~Anything would look big hanging next to those peanuts. Right? Yeah, am I right?
+
+;0x8DE9280C=E2BR3_BAA1
+0x8DE9280C=E2BR3_BAA1
+
+;0x8E1D2DF7=SFX_PAUSE_140
+0x8E1D2DF7=SFX_PAUSE_140
+
+;0x8E39AACB=E2BR3_ZB
+0x8E39AACB=E2BR3_ZB
+
+;0x8EDF1DD0=E2BR3_AXB2
+0x8EDF1DD0=E2BR3_AXB2
+
+;0x8F3BC741=E2BR3_TA
+0x8F3BC741=E2BR3_TA
+
+;0x8F8D2B06=~z~Mori, bro, are you... uhhh... fucking with me?
+0x8F8D2B06=~z~Mori, bro, are you... uhhh... fucking with me?
+
+;0x8FBCE6AA=~z~Oh, and the garage, too. How much did you pay?
+0x8FBCE6AA=~z~Oh, and the garage, too. How much did you pay?
+
+;0x9008E475=SFX_PAUSE_130
+0x9008E475=SFX_PAUSE_130
+
+;0x9174CB13=~z~Mellow out, bitch. I'll talk to you soon.
+0x9174CB13=~z~Mellow out, bitch. I'll talk to you soon.
+
+;0x92C65DC7=~z~Well, you see, it's this doctor, he's a fucking genius.
+0x92C65DC7=~z~Well, you see, it's this doctor, he's a fucking genius.
+
+;0x92EB41E4=~z~Three mad cats on the prowl for some autos. Scoping some joints.
+0x92EB41E4=~z~Three mad cats on the prowl for some autos. Scoping some joints.
+
+;0x939057EC=SFX_PAUSE_100
+0x939057EC=SFX_PAUSE_100
+
+;0x93C571DD=E2BR3_ASA
+0x93C571DD=E2BR3_ASA
+
+;0x93C81A59=~z~Ahh no, don't say cruising, Brucie. It'll get Lewis all excited.
+0x93C81A59=~z~Ahh no, don't say cruising, Brucie. It'll get Lewis all excited.
+
+;0x9487AFE0=E2BR3_AAA
+0x9487AFE0=E2BR3_AAA
+
+;0x94A3B0F7=201
+0x94A3B0F7=201
+
+;0x968E3062=SFX_PAUSE_180
+0x968E3062=SFX_PAUSE_180
+
+;0x970F87F4=~z~There you go, bro.
+0x970F87F4=~z~There you go, bro.
+
+;0x9754BA00=~z~Stick to me, bitches. We're moving.
+0x9754BA00=~z~Stick to me, bitches. We're moving.
+
+;0x9821B6AB=E2BR3_AZA
+0x9821B6AB=E2BR3_AZA
+
+;0x9940915B=SFX_PAUSE_160
+0x9940915B=SFX_PAUSE_160
+
+;0x9966AA22=210090120090210090210090120010
+0x9966AA22=210090120090210090210090120010
+
+;0x99F738B8=201011090101090101090011
+0x99F738B8=201011090101090101090011
+
+;0x9BAF0AA6=E2BR3_AOA
+0x9BAF0AA6=E2BR3_AOA
+
+;0x9BF154C3=201090101011090101090011090101
+0x9BF154C3=201090101011090101090011090101
+
+;0x9C47A261=~z~I said, 'this is how we roll.' Yeah! Suck it up, bitches!
+0x9C47A261=~z~I said, 'this is how we roll.' Yeah! Suck it up, bitches!
+
+;0x9C612281=E2BR3_AHC
+0x9C612281=E2BR3_AHC
+
+;0x9CBFD8C5=~z~I love this pasty, podgy, no-cock, dumb-as-shit, in-debt-up-to-his-eyeballs lunatic
+0x9CBFD8C5=~z~I love this pasty, podgy, no-cock, dumb-as-shit, in-debt-up-to-his-eyeballs lunatic
+
+;0x9D0CBEC7=E2BR3_BDA
+0x9D0CBEC7=E2BR3_BDA
+
+;0x9D1FF6E7=E2BR3_UH
+0x9D1FF6E7=E2BR3_UH
+
+;0x9D93A68B=~z~Awesome that we can hang like this. Fucking crazy, right?
+0x9D93A68B=~z~Awesome that we can hang like this. Fucking crazy, right?
+
+;0x9E1B430B=~z~I'm a rich asshole with a big cock. Ain't nothing wrong with that, you pansies.
+0x9E1B430B=~z~I'm a rich asshole with a big cock. Ain't nothing wrong with that, you pansies.
+
+;0x9E3AF274=SFX_PAUSE_240
+0x9E3AF274=SFX_PAUSE_240
+
+;0x9E97C75A=E2BR3_AEA
+0x9E97C75A=E2BR3_AEA
+
+;0x9E98D5E6=SFX_PAUSE_190
+0x9E98D5E6=SFX_PAUSE_190
+
+;0x9E9B9268=E2BR3_WD
+0x9E9B9268=E2BR3_WD
+
+;0x9EF09877=100090010090210120090010
+0x9EF09877=100090010090210120090010
+
+;0x9F9DAFB2=E2BR3_ADA
+0x9F9DAFB2=E2BR3_ADA
+
+;0x9FC7435F=E2BR3_SB
+0x9FC7435F=E2BR3_SB
+
+;0xA005D557=E2BR3_VG2
+0xA005D557=E2BR3_VG2
+
+;0xA08D0DF0=~z~Catch you boys later.
+0xA08D0DF0=~z~Catch you boys later.
+
+;0xA151878C=~z~Ahh, here he is. Let's go talk to the bitch.
+0xA151878C=~z~Ahh, here he is. Let's go talk to the bitch.
+
+;0xA188526A=SFX_PAUSE_250
+0xA188526A=SFX_PAUSE_250
+
+;0xA2ABC621=~z~Smile for the chopper, ladies.
+0xA2ABC621=~z~Smile for the chopper, ladies.
+
+;0xA36AFFE8=E2BR3_AIC2
+0xA36AFFE8=E2BR3_AIC2
+
+;0xA3B3DEDD=E2BR3_AAE
+0xA3B3DEDD=E2BR3_AAE
+
+;0xA3C6AF7F=SFX_PAUSE_180
+0xA3C6AF7F=SFX_PAUSE_180
+
+;0xA41F4C0C=~z~Only thing more useless than that little pecker of his is his portfolio. Ain't that right, Brucie?
+0xA41F4C0C=~z~Only thing more useless than that little pecker of his is his portfolio. Ain't that right, Brucie?
+
+;0xA42B1B42=~z~Glad you can admit it. Now, repeat after me. "I am a complete fucking loser."
+0xA42B1B42=~z~Glad you can admit it. Now, repeat after me. "I am a complete fucking loser."
+
+;0xA50CF72F=~z~I fucking hate you, bro, you tiny orange turd.
+0xA50CF72F=~z~I fucking hate you, bro, you tiny orange turd.
+
+;0xA5101511=E2BR3_AAH2
+0xA5101511=E2BR3_AAH2
+
+;0xA5B4A923=E2BR3_WB
+0xA5B4A923=E2BR3_WB
+
+;0xA605FF24=~z~Holy shit.
+0xA605FF24=~z~Holy shit.
+
+;0xA66C0512=~z~Yeah, he says he's made this pill that is gonna sort out that penis problem you got.
+0xA66C0512=~z~Yeah, he says he's made this pill that is gonna sort out that penis problem you got.
+
+;0xA67B682A=100090010120210120090210120090210
+0xA67B682A=100090010120210120090210120090210
+
+;0xA67D1076=E2BR3_SA
+0xA67D1076=E2BR3_SA
+
+;0xA8E5BEB8=E2BR3_AWB
+0xA8E5BEB8=E2BR3_AWB
+
+;0xA91F2654=210
+0xA91F2654=210
+
+;0xA9DDE049=SFX_PAUSE_370
+0xA9DDE049=SFX_PAUSE_370
+
+;0xAA096A87=SFX_PAUSE_270
+0xAA096A87=SFX_PAUSE_270
+
+;0xAABC8400=E2BR3_UC
+0xAABC8400=E2BR3_UC
+
+;0xAB983A35=101
+0xAB983A35=101
+
+;0xAC1CEFAA=E2BR3_AGA
+0xAC1CEFAA=E2BR3_AGA
+
+;0xAC2852C6=~z~I ain't sqeezing into that thing with you butterballs. Go get something bigger.
+0xAC2852C6=~z~I ain't sqeezing into that thing with you butterballs. Go get something bigger.
+
+;0xAC3BEC73=SFX_PAUSE_100
+0xAC3BEC73=SFX_PAUSE_100
+
+;0xADE6E7B9=~z~Hey Brucie, bro, it's good to hang with you. I'm really happy you're along on this ride.
+0xADE6E7B9=~z~Hey Brucie, bro, it's good to hang with you. I'm really happy you're along on this ride.
+
+;0xAE997C78=~z~and I want what's best for him.
+0xAE997C78=~z~and I want what's best for him.
+
+;0xAEF322CF=~z~There's my boy. The loser.
+0xAEF322CF=~z~There's my boy. The loser.
+
+;0xAF5B5A38=~z~Fuck! Your brother man. Yo, I'm sorry.
+0xAF5B5A38=~z~Fuck! Your brother man. Yo, I'm sorry.
+
+;0xAF86E5E2=~z~You're such a dick.
+0xAF86E5E2=~z~You're such a dick.
+
+;0xAF87A530=E2BR3_AAG
+0xAF87A530=E2BR3_AAG
+
+;0xB0433CB2=SFX_PAUSE_150
+0xB0433CB2=SFX_PAUSE_150
+
+;0xB1C87B08=~z~What the fuck you doing, Mori?
+0xB1C87B08=~z~What the fuck you doing, Mori?
+
+;0xB29FE7FD=E2BR3_AXB1
+0xB29FE7FD=E2BR3_AXB1
+
+;0xB36D50BA=201
+0xB36D50BA=201
+
+;0xB3BBBAB5=010100100100090210090120090210010090100090100090010
+0xB3BBBAB5=010100100100090210090120090210010090100090100090010
+
+;0xB3E8FDBF=E2BR3_ZF
+0xB3E8FDBF=E2BR3_ZF
+
+;0xB406C079=100090100010090200
+0xB406C079=100090100010090200
+
+;0xB445E7AD=SFX_PAUSE_170
+0xB445E7AD=SFX_PAUSE_170
+
+;0xB52ABD41=~z~Lopez! You fucked up, right?
+0xB52ABD41=~z~Lopez! You fucked up, right?
+
+;0xB5A2584F=E2BR3_ATA
+0xB5A2584F=E2BR3_ATA
+
+;0xB5EDF1B5=101
+0xB5EDF1B5=101
+
+;0xB67A9464=~z~Only person giving prizes for assholes is your boss, Lou. Shit just got intense. Now deal with it.
+0xB67A9464=~z~Only person giving prizes for assholes is your boss, Lou. Shit just got intense. Now deal with it.
+
+;0xB6D473A4=E2BR3_ZE
+0xB6D473A4=E2BR3_ZE
+
+;0xB6E29D5E=SFX_PAUSE_120
+0xB6E29D5E=SFX_PAUSE_120
+
+;0xB72D0C0F=SFX_PAUSE_270
+0xB72D0C0F=SFX_PAUSE_270
+
+;0xB7D11759=~z~Hey, we're picking these cars up on the North side of Middle Park.
+0xB7D11759=~z~Hey, we're picking these cars up on the North side of Middle Park.
+
+;0xB80E3043=SFX_PAUSE_270
+0xB80E3043=SFX_PAUSE_270
+
+;0xB8A1996C=~z~Well if it ain't the slowest Dominican in the Western Hemisphere. You're an embarrassment to your kind, bro.
+0xB8A1996C=~z~Well if it ain't the slowest Dominican in the Western Hemisphere. You're an embarrassment to your kind, bro.
+
+;0xB8B0DC3D=E2BR3_AGF
+0xB8B0DC3D=E2BR3_AGF
+
+;0xB9497404=SFX_PAUSE_270
+0xB9497404=SFX_PAUSE_270
+
+;0xBA757AB7=E2BR3_AAB
+0xBA757AB7=E2BR3_AAB
+
+;0xBCD210EC=~z~Fuck you, bro.
+0xBCD210EC=~z~Fuck you, bro.
+
+;0xBDF893BE=E2BR3_XB
+0xBDF893BE=E2BR3_XB
+
+;0xBF7EBA1C=E2BR3_UG
+0xBF7EBA1C=E2BR3_UG
+
+;0xC10E2531=E2BR3_XA2
+0xC10E2531=E2BR3_XA2
+
+;0xC17D06C7=~z~Leave him alone, Mori. You're even more annoying than usual.
+0xC17D06C7=~z~Leave him alone, Mori. You're even more annoying than usual.
+
+;0xC28F431C=E2BR3_TF
+0xC28F431C=E2BR3_TF
+
+;0xC4B114BC=~z~Okay, moving out, ladies! Follow me.
+0xC4B114BC=~z~Okay, moving out, ladies! Follow me.
+
+;0xC506A6EC=~z~Bye, Luis. Ahh, see ya, man. Do I have your number, man? Uh uh See ya.
+0xC506A6EC=~z~Bye, Luis. Ahh, see ya, man. Do I have your number, man? Uh uh See ya.
+
+;0xC66119EC=~z~Here, take these headsets. Excuse me if I don't trust the pair of yous to think for yourselves.
+0xC66119EC=~z~Here, take these headsets. Excuse me if I don't trust the pair of yous to think for yourselves.
+
+;0xC6905A34=SFX_PAUSE_190
+0xC6905A34=SFX_PAUSE_190
+
+;0xC6AB65AA=~z~Whoa, them dogs better be kosher. Yeah!
+0xC6AB65AA=~z~Whoa, them dogs better be kosher. Yeah!
+
+;0xC834FD6D=SFX_PAUSE_240
+0xC834FD6D=SFX_PAUSE_240
+
+;0xC9571E95=~z~Or two men and a little cunt.
+0xC9571E95=~z~Or two men and a little cunt.
+
+;0xC9E2AF2B=~z~The cops are all over us, man.
+0xC9E2AF2B=~z~The cops are all over us, man.
+
+;0xCA5B387C=~z~Oooo. Little Lopez got his panties in a twist.
+0xCA5B387C=~z~Oooo. Little Lopez got his panties in a twist.
+
+;0xCA9C2262=~z~Take these headsets so I can be in your ear all the way, bitches.
+0xCA9C2262=~z~Take these headsets so I can be in your ear all the way, bitches.
+
+;0xCAD47E47=E2BR3_AHB
+0xCAD47E47=E2BR3_AHB
+
+;0xCAD6397E=E2BR3_VA
+0xCAD6397E=E2BR3_VA
+
+;0xCBC7CFC9=~z~Fuck off, Mori. I thought you were being cool, bro.
+0xCBC7CFC9=~z~Fuck off, Mori. I thought you were being cool, bro.
+
+;0xCD34E19D=~z~Ah, pathetic. You see this guy, Lopez? What did I tell you?
+0xCD34E19D=~z~Ah, pathetic. You see this guy, Lopez? What did I tell you?
+
+;0xCE9900F5=201
+0xCE9900F5=201
+
+;0xCED7B733=E2BR3_AGB
+0xCED7B733=E2BR3_AGB
+
+;0xCF2189CB=SFX_PAUSE_210
+0xCF2189CB=SFX_PAUSE_210
+
+;0xCF2C6321=E2BR3_AAF
+0xCF2C6321=E2BR3_AAF
+
+;0xD1648CD0=E2BR3_AHF
+0xD1648CD0=E2BR3_AHF
+
+;0xD1F75AE8=E2BR3_AIC1
+0xD1F75AE8=E2BR3_AIC1
+
+;0xD28577F6=~z~Yes, Mori, I did. Shit happens
+0xD28577F6=~z~Yes, Mori, I did. Shit happens
+
+;0xD36DEA64=E2BR3_BBC
+0xD36DEA64=E2BR3_BBC
+
+;0xD3D72A3E=SFX_OVERLAP_4470
+0xD3D72A3E=SFX_OVERLAP_4470
+
+;0xD4A13C4B=E2BR3_AAC1
+0xD4A13C4B=E2BR3_AAC1
+
+;0xD4D76A9D=E2BR3_AHE
+0xD4D76A9D=E2BR3_AHE
+
+;0xD5656314=~z~Ah, B, shit, before I forget, there's this email that I got that I thought you'd be interested in.
+0xD5656314=~z~Ah, B, shit, before I forget, there's this email that I got that I thought you'd be interested in.
+
+;0xD5B6F2AD=~z~I don't know, bro. I tend to stop listening when you open your mouth.
+0xD5B6F2AD=~z~I don't know, bro. I tend to stop listening when you open your mouth.
+
+;0xD654DBE6=100
+0xD654DBE6=100
+
+;0xD67C2FB8=E2BR3_ALA
+0xD67C2FB8=E2BR3_ALA
+
+;0xD983DFD8=~z~Shit, bro, why are the cops all over us?
+0xD983DFD8=~z~Shit, bro, why are the cops all over us?
+
+;0xD9B4645B=E2BR3_YE
+0xD9B4645B=E2BR3_YE
+
+;0xDA017697=E2BR3_BBA
+0xDA017697=E2BR3_BBA
+
+;0xDBDBDF6E=~z~Yo, we got some cars waiting at the top of Middle Park, bro.
+0xDBDBDF6E=~z~Yo, we got some cars waiting at the top of Middle Park, bro.
+
+;0xDC99919B=SFX_OVERLAP_5100
+0xDC99919B=SFX_OVERLAP_5100
+
+;0xDE92CC94=SFX_PAUSE_260
+0xDE92CC94=SFX_PAUSE_260
+
+;0xDEBD5E04=SFX_PAUSE_200
+0xDEBD5E04=SFX_PAUSE_200
+
+;0xDF81B53C=SFX_PAUSE_360
+0xDF81B53C=SFX_PAUSE_360
+
+;0xDF8F0AB5=~z~Press the button. Bring down my car, man.
+0xDF8F0AB5=~z~Press the button. Bring down my car, man.
+
+;0xDFD0DBAE=~z~Scoping some bitches.
+0xDFD0DBAE=~z~Scoping some bitches.
+
+;0xE02BAC5F=~z~This is easy as shit, bro. They practically gave these cars away.
+0xE02BAC5F=~z~This is easy as shit, bro. They practically gave these cars away.
+
+;0xE02F869B=SFX_PAUSE_260
+0xE02F869B=SFX_PAUSE_260
+
+;0xE0A019B7=E2BR3_XE
+0xE0A019B7=E2BR3_XE
+
+;0xE221E78D=~z~Not cool.
+0xE221E78D=~z~Not cool.
+
+;0xE2AF29CE=100090120090010100090100090100090010100090100
+0xE2AF29CE=100090120090010100090100090100090010100090100
+
+;0xE36D154D=E2BR3_RC1
+0xE36D154D=E2BR3_RC1
+
+;0xE36E40BD=E2BR3_AAD
+0xE36E40BD=E2BR3_AAD
+
+;0xE3CDC749=201
+0xE3CDC749=201
+
+;0xE3CF061F=120090210090120090120090010
+0xE3CF061F=120090210090120090120090010
+
+;0xE3F9DF6E=~z~Shut up for a second. I got a call to make. Nine. One. One.
+0xE3F9DF6E=~z~Shut up for a second. I got a call to make. Nine. One. One.
+
+;0xE40331D7=~z~This is a one-off. Do you roll like this, Luis?
+0xE40331D7=~z~This is a one-off. Do you roll like this, Luis?
+
+;0xE464342F=~z~I do some serious damage in there, don't I? Tell Mori, bro. Tell him, tell him.
+0xE464342F=~z~I do some serious damage in there, don't I? Tell Mori, bro. Tell him, tell him.
+
+;0xE508D0E5=~z~Ay Dios Mio. You ain't got a clue, bro.
+0xE508D0E5=~z~Ay Dios Mio. You ain't got a clue, bro.
+
+;0xE58BBCE6=100090010100090010
+0xE58BBCE6=100090010100090010
+
+;0xE6056ED4=SFX_PAUSE_140
+0xE6056ED4=SFX_PAUSE_140
+
+;0xE6930CD8=E2BR3_UD
+0xE6930CD8=E2BR3_UD
+
+;0xE828E32C=E2BR3_ZD
+0xE828E32C=E2BR3_ZD
+
+;0xE86923B2=~z~Hey, call me an asshole, but I'd be really psyched if my bro was packing a four inch punch. How's that for cool?
+0xE86923B2=~z~Hey, call me an asshole, but I'd be really psyched if my bro was packing a four inch punch. How's that for cool?
+
+;0xE960DE1B=~z~Go. Go. Go. Last one there's a little bitch.
+0xE960DE1B=~z~Go. Go. Go. Last one there's a little bitch.
+
+;0xE965D387=SFX_PAUSE_130
+0xE965D387=SFX_PAUSE_130
+
+;0xEA1BF080=E2BR3_XA1
+0xEA1BF080=E2BR3_XA1
+
+;0xEAF514B8=E2BR3_YC
+0xEAF514B8=E2BR3_YC
+
+;0xEB97046E=SFX_PAUSE_090
+0xEB97046E=SFX_PAUSE_090
+
+;0xEC85CA43=E2BR3_AGI
+0xEC85CA43=E2BR3_AGI
+
+;0xECB8DB4C=SFX_OVERLAP_4120
+0xECB8DB4C=SFX_OVERLAP_4120
+
+;0xECEF84FF=E2BR3_TB
+0xECEF84FF=E2BR3_TB
+
+;0xEE61CFF4=~z~Let's see what you bitches can do on a straight.
+0xEE61CFF4=~z~Let's see what you bitches can do on a straight.
+
+;0xEEBFA9E1=E2BR3_YA
+0xEEBFA9E1=E2BR3_YA
+
+;0xEF4FE26C=~z~He's a bit like you and Big Tone actually.
+0xEF4FE26C=~z~He's a bit like you and Big Tone actually.
+
+;0xEFCBBC0D=201090101090011090101090011101011090201101
+0xEFCBBC0D=201090101090011090101090011101011090201101
+
+;0xF0619A84=090
+0xF0619A84=090
+
+;0xF12820DA=E2BR3_UE
+0xF12820DA=E2BR3_UE
+
+;0xF13A7639=E2BR3_XD
+0xF13A7639=E2BR3_XD
+
+;0xF2BC9F2F=E2BR3_PA
+0xF2BC9F2F=E2BR3_PA
+
+;0xF32FB942=~z~Don't bring down the positive energy, Lopez. Me and my brother are having fun today.
+0xF32FB942=~z~Don't bring down the positive energy, Lopez. Me and my brother are having fun today.
+
+;0xF3C10ACB=~z~I don't like this.
+0xF3C10ACB=~z~I don't like this.
+
+;0xF3D674D6=~z~Hey, I got a gift for you bitches. Some headsets. So I can tell you what to do later.
+0xF3D674D6=~z~Hey, I got a gift for you bitches. Some headsets. So I can tell you what to do later.
+
+;0xF412740F=~z~Come on, little B. Hey, what do you take me for?
+0xF412740F=~z~Come on, little B. Hey, what do you take me for?
+
+;0xF4870DE3=E2BR3_VD2
+0xF4870DE3=E2BR3_VD2
+
+;0xF517097A=~z~Well, I meant the part about you having no cock, you fucking loser. Toughen up!
+0xF517097A=~z~Well, I meant the part about you having no cock, you fucking loser. Toughen up!
+
+;0xF714FA10=~z~It's good to have Lopez along too, right? Hey, the three amigos.
+0xF714FA10=~z~It's good to have Lopez along too, right? Hey, the three amigos.
+
+;0xF8285AFA=SFX_OVERLAP_1920
+0xF8285AFA=SFX_OVERLAP_1920
+
+;0xF8DBFFA6=~z~Dude, you're putting me off. Come on.
+0xF8DBFFA6=~z~Dude, you're putting me off. Come on.
+
+;0xF9286B11=SFX_PAUSE_230
+0xF9286B11=SFX_PAUSE_230
+
+;0xF9A55DFA=E2BR3_AWA
+0xF9A55DFA=E2BR3_AWA
+
+;0xFA0F3654=SFX_PAUSE_150
+0xFA0F3654=SFX_PAUSE_150
+
+;0xFA97BAD1=E2BR3_YB
+0xFA97BAD1=E2BR3_YB
+
+;0xFB045781=101
+0xFB045781=101
+
+;0xFB2A0DCA=~z~Dios mio.
+0xFB2A0DCA=~z~Dios mio.
+
+;0xFB4769BF=~z~Okay, we got a straight here. Open 'em up.
+0xFB4769BF=~z~Okay, we got a straight here. Open 'em up.
+
+;0xFB5B6A1E=E2BR3_AGJ
+0xFB5B6A1E=E2BR3_AGJ
+
+;0xFB7C8D18=~z~Cool, man. Thanks.
+0xFB7C8D18=~z~Cool, man. Thanks.
+
+;0xFBCD0E26=SFX_PAUSE_310
+0xFBCD0E26=SFX_PAUSE_310
+
+;0xFCAC874B=~z~Shit, Luis. Don't rub me, bro.
+0xFCAC874B=~z~Shit, Luis. Don't rub me, bro.
+
+;0xFCAD95FD=~z~Yeah, well maybe you should keep to pruning roses and stay out this game then. I'm out bro.
+0xFCAD95FD=~z~Yeah, well maybe you should keep to pruning roses and stay out this game then. I'm out bro.
+
+;0xFDBD654B=~z~What did you just say?
+0xFDBD654B=~z~What did you just say?
+
+;0xFEB6EE50=SFX_PAUSE_220
+0xFEB6EE50=SFX_PAUSE_220
+
+;0xFEDE9922=~z~I'm gonna get arrested, I know it.
+0xFEDE9922=~z~I'm gonna get arrested, I know it.
+
+;0xFF23660B=~z~ Fuck it. Beta. Gamma. You're the Omega man. Bottom of the food chain. You're a bitch's bitch.
+0xFF23660B=~z~ Fuck it. Beta. Gamma. You're the Omega man. Bottom of the food chain. You're a bitch's bitch.
+
