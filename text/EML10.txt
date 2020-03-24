@@ -1,82 +1,81 @@
 ﻿[EML10]
 ;0x093EFF40=Hey Luis,
-0x093EFF40=Hey Luis,
+0x093EFF40=嗨Luis,
 
 ;0x0DBF3EFD=I haven't heard from you. did you lose my number? Maybe my phone was unplugged or something. It's been being weird. Listen. Give me a call sometime. Would be great to hang out again.
-0x0DBF3EFD=I haven't heard from you. did you lose my number? Maybe my phone was unplugged or something. It's been being weird. Listen. Give me a call sometime. Would be great to hang out again.
+0x0DBF3EFD=你都不联系我，难道你忘了我的号码吗？这么久都收不到你的来信，怪怪的，也许是我的手机没电了或者故障了吧。听好，时不时给我打个电话吧，我们一起出去浪一浪是极好的。
 
 ;0x10A50343=Things are real complicated right now. Look after yourself. Luis
-0x10A50343=Things are real complicated right now. Look after yourself. Luis
+0x10A50343=我现在因为一堆麻烦事忙得不可开交。多保重吧。Luis
 
 ;0x10ED8ED9=Hello stranger!
-0x10ED8ED9=Hello stranger!
+0x10ED8ED9=陌生人你好！
 
 ;0x134F8D29=Look after yourself, Margot. Luis.
-0x134F8D29=Look after yourself, Margot. Luis.
+0x134F8D29=好的，Margot，多保重。Luis。
 
 ;0x1D55A7A9=Hey Luis,
-0x1D55A7A9=Hey Luis,
+0x1D55A7A9=嗨Luis,
 
 ;0x3335D369=Hey Luis,
-0x3335D369=Hey Luis,
+0x3335D369=嗨Luis,
 
 ;0x3D1C5C31=Sorry, Margot. I been kind of busy. You take care. Luis.
-0x3D1C5C31=Sorry, Margot. I been kind of busy. You take care. Luis.
+0x3D1C5C31=抱歉，Margot。我最近有点忙，你多保重。Luis.
 
 ;0x56A29A42=Hey Luis,
-0x56A29A42=Hey Luis,
+0x56A29A42=嗨Luis,
 
 ;0x5C3461DD=Whatever,
-0x5C3461DD=Whatever,
+0x5C3461DD=不管啦，
 
 ;0x624DB198=Hello stranger!
-0x624DB198=Hello stranger!
+0x624DB198=陌生人你好！
 
 ;0x6C0DBEA4=Don't think I'm working tonight. Luis
-0x6C0DBEA4=Don't think I'm working tonight. Luis
+0x6C0DBEA4=我今晚不上班。Luis
 
 ;0x71DF0D36=Whatever,
-0x71DF0D36=Whatever,
+0x71DF0D36=不管啦，
 
 ;0x7FF68C03=Margs, I think you need to chill out. Please can we call this quits?
-0x7FF68C03=Margs, I think you need to chill out. Please can we call this quits?
+0x7FF68C03=Margs，我觉得你得放松一下。我们能不谈这个吗？
 
 ;0x8011A99B=Bye,
-0x8011A99B=Bye,
+0x8011A99B=掰掰，
 
 ;0x92EBB1ED=Please stop mailing me. Forget we ever met.
-0x92EBB1ED=Please stop mailing me. Forget we ever met.
+0x92EBB1ED=别给我发邮件了。就像我们从未相遇一样。
 
 ;0xB4AD8CCF=Do you want to die alone, Luis, because I think you will. Seriously. You can't treat people like this. I mean who do you think you are? You an asshole and you're not that well endowed. I faked it. Why are you doing this to me? Seriously. Why?
-0xB4AD8CCF=Do you want to die alone, Luis, because I think you will. Seriously. You can't treat people like this. I mean who do you think you are? You an asshole and you're not that well endowed. I faked it. Why are you doing this to me? Seriously. Why?
+0xB4AD8CCF=Luis，难道你想孤独终老吗？我觉得你会的。认真讲，你可不能这样对待他人。你以为自己是谁啊？你就是个混蛋，你可没有那么天赋异禀。我受够了，你为什么要这么对我？认真地说，为什么？
 
 ;0xB84B9417=What's up? or as you might say 'Yo, wassup!?' Still haven't heard much from you. I left a couple of messages. Maybe you didn't get them.
-0xB84B9417=What's up? or as you might say 'Yo, wassup!?' Still haven't heard much from you. I left a couple of messages. Maybe you didn't get them.
+0xB84B9417=你好吗？或者按你说的“咋样啦！？”你仍然不怎么联系我呢。我给你留了几条留言，好像你没收到。
 
 ;0xBA959E96=Whatever,
-0xBA959E96=Whatever,
+0xBA959E96=不管啦，
 
 ;0xBE77A063=Well, I'm sorry. I guess you never got the present I sent, because if you did and you haven't thanked me, that's just rude. I mean, seriously. Listen, I don't know what is wrong with you or whatever but come on. I mean, listen, I'm not a stalker or anything but I thought we kind of had a connection and in this crazy city, that means something.
-0xBE77A063=Well, I'm sorry. I guess you never got the present I sent, because if you did and you haven't thanked me, that's just rude. I mean, seriously. Listen, I don't know what is wrong with you or whatever but come on. I mean, listen, I'm not a stalker or anything but I thought we kind of had a connection and in this crazy city, that means something.
+0xBE77A063=好吧，我很遗憾，我猜你从没收到我寄的礼物，因为你从未说一声谢谢，很没礼貌。坦白讲，我不知道你哪根筋搭错了。但，听着，我不是骚扰之类的，我只是觉得我们在这座疯狂之城有些羁绊。
 
 ;0xC9483BFB=Bye,
-0xC9483BFB=Bye,
+0xC9483BFB=掰掰，
 
 ;0xCE10458B=Whatever,
-0xCE10458B=Whatever,
+0xCE10458B=不管啦，
 
 ;0xD7821BC7=Hello stranger!
-0xD7821BC7=Hello stranger!
+0xD7821BC7=陌生人你好！
 
 ;0xDB9AE0AC=Bye,
-0xDB9AE0AC=Bye,
+0xDB9AE0AC=掰掰，
 
 ;0xDCBDE2E6=Bye,
-0xDCBDE2E6=Bye,
+0xDCBDE2E6=掰掰，
 
 ;0xE73971F2=Anyway, me and some friends are meeting up later at the club. Maybe see you there? Be good to hang out. This guy is there who wants to date me and stuff but he's kind of annoying. Not like you. Apart from when you don't call back. Which is a bit rude. Seriously. I'm busy too. I've got a life. a good one. I'm hot. Anyway, see you later, maybe.
-0xE73971F2=Anyway, me and some friends are meeting up later at the club. Maybe see you there? Be good to hang out. This guy is there who wants to date me and stuff but he's kind of annoying. Not like you. Apart from when you don't call back. Which is a bit rude. Seriously. I'm busy too. I've got a life. a good one. I'm hot. Anyway, see you later, maybe.
+0xE73971F2=总之，我和一些朋友准备在俱乐部碰面，也许我能在那儿看看你？出来玩玩也是挺好的，我的伙计总想和我约会之类的，否则就会有些恼火。不像你一样，不回我电话啊，这可有些粗鲁。认真讲，我也挺忙的，我有自己的生活，不错的生活。总之，稍后见啦。
 
 ;0xE9E7C092=Hello stranger!
-0xE9E7C092=Hello stranger!
-
+0xE9E7C092=陌生人你好！

@@ -1,79 +1,78 @@
-﻿[EML11]
+[EML11]
 ;0x0BF4D36F=Love,
-0x0BF4D36F=Love,
+0x0BF4D36F=爱你的，
 
 ;0x0EDDF548=I ain't the one you need to talk to, it's momma! I help her all I can, and she still gets on me. Love to the kids. Luis.
-0x0EDDF548=I ain't the one you need to talk to, it's momma! I help her all I can, and she still gets on me. Love to the kids. Luis.
+0x0EDDF548=你不应该来找我谈的，你应该找咱妈谈！我尽我所能帮她了，但她还是那么对我。向孩子们问好，Luis。
 
 ;0x1CA37A47=Huh? I don't know what meds you on, sis. But you better cut the dose. L.
-0x1CA37A47=Huh? I don't know what meds you on, sis. But you better cut the dose. L.
+0x1CA37A47=哈？我不知道你磕了什么药，妹妹， 但你最好减少剂量。L。
 
 ;0x1D1250B3=Hey baby bro,
-0x1D1250B3=Hey baby bro,
+0x1D1250B3=嗨，我的哥哥，
 
 ;0x2186FE93=Love,
-0x2186FE93=Love,
+0x2186FE93=爱你的，
 
 ;0x22A600D1=Love,
-0x22A600D1=Love,
+0x22A600D1=爱你的，
 
 ;0x34A07FCF=Hey baby bro,
-0x34A07FCF=Hey baby bro,
+0x34A07FCF=嗨，我的哥哥，
 
 ;0x4214C539=ME? I ain't crazy, sis. I don't know what you talking about. Luis
-0x4214C539=ME? I ain't crazy, sis. I don't know what you talking about. Luis
+0x4214C539=我？我可没疯，妹妹。我都不知道你在说什么。Luis
 
 ;0x5518E5B6=Love,
-0x5518E5B6=Love,
+0x5518E5B6=爱你的，
 
 ;0x5CAD6E0E=Was you involved in that crazy shit I just saw on the news? You take care of yourself, you hear.
-0x5CAD6E0E=Was you involved in that crazy shit I just saw on the news? You take care of yourself, you hear.
+0x5CAD6E0E=你参与了我在新闻中看到的那些疯狂的事了吗？你保重好。
 
 ;0x5CCB0A52=Hey sis, I figured it would happen some day. Man can't control himself. Send me some pictures of your kids and I'll take down the ones of Dad. Much Love, Luis.
-0x5CCB0A52=Hey sis, I figured it would happen some day. Man can't control himself. Send me some pictures of your kids and I'll take down the ones of Dad. Much Love, Luis.
+0x5CCB0A52=嗨，妹妹，我早知道他早晚有一天会那样了。男人是控制不了自己的。请把你孩子的一些照片发给我，我替换掉老爸的。爱你，Luis。
 
 ;0x6F09AECF=Please don't lecture me. I've seen Mom go through enough to not put someone through that. L
-0x6F09AECF=Please don't lecture me. I've seen Mom go through enough to not put someone through that. L
+0x6F09AECF=请别对我说教。我已经见够了老妈那样了，别让你也变成那样。L
 
 ;0x80059694=Hey baby bro,
-0x80059694=Hey baby bro,
+0x80059694=嗨，我的哥哥，
 
 ;0xA66F8866=Love,
-0xA66F8866=Love,
+0xA66F8866=爱你的，
 
 ;0xA7C5843D=I know she can be tough, but she needs you. We all away and not doing so much for her and you all she got. I know she gives you a hard time, but she only wants the best for you. I hope you doing well and not breaking too many hearts. PS Don't ever get a job in human resources. People treat you like you need to wipe their asses.
-0xA7C5843D=I know she can be tough, but she needs you. We all away and not doing so much for her and you all she got. I know she gives you a hard time, but she only wants the best for you. I hope you doing well and not breaking too many hearts. PS Don't ever get a job in human resources. People treat you like you need to wipe their asses.
+0xA7C5843D=我知道她很严厉，但她需要你啊。我们都远离了她，我们都没为她做过太多，你是她的一切啊。我知道她曾给了你一段艰难的时光，但她只是为你好。我希望你好好的，别太沾花惹草。PS：别找人力资源部的工作，人们会认为你得给他们擦屁股。
 
 ;0xB5E0824D=Hey baby bro,
-0xB5E0824D=Hey baby bro,
+0xB5E0824D=嗨，我的哥哥，
 
 ;0xBE38B7F8=Love,
-0xBE38B7F8=Love,
+0xBE38B7F8=爱你的，
 
 ;0xC1841998=Hey baby bro,
-0xC1841998=Hey baby bro,
+0xC1841998=嗨，我的哥哥，
 
 ;0xC518BEE3=it's me, how you doing? I miss you! Listen, I know things been kind of hard and I know I've been absent and hard on you, and I know Ernesto can be a prick (is always a prick!) but can you try and keep an eye on Momma.
-0xC518BEE3=it's me, how you doing? I miss you! Listen, I know things been kind of hard and I know I've been absent and hard on you, and I know Ernesto can be a prick (is always a prick!) but can you try and keep an eye on Momma.
+0xC518BEE3=是我啊，过得如何？我可想你了！听着，我知道事情变得有些难办了，我知道我不在你身边了，对你来说有些苛刻，我也知道Ernesto变得像个白痴一样（他一直以来挺白痴的！），但你能关心一下咱妈妈吗。
 
 ;0xC73B2506=Hey baby bro,
-0xC73B2506=Hey baby bro,
+0xC73B2506=嗨，我的哥哥，
 
 ;0xC9B2A9F1=Hey baby bro,
-0xC9B2A9F1=Hey baby bro,
+0xC9B2A9F1=嗨，我的哥哥，
 
 ;0xD88B6C9D=Love,
-0xD88B6C9D=Love,
+0xD88B6C9D=爱你的，
 
 ;0xD92A6706=Heard some news from the midwest. Apparently Dad ran out on his new family too. First it was the army, then us, and now his new set of kids. He's living with a waitress or something. He's a fucking asshole, L. I can't believe you still keep those photos of him up. Anyway, thought you'd want to know. Don't turn out like that, okay? I know you're better than that. Just saying...
-0xD92A6706=Heard some news from the midwest. Apparently Dad ran out on his new family too. First it was the army, then us, and now his new set of kids. He's living with a waitress or something. He's a fucking asshole, L. I can't believe you still keep those photos of him up. Anyway, thought you'd want to know. Don't turn out like that, okay? I know you're better than that. Just saying...
+0xD92A6706=我听到了中西部的一些新闻，很显然老爸又逃离了他的新家庭。第一次是他还在军队的时候，然后逃离了我们，到现在他有了新孩子了。他现在貌似跟一个女服务员还是什么的在一起生活。他真是个混蛋啊，L。我简直不能相信你仍然保留着他的相片。总之，我说点你不想听的：别变成那样啊，好吗？我知道你是比他好的。只是说说...
 
 ;0xDA554B36=Hey baby bro,
-0xDA554B36=Hey baby bro,
+0xDA554B36=嗨，我的哥哥，
 
 ;0xEF551A30=Love,
-0xEF551A30=Love,
+0xEF551A30=爱你的，
 
 ;0xFD065195=Hey sis, good to hear from you! I try with momma! She just don't like me so much. All she does is give me a hard time, so it gets kind of hard. Anyway, hope you and the kids and the white bread man are doing well. Love Luis.
-0xFD065195=Hey sis, good to hear from you! I try with momma! She just don't like me so much. All she does is give me a hard time, so it gets kind of hard. Anyway, hope you and the kids and the white bread man are doing well. Love Luis.
-
+0xFD065195=嗨，妹妹。收到你的来信真好！我尝试与妈妈好好相处过，我感觉她只是没那么喜欢我。她做的每件事都让我很难受，所以我觉得和她相处有点难。总之，希望你和孩子们，以及白面包人能过得不错。爱你的Luis。

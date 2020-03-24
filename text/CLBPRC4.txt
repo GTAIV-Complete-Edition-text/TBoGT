@@ -1,70 +1,69 @@
 ﻿[CLBPRC4]
 ;0x01B6F1B1=~r~Poppy's friend got hurt.
-0x01B6F1B1=~r~Poppy's friend got hurt.
+0x01B6F1B1=~r~Poppy的朋友受伤了。
 
 ;0x239136CD=~r~You abandoned Poppy Mitchell.
-0x239136CD=~r~You abandoned Poppy Mitchell.
+0x239136CD=~r~你抛弃了Poppy Mitchell。
 
 ;0x31C1D32E=You left ~b~Poppy Mitchell~s~ behind.
-0x31C1D32E=You left ~b~Poppy Mitchell~s~ behind.
+0x31C1D32E=你把~b~Poppy Mitchell~s~落在后面了。
 
 ;0x411471D3=Go to the ~b~fire truck.
-0x411471D3=Go to the ~b~fire truck.
+0x411471D3=前往~b~消防车~s~。
 
 ;0x54F3982D=Get back in the ~b~fire truck.
-0x54F3982D=Get back in the ~b~fire truck.
+0x54F3982D=回到~b~消防车~s~上。
 
 ;0x558F9AC5=Get a vehicle.
-0x558F9AC5=Get a vehicle.
+0x558F9AC5=取得一辆载具。
 
 ;0x5C928EFF=Encourage the ~r~paparazzi~s~ to leave.
-0x5C928EFF=Encourage the ~r~paparazzi~s~ to leave.
+0x5C928EFF=劝说~r~狗仔队~s~离开。
 
 ;0x7A6B647C=~r~You've attracted poor publicity by attacking the paparazzi.
-0x7A6B647C=~r~You've attracted poor publicity by attacking the paparazzi.
+0x7A6B647C=~r~你因攻击狗仔队引起了不良报道。
 
 ;0x8184714A=Lose the cops.
-0x8184714A=Lose the cops.
+0x8184714A=甩掉警察。
 
 ;0x8DB9BD26=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0x8DB9BD26=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0x8DB9BD26=请用~PAD_RSTICK_ALL~来观察四周并检查故障。
 
 ;0x9FE92F77=~r~Poppy was hurt.
-0x9FE92F77=~r~Poppy was hurt.
+0x9FE92F77=~r~Poppy受伤了。
 
 ;0xB8EDC7B4=~r~You hurt Troy.
-0xB8EDC7B4=~r~You hurt Troy.
+0xB8EDC7B4=~r~你伤害了Troy。
 
 ;0xBA9DE37C=Wait for ~b~Poppy.
-0xBA9DE37C=Wait for ~b~Poppy.
+0xBA9DE37C=等候 ~b~Poppy~s~。
 
 ;0xC699630B=~r~You hurt Dessie.
-0xC699630B=~r~You hurt Dessie.
+0xC699630B=~r~你伤害了Dessie。
 
 ;0xD13D90C7=~r~You abandoned the fire truck.
-0xD13D90C7=~r~You abandoned the fire truck.
+0xD13D90C7=~r~你抛弃了消防车。
 
 ;0xDAE7A57B=Go back to ~y~Maisonette 9.
-0xDAE7A57B=Go back to ~y~Maisonette 9.
+0xDAE7A57B=返回~y~Maisonette 9~s~。
 
 ;0xE317347A=You left one of Poppy's ~b~friends~s~ behind.
-0xE317347A=You left one of Poppy's ~b~friends~s~ behind.
+0xE317347A=你把其中一位Poppy的~b~朋友~s~落在了后面。
 
 ;0xE54538CE=Go and meet ~b~Poppy Mitchell.
-0xE54538CE=Go and meet ~b~Poppy Mitchell.
+0xE54538CE=前去与~b~Poppy Mitchell~s~见面。
 
 ;0xE8CA4140=Go to ~y~Maisonette 9.
-0xE8CA4140=Go to ~y~Maisonette 9.
+0xE8CA4140=前往~y~Maisonette 9~s~。
 
 ;0xF3A65598=~r~The fire truck is wrecked.
-0xF3A65598=~r~The fire truck is wrecked.
+0xF3A65598=~r~消防车严重损毁。
 
 ;0xF6FCDC3D=Go to ~y~The Hotel On Luddite East.
-0xF6FCDC3D=Go to ~y~The Hotel On Luddite East.
+0xF6FCDC3D=前往~y~The Hotel On Luddite East~s~。
 
 ;0xFDE56A16=Press ~INPUT_VEH_ATTACK~ to use the fire truck's hose. Use ~PAD_RSTICK_ALL~ to aim.
-0xFDE56A16=Press ~INPUT_VEH_ATTACK~ to use the fire truck's hose. Use ~PAD_RSTICK_ALL~ to aim.
+0xFDE56A16=按~INPUT_VEH_ATTACK~可在消防车鸣笛。用~PAD_RSTICK_ALL~可以瞄准。
 
 ;0xFFC9D56F=~r~Club management failed.
-0xFFC9D56F=~r~Club management failed.
-
+0xFFC9D56F=~r~俱乐部管理失败。

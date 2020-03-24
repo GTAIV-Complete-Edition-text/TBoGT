@@ -1,49 +1,48 @@
-﻿[CLBPRC5]
+[CLBPRC5]
 ;0x0ABBA987=Go and meet ~b~Cloe Parker.
-0x0ABBA987=Go and meet ~b~Cloe Parker.
+0x0ABBA987=前去与~b~Cloe Parker~s~见面。
 
 ;0x17A2C355=~r~You abandoned Cloe Parker.
-0x17A2C355=~r~You abandoned Cloe Parker.
+0x17A2C355=~r~你抛弃了Cloe Parker。
 
 ;0x267460F8=Lose the cops.
-0x267460F8=Lose the cops.
+0x267460F8=甩掉警察。
 
 ;0x3ECF1267=Go to Cloe's ~b~car.
-0x3ECF1267=Go to Cloe's ~b~car.
+0x3ECF1267=前往Cloe的~b~车~s~。
 
 ;0x60285519=~r~Cloe got hurt.
-0x60285519=~r~Cloe got hurt.
+0x60285519=~r~Cloe受伤了。
 
 ;0x7BAD0850=Get back in ~b~Cloe's car.
-0x7BAD0850=Get back in ~b~Cloe's car.
+0x7BAD0850=回到~b~Cloe的车~s~上。
 
 ;0x7C0419BB=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0x7C0419BB=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0x7C0419BB=请用~PAD_RSTICK_ALL~来观察四周并检查故障。
 
 ;0x98CAC28B=Wait for ~b~Cloe~s~ to get in the car.
-0x98CAC28B=Wait for ~b~Cloe~s~ to get in the car.
+0x98CAC28B=等候~b~Cloe~s~上车。
 
 ;0x9C93D7D7=~r~You made Cloe sick.
-0x9C93D7D7=~r~You made Cloe sick.
+0x9C93D7D7=~r~你恶心到了Cloe。
 
 ;0x9D84CFD5=~r~You wrecked Cloe's car.
-0x9D84CFD5=~r~You wrecked Cloe's car.
+0x9D84CFD5=~r~你毁掉了Cloe的车。
 
 ;0xB68FFE15=~r~You hurt Dessie.
-0xB68FFE15=~r~You hurt Dessie.
+0xB68FFE15=~r~你伤害了Dessie。
 
 ;0xC5041E15=You left ~b~Cloe Parker~s~ behind.
-0xC5041E15=You left ~b~Cloe Parker~s~ behind.
+0xC5041E15=你把~b~Cloe Parker~s~落在了后面。
 
 ;0xC5589BA6=~r~You hurt Troy.
-0xC5589BA6=~r~You hurt Troy.
+0xC5589BA6=~r~你伤害了Troy。
 
 ;0xD332B75A=~r~Club management failed.
-0xD332B75A=~r~Club management failed.
+0xD332B75A=~r~俱乐部管理失败
 
 ;0xF351FAB0=Go to ~y~Maisonette 9.
-0xF351FAB0=Go to ~y~Maisonette 9.
+0xF351FAB0=前往~y~Maisonette 9~s~。
 
 ;0xF82D846B=Go to ~y~Cloe's mansion.
-0xF82D846B=Go to ~y~Cloe's mansion.
-
+0xF82D846B=前往~y~Cloe的宅邸。
