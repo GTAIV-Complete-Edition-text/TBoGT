@@ -1,25 +1,25 @@
 ﻿[ARN01]
 ;0x1C47BAC1=Mission passed.
-0x1C47BAC1=Mission passed.
+0x1C47BAC1=任务完成。
 
 ;0x88DFF129=~r~Arnaud was hurt.
-0x88DFF129=~r~Arnaud was hurt.
+0x88DFF129=~r~Arnaud受伤了。
 
 ;0x98198F88=Take Arnaud to the ~y~Massage Spa.
-0x98198F88=Take Arnaud to the ~y~Massage Spa.
+0x98198F88=带Arnaud去~y~水疗中心。
 
 ;0xA06AA02A=~r~Arnaud is dead.
-0xA06AA02A=~r~Arnaud is dead.
+0xA06AA02A=~r~Arnaud死了。
 
 ;0xB29F4493=You've left ~b~Arnaud~s~ behind.
-0xB29F4493=You've left ~b~Arnaud~s~ behind.
+0xB29F4493=~b~Arnaud~s~跟不上你了。
 
 ;0xCCED792F=Lose the cops.
-0xCCED792F=Lose the cops.
+0xCCED792F=甩掉警察。
 
 ;0xEAA4577B=Mission failed.
-0xEAA4577B=Mission failed.
+0xEAA4577B=任务失败。
 
 ;0xEB6C3644=~r~You abandoned Arnaud.
-0xEB6C3644=~r~You abandoned Arnaud.
+0xEB6C3644=~r~你弄丢Arnaud了。
 
