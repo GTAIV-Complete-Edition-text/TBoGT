@@ -1,58 +1,57 @@
-﻿[CLBPRC1]
+[CLBPRC1]
 ;0x06754C79=~r~Clay's friend was hurt.
-0x06754C79=~r~Clay's friend was hurt.
+0x06754C79=~r~Clay的朋友受伤了。
 
 ;0x162AEBE4=~r~Clay was hurt.
-0x162AEBE4=~r~Clay was hurt.
+0x162AEBE4=~r~Clay受伤了。
 
 ;0x2AF11570=Get back in Clay's ~b~car.
-0x2AF11570=Get back in Clay's ~b~car.
+0x2AF11570=回到Clay的~b~车~s~。
 
 ;0x389FB0CD=~r~The paparazzi were injured.
-0x389FB0CD=~r~The paparazzi were injured.
+0x389FB0CD=~r~狗仔队受伤了。
 
 ;0x6FB31BA7=Lose the cops.
-0x6FB31BA7=Lose the cops.
+0x6FB31BA7=甩掉警察。
 
 ;0x915C5EF9=~r~You wrecked Clay PG Jackson's car.
-0x915C5EF9=~r~You wrecked Clay PG Jackson's car.
+0x915C5EF9=~r~你毁掉了Clay PG Jackson的车。
 
 ;0xA187FF50=~r~You've attracted negative attention to the club.
-0xA187FF50=~r~You've attracted negative attention to the club.
+0xA187FF50=~r~你已给俱乐部增加负面影响。
 
 ;0xA3E5040E=Lose the ~r~paparazzi~s~ without hurting them.
-0xA3E5040E=Lose the ~r~paparazzi~s~ without hurting them.
+0xA3E5040E=请在不伤害~r~狗仔队~s~的同时甩掉他们。
 
 ;0xA6708931=Get to the ~y~Majestic hotel.
-0xA6708931=Get to the ~y~Majestic hotel.
+0xA6708931=前往~y~Majestic酒店~s~。
 
 ;0xB4FD8BAD=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0xB4FD8BAD=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0xB4FD8BAD=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
 
 ;0xB8A0B0D1=~r~You wrecked a paparazzi vehicle.
-0xB8A0B0D1=~r~You wrecked a paparazzi vehicle.
+0xB8A0B0D1=~r~你毁掉了狗仔队的车。
 
 ;0xBB85B35B=~r~You abandoned Clay PG Jackson.
-0xBB85B35B=~r~You abandoned Clay PG Jackson.
+0xBB85B35B=~r~你抛弃了Clay PG Jackson。
 
 ;0xCE5758F2=Go and meet ~b~Clay PG Jackson.
-0xCE5758F2=Go and meet ~b~Clay PG Jackson.
+0xCE5758F2=前去与~b~Clay PG Jackson~s~见面。
 
 ;0xCED2DD35=~r~The paparazzi got their pictures.
-0xCED2DD35=~r~The paparazzi got their pictures.
+0xCED2DD35=~r~狗仔队已拍到相片。
 
 ;0xD89B6D86=You've left ~b~Clay PG Jackson~s~ behind.
-0xD89B6D86=You've left ~b~Clay PG Jackson~s~ behind.
+0xD89B6D86=你把~b~Clay PG Jackson~s~落在了后面。
 
 ;0xDE2D7BEA=~r~You hurt Troy.
-0xDE2D7BEA=~r~You hurt Troy.
+0xDE2D7BEA=~r~你伤害了Troy。
 
 ;0xE3EB878A=~r~Club management failed.
-0xE3EB878A=~r~Club management failed.
+0xE3EB878A=~r~俱乐部管理任务失败。
 
 ;0xEBB113A5=Get in the ~b~car.
-0xEBB113A5=Get in the ~b~car.
+0xEBB113A5=上~b~车~s~。
 
 ;0xF264A458=~r~You hurt Dessie.
-0xF264A458=~r~You hurt Dessie.
-
+0xF264A458=~r~你伤害了Dessie。
