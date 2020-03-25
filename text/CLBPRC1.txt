@@ -18,7 +18,7 @@
 0x915C5EF9=~r~你毁掉了Clay PG Jackson的车。
 
 ;0xA187FF50=~r~You've attracted negative attention to the club.
-0xA187FF50=~r~你已经给俱乐部吸引了负面关注。
+0xA187FF50=~r~你已给俱乐部增加负面影响。
 
 ;0xA3E5040E=Lose the ~r~paparazzi~s~ without hurting them.
 0xA3E5040E=请在不伤害~r~狗仔队~s~的同时甩掉他们。
@@ -27,10 +27,10 @@
 0xA6708931=前往~y~Majestic酒店~s~。
 
 ;0xB4FD8BAD=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0xB4FD8BAD=请用~PAD_RSTICK_ALL~来观察四周并检查故障。
+0xB4FD8BAD=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
 
 ;0xB8A0B0D1=~r~You wrecked a paparazzi vehicle.
-0xB8A0B0D1=~r~你毁掉了狗仔车。
+0xB8A0B0D1=~r~你毁掉了狗仔队的车。
 
 ;0xBB85B35B=~r~You abandoned Clay PG Jackson.
 0xBB85B35B=~r~你抛弃了Clay PG Jackson。
@@ -48,7 +48,7 @@
 0xDE2D7BEA=~r~你伤害了Troy。
 
 ;0xE3EB878A=~r~Club management failed.
-0xE3EB878A=~r~俱乐部管理失败。
+0xE3EB878A=~r~俱乐部管理任务失败。
 
 ;0xEBB113A5=Get in the ~b~car.
 0xEBB113A5=上~b~车~s~。
