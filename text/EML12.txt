@@ -21,7 +21,7 @@
 0x8EDA7694=你的哥哥，
 
 ;0x9629B7C6=I hope you are doing better than when we last spoke. Listen, I won't waste time on pleasantries. I am sure your life as a pimp and drug pusher and night club man is great, but you are killing Ma. She is worried sick and quite frankly, I've had about enough. When the kids' break up for school, I've got half a mind to come there and give you a piece of my mind.
-0x9629B7C6=我希望你做得比我们上次谈话时更好了。听着，我不想在寒暄上浪费时间。我很确定你在拉皮条、吸毒和午夜俱乐部的人生是伟大的，但你在让妈妈愈发忧虑。她最近十分焦虑，坦白说，我受够了。当孩子们去上学的时候，我半只脑袋都在担心你。
+0x9629B7C6=我希望你做得比我们上次谈话时更好了。听着，我不想在寒暄上浪费时间。我很确定你当皮条客、毒品贩子，午夜俱乐部的工作是伟大的，但你在让妈妈愈发忧虑。她最近十分焦虑，坦白说，我受够了。当孩子们去上学的时候，我半只脑袋都在担心你。
 
 ;0xA52E0E15=Luis,
 0xA52E0E15=Luis,
@@ -48,7 +48,7 @@
 0xE87714AA=Luis,
 
 ;0xF0B06CD6=You're pathetic, pal. You make me sick. Your life is a joke. Get real. I am ashamed to call you my brother. Ashamed. I pretend you don't exist. My kids think you're dead. But Ma needs better than what you give her. So that's why I am emailing. So sort yourself out, or you will have me to answer to.
-0xF0B06CD6=你太可悲了，朋友。你让我恶心，你的人生就像个笑话。现实点吧！叫你弟弟已经让我很羞耻了，羞耻。我假装你不存在。我的孩子们都认为你已经死了。但妈妈需要你给她更多。这就是我发邮件给你的原因。总之认清你自己吧，别让我在评价你了。
+0xF0B06CD6=你太可悲了，朋友。你让我恶心，你那些就像个笑话。现实点吧！叫你弟弟已经让我很羞耻了，羞耻。我假装你不存在。我的孩子们都认为你已经死了。但妈妈需要你给她更多。这就是我发邮件给你的原因。总之认清你自己吧，别让我在评价你了。
 
 ;0xF0EB257E=Luis,
 0xF0EB257E=Luis,
