@@ -1,0 +1,181 @@
+﻿[E2INTAU]
+;0x0445E7FC=~z~Nothing to do with me. I swear.
+0x0445E7FC=~z~和我没关系。我发誓。
+
+;0x079F2FDE=~z~Thanks.
+0x079F2FDE=~z~谢了。
+
+;0x0A935BD6=~z~Yeah? They said catching that pass in my high school championship football game was a bad idea
+0x0A935BD6=~z~是吗？他们说我在高中橄榄球冠军争夺赛中接住那个传球是个坏主意
+
+;0x0C5D2901=~z~when you stop shoving half of Bolivia up your nose every Saturday night.
+0x0C5D2901=~z~只要你每周六晚不把半个玻利维亚的毒品吸到肚。
+
+;0x1C66FF7D=~z~I'm a gun club member.
+0x1C66FF7D=~z~我是个枪支俱乐部成员。
+
+;0x1D791A6A=~z~Um, some Irish guys. Anyway, uh-
+0x1D791A6A=~z~呃，一些爱尔兰人。总之，呃-
+
+;0x21D653F3=~z~That's gonna narrow the search ain't it?
+0x21D653F3=~z~这会减小搜索范围，不是吗？
+
+;0x22C2E625=~z~Well, if you think of anything else Mr. Lopez.
+0x22C2E625=~z~好吧，如果你还想起一些别的，Lopez先生。
+
+;0x232E63F9=E2Tm6_AA
+0x232E63F9=E2Tm6_AA
+
+;0x2CF056A2=~z~You good?
+0x2CF056A2=~z~你没事吧？
+
+;0x2FBEBEF5=~z~listen,
+0x2FBEBEF5=~z~听着，
+
+;0x32569E47=~z~I scored a touchdown and won the game.
+0x32569E47=~z~我触地得分并赢得了比赛。
+
+;0x37097E59=~z~Fuck you! Take the needle out your arm then tell me what to do.
+0x37097E59=~z~操你妈！把你膀子上的注射器拔下来再对我指指点点。
+
+;0x3814007A=~z~Fuck!
+0x3814007A=~z~操！
+
+;0x38ECD151=~z~I'm coming over, okay? So wake up.
+0x38ECD151=~z~我在来的路上，好吗？你先清醒清醒。
+
+;0x3AB5D4DF=~z~Hey, Tony it's me.
+0x3AB5D4DF=~z~嘿，Tony，是我。
+
+;0x3B5BF379=~z~Hey!
+0x3B5BF379=~z~嘿！
+
+;0x3D08B3AB=~z~The world was built out of bad ideas my friend.
+0x3D08B3AB=~z~朋友，这个世界就是由坏主意构成的。
+
+;0x3D5A1B53=~z~Yeah, sure, sure, I'll give you a call.
+0x3D5A1B53=~z~好，行，当然了，我会给你打个电话。
+
+;0x3DCF8B0D=~z~Fucking shit, get the money.
+0x3DCF8B0D=~z~操他妈了个逼，去拿钱。
+
+;0x40767AFF=~z~Boss, that guy is a mess.
+0x40767AFF=~z~老大，那家伙一团糟。
+
+;0x410A3BA6=~z~Me and me brother, here.
+0x410A3BA6=~z~我和我兄弟在这。
+
+;0x4170498F=~z~I don't think that's such a good idea.
+0x4170498F=~z~我不觉得那是个好主意。
+
+;0x477B1F38=~z~Ireland's not the only thing that's green, dollars are too.
+0x477B1F38=~z~爱尔兰不是唯一绿色的东西，钱也是。
+
+;0x4B5E7630=~z~Yeah, there was a problem at the bank.
+0x4B5E7630=~z~是，银行里出了点问题。
+
+;0x4D8B2B68=~z~Motherfucker!
+0x4D8B2B68=~z~你妈了个臭逼！
+
+;0x4EA356E0=~z~Come on.
+0x4EA356E0=~z~拜托。
+
+;0x4F7B9E10=~z~Yeah. Mami, don't be like that. Okay?
+0x4F7B9E10=~z~好嘞。老妈，别这样。好吗？
+
+;0x4F912E90=~z~Saint fucking Michael!
+0x4F912E90=~z~他妈的圣人Michael!
+
+;0x52D9DF45=~z~Why you telling them we're brothers, you idiot?
+0x52D9DF45=~z~你为什么要告诉他们我们是兄弟，你个白痴？
+
+;0x53022016=~z~Boss, yo, look. That guy said he might put me in his show. Don't let him forget about me, will you?
+0x53022016=~z~唷，老大，听着。那家伙说他可能让我上他的节目。别让他忘了我，好吗？
+
+;0x55AABB97=~z~Now you've said bloody Ireland.
+0x55AABB97=~z~现在你说了该死的爱尔兰。
+
+;0x5802699E=~z~The PE4 has been molded and is set to explode in sixty seconds.
+0x5802699E=~z~炸弹已经被设置好于六十秒后爆炸。
+
+;0x58B2D204=~z~Like I said man, everything's a little fuzzy.
+0x58B2D204=~z~正如我说的，伙计，一切都有些模糊。
+
+;0x5C77C941=~z~Shit! Michael!
+0x5C77C941=~z~操!Michael！
+
+;0x5CB3F2F9=~z~That's gonna make it hard for them to find us isn't it?
+0x5CB3F2F9=~z~这下他们就更难找到我们了，不是吗？
+
+;0x5D4A39AD=~z~I'll be home soon.
+0x5D4A39AD=~z~我很快就会回家。
+
+;0x5E84CC77=~z~Diablo, que mienda.
+0x5E84CC77=~z~该死，这是啥意思。
+
+;0x662FABD2=~z~Place got robbed.
+0x662FABD2=~z~那地方被抢了。
+
+;0x6C0EE78B=~z~Me and my brother will watch the kids.
+0x6C0EE78B=~z~我和我兄弟会看着人质。
+
+;0x6C6B57EF=~z~Hello. Hey mami, como esta?
+0x6C6B57EF=~z~你好。嘿，老妈，你好吗？
+
+;0x6E031597=~z~Fuck these people, fuck your cause, that shit's over.
+0x6E031597=~z~去他妈的这些人，去你妈的大业，这事结束了。
+
+;0x7255F4FD=~z~We told you not to fuck with us!
+0x7255F4FD=~z~我们告诉过你别惹我们！
+
+;0x7A2CF372=~z~Yeah, I'm sorry, yeah- no, I was working late at the club.
+0x7A2CF372=~z~好吧，我很抱歉，是-不，我只是在夜店工作到很晚。
+
+;0x86AA53F6=~z~Hey.
+0x86AA53F6=~z~嘿。
+
+;0x897F8FFF=~z~Yo, what's up, Papi?
+0x897F8FFF=~z~唷，你好哇，老爹？
+
+;0x9349E024=~z~Now listen people, we're your friends.
+0x9349E024=~z~大家现在听好了，我是你们的朋友。
+
+;0x94EC28F4=~z~Look, I gotta go.
+0x94EC28F4=~z~那个，我得挂了。
+
+;0x969CBCA6=~z~Shit.
+0x969CBCA6=~z~妈的。
+
+;0xA2A24460=~z~Okay.
+0xA2A24460=~z~好的。
+
+;0xAA3B9B18=~z~Yo!
+0xAA3B9B18=~z~唷！
+
+;0xAF09A4B4=~z~Hey, what's your name son?
+0xAF09A4B4=~z~嘿，你小子叫啥？
+
+;0xBB0E558E=~z~You hear me? Wake up.
+0xBB0E558E=~z~听到我说话吗？清醒清醒。
+
+;0xBCD04041=~z~I'm gonna take these rookies downtown. Are you with me?
+0xBCD04041=~z~我要把这些菜鸡干掉。你和我一起来吗？
+
+;0xC13AFC86=~z~Don't tell that guy the party's over, L.
+0xC13AFC86=~z~别告诉那家伙派对结束了，L
+
+;0xDCA972F2=~z~Trying to be honest with these people, we put them through a lot today.
+0xDCA972F2=~z~我在试着对这些人真诚一些，我们今天让他们经历了太多。
+
+;0xE12240A6=100
+0xE12240A6=100
+
+;0xE5AE920D=~z~It's Luis, man.
+0xE5AE920D=~z~是我Luis，伙计。
+
+;0xFC59BF63=~z~cause I broke my leg in thirteen places but...
+0xFC59BF63=~z~因为我腿曾经十三处骨折，但是...
+
+;0xFD538AEE=~z~I'll let you tell me what to do
+0xFD538AEE=~z~我会允许你对我发号施令
+
