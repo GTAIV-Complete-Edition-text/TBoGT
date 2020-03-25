@@ -1,67 +1,66 @@
 ﻿[CLBPRC3]
 ;0x02766526=You need a vehicle with more passenger seats.
-0x02766526=You need a vehicle with more passenger seats.
+0x02766526=你需要一辆带有更多座位的载具。
 
 ;0x36196947=Go to the ~y~hotel.
-0x36196947=Go to the ~y~hotel.
+0x36196947=前往~y~酒店。
 
 ;0x532200D4=You need a four-door car.
-0x532200D4=You need a four-door car.
+0x532200D4=你需要一辆四门车。
 
 ;0x5EE11642=~r~Club management failed.
-0x5EE11642=~r~Club management failed.
+0x5EE11642=~r~俱乐部管理任务失败。
 
 ;0x60EB2212=~r~You abandoned one of the ladies.
-0x60EB2212=~r~You abandoned one of the ladies.
+0x60EB2212=~r~你抛弃了其中一名女士。
 
 ;0x67BD2A0A=Lose the cops.
-0x67BD2A0A=Lose the cops.
+0x67BD2A0A=甩掉警察。
 
 ;0x6D5FB33F=~r~You hurt Troy.
-0x6D5FB33F=~r~You hurt Troy.
+0x6D5FB33F=~r~你伤害了Troy。
 
 ;0x708AC151=Head over to ~y~Easton Station.
-0x708AC151=Head over to ~y~Easton Station.
+0x708AC151=前往~y~Easton Station~s~。
 
 ;0x7485C3CB=Head over to ~y~Maisonette 9.
-0x7485C3CB=Head over to ~y~Maisonette 9.
+0x7485C3CB=前往~y~Maisonette 9~s~。
 
 ;0x8570E571=~r~The Prince was hurt.
-0x8570E571=~r~The Prince was hurt.
+0x8570E571=~r~The Prince受伤了。
 
 ;0x8576EB29=You've left the ~b~Prince~s~ and his ~b~ladies~s~ behind.
-0x8576EB29=You've left the ~b~Prince~s~ and his ~b~ladies~s~ behind.
+0x8576EB29=你把~b~Prince~s~和他的~b~小姐~s~落在了后面。
 
 ;0x89CBEE57=Wait for the ~b~'ladies'.
-0x89CBEE57=Wait for the ~b~'ladies'.
+0x89CBEE57=等候~b~“小姐们”。
 
 ;0x97C18FBE=You've left one of the ~b~ladies~s~ behind.
-0x97C18FBE=You've left one of the ~b~ladies~s~ behind.
+0x97C18FBE=你把其中一名~b~小姐~s~落在了后面。
 
 ;0x9BCA1223=You've left the ~b~Prince~s~ behind.
-0x9BCA1223=You've left the ~b~Prince~s~ behind.
+0x9BCA1223=你把~b~Prince~s~落在了后面。
 
 ;0xA734AEA4=Go and meet the ~b~royal guest.
-0xA734AEA4=Go and meet the ~b~royal guest.
+0xA734AEA4=前去与~b~皇室客人~s~见面。
 
 ;0xB2683F5F=~r~You abandoned the Prince.
-0xB2683F5F=~r~You abandoned the Prince.
+0xB2683F5F=~r~你抛弃了Prince。
 
 ;0xB7B849FF=~r~One of the ladies got hurt.
-0xB7B849FF=~r~One of the ladies got hurt.
+0xB7B849FF=~r~其中一名小姐受伤了。
 
 ;0xBA3654A7=You need a car.
-0xBA3654A7=You need a car.
+0xBA3654A7=你需要一辆车。
 
 ;0xC8C171BD=Sound your horn to get the ~b~girls'~s~ attention.
-0xC8C171BD=Sound your horn to get the ~b~girls'~s~ attention.
+0xC8C171BD=鸣笛以吸引~b~女孩们~s~的注意.
 
 ;0xD0D04352=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0xD0D04352=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0xD0D04352=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
 
 ;0xDA80153A=Get back in a car.
-0xDA80153A=Get back in a car.
+0xDA80153A=回到车里。
 
 ;0xF0C1C1BD=~r~You hurt Dessie.
-0xF0C1C1BD=~r~You hurt Dessie.
-
+0xF0C1C1BD=~r~你伤害了Dessie。
