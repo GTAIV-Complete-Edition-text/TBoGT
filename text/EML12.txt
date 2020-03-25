@@ -21,7 +21,7 @@
 0x8EDA7694=你的哥哥，
 
 ;0x9629B7C6=I hope you are doing better than when we last spoke. Listen, I won't waste time on pleasantries. I am sure your life as a pimp and drug pusher and night club man is great, but you are killing Ma. She is worried sick and quite frankly, I've had about enough. When the kids' break up for school, I've got half a mind to come there and give you a piece of my mind.
-0x9629B7C6=我希望你做得比我们上次谈话时更好了。听着，我不想在寒暄上浪费时间。我很确定你在拉皮条、吸毒和午夜俱乐部的人生是伟大的，但你在杀死妈妈。她病得很严重，坦白说，我受够了。当孩子们去上学的时候，我花了一半的脑袋去思考你。
+0x9629B7C6=我希望你做得比我们上次谈话时更好了。听着，我不想在寒暄上浪费时间。我很确定你在拉皮条、吸毒和午夜俱乐部的人生是伟大的，但你在让妈妈愈发忧虑。她最近十分焦虑，坦白说，我受够了。当孩子们去上学的时候，我半只脑袋都在担心你。
 
 ;0xA52E0E15=Luis,
 0xA52E0E15=Luis,
@@ -39,7 +39,7 @@
 0xC1AAC70E=Luis,
 
 ;0xC36B34A0=Ernesto! My dear brother! I hope being an accountant is still as much fun as ever! Man you are so lucky! Looking at columns of numbers all day. I miss you, bro. I really do. But since you left town and don't send Momma no money, I'm about all she got left. Now, I ain't perfect, but at least I actually seen my momma in the last five years. You call her up twice a year, then shout at me, then disappear back to suburbia. So, please, go fuck yourself. I know your tight ass wife ain't giving you none, although she try to get it on with me. Your loving brother, Luis.
-0xC36B34A0=Ernesto! 我亲爱的哥哥！我希望你的会计员工作还是像以前那样那么有趣！老兄你可太幸运了，整天看着一列列数字。我想你，哥哥。但说真的，自从你离开了小镇，又不给妈妈寄钱，我就是她剩下的一切了。现在，我并不完美，但我在过去五年至少真正见过妈妈。你每年跟她打两次电话，接着就在乡下消失了，就能对我指手画脚了吗？所以，我说，去你妈的。我知道虽然你的紧屁股老婆在尝试跟我在一起，但她仍然在为你奉献。你深爱的弟弟，Luis。
+0xC36B34A0=Ernesto! 我亲爱的哥哥！我希望你的会计员工作还是像以前那样那么有趣！老兄你可太幸运了，整天看着一列列数字。我想你，哥哥。但说真的，自从你离开了小镇，又不给妈妈寄钱，我就是她剩下的一切了。现在，我并不完美，但至少我确实在过去的五年里去拜访过妈妈。你觉得你每年跟她打两次电话，接着在乡下消失，就能对我指手画脚了吗？所以，我说，去你妈的。我知道虽然你的骚货老婆在尝试跟我在一起，但她仍然在为你奉献哦。你深爱的弟弟，Luis。
 
 ;0xCFF563A3=Luis,
 0xCFF563A3=Luis,

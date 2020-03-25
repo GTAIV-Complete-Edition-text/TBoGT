@@ -18,7 +18,7 @@
 0x558F9AC5=取得一辆载具。
 
 ;0x5C928EFF=Encourage the ~r~paparazzi~s~ to leave.
-0x5C928EFF=劝说~r~狗仔队~s~离开。
+0x5C928EFF=劝~r~狗仔队~s~离开。
 
 ;0x7A6B647C=~r~You've attracted poor publicity by attacking the paparazzi.
 0x7A6B647C=~r~你因攻击狗仔队引起了不良报道。
@@ -27,7 +27,7 @@
 0x8184714A=甩掉警察。
 
 ;0x8DB9BD26=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0x8DB9BD26=请用~PAD_RSTICK_ALL~来观察四周并检查故障。
+0x8DB9BD26=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
 
 ;0x9FE92F77=~r~Poppy was hurt.
 0x9FE92F77=~r~Poppy受伤了。
@@ -48,7 +48,7 @@
 0xDAE7A57B=返回~y~Maisonette 9~s~。
 
 ;0xE317347A=You left one of Poppy's ~b~friends~s~ behind.
-0xE317347A=你把其中一位Poppy的~b~朋友~s~落在了后面。
+0xE317347A=你把Poppy的其中一位~b~朋友~s~落在了后面。
 
 ;0xE54538CE=Go and meet ~b~Poppy Mitchell.
 0xE54538CE=前去与~b~Poppy Mitchell~s~见面。
@@ -60,10 +60,10 @@
 0xF3A65598=~r~消防车严重损毁。
 
 ;0xF6FCDC3D=Go to ~y~The Hotel On Luddite East.
-0xF6FCDC3D=前往~y~The Hotel On Luddite East~s~。
+0xF6FCDC3D=前往~y~Luddite East酒店~s~。
 
 ;0xFDE56A16=Press ~INPUT_VEH_ATTACK~ to use the fire truck's hose. Use ~PAD_RSTICK_ALL~ to aim.
-0xFDE56A16=按~INPUT_VEH_ATTACK~可在消防车鸣笛。用~PAD_RSTICK_ALL~可以瞄准。
+0xFDE56A16=按~INPUT_VEH_ATTACK~于消防车鸣笛。用~PAD_RSTICK_ALL~可以瞄准。
 
 ;0xFFC9D56F=~r~Club management failed.
-0xFFC9D56F=~r~俱乐部管理失败。
+0xFFC9D56F=~r~俱乐部管理任务失败。

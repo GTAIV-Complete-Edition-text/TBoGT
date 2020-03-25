@@ -27,10 +27,10 @@
 0x5518E5B6=爱你的，
 
 ;0x5CAD6E0E=Was you involved in that crazy shit I just saw on the news? You take care of yourself, you hear.
-0x5CAD6E0E=你参与了我在新闻中看到的那些疯狂的事了吗？你保重好。
+0x5CAD6E0E=你参与了我在新闻中看到的那些疯狂的事了吗？保重好你自己吧，听到没。
 
 ;0x5CCB0A52=Hey sis, I figured it would happen some day. Man can't control himself. Send me some pictures of your kids and I'll take down the ones of Dad. Much Love, Luis.
-0x5CCB0A52=嗨，妹妹，我早知道他早晚有一天会那样了。男人是控制不了自己的。请把你孩子的一些照片发给我，我替换掉老爸的。爱你，Luis。
+0x5CCB0A52=嗨，妹妹，我早知道他早晚有一天会那样了。这个人控制不了自己。请把你孩子的一些照片发给我，我替换掉老爸的。爱你，Luis。
 
 ;0x6F09AECF=Please don't lecture me. I've seen Mom go through enough to not put someone through that. L
 0x6F09AECF=请别对我说教。我已经见够了老妈那样了，别让你也变成那样。L
@@ -75,4 +75,4 @@
 0xEF551A30=爱你的，
 
 ;0xFD065195=Hey sis, good to hear from you! I try with momma! She just don't like me so much. All she does is give me a hard time, so it gets kind of hard. Anyway, hope you and the kids and the white bread man are doing well. Love Luis.
-0xFD065195=嗨，妹妹。收到你的来信真好！我尝试与妈妈好好相处过，我感觉她只是没那么喜欢我。她做的每件事都让我很难受，所以我觉得和她相处有点难。总之，希望你和孩子们，以及白面包人能过得不错。爱你的Luis。
+0xFD065195=嗨，妹妹。收到你的来信真好！我尝试与妈妈好好相处过，我感觉她只是没那么喜欢我。她做的每件事都让我很难受，所以我觉得和她相处有点难。总之，希望你和孩子们，还有那位无聊的男人能过得不错。爱你的Luis。

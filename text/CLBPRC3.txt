@@ -9,7 +9,7 @@
 0x532200D4=你需要一辆四门车。
 
 ;0x5EE11642=~r~Club management failed.
-0x5EE11642=~r~俱乐部管理失败。
+0x5EE11642=~r~俱乐部管理任务失败。
 
 ;0x60EB2212=~r~You abandoned one of the ladies.
 0x60EB2212=~r~你抛弃了其中一名女士。
@@ -54,10 +54,10 @@
 0xBA3654A7=你需要一辆车。
 
 ;0xC8C171BD=Sound your horn to get the ~b~girls'~s~ attention.
-0xC8C171BD=鸣笛以 吸引~b~女孩们~s~的注意.
+0xC8C171BD=鸣笛以吸引~b~女孩们~s~的注意.
 
 ;0xD0D04352=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0xD0D04352=请用~PAD_RSTICK_ALL~来观察四周并检查故障。
+0xD0D04352=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
 
 ;0xDA80153A=Get back in a car.
 0xDA80153A=回到车里。

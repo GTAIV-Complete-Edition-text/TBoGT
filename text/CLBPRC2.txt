@@ -1,6 +1,6 @@
 ﻿[CLBPRC2]
 ;0x58C5BB75=~r~Club management failed.
-0x58C5BB75=~r~俱乐部管理失败。
+0x58C5BB75=~r~俱乐部管理任务失败。
 
 ;0x660CD603=~r~You hurt Troy.
 0x660CD603=~r~你伤害了Troy。
@@ -21,7 +21,7 @@
 0xCA0F9E07=前往~y~Hercules~s~。
 
 ;0xD8263A34=Go to the ~y~Iron Belly Deli.
-0xD8263A34=前往~y~Belly Deli图标~s~。
+0xD8263A34=前往~y~Iron Belly Deli~s~。
 
 ;0xE23EE62F=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0xE23EE62F=请用~PAD_RSTICK_ALL~来观察四周并检查故障。
+0xE23EE62F=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
