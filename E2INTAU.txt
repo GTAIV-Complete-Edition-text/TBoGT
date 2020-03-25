@@ -36,7 +36,7 @@
 0x32569E47=~z~我触地得分并赢得了比赛。
 
 ;0x37097E59=~z~Fuck you! Take the needle out your arm then tell me what to do.
-0x37097E59=~z~操你妈！把你膀子上的注射器拔下来再对我指指点点。
+0x37097E59=~z~操你妈！把你膀子上的针头拔下来再对我指指点点。
 
 ;0x3814007A=~z~Fuck!
 0x3814007A=~z~操！
@@ -84,7 +84,7 @@
 0x4F7B9E10=~z~好嘞。老妈，别这样。好吗？
 
 ;0x4F912E90=~z~Saint fucking Michael!
-0x4F912E90=~z~他妈的圣人Michael!
+0x4F912E90=~z~Saint他妈的Michael!
 
 ;0x52D9DF45=~z~Why you telling them we're brothers, you idiot?
 0x52D9DF45=~z~你为什么要告诉他们我们是兄弟，你个白痴？
