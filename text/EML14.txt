@@ -1,58 +1,57 @@
 ﻿[EML14]
 ;0x2915EAE3=Thanks,
-0x2915EAE3=Thanks,
+0x2915EAE3=谢了，
 
 ;0x2D2170E5=Hey,
-0x2D2170E5=Hey,
+0x2D2170E5=嘿，
 
 ;0x364E8554=Thanks,
-0x364E8554=Thanks,
+0x364E8554=谢了，
 
 ;0x6C534F5F=No drama
-0x6C534F5F=No drama
+0x6C534F5F=好把
 
 ;0x7A7BEBB0=Thanks
-0x7A7BEBB0=Thanks
+0x7A7BEBB0=谢了
 
 ;0x7B600D61=Hey,
-0x7B600D61=Hey,
+0x7B600D61=嘿，
 
 ;0x81E11C74=Thanks,
-0x81E11C74=Thanks,
+0x81E11C74=谢了，
 
 ;0x89292B08=Thanks,
-0x89292B08=Thanks,
+0x89292B08=谢了，
 
 ;0x938ABFC7=Thanks,
-0x938ABFC7=Thanks,
+0x938ABFC7=谢了，
 
 ;0xA520E2F7=Thanks,
-0xA520E2F7=Thanks,
+0xA520E2F7=谢了，
 
 ;0xAFBBF618=Hey,
-0xAFBBF618=Hey,
+0xAFBBF618=嘿，
 
 ;0xC2AD9BFF=Hey,
-0xC2AD9BFF=Hey,
+0xC2AD9BFF=嘿，
 
 ;0xC4B5BAD3=Here's that link. <a href="www.youvebeencelebinated.com">www.youvebeencelebinated.com</a>. Reel him in coz I've got something planned.
-0xC4B5BAD3=Here's that link. <a href="www.youvebeencelebinated.com">www.youvebeencelebinated.com</a>. Reel him in coz I've got something planned.
+0xC4B5BAD3=那链接在这。<a href="www.youvebeencelebinated.com">www.youvebeencelebinated.com</a>. 把他卷进来，因为我计划了些东西。
 
 ;0xD19539CE=Hey,
-0xD19539CE=Hey,
+0xD19539CE=嘿，
 
 ;0xD5E04471=Thanks,
-0xD5E04471=Thanks,
+0xD5E04471=谢了，
 
 ;0xD6D3444A=Hey,
-0xD6D3444A=Hey,
+0xD6D3444A=嘿，
 
 ;0xE617E2D3=Hey,
-0xE617E2D3=Hey,
+0xE617E2D3=嘿，
 
 ;0xEFEE788D=Thanks,
-0xEFEE788D=Thanks,
+0xEFEE788D=谢了，
 
 ;0xFC708F84=Hey,
-0xFC708F84=Hey,
-
+0xFC708F84=嘿，

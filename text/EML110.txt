@@ -1,58 +1,57 @@
 ﻿[EML110]
 ;0x089167E4=Dear Sir / Madam,
-0x089167E4=Dear Sir / Madam,
+0x089167E4=亲爱的先生/女士，
 
 ;0x2EBC15F6=Yours respectfully,
-0x2EBC15F6=Yours respectfully,
+0x2EBC15F6=此致，敬礼
 
 ;0x3C66B14B=Yours respectfully,
-0x3C66B14B=Yours respectfully,
+0x3C66B14B=此致，敬礼
 
 ;0x3E585375=Dear Sir / Madam,
-0x3E585375=Dear Sir / Madam,
+0x3E585375=亲爱的先生/女士，
 
 ;0x424A5E78=Obviously, that is not possible, so now I'm ready to share my secrets with you. For a limited time only! My trading system works. Contact me now and let me set you on the path to financial freedom.
-0x424A5E78=Obviously, that is not possible, so now I'm ready to share my secrets with you. For a limited time only! My trading system works. Contact me now and let me set you on the path to financial freedom.
+0x424A5E78=很显然，花光它是不可能的了。所以我现在愿意同你分享我的秘密，限时！我的交易系统很有效。现在联系我，我会让你能在金融之路上自由行走。
 
 ;0x5091F7E8=Dear Sir / Madam,
-0x5091F7E8=Dear Sir / Madam,
+0x5091F7E8=亲爱的先生/女士，
 
 ;0x67818780=Yours respectfully,
-0x67818780=Yours respectfully,
+0x67818780=此致，敬礼
 
 ;0x73923DEC=Dear Sir / Madam,
-0x73923DEC=Dear Sir / Madam,
+0x73923DEC=亲爱的先生/女士，
 
 ;0x7580237D=Yours respectfully,
 0x7580237D=Yours respectfully,
 
 ;0x79814CE5=I saw the recession coming and made millions off it, selling options and stuff. I am a billionaire hundreds of times over. I have so much money that, to spend it all, it would take me about 400 years (without sleep).
-0x79814CE5=I saw the recession coming and made millions off it, selling options and stuff. I am a billionaire hundreds of times over. I have so much money that, to spend it all, it would take me about 400 years (without sleep).
+0x79814CE5=我看到了经济衰退的到来，并通过甩卖期权的方式赚了数百万美元。我比百万富翁还百万富翁，我有太多钱了，花光它大约要用400年（还不计睡觉时间）。
 
 ;0x87CAE978=Would you like to make hundreds of thousands of dollars a year doing nothing? Risk free? I know what the so-called professionals don't: how to consistently make money on the stock market.
-0x87CAE978=Would you like to make hundreds of thousands of dollars a year doing nothing? Risk free? I know what the so-called professionals don't: how to consistently make money on the stock market.
+0x87CAE978=你想要什么事都不干就能一年赚成千上万的钱吗？还没有风险？我知道那些所谓的财经专家是不会的：如何持续地在股市挣钱。
 
 ;0x9AE2EE42=Yours respectfully,
-0x9AE2EE42=Yours respectfully,
+0x9AE2EE42=此致，敬礼
 
 ;0xC204BC85=Yours respectfully,
-0xC204BC85=Yours respectfully,
+0xC204BC85=此致，敬礼
 
 ;0xCFCA5810=Yours respectfully,
-0xCFCA5810=Yours respectfully,
+0xCFCA5810=此致，敬礼
 
 ;0xE1DC1A7E=Dear Sir / Madam,
-0xE1DC1A7E=Dear Sir / Madam,
+0xE1DC1A7E=亲爱的先生/女士，
 
 ;0xF11EB903=Dear Sir / Madam,
-0xF11EB903=Dear Sir / Madam,
+0xF11EB903=亲爱的先生/女士，
 
 ;0xF30DBCDD=Dear Sir / Madam,
-0xF30DBCDD=Dear Sir / Madam,
+0xF30DBCDD=亲爱的先生/女士，
 
 ;0xF643C349=Dear Sir / Madam,
-0xF643C349=Dear Sir / Madam,
+0xF643C349=亲爱的先生/女士，
 
 ;0xF7B7A7EA=Yours respectfully,
-0xF7B7A7EA=Yours respectfully,
-
+0xF7B7A7EA=此致，敬礼
