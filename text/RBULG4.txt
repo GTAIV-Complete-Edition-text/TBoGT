@@ -1,43 +1,43 @@
 ﻿[RBULG4]
 ;0x1B0743DC=Take out the ~r~snipers.~s~
-0x1B0743DC=Take out the ~r~snipers.~s~
+0x1B0743DC=解决掉~r~狙击手。~s~
 
 ;0x30F71A06=~r~You are out of sniper rifle ammo.
-0x30F71A06=~r~You are out of sniper rifle ammo.
+0x30F71A06=~r~你用完了狙击步枪子弹。
 
 ;0x464D2FC4=Killed ~1~ of ~1~ snipers.
-0x464D2FC4=Killed ~1~ of ~1~ snipers.
+0x464D2FC4=已杀死~1~个狙击手，剩余~1~个。
 
 ;0x56F83A11=More assassins have arrived. Find a way off the ~y~roof.
-0x56F83A11=More assassins have arrived. Find a way off the ~y~roof.
+0x56F83A11=更多杀手来了。想办法离开~y~屋顶。
 
 ;0x6BC3E71F=The snipers will be marked when they fire a shot. Try to pinpoint their location and take them out.
-0x6BC3E71F=The snipers will be marked when they fire a shot. Try to pinpoint their location and take them out.
+0x6BC3E71F=当狙击手开火时，他会被标记在地图上。尝试确定他们的位置并解决掉他们。
 
 ;0x87D15BB6=Go to the ~y~building ~s~and protect Timur.
-0x87D15BB6=Go to the ~y~building ~s~and protect Timur.
+0x87D15BB6=去~y~建筑物~s~并保护Timur。
 
 ;0x964FE835=Lose the cops.
-0x964FE835=Lose the cops.
+0x964FE835=甩掉警察。
 
 ;0xABF12117=Mission passed phonecall.
-0xABF12117=Mission passed phonecall.
+0xABF12117=任务通过电话。
 
 ;0xB03B8C15=~r~You failed to kill the snipers.~s~
-0xB03B8C15=~r~You failed to kill the snipers.~s~
+0xB03B8C15=~r~你没能杀死狙击手。~s~
 
 ;0xB527B662=Go and collect the ~g~sniper rifle.~s~
-0xB527B662=Go and collect the ~g~sniper rifle.~s~
+0xB527B662=去拾取~g~狙击步枪。~s~
 
 ;0xB7C093DD=Go into the ~y~building.
-0xB7C093DD=Go into the ~y~building.
+0xB7C093DD=去~y~建筑物。
 
 ;0xBF477F90=The building is on fire. Find another escape route then leave the area.
-0xBF477F90=The building is on fire. Find another escape route then leave the area.
+0xBF477F90=建筑物着火了。找另一条逃离路线并离开该区域。
 
 ;0xD3C0BEC8=Leave the area.
-0xD3C0BEC8=Leave the area.
+0xD3C0BEC8=离开该区域。
 
 ;0xE8E5BA7D=~s~Get back to the ~y~building.
-0xE8E5BA7D=~s~Get back to the ~y~building.
+0xE8E5BA7D=~s~返回~y~建筑物。
 
