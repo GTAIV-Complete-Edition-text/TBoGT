@@ -15,10 +15,10 @@
 0x32137528=谨致问候，
 
 ;0x638200EF=Aloha!
-0x638200EF=Aloha!
+0x638200EF=您好！
 
 ;0x63B8AD47=I provide day, evening and overnight care for children of all ages and ethnicities. I am a mature, responsible man. No background checks required! Send address and pictures. Prepared to travel long distances for the right child. Competitive rates and excellent references.
-0x63B8AD47=我为各年龄、各种族的孩子提供日间、夜间和一夜间的照顾，我是个成熟可靠的男人。无需背景审查！发送地址和照片，就能为孩子准备长途旅行。我们有竞争力的价格和完美的案例。
+0x63B8AD47=我为各年龄、各种族的孩子提供日间、夜间和一夜间的照顾，我是个成熟可靠的男人。无需背景审查！发送地址和照片，就能为孩子准备长途旅行。我们有有竞争力的价格和出色的案例。
 
 ;0x71581CAB=Aloha!
 0x71581CAB=您好！
