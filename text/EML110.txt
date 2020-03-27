@@ -12,7 +12,7 @@
 0x3E585375=亲爱的先生/女士，
 
 ;0x424A5E78=Obviously, that is not possible, so now I'm ready to share my secrets with you. For a limited time only! My trading system works. Contact me now and let me set you on the path to financial freedom.
-0x424A5E78=很显然，花光它是不可能的了。所以我现在愿意同你分享我的秘密，限时！我的交易系统很有效。现在联系我，我会让你能在金融之路上自由行走。
+0x424A5E78=很显然，花光它是不可能的了。所以我现在愿意同你分享我的秘密，限时！我的交易系统很有效。现在联系我，我会让你通往财务自由。
 
 ;0x5091F7E8=Dear Sir / Madam,
 0x5091F7E8=亲爱的先生/女士，
