@@ -1,24 +1,24 @@
 ﻿[RBULG2]
 ;0x087575BA=Lose the cops.
-0x087575BA=Lose the cops.
+0x087575BA=甩掉警察。
 
 ;0x1F6DFE0D=Land on the ~b~truck.
-0x1F6DFE0D=Land on the ~b~truck.
+0x1F6DFE0D=降落在~b~卡车~s~上。
 
 ;0x2CFE99E6=Jump out of the window to escape.
-0x2CFE99E6=Jump out of the window to escape.
+0x2CFE99E6=从窗户跳下以逃离。
 
 ;0x449F5C1B=I've picked up someone on the roof.
-0x449F5C1B=I've picked up someone on the roof.
+0x449F5C1B=我发现有人在屋顶上。
 
 ;0x489DB4A2=Get into the ~b~chopper.
-0x489DB4A2=Get into the ~b~chopper.
+0x489DB4A2=上~b~直升机。
 
 ;0x4B9EEA1A=Look, I don't know how he got there, just keep a lookout, I'm sending more men.
-0x4B9EEA1A=Look, I don't know how he got there, just keep a lookout, I'm sending more men.
+0x4B9EEA1A=听着，我不知道他是怎么来到这里的，保持警惕，我会派更多人去。
 
 ;0x4BCC25CB=Get back into the ~b~chopper.
-0x4BCC25CB=Get back into the ~b~chopper.
+0x4BCC25CB=回到~b~直升机~s~上。
 
 ;0x4DFB080F=3
 0x4DFB080F=3
@@ -27,25 +27,25 @@
 0x517487AB=REC DI C2
 
 ;0x54153583=~r~You abandoned Timur.
-0x54153583=~r~You abandoned Timur.
+0x54153583=~r~你丢下了Timur。
 
 ;0x60D1ADBC=2
 0x60D1ADBC=2
 
 ;0x661AA37A=~r~Timur's truck was destroyed.
-0x661AA37A=~r~Timur's truck was destroyed.
+0x661AA37A=~r~Timur的卡车被摧毁了。
 
 ;0x69FFC018=1
 0x69FFC018=1
 
 ;0x6A892DDE=Don't fly too close to the building.
-0x6A892DDE=Don't fly too close to the building.
+0x6A892DDE=不要飞的太靠近建筑。
 
 ;0x71200936=Go to the ~y~heliport.
-0x71200936=Go to the ~y~heliport.
+0x71200936=去~y~直升机场。
 
 ;0x71680F67=~r~You lost Timur.
-0x71680F67=~r~You lost Timur.
+0x71680F67=~r~你丢下了Timur。
 
 ;0x7C6764E7=0
 0x7C6764E7=0
@@ -54,28 +54,28 @@
 0x91BECE6F=:
 
 ;0x93C1E4FB=~r~You alerted Ashvilli.
-0x93C1E4FB=~r~You alerted Ashvilli.
+0x93C1E4FB=~r~你引起了Ashvilli的警觉。
 
 ;0x9AEAA1F1=6
 0x9AEAA1F1=6
 
 ;0xA3D7C02A=Get in the ~b~truck.
-0xA3D7C02A=Get in the ~b~truck.
+0xA3D7C02A=上~b~卡车。
 
 ;0xAC44BF85=Go to the ~y~entrance.
-0xAC44BF85=Go to the ~y~entrance.
+0xAC44BF85=去~y~入口。
 
 ;0xAE9AFC54=Find ~r~Ashvilli ~s~and take him out.
-0xAE9AFC54=Find ~r~Ashvilli ~s~and take him out.
+0xAE9AFC54=找到~r~Ashvilli~s~并解决他。
 
 ;0xB58311E4=~r~Timur is dead.
-0xB58311E4=~r~Timur is dead.
+0xB58311E4=~r~Timur死了。
 
 ;0xB7585ACC=4
 0xB7585ACC=4
 
 ;0xC43C765C=Press ~PAD_Y~ to jump out of the helicopter.
-0xC43C765C=Press ~PAD_Y~ to jump out of the helicopter.
+0xC43C765C=按~PAD_Y~跳下直升机。
 
 ;0xC91CFE55=7
 0xC91CFE55=7
@@ -84,37 +84,37 @@
 0xCACA01B3=8
 
 ;0xD1FCC11F=Fly towards ~y~Star Junction, ~s~as high as possible.
-0xD1FCC11F=Fly towards ~y~Star Junction, ~s~as high as possible.
+0xD1FCC11F=以尽可能高的高度飞向~y~Star Junction。~s~
 
 ;0xD4A4AB17=Don't leave ~b~Timur ~s~behind.
-0xD4A4AB17=Don't leave ~b~Timur ~s~behind.
+0xD4A4AB17=别丢下了~b~Timur~s~。
 
 ;0xD84EC7B8=~r~The chopper was destroyed.
-0xD84EC7B8=~r~The chopper was destroyed.
+0xD84EC7B8=~r~直升机被摧毁了。
 
 ;0xDC8F4A92=Wait for ~b~Timur.
-0xDC8F4A92=Wait for ~b~Timur.
+0xDC8F4A92=等待~b~Timur。
 
 ;0xDFBAF5E3=Go back to the ~y~jump point.
-0xDFBAF5E3=Go back to the ~y~jump point.
+0xDFBAF5E3=返回~y~跳跃点。
 
 ;0xE3AC1273=~r~You didn't kill Ashvilli.
-0xE3AC1273=~r~You didn't kill Ashvilli.
+0xE3AC1273=~r~你没有杀死Ashvilli。
 
 ;0xE58FB73A=5
 0xE58FB73A=5
 
 ;0xE61555EC=There are more ~r~bodyguards ~s~on your tail, take them out or escape.
-0xE61555EC=There are more ~r~bodyguards ~s~on your tail, take them out or escape.
+0xE61555EC=更多~r~保镖~s~正在追赶你，解决掉他们或逃离。
 
 ;0xE808F643=~r~You missed the building.
-0xE808F643=~r~You missed the building.
+0xE808F643=~r~你没能跳上建筑。
 
 ;0xE84A9047=Jump out and parachute onto the ~y~building.
-0xE84A9047=Jump out and parachute onto the ~y~building.
+0xE84A9047=跳下直升机，跳伞到~y~建筑~s~上。
 
 ;0xE901A3EF=Hold ~INPUT_VEH_CIN_CAM~ to focus on the next checkpoint.
-0xE901A3EF=Hold ~INPUT_VEH_CIN_CAM~ to focus on the next checkpoint.
+0xE901A3EF=按住~INPUT_VEH_CIN_CAM~将视线聚焦在下一个检查点。
 
 ;0xF8FA5E13=9
 0xF8FA5E13=9
