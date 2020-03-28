@@ -231,7 +231,7 @@
 0x84CFAB84=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~1 x 黏弹 $800
 
 ;0x8640C810=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Automatic 9mm $500
-0x8640C810=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~自动9mm $500
+0x8640C810=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~全自动9mm $500
 
 ;0x8674C138=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~SMG purchased.
 0x8674C138=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买SMG。
@@ -243,7 +243,7 @@
 0x8857D28E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x SMG子弹 $20
 
 ;0x88AB81F6=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Advanced Sniper $4750
-0x88AB81F6=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~Advanced Sniper $4750
+0x88AB81F6=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~高级狙击枪 $4750
 
 ;0x8C87207C=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Shotgun $840
 0x8C87207C=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~霰弹枪 $840
