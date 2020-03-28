@@ -36,7 +36,7 @@
 0x32569E47=~z~我触地得分并赢得了比赛。
 
 ;0x37097E59=~z~Fuck you! Take the needle out your arm then tell me what to do.
-0x37097E59=~z~操你妈！把你膀子上的针头拔下来再对我指指点点。
+0x37097E59=~z~操你妈！把你膀子上的针头拔下来再对我发号施令。
 
 ;0x3814007A=~z~Fuck!
 0x3814007A=~z~操！
@@ -72,7 +72,7 @@
 0x477B1F38=~z~爱尔兰不是唯一绿色的东西，钱也是。
 
 ;0x4B5E7630=~z~Yeah, there was a problem at the bank.
-0x4B5E7630=~z~是，银行里出了点问题。
+0x4B5E7630=~z~是，刚刚在银行里遇到点麻烦。
 
 ;0x4D8B2B68=~z~Motherfucker!
 0x4D8B2B68=~z~你妈了个臭逼！
@@ -99,7 +99,7 @@
 0x5802699E=~z~炸弹已经被设置好于六十秒后爆炸。
 
 ;0x58B2D204=~z~Like I said man, everything's a little fuzzy.
-0x58B2D204=~z~正如我说的，伙计，一切都有些模糊。
+0x58B2D204=~z~正如我说的，伙计，我还没缓过神来。
 
 ;0x5C77C941=~z~Shit! Michael!
 0x5C77C941=~z~操!Michael！
@@ -108,10 +108,10 @@
 0x5CB3F2F9=~z~这下他们就更难找到我们了，不是吗？
 
 ;0x5D4A39AD=~z~I'll be home soon.
-0x5D4A39AD=~z~我很快就会回家。
+0x5D4A39AD=~z~我最近会回一趟家的。
 
 ;0x5E84CC77=~z~Diablo, que mienda.
-0x5E84CC77=~z~该死，这是啥意思。
+0x5E84CC77=~z~妈的，这都什么事。
 
 ;0x662FABD2=~z~Place got robbed.
 0x662FABD2=~z~那地方被抢了。
@@ -162,7 +162,7 @@
 0xBCD04041=~z~我要把这些菜鸡干掉。你和我一起来吗？
 
 ;0xC13AFC86=~z~Don't tell that guy the party's over, L.
-0xC13AFC86=~z~别告诉那家伙派对结束了，L
+0xC13AFC86=~z~别告诉那家伙派对结束了，L。
 
 ;0xDCA972F2=~z~Trying to be honest with these people, we put them through a lot today.
 0xDCA972F2=~z~我在试着对这些人真诚一些，我们今天让他们经历了太多。
