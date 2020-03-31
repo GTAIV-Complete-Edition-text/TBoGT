@@ -1,24 +1,24 @@
 ﻿[ARN02]
 ;0x071F00E2=Collect the ~g~wallet.
-0x071F00E2=收集~g~钱袋。
+0x071F00E2=拾取~g~钱包。
 
 ;0x148D9AA7=You've left ~b~Arnaud~s~ behind.
 0x148D9AA7=你把~b~Arnaud~s~落下了。
 
 ;0x1D652D6E=~r~The wallet was destroyed in the fire.
-0x1D652D6E=~r~钱袋被火烧毁了。
+0x1D652D6E=~r~钱包被火烧毁了。
 
 ;0x263C3E04=Lose the cops.
-0x263C3E04=甩掉条子。
+0x263C3E04=甩掉警察。
 
 ;0x42BBF703=~r~You abandoned Arnaud.
-0x42BBF703=~r~你弄丢Arnaud了。
+0x42BBF703=~r~你抛弃了Arnaud。
 
 ;0x74FFDC9A=~r~You abandoned the wallet.
-0x74FFDC9A=~r~你弄丢钱袋了。
+0x74FFDC9A=~r~你抛弃了钱包。
 
 ;0x95941CB6=The ~r~pimp~s~ is fleeing on foot. Take him out.
-0x95941CB6=~r~皮条客~s~逃跑了。干掉他！
+0x95941CB6=~r~皮条客~s~正在步行逃跑。干掉他。
 
 ;0x9F60315E=~r~The cops scared off the pimp.
 0x9F60315E=~r~条子吓跑了皮条客。
