@@ -9,7 +9,7 @@
 0x0889AA11=~r~Henrique被杀了。
 
 ;0x09C5B5AD=~s~Stay in the heli while Tony flies you back.
-0x09C5B5AD=~s~在飞机上让Tony带你回去。
+0x09C5B5AD=~s~留在飞机上让Tony带你回去。
 
 ;0x0AFD09A4=~s~Way to fuckin' go Luis!~s~
 0x0AFD09A4=~s~干得漂亮Luis！~s~
@@ -30,7 +30,7 @@
 0x183B4974=~r~你丢下了Armando和Henrique。
 
 ;0x2E4E9285=~s~They are storming the front, hold them off.
-0x2E4E9285=~s~他们正在突击前边，别让他们攻进来。
+0x2E4E9285=~s~他们从前边冲进来了，挡住他们。
 
 ;0x2FFA0221=~s~Take out the ~r~cops~s~ atacking Henrique.
 0x2FFA0221=~s~干掉正在攻击Henrique的 ~r~条子~s~。
@@ -93,7 +93,7 @@
 0xB68C79C0=PLACEHOLDER:~n~Player and buddies head to the docks to oversee a drug deal.
 
 ;0xBA5017EB=~s~Lose the cops before the deal goes ahead.~s~
-0xBA5017EB=~s~你必须把警察甩掉才能前往交易地点。~s~
+0xBA5017EB=~s~在前往交易地点前甩掉警察。~s~
 
 ;0xBBB32D4C=~s~Look out, they're trying to surround us.
 0xBBB32D4C=~s~小心，他们想要围堵我们。
