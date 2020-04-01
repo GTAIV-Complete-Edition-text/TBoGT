@@ -1,21 +1,21 @@
 ﻿[FRI1]
 ;0x0130E478=~s~Take your buddies back ~y~home.~s~
-0x0130E478=~s~带你的伙伴回 ~y~家。~s~
+0x0130E478=~s~送你的伙伴~y~回家。~s~
 
 ;0x038C1F1B=~s~Take out the ~r~cops~s~ on the roof.~s~
-0x038C1F1B=~s~把屋顶上的 ~r~警察~s~ 干掉。~s~
+0x038C1F1B=~s~干掉屋顶上的~r~警察。~s~
 
 ;0x0889AA11=~r~Henrique was killed.
 0x0889AA11=~r~Henrique被杀了。
 
 ;0x09C5B5AD=~s~Stay in the heli while Tony flies you back.
-0x09C5B5AD=~s~留在飞机上让Tony带你回去。
+0x09C5B5AD=~s~待在直升机内，Tony会带你回去。
 
 ;0x0AFD09A4=~s~Way to fuckin' go Luis!~s~
 0x0AFD09A4=~s~干得漂亮Luis！~s~
 
 ;0x0B5DFD0D=~s~Get in the ~b~car.~s~
-0x0B5DFD0D=~s~上 ~b~车。~s~
+0x0B5DFD0D=~s~上~b~车。~s~
 
 ;0x1039C295=~s~Here Luis, take a shotgun and some grenades. Just in case these assholes try anything.
 0x1039C295=~s~Luis，拿着这把霰弹枪和手榴弹，以防这帮傻逼搞事。
@@ -33,10 +33,10 @@
 0x2E4E9285=~s~他们从前边冲进来了，挡住他们。
 
 ;0x2FFA0221=~s~Take out the ~r~cops~s~ atacking Henrique.
-0x2FFA0221=~s~干掉正在攻击Henrique的 ~r~条子~s~。
+0x2FFA0221=~s~干掉正在攻击Henrique的~r~条子。
 
 ;0x34BE8B9E=~s~Take out the ~r~cops~s~ atacking Armando.
-0x34BE8B9E=~s~干掉正在攻击Henrique的 ~r~条子~s~。
+0x34BE8B9E=~s~干掉正在攻击Armando的~r~条子。
 
 ;0x36823B8E=~r~The car was destroyed.~s~
 0x36823B8E=~r~车被破坏了。~s~
@@ -48,7 +48,7 @@
 0x4227A670=~s~小心，楼顶上有狙击手。
 
 ;0x43531FA3=~r~You left your friend behind.~s~
-0x43531FA3=~r~你把同伴丢下了。~s~
+0x43531FA3=~r~你丢下了你的朋友。~s~
 
 ;0x52CB5B7E=~s~Bastards are coming round by the water.
 0x52CB5B7E=~s~这群傻逼从水边过来了。
@@ -69,7 +69,7 @@
 0x6B86D014=~s~拿着RPG然后把直升机轰下来。~s~
 
 ;0x6BC77ADB=~s~Hold off the cops until Tony arrives.
-0x6BC77ADB=~s~在Tony来之前拖住警察。
+0x6BC77ADB=~s~在Tony到达之前拖住警察。
 
 ;0x928CC865=~s~Go to the ~y~docks.
 0x928CC865=~s~前往~y~码头。
@@ -78,13 +78,13 @@
 0x9637D37D=~s~干，快跑。~s~
 
 ;0x9733472A=~r~You left your friends behind.~s~
-0x9733472A=~r~你丢下了你的伙伴。~s~
+0x9733472A=~r~你丢下了你的朋友。~s~
 
 ;0xA4BD6CC6=~s~Get your ~b~friend.
-0xA4BD6CC6=~s~去接你的~b~伙伴。
+0xA4BD6CC6=~s~去接你的~b~朋友。
 
 ;0xA581E3C7=~r~You abandonded Tony.~s~
-0xA581E3C7=~r~你丢下了Tony。~s~
+0xA581E3C7=~r~你抛弃了Tony。~s~
 
 ;0xADF34E56=~s~Shoot down the ~r~chopper.~s~
 0xADF34E56=~s~把~r~直升机~s~打下来
@@ -120,7 +120,7 @@
 0xD36D3EEA=~s~快走快走。~s~
 
 ;0xDABE2525=~s~Take out the ~r~cops~s~ in your way.
-0xDABE2525=~s~干掉挡路的 ~r~警察~s~。
+0xDABE2525=~s~干掉挡路的~r~警察。
 
 ;0xDFD5A1C2=~s~Lose the cops.~s~
 0xDFD5A1C2=~s~甩掉警察。~s~
@@ -147,7 +147,7 @@
 0xFAC80E8E=~r~Armando被杀了。
 
 ;0xFB879931=~s~Get to the ~b~helicopter.
-0xFB879931=~s~前往~b~直升机。
+0xFB879931=~s~前往~b~直升机所在地。
 
 ;0xFE715CF6=~s~Get to your ~b~buddies.~s~
 0xFE715CF6=~s~去找你的~b~同伴。~s~
