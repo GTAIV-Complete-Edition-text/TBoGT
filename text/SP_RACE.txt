@@ -57,7 +57,7 @@
 0x7E175BCF=按下对应的按键选择~n~1. 新泽西竞速比赛。
 
 ;0x8E08CB2A=Get a bike and get to the ~y~start line.
-0x8E08CB2A=~s~选一辆自行车到~y~起点~s~准备
+0x8E08CB2A=~s~找一辆摩托车到~y~起点~s~准备
 
 ;0x92D88D34=Lose the cops., or the race may be abandoned.
 0x92D88D34=甩掉条子, 不然比赛将会中止。
@@ -75,7 +75,7 @@
 0xB4AA9527=1
 
 ;0xBB3D184A=Get back on the bike.
-0xBB3D184A=快回到自行车上。
+0xBB3D184A=快回到摩托车上。
 
 ;0xBB72C767=Go
 0xBB72C767=出发
@@ -102,10 +102,10 @@
 0xE228DF72=第8名
 
 ;0xF6E4FEE5=Line up your bike.
-0xF6E4FEE5=骑上车去排队。
+0xF6E4FEE5=到出发位置准备。
 
 ;0xFAF187C6=Get a suitable bike.
-0xFAF187C6=选一辆合适的自行车。
+0xFAF187C6=找一辆合适的摩托车。
 
 ;0xFFCD4040=Press a key to choose a race type.~n~1. Manhatten ~n~2. Jersey ~n~ 3. Brooklyn ~n~
 0xFFCD4040=按下对应的按键选择比赛类型。~n~1. 曼哈顿 ~n~2. 新泽西 ~n~ 3. 布鲁克林 ~n~
