@@ -1,4 +1,4 @@
-﻿[CLBPRC6]
+[CLBPRC6]
 ;0x44824EDC=Get to ~y~Vespucci University.
 0x44824EDC=前往~y~Vespucci大学~s~。
 
