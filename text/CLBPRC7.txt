@@ -45,7 +45,7 @@
 0xC1E80A56=~r~你伤害了Dessie。
 
 ;0xCEC2152A=Go to the ~y~MeTV building.
-0xCEC2152A=前往~y~MeTV 大楼~s~。
+0xCEC2152A=前往~y~MeTV大楼~s~。
 
 ;0xF6797378=~r~Club management failed.
 0xF6797378=~r~俱乐部管理任务失败。
