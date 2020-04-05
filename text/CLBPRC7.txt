@@ -30,7 +30,7 @@
 0x7B98FDB5=你需要一辆四门载具。
 
 ;0x83DDFF9F=~r~Bobby was hurt.
-0x83DDFF9F=~r~Bobby 受伤了。
+0x83DDFF9F=~r~Bobby受伤了。
 
 ;0x976CD08C=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
 0x976CD08C=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
