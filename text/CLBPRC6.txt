@@ -33,7 +33,7 @@
 0xD3C86D62=~r~Al Di Napoli死了。
 
 ;0xD4AE3B9A=~r~You hurt Dessie.
-0xD4AE3B9A=~r~你伤害了Dessie.
+0xD4AE3B9A=~r~你伤害了Dessie。
 
 ;0xD844C2C7=~r~Club management failed.
 0xD844C2C7=~r~俱乐部管理任务失败。
