@@ -78,7 +78,7 @@
 0xD62A2E4C=2
 
 ;0xDF4521E1=Go and watch the ~y~dance floor.~s~
-0xDF4521E1=前往并监视~y~舞池~s~。
+0xDF4521E1=前往并检视~y~舞池~s~。
 
 ;0xE016197B=Escort the ~r~drug dealer~s~ out of the club.
 0xE016197B=护送~r~毒品交易商~s~离开俱乐部。
