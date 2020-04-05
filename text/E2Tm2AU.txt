@@ -267,7 +267,7 @@
 0x9A06E0F0=~z~再次抱歉，非常感谢。
 
 ;0x9C5B5E12=~z~Here's the food. I don't know why she make us make it every night when all she does is throw it up.
-0x9C5B5E12=~z~这是食物，我不知道她为什么她每晚吐了之后都要我们帮忙拿外卖/
+0x9C5B5E12=~z~这是食物，我不知道她为什么她每晚吐了之后都要我们帮忙拿外卖。
 
 ;0x9DC2C9C5=~z~We're doing fine. We just love running errands. There's only so fast a man can get from Bohan to Westminster.
 0x9DC2C9C5=~z~我做的很好，我就喜欢干些差事。我是能从Bohan到Westminster最快的人，
@@ -378,7 +378,7 @@
 0xCA99CEC7=E2Tm2_VA
 
 ;0xCAC2B863=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
-0xCAC2B863=~z~计划赶不上变化，Dessert。你明白我想说什么吗？
+0xCAC2B863=~z~计划赶不上变化，Dess。你明白我想说什么吗？
 
 ;0xCB717520=~z~There's no way she gonna starve to death in the couple of minutes it takes me to get this foul smelling shit to her. Chill out.
 0xCB717520=~z~她不会两分钟拿不到这散发着臭气的外卖就饿死的，冷静点。
@@ -459,7 +459,7 @@
 0xE6901769=100090100090100010090010
 
 ;0xE8EF74BC=~z~Shit, L. Okay. I'll get on damage control.
-0xE8EF74BC=~z~草，L。好吧骂我尽量止损。
+0xE8EF74BC=~z~草，L。好吧，我尽量止损。
 
 ;0xED1C4B12=~z~No problem, boss.
 0xED1C4B12=~z~没问题，老板。
