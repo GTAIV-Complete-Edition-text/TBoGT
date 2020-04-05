@@ -6,7 +6,7 @@
 0x6AE01B93=你把~b~Al~s~落在了后面。
 
 ;0x781E360F=~r~You abandoned Al Di Napoli.
-0x781E360F=~r~你抛弃了Al Di Napoli.
+0x781E360F=~r~你抛弃了Al Di Napoli。
 
 ;0x9996456B=~r~You spooked the dealers. The deal is off.
 0x9996456B=~r~你吓到了交易商，交易取消了。
