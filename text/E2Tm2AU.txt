@@ -120,7 +120,7 @@
 0x4B50242C=100090100090010
 
 ;0x4B6E1D98=~z~Tony treats these fucking supermodel chicks too fucking well. Damn. I'll do it. I'll do it.
-0x4B6E1D98=~z~托尼对这些超模荡妇真是太好了，他妈的。我去拿吧，我去拿。
+0x4B6E1D98=~z~Tony对这些超模荡妇真是太好了，他妈的。我去拿吧，我去拿。
 
 ;0x4C8A74F5=E2Tm2_PB
 0x4C8A74F5=E2Tm2_PB
