@@ -57,7 +57,7 @@
 0xF3E319BA=~s~按~INPUT_DUCK~躲避直升机。
 
 ;0xF5A638B9=~s~Get into position ~y~above the tracks.
-0xF5A638B9=~s~就位~y~在铁轨上。
+0xF5A638B9=在~y~铁轨~s~上方就位。
 
 ;0xF6673C02=~r~Yusuf died.
 0xF6673C02=~r~Yusuf凉了。
