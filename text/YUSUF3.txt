@@ -9,7 +9,7 @@
 0x01D6C671=登上~b~斯威夫特。
 
 ;0x0566A58F=Get back in the ~b~APC.
-0x0566A58F=返回到~b~APC里。
+0x0566A58F=回到~b~APC里。
 
 ;0x0B8BAC59=~s~Take out as many cops as you can until they back down.~s~
 0x0B8BAC59=~s~尽可能多的干掉警察直到他们撤退。~s~
