@@ -12,7 +12,7 @@
 0x0566A58F=返回到~b~APC里。
 
 ;0x0B8BAC59=~s~Take out as many cops as you can until they back down.~s~
-0x0B8BAC59=~s~尽可能多的干掉警察知道他们撤退。~s~
+0x0B8BAC59=~s~尽可能多的干掉警察直到他们撤退。~s~
 
 ;0x0B964BBF=Lose the cops.
 0x0B964BBF=甩掉条子。
@@ -118,6 +118,7 @@
 
 ;0xB69D07C9=Shoot the cable to release the APC. Be careful, dropping from too high will destroy the APC.
 0xB69D07C9=射击绳索以放下APC。小心点，APC从太高的地方掉下来会摔坏。
+
 ;0xB7731B6F=The transport won't be able to escape with so many helicopters about.
 0xB7731B6F=有这么多直升机在，这趟运输肯定要黄。
 
@@ -125,7 +126,7 @@
 0xBEAD12A1=射击绳索赶在它到警察局之前放下APC。
 
 ;0xC5B5A5FA=Line up to be perpendicular with the APC.
-0xC5B5A5FA=Line up to be perpendicular with the APC.
+0xC5B5A5FA=和APC保持垂直。
 
 ;0xC8C83204=~r~The Swift is stuck.~s~
 0xC8C83204=~r~斯威夫特卡住了。~s~
