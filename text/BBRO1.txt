@@ -21,7 +21,7 @@
 0x56B7200E=~s~去~y~码头。~s~
 
 ;0x69039AEA=~s~Chase after the ~r~boats~s~ and destroy them.~s~
-0x69039AEA=~s~跟上那艘~r~船~s~干掉他们。~s~
+0x69039AEA=~s~跟上那些~r~船~s~干掉他们。~s~
 
 ;0x76C1B666=~s~Get to the ~y~jetty.~s~
 0x76C1B666=~s~去~y~码头。~s~
@@ -36,7 +36,7 @@
 0x868955F5=~s~回到~b~船~s~上。
 
 ;0x877C57DF=~r~The boat is stuck.~s~
-0x877C57DF=~r~船坏了。~s~
+0x877C57DF=~r~船卡住了。~s~
 
 ;0x952DF342=~s~Get down to the ~y~docks.~s~
 0x952DF342=~s~去~y~码头。~s~
