@@ -42,13 +42,13 @@
 0xAA8D211D=2
 
 ;0xB32E2CA9=~r~You abandoned Tony.~s~
-0xB32E2CA9=~r~你把Tony甩开的太远了。~s~
+0xB32E2CA9=~r~你丢下了Tony。~s~
 
 ;0xBCEB4023=~r~Tony died.~s~
 0xBCEB4023=~r~Tony死了。~s~
 
 ;0xBF4844D9=~s~Go to ~y~Maisonette 9.~s~
-0xBF4844D9=~s~去~y~Maisonette 9。~s~
+0xBF4844D9=~s~去~y~9号豪宅。~s~
 
 ;0xC65ED8C0=4
 0xC65ED8C0=4
@@ -57,7 +57,7 @@
 0xCAC19777=~s~Placeholder: The player is told the Russians are coming to destroy Gay Tony's Club.~s~
 
 ;0xCEC5313C=Maisonette 9
-0xCEC5313C=Maisonette 9
+0xCEC5313C=9号豪宅
 
 ;0xD8237C49=1
 0xD8237C49=1
