@@ -1,4 +1,4 @@
-﻿[E2Tm2AU]
+[E2Tm2AU]
 ;0x0019F50B=SFX_PAUSE_250
 0x0019F50B=SFX_PAUSE_250
 
@@ -18,7 +18,7 @@
 0x01F365B2=SFX_PAUSE_250
 
 ;0x04488F4E=~z~Tony's fine. It's that Kerry McIntosh - she's demanding some takeout from the Iron Belly in Bohan.
-0x04488F4E=~z~托尼很好。是那位Kerry McIntosh - 她需要Iron Belly的外卖，地点是Bohan。
+0x04488F4E=~z~Tony很好。是那位Kerry McIntosh - 她需要Iron Belly的外卖，地点是Bohan。
 
 ;0x046F3478=E2Tm2_SD
 0x046F3478=E2Tm2_SD
@@ -30,7 +30,7 @@
 0x0AED44D0=SFX_PAUSE_250
 
 ;0x0B5BA011=~z~Finally. Miss McIntosh has been asking about you, boss.
-0x0B5BA011=~z~终于啊老板，McIntosh小姐询问了你。
+0x0B5BA011=~z~终于啊老板，McIntosh小姐问了关于你的事。
 
 ;0x0E1BE57D=~z~Hi there. This is Danni, Miss McIntosh's assistant.
 0x0E1BE57D=~z~嘿，这是Danni，McIntosh小姐的助理。
@@ -42,7 +42,7 @@
 0x0FB0AFE3=E2Tm2_SA1
 
 ;0x0FCB6B26=~z~This thing ain't happening, D . We ran into an issue.
-0x0FCB6B26=~z~这事没发生，D。我有点小问题。
+0x0FCB6B26=~z~这事没发生，D。我们遇到了个问题。
 
 ;0x10078579=SFX_PAUSE_120
 0x10078579=SFX_PAUSE_120
@@ -54,7 +54,7 @@
 0x161E38F2=E2Tm2_XC
 
 ;0x1632F90D=~z~Reluctant as I may be, I am that guy. Tell your boss to hold on and it'll get there.
-0x1632F90D=~z~也许我会不情愿，但我就是这种人。告诉你的老板等着，我会到。
+0x1632F90D=~z~也许我会不情愿，但我就是这种人。告诉你的老板等着，外卖会到她手上的。
 
 ;0x17E5D695=E2Tm2_SB
 0x17E5D695=E2Tm2_SB
@@ -69,7 +69,7 @@
 0x21B4CCC3=~z~感谢前来，L。McIntosh那女孩总是让我的俱乐部里每天都挤满小公主。
 
 ;0x2F1EB432=~z~Come back to the Maisonette when you got a minute.
-0x2F1EB432=~z~有时间就回Maisonette看看吧。
+0x2F1EB432=~z~有时间就回豪宅看看吧。
 
 ;0x3377E5AF=100090100090100010010
 0x3377E5AF=100090100090100010010
@@ -81,10 +81,10 @@
 0x35E2F50F=SFX_Pause_250
 
 ;0x36A37374=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
-0x36A37374=~z~嘿，老兄。我要解决的事有点奇怪。我得暂时保持低调。
+0x36A37374=~z~嘿，老兄。我在处理一些奇怪的事情。我得暂时保持低调。
 
 ;0x375A9BA5=~z~Hey, Danni again. Listen, thank you so super much for going out to Bohan for Kerry,
-0x375A9BA5=~z~嘿，又是我Danni。听着，超级感谢你从Bohan拿外卖给Kerry。
+0x375A9BA5=~z~嘿，又是我Danni。听着，超级感谢你从Bohan拿外卖给Kerry，
 
 ;0x3A2233E5=010090100090010100
 0x3A2233E5=010090100090010100
@@ -111,7 +111,7 @@
 0x485812AC=100010090100090100090010
 
 ;0x48B0B686=~z~I have here order for woman. We make it smooth so she can throw up easily.
-0x48B0B686=~z~这是那位女士的订单，我们把食物做得更滑了，以便她更容易吐出来。
+0x48B0B686=~z~这是那位女士的订单，我们把食物做得更软了，以便她更容易吐出来。
 
 ;0x498A3BE2=E2Tm2_QA2
 0x498A3BE2=E2Tm2_QA2
@@ -135,7 +135,7 @@
 0x564C3663=400
 
 ;0x59EC09D0=~z~Remind me to avoid promotion at all costs, L. You the one who got to do all the shit jobs.
-0x59EC09D0=~z~尽量提醒我避免晋升别人，L。所有的这些事你都能来做。
+0x59EC09D0=~z~尽量提醒我别进行广告宣传哦，L。所有的这些事你都能来做。
 
 ;0x5B4C871C=100090010090010
 0x5B4C871C=100090010090010
@@ -156,10 +156,10 @@
 0x6184B597=SFX_PAUSE_250
 
 ;0x626A00DF=~z~Hiya. I know you're coming, like, as superfast as you possibly can,
-0x626A00DF=~z~喂？我知道你要来了，超级尽快好吧，
+0x626A00DF=~z~喂？我知道你要来了，用最快的方法，
 
 ;0x62A211FE=~z~I do so hate to be a pain, but is there any news on that food order?
-0x62A211FE=~z~我的确知道被催会很痛苦，但有食物点单的新消息了嘛？
+0x62A211FE=~z~我知道被催会很痛苦，但有食物点单的新消息了嘛？
 
 ;0x62CD727E=~z~but you took a little bit too long.
 0x62CD727E=~z~但你花了太长时间吧。
@@ -207,7 +207,7 @@
 0x79EC3D8B=SFX_PAUSE_350
 
 ;0x7B11FF7C=~z~Boss, you think you could mention about my singing to Miss McIntosh?
-0x7B11FF7C=~z~老板，你觉得我的歌声能和McIntosh小姐相提并论吗？
+0x7B11FF7C=~z~老板，你能在McIntosh小姐面前夸夸我的歌声吗？
 
 ;0x7ED6D3A5=~z~Ain't that right, D. Management is for morons.
 0x7ED6D3A5=~z~可不是嘛，D。管理工作就是白痴做的。
@@ -261,16 +261,16 @@
 0x96EC0544=E2Tm1_FB
 
 ;0x97E77C88=~z~Hey, it's Danni on behalf of Kerry McIntosh.
-0x97E77C88=~z~嘿，这是代表Kerry McIntosh的Danni。
+0x97E77C88=~z~嘿，我是Danni，代表Kerry McIntosh与你通电话。
 
 ;0x9A06E0F0=~z~Sorry again and thank you so much.
 0x9A06E0F0=~z~再次抱歉，非常感谢。
 
 ;0x9C5B5E12=~z~Here's the food. I don't know why she make us make it every night when all she does is throw it up.
-0x9C5B5E12=~z~这是食物，我不知道她为什么她每晚吐了之后都要我们帮忙拿外卖。
+0x9C5B5E12=~z~这是你们食物，我不知道为什么她吃一次吐一次，却还要定这个。
 
 ;0x9DC2C9C5=~z~We're doing fine. We just love running errands. There's only so fast a man can get from Bohan to Westminster.
-0x9DC2C9C5=~z~我做的很好，我就喜欢干些差事。我是能从Bohan到Westminster最快的人，
+0x9DC2C9C5=~z~我们做的很好，我们就喜欢干些差事。我是能从Bohan到Westminster最快的人，
 
 ;0x9DF6BCF7=~z~I don't know why I bother, Dess. This girl is bulimic for sure. Serious puker.
 0x9DF6BCF7=~z~无意冒犯，Dess，这女孩食欲太旺盛了吧。深渊巨口。
@@ -345,7 +345,7 @@
 0xBDBBB785=~z~她在说“他妈的吃的到底在哪里？”她一不吃东西就会有些，呃，易怒。了解？
 
 ;0xBE6DDE5F=~z~I really hope that you didn't go out of your way.
-0xBE6DDE5F=~z~我真心希望你没有偏离路线。
+0xBE6DDE5F=~z~我真心希望你没有花太多力气。
 
 ;0xBE76A9DB=~z~Fuck this shit.
 0xBE76A9DB=~z~操他妈的。
@@ -381,7 +381,7 @@
 0xCAC2B863=~z~计划赶不上变化，Dess。你明白我想说什么吗？
 
 ;0xCB717520=~z~There's no way she gonna starve to death in the couple of minutes it takes me to get this foul smelling shit to her. Chill out.
-0xCB717520=~z~她不会两分钟拿不到这散发着臭气的外卖就饿死的，冷静点。
+0xCB717520=~z~她不会两分钟之内拿不到这散发着臭气的外卖就饿死的，冷静点。
 
 ;0xCBF5B26D=010090100090100090010
 0xCBF5B26D=010090100090100090010
@@ -426,7 +426,7 @@
 0xDDF416A9=SFX_PAUSE_220
 
 ;0xDFF246A2=~z~Hold up, L. We got an urgent request from Hercules.
-0xDFF246A2=~z~暂停工作，L，我们在Hercules有紧急状况。
+0xDFF246A2=~z~暂停工作，L，我们在大力神有紧急状况。
 
 ;0xE0BF6961=SFX_PAUSE_320
 0xE0BF6961=SFX_PAUSE_320
@@ -438,13 +438,13 @@
 0xE24A974B=~z~你也会帮我拿外卖吗？
 
 ;0xE2A7815C=~z~This food is coming to her as fast as it can, you passive aggressive nightmare. Conyo!
-0xE2A7815C=~z~食物能有多快就有多快到她手上，你真是难以处理的梦魇啊，操了！
+0xE2A7815C=~z~食物很快就到，能有多快就有多快。你真是难以处理的梦魇啊，操了！
 
 ;0xE4DAA7DE=~z~She's, like, super hungry and really needs that takeout.
 0xE4DAA7DE=~z~她是，呃，超级饥饿，真的很需要那外卖。
 
 ;0xE52DABDE=~z~Oh hi. Danni again. Look I really hope that you aren't still trying to get that stuff from Iron Belly.
-0xE52DABDE=~z~噢嗨，又是我Danni。我真希望你仍然在从Iron Belly拿外卖。
+0xE52DABDE=~z~噢嗨，又是我Danni。我真希望你仍然在拿Iron Belly外卖。
 
 ;0xE557718A=100090100090100100090010
 0xE557718A=100090100090100100090010
@@ -471,7 +471,7 @@
 0xEE0CA697=~z~对的，我这边拿到了。如果她能稍微等等的话就到了。
 
 ;0xEF18CD2F=~z~Hey, it's Danni on behalf of Kerry McIntosh.
-0xEF18CD2F=~z~嘿，这是代表Kerry Mclntosh的Danni。
+0xEF18CD2F=~z~嘿，我是Danni，代表Kerry McIntosh与你通电话。
 
 ;0xEFFE344C=SFX_PAUSE_350
 0xEFFE344C=SFX_PAUSE_350
@@ -483,7 +483,7 @@
 0xF1B6F0B9=E2Tm2_PA1
 
 ;0xF1F7C582=~z~No, girl, I didn't go out my way at all. Thanks for letting me know. Fucking perfect!
-0xF1F7C582=~z~没有，女孩。我一点都没偏离路线，感谢你让我知道，太他妈好了！
+0xF1F7C582=~z~没有，女孩。我一点力气都没费，感谢你让我知道，太他妈好了！
 
 ;0xF1F8861C=E2Tm2_QA1
 0xF1F8861C=E2Tm2_QA1
@@ -505,4 +505,3 @@
 
 ;0xFE970755=SFX_PAUSE_300
 0xFE970755=SFX_PAUSE_300
-
