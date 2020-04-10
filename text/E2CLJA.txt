@@ -255,7 +255,7 @@
 0x534F93F9=~z~里面好无聊啊。真希望能来点刺激的调剂一下...
 
 ;0x546A4789=~z~Someone ain't patting down right, man, 'cause we got a dealer in the club.
-0x546A4789=~z~有人安检时候没查出来，老兄，店里有个毒贩字。
+0x546A4789=~z~有人安检时候没查出来，老兄，店里有个毒贩子。
 
 ;0x567B099A=010100010100010100010
 0x567B099A=010100010100010100010
@@ -273,7 +273,7 @@
 0x5BFCBF98=E2CLJ_HD
 
 ;0x5C350DD7=~z~There's a guy way out of control down here.
-0x5C350DD7=~z~那边有个人行为失控了。
+0x5C350DD7=~z~那边有个人失控的不行了。
 
 ;0x5D45A7CD=~z~The girls out there get to have all the fun.
 0x5D45A7CD=~z~外面那些姑娘应该都很开心吧。
@@ -453,7 +453,7 @@
 0x9A51CC22=~z~今晚差不多了，L。
 
 ;0x9BF672C5=~z~Don't forget about me, L. I'm the girl in the back with the IQ above 30.
-0x9BF672C5=~z~别把我忘了，L。我是你背后的女人，智商30以上。
+0x9BF672C5=~z~别把我忘了，L。我是你背后的女人，智商高达30以上。
 
 ;0x9DF0E8C6=E2CLJ_JE
 0x9DF0E8C6=E2CLJ_JE
