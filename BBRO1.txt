@@ -1,0 +1,73 @@
+﻿[BBRO1]
+;0x03B17A00=~s~Get back to ~b~Mori.~s~
+0x03B17A00=~s~回去找~b~Mori。~s~
+
+;0x125B6D9B=~s~Lead Mori to the ~y~docks.~s~
+0x125B6D9B=~s~带Mori去~y~码头。~s~
+
+;0x1DC28795=~r~Mori's car was destroyed.~s~
+0x1DC28795=~r~Mori的车坏了。~s~
+
+;0x2D86CDAA=~s~Take out all of Mori's ~r~rivals.~s~
+0x2D86CDAA=~s~杀光Mori的~r~对手。~s~
+
+;0x32B32E4E=~s~Leave the car and get down to the ~y~docks.~s~
+0x32B32E4E=~s~下车去~y~码头。~s~
+
+;0x4B6862E0=~r~Mori's car was destroyed.~s~
+0x4B6862E0=~r~Mori的车坏了。~s~
+
+;0x56B7200E=~s~Get to the ~y~docks.~s~
+0x56B7200E=~s~去~y~码头。~s~
+
+;0x69039AEA=~s~Chase after the ~r~boats~s~ and destroy them.~s~
+0x69039AEA=~s~跟上那些~r~船~s~干掉他们。~s~
+
+;0x76C1B666=~s~Get to the ~y~jetty.~s~
+0x76C1B666=~s~去~y~码头。~s~
+
+;0x77C93879=~s~Get back in ~b~Mori's car.~s~
+0x77C93879=~s~回到~b~Mori的车~s~上。
+
+;0x8137E6AC=~s~Press ~INPUT_VEH_ATTACK~ to throw the sticky bombs from the driver's side of the boat. ~s~Press ~PAD_DPAD_DOWN~ to detonate the sticky bomb.~s~
+0x8137E6AC=~s~按~INPUT_VEH_ATTACK~丢出黏弹。~s~按~PAD_DPAD_DOWN~引爆黏弹。~s~
+
+;0x868955F5=~s~Get back in the ~b~boat.~s~
+0x868955F5=~s~回到~b~船~s~上。
+
+;0x877C57DF=~r~The boat is stuck.~s~
+0x877C57DF=~r~船卡住了。~s~
+
+;0x952DF342=~s~Get down to the ~y~docks.~s~
+0x952DF342=~s~去~y~码头。~s~
+
+;0xA02B093C=~r~You destoyed Mori's rival's boat.~s~
+0xA02B093C=~r~你弄坏了Mori对手的船。~s~
+
+;0xAC354B09=~r~Mori is dead.~s~
+0xAC354B09=~r~Mori死了。~s~
+
+;0xBAF2E884=~r~You abandoned Mori.~s~
+0xBAF2E884=~r~你丢下了Mori。~s~
+
+;0xBE5A1D63=~s~Press ~INPUT_VEH_ATTACK~ to throw the sticky bombs from the driver's side of the boat. ~s~Press ~INPUT_DETONATE~ to detonate the sticky bomb.~s~
+0xBE5A1D63=~s~按~INPUT_VEH_ATTACK~丢出黏弹。~s~按~INPUT_DETONATE~引爆黏弹。~s~
+
+;0xC8D00422=~r~Mori's boat was destroyed.~s~
+0xC8D00422=~r~Mori的船坏了。~s~
+
+;0xC99B05D4=~s~Chase after Mori's rival and take out the ~r~convoy boats.~s~
+0xC99B05D4=~s~跟上Mori的对手并且干掉~r~护航船。~s~
+
+;0xD716A0AF=~r~Mori's rivals got away.~s~
+0xD716A0AF=~r~Mori的对手逃掉了。~s~
+
+;0xD75DA159=~s~Drive ~y~close~s~ to the boss's boat and allow Mori to board it.~s~
+0xD75DA159=~s~驶~y~近~s~老板的船让Mori能够过去。~s~
+
+;0xDB43FF6D=~s~Take Mori to the ~y~docks.~s~
+0xDB43FF6D=~s~带Mori去~y~码头。~s~
+
+;0xF5F7DE8D=~s~Lose the cops.~s~
+0xF5F7DE8D=~s~甩掉条子。~s~
+
