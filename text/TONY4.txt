@@ -51,7 +51,7 @@
 0x6108EFF1=威胁Celebinator。
 
 ;0x616D5F37=Press ~PAD_LSTICK_UP~ to dive.
-0x616D5F37=按~PAD_LSTICK_UP~向前倾。
+0x616D5F37=按~PAD_LSTICK_UP~向下俯冲。
 
 ;0x66AB0F94=Get back on a computer.
 0x66AB0F94=回到电脑上。
