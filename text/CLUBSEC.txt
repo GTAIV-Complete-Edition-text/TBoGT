@@ -1,18 +1,18 @@
-﻿[CLUBSEC]
+[CLUBSEC]
 ;0x00DC83B0=1
 0x00DC83B0=1
 
 ;0x08A3F36F=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0x08A3F36F=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0x08A3F36F=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
 
 ;0x0BE1647C=~r~Your shift as club manager has ended.
-0x0BE1647C=~r~Your shift as club manager has ended.
+0x0BE1647C=~r~俱乐部管理的轮班时间结束了。
 
 ;0x0CF91BBD=7
 0x0CF91BBD=7
 
-;0x0E5351AF=:
-0x0E5351AF=:
+;0x0E5351AF=
+0x0E5351AF=
 
 ;0x13F6B341=CAM008 BAR1 REC
 0x13F6B341=CAM008 BAR1 REC
@@ -30,40 +30,40 @@
 0x285DD286=5
 
 ;0x292A3069=It is closing time. Your shift is over.
-0x292A3069=It is closing time. Your shift is over.
+0x292A3069=现在是关门时间，你的轮班时间结束了。
 
 ;0x2F50677F=Escort the ~r~pervert~s~ out of the club.
-0x2F50677F=Escort the ~r~pervert~s~ out of the club.
+0x2F50677F=护送~r~变态~s~离开俱乐部。
 
 ;0x30A8718B=Escort the ~r~non-payer~s~ out of the club.
-0x30A8718B=Escort the ~r~non-payer~s~ out of the club.
+0x30A8718B=护送~r~白嫖者~s~离开俱乐部。
 
 ;0x3FDBA102=Escort the ~r~drunk~s~ out of the club.
-0x3FDBA102=Escort the ~r~drunk~s~ out of the club.
+0x3FDBA102=护送~r~醉汉~s~ 离开俱乐部。
 
 ;0x4345317D=Nothing happening here.
-0x4345317D=Nothing happening here.
+0x4345317D=此处无事发生。
 
 ;0x510EC8CB=Go and watch the ~y~bar area.~s~
-0x510EC8CB=Go and watch the ~y~bar area.~s~
+0x510EC8CB=前往并检视~y~酒吧区域~s~。
 
 ;0x52095082=Escort the ~r~fighter~s~ out of the club.
-0x52095082=Escort the ~r~fighter~s~ out of the club.
+0x52095082=护送~r~打斗者~s~离开俱乐部。
 
 ;0x56687333=Go and check the ~y~back of the club.~s~
-0x56687333=Go and check the ~y~back of the club.~s~
+0x56687333=前往并检查~y~俱乐部后面~s~。
 
 ;0x93E7F1CB=~r~Club management failed.
-0x93E7F1CB=~r~Club management failed.
+0x93E7F1CB=~r~俱乐部管理任务失败。
 
 ;0x942EF5E1=Go and check the ~y~men's washroom.~s~
-0x942EF5E1=Go and check the ~y~men's washroom.~s~
+0x942EF5E1=前往并检查~y~男洗手间~s~。
 
 ;0xA89A9764=Go and check the ~y~entrance hallway.~s~
-0xA89A9764=Go and check the ~y~entrance hallway.~s~
+0xA89A9764=前往并检查~y~入口走廊~s~。
 
 ;0xBA218E09=Press ~INPUT_PICKUP~ to quit managing the club.
-0xBA218E09=Press ~INPUT_PICKUP~ to quit managing the club.
+0xBA218E09=按~INPUT_PICKUP~退出管理俱乐部。
 
 ;0xBB16388F=CAM015 MENS REC
 0xBB16388F=CAM015 MENS REC
@@ -78,13 +78,13 @@
 0xD62A2E4C=2
 
 ;0xDF4521E1=Go and watch the ~y~dance floor.~s~
-0xDF4521E1=Go and watch the ~y~dance floor.~s~
+0xDF4521E1=前往并检视~y~舞池~s~。
 
 ;0xE016197B=Escort the ~r~drug dealer~s~ out of the club.
-0xE016197B=Escort the ~r~drug dealer~s~ out of the club.
+0xE016197B=护送~r~毒品交易商~s~离开俱乐部。
 
 ;0xE1C9DCF8=You have ~1~ seconds to~n~return to the club to continue working as manager.
-0xE1C9DCF8=You have ~1~ seconds to~n~return to the club to continue working as manager.
+0xE1C9DCF8=你还剩~1~秒~n~回到俱乐部当经理。
 
 ;0xE461CABB=3
 0xE461CABB=3
@@ -102,8 +102,7 @@
 0xF73CF179=CAM007 SECROOM REC
 
 ;0xFD48E19F=Go and watch the ~y~VIP area.~s~
-0xFD48E19F=Go and watch the ~y~VIP area.~s~
+0xFD48E19F=前往并检视~y~VIP区~s~。
 
 ;0xFEAF7F2A=6
 0xFEAF7F2A=6
-

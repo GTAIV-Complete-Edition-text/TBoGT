@@ -1,52 +1,51 @@
 ﻿[CLBPRC8]
 ;0x0519124E=Pick up Bruce Spade from ~y~Northwood.
-0x0519124E=Pick up Bruce Spade from ~y~Northwood.
+0x0519124E=前往~y~Northwood~接Bruce Spade。
 
 ;0x07941738=Go to the ~b~helicopter.
-0x07941738=Go to the ~b~helicopter.
+0x07941738=前往~b~直升机~s~。
 
 ;0x0FE9A947=~r~You hurt Dessie.
-0x0FE9A947=~r~You hurt Dessie.
+0x0FE9A947=~r~你伤害了Dessie。
 
 ;0x1E1EDDF6=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0x1E1EDDF6=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
+0x1E1EDDF6=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
 
 ;0x270E5638=Lose the cops.
-0x270E5638=Lose the cops.
+0x270E5638=甩掉警察。
 
 ;0x36C0F6F5=You are flying too high.
-0x36C0F6F5=You are flying too high.
+0x36C0F6F5=你飞得太高了。
 
 ;0x38147844=Get back in the ~b~helicopter.
-0x38147844=Get back in the ~b~helicopter.
+0x38147844=回到~b~直升机~s~。
 
 ;0x4CA9216D=~r~Bruce Spade was hurt.
-0x4CA9216D=~r~Bruce Spade was hurt.
+0x4CA9216D=~r~Bruce Spade受伤了。
 
 ;0x5E95C546=~r~You abandoned Bruce Spade.
-0x5E95C546=~r~You abandoned Bruce Spade.
+0x5E95C546=~r~你抛弃了Bruce Spade。
 
 ;0x70E7E9EA=You've left Bruce behind.
-0x70E7E9EA=You've left Bruce behind.
+0x70E7E9EA=你把Bruce落在了后面。
 
 ;0x7254ECB8=Go to ~y~Maisonette 9.
-0x7254ECB8=Go to ~y~Maisonette 9.
+0x7254ECB8=前往~y~Maisonette 9~s~。
 
 ;0x74E6733B=~r~You wrecked the helicopter.
-0x74E6733B=~r~You wrecked the helicopter.
+0x74E6733B=~r~你毁掉了直升机。
 
 ;0x7B7F0070=~r~Club management failed.
-0x7B7F0070=~r~Club management failed.
+0x7B7F0070=~r~俱乐部管理任务失败。
 
 ;0x923D2DEC=~r~You hurt Troy.
-0x923D2DEC=~r~You hurt Troy.
+0x923D2DEC=~r~你伤害了Troy。
 
 ;0xC9999CA4=~r~You abandoned the helicopter.
-0xC9999CA4=~r~You abandoned the helicopter.
+0xC9999CA4=~r~你抛弃了直升机。
 
 ;0xCB7D1F13=~r~Bruce Spade is dead.
-0xCB7D1F13=~r~Bruce Spade is dead.
+0xCB7D1F13=~r~Bruce Spade死了。
 
 ;0xDAEC3F49=Wait for ~b~Bruce~s~ to get in the helicopter.
-0xDAEC3F49=Wait for ~b~Bruce~s~ to get in the helicopter.
-
+0xDAEC3F49=等候~b~Bruce~s~进入直升机。
