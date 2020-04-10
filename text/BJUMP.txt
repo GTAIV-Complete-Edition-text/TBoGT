@@ -1,43 +1,43 @@
 ﻿[BJUMP]
 ;0x0947F6F9=Base jump onto the ~b~moving vehicle.
-0x0947F6F9=Base jump onto the ~b~moving vehicle.
+0x0947F6F9=跳到~b~行驶的车上。
 
 ;0x0B222650=Open the parachute and glide through the checkpoints.
-0x0B222650=Open the parachute and glide through the checkpoints.
+0x0B222650=打开降落伞通过检查点。
 
 ;0x29DD6FDB=~r~Base jump failed.
-0x29DD6FDB=~r~Base jump failed.
+0x29DD6FDB=~r~跳伞失败。
 
 ;0x38DA369C=A parachute is now available in you appartment.
-0x38DA369C=A parachute is now available in you appartment.
+0x38DA369C=一个降落伞送到了你的公寓。
 
 ;0x44E698BD=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_MOUSE_LMB~ to jump.
-0x44E698BD=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_MOUSE_LMB~ to jump.
+0x44E698BD=用~PAD_RSTICK_ALL~观察四周并按~INPUT_MOUSE_LMB~起跳。
 
 ;0x4FFA2B10=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
-0x4FFA2B10=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0x4FFA2B10=用~PAD_LSTICK_ALL~滑翔。~n~按 ~INPUT_SPRINT~打开降落伞。~n~按 ~INPUT_MELEE_ATTACK1~切换视角。
 
 ;0x576B17C9=Base jump onto the checkpoint.
-0x576B17C9=Base jump onto the checkpoint.
+0x576B17C9=跳到检查点。
 
 ;0x96DB65EE=Jump off the ramp then press ~INPUT_ENTER~.
-0x96DB65EE=Jump off the ramp then press ~INPUT_ENTER~.
+0x96DB65EE=跳下斜坡按~INPUT_ENTER~。
 
 ;0xA2B29590=Base jump onto the moving vehicle.
-0xA2B29590=Base jump onto the moving vehicle.
+0xA2B29590=跳到行驶的车上。
 
 ;0xA4BE06BD=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
-0xA4BE06BD=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+0xA4BE06BD=用~PAD_LSTICK_ALL~滑翔。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按 ~INPUT_NEXT_CAMERA~切换视角。
 
 ;0xCC0FDB72=1. Jump to blipped target~n~2. Jump to blipped truck~n~3. Free jump (default)
-0xCC0FDB72=1. Jump to blipped target~n~2. Jump to blipped truck~n~3. Free jump (default)
+0xCC0FDB72=1、跳到目标位置。~n~2、跳到目标卡车上。~n~3、自由落体。(默认)
 
 ;0xE0AF506E=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_ENTER~ to jump.
-0xE0AF506E=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_ENTER~ to jump.
+0xE0AF506E=用~PAD_RSTICK_ALL~观察四周并按~INPUT_ENTER~起跳。
 
 ;0xE439538C=Open the parachute and glide through the ~y~checkpoints.
-0xE439538C=Open the parachute and glide through the ~y~checkpoints.
+0xE439538C=打开降落伞滑翔通过~y~检查点。
 
 ;0xF23E4D59=Base jump onto the ~y~checkpoint.
-0xF23E4D59=Base jump onto the ~y~checkpoint.
+0xF23E4D59=跳到~y~检查点。
 
