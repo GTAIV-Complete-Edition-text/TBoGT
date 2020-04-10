@@ -21,10 +21,10 @@
 0x2AC9A63C=~r~你抛弃了直升机。
 
 ;0x2F80163D=Get back into the ~b~car.
-0x2F80163D=回到车~b~car~上。
+0x2F80163D=回到~b~车~上。
 
 ;0x424046BF=Click on 'Leave Comment'.
-0x424046BF=点击“发表评论”。
+0x424046BF=点击「发表评论」。
 
 ;0x438FB3DD=Don't leave ~b~Gracie ~s~behind.
 0x438FB3DD=别把~b~Gracie~s~落下。
@@ -36,10 +36,10 @@
 0x49D843C8=和Tony在~y~直升机场~s~碰面。
 
 ;0x4FE0E200=Click on 'Submit'.
-0x4FE0E200=点击“提交”。
+0x4FE0E200=点击「提交」。
 
 ;0x55A4043A=~r~You alerted the cops.
-0x55A4043A=~r~你引起了警察的警觉。
+0x55A4043A=~r~你惊动了警察。
 
 ;0x581F3F11=~r~Gracie's car was destroyed.
 0x581F3F11=~r~Gracie的车被摧毁了。
