@@ -45,7 +45,7 @@
 0x0F39FEC7=E2BG1_VA
 
 ;0x0F5BFE32=~z~Think about what I said to you. The offer will not be there forever.
-0x0F5BFE32=~z~想想我跟你说过的话。你想要的东西永远不会亲自送到你面前的。
+0x0F5BFE32=~z~想想我跟你说过的话。机会不是一直都有的。
 
 ;0x0FAA9E03=100
 0x0FAA9E03=100
@@ -207,7 +207,7 @@
 0x425F0E9F=492
 
 ;0x42CCB8CC=~z~ I expect more from a man of your reputation, Mr. Lopez. Goodbye.
-0x42CCB8CC=~z~ 我对你期望很高啊，Lopez先生，再见了。
+0x42CCB8CC=~z~ Lopez先生，我很失望。再见了。
 
 ;0x439968ED=E2BG1_WA
 0x439968ED=E2BG1_WA
@@ -240,7 +240,7 @@
 0x4B8841FC=~z~把对面的打到举手投降！
 
 ;0x4BF02807=~z~Take these sticky bombs, Luis. We will need them for our NOOSE friends.
-0x4BF02807=~z~拿着这些粘性炸弹，Luis。我们用这些来对付NOOSE的朋友们。
+0x4BF02807=~z~拿着这些黏弹，Luis。我们用这些来对付NOOSE的朋友们。
 
 ;0x4C9C98C5=E2BG1_BDA
 0x4C9C98C5=E2BG1_BDA
@@ -255,7 +255,7 @@
 0x4F94C43C=~z~啊啊啊啊！
 
 ;0x4FD3B614=~z~You like getting your hands dirty, Mr. B?
-0x4FD3B614=~z~你喜欢把你的手弄脏吗，Bulgarin先生？
+0x4FD3B614=~z~你喜欢亲自动手干脏活吗，Bulgarin先生？
 
 ;0x5235397B=100
 0x5235397B=100
@@ -309,7 +309,7 @@
 0x5D4F1751=~z~好吧。这将会是给他们的整的一回好活。
 
 ;0x5DBC56EB=~z~I don't think so. Maybe I hurt my hands hitting his head.
-0x5DBC56EB=~z~我不这么认为。也许是我撞到他的头时把手弄伤了。
+0x5DBC56EB=~z~我可不这么认为。说不定动手的会是我呢。
 
 ;0x5E3CCCA0=~z~Here are some makeshift bombs. They will be useful.
 0x5E3CCCA0=~z~这是一些土制炸弹。他们会有用的。
@@ -348,7 +348,7 @@
 0x69519B2C=192
 
 ;0x69AA8C00=~z~Place a sticky bomb on the car.
-0x69AA8C00=~z~在车上安装一个粘性炸弹。
+0x69AA8C00=~z~在车上安装一个黏弹。
 
 ;0x6B6F3A95=SFX_PAUSE_500
 0x6B6F3A95=SFX_PAUSE_500
@@ -366,7 +366,7 @@
 0x6D296AE9=E2BG1_KA
 
 ;0x6D70EB36=~z~Let's drop this fucker and say he was an insurgent!
-0x6D70EB36=~z~咱们把这混蛋丢了，然后说他是叛徒！
+0x6D70EB36=~z~咱们把这混蛋干掉，然后说他是叛徒！
 
 ;0x6D8B1391=E2BG1_AEA
 0x6D8B1391=E2BG1_AEA
@@ -378,7 +378,7 @@
 0x6E7FA759=~z~你是老大。
 
 ;0x6F9BA807=~z~We can't have this police attention. Lose it.
-0x6F9BA807=~z~我们不能让警察注意到我们。甩掉他。
+0x6F9BA807=~z~不能让警察注意到我们。甩掉警察。
 
 ;0x6FF0A6CC=~z~You gonna be okay?
 0x6FF0A6CC=~z~你还好吧？
@@ -471,7 +471,7 @@
 0x80BEDC32=100090010090100
 
 ;0x811C2982=~z~We need to drop these suckers!
-0x811C2982=~z~我们得甩掉这些跟屁虫！
+0x811C2982=~z~我们得干掉这些跟屁虫！
 
 ;0x8159CD0D=~z~Whatever, bro.
 0x8159CD0D=~z~随你吧，兄弟。
@@ -489,7 +489,7 @@
 0x83A26C46=E2BG1_XA
 
 ;0x83B39789=~z~Here. You will need these sticky bombs for the party.
-0x83B39789=~z~拿着。等我们大干一场的时候会用到这些粘性炸弹的。
+0x83B39789=~z~拿着。等我们大干一场的时候会用到这些黏弹的。
 
 ;0x84AAD24A=SFX_PAUSE_470
 0x84AAD24A=SFX_PAUSE_470
@@ -618,7 +618,7 @@
 0xA1191254=E2BG1_AKA
 
 ;0xA4F4899C=~z~We will use force if you don't vacate immediately.
-0xA4F4899C=~z~你们再不马上滚的话我们就动粗了。
+0xA4F4899C=~z~你再不马上滚的话我们就动粗了。
 
 ;0xA4FEBC33=~z~Take us back to my sister's.
 0xA4FEBC33=~z~带我们回我妹妹那里。
@@ -627,7 +627,7 @@
 0xA544AA3B=E2BG1_BIA
 
 ;0xA5C389ED=~z~Get out of here, civilian. We don't want to start reading you the Jingoism Act.
-0xA5C389ED=~z~平民滚出去。我们懒得寻思你在这干什么神神叨叨的。
+0xA5C389ED=~z~闲杂人等滚出去。我们懒得寻思你神神叨叨的在这干什么。
 
 ;0xA63589EE=E2BG1_AFB
 0xA63589EE=E2BG1_AFB
@@ -645,7 +645,7 @@
 0xA7BDEEA4=E2BG1_ABA
 
 ;0xA7F3ADC6=~z~Let's shoot this fuck and ask questions later. Just like the handbook says.
-0xA7F3ADC6=~z~咱们先斩后奏，就像训练手册里教的那样。
+0xA7F3ADC6=~z~对这帮混账咱们先斩后奏，就像训练手册里教的那样。
 
 ;0xA8DC13A8=~z~The incompetent fool!
 0xA8DC13A8=~z~真的废物啊！
@@ -699,7 +699,7 @@
 0xB33A6139=SFX_PAUSE_400
 
 ;0xB3645AF2=~z~That's the car. Get in and plant the evidence.
-0xB3645AF2=~z~就是这车了。进去取证。
+0xB3645AF2=~z~就是这辆车了。把证据放车里去。
 
 ;0xB491CCE0=E2BG1_RA
 0xB491CCE0=E2BG1_RA
@@ -714,7 +714,7 @@
 0xB510D81B=~z~滚你妈的。
 
 ;0xB52AB1D4=~z~Do not let your conscience worry you.
-0xB52AB1D4=~z~不要愧对你的良心。
+0xB52AB1D4=~z~不要害怕良心的谴责。
 
 ;0xB543E88A=~z~Someone's fitted the vehicle with an IED. Search the area.
 0xB543E88A=~z~有人在这车上装了土制炸弹。搜索这片区域。
@@ -789,7 +789,7 @@
 0xC49D073C=~z~有人在控制着引爆这车。查看这片有没有敌人。
 
 ;0xC4A273BD=~z~This is the end of the line!
-0xC4A273BD=~z~这是我们的底线了！
+0xC4A273BD=~z~放弃挣扎吧！
 
 ;0xC4C14109=E2BG1_DA
 0xC4C14109=E2BG1_DA
@@ -885,7 +885,7 @@
 0xD70F7877=~z~好吧。
 
 ;0xD824E8F3=~z~This will be nasty surprise for them, hide one of those sticky bombs on the car.
-0xD824E8F3=~z~把那些粘性炸弹藏在车上，赏他们的这小礼物感觉坏坏的。
+0xD824E8F3=~z~把那些黏弹藏在车上，赏他们的这小礼物感觉坏坏的。
 
 ;0xD88300DD=~z~Mr. Ray is no here. Get him.
 0xD88300DD=~z~Ray先生不在这。去找他。
@@ -1035,7 +1035,7 @@
 0xF4FB47D6=100090010
 
 ;0xF5A79421=~z~You should have taken the money!
-0xF5A79421=~z~你们应该是收钱办事了！
+0xF5A79421=~z~你们收了钱就没这破事了！
 
 ;0xF5C5B006=~z~We doin' our best.
 0xF5C5B006=~z~我们尽力了。
@@ -1053,7 +1053,7 @@
 0xF69B27DC=E2BG1_AMA
 
 ;0xF7317960=~z~Leave the car in this empty space over by the pillar.
-0xF7317960=~z~把车停在柱子边上的空地。
+0xF7317960=~z~把车停在柱子边上的空位。
 
 ;0xF761160E=~z~We're gonna get paid extra for killing you.
 0xF761160E=~z~咱们杀了你又可以多捞一把钱。
