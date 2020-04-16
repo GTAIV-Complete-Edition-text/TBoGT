@@ -3,7 +3,7 @@
 0x00979068=~z~你怎么光秃秃的站在那里，躲起来啊，你个傻逼。
 
 ;0x00B88E89=~z~Be quiet. They are here.
-0x00B88E89=~z~安静点。他们在这。
+0x00B88E89=~z~安静点。他们来了。
 
 ;0x020C238C=SFX_PAUSE_500
 0x020C238C=SFX_PAUSE_500
@@ -402,7 +402,7 @@
 0x7256E9AC=122090212
 
 ;0x7291C49C=~z~This is your excuse for parking? Straighten her up.
-0x7291C49C=~z~这车就这样停了？直接停到那去。
+0x7291C49C=~z~你怎么停的车呢？停好来。
 
 ;0x74C3769D=~z~This is them. Wait for it.
 0x74C3769D=~z~就是他们了。等着吧。
@@ -429,7 +429,7 @@
 0x7B1882DC=392
 
 ;0x7B418F92=~z~Now is the time. Blow it.
-0x7B418F92=~z~现在是时候了。炸了它。
+0x7B418F92=~z~就是现在，炸了它。
 
 ;0x7B52107A=100
 0x7B52107A=100
@@ -465,7 +465,7 @@
 0x80B711C6=~z~我希望你没聋，因为我快要打中你了。
 
 ;0x80B94A42=~z~We are looking for specific peace officers. Lose that heat.
-0x80B94A42=~z~我们把警察吸引上门了。甩掉通缉。
+0x80B94A42=~z~我们只想找的是那几个黑条子，不是其他的。甩掉通缉。
 
 ;0x80BEDC32=100090010090100
 0x80BEDC32=100090010090100
