@@ -30,7 +30,7 @@
 0x1368C15F=将Yusuf的直升机对准~y~位置。
 
 ;0x149CEBFD=Get back in the ~b~APC.
-0x149CEBFD=返回到~b~APC里。
+0x149CEBFD=回到~b~APC里。
 
 ;0x16064C7F=~r~Yusuf died.
 0x16064C7F=~r~Yusuf挂了。
