@@ -1,109 +1,103 @@
 ﻿[DWARS]
 ;0x010387A5=Take out the ~r~dealers ~s~to get the stash.
-0x010387A5=Take out the ~r~dealers ~s~to get the stash.
-
+0x010387A5=杀死 ~r~毒贩 ~s~并拿走毒品。
 ;0x0275C1DB=~r~You lost the shipment.
-0x0275C1DB=~r~You lost the shipment.
+0x0275C1DB=~r~你丢失了运输的货物。
 
 ;0x02F1CCA9=The Sticky Bombs have been unlocked in your safehouse.
-0x02F1CCA9=The Sticky Bombs have been unlocked in your safehouse.
+0x02F1CCA9=黏弹已在你的安全屋内解锁。
 
 ;0x142D6F34=The Gold SMG has been unlocked in your safehouse.
-0x142D6F34=The Gold SMG has been unlocked in your safehouse.
+0x142D6F34=金色SMG已在你的安全屋内解锁。
 
 ;0x1D5EC05B=Take the drugs vehicle to the ~y~drop off.
-0x1D5EC05B=Take the drugs vehicle to the ~y~drop off.
+0x1D5EC05B=将毒品载具开往~y~投货点。
 
 ;0x272E8B4C=~r~You have lost the drugs.
-0x272E8B4C=~r~You have lost the drugs.
+0x272E8B4C=~r~你已丢失毒品。
 
 ;0x2F1C63D6=Steal the ~b~drugs vehicle.
-0x2F1C63D6=Steal the ~b~drugs vehicle.
+0x2F1C63D6=偷取~b~毒品载具。
 
 ;0x33F4EEAB=Take the stash to the ~y~drop off.
-0x33F4EEAB=Take the stash to the ~y~drop off.
+0x33F4EEAB=将毒品送往~y~投货点。
 
 ;0x3446A57C=~r~Your boat was destroyed.
-0x3446A57C=~r~Your boat was destroyed.
+0x3446A57C=~r~你的船只已被摧毁。
 
 ;0x4338992C=Lose the cops.
-0x4338992C=Lose the cops.
+0x4338992C=摆脱警察。
 
 ;0x45FAC8D8=~r~The drugs vehicle is stuck.
-0x45FAC8D8=~r~The drugs vehicle is stuck.
+0x45FAC8D8=~r~毒品载具已抛锚。
 
 ;0x4EA27403=Drug Wars: The Highjack
-0x4EA27403=Drug Wars: The Highjack
+0x4EA27403=毒品战争：劫持
 
 ;0x579C6C27=~r~You have lost the cash.
-0x579C6C27=~r~You have lost the cash.
+0x579C6C27=~r~你已丢失钱款。
 
 ;0x5ADC14AF=~s~Holding ~INPUT_VEH_CIN_CAM~ will focus the camera on the target.
-0x5ADC14AF=~s~Holding ~INPUT_VEH_CIN_CAM~ will focus the camera on the target.
+0x5ADC14AF=~s~按住 ~INPUT_VEH_CIN_CAM~ 将视角聚焦在目标上。
 
 ;0x697B731D=Drug Wars: The Convoy
-0x697B731D=Drug Wars: The Convoy
+0x697B731D=毒品战争：运输
 
 ;0x6ACD5B37=Get back in the ~b~drugs vehicle.
-0x6ACD5B37=Get back in the ~b~drugs vehicle.
+0x6ACD5B37=回到~b~毒品载具~s~上。
 
 ;0x6CB3385D=A rival gang is transporting some drugs. Intercept the convoy and steal the drugs vehicle.
-0x6CB3385D=A rival gang is transporting some drugs. Intercept the convoy and steal the drugs vehicle.
+0x6CB3385D=一个对手的帮派正在运输一些毒品。截击运输并偷走毒品载具。
 
 ;0x6D9EF066=Drug Wars: The Stash
-0x6D9EF066=Drug Wars: The Stash
+0x6D9EF066=毒品战争：毒品
 
 ;0x747B47E9=You picked up the cash.
-0x747B47E9=You picked up the cash.
+0x747B47E9=你已拾起钱款。
 
 ;0x7FD0DE98=A rival gang has stashed a drugs vehicle. Steal this vehicle before they get a chance to move it.
-0x7FD0DE98=A rival gang has stashed a drugs vehicle. Steal this vehicle before they get a chance to move it.
+0x7FD0DE98=一个对手的帮派已装填好一辆毒品载具。在他们有机会开走这辆载具之前偷走它。
 
 ;0x8136E164=A rival gang has received a drugs shipment. You must steal the stash.
-0x8136E164=A rival gang has received a drugs shipment. You must steal the stash.
+0x8136E164=一个对手的帮派已收到运输的毒品。你必须偷走它们。
 
 ;0x85C06A73=You picked up the stash.
-0x85C06A73=You picked up the stash.
+0x85C06A73=你已拾起毒品。
 
 ;0x879E9605=Go get a ~b~boat ~s~from the dock.
-0x879E9605=Go get a ~b~boat ~s~from the dock.
-
+0x879E9605=去码头找搜~b~船。
 ;0x8D60206C=Go to the ~y~drug deal.
-0x8D60206C=Go to the ~y~drug deal.
-
+0x8D60206C=去~y~毒品交易~s~的地点。
 ;0xA4A91019=The Shotgun Ex has been unlocked in your safehouse.
-0xA4A91019=The Shotgun Ex has been unlocked in your safehouse.
+0xA4A91019=霰弹枪Ex版已在你的安全屋内解锁。
 
 ;0xA887B001=A drug deal is going down. One member of the rival gang will have the stash. Take them out and take the stuff.
-0xA887B001=A drug deal is going down. One member of the rival gang will have the stash. Take them out and take the stuff.
+0xA887B001=一桩毒品交易正在进行。对手帮派的一名成员将会得到毒品。杀死他们并拿走毒品。
 
 ;0xB23D59E7=Drug Wars: The Stickup
-0xB23D59E7=Drug Wars: The Stickup
+0xB23D59E7=毒品战争：持枪抢劫
 
 ;0xB86EB7A4=The Advanced MG has been unlocked in your safehouse.
-0xB86EB7A4=The Advanced MG has been unlocked in your safehouse.
-
+0xB86EB7A4=加强版MG已在你的安全屋内解锁。
 ;0xC8FBD8BE=The 44 has been unlocked in your safehouse.
-0xC8FBD8BE=The 44 has been unlocked in your safehouse.
+0xC8FBD8BE=点44手枪已在你的安全屋内解锁。
 
 ;0xCAFA52D5=~r~The drugs vehicle was destroyed.
-0xCAFA52D5=~r~The drugs vehicle was destroyed.
+0xCAFA52D5=~r~毒品载具已被摧毁。
 
 ;0xD1AB28F5=Collect the ~g~cash.
-0xD1AB28F5=Collect the ~g~cash.
+0xD1AB28F5=收取~g~钱款。
 
 ;0xDFA744F9=Steal the ~g~stash.
-0xDFA744F9=Steal the ~g~stash.
+0xDFA744F9=偷取~g~毒品。
 
 ;0xEC56DE4C=Collect the ~g~stash.
-0xEC56DE4C=Collect the ~g~stash.
+0xEC56DE4C=收取~g~毒品。
 
 ;0xF610F1C0=Take the stash to the ~y~drop off.
-0xF610F1C0=Take the stash to the ~y~drop off.
+0xF610F1C0=将~y~毒品~s~送往投放点。
 
 ;0xF64DF362=Steal the ~b~drugs vehicle. ~s~Do not destroy it.
-0xF64DF362=Steal the ~b~drugs vehicle. ~s~Do not destroy it.
-
+0xF64DF362=偷取~b~毒品载具。~s~不要损坏它。
 ;0xFD6937C2=~r~You lost the drugs vehicle.
-0xFD6937C2=~r~You lost the drugs vehicle.
-
+0xFD6937C2=~r~你摧毁了毒品载具。
