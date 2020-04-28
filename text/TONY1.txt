@@ -18,13 +18,13 @@
 0x1C4DE7B8=~s~用 ~PAD_DPAD_LEFTRIGHT~ 可以在行驶时切换无线电台。
 
 ;0x29555E34=~s~Drive Tony to ~y~Hercules.
-0x29555E34=~s~带托尼去 to ~y~Hercules。
+0x29555E34=~s~载托尼去 to ~y~Hercules。
 
 ;0x3780FA8B=~s~Don't leave ~b~Tony~s~ behind.
 0x3780FA8B=~s~别把 ~b~Tony~s~ 落在后边。
 
 ;0x40200BC9=~s~Take your friends back to ~y~Northwood.
-0x40200BC9=~s~带你的朋友回去 ~y~Northwood。
+0x40200BC9=~s~带你的朋友们回去 ~y~Northwood。
 
 ;0x49961D9D=~s~Lose the cops.
 0x49961D9D=~s~甩掉警察。
@@ -40,6 +40,7 @@
 
 ;0x5E4746FF=~s~Use the ~y~wardrobe~s~ to change clothes.
 0x5E4746FF=~s~使用 ~y~wardrobe~s~ 来换衣服。
+
 ;0x5E571C49=You can save any vehicle in the parking place outside your apartment.
 0x5E571C49=你在公寓外的停车区停放的车辆会被保存下来。
 
