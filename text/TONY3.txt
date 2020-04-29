@@ -15,7 +15,7 @@
 0x14BBB330=~r~你抛弃了Tony。
 
 ;0x203C8BFC=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Move ~PAD_RSTICK_DOWN~ to start swing. ~n~Move ~PAD_RSTICK_UP~ to hit the ball.
-0x203C8BFC=用~PAD_LSTICK_ALL~来改变击球方向。~n~按 ~PAD_RSTICK_DOWN~ 开始后摆。~n~按~PAD_RSTICK_UP~发球。
+0x203C8BFC=用~PAD_LSTICK_ALL~来改变击球方向。~n~按 ~PAD_RSTICK_DOWN~ 开始后摆。~n~按~PAD_RSTICK_UP~击球。
 
 ;0x31C58515=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
 0x31C58515=~s~使用~INPUT_MOUSE_WHEEL_UP~ 和 ~INPUT_MOUSE_WHEEL_DOWN~来伸缩瞄准倍率。
