@@ -42,7 +42,7 @@
 0x751562E3=回去帮助 ~b~Tony。
 
 ;0x755C5D1D=Half hold ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
-0x755C5D1D=半按 ~INPUT_AIM~ to 自由瞄准. 用 ~PAD_RSTICK_ALL~ to 瞄准。
+0x755C5D1D=半按 ~INPUT_AIM~ to 自由瞄准。 用 ~PAD_RSTICK_ALL~ to 瞄准。
 
 ;0x82A6C350=~r~Tony's car was wrecked.
 0x82A6C350=~r~Tony的车毁了。
@@ -75,5 +75,5 @@
 0xFA4BC22E=~s~干掉 ~r~三合会。
 
 ;0xFEE0CCE6=Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your weapon.
-0xFEE0CCE6=按住 ~INPUT_AIM~ 来锁定敌人. 按住 ~INPUT_ATTACK~ 开枪。
+0xFEE0CCE6=按住 ~INPUT_AIM~ 来锁定敌人。 按住 ~INPUT_ATTACK~ 开枪。
 
