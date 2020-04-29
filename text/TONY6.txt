@@ -12,7 +12,7 @@
 0x14365855=离开俱乐部。
 
 ;0x1D474B18=~r~You alerted security.
-0x1D474B18=~r~你报了警。
+0x1D474B18=~r~你惊动了警卫。
 
 ;0x23BAFAD2=Leave the area.
 0x23BAFAD2=离开这片区域。
