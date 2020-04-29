@@ -63,7 +63,7 @@
 0x72A594B0=~s~用~INPUT_KB_UP~ and ~INPUT_KB_DOWN~浏览电话菜单。
 
 ;0x7BB9D897=~r~You alerted security.
-0x7BB9D897=~r~你报了警。
+0x7BB9D897=~r~你惊动了警卫。
 
 ;0x7ED36B66=~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.
 0x7ED36B66=~s~按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~在车辆行驶时刹车或倒车。
