@@ -102,7 +102,7 @@
 0xF2D4AFAA=前往位处于~y~Golden Pier~s~的高尔夫俱乐部。
 
 ;0xF66E9CD5=Get into Tony's ~b~car.
-0xF66E9CD5=上Tony的~b~car.
+0xF66E9CD5=上Tony的~b~car。
 
 ;0xFD43BC3C=Take Tony back to his ~y~apartment.
 0xFD43BC3C=带Tony回去他的~y~公寓。
