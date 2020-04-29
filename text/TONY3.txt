@@ -1,112 +1,112 @@
 ﻿[TONY3]
 ;0x012A9065=~r~You lost Rocco.
-0x012A9065=~r~You lost Rocco.
+0x012A9065=~r~你跟丢了Rocco。
 
 ;0x0217EAA2=~r~You abandoned Rocco.
-0x0217EAA2=~r~You abandoned Rocco.
+0x0217EAA2=~r~你抛弃了Rocco。
 
 ;0x0684CD8D=Hit the ~r~Union official ~s~with golf balls.
-0x0684CD8D=Hit the ~r~Union official ~s~with golf balls.
+0x0684CD8D=用高尔夫球击打~r~政府官员。
 
 ;0x119A1971=Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
-0x119A1971=Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
+0x119A1971=按~INPUT_DUCK~来下蹲, 蹲着会使你的瞄准目标的时候更加精准。
 
 ;0x14BBB330=~r~You abandoned Tony.
-0x14BBB330=~r~You abandoned Tony.
+0x14BBB330=~r~你抛弃了Tony。
 
 ;0x203C8BFC=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Move ~PAD_RSTICK_DOWN~ to start swing. ~n~Move ~PAD_RSTICK_UP~ to hit the ball.
-0x203C8BFC=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Move ~PAD_RSTICK_DOWN~ to start swing. ~n~Move ~PAD_RSTICK_UP~ to hit the ball.
+0x203C8BFC=用~PAD_LSTICK_ALL~来改变击球方向。~n~按 ~PAD_RSTICK_DOWN~ 开始后摆。~n~按~PAD_RSTICK_UP~发球。
 
 ;0x31C58515=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
-0x31C58515=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
+0x31C58515=~s~使用~INPUT_MOUSE_WHEEL_UP~ 和 ~INPUT_MOUSE_WHEEL_DOWN~来伸缩瞄准倍率。
 
 ;0x35DF347B=Help defend Rocco from the ~r~Messinas.
-0x35DF347B=Help defend Rocco from the ~r~Messinas.
+0x35DF347B=保护Rocco并抵御~r~墨西拿~s~的攻势。
 
 ;0x390C3E65=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
-0x390C3E65=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
+0x390C3E65=~s~按~PAD_RSTICK_NONE~ 在瞄准时可以在不同的缩放级别之间切换。
 
 ;0x40AFCCE2=For greater accuracy, time your shot on the black line, and keep ~PAD_RSTICK_ALL~ straight. ~n~Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
-0x40AFCCE2=For greater accuracy, time your shot on the black line, and keep ~PAD_RSTICK_ALL~ straight. ~n~Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
+0x40AFCCE2=在能量槽达到黑线时击球可以打得打得更准~n~按~INPUT_ATTACK~ 缩放相机。~n~按~PAD_RSTICK_LEFTRIGHT~旋转相机。
 
 ;0x445E5377=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Press ~PAD_A~ to start backswing. ~n~To hit the ball, press ~PAD_A~ when the descending power bar reaches the black marker.
-0x445E5377=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Press ~PAD_A~ to start backswing. ~n~To hit the ball, press ~PAD_A~ when the descending power bar reaches the black marker.
+0x445E5377=用~PAD_LSTICK_ALL~ 来改变击球方向。~n~Press ~PAD_A~ 开始后摆。~n~按~PAD_A~在能量槽达到黑线时击球。
 
 ;0x456B5AF9=Head down to the ~b~golf cart.
-0x456B5AF9=Head down to the ~b~golf cart.
+0x456B5AF9=前往~b~高尔夫车。
 
 ;0x518A19AB=~r~The golf cart was destroyed.
-0x518A19AB=~r~The golf cart was destroyed.
+0x518A19AB=~r~高尔夫车被摧毁了。
 
 ;0x5B9081DF=Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
-0x5B9081DF=Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
+0x5B9081DF=按~INPUT_ATTACK~ 缩放相机。~n~Move ~PAD_RSTICK_LEFTRIGHT~旋转相机。
 
 ;0x6C8F2F10=Hold ~INPUT_SPRINT~ to run. Tap ~INPUT_SPRINT~ repeatedly to sprint.
-0x6C8F2F10=Hold ~INPUT_SPRINT~ to run. Tap ~INPUT_SPRINT~ repeatedly to sprint.
+0x6C8F2F10=按住~INPUT_SPRINT~ 奔跑。反复按 ~INPUT_SPRINT~冲刺。
 
 ;0x78D1F95F=Get back into the ~b~car.
-0x78D1F95F=Get back into the ~b~car.
+0x78D1F95F=回去上~b~车.
 
 ;0x7AE9E55F=Get back into the ~b~golf cart.
-0x7AE9E55F=Get back into the ~b~golf cart.
+0x7AE9E55F=回去上~b~高尔夫车。
 
 ;0x7D3290B0=~r~Rocco is dead.
-0x7D3290B0=~r~Rocco is dead.
+0x7D3290B0=~r~Rocco死了。
 
 ;0x8CCE645A=Press ~PAD_A~ to hit the ball.
-0x8CCE645A=Press ~PAD_A~ to hit the ball.
+0x8CCE645A=按~PAD_A~to 击球。
 
 ;0x8DB0C14C=Don't leave ~b~Tony ~s~behind.
-0x8DB0C14C=Don't leave ~b~Tony ~s~behind.
+0x8DB0C14C=不要把~b~Tony ~s~落在后边。
 
 ;0x8F46EA19=~r~Rocco's golf cart was destroyed.
-0x8F46EA19=~r~Rocco's golf cart was destroyed.
+0x8F46EA19=~r~Rocco的高尔夫车被摧毁了。
 
 ;0x91C81128=Clear the area of the ~r~Messinas.
-0x91C81128=Clear the area of the ~r~Messinas.
+0x91C81128=清除这片区域的~r~墨西拿的人。
 
 ;0x996C358D=~r~Tony's car was destroyed.
-0x996C358D=~r~Tony's car was destroyed.
+0x996C358D=~r~Tony的车被摧毁了。
 
 ;0x9F2A3780=Use ~INPUT_SPRINT~ to sprint.
-0x9F2A3780=Use ~INPUT_SPRINT~ to sprint.
+0x9F2A3780=按~INPUT_SPRINT~ 冲刺。
 
 ;0xA3A9DF39=Park ~y~next to Rocco.
-0xA3A9DF39=Park ~y~next to Rocco.
+0xA3A9DF39=停在 ~y~Rocco旁边。
 
 ;0xB04757CC=Get into the ~b~golf cart.
-0xB04757CC=Get into the ~b~golf cart.
+0xB04757CC=上~b~高尔夫车。
 
 ;0xB3C30E73=Use ~PAD_RSTICK_ALL~ to change shot position. ~n~Press ~INPUT_MOUSE_LMB~ to start backswing. ~n~To hit the ball, press ~INPUT_MOUSE_LMB~ when the descending power bar reaches the black marker.
-0xB3C30E73=Use ~PAD_RSTICK_ALL~ to change shot position. ~n~Press ~INPUT_MOUSE_LMB~ to start backswing. ~n~To hit the ball, press ~INPUT_MOUSE_LMB~ when the descending power bar reaches the black marker.
+0xB3C30E73=用~PAD_RSTICK_ALL~来改变击球方向。~n~按~INPUT_MOUSE_LMB~开始后摆~n~按~INPUT_MOUSE_LMB~在能量槽达到黑线时击球。
 
 ;0xB9EB5587=Wait for ~b~Tony.
-0xB9EB5587=Wait for ~b~Tony.
+0xB9EB5587=等等~b~Tony。
 
 ;0xC2C1E94F=Lose the cops.
-0xC2C1E94F=Lose the cops.
+0xC2C1E94F=甩掉警察。
 
 ;0xD716C6B5=~r~Tony's car is stuck.
-0xD716C6B5=~r~Tony's car is stuck.
+0xD716C6B5=~r~Tony的车无法移动。
 
 ;0xDC78FD14=Follow ~b~Rocco ~s~out of the golf club.
-0xDC78FD14=Follow ~b~Rocco ~s~out of the golf club.
+0xDC78FD14=跟着~b~Rocco ~s~离开高尔夫俱乐部。
 
 ;0xEB099F6D=Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.
-0xEB099F6D=Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.
+0xEB099F6D=按~INPUT_FREE_AIM~ to 缩放相机。~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~旋转相机。
 
 ;0xEDEE2760=Move ~PAD_RSTICK_UP~ to hit the ball.
-0xEDEE2760=Move ~PAD_RSTICK_UP~ to hit the ball.
+0xEDEE2760=按~PAD_RSTICK_UP~击球。
 
 ;0xF2D4AFAA=Go to the ~y~Golden Pier ~s~golf club.
-0xF2D4AFAA=Go to the ~y~Golden Pier ~s~golf club.
+0xF2D4AFAA=前往位处于~y~Golden Pier~s~的高尔夫俱乐部。
 
 ;0xF66E9CD5=Get into Tony's ~b~car.
-0xF66E9CD5=Get into Tony's ~b~car.
+0xF66E9CD5=上Tony的~b~car.
 
 ;0xFD43BC3C=Take Tony back to his ~y~apartment.
-0xFD43BC3C=Take Tony back to his ~y~apartment.
+0xFD43BC3C=带Tony回去他的~y~公寓。
 
 ;0xFDD5AC3A=~r~Tony is dead.
-0xFDD5AC3A=~r~Tony is dead.
+0xFDD5AC3A=~r~Tony死了。
 
