@@ -1,76 +1,76 @@
 ﻿[TONY5]
 ;0x0597328C=~s~While on foot, sticky bombs can be thrown by holding ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to throw.
-0x0597328C=~s~While on foot, sticky bombs can be thrown by holding ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to throw.
+0x0597328C=~s~当步行时，粘弹可以通过手持投掷~INPUT_AIM~瞄准~INPUT_ATTACK~扔出
 
 ;0x05FCA3F9=~s~The next target is on an out of service subway train, intercept it at the ~y~tunnel exit.
-0x05FCA3F9=~s~The next target is on an out of service subway train, intercept it at the ~y~tunnel exit.
+0x05FCA3F9=~s~下一个目标是一列停运的地铁列车，在~y~隧道出口~s~拦截他。
 
 ;0x24DD8134=~r~You lost the train.
-0x24DD8134=~r~You lost the train.
+0x24DD8134=~r~你跟丢了列车。
 
 ;0x2F11D853=~s~Press ~INPUT_DETONATE~ to detonate the sticky bombs.
-0x2F11D853=~s~Press ~INPUT_DETONATE~ to detonate the sticky bombs.
+0x2F11D853=~s~按~INPUT_DETONATE~引爆粘弹。
 
 ;0x4B16A415=~s~You are out of sticky bombs, call Armando to buy some more.
-0x4B16A415=~s~You are out of sticky bombs, call Armando to buy some more.
+0x4B16A415=~s~你的粘弹用完了，可以打电话给Armando买一些。
 
 ;0x4B8DBB27=~s~Now detonate the bombs to destroy the crane.
-0x4B8DBB27=~s~Now detonate the bombs to destroy the crane.
+0x4B8DBB27=~s~现在引爆炸弹摧毁起重机。
 
 ;0x61C8F4BE=~s~The first target is a ~r~construction foreman. ~s~He operates the nearby crane.
-0x61C8F4BE=~s~The first target is a ~r~construction foreman. ~s~He operates the nearby crane.
+0x61C8F4BE=~s~第一个目标是一名~r~建筑工头。~s~他操作附近的起重机。
 
 ;0x6E7C0458=~s~Press ~PAD_DPAD_DOWN~ to detonate the sticky bombs.
-0x6E7C0458=~s~Press ~PAD_DPAD_DOWN~ to detonate the sticky bombs.
+0x6E7C0458=~s~按~PAD_DPAD_DOWN~引爆粘弹。
 
 ;0x75C13FDC=~s~Destroy the ~r~train~s~ using sticky bombs.
-0x75C13FDC=~s~Destroy the ~r~train~s~ using sticky bombs.
+0x75C13FDC=~s~摧毁~r~列车~s~要使用粘弹。
 
 ;0x87B9302A=~s~Security has spotted you and the plane is preparing to take off.
-0x87B9302A=~s~Security has spotted you and the plane is preparing to take off.
+0x87B9302A=~s~安检人员发现了你，飞机正准备起飞。
 
 ;0x8BEA3F34=~s~They will stick to any object they touch and can be detonated using ~PAD_DPAD_DOWN~ or by being shot.
-0x8BEA3F34=~s~They will stick to any object they touch and can be detonated using ~PAD_DPAD_DOWN~ or by being shot.
+0x8BEA3F34=~s~粘弹会粘在它们接触到的物体上，并且可以用~PAD_DPAD_DOWN~直接引爆或者射击粘弹将其引爆。
 
 ;0x8CD693E4=~s~Throw several sticky bombs onto the base of the ~r~crane.
-0x8CD693E4=~s~Throw several sticky bombs onto the base of the ~r~crane.
+0x8CD693E4=~s~把几枚粘弹扔到~r~起重机的基座~s~上。
 
 ;0x952A7B8D=~s~Approach the runway through the ~y~security gate.
-0x952A7B8D=~s~Approach the runway through the ~y~security gate.
+0x952A7B8D=~s~从安全门进入 ~y~跑道
 
 ;0x95A866E0=~s~The crane was not destroyed, new explosives need to be set on the ~r~crane base.
-0x95A866E0=~s~The crane was not destroyed, new explosives need to be set on the ~r~crane base.
+0x95A866E0=~s~起重机没有被摧毁, 需要在 ~r~基座~s~上放置新的炸药。
 
 ;0x98D7A77A=~s~They will stick to any object they touch and can be detonated using ~INPUT_DETONATE~ or by being shot.
-0x98D7A77A=~s~They will stick to any object they touch and can be detonated using ~INPUT_DETONATE~ or by being shot.
+0x98D7A77A=~s~粘弹会粘在它们接触到的物体上，并且可以用 ~INPUT_DETONATE~直接引爆或者射击粘弹将其引爆。
 
 ;0x9A826C80=~r~The target's plane has taken off.
-0x9A826C80=~r~The target's plane has taken off.
+0x9A826C80=~r~目标的飞机起飞了。
 
 ;0xA1662D3C=~s~Get to the ~y~airport.~s~ The next target's plane is taking off at ~1~:~1~.
-0xA1662D3C=~s~Get to the ~y~airport.~s~ The next target's plane is taking off at ~1~:~1~.
+0xA1662D3C=~s~到达~y~机场。~s~下一个目标的飞机正在起飞~1~:~1~.
 
 ;0xA58A44A4=~s~You must destroy the ~r~plane ~s~before it takes off.
-0xA58A44A4=~s~You must destroy the ~r~plane ~s~before it takes off.
+0xA58A44A4=~s~你必须得摧毁~r~飞机~s~在它起飞之前。
 
 ;0xAC5CD264=~s~Lose the cops.
-0xAC5CD264=~s~Lose the cops.
+0xAC5CD264=~s~甩掉警察。
 
 ;0xB695A4A6=~r~You took too long to destroy the train.
-0xB695A4A6=~r~You took too long to destroy the train.
+0xB695A4A6=~r~你花了太多时间在摧毁列车上。
 
 ;0xBB0C19F0=~s~The crane is rigged to blow, get clear.
-0xBB0C19F0=~s~The crane is rigged to blow, get clear.
+0xBB0C19F0=~s~吊车要爆炸了，快离开。
 
 ;0xBCD85FCA=~s~The ~r~train ~s~has stopped at the station in Fortside.
-0xBCD85FCA=~s~The ~r~train ~s~has stopped at the station in Fortside.
+0xBCD85FCA=~s~那辆~r~列车~s~已经在Fortside车站停了下来。
 
 ;0xDCCF60FD=~s~When in a vehicle press ~INPUT_VEH_ATTACK~ to throw a sticky bomb left.
-0xDCCF60FD=~s~When in a vehicle press ~INPUT_VEH_ATTACK~ to throw a sticky bomb left.
+0xDCCF60FD=~s~在行驶车辆时按~INPUT_VEH_ATTACK~可以扔出粘弹。
 
 ;0xF096A838=~s~You are too far away, go back and destroy the ~r~crane.
-0xF096A838=~s~You are too far away, go back and destroy the ~r~crane.
+0xF096A838=~s~你离得太远了，回去炸毁~r~起重机。
 
 ;0xF3CF24C1=~s~Holding ~INPUT_VEH_CIN_CAM~ will focus the camera on the target.
-0xF3CF24C1=~s~Holding ~INPUT_VEH_CIN_CAM~ will focus the camera on the target.
+0xF3CF24C1=~s~按住 ~INPUT_VEH_CIN_CAM~将使照相机对准目标。
 

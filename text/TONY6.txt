@@ -1,79 +1,79 @@
 ﻿[TONY6]
 ;0x029D3523=Take out the ~r~owner.~s~
-0x029D3523=Take out the ~r~owner.~s~
+0x029D3523=干掉~r~老板~s~
 
 ;0x039BA590=Impress your dance partner by copying their style. Keep pressing buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.
-0x039BA590=Impress your dance partner by copying their style. Keep pressing buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.
+0x039BA590=通过模仿舞伴的风格来打动她们。随着音乐有节奏性地按按键~n~~PAD_A~下~n~~PAD_B~右~n~~PAD_X~左~n~~PAD_Y~上~n~~PAD_LB~结束。
 
 ;0x0D41AB0D=~r~Monique is dead.
-0x0D41AB0D=~r~Monique is dead.
+0x0D41AB0D=~r~Monique死了。
 
 ;0x14365855=Get out of the club.
-0x14365855=Get out of the club.
+0x14365855=离开俱乐部。
 
 ;0x1D474B18=~r~You alerted security.
-0x1D474B18=~r~You alerted security.
+0x1D474B18=~r~你报了警。
 
 ;0x23BAFAD2=Leave the area.
-0x23BAFAD2=Leave the area.
+0x23BAFAD2=离开这片区域。
 
 ;0x2807FFF8=Enter the ~y~owner's office.~s~
-0x2807FFF8=Enter the ~y~owner's office.~s~
+0x2807FFF8=进入~y~老板的办公室~s~
 
 ;0x29A08331=Go to ~y~Bahama Mamma's.~s~
-0x29A08331=Go to ~y~Bahama Mamma's.~s~
+0x29A08331=前往~y~Bahama Mamma~s~
 
 ;0x2D5CF912=To dance with someone on the dancefloor stand in front of them and press ~PAD_LB~.
-0x2D5CF912=To dance with someone on the dancefloor stand in front of them and press ~PAD_LB~.
+0x2D5CF912=想和别人在舞池中共舞的话，站在他们面前并按下~PAD_LB~。
 
 ;0x2F96EFB7=~r~Tony is dead.
-0x2F96EFB7=~r~Tony is dead.
+0x2F96EFB7=~r~Tony死了。
 
 ;0x392502D3=~r~Tony's car was wrecked.
-0x392502D3=~r~Tony's car was wrecked.
+0x392502D3=~r~Tony的车坏了。
 
 ;0x39F423D4=Mission Passed
-0x39F423D4=Mission Passed
+0x39F423D4=任务通过
 
 ;0x3B4F268E=Go to the ~y~dance floor.~s~
-0x3B4F268E=Go to the ~y~dance floor.~s~
+0x3B4F268E=前往~y~舞池。~s~
 
 ;0x4D3D4A6A=Go to ~b~Monique~s~ and dance with her.
-0x4D3D4A6A=Go to ~b~Monique~s~ and dance with her.
+0x4D3D4A6A=前往~b~Monique~s~那边和她跳舞。
 
 ;0x4DA14E21=Weapons aren't welcome in the club.
-0x4DA14E21=Weapons aren't welcome in the club.
+0x4DA14E21=在俱乐部内不能使用任何武器。
 
 ;0x5479397B=~r~You abandoned Tony.
-0x5479397B=~r~You abandoned Tony.
+0x5479397B=~r~你抛弃了Tony。
 
 ;0x610171F2=The owner wishes to speak to you. Follow the ~r~bouncer.~s~
-0x610171F2=The owner wishes to speak to you. Follow the ~r~bouncer.~s~
+0x610171F2=这家店的老板想和你谈谈，跟着~r~保镖。~s~
 
 ;0x7F84B268=Don't leave ~b~Tony~s~ behind.~s~
-0x7F84B268=Don't leave ~b~Tony~s~ behind.~s~
+0x7F84B268=别把~b~Tony~s~落下。~s~
 
 ;0x8D13CD82=Lose the cops. You will be denied entry to the club with a wanted level.
-0x8D13CD82=Lose the cops. You will be denied entry to the club with a wanted level.
+0x8D13CD82=甩掉警察，降低你的通缉度之后才能进入俱乐部。
 
 ;0x8E12844B=Lose the cops.
-0x8E12844B=Lose the cops.
+0x8E12844B=甩掉警察。
 
 ;0x9691E07E=Get back in ~b~Tony's car.~s~
-0x9691E07E=Get back in ~b~Tony's car.~s~
+0x9691E07E=回到~b~Tony的车。~s~
 
 ;0xBB91A70D=Get in ~b~Tony's car.~s~
-0xBB91A70D=Get in ~b~Tony's car.~s~
+0xBB91A70D=上~b~Tony的车。~s~
 
 ;0xBBEBAB35=Enter the club and go to the ~y~dance floor.~s~
-0xBBEBAB35=Enter the club and go to the ~y~dance floor.~s~
+0xBBEBAB35=前往俱乐部，进入~y~舞厅~s~
 
 ;0xE096D1BC=~r~Your dancing did not impress Monique.
-0xE096D1BC=~r~Your dancing did not impress Monique.
+0xE096D1BC=~r~你的舞蹈没有打动Monique。
 
 ;0xE0A4F4A7=Drive Tony to ~y~Bahama Mamas.~s~
-0xE0A4F4A7=Drive Tony to ~y~Bahama Mamas.~s~
+0xE0A4F4A7=载Tony去~y~Bahama Mamas。~s~
 
 ;0xF3417711=~r~You failed to take out the club owner.
-0xF3417711=~r~You failed to take out the club owner.
+0xF3417711=~r~你没有干掉俱乐部老板。
 
