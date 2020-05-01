@@ -18,7 +18,7 @@
 0x1C4DE7B8=~s~用~PAD_DPAD_LEFTRIGHT~可以在行驶时切换无线电台。
 
 ;0x29555E34=~s~Drive Tony to ~y~Hercules.
-0x29555E34=~s~载托尼去 to ~y~Hercules。
+0x29555E34=~s~载托尼去to~y~Hercules。
 
 ;0x3780FA8B=~s~Don't leave ~b~Tony~s~ behind.
 0x3780FA8B=~s~别把~b~Tony~s~落在后边。
@@ -39,19 +39,19 @@
 0x5613697C=或者你可以上楼到贵宾区，加入喝酒游戏。
 
 ;0x5E4746FF=~s~Use the ~y~wardrobe~s~ to change clothes.
-0x5E4746FF=~s~使用 ~y~wardrobe~s~来换衣服。
+0x5E4746FF=~s~使用~y~wardrobe~s~来换衣服。
 
 ;0x5E571C49=You can save any vehicle in the parking place outside your apartment.
 0x5E571C49=你在公寓外的停车区停放的车辆会被保存下来。
 
 ;0x6085E5D0=Press ~INPUT_PHONE_CANCEL~ to exit the phone menu and put away the phone.
-0x6085E5D0=按 ~INPUT_PHONE_CANCEL~退出电话菜单并收起电话。
+0x6085E5D0=按~INPUT_PHONE_CANCEL~退出电话菜单并收起电话。
 
 ;0x6278E0F9=You can get some shots at the bar.
-0x6278E0F9=你可以在酒吧里喝些酒。
+0x6278E0F9=你可以在酒吧里喝酒。
 
 ;0x6DF83619=~s~Wait for ~b~Tony.
-0x6DF83619=~s~等等 ~b~Tony。
+0x6DF83619=~s~等等~b~Tony。
 
 ;0x714777B5=Press ~INPUT_PHONE_ACCEPT~ to access the menu.
 0x714777B5=按~INPUT_PHONE_ACCEPT~进入菜单。
@@ -60,7 +60,7 @@
 0x7162EE4E=~s~前往~y~正门。
 
 ;0x72A594B0=~s~Use ~INPUT_KB_UP~ and ~INPUT_KB_DOWN~ to navigate the phone menu.
-0x72A594B0=~s~用~INPUT_KB_UP~ and ~INPUT_KB_DOWN~浏览电话菜单。
+0x72A594B0=~s~用~INPUT_KB_UP~和~INPUT_KB_DOWN~浏览电话菜单。
 
 ;0x7BB9D897=~r~You alerted security.
 0x7BB9D897=~r~你惊动了警卫。
@@ -81,7 +81,7 @@
 0x8C1CA2AD=~s~进入~b~Tony的车。
 
 ;0x8E17B20C=~s~During a phone call press ~INPUT_PHONE_PUT_AWAY~ to skip through the conversation or ~INPUT_PHONE_CANCEL~ to hang up.
-0x8E17B20C=~s~在通话时按~INPUT_PHONE_PUT_AWAY~可以跳过对话或者 ~INPUT_PHONE_CANCEL~挂断电话。
+0x8E17B20C=~s~在通话时按~INPUT_PHONE_PUT_AWAY~可以跳过对话或者~INPUT_PHONE_CANCEL~挂断电话。
 
 ;0x97201EA7=You can try to impress the ladies with your dancing. If you dance successfully with a lady, you may get a surprise.
 0x97201EA7=你可以试着用你的舞蹈给女士们留下深刻的印象。如果你和一位女士跳舞成功，你可能会得到一个惊喜。
@@ -111,7 +111,7 @@
 0xAAB7F12A=~r~Dessie死了。
 
 ;0xAFC627E5=~s~Use ~INPUT_PHONE_TAKE_OUT~ and ~INPUT_PHONE_PUT_AWAY~ to navigate the phone menu.
-0xAFC627E5=~s~用~INPUT_PHONE_TAKE_OUT~ 和 ~INPUT_PHONE_PUT_AWAY~浏览电话菜单。
+0xAFC627E5=~s~用~INPUT_PHONE_TAKE_OUT~和~INPUT_PHONE_PUT_AWAY~浏览电话菜单。
 
 ;0xB0816B76=~s~Don't leave your ~b~friends~s~ behind.
 0xB0816B76=~s~不要把你的~b~朋友们~s~落在后面。
@@ -129,7 +129,7 @@
 0xBDC8D64B=~r~Henrique死了。
 
 ;0xC47193A5=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to cycle between radio stations when in a vehicle.
-0xC47193A5=~s~用~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ 可以在行驶时切换无线电台。
+0xC47193A5=~s~用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~ 可以在行驶时切换无线电台。
 
 ;0xCB8371C0=~r~Armando is dead.
 0xCB8371C0=~r~Armando死了。
@@ -144,7 +144,7 @@
 0xCEEF416B=~s~进入~b~车辆。
 
 ;0xD6944C5D=~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).
-0xD6944C5D=~s~按住~INPUT_VEH_HANDBRAKE~ 使用手刹。~n~按 ~PAD_A~ 替代手刹（标准控制）。
+0xD6944C5D=~s~按住~INPUT_VEH_HANDBRAKE~ 使用手刹。~n~按~PAD_A~替代手刹（标准控制）。
 
 ;0xD80E8AE6=~r~You abandoned Friend 3.
 0xD80E8AE6=~r~你抛弃了朋友3。
@@ -156,7 +156,7 @@
 0xDF95EAD7=~s~前往~y~9号豪宅。
 
 ;0xE3A15387=~s~During a phone call press ~INPUT_KB_DOWN~ to skip through the conversation or ~INPUT_PHONE_CANCEL~ to hang up.
-0xE3A15387=~s~在通话中按~INPUT_KB_DOWN~ 可以跳过对话或者~INPUT_PHONE_CANCEL~挂断电话。
+0xE3A15387=~s~在通话中按~INPUT_KB_DOWN~可以跳过对话或者~INPUT_PHONE_CANCEL~挂断电话。
 
 ;0xE6E55955=~s~Don't leave ~b~Henrique~s~ behind.
 0xE6E55955=~s~不要把~b~Henrique~s~落下。
