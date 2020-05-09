@@ -124,11 +124,11 @@
 0xDD8AB766=~r~Bulgarin逃走了。~s~
 
 ;0xDD956045=Clear the carnival of ~r~Bulgarin's men~s~ and find Timur.~s~
-0xDD956045=清扫~r~Bulgarin的人~s~ 并找出Timur。~s~
+0xDD956045=清扫~r~Bulgarin的手下~s~并找出Timur。~s~
 
 ;0xE54346D7=~s~Take out ~r~Bulgarin's men.~s~
-0xE54346D7=~s~干掉~r~Bulgarin的人~s~
+0xE54346D7=~s~干掉~r~Bulgarin的手下。~s~
 
 ;0xF2F4E23A=~s~Lose the cops.~s~
-0xF2F4E23A=~s~甩掉警察~s~
+0xF2F4E23A=~s~甩掉警察。~s~
 
