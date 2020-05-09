@@ -1,6 +1,6 @@
 ﻿[TONY5]
 ;0x0597328C=~s~While on foot, sticky bombs can be thrown by holding ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to throw.
-0x0597328C=~s~当步行时，粘弹可以通过手持投掷~INPUT_AIM~瞄准~INPUT_ATTACK~扔出
+0x0597328C=~s~当步行时，粘弹可以通过手持投掷~INPUT_AIM~瞄准~INPUT_ATTACK~扔出。
 
 ;0x05FCA3F9=~s~The next target is on an out of service subway train, intercept it at the ~y~tunnel exit.
 0x05FCA3F9=~s~下一个目标是一列停运的地铁列车，在~y~隧道出口~s~拦截他。
@@ -36,19 +36,19 @@
 0x8CD693E4=~s~把几枚粘弹扔到~r~起重机的基座~s~上。
 
 ;0x952A7B8D=~s~Approach the runway through the ~y~security gate.
-0x952A7B8D=~s~从安全门进入 ~y~跑道
+0x952A7B8D=~s~从安全门进入~y~跑道。
 
 ;0x95A866E0=~s~The crane was not destroyed, new explosives need to be set on the ~r~crane base.
-0x95A866E0=~s~起重机没有被摧毁, 需要在 ~r~基座~s~上放置新的炸药。
+0x95A866E0=~s~起重机没有被摧毁, 需要在~r~基座~s~上放置新的炸药。
 
 ;0x98D7A77A=~s~They will stick to any object they touch and can be detonated using ~INPUT_DETONATE~ or by being shot.
-0x98D7A77A=~s~粘弹会粘在它们接触到的物体上，并且可以用 ~INPUT_DETONATE~直接引爆或者射击粘弹将其引爆。
+0x98D7A77A=~s~粘弹会粘在它们接触到的物体上，并且可以用~INPUT_DETONATE~直接引爆或者射击粘弹将其引爆。
 
 ;0x9A826C80=~r~The target's plane has taken off.
 0x9A826C80=~r~目标的飞机起飞了。
 
 ;0xA1662D3C=~s~Get to the ~y~airport.~s~ The next target's plane is taking off at ~1~:~1~.
-0xA1662D3C=~s~到达~y~机场。~s~下一个目标的飞机正在起飞~1~:~1~.
+0xA1662D3C=~s~到达~y~机场。~s~下一个目标的飞机正在起飞~1~:~1~。
 
 ;0xA58A44A4=~s~You must destroy the ~r~plane ~s~before it takes off.
 0xA58A44A4=~s~你必须得摧毁~r~飞机~s~在它起飞之前。
@@ -72,5 +72,5 @@
 0xF096A838=~s~你离得太远了，回去炸毁~r~起重机。
 
 ;0xF3CF24C1=~s~Holding ~INPUT_VEH_CIN_CAM~ will focus the camera on the target.
-0xF3CF24C1=~s~按住 ~INPUT_VEH_CIN_CAM~将使照相机对准目标。
+0xF3CF24C1=~s~按住~INPUT_VEH_CIN_CAM~将使照相机对准目标。
 
