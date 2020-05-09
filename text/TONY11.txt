@@ -31,7 +31,7 @@
 0x38B69652=~S~销毁~g~海洛因。~s~
 
 ;0x3DE17812=~s~Chase after ~y~The Blue Ghawar jet.~s~
-0x3DE17812=~s~追赶~y~蓝色的加瓦尔喷气式飞机。~s~
+0x3DE17812=~s~追赶~y~蓝色的Ghawar喷气式飞机。~s~
 
 ;0x472B5D03=Get to the ~y~airport.~s~
 0x472B5D03=前往~y~机场。~s~
@@ -85,10 +85,10 @@
 0x8916B749=骑上~b~机车。~s~
 
 ;0x8DA2E8A9=~s~Chase ~y~The Blue Ghawar jet.~s~
-0x8DA2E8A9=~s~追赶~y~蓝色的加瓦尔喷气式飞机。~s~
+0x8DA2E8A9=~s~追赶~y~蓝色的Ghawar喷气式飞机。~s~
 
 ;0x96060780=~s~Timur appears and tells Luis that Bulgarin is at the airport and he will never get him. Timur then open fire on Luis.~s~
-0x96060780=~s~Timur出现了然后跟Luis说 Bulgarin在机场，他永远也找不到他了。然后Timur向路易斯开火。~s~
+0x96060780=~s~Timur出现了后跟Luis说Bulgarin在机场，他永远也找不到他了。然后Timur向Luis发动攻势。~s~
 
 ;0xA6CBF2B3=~S~Destroy the remaining ~g~heroin shipment.~s~
 0xA6CBF2B3=~S~销毁剩余的~g~海洛因运输线。~s~
@@ -109,7 +109,7 @@
 0xBFF224FF=~s~前往~y~Dukes Expressway.~s~
 
 ;0xBFFDFC4D=Get close to the ~y~The Blue Ghawar.~s~
-0xBFFDFC4D=靠近~y~蓝色的加瓦尔。~s~
+0xBFFDFC4D=靠近~y~蓝色的Ghawar喷气式飞机。~s~
 
 ;0xC6DB8A08=~S~Go to ~y~Crockett Ave.~s~
 0xC6DB8A08=~S~前往~y~Crockett Ave。~s~
