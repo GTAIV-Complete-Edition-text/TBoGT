@@ -1,0 +1,16 @@
+﻿[PBLB239]
+;0x5C9657CB=Artist Killed
+0x5C9657CB=艺术家被杀
+
+;0x77E5DCF4=A 32-year-old budding artist was viciously beaten to death last night outside a bar in East Hook. Fueled by the pressures of the economic downturn, this is the latest in a spate of revenge attacks by long-standing Broker residents, who believe that their neighborhoods have been ruined by an influx of bearded, over-privileged rich kids in fedoras. While we of course sympathize wholeheartedly and hyperbolically with the plight of poor, ethnic communities, whose futures have been gambled away by President Lawton on war games and big business subsidies, we can and will never condone hate. Hipsterphobia is prejudice like any other and they must be defended, especially as they make up the lion's share of our reader base.
+0x77E5DCF4=昨晚，在东胡克的一家酒吧外，一名32岁的初出茅庐的艺术家被毒打致死。受经济衰退压力的推动，这是长期居住的居民发起的一连串报复性袭击中的最新一次，他们认为，他们的社区已经被戴着软呢帽、留着胡子、享有特权的有钱孩子的涌入所破坏。当然，尽管我们全心全意地、夸张地同情穷人和少数民族社区的困境，他们的未来已经被劳顿总统赌上了战争游戏和大企业补贴的赌注，但我们能够而且永远不会宽恕仇恨。潮人恐惧症和其他任何偏见一样，是一种偏见，必须加以保护，尤其是因为它们占了我们读者群的绝大部分。
+
+;0x83ECD02E=Candice Johnson
+0x83ECD02E=Candice Johnson
+
+;0x894F7FC7=So they believe that they are unique and countercultural by dressing in exactly the same clothes? So they ride fixed-gear bicycles and live off their parents' money? So they seek to escape their privileged upbringings and middle-class guilt by expropriating the cultures and fashions of the working class and turning them into kitsch for their own amusement? So they are pitiful, insecure, pretentious, snarky, narcissistic, pasty-faced pseudo-slackers whom the world would be better off without? Are these reasons to hate them? Er, maybe. I don't know any more. I'm incapable of stating an opinion for fear that I might offend somebody. But, if I learned one thing from my Liberal Arts degree, it is this: stereotypes are bad. Never put a label on anything unless it contains animal fats.
+0x894F7FC7=所以他们认为自己穿着完全相同的衣服是独特的和反文化的？所以他们骑固定齿轮自行车靠父母的钱生活？因此，他们试图通过剥夺工人阶级的文化和时尚，把他们变成媚俗供自己娱乐，来逃避他们的特权教育和中产阶级的罪恶感？所以他们是可怜的，不安全的，自命不凡的，面色苍白的伪君子，如果没有他们，世界会更好？这些是恨他们的理由吗？呃，也许吧。我不知道了。我不能发表意见，怕冒犯别人。但是，如果我从我的文科学位中学到一件事，那就是：刻板印象很糟糕。不要在任何东西上贴标签，除非它含有动物脂肪。
+
+;0xC43B196A=No irony found in hipster's death
+0xC43B196A=hipster的死没有讽刺意味
+

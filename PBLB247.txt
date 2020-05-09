@@ -1,0 +1,13 @@
+﻿[PBLB247]
+;0x27FAB847=Joshua Crane
+0x27FAB847=Joshua Crane
+
+;0x67AAB144=The military industrial complex claims another victim. Notorious agent of death, Frickie van Hardenburg was killed yesterday, seemingly in the middle of an arms deal. Having only just been allowed a visa to enter the country, the slave trader and arms dealer that human rights groups have been trying to put on trial was himself the victim of horrific violence, after a bloody attack by an unknown assailant on his boat, seemingly killing all on board. This is the kind of violence we expect when the government cares more about weapons than health care. Mr. van Hardenburg who saw himself as a legitimate businessman, but who had links to countless repressive regimes in Africa and the Middle East, and who has been implicated in slave trading in Asia, along with diamond dealing and above all weapons smuggling into conflicts across the globe, was a popular guest of several Senators, who will no doubt mourn his passing and the healthy campaign donations he made.
+0x67AAB144=军火工业联合体声称另一个受害者。臭名昭著的死亡探员，弗里奇·范·哈登堡昨天似乎是在军火交易中被杀。人权组织试图审判的奴隶贩子和军火贩子刚刚获准签证入境，他本人就是恐怖暴力的受害者，此前一名不明身份的袭击者在他的船上发动血腥袭击，似乎杀死了船上所有人。当政府更关心武器而不是医疗保健时，这就是我们所期望的那种暴力。范哈登堡先生把自己看作是一个合法的商人，但他与非洲和中东无数的专制政权有联系，他与亚洲的奴隶贸易有牵连，与钻石交易，最重要的是武器走私到全球各地的冲突也有联系，他与几位参议员有联系，毫无疑问他们会哀悼他的去世和他所做的清白的竞选捐款。
+
+;0x68F26CFF=DEATH OF AN ARMS SALESMAN
+0x68F26CFF=军火贩子之死
+
+;0xC49198AB=Justice Done as Mega Yacht Sinks
+0xC49198AB=巨轮沉没之时，正义伸张之际
+

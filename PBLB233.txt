@@ -1,0 +1,13 @@
+﻿[PBLB233]
+;0x1E934DE3=How did we get here? The family dentist has become a creep. A drug dealer. A lecher. And despite most of us having dental insurance, each visit costs us a fortune. It came to a head recently with Simon Epstein, the so called Dirty Dentist, a sad case which sheds a light on a profession that needs to be regulated. Our children go to these creeps. Who knows what these guys are doing to my teen daughter while I'm in the waiting room thumbing through some idiotic right wing magazine? Epstein, it has been claimed, also used to masturbate his patients to relax them during root canals. It's sick, and the conservatives have deregulated our country to such an extent that this kind of thing goes on, unimpeded by the state.
+0x1E934DE3=我们怎么来的？家庭牙医成了一个怪人。毒贩。淫荡者。尽管我们大多数人都有牙科保险，但每次就诊都要花很多钱。这件事最近与Simon Epstein发生了冲突，这位所谓的“肮脏牙医”是一个悲哀的案例，它为一个需要监管的行业带来了曙光。我们的孩子们都喜欢这些怪胎。谁知道当我在候诊室翻阅一些愚蠢的右翼杂志时，这些家伙对我十几岁的女儿做了什么？据称，爱泼斯坦也曾在根管治疗期间用手淫来放松病人。这是病态的，保守党已经解除了对我们国家的管制，以至于这种事情继续下去，不受国家的阻碍。
+
+;0x4DE0BA68=Dirty Dentist
+0x4DE0BA68=肮脏的牙医
+
+;0xA653DD98=Dentists need more regulation
+0xA653DD98=牙医需要更多的制度管理
+
+;0xF6D035F3=Candice Johnson
+0xF6D035F3=坎迪斯·约翰逊
+
