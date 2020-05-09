@@ -1,6 +1,6 @@
 ﻿[TONY6]
 ;0x029D3523=Take out the ~r~owner.~s~
-0x029D3523=干掉~r~老板~s~
+0x029D3523=干掉~r~老板。~s~
 
 ;0x039BA590=Impress your dance partner by copying their style. Keep pressing buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.
 0x039BA590=通过模仿舞伴的风格来打动她们。随着音乐有节奏性地按按键~n~~PAD_A~下~n~~PAD_B~右~n~~PAD_X~左~n~~PAD_Y~上~n~~PAD_LB~结束。
