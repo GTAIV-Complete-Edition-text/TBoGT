@@ -24,23 +24,23 @@
 0x6A858B3D=甩掉警察。
 
 ;0x74AECFEC=Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~PAD_DPAD_DOWN~ to detonate.
-0x74AECFEC=用~PAD_RSTICK_ALL~瞄准。 按~INPUT_ATTACK~抛出炸弹并~PAD_DPAD_DOWN~引爆。
+0x74AECFEC=用~PAD_RSTICK_ALL~瞄准。按~INPUT_ATTACK~抛出炸弹并~PAD_DPAD_DOWN~引爆。
 
 ;0x8A4A25F4=Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~INPUT_DETONATE~ to detonate.
-0x8A4A25F4=用~PAD_RSTICK_ALL~瞄准。 按~INPUT_ATTACK~抛出炸弹并~INPUT_DETONATE~引爆。
+0x8A4A25F4=用~PAD_RSTICK_ALL~瞄准。按~INPUT_ATTACK~抛出炸弹并~INPUT_DETONATE~引爆。
 
 ;0xA65FB593=You pick Gay Tony up and you have to drive him to the docks to go buy some diamonds
-0xA65FB593=接基佬Tony并开车送他去码头买钻石.
+0xA65FB593=接基佬Tony并开车送他去码头买钻石。
 
 ;0xCCBE06A2=~r~The driver is dead.
 0xCCBE06A2=~r~司机死了。
 
 ;0xCD60431D=Get back in the ~b~car.~s~
-0xCD60431D=回到~b~车~s~上。
+0xCD60431D=回到~b~车~s~上。~s~
 
 ;0xDE842A2E=~r~Evan is dead.
 0xDE842A2E=~r~Evan死了。
 
 ;0xF7AADC7B=~r~You abandoned Evan.
-0xF7AADC7B=~r~你抛弃了Evan.
+0xF7AADC7B=~r~你抛弃了Evan。
 
