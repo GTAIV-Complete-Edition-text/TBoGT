@@ -1,0 +1,47 @@
+﻿[LBTR224]
+;0x05E63F7B=President Sets up Task Force
+0x05E63F7B=总统设立专项工作组
+
+;0x1CA183EA=While no ransom demands have been delivered yet, the mayor expects this incident to be in line with other recent piracy around the world. Coming in a year in which an oil rig was stolen in the North Sea and an entire skyscraper went missing in Singapore, it is now thought that nowhere is safe from the pirate menace.
+0x1CA183EA=虽然还没有收到赎金要求， 市长预计这一事件将与世界各地最近发生的其他强盗行为一致。去年一年内，一座石油钻塔在北海被偷，整个摩天大楼在新加坡荡然无存，现在看来，全世界都无法逃脱海盗的恐怖主义行为。
+
+;0x31CCAE40=From the coast of East Africa to the shores of the Humboldt River, pirates have become the principal menace to twenty first century commuters. In one of the most daring steals of the last few months, a band of pirates have stolen a subway car in Broker. Bystanders report a "dusky" looking man climbing along the roof of the train and unhooking it before it was pulled into the air by a Skylift. Authorities lost track of the car and Skylift as it disappeared behind a building.
+0x31CCAE40=从东非洲的海岸到洪堡河的沿岸，海盗已经成为了21世纪的痛点，在几个月前的一次光天化日下的大胆抢劫中，一队海盗偷走了在Broker区的一趟地铁列车。目击者称，一个"暗肤色" 的男人在地铁列车上爬行，并且在列车被大型运输直升机吸走之前分解了列车。当局眼睁睁的看着在直升机和列车消失在一座大楼的后面，随后跟丢了他们。
+
+;0x52C2B8A1=He's setting up a task force with a web site and Bleeter page to ensure things happen quickly to get everything back on track in an all out assault on government action. Lawton looked compassionate but strong and promised to continue to improve the country, reduce taxes, punish foreigners and increase government spending in most areas, but sensibly and with one eye on what America is and another on what it could become. He received a standing ovation for the speech. We will stay with this fluff piece our owner made us run.
+0x52C2B8A1=他正在建立一个网站和Bleeter页面的特别工作组，以确保政令快速的上传下达，使一切回到正轨。Lawton看上去富有同情心，也很坚强，他承诺将继续改善美国，减少税收，惩罚外国人，并在大多数领域增加政府开支，但这是明智的，他一方面着眼于美国的现状，另一方面着眼于美国的未来。他为演讲受到了起立鼓掌。我们会留下这个绒毛片我们的主人让我们跑。
+
+;0x553B03C4=T. J. Barry
+0x553B03C4=T. J. Barry
+
+;0x6AB6C4D8=Subway Car Stolen
+0x6AB6C4D8=地铁被偷
+
+;0x6BD94B7C=Citizens Speak Out Against Age of Paranoia
+0x6BD94B7C=市民直言反对对年龄的偏执
+
+;0x7E9CC31B=T. J. Barry
+0x7E9CC31B=T. J. Barry
+
+;0x99AFE21A=Sitting Duck Quacks
+0x99AFE21A=坐鸭呱呱
+
+;0x9FD9FD0B=Pirates on the Open Rails
+0x9FD9FD0B=铁轨上的海盗
+
+;0xA1BD6D30=Authorities Await Ransom Demands
+0xA1BD6D30=当局等待赎金要求
+
+;0xBF764133=Fear Fatigue
+0xBF764133=恐惧疲劳
+
+;0xC6D96603=Citizens are growing increasingly tired of being told to be scared shitless. "It really wears on me," 34 year old Broker resident Hamil Hajaj said. "I've had a heart attack and three strokes. I can't take it anymore." In light of the recent attacks, many say they'd rather take their chances than deal with the congestion, inconvenience and loss of liberty that comes with a so-called safer community.
+0xC6D96603=市民们越来越厌倦被形容成吓得屁滚尿流。 ”我确实渐渐厌烦这些，” 34 岁的Broker区居民Hamil Hajaj说。 "我经历过一次心脏病突发和三次中风了。我再也受不了了。" 在最近的犯罪风波的影响下，很多人表示他们宁愿多承担生命危险，也不愿意继续每天在一个交通堵塞，生活不方便的所谓的更安全的社区中生活下去。
+
+;0xE298D7BD=Michael Wayne
+0xE298D7BD=Michael Wayne
+
+;0xE6C3E0A1=Under intense political pressure, President Lawton made a major promise yesterday to get down to action, with immediate effect. Responding aggressively to recent criticism that he is a show pony who is only concerned with making sure he gets favorable media coverage, Mr. Lawton made an impassioned speech, promising immediate results.
+0xE6C3E0A1=在严峻的政治压力下，总统Lawton做了一个重大承诺并实施立刻生效的措施。 最近有人批评Lawton是一个只关心确保自己得到媒体有利报道的跳梁小丑，对此，Lawton做出了一次热情洋溢的讲话，承诺立即取得成果。
+
+
