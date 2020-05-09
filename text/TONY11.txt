@@ -106,10 +106,10 @@
 0xB158B160=~r~Yusuf死了。~s~
 
 ;0xBFF224FF=~s~Get to ~y~Dukes Expressway.~s~
-0xBFF224FF=~s~前往~y~Dukes Expressway.~s~
+0xBFF224FF=~s~前往~y~Dukes Expressway。~s~
 
 ;0xBFFDFC4D=Get close to the ~y~The Blue Ghawar.~s~
-0xBFFDFC4D=靠近~y~蓝色的Ghawar喷气式飞机。~s~
+0xBFFDFC4D=靠近~y~蓝色的Ghawar。~s~
 
 ;0xC6DB8A08=~S~Go to ~y~Crockett Ave.~s~
 0xC6DB8A08=~S~前往~y~Crockett Ave。~s~
