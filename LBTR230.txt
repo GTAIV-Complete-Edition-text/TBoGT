@@ -27,7 +27,7 @@
 0x923CE0B7=“员工”写手
 
 ;0xB4E5AEA5=As if Algonquin residents didn't have enough reasons to resent the hordes of outer borough residents who stream into the center of the city every night, they're now putting them at the risk of being shot. Notorious bridge and tunnel mecca, dance club Bahama Mamma's, was recently the site of a violent shootout that left several dead including club owner Vic Manzano.
-0xB4E5AEA5=好像阿尔冈琴的居民没有充足的理由憎恨每晚涌入城市中心的城外居民，现在他们的生命受到被枪击的威胁。 臭名昭著的桥梁隧道圣地（指九号公寓），舞厅巴哈马妈妈，最近成为暴力枪击案的地点，并且每次都有数人死亡，其中包括巴哈马妈妈的所有者Vic Manzano。
+0xB4E5AEA5=好像阿尔冈琴的居民没有充足的理由憎恨每晚涌入城市中心的城外居民，现在他们的生命受到被枪击的威胁。 臭名昭著的桥梁隧道圣地（指九号豪宅），舞厅巴哈马妈妈，最近成为暴力枪击案的地点，并且每次都有数人死亡，其中包括巴哈马妈妈的所有者Vic Manzano。
 
 ;0xC459D452=Howitzer to the face
 0xC459D452=正面榴弹炮
