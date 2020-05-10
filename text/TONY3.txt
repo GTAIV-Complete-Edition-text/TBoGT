@@ -39,7 +39,7 @@
 0x518A19AB=~r~高尔夫车被摧毁了。
 
 ;0x5B9081DF=Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.
-0x5B9081DF=按~INPUT_ATTACK~缩放相机。~n~移动~PAD_RSTICK_LEFTRIGHT~旋转相机。
+0x5B9081DF=按住~INPUT_ATTACK~调整视角焦距。~n~移动~PAD_RSTICK_LEFTRIGHT~旋转移动视角。
 
 ;0x6C8F2F10=Hold ~INPUT_SPRINT~ to run. Tap ~INPUT_SPRINT~ repeatedly to sprint.
 0x6C8F2F10=按住~INPUT_SPRINT~奔跑。反复按~INPUT_SPRINT~冲刺。
@@ -93,7 +93,7 @@
 0xDC78FD14=跟着~b~Rocco~s~离开高尔夫俱乐部。
 
 ;0xEB099F6D=Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.
-0xEB099F6D=按~INPUT_FREE_AIM~来缩放相机。~n~按~INPUT_MOVE_LEFT~和~INPUT_MOVE_RIGHT~旋转相机。
+0xEB099F6D=按住~INPUT_FREE_AIM~来调整视角焦距。~n~按~INPUT_MOVE_LEFT~和~INPUT_MOVE_RIGHT~旋转移动视角。
 
 ;0xEDEE2760=Move ~PAD_RSTICK_UP~ to hit the ball.
 0xEDEE2760=按~PAD_RSTICK_UP~击球。
