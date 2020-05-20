@@ -1,18 +1,18 @@
 ﻿[E2MUM1A]
 ;0x0372968A=~z~Hey man, you know you did the right thing.
-0x0372968A=~z~Hey man, you know you did the right thing.
+0x0372968A=~z~嘿，哥们，你知道你是做得对的。
 
 ;0x03CC009D=~z~Thanks, but that ain't the reason I quit.
-0x03CC009D=~z~Thanks, but that ain't the reason I quit.
+0x03CC009D=~z~谢了，但那不是退出的理由。
 
 ;0x04580796=~z~What you mean you took a dive? You mean you lost?
-0x04580796=~z~What you mean you took a dive? You mean you lost?
+0x04580796=~z~你认输了是啥意思？这么说你输了？
 
 ;0x0617052F=~z~I saw you go a few years back. Could have been something if you didn't care so much about that pretty face of yours.
-0x0617052F=~z~I saw you go a few years back. Could have been something if you didn't care so much about that pretty face of yours.
+0x0617052F=~z~几年前我见过你。你要是不是很在意你那张漂亮脸蛋的话，你还是能干点东西的。
 
 ;0x07315EEE=~z~You ought not to judge me, Luis Lopez. You're just like your father.
-0x07315EEE=~z~You ought not to judge me, Luis Lopez. You're just like your father.
+0x07315EEE=~z~你不应该对我评头论足的，Luis Lopez。你跟你爸一个样。
 
 ;0x08784850=SFX_PAUSE_220
 0x08784850=SFX_PAUSE_220
@@ -21,19 +21,19 @@
 0x09DA163E=E2MUM1_XA
 
 ;0x0BE597D5=~z~Man, there's probably even some guys on the scene that still remember me. If they ain't all fucked up by now.
-0x0BE597D5=~z~Man, there's probably even some guys on the scene that still remember me. If they ain't all fucked up by now.
+0x0BE597D5=~z~哥们，可能里面有些人甚至还记得我，如果他们现在还没死的话。
 
 ;0x0C1611BF=SFX_PAUSE_160
 0x0C1611BF=SFX_PAUSE_160
 
 ;0x0C176F29=~z~It's not that complicated when you think about it. You see your mother here has been making that classic American mistake.
-0x0C176F29=~z~It's not that complicated when you think about it. You see your mother here has been making that classic American mistake.
+0x0C176F29=~z~你自己思考下就没那么复杂了。你看，你妈犯了美国人最典型的错误。
 
 ;0x0C6DF602=~z~Step up or step out, motherfucker. We need competitors here.
-0x0C6DF602=~z~Step up or step out, motherfucker. We need competitors here.
+0x0C6DF602=~z~要不站起来，要不滚出去，操你妈的。我们这里要的是竞争者。
 
 ;0x0CA2EB45=~z~I'm being very polite. See, I like her. She's a good woman.
-0x0CA2EB45=~z~I'm being very polite. See, I like her. She's a good woman.
+0x0CA2EB45=~z~我已经很客气了。你看，我喜欢她。她是个好女人。
 
 ;0x0CB21AAB=E2MUM1_ABA
 0x0CB21AAB=E2MUM1_ABA
@@ -51,10 +51,10 @@
 0x0E391E33=100
 
 ;0x0EBD8B84=~z~What if I don't want to take a fall?
-0x0EBD8B84=~z~What if I don't want to take a fall?
+0x0EBD8B84=~z~要是我不想输的话会怎么办？
 
 ;0x10F37272=~z~Yes, bit rich coming from you.
-0x10F37272=~z~Yes, bit rich coming from you.
+0x10F37272=~z~好，财源滚滚来哈。
 
 ;0x110CFE38=E2MUM1_YC
 0x110CFE38=E2MUM1_YC
@@ -63,25 +63,25 @@
 0x1375BEAA=100090010090010
 
 ;0x1511EBD6=~z~Shit.
-0x1511EBD6=~z~Shit.
+0x1511EBD6=~z~操。
 
 ;0x154E91A6=~z~Get your bets down.
-0x154E91A6=~z~Get your bets down.
+0x154E91A6=~z~来下注吧。
 
 ;0x1606099B=~z~You shoulda stayed quit, little bitch.
-0x1606099B=~z~You shoulda stayed quit, little bitch.
+0x1606099B=~z~你应该滚的，小臭逼。
 
 ;0x16422B6A=~z~I took a dive in that fight for you, Mami. You don't owe that guy any more money.
-0x16422B6A=~z~I took a dive in that fight for you, Mami. You don't owe that guy any more money.
+0x16422B6A=~z~为了你，我比赛认输了，妈咪。你再也不欠那人的钱了。
 
 ;0x16E5A6CC=~z~Sorry bro, but I don't do that no more.
-0x16E5A6CC=~z~Sorry bro, but I don't do that no more.
+0x16E5A6CC=~z~不好意思兄弟，我不干这个了。
 
 ;0x16FCABD7=E2MUM1_ZE2
 0x16FCABD7=E2MUM1_ZE2
 
 ;0x176100C1=~z~If I didn't like her, I would have have burnt this building down by now.
-0x176100C1=~z~If I didn't like her, I would have have burnt this building down by now.
+0x176100C1=~z~要是我不喜欢她的话，我现在就一把火把这房子烧了。
 
 ;0x17FDFFF8=E2MUM1_TB
 0x17FDFFF8=E2MUM1_TB
@@ -96,16 +96,16 @@
 0x1BD0097C=E2MUM1_IA
 
 ;0x1D04DF2B=~z~Just like you must spend time round retirement communities and churches trying to scam old ladies.
-0x1D04DF2B=~z~Just like you must spend time round retirement communities and churches trying to scam old ladies.
+0x1D04DF2B=~z~就像你在老年社区和教堂附近花心思试着忽悠老太婆一样。
 
 ;0x1E1A92F7=~z~Luis, this is Mr Santo.
-0x1E1A92F7=~z~Luis, this is Mr Santo.
+0x1E1A92F7=~z~Luis，这位是Santo先生。
 
 ;0x1F8997C7=E2MUM1_LA
 0x1F8997C7=E2MUM1_LA
 
 ;0x206E0621=~z~Moving on to the next round.
-0x206E0621=~z~Moving on to the next round.
+0x206E0621=~z~进入下一回合。
 
 ;0x20FD5D89=302
 0x20FD5D89=302
@@ -114,28 +114,28 @@
 0x219C6423=E2MUM1_VA
 
 ;0x229D15C5=~z~Luis, be careful.
-0x229D15C5=~z~Luis, be careful.
+0x229D15C5=~z~Luis，小心点啊。
 
 ;0x231EAED8=~z~He's done it, people. Luis Lopez - champion.
-0x231EAED8=~z~He's done it, people. Luis Lopez - champion.
+0x231EAED8=~z~大伙们。他做到了。Luis Lopez——胜利者。
 
 ;0x23DEB674=~z~You fucking pussy.
-0x23DEB674=~z~You fucking pussy.
+0x23DEB674=~z~你他妈个娘炮。
 
 ;0x241BCEF8=100090010090100090100010100100010090010
 0x241BCEF8=100090010090100090100010100100010090010
 
 ;0x27C3AD16=~z~I'm gonna take my sweet time kicking the shit outta you.
-0x27C3AD16=~z~I'm gonna take my sweet time kicking the shit outta you.
+0x27C3AD16=~z~揍你我很开心啊。
 
 ;0x281A5FD9=~z~If I see you again I'll kill you, bro. I'm out.
-0x281A5FD9=~z~If I see you again I'll kill you, bro. I'm out.
+0x281A5FD9=~z~要是我再看见你的话，我杀了你，兄弟。我走了。
 
 ;0x2835A26A=~z~Oh, I'm really scared of you, motherfucker. Huh? How do you sleep at night, man, loan sharking to old women?
-0x2835A26A=~z~Oh, I'm really scared of you, motherfucker. Huh? How do you sleep at night, man, loan sharking to old women?
+0x2835A26A=~z~哦，我好怕怕啊，操你妈的。你找个老太婆放高利贷，晚上能睡得安心？
 
 ;0x28CD8D15=~z~I guess I must be.
-0x28CD8D15=~z~I guess I must be.
+0x28CD8D15=~z~我猜我肯定是这样的。
 
 ;0x2DB68C12=102
 0x2DB68C12=102
@@ -144,7 +144,7 @@
 0x2ED6F5F9=E2MUM1_UA
 
 ;0x2F3BA3BC=~z~He's through to the next.
-0x2F3BA3BC=~z~He's through to the next.
+0x2F3BA3BC=~z~他晋级下一回合了。
 
 ;0x3023FEB6=E2MUM1_VB
 0x3023FEB6=E2MUM1_VB
@@ -156,10 +156,10 @@
 0x316B246A=E2MUM1_IE2
 
 ;0x319551E1=~z~That bitch is gonna burn.
-0x319551E1=~z~That bitch is gonna burn.
+0x319551E1=~z~你那婊子妈要被烧了。
 
 ;0x31A65E00=~z~Is he now? I'm fighting too, Lopez. We might get that show down after all.
-0x31A65E00=~z~Is he now? I'm fighting too, Lopez. We might get that show down after all.
+0x31A65E00=~z~现在是他？我也在战斗啊，Lopez。也许在这之后我们就可以拉下帷幕了。
 
 ;0x3242A2E5=SFX_PAUSE_410
 0x3242A2E5=SFX_PAUSE_410
@@ -168,13 +168,13 @@
 0x338F7B6E=E2MUM1_UF
 
 ;0x33B73347=~z~I been taking care of things for you, ma. That guy ain't coming around no more. Don't worry about it.
-0x33B73347=~z~I been taking care of things for you, ma. That guy ain't coming around no more. Don't worry about it.
+0x33B73347=~z~我帮你安排好了，妈。那人不会再来了，别担心这个了。
 
 ;0x3469ADB2=E2MUM1_ZE1
 0x3469ADB2=E2MUM1_ZE1
 
 ;0x347FF8A4=~z~I think you must a lost some brain cells in that fight.
-0x347FF8A4=~z~I think you must a lost some brain cells in that fight.
+0x347FF8A4=~z~我想你肯定是刚刚打架把脑子打坏了。
 
 ;0x3496EDAE=010090100
 0x3496EDAE=010090100
@@ -186,64 +186,64 @@
 0x36F42ACD=SFX_PAUSE_240
 
 ;0x387ACAE3=~z~I hardly touched him?
-0x387ACAE3=~z~I hardly touched him?
+0x387ACAE3=~z~我几乎伤不到他？
 
 ;0x3987D09E=~z~I been waiting three years for this.
-0x3987D09E=~z~I been waiting three years for this.
+0x3987D09E=~z~为了这，我等了三年。
 
 ;0x3B4B6F97=~z~You gonna start fighting for money again.
-0x3B4B6F97=~z~You gonna start fighting for money again.
+0x3B4B6F97=~z~为了钱，你又得开始打架了。
 
 ;0x3C81AB1D=~z~Yeah. She's got two other kids to keep her happy, but I'm the one who's gonna fuck you up if you go near her.
-0x3C81AB1D=~z~Yeah. She's got two other kids to keep her happy, but I'm the one who's gonna fuck you up if you go near her.
+0x3C81AB1D=~z~是啊。他还有另外两个孩子哄她开心，但要是你靠近她的话，我是那个会来干翻你的人。
 
 ;0x400079D1=E2MUM1_AGA
 0x400079D1=E2MUM1_AGA
 
 ;0x4025FAFF=~z~You know our boy's come out of retirement? He's fighting today.
-0x4025FAFF=~z~You know our boy's come out of retirement? He's fighting today.
+0x4025FAFF=~z~你知道咱的孩子又返聘回来了吗？他今天要打场架。
 
 ;0x411C81CC=E2MUM1_UD
 0x411C81CC=E2MUM1_UD
 
 ;0x42F9E3EA=~z~You're even more of a pussy than I remember.
-0x42F9E3EA=~z~You're even more of a pussy than I remember.
+0x42F9E3EA=~z~你比我我印象中的还要娘炮。
 
 ;0x46D37D2B=100090010100090100090010090100010
 0x46D37D2B=100090010100090100090010090100010
 
 ;0x47035D55=~z~Stick with me, kid, or mama's gonna get screwed, comprende?
-0x47035D55=~z~Stick with me, kid, or mama's gonna get screwed, comprende?
+0x47035D55=~z~跟着我啊，小子，不然你妈就完了，明白？
 
 ;0x474C7D4F=~z~You lost me a whole lot of money.
-0x474C7D4F=~z~You lost me a whole lot of money.
+0x474C7D4F=~z~你搞得我损失惨重啊。
 
 ;0x482ACBCF=~z~What the fuck?
-0x482ACBCF=~z~What the fuck?
+0x482ACBCF=~z~什么鬼？
 
 ;0x496037E1=~z~LC Cage Fighters. Shit, bro. I spent some time in this place.
-0x496037E1=~z~LC Cage Fighters. Shit, bro. I spent some time in this place.
+0x496037E1=~z~自由城笼中格斗。操，兄弟。我在这地方花了点心思，
 
 ;0x4A342410=~z~I was there for your momma when you weren't.
-0x4A342410=~z~I was there for your momma when you weren't.
+0x4A342410=~z~你不在的时候可是我和你妈在一起。
 
 ;0x4A68E0AA=~z~My boy. What have you been doing?
-0x4A68E0AA=~z~My boy. What have you been doing?
+0x4A68E0AA=~z~我的孩子，你都干了些啥？
 
 ;0x4A92B7CF=~z~Don't act the big shot with me because I know who you are.
-0x4A92B7CF=~z~Don't act the big shot with me because I know who you are.
+0x4A92B7CF=~z~别在我面前充大牌，因为我知道你是谁。
 
 ;0x4B0432D4=~z~Let's walk and talk.
-0x4B0432D4=~z~Let's walk and talk.
+0x4B0432D4=~z~咱们边走边说。
 
 ;0x4BA6DC8E=~z~See if you can handle these guys.
-0x4BA6DC8E=~z~See if you can handle these guys.
+0x4BA6DC8E=~z~看看你还能不能对付得了这帮人。
 
 ;0x4BBA7503=~z~You ain't gonna be so pretty after this.
-0x4BBA7503=~z~You ain't gonna be so pretty after this.
+0x4BBA7503=~z~从此以后你就没那么风光了。
 
 ;0x4BC9DCD8=~z~Next round. Ding. Ding.
-0x4BC9DCD8=~z~Next round. Ding. Ding.
+0x4BC9DCD8=~z~下一回合，叮叮。
 
 ;0x4C511357=E2MUM1_ZF
 0x4C511357=E2MUM1_ZF
@@ -258,13 +258,13 @@
 0x51C3C095=SFX_PAUSE_360
 
 ;0x51E00B76=~z~Thank you for your help, hijo. I knew I should have called one of your brothers.
-0x51E00B76=~z~Thank you for your help, hijo. I knew I should have called one of your brothers.
+0x51E00B76=~z~儿子，谢谢你帮忙嘞。我早知道的话就打电话给你其他兄弟了。
 
 ;0x523CFB3F=~z~Yeah, I guess she doesn't have any up.
-0x523CFB3F=~z~Yeah, I guess she doesn't have any up.
+0x523CFB3F=~z~是啊，我猜她是没有挂。
 
 ;0x54CC184A=~z~What you so proud for?
-0x54CC184A=~z~What you so proud for?
+0x54CC184A=~z~你骄傲啥呢？
 
 ;0x55537B72=E2MUM1_IC
 0x55537B72=E2MUM1_IC
@@ -273,70 +273,70 @@
 0x5642FF81=SFX_PAUSE_340
 
 ;0x56ECFFD8=~z~Hey. She called me, okay? It's business. We run a service. She knew the rules. She should have read the small print.
-0x56ECFFD8=~z~Hey. She called me, okay? It's business. We run a service. She knew the rules. She should have read the small print.
+0x56ECFFD8=~z~嘿，是他找我的，好吗？这是做生意，我们提供服务。她知道规矩的，她应该好好研究一下。
 
 ;0x57036980=~z~You're a fucking dead man. I'm gonna burn that bitch mom of yours, too.
-0x57036980=~z~You're a fucking dead man. I'm gonna burn that bitch mom of yours, too.
+0x57036980=~z~你他妈真是个死妈玩意。我要把你那婊子妈烧了。
 
 ;0x58ED83CB=~z~Not so well, Ma. But you don't have to worry about that debt anymore.
-0x58ED83CB=~z~Not so well, Ma. But you don't have to worry about that debt anymore.
+0x58ED83CB=~z~不太妙，妈。但是你再也不用担心欠的钱了。
 
 ;0x58EEC185=~z~You listen to me.
-0x58EEC185=~z~You listen to me.
+0x58EEC185=~z~你听我说。
 
 ;0x5946094D=~z~Mami, soy yo!
-0x5946094D=~z~Mami, soy yo!
+0x5946094D=~z~妈咪，是我！
 
 ;0x59907865=~z~We through to the next round.
-0x59907865=~z~We through to the next round.
+0x59907865=~z~咱进入了下一回合。
 
 ;0x59BFB264=~z~I lost the fight for you, Mami.
-0x59BFB264=~z~I lost the fight for you, Mami.
+0x59BFB264=~z~我是为你输的，妈咪。
 
 ;0x5DAA5820=~z~No need for transport. We going somewhere close.
-0x5DAA5820=~z~No need for transport. We going somewhere close.
+0x5DAA5820=~z~不用开车，我们就去附近的地方。
 
 ;0x5F1FAC61=~z~Come on, Luis.
-0x5F1FAC61=~z~Come on, Luis.
+0x5F1FAC61=~z~加油，Luis。
 
 ;0x5FC47BBD=E2MUM1_KA
 0x5FC47BBD=E2MUM1_KA
 
 ;0x60FE113E=~z~Where you going?
-0x60FE113E=~z~Where you going?
+0x60FE113E=~z~你上哪呢？
 
 ;0x62CAB39B=302
 0x62CAB39B=302
 
 ;0x638A990F=~z~Yeah, I wouldn't borrow it off a piece of shit like this.
-0x638A990F=~z~Yeah, I wouldn't borrow it off a piece of shit like this.
+0x638A990F=~z~那我也不会找这样的废物借钱。
 
 ;0x6452FBF8=E2MUM1_AJA
 0x6452FBF8=E2MUM1_AJA
 
 ;0x64BBB829=~z~Think about what's happening to your moms.
-0x64BBB829=~z~Think about what's happening to your moms.
+0x64BBB829=~z~想想你妈身上会发生啥吧。
 
 ;0x6501ECAD=~z~Mami, you don't know me! The most important people in the world come to our clubs, and I look after them.
-0x6501ECAD=~z~Mami, you don't know me! The most important people in the world come to our clubs, and I look after them.
+0x6501ECAD=~z~妈咪，你不懂我！世界上最重要的人来咱的俱乐部，我招待他们。
 
 ;0x66CA34E2=~z~Mami, hey. I need you to be careful, okay? I left that guy and he might be kind of angry. Can you look out for him?
-0x66CA34E2=~z~Mami, hey. I need you to be careful, okay? I left that guy and he might be kind of angry. Can you look out for him?
+0x66CA34E2=~z~妈咪，嘿。我要你当心点，好吗？我抛下他跑了，他可能有点生气。你能小心点他吗？
 
 ;0x674F9F29=~z~I'm a businessman, and trust me, it could get a lot worse, my friend. Now, calm the fuck down.
-0x674F9F29=~z~I'm a businessman, and trust me, it could get a lot worse, my friend. Now, calm the fuck down.
+0x674F9F29=~z~我是生意人，相信我吧。本来事情会糟很多，我的朋友。现在你他妈冷静点。
 
 ;0x682B9044=~z~Sorry, mami, I couldn't. Maybe you should call one of your other kids and see if they could help.
-0x682B9044=~z~Sorry, mami, I couldn't. Maybe you should call one of your other kids and see if they could help.
+0x682B9044=~z~对不起妈咪，我不行。也许你得找你其他的孩子看看能不能帮你了。
 
 ;0x6A16BCC3=~z~Luis Fernando Lopez - undefeated champion!
-0x6A16BCC3=~z~Luis Fernando Lopez - undefeated champion!
+0x6A16BCC3=~z~Luis Fernando Lopez——不败的冠军！
 
 ;0x6A4EC34F=~z~You think you some tough guy now.
-0x6A4EC34F=~z~You think you some tough guy now.
+0x6A4EC34F=~z~你现在觉得自己很牛是吧。
 
 ;0x6A853C1A=~z~Who gonna put some money on this shit?
-0x6A853C1A=~z~Who gonna put some money on this shit?
+0x6A853C1A=~z~谁要在这垃圾身上投钱的？
 
 ;0x6BB7FF7D=E2MUM1_VH
 0x6BB7FF7D=E2MUM1_VH
@@ -351,7 +351,7 @@
 0x705F2D59=SFX_PAUSE_250
 
 ;0x71765BF0=~z~ My thinking is you were bad enough for no one to notice when you take a dive.
-0x71765BF0=~z~ My thinking is you were bad enough for no one to notice when you take a dive.
+0x71765BF0=~z~ 我想的是如果你被打得够惨的话，你认输也不会有人注意的。
 
 ;0x71A37D39=E2MUM1_UC
 0x71A37D39=E2MUM1_UC
@@ -360,19 +360,19 @@
 0x72346F5F=292
 
 ;0x724CB693=~z~Hey, be careful, kid. I could have you killed.
-0x724CB693=~z~Hey, be careful, kid. I could have you killed.
+0x724CB693=~z~嘿，当心点，小子，我会把你杀了的。
 
 ;0x7337B5B1=~z~Don't run off now.
-0x7337B5B1=~z~Don't run off now.
+0x7337B5B1=~z~别现在就跑了啊。
 
 ;0x745DD151=~z~We got a champion!
-0x745DD151=~z~We got a champion!
+0x745DD151=~z~冠军胜出了！
 
 ;0x759E44DF=200200100100200
 0x759E44DF=200200100100200
 
 ;0x768ED4D3=~z~Stupid of me to depend on the hoodlum of the family.
-0x768ED4D3=~z~Stupid of me to depend on the hoodlum of the family.
+0x768ED4D3=~z~我真傻，竟然想着靠一个坏蛋来家里帮忙。
 
 ;0x76953CE1=E2MUM1_IB
 0x76953CE1=E2MUM1_IB
@@ -381,37 +381,37 @@
 0x77CC418B=E2MUM1_LB
 
 ;0x789B3D12=~z~Like some baseball player? Like some gangster?
-0x789B3D12=~z~Like some baseball player? Like some gangster?
+0x789B3D12=~z~像个棒球运动员一样？还是像个黑帮似的？
 
 ;0x78CEC126=SFX_PAUSE_310
 0x78CEC126=SFX_PAUSE_310
 
 ;0x78EED8ED=~z~Come on. It ain't fun unless you bet on this shit.
-0x78EED8ED=~z~Come on. It ain't fun unless you bet on this shit.
+0x78EED8ED=~z~来咯，不下注的话就没意思了。
 
 ;0x791EFEFE=102
 0x791EFEFE=102
 
 ;0x7ABB013D=~z~Think about your momma.
-0x7ABB013D=~z~Think about your momma.
+0x7ABB013D=~z~想想你老妈吧。
 
 ;0x7BAC657A=~z~Don't let him hit you in that pretty face.
-0x7BAC657A=~z~Don't let him hit you in that pretty face.
+0x7BAC657A=~z~别让他打到你的漂亮脸蛋。
 
 ;0x7BB01576=E2MUM1_UE
 0x7BB01576=E2MUM1_UE
 
 ;0x7C1D4EFB=~z~What's going on?
-0x7C1D4EFB=~z~What's going on?
+0x7C1D4EFB=~z~咋的了？
 
 ;0x7CD5E489=E2MUM1_RC
 0x7CD5E489=E2MUM1_RC
 
 ;0x7CED78BF=~z~You claim to be some big shot and you can't even win a fight for your momma.
-0x7CED78BF=~z~You claim to be some big shot and you can't even win a fight for your momma.
+0x7CED78BF=~z~你说你是什么大牌，但你甚至都不能为你妈赢一场比赛。
 
 ;0x7D60CB4B=~z~You know you really are a piece of shit.
-0x7D60CB4B=~z~You know you really are a piece of shit.
+0x7D60CB4B=~z~你知道你是真的混蛋吗。
 
 ;0x7D85F275=SFX_PAUSE_320
 0x7D85F275=SFX_PAUSE_320
@@ -420,25 +420,25 @@
 0x82CE59DC=E2MUM1_AIA
 
 ;0x82FEF409=~z~Listen, man. You bitched out of a promising career to run around with a rich fag. Don't get too proud now.
-0x82FEF409=~z~Listen, man. You bitched out of a promising career to run around with a rich fag. Don't get too proud now.
+0x82FEF409=~z~听着，哥们。你放弃了个有前途的职业，去跟个有钱的基佬一起混。现在别太横了。
 
 ;0x83001CCE=~z~You're up, kid.
-0x83001CCE=~z~You're up, kid.
+0x83001CCE=~z~到你上了，小子。
 
 ;0x832BFF5B=~z~You ain't quittin' no more.
-0x832BFF5B=~z~You ain't quittin' no more.
+0x832BFF5B=~z~你就没退出过。
 
 ;0x83D35F39=SFX_PAUSE_260
 0x83D35F39=SFX_PAUSE_260
 
 ;0x855BAD60=~z~ I am something, and I look after you. I'll see you soon, okay? Bye.
-0x855BAD60=~z~ I am something, and I look after you. I'll see you soon, okay? Bye.
+0x855BAD60=~z~我是有点东西的，我也招待着你呢。我晚点找你，好吗？再见了。
 
 ;0x8665DEBB=~z~Dios. Please don't tell me you did anything evil. What have I brought into this world?
-0x8665DEBB=~z~Dios. Please don't tell me you did anything evil. What have I brought into this world?
+0x8665DEBB=~z~天哪，别告诉我你又干了啥坏事。我给这世界带来了什么？
 
 ;0x86DEF4CD=~z~Place your bets. Place your bets.
-0x86DEF4CD=~z~Place your bets. Place your bets.
+0x86DEF4CD=~z~下注了，下注了。
 
 ;0x8965D488=200200120200
 0x8965D488=200200120200
@@ -447,13 +447,13 @@
 0x8B0BC9E7=E2MUM1_YF
 
 ;0x8B3D739B=~z~You could be a contendor. Get in the pit or step aside.
-0x8B3D739B=~z~You could be a contendor. Get in the pit or step aside.
+0x8B3D739B=~z~你比不比嘛。要不到下面去，要不滚一边去。
 
 ;0x8CF4A5B0=~z~Don't overexert yourself there!
-0x8CF4A5B0=~z~Don't overexert yourself there!
+0x8CF4A5B0=~z~这回别用力过猛了！
 
 ;0x8DC0756D=~z~What the fuck?
-0x8DC0756D=~z~What the fuck?
+0x8DC0756D=~z~什么鬼？
 
 ;0x8F0B902F=100090010
 0x8F0B902F=100090010
@@ -462,13 +462,13 @@
 0x8F3343A2=E2MUM1_AFA
 
 ;0x8F695EBF=~z~They the ones who made a success of their lives. Bye.
-0x8F695EBF=~z~They the ones who made a success of their lives. Bye.
+0x8F695EBF=~z~他们才是成功人士。再见了。
 
 ;0x8F7F5560=100090010090100090100
 0x8F7F5560=100090010090100090100
 
 ;0x903DF26A=~z~Fuck, bro.
-0x903DF26A=~z~Fuck, bro.
+0x903DF26A=~z~操，兄弟。
 
 ;0x90C96471=SFX_PAUSE_250
 0x90C96471=SFX_PAUSE_250
@@ -480,22 +480,22 @@
 0x9402EE91=E2MUM1_SA
 
 ;0x949E82E1=~z~Time for your fighter to shine, Santo. Get him changed and ringside.
-0x949E82E1=~z~Time for your fighter to shine, Santo. Get him changed and ringside.
+0x949E82E1=~z~到你的拳手上场了，Santo。叫他换下衣服，到场边去。
 
 ;0x95057BFA=~z~Luis. How are you and Mr. Santo getting on?
-0x95057BFA=~z~Luis. How are you and Mr. Santo getting on?
+0x95057BFA=~z~Luis，你和Santo先生咋样了？
 
 ;0x95AC1FC5=E2MUM1_OA
 0x95AC1FC5=E2MUM1_OA
 
 ;0x962C1A81=~z~Drive up them odds, Lopez.
-0x962C1A81=~z~Drive up them odds, Lopez.
+0x962C1A81=~z~提高点他们的胜算，Lopez。
 
 ;0x96D3CD1D=SFX_PAUSE_300
 0x96D3CD1D=SFX_PAUSE_300
 
 ;0x97687AAC=~z~What kind of attitude is that to give your momma? Do you think you're something special?
-0x97687AAC=~z~What kind of attitude is that to give your momma? Do you think you're something special?
+0x97687AAC=~z~你对你妈啥态度呢？你以为自己有啥特别的？
 
 ;0x98BBAB12=E2MUM1_WA
 0x98BBAB12=E2MUM1_WA
@@ -504,16 +504,16 @@
 0x99499C07=010090010
 
 ;0x99B44BAE=~z~I didn't ask you to lose no fight. I did not ask for losers in my family.
-0x99B44BAE=~z~I didn't ask you to lose no fight. I did not ask for losers in my family.
+0x99B44BAE=~z~又不是我要求你输的。失败者在我家里不受待见。
 
 ;0x9C3E0457=~z~You organize parties, Luis. You're a bouncer?
-0x9C3E0457=~z~You organize parties, Luis. You're a bouncer?
+0x9C3E0457=~z~你是开了个夜总会，Luis。那你不也就是个保安？
 
 ;0x9DC93B9E=~z~Shit, bro. I sure didn't think I'd be coming back here again.
-0x9DC93B9E=~z~Shit, bro. I sure didn't think I'd be coming back here again.
+0x9DC93B9E=~z~操，兄弟。我打死也不相信我会又回这来。
 
 ;0x9DFC0DE2=~z~You beat the first two guys I set you up with, then you fall on the third.
-0x9DFC0DE2=~z~You beat the first two guys I set you up with, then you fall on the third.
+0x9DFC0DE2=~z~你把我派去的前两个人打败，第三个人上来的时候认输就行。
 
 ;0x9F09EB50=SFX_PAUSE_320
 0x9F09EB50=SFX_PAUSE_320
@@ -522,7 +522,7 @@
 0xA244663E=SFX_PAUSE_320
 
 ;0xA29B80B3=~z~This little game's over for you.
-0xA29B80B3=~z~This little game's over for you.
+0xA29B80B3=~z~你的小把戏结束了。
 
 ;0xA2DC9BDC=E2MUM1_AIB
 0xA2DC9BDC=E2MUM1_AIB
@@ -531,31 +531,31 @@
 0xA3181813=E2MUM1_SB
 
 ;0xA472370D=~z~ He ain't so tough.
-0xA472370D=~z~ He ain't so tough.
+0xA472370D=~z~ 他没那么难对付。
 
 ;0xA57C249C=~z~Santo, get your fighter dressed and in the pit. He's up.
-0xA57C249C=~z~Santo, get your fighter dressed and in the pit. He's up.
+0xA57C249C=~z~Santo，叫你的拳手穿好衣服了就下来，他上场了。
 
 ;0xA863BEE8=~z~Watch that mug of yours.
-0xA863BEE8=~z~Watch that mug of yours.
+0xA863BEE8=~z~看着点你要对付的傻逼。
 
 ;0xA903AF2F=~z~We need bodies. You gonna volunteer.
-0xA903AF2F=~z~We need bodies. You gonna volunteer.
+0xA903AF2F=~z~我们要人手，你是志愿来的。
 
 ;0xA92CA13F=SFX_PAUSE_350
 0xA92CA13F=SFX_PAUSE_350
 
 ;0xA9915EE9=~z~I'm betting against you here, Lopez.
-0xA9915EE9=~z~I'm betting against you here, Lopez.
+0xA9915EE9=~z~我赌你输了的，Lopez。
 
 ;0xAC49291B=~z~Okay, let's go. As always, nice to see you, Ms. Lopez.
-0xAC49291B=~z~Okay, let's go. As always, nice to see you, Ms. Lopez.
+0xAC49291B=~z~好吧，咱们走。不管怎么说，很高兴见到你，Lopez夫人。
 
 ;0xADCEB299=~z~Well, it's complicated. Mr. Santo is a businessman...
-0xADCEB299=~z~Well, it's complicated. Mr. Santo is a businessman...
+0xADCEB299=~z~呃，说来话长，Santo先生是个生意人……
 
 ;0xAF0F29F9=~z~Mami, I didn't imply anything like that.
-0xAF0F29F9=~z~Mami, I didn't imply anything like that.
+0xAF0F29F9=~z~妈咪，我没那意思。
 
 ;0xAF297D2E=E2MUM1_ADA
 0xAF297D2E=E2MUM1_ADA
@@ -564,10 +564,10 @@
 0xB1A3B591=E2MUM1_TC
 
 ;0xB1B5C0B5=~z~What if I get used to winning?
-0xB1B5C0B5=~z~What if I get used to winning?
+0xB1B5C0B5=~z~要是我习惯取胜的话咋办呢？
 
 ;0xB1ECC101=~z~You in or out?
-0xB1ECC101=~z~You in or out?
+0xB1ECC101=~z~你来不来吧。
 
 ;0xB3EF5DD0=E2MUM1_UG
 0xB3EF5DD0=E2MUM1_UG
@@ -582,16 +582,16 @@
 0xB4A813EC=SFX_PAUSE_170
 
 ;0xB53125DE=~z~I don't think you are, tough guy.
-0xB53125DE=~z~I don't think you are, tough guy.
+0xB53125DE=~z~我不这么认为，你个大老粗。
 
 ;0xB5FD5A1B=~z~Don't lose this one, you bitch.
-0xB5FD5A1B=~z~Don't lose this one, you bitch.
+0xB5FD5A1B=~z~这把别输了，你个臭逼。
 
 ;0xB695B101=E2MUM1_ID
 0xB695B101=E2MUM1_ID
 
 ;0xB69A3F31=~z~In other words, she's been living beyond her means.
-0xB69A3F31=~z~In other words, she's been living beyond her means.
+0xB69A3F31=~z~这么说吧，她一直在过着入不敷出的生活。
 
 ;0xB6F13ECE=E2MUM1_JB
 0xB6F13ECE=E2MUM1_JB
@@ -600,28 +600,28 @@
 0xB913BE58=E2MUM1_RA
 
 ;0xB9C5F273=~z~Hijo.
-0xB9C5F273=~z~Hijo.
+0xB9C5F273=~z~儿子。
 
 ;0xBA5B365A=~z~Good news. I bought you out of retirement. You're a fighter now.
-0xBA5B365A=~z~Good news. I bought you out of retirement. You're a fighter now.
+0xBA5B365A=~z~好消息，你被我返聘回来了，现在你是个拳击手了。
 
 ;0xBACB8E4F=~z~If it isn't Luis Lopez. I thought you got tired of getting your ass kicked.
-0xBACB8E4F=~z~If it isn't Luis Lopez. I thought you got tired of getting your ass kicked.
+0xBACB8E4F=~z~要不是Luis Lopez的话，我觉得你会厌倦打架了的。
 
 ;0xBD7917B7=SFX_PAUSE_420
 0xBD7917B7=SFX_PAUSE_420
 
 ;0xBE37CCF8=~z~Yeah, okay.
-0xBE37CCF8=~z~Yeah, okay.
+0xBE37CCF8=~z~好，行吧。
 
 ;0xBFBA729D=100090010100100090010
 0xBFBA729D=100090010100100090010
 
 ;0xC0126733=~z~The odds are good. Place your bets.
-0xC0126733=~z~The odds are good. Place your bets.
+0xC0126733=~z~机会不错，来下注吧。
 
 ;0xC05FEEE8=~z~Your momma would want you to win.
-0xC05FEEE8=~z~Your momma would want you to win.
+0xC05FEEE8=~z~你妈妈等你赢呢。
 
 ;0xC1C4A5A9=E2MUM1_VF2
 0xC1C4A5A9=E2MUM1_VF2
@@ -636,16 +636,16 @@
 0xC474F4BB=102
 
 ;0xC4BB7797=~z~Fuck him up!
-0xC4BB7797=~z~Fuck him up!
+0xC4BB7797=~z~干翻他！
 
 ;0xC4CBDB94=~z~Hey bro, be polite when you talk about my mother, man.
-0xC4CBDB94=~z~Hey bro, be polite when you talk about my mother, man.
+0xC4CBDB94=~z~嘿兄弟，你提到我妈的时候放客气点。
 
 ;0xC59DA3F3=~z~Until you pussied out of that bout, you did.
-0xC59DA3F3=~z~Until you pussied out of that bout, you did.
+0xC59DA3F3=~z~直到你退出这场比赛，你做到了。
 
 ;0xC646872E=~z~Been some time. I thought I musta scared you right out the city.
-0xC646872E=~z~Been some time. I thought I musta scared you right out the city.
+0xC646872E=~z~有那么一段时间，我以为我肯定是把你吓跑出这城市了。
 
 ;0xC706710B=E2MUM1_MA
 0xC706710B=E2MUM1_MA
@@ -654,7 +654,7 @@
 0xC748C14C=010090010
 
 ;0xC7EDE064=~z~Maybe you can help me pay off your mother's debt, that way this building doesn't have to come to an unfortunate end.
-0xC7EDE064=~z~Maybe you can help me pay off your mother's debt, that way this building doesn't have to come to an unfortunate end.
+0xC7EDE064=~z~也许你可以帮我还上你妈欠的债，那样的话这房子就不会以悲剧收场了。
 
 ;0xC88145AF=SFX_PAUSE_210
 0xC88145AF=SFX_PAUSE_210
@@ -663,13 +663,13 @@
 0xCB0AB656=SFX_PAUSE_330
 
 ;0xCB607E0D=~z~Luis. Where are you? What happened?
-0xCB607E0D=~z~Luis. Where are you? What happened?
+0xCB607E0D=~z~Luis，你搁哪呢，发生啥了？
 
 ;0xCC001D2A=100
 0xCC001D2A=100
 
 ;0xCC9FF68D=~z~Then your momma better get used to me coming around and not being my usual friendly self.
-0xCC9FF68D=~z~Then your momma better get used to me coming around and not being my usual friendly self.
+0xCC9FF68D=~z~那你老妈最好习惯我天天绕着她转，不做平常朋友了。
 
 ;0xCCCB7B2E=E2MUM1_KB
 0xCCCB7B2E=E2MUM1_KB
@@ -681,7 +681,7 @@
 0xCDDFE36A=E2MUM1_SC
 
 ;0xCFBC791C=~z~Santo, your guy's up. Get him dressed and in the ring.
-0xCFBC791C=~z~Santo, your guy's up. Get him dressed and in the ring.
+0xCFBC791C=~z~Santo，到你的人上了。换好衣服了就到场边来。
 
 ;0xD09ECAD5=E2MUM1_VF1
 0xD09ECAD5=E2MUM1_VF1
@@ -690,7 +690,7 @@
 0xD1D5C36E=E2MUM1_AEA
 
 ;0xD2B6200D=~z~Oh shit! You got some friends here, kid.
-0xD2B6200D=~z~Oh shit! You got some friends here, kid.
+0xD2B6200D=~z~噢糟了！你有伴了，小子。
 
 ;0xD2E30345=E2MUM1_YA
 0xD2E30345=E2MUM1_YA
@@ -699,16 +699,16 @@
 0xD456C9ED=E2MUM1_VG
 
 ;0xD4C0E96D=~z~Hijo. Did you manage to fix that small upset for me?
-0xD4C0E96D=~z~Hijo. Did you manage to fix that small upset for me?
+0xD4C0E96D=~z~儿子，你想好帮我解决那点小麻烦了吗？
 
 ;0xD6DFEF63=~z~That mean I get the opportunity to kick your ass?
-0xD6DFEF63=~z~That mean I get the opportunity to kick your ass?
+0xD6DFEF63=~z~意思是我有机会给你屁股来一脚？
 
 ;0xD7397FBA=302
 0xD7397FBA=302
 
 ;0xD75E4774=~z~Good news for you, he ain't done no more. I'm his new manager, he's fighting today.
-0xD75E4774=~z~Good news for you, he ain't done no more. I'm his new manager, he's fighting today.
+0xD75E4774=~z~有个好消息给你，他还没退休呢。我是他的新上司，他今天要打场架。
 
 ;0xD7DAF520=SFX_PAUSE_280
 0xD7DAF520=SFX_PAUSE_280
@@ -717,16 +717,16 @@
 0xDA701655=302
 
 ;0xDD04C9AF=~z~Just stay the fuck away from her, okay? You got your money. We done.
-0xDD04C9AF=~z~Just stay the fuck away from her, okay? You got your money. We done.
+0xDD04C9AF=~z~你他妈离她远点吧，好吗？你钱到手了，那咱就没啥事了。
 
 ;0xDD57C92D=100090010100
 0xDD57C92D=100090010100
 
 ;0xDE9648F6=~z~Take it like a man.
-0xDE9648F6=~z~Take it like a man.
+0xDE9648F6=~z~像个爷们一样干掉他。
 
 ;0xDEAE9A84=~z~Pay or play, bitch.
-0xDEAE9A84=~z~Pay or play, bitch.
+0xDEAE9A84=~z~打钱还是打拳，你个臭逼。
 
 ;0xDF86A1A0=102
 0xDF86A1A0=102
@@ -738,13 +738,13 @@
 0xE1735DB7=E2MUM1_UB
 
 ;0xE2969C28=~z~Hey, I guess I didn't recognize you from your mom not having any pictures of you up on the walls.
-0xE2969C28=~z~Hey, I guess I didn't recognize you from your mom not having any pictures of you up on the walls.
+0xE2969C28=~z~嘿，我想我没认出你，是因为你妈没把你的照片挂墙上。
 
 ;0xE2D19AB1=SFX_PAUSE_410
 0xE2D19AB1=SFX_PAUSE_410
 
 ;0xE36D5F1B=~z~You know what? Forget about it, Ma. Just don't go borrowing any more money. See you soon.
-0xE36D5F1B=~z~You know what? Forget about it, Ma. Just don't go borrowing any more money. See you soon.
+0xE36D5F1B=~z~你知道啥？忘了吧，妈。你就别去借别的钱了。再见了。
 
 ;0xE4198F5B=E2MUM1_ZA
 0xE4198F5B=E2MUM1_ZA
@@ -753,19 +753,19 @@
 0xE587C11F=E2MUM1_RD
 
 ;0xE5921BB0=~z~Your mother told me about you.
-0xE5921BB0=~z~Your mother told me about you.
+0xE5921BB0=~z~你妈跟我提起了你，
 
 ;0xE59B102B=E2MUM1_IE1
 0xE59B102B=E2MUM1_IE1
 
 ;0xE65BA3B2=~z~Yo, who the fuck are you?
-0xE65BA3B2=~z~Yo, who the fuck are you?
+0xE65BA3B2=~z~哟，你他妈谁啊？
 
 ;0xE7591065=~z~No such luck, pretty boy. I got you set up at a tournament. You're gonna beat the first two guys.
-0xE7591065=~z~No such luck, pretty boy. I got you set up at a tournament. You're gonna beat the first two guys.
+0xE7591065=~z~没这么容易，靓仔。我给你摆了场擂台。你要干掉前两个人，
 
 ;0xE83195A5=~z~Let's see if he can handle the next round.
-0xE83195A5=~z~Let's see if he can handle the next round.
+0xE83195A5=~z~让咱看看他下一回合还能不能应付得了。
 
 ;0xE91ABB73=E2MUM1_ACA
 0xE91ABB73=E2MUM1_ACA
@@ -777,40 +777,40 @@
 0xEC94E513=302
 
 ;0xED2FAC5F=~z~Mami, you know you could have came to me for money.
-0xED2FAC5F=~z~Mami, you know you could have came to me for money.
+0xED2FAC5F=~z~妈咪，你知道你要钱的话可以找我的。
 
 ;0xED69164D=~z~You know how much money I had on that fight? Are you too fucking stupid to know when to lay down?
-0xED69164D=~z~You know how much money I had on that fight? Are you too fucking stupid to know when to lay down?
+0xED69164D=~z~你知道我刚刚投了多少钱在这比赛上吗？你他妈是不是傻到不懂得啥时候该认输？
 
 ;0xEF1D8591=E2MUM1_AHA
 0xEF1D8591=E2MUM1_AHA
 
 ;0xEFD93CD9=~z~You gonna step up or what?
-0xEFD93CD9=~z~You gonna step up or what?
+0xEFD93CD9=~z~你是想上场还是做别的？
 
 ;0xEFF978AA=~z~Maybe I'll get that opportunity to kick your ass after all, Lopez.
-0xEFF978AA=~z~Maybe I'll get that opportunity to kick your ass after all, Lopez.
+0xEFF978AA=~z~毕竟我也许会有那机会干翻你，Lopez。
 
 ;0xF01177D1=E2MUM1_JE
 0xF01177D1=E2MUM1_JE
 
 ;0xF0AF782B=~z~Remember our deal.
-0xF0AF782B=~z~Remember our deal.
+0xF0AF782B=~z~记得哈，咱们说好了的。
 
 ;0xF16E955C=~z~Your momma was unfortunate to have you as a son, Lopez.
-0xF16E955C=~z~Your momma was unfortunate to have you as a son, Lopez.
+0xF16E955C=~z~你妈有你这样的儿子真是太背了，Lopez。
 
 ;0xF2B5F511=~z~Nice to see a man like you swallow his pride for his mama.
-0xF2B5F511=~z~Nice to see a man like you swallow his pride for his mama.
+0xF2B5F511=~z~见到一个像你这样愿意为了妈妈忍辱负重的人，我很高兴。
 
 ;0xF60B3158=~z~Ding. Ding. Next round.
-0xF60B3158=~z~Ding. Ding. Next round.
+0xF60B3158=~z~叮叮，下一回合。
 
 ;0xF80B4711=~z~Now you mention it, I guess mug shots don't sit along too well with graduation shots.
-0xF80B4711=~z~Now you mention it, I guess mug shots don't sit along too well with graduation shots.
+0xF80B4711=~z~说到这个，我觉得罪犯的照片和毕业照挂在一起确实不太合适。
 
 ;0xF89E32EF=~z~Then I'm gonna bet against you, and you're gonna let the third guy take you out.
-0xF89E32EF=~z~Then I'm gonna bet against you, and you're gonna let the third guy take you out.
+0xF89E32EF=~z~然后我赌你输，你就让第三个人干掉你。
 
 ;0xF8A49A08=E2MUM1_VE
 0xF8A49A08=E2MUM1_VE
@@ -819,7 +819,7 @@
 0xFB189270=E2MUM1_VC
 
 ;0xFB95492A=~z~But what would you do to get it?
-0xFB95492A=~z~But what would you do to get it?
+0xFB95492A=~z~但你是怎么来钱的呢？
 
 ;0xFBE309C8=E2MUM1_JC
 0xFBE309C8=E2MUM1_JC
@@ -828,5 +828,5 @@
 0xFD20EE8A=010090100
 
 ;0xFF1BF8D8=~z~Luis Lopez!
-0xFF1BF8D8=~z~Luis Lopez!
+0xFF1BF8D8=~z~Luis Lopez！
 
