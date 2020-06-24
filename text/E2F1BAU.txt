@@ -663,7 +663,7 @@
 0x7A359047=~z~他是个好人，有三个孩子。
 
 ;0x7A9D5D73=~z~Thanks for the lecture, professor. I didn't know a two year stretch qualified you to teach Street Life 101.
-0x7A9D5D73=~z~说得太好了，教授。没想到你进号子蹲了两年，出来都能教我们街头人生101了。
+0x7A9D5D73=~z~说得太好了，教授。没想到你进号子蹲了两年，出来都能教我们黑社会入门了。
 
 ;0x7C17FD31=E2F1_CAA
 0x7C17FD31=E2F1_CAA
