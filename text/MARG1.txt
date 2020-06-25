@@ -1,21 +1,21 @@
 ﻿[MARG1]
 ;0x1C75E056=~r~You left Margot behind.~s~
-0x1C75E056=~r~You left Margot behind.~s~
+0x1C75E056=~r~你丢下了Margot。~s~
 
 ;0x393A99E7=~r~Margot is dead.~s~
-0x393A99E7=~r~Margot is dead.~s~
+0x393A99E7=~r~Margot死了。~s~
 
 ;0x43B3C80A=~s~Get Margot to the ~y~emergency room~s~ before she dies.~s~
-0x43B3C80A=~s~Get Margot to the ~y~emergency room~s~ before she dies.~s~
+0x43B3C80A=~s~在Margot死之前把她带到~y~医院。~s~
 
 ;0x4B213DB4=~r~You took too long and Margot died.~s~
-0x4B213DB4=~r~You took too long and Margot died.~s~
+0x4B213DB4=~r~你在路上花了太久时间，Margot死了。~s~
 
 ;0x552A6AF7=~s~Go back and get ~b~Margot.~s~
-0x552A6AF7=~s~Go back and get ~b~Margot.~s~
+0x552A6AF7=~s~回去接~b~Margot。~s~
 
 ;0x604F8141=~s~Lose the cops.~s~
-0x604F8141=~s~Lose the cops.~s~
+0x604F8141=~s~甩掉条子。~s~
 
 ;0x7F23653A=PLACEHOLDER~n~The players crazy ex confronts the player.~n~After an argument she tells the player she has OD'd.~n~The player has to get her to hospital before she dies.
 0x7F23653A=PLACEHOLDER~n~The players crazy ex confronts the player.~n~After an argument she tells the player she has OD'd.~n~The player has to get her to hospital before she dies.
