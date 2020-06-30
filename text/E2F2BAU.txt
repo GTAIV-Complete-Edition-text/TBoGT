@@ -6,7 +6,7 @@
 0x043BEAF7=SFX_PAUSE_190
 
 ;0x053665CF=~z~We get it back home and we going to be paid. This a mad success for us.
-0x053665CF=~z~我们就回家然后准备领钱。这是咱们的一次疯狂的胜利。
+0x053665CF=~z~把货送到，就可以拿钱了。这是咱们的大胜利啊。
 
 ;0x05CCF899=100090010
 0x05CCF899=100090010
@@ -15,7 +15,7 @@
 0x0954D11F=100090010
 
 ;0x095BA1DA=~z~My pleasure, bro
-0x095BA1DA=~z~我很乐意，兄弟
+0x095BA1DA=~z~不客气，兄弟。
 
 ;0x0C0E516D=020090200090020090200090020
 0x0C0E516D=020090200090020090200090020
@@ -24,7 +24,7 @@
 0x0C523F2E=E2F2_ECA
 
 ;0x0CF27553=~z~That just the way things is in the business. Bro, we walked away with the shit.
-0x0CF27553=~z~那只不过是些生意中的小问题。兄弟，我们不也把货带走了嘛。
+0x0CF27553=~z~做生意就是这样的。兄弟，货不是还在手里吗。
 
 ;0x0CFEF455=E2F2_EMA
 0x0CFEF455=E2F2_EMA
@@ -36,13 +36,13 @@
 0x0E71FE07=E2F2_EOD
 
 ;0x0FFA6BE6=~z~Double L, these bitches need attention, bro.
-0x0FFA6BE6=~z~LL，得盯着点这帮贱逼，兄弟。
+0x0FFA6BE6=~z~LL，注意这边的贱逼，兄弟。
 
 ;0x1091A6D1=SFX_PAUSE_220
 0x1091A6D1=SFX_PAUSE_220
 
 ;0x116A6A4D=~z~Luis, I love you, bro. But you part time. Life up here keeps going when you off with them rich people.
-0x116A6A4D=~z~Luis，我爱你，兄弟。但你只是有空才帮帮我们。当你和那些阔佬离开这的时候，这里的日子还在继续啊。
+0x116A6A4D=~z~Luis，我爱你，兄弟。但你不常在啊。你跟阔佬打交道的时候我们就不过日子了吗。
 
 ;0x12247A7E=SFX_PAUSE_310
 0x12247A7E=SFX_PAUSE_310
@@ -78,7 +78,7 @@
 0x1D3A7237=E2F2_ZBA
 
 ;0x1E213757=~z~There's easier ways to do that, H. Like the motherfucking gym!
-0x1E213757=~z~有更简单的法子来做这事，H，像他妈的做运动一样！
+0x1E213757=~z~想心跳加速有的是地方，H，比如健身房！
 
 ;0x1EDA7944=E2F2_EKE
 0x1EDA7944=E2F2_EKE
@@ -111,7 +111,7 @@
 0x25CA7461=E2F2_ESA
 
 ;0x278FA853=~z~Successful? Shit bro, I know you slow but you can't have failed to notice them hoods trying to rip us off back there.
-0x278FA853=~z~成功？操，兄弟，我知道你脑子转得有点慢，但你不能无视有一帮混蛋想要把我们埋在那。
+0x278FA853=~z~成功？操，兄弟，我知道你人木，但有人来抢劫你总该知道吧。
 
 ;0x28993FC6=E2F2_EOA
 0x28993FC6=E2F2_EOA
@@ -123,7 +123,7 @@
 0x2DC75334=102
 
 ;0x2F884E24=~z~Nah, bro. I just like saying it.
-0x2F884E24=~z~呐，兄弟。我就说说而已。
+0x2F884E24=~z~不知道，兄弟。单纯喜欢这个词而已。
 
 ;0x306C9804=E2F2_EKC
 0x306C9804=E2F2_EKC
@@ -144,16 +144,16 @@
 0x38AA4A63=SFX_PAUSE_240
 
 ;0x394C69D8=~z~Fuck this shit.
-0x394C69D8=~z~这真操蛋。
+0x394C69D8=~z~操他妈的。
 
 ;0x3A212EAD=~z~He didn't see that one coming, did he? Stay in touch, bro.
-0x3A212EAD=~z~他没看到那东西来，对吧？保持联系，兄弟。
+0x3A212EAD=~z~那是他没想到的，对吧？保持联系，兄弟。
 
 ;0x3BF72A46=SFX_PAUSE_400
 0x3BF72A46=SFX_PAUSE_400
 
 ;0x40827C19=~z~You can't say your pulse ain't racing, bro.
-0x40827C19=~z~别告诉我你没有心跳加速，兄弟。
+0x40827C19=~z~你肯定是心跳加速，兄弟。
 
 ;0x40A7621F=492
 0x40A7621F=492
@@ -171,10 +171,10 @@
 0x45A29942=~z~让这些贱逼知道错吧，LL。
 
 ;0x465F7215=~z~They came at us, bro. It weren't our fault they gone now.
-0x465F7215=~z~是他们先上来干咱的。他们的死不是我的错。
+0x465F7215=~z~是他们找上来的，兄弟。他们死了不怪我们。
 
 ;0x47E785CB=~z~Yeah I guess my shooting was more important than my man management skills on this "business trip".
-0x47E785CB=~z~是吧，我猜今天出的这趟差，我的枪法比那些人力管理技巧还重要。
+0x47E785CB=~z~我猜今天出的这趟差，我的枪法比那些人力管理经验还要重要。
 
 ;0x4925C0E2=100090010
 0x4925C0E2=100090010
@@ -183,10 +183,10 @@
 0x4A3A7E94=~z~滚他妈的数学。你知道我不会除法的。
 
 ;0x4D2B896A=~z~You even know what that means, bro?
-0x4D2B896A=~z~你知道那是啥意思吗，兄弟？
+0x4D2B896A=~z~你知道尊严啥意思吗，兄弟？
 
 ;0x4F2D56E3=~z~That all they got. They pussies, boy.
-0x4F2D56E3=~z~他们也就这样了，都是娘炮，兄弟。
+0x4F2D56E3=~z~他们没人了，都是菜鸡，兄弟。
 
 ;0x502A774C=SFX_PAUSE_210
 0x502A774C=SFX_PAUSE_210
@@ -195,10 +195,10 @@
 0x50A61DD5=E2F2_EQA
 
 ;0x52976D35=~z~I need to eat, bro. We can't get fussy.
-0x52976D35=~z~我得吃饭啊，兄弟。咱没得选。
+0x52976D35=~z~要吃饭的啊，兄弟。咱没得选。
 
 ;0x5419541B=~z~Yo. We was meant to be watching over that shipment, not fucking things up.
-0x5419541B=~z~哟。我们本来是一路顺风的去照看那批货的。
+0x5419541B=~z~哟。我们是来护送货物的，不是破坏货物的。
 
 ;0x5546E059=E2F2_ENA
 0x5546E059=E2F2_ENA
@@ -210,13 +210,13 @@
 0x5995258E=E2F2_DVB
 
 ;0x5B716791=~z~You gonna have to start thinking for yourself, man. I'll call you soon.
-0x5B716791=~z~你得开始想想顾着点自己了，哥们。我晚点给你打电话。
+0x5B716791=~z~你得开始自己思考了，哥们。我晚点给你打电话。
 
 ;0x5DA073D5=~z~I think that's all of them.
-0x5DA073D5=~z~我想他们也就这能耐了。
+0x5DA073D5=~z~估计他们没有后手了。
 
 ;0x5EDF27DD=~z~Then see if that shit's real money.
-0x5EDF27DD=~z~然后再看看是不是这破烂的真实价格。
+0x5EDF27DD=~z~你看这钱算数不算数。
 
 ;0x61671EF6=E2F2_DZB
 0x61671EF6=E2F2_DZB
@@ -240,10 +240,10 @@
 0x69F81FAB=E2F2_EFA
 
 ;0x6D78B65E=~z~Only way to work.
-0x6D78B65E=~z~就是这样干活的。
+0x6D78B65E=~z~咱也干不了别的。
 
 ;0x6DDBB4FE=~z~You mean them motherfuckers we took down?
-0x6DDBB4FE=~z~你说的是被我们干掉的那帮混蛋吗？
+0x6DDBB4FE=~z~你是说被我们干掉的那帮混蛋吗？
 
 ;0x6DE1E1FA=E2F2_EOC
 0x6DE1E1FA=E2F2_EOC
@@ -261,7 +261,7 @@
 0x701FE2E1=E2F2_EBB
 
 ;0x70211756=~z~You better split that protection money with me now, Mando.
-0x70211756=~z~你最好现在分我点保护费，Mando。
+0x70211756=~z~你最好把报酬分我一点，Mando。
 
 ;0x720EBF40=~z~He can take care of his self. It's the shipment I'm worried about.
 0x720EBF40=~z~他能照顾好自己，我担心的是货啊。
@@ -276,7 +276,7 @@
 0x728408D1=E2F2_EJC
 
 ;0x732AD074=~z~Consolation? It's the paycheck is gonna console my ass.
-0x732AD074=~z~欣慰？领工资才是最他妈欣慰的。
+0x732AD074=~z~欣慰？拿钱的时候才他妈欣慰。
 
 ;0x73AED469=~z~Alright, bro. See you soon.
 0x73AED469=~z~好吧，兄弟。再见了。
@@ -285,7 +285,7 @@
 0x771C25FE=E2F2_ENC
 
 ;0x7928E84D=~z~Thanks for your help, bro.
-0x7928E84D=~z~多谢你的帮忙，兄弟。
+0x7928E84D=~z~多谢你来帮忙，兄弟。
 
 ;0x79A02F92=SFX_PAUSE_210
 0x79A02F92=SFX_PAUSE_210
@@ -303,7 +303,7 @@
 0x7B7125CB=SFX_PAUSE_350
 
 ;0x7D5769BD=~z~You everyone's bitch! I'm sorry, Henrique, but you ain't got shit.
-0x7D5769BD=~z~你们个个都是条狗！我很抱歉，Henrique，但你没那么糟。
+0x7D5769BD=~z~谁都把你当狗使！我很抱歉，Henrique，但你真不是什么人物。
 
 ;0x7D7DBB80=E2F2_EHA
 0x7D7DBB80=E2F2_EHA
@@ -315,10 +315,10 @@
 0x7DE1D5AB=E2F2_DZA
 
 ;0x7E618AF9=~z~You drive, bro. I need to chill.
-0x7E618AF9=~z~你开吧，兄弟。我得冷静会。
+0x7E618AF9=~z~你开车，兄弟。我得冷静会。
 
 ;0x7EB1D7AC=~z~Luis, bro, what the fuck? They some important party downtown that you forgot about? You have to run off?
-0x7EB1D7AC=~z~Luis，兄弟，搞什么鬼？你是忘了去城里参加他们的聚会了吗？非得现在跑去？
+0x7EB1D7AC=~z~Luis，兄弟，搞什么鬼？赶着去城里的哪个大派对吗？非得现在跑去？
 
 ;0x7F54BC64=E2F2_ELA
 0x7F54BC64=E2F2_ELA
@@ -327,13 +327,13 @@
 0x808CBD6B=~z~怎么咱这么背呢，Luis。
 
 ;0x8168BEB4=~z~I ain't the one being paid to oversee the shipment.
-0x8168BEB4=~z~我才不是那个要为带货付出代价的人。
+0x8168BEB4=~z~我又没被人雇来保护货物。
 
 ;0x81A08F0F=E2F2_EIA
 0x81A08F0F=E2F2_EIA
 
 ;0x82BDEF9A=~z~This ain't real money. Take how much you get paid for this and divide it by how many bodies you had to drop back there.
-0x82BDEF9A=~z~你领的工资不够数的。拿你领的钱数除以你不得不杀掉的人数，
+0x82BDEF9A=~z~这钱没有用。数数你到手多少钱，除上刚才杀掉的人数。
 
 ;0x83906A2E=E2F2_EOE
 0x83906A2E=E2F2_EOE
@@ -357,58 +357,58 @@
 0x89CA829C=SFX_PAUSE_150
 
 ;0x8B67A505=~z~You gonna drive me then, Luis?
-0x8B67A505=~z~那你要开车带咱们去吗，Luis？
+0x8B67A505=~z~麻烦你来开车，Luis。
 
 ;0x8BCF86A9=~z~We got our pride.
-0x8BCF86A9=~z~咱很自豪。
+0x8BCF86A9=~z~我们有尊严。
 
 ;0x8BD80085=E2F2_EMC
 0x8BD80085=E2F2_EMC
 
 ;0x8CAF109C=~z~I should get a bonus for added duress.
-0x8CAF109C=~z~你们抓我壮丁应该给点奖励吧。
+0x8CAF109C=~z~应对威胁怎么也得发些奖金吧。
 
 ;0x8DA23D9D=~z~You'd be surprised.
-0x8DA23D9D=~z~惊喜吧。
+0x8DA23D9D=~z~跟你想的不一样。
 
 ;0x90CA7D01=~z~Nah, bro. You don't need to work this hard. It's just the only way you know about.
-0x90CA7D01=~z~呐，兄弟。没必要这么拼。你们就只知道这条路子吗？
+0x90CA7D01=~z~不，兄弟。没必要这么拼。只是你们不知道能干别的而已。
 
 ;0x930648D1=~z~Yo L. Get back here.
-0x930648D1=~z~哟L，回来这。
+0x930648D1=~z~哟L，快回来。
 
 ;0x95882689=~z~Clean these bitches, L.
-0x95882689=~z~清理这帮贱逼，L。
+0x95882689=~z~杀光这帮贱逼，L。
 
 ;0x966CE94E=010090100
 0x966CE94E=010090100
 
 ;0x96A867BA=~z~Haw. Haw. Haw. We ditched Armando.
-0x96A867BA=~z~嚯嚯嚯，咱把Armando落下了。
+0x96A867BA=~z~哈哈哈哈哈，咱落下Armando了。
 
 ;0x97139618=SFX_PAUSE_380
 0x97139618=SFX_PAUSE_380
 
 ;0x97904FB9=~z~Yeah, one of the reasons, bro.
-0x97904FB9=~z~是啊，这是其中之一，兄弟。
+0x97904FB9=~z~是啊，我离开的原因之一，兄弟。
 
 ;0x9A1B8F9B=~z~Diablo, you guys work hard for your money.
-0x9A1B8F9B=~z~我亲爱的兄弟啊，你们为了钱是真的拼啊。
+0x9A1B8F9B=~z~妈的，你们为了钱是真的拼啊。
 
 ;0x9A7823FA=~z~This may be shit, but at least we work for ourselves. We ain't someone's bitch.
-0x9A7823FA=~z~这也许很糟，但至少我们自己动手丰衣足食，不给别人当狗使。
+0x9A7823FA=~z~可能是不太好，但至少我们是为自己工作，不是给人当狗使。
 
 ;0x9B03A61A=E2F2_DVA
 0x9B03A61A=E2F2_DVA
 
 ;0x9BAF73B0=~z~You get involved in making drug deals, bad luck ain't never far, bro. We all know that.
-0x9BAF73B0=~z~你这种贩毒的，常在河边走，哪有不湿鞋。我们都懂。
+0x9BAF73B0=~z~只要跟贩毒沾上边，就别想不背了，兄弟。大家都懂的。
 
 ;0x9CAA6EDB=E2F2_EKB
 0x9CAA6EDB=E2F2_EKB
 
 ;0x9D0A9F66=~z~Mira, all I'm saying is you had to take down a lot of people to earn not very much money. Ain't a good business model, man.
-0x9D0A9F66=~z~你看，我说的是你不得不干掉许多人却只能领到点小钱。这不是良性的商业模式，哥们。
+0x9D0A9F66=~z~你看，我只是想说你被迫杀掉这么多人，才赚这么点钱。这买卖划不来，哥们。
 
 ;0x9DC1B2C1=~z~Who tipped off these motherfuckers?
 0x9DC1B2C1=~z~谁给这帮傻逼通风报信了？
@@ -417,10 +417,10 @@
 0x9E2D953A=SFX_PAUSE_220
 
 ;0x9EBF3379=~z~Yeah, dude. Let's hang.
-0x9EBF3379=~z~行，兄弟。咱们电话聊。
+0x9EBF3379=~z~对，兄弟。有空一起出去。
 
 ;0x9F1CAB48=~z~We can't just leave Henrique behind. Dumb as he is, he's useful.
-0x9F1CAB48=~z~咱不能把Henrique落后面了。虽然他傻傻的，但他还是有用的。
+0x9F1CAB48=~z~咱不能把Henrique落下。虽然他傻，但他还是有用的。
 
 ;0xA296BEA9=102
 0xA296BEA9=102
@@ -435,13 +435,13 @@
 0xA467BD60=~z~Luis，Luis。回这来，兄弟。
 
 ;0xA6D70990=~z~Get these fuckers, L..
-0xA6D70990=~z~干掉这帮混蛋，L……
+0xA6D70990=~z~干掉这帮混蛋，L。
 
 ;0xA9421064=~z~Hand that shit over!
-0xA9421064=~z~把这群废物办了！
+0xA9421064=~z~把货交出来！
 
 ;0xA94CF4EA=~z~Bet you don't get action like this with them downtown rich kids.
-0xA94CF4EA=~z~我赌你没和城里的富家子弟一起跟这帮人对着干过。
+0xA94CF4EA=~z~估计跟城里的富家子弟处一起见不到这种场面吧。
 
 ;0xA951C734=~z~The action's over here, L.
 0xA951C734=~z~这边有情况，L。
@@ -450,16 +450,16 @@
 0xAA2DA842=SFX_PAUSE_270
 
 ;0xAB7486F6=~z~Seems like we always are, H.
-0xAB7486F6=~z~看起来咱们总是翻车啊，H。
+0xAB7486F6=~z~有哪次没遇上，H。
 
 ;0xAB7522E9=~z~Clock these fools, L.
-0xAB7522E9=~z~敲响蠢逼们的丧钟吧，L。
+0xAB7522E9=~z~干死那帮傻逼，L。
 
 ;0xAE7F57B5=101011091201091101
 0xAE7F57B5=101011091201091101
 
 ;0xAF1F9C13=~z~There's a easy way to do this and there's a hard way to do this.
-0xAF1F9C13=~z~干这事既有捷径也有弯路。
+0xAF1F9C13=~z~我们可以和平解决，也可以给你们点苦头吃。
 
 ;0xAF9F021A=~z~You got somewhere better to be, Luis?
 0xAF9F021A=~z~你有更好的去处吗，Luis？
@@ -486,10 +486,10 @@
 0xB6FB1D42=E2F2_EDA
 
 ;0xB77B8F97=~z~This shit was why you left the Height, weren't it?
-0xB77B8F97=~z~这种破事就是让你离家出去奋斗的原因对吧？
+0xB77B8F97=~z~因为这样的事你才会离开高地，对吧？
 
 ;0xB7B73B35=~z~Bro. Bro. Bro. Over here.
-0xB7B73B35=~z~哥哥哥，这里。
+0xB7B73B35=~z~哥，哥，哥，这里。
 
 ;0xB91A2A0E=SFX_PAUSE_220
 0xB91A2A0E=SFX_PAUSE_220
@@ -498,46 +498,46 @@
 0xB9A974AF=SFX_PAUSE_240
 
 ;0xBA56CDF3=~z~Yes. Them motherfuckers. Precisely.
-0xBA56CDF3=~z~是，是那帮混蛋。说的就是他们。
+0xBA56CDF3=~z~是，是那帮混蛋。就是他们。
 
 ;0xBB226E3C=E2F2_ERB
 0xBB226E3C=E2F2_ERB
 
 ;0xBC01EF41=~z~Don't shoot me.
-0xBC01EF41=~z~别对我开枪。
+0xBC01EF41=~z~别打我。
 
 ;0xBC2299B9=200090200020090200090020
 0xBC2299B9=200090200020090200090020
 
 ;0xBD12B7F9=~z~You been robbed, fools.
-0xBD12B7F9=~z~你被抢了，傻逼。
+0xBD12B7F9=~z~你们被抢了，傻逼。
 
 ;0xBDF1C35D=~z~We don't all got what you got, L. I ain't got your looks. I ain't got your brains.
-0xBDF1C35D=~z~咱不太懂你的意思，L。我没你有眼光，没你有脑袋。
+0xBDF1C35D=~z~我们没有你的条件，L。我没你那么帅，没你那么聪明。
 
 ;0xBEB52750=SFX_PAUSE_310
 0xBEB52750=SFX_PAUSE_310
 
 ;0xC24CA775=~z~Luis, man. We need your help. Don't go nowhere.
-0xC24CA775=~z~Luis，哥们。咱需要你的帮助。别上其它地方去。
+0xC24CA775=~z~Luis，哥们。咱需要你的帮助。别乱跑。
 
 ;0xC304FA9A=~z~Where you going, Luis?
 0xC304FA9A=~z~你上哪去呢，Luis？
 
 ;0xC466E31D=~z~Something like that. Look, I'll call you soon, okay. Later on.
-0xC466E31D=~z~就像那样。听着，我晚点给你电话，好吗？再见了。
+0xC466E31D=~z~差差不多吧。听着，我晚点给你电话，好吗？再见了。
 
 ;0xC5F104B9=SFX_PAUSE_270
 0xC5F104B9=SFX_PAUSE_270
 
 ;0xC6CA77B2=~z~Fuck, bro. At least we ain't there when the police is showing up. That's the one consolation I can think of.
-0xC6CA77B2=~z~操，兄弟。至少警察来的时候我们不在这了。这是让我感到欣慰的一点。
+0xC6CA77B2=~z~操，兄弟。至少警察来的时候我们不在现场。让我还算欣慰。
 
 ;0xC6DAE0AB=100090010
 0xC6DAE0AB=100090010
 
 ;0xC7BA86B2=~z~I ain't being paid enough for this shit.
-0xC7BA86B2=~z~我受够这破事了。
+0xC7BA86B2=~z~干了这个还得加钱。
 
 ;0xC8148B01=~z~Here is where these thieves is at.
 0xC8148B01=~z~这帮小毛贼在这呢。
@@ -546,7 +546,7 @@
 0xC81A9361=SFX_PAUSE_260
 
 ;0xC8DADDB4=~z~Yo. Get these motherfuckers.
-0xC8DADDB4=~z~哟，收拾这帮混账。
+0xC8DADDB4=~z~哟，干掉这帮混账。
 
 ;0xC9E04B2F=E2F2_EUB
 0xC9E04B2F=E2F2_EUB
@@ -555,22 +555,22 @@
 0xCB292422=E2F2_ZAB
 
 ;0xCC74F40B=~z~Armando, alright over there?
-0xCC74F40B=~z~Armando，那边还好吗？
+0xCC74F40B=~z~Armando，你那儿还好吗？
 
 ;0xCE1E0008=~z~I'll take this car. You guys follow me in that one.
-0xCE1E0008=~z~我上这辆车，你们上那辆跟着我。
+0xCE1E0008=~z~这辆车我开，你们开那一辆跟我走。
 
 ;0xCE9700FE=~z~We need to get this stuff back to the Heights. We earned it, yo. Follow me in that car.
-0xCE9700FE=~z~咱得把这货送回家那边去。我们赚了，哟。上那车跟着我吧。
+0xCE9700FE=~z~咱得把这货送回高地。赚到了，哟。开那辆车跟我走吧。
 
 ;0xCF7E4F09=~z~We in the shit again, bro.
-0xCF7E4F09=~z~我们又搞砸了，兄弟。
+0xCF7E4F09=~z~又遇上麻烦了，兄弟。
 
 ;0xD0093FF2=E2F2_EBA
 0xD0093FF2=E2F2_EBA
 
 ;0xD02367C0=~z~All I got is my guts, my gun and Armando.
-0xD02367C0=~z~我有的只是我的勇气，我的枪杆子和Armando。
+0xD02367C0=~z~我有的只是胆子，枪杆子和Armando。
 
 ;0xD10FE1EA=200090020
 0xD10FE1EA=200090020
@@ -609,10 +609,10 @@
 0xD90A18B4=E2F2_EMD
 
 ;0xD912401F=~z~For sure, Rique. No one fucks with my crew.
-0xD912401F=~z~那必须的，Rique。没有谁能动得了我的人一根汗毛。
+0xD912401F=~z~必须的，Rique。没有人能动我的人。
 
 ;0xD94A2D6C=~z~The robbing cocksuckers be here, bro.
-0xD94A2D6C=~z~抢劫的杂种就在这，兄弟。
+0xD94A2D6C=~z~抢劫的杂种在这儿，兄弟。
 
 ;0xD9B6F680=202
 0xD9B6F680=202
@@ -624,7 +624,7 @@
 0xDAC7FC8C=200
 
 ;0xDC2C9196=~z~Fucked up? What you talking about, bro? That was some of the most successful shit I participated in.
-0xDC2C9196=~z~砸了？你说啥呢，兄弟？这是我干过最成功的几件事情。
+0xDC2C9196=~z~砸了？你说啥呢，兄弟？这是我干过最成功的事情之一。
 
 ;0xDC5DA971=SFX_PAUSE_310
 0xDC5DA971=SFX_PAUSE_310
@@ -636,10 +636,10 @@
 0xDDAF549B=200090020
 
 ;0xE032A435=~z~L, Rique, go in that car. I'll take this one. We need to get this shit outta here.
-0xE032A435=~z~L，Rique，上那车。我上这辆。咱们得把东西从这带走。
+0xE032A435=~z~L，Rique，上那辆车。我开这辆。咱们得把货带出去。
 
 ;0xE0897EE6=~z~What you resisting for, you jobsworth pricks.
-0xE0897EE6=~z~反抗啥呢，你个呆逼。
+0xE0897EE6=~z~反抗啥呢，傻逼工头。
 
 ;0xE1C18F75=~z~Lopez, bro, over here.
 0xE1C18F75=~z~Lopez，兄弟，这里。
@@ -654,7 +654,7 @@
 0xE3C90AC8=E2F2_EAB
 
 ;0xE4C9910C=~z~Hey, you got me too, bro. Don't forget about that.
-0xE4C9910C=~z~嘿，你不也有我吗，兄弟。别忘了呀。
+0xE4C9910C=~z~嘿，你不还有我吗，兄弟。别忘了呀。
 
 ;0xE709B2C7=E2F2_EME
 0xE709B2C7=E2F2_EME
@@ -663,7 +663,7 @@
 0xE70DADEF=SFX_PAUSE_350
 
 ;0xEA838D91=~z~Looks like they ain't got nothing else to throw at us.
-0xEA838D91=~z~看来他们没有家伙能用来攻击咱了。
+0xEA838D91=~z~看来他们的袭击暂时不会继续了。
 
 ;0xEB6A796C=SFX_PAUSE_190
 0xEB6A796C=SFX_PAUSE_190
@@ -672,13 +672,13 @@
 0xEFAC9A71=E2F2_DTA
 
 ;0xEFC2DAFD=~z~Clock these stickup cats, L.
-0xEFC2DAFD=~z~送这帮贼人去死吧，L。
+0xEFC2DAFD=~z~宰了这帮强盗，L。
 
 ;0xF08A1A18=100010
 0xF08A1A18=100010
 
 ;0xF0A40D32=~z~I wasn't meant to be doing anything. I was doing you a favor. See you soon, bro.
-0xF0A40D32=~z~我本来就不是来干这些事情的，我只是来帮你个忙。再见了，兄弟。
+0xF0A40D32=~z~本来我根本不用来这儿，我只是来帮你个忙。再见了，兄弟。
 
 ;0xF1EA9BE1=SFX_PAUSE_310
 0xF1EA9BE1=SFX_PAUSE_310
@@ -702,13 +702,13 @@
 0xF45D9FA4=SFX_PAUSE_330
 
 ;0xF4B9E44B=~z~Hand in the motherfucking cookie jar.
-0xF4B9E44B=~z~活捉这帮操蛋玩意。
+0xF4B9E44B=~z~当场抓获，证据确凿。
 
 ;0xF5162112=~z~Oh shit! Captain Downtown can't be doing that well after all.
-0xF5162112=~z~哦我操，毕竟城里的大佬也办不好这事呢。
+0xF5162112=~z~哦操！城里的大佬也没那么能干嘛。
 
 ;0xF63A347C=~z~This worth what you being paid for this thing?
-0xF63A347C=~z~为了这事付出的代价你觉得值吗？
+0xF63A347C=~z~为了这点钱卖命值得吗？
 
 ;0xF89FA948=E2F2_ELC
 0xF89FA948=E2F2_ELC
@@ -717,17 +717,17 @@
 0xF8E251C4=392
 
 ;0xF9196830=~z~For real. We gonna get paid, bro. Give us a call, okay.
-0xF9196830=~z~太真实了。我们要领钱了，兄弟。给咱来电话，好吗？
+0xF9196830=~z~确实。我们能拿钱了，兄弟。有空打电话，好吗？
 
 ;0xF9E190E6=~z~"A guy got to go"? Henrique was family, bro. I'll see you round.
-0xF9E190E6=~z~“人总有一死？”Henrique是我的家人啊，兄弟。再见了。
+0xF9E190E6=~z~「人总有一死」？Henrique是我们的家人啊，兄弟。再见了。
 
 ;0xFB220567=~z~So much for you helping with this shit, bro. Thanks a lot.
-0xFB220567=~z~帮你们干这破事真麻烦，我可谢谢您嘞。
+0xFB220567=~z~您还真是百忙之中来帮忙啊，多谢您嘞。
 
 ;0xFE4ACFCB=E2F2_EAA
 0xFE4ACFCB=E2F2_EAA
 
 ;0xFEDEC9AF=~z~Check these bitches over here.
-0xFEDEC9AF=~z~看着点那边的贱逼。
+0xFEDEC9AF=~z~当心那边的贱逼。
 
