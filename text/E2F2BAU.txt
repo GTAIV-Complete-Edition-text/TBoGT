@@ -525,7 +525,7 @@
 0xC304FA9A=~z~你上哪去呢，Luis？
 
 ;0xC466E31D=~z~Something like that. Look, I'll call you soon, okay. Later on.
-0xC466E31D=~z~差差不多吧。听着，我晚点给你电话，好吗？再见了。
+0xC466E31D=~z~差不多吧。听着，我晚点给你电话，好吗？再见了。
 
 ;0xC5F104B9=SFX_PAUSE_270
 0xC5F104B9=SFX_PAUSE_270
