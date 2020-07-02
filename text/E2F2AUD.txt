@@ -501,7 +501,7 @@
 0xB68B0C4D=~z~那好，你不是还有俩孩子吗，找那俩骄傲去啊。
 
 ;0xB7977734=~z~Rique's momma wants his ass to go to college someday.
-0xB7977734=~z~Rique的老妈想让还想让这崽子上大学。
+0xB7977734=~z~Rique的老妈还想让这崽子上大学。
 
 ;0xB7A7EA34=~z~It would be a serious bad idea to show the law this shipment. We better lose them before we head there.
 0xB7A7EA34=~z~带着执法大队去卸货可不是个好主意。到之前最好甩了他们。
@@ -510,7 +510,7 @@
 0xB852D829=E2F2_CZB
 
 ;0xB8A7B004=~z~I guess there's nothing you can do for now, if you're so interested in being a drug dealer. But you got to try to get out of this petty hand to mouth shit.
-0xB8A7B004=~z~要是你们想一条路走到黑，那确实没什么办法。你俩不能一辈子靠这个吃饭啊。
+0xB8A7B004=~z~要是你们想一条路走到黑，那确实没什么办法。可你俩不能一辈子靠这个吃饭啊。
 
 ;0xBAFF802E=010090100090200
 0xBAFF802E=010090100090200
