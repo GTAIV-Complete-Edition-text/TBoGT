@@ -1,124 +1,124 @@
 ﻿[TONY4]
 ;0x03F266AF=Land safely on the ground.
-0x03F266AF=Land safely on the ground.
+0x03F266AF=安全地着陆。
 
 ;0x086D8EFD=Hold ~INPUT_VEH_CIN_CAM~ to focus on the next checkpoint.
-0x086D8EFD=Hold ~INPUT_VEH_CIN_CAM~ to focus on the next checkpoint.
+0x086D8EFD=按住~INPUT_VEH_CIN_CAM~将镜头对准下一个检查点。
 
 ;0x0D6C17C7=Leave the internet cafe.
-0x0D6C17C7=Leave the internet cafe.
+0x0D6C17C7=离开网吧。
 
 ;0x0F43EEAE=Go to an ~y~internet cafe.
-0x0F43EEAE=Go to an ~y~internet cafe.
+0x0F43EEAE=去一家~y~网吧。
 
 ;0x10F76ED3=Get into the ~b~car.
-0x10F76ED3=Get into the ~b~car.
+0x10F76ED3=上~b~车。
 
 ;0x1EA5616D=Get back in the ~b~chopper.
-0x1EA5616D=Get back in the ~b~chopper.
+0x1EA5616D=回到~b~直升机~s~上。
 
 ;0x2AC9A63C=~r~You abandoned the chopper.
-0x2AC9A63C=~r~You abandoned the chopper.
+0x2AC9A63C=~r~你抛弃了直升机。
 
 ;0x2F80163D=Get back into the ~b~car.
-0x2F80163D=Get back into the ~b~car.
+0x2F80163D=回到~b~车~上。
 
 ;0x424046BF=Click on 'Leave Comment'.
-0x424046BF=Click on 'Leave Comment'.
+0x424046BF=点击「发表评论」。
 
 ;0x438FB3DD=Don't leave ~b~Gracie ~s~behind.
-0x438FB3DD=Don't leave ~b~Gracie ~s~behind.
+0x438FB3DD=别把~b~Gracie~s~落下。
 
 ;0x49115346=~r~Gracie is dead.
-0x49115346=~r~Gracie is dead.
+0x49115346=~r~Gracie死了。
 
 ;0x49D843C8=Meet Tony at the ~y~helipad.
-0x49D843C8=Meet Tony at the ~y~helipad.
+0x49D843C8=和Tony在~y~直升机场~s~碰面。
 
 ;0x4FE0E200=Click on 'Submit'.
-0x4FE0E200=Click on 'Submit'.
+0x4FE0E200=点击「提交」。
 
 ;0x55A4043A=~r~You alerted the cops.
-0x55A4043A=~r~You alerted the cops.
+0x55A4043A=~r~你惊动了警察。
 
 ;0x581F3F11=~r~Gracie's car was destroyed.
-0x581F3F11=~r~Gracie's car was destroyed.
+0x581F3F11=~r~Gracie的车被摧毁了。
 
 ;0x5D558024=~r~You abandoned Gracie.
-0x5D558024=~r~You abandoned Gracie.
+0x5D558024=~r~你抛弃了Gracie。
 
 ;0x6108EFF1=Intimidate the Celebinator.
-0x6108EFF1=Intimidate the Celebinator.
+0x6108EFF1=威胁Celebinator。
 
 ;0x616D5F37=Press ~PAD_LSTICK_UP~ to dive.
-0x616D5F37=Press ~PAD_LSTICK_UP~ to dive.
+0x616D5F37=按~PAD_LSTICK_UP~向下俯冲。
 
 ;0x66AB0F94=Get back on a computer.
-0x66AB0F94=Get back on a computer.
+0x66AB0F94=回到电脑上。
 
 ;0x746CD7B3=Catch the ~r~Celebinator ~s~before he hits the ground.
-0x746CD7B3=Catch the ~r~Celebinator ~s~before he hits the ground.
+0x746CD7B3=在~r~Celebinator~s~着地前抓住他。
 
 ;0x7757A569=Get to the ~b~chopper.
-0x7757A569=Get to the ~b~chopper.
+0x7757A569=去~b~直升机~s~处。
 
 ;0x77B0B19F=Press ~INPUT_PICKUP~ to exit.
-0x77B0B19F=Press ~INPUT_PICKUP~ to exit.
+0x77B0B19F=按~INPUT_PICKUP~退出。
 
 ;0x7B76B91F=Use a computer.
-0x7B76B91F=Use a computer.
+0x7B76B91F=使用电脑。
 
 ;0x805A42E6=Click on the Celebinator link.
-0x805A42E6=Click on the Celebinator link.
+0x805A42E6=点击Celebinator链接。
 
 ;0x83ED23EF=Press ~INPUT_RELOAD~ to punch the Celebinator. ~n~Press ~INPUT_JUMP~ to slap the Celebinator. ~n~Press ~INPUT_ENTER~ to throw the Celebinator out.
-0x83ED23EF=Press ~INPUT_RELOAD~ to punch the Celebinator. ~n~Press ~INPUT_JUMP~ to slap the Celebinator. ~n~Press ~INPUT_ENTER~ to throw the Celebinator out.
+0x83ED23EF=按~INPUT_RELOAD~揍Celebinator。~n~按~INPUT_JUMP~扇Celebinator耳光。~n~按~INPUT_ENTER~把Celebinator扔出去。
 
 ;0x84F1ECEB=~r~You abandoned the Celebinator.
-0x84F1ECEB=~r~You abandoned the Celebinator.
+0x84F1ECEB=~r~你抛弃了Celebinator。
 
 ;0x87BE1117=Press ~PAD_Y~ to jump out of the helicopter.
-0x87BE1117=Press ~PAD_Y~ to jump out of the helicopter.
+0x87BE1117=按~PAD_Y~跳出直升机。
 
 ;0x8FF2F833=Lose the cops.
-0x8FF2F833=Lose the cops.
+0x8FF2F833=甩掉警察。
 
 ;0x93827E8D=~r~The Celebinator is dead.
-0x93827E8D=~r~The Celebinator is dead.
+0x93827E8D=~r~Celebinator死了。
 
 ;0x9473EFA5=Go back to the Eyefind main page.
-0x9473EFA5=Go back to the Eyefind main page.
+0x9473EFA5=去Eyefind主页。
 
 ;0x9717FDAF=Take Tony and Gracie to ~y~Gracie's house.
-0x9717FDAF=Take Tony and Gracie to ~y~Gracie's house.
+0x9717FDAF=把Tony和Gracie送去~y~Gracie的家。
 
 ;0x9D0A271B=~r~Tony's car was destroyed.
-0x9D0A271B=~r~Tony's car was destroyed.
+0x9D0A271B=~r~Tony的车被摧毁了。
 
 ;0xA585A446=~r~The chopper was destroyed.
-0xA585A446=~r~The chopper was destroyed.
+0xA585A446=~r~直升机被摧毁了。
 
 ;0xB21A2665=Click on the WEB icon.
-0xB21A2665=Click on the WEB icon.
+0xB21A2665=点击WEB图标。
 
 ;0xB3A3D471=Don't leave ~b~Tony ~s~behind.
-0xB3A3D471=Don't leave ~b~Tony ~s~behind.
+0xB3A3D471=别把~b~Tony~s~落下。
 
 ;0xB7F8BACB=Press ~PAD_B~ to punch the Celebinator. ~n~Press ~PAD_X~ to slap the Celebinator. ~n~Press ~PAD_Y~ to throw the Celebinator out.
-0xB7F8BACB=Press ~PAD_B~ to punch the Celebinator. ~n~Press ~PAD_X~ to slap the Celebinator. ~n~Press ~PAD_Y~ to throw the Celebinator out.
+0xB7F8BACB=按~PAD_B~揍Celebinator。~n~按~PAD_X~扇Celebinator耳光。~n~按~PAD_Y~把Celebinator扔出去。
 
 ;0xC733E12E=~r~You abandoned Tony and Gracie.
-0xC733E12E=~r~You abandoned Tony and Gracie.
+0xC733E12E=~r~你抛弃了Tony和Gracie。
 
 ;0xD9CEAC49=Don't leave the ~b~Celebinator ~s~behind.
-0xD9CEAC49=Don't leave the ~b~Celebinator ~s~behind.
+0xD9CEAC49=别把~b~Celebinator~s~落下。
 
 ;0xE1BB9A94=~r~You abandoned Tony.
-0xE1BB9A94=~r~You abandoned Tony.
+0xE1BB9A94=~r~你抛弃了Tony。
 
 ;0xE920D65E=Fly the chopper ~y~towards Happiness Island, ~s~as high as possible.
-0xE920D65E=Fly the chopper ~y~towards Happiness Island, ~s~as high as possible.
+0xE920D65E=驾驶直升机以尽可能高的高度飞向~y~Happiness Island~s~。
 
 ;0xF4288A3F=~r~Tony is dead.
-0xF4288A3F=~r~Tony is dead.
+0xF4288A3F=~r~Tony死了。
 
