@@ -1,6 +1,6 @@
 ﻿[E2FC2AU]
 ;0x01BE7E7F=~z~Fucking pussies.
-0x01BE7E7F=~z~Fucking pussies.
+0x01BE7E7F=~z~滚你妈的逼。
 
 ;0x01CB7367=090190290190190090190090190290190
 0x01CB7367=090190290190190090190090190290190
@@ -9,13 +9,13 @@
 0x03CA0BCD=E2FC2_FD
 
 ;0x05FC0D89=~z~You shouldn't drink. You can't spare the brain cells.
-0x05FC0D89=~z~You shouldn't drink. You can't spare the brain cells.
+0x05FC0D89=~z~你不应该喝酒的，喝得脑子都没了。
 
 ;0x08122AAC=~z~Say what the fuck you like, I don't care.
-0x08122AAC=~z~Say what the fuck you like, I don't care.
+0x08122AAC=~z~你他妈想说啥就说啥吧，我不在乎。
 
 ;0x0A1440A5=~z~Shit. I think I'm a little drunk.
-0x0A1440A5=~z~Shit. I think I'm a little drunk.
+0x0A1440A5=~z~妈的，我寻思我有点上头了。
 
 ;0x0ADAD723=E2FC2_AN
 0x0ADAD723=E2FC2_AN
@@ -27,7 +27,7 @@
 0x0B770FE4=E2FC2_GC
 
 ;0x0BA2A1E0=~z~Fuck you.
-0x0BA2A1E0=~z~Fuck you.
+0x0BA2A1E0=~z~操你妈的。
 
 ;0x0BC1CB8F=E2FC2_BI
 0x0BC1CB8F=E2FC2_BI
@@ -36,10 +36,10 @@
 0x0BC39827=E2FC2_HK
 
 ;0x0CC26B7C=~z~What an annoying little bitch you is.
-0x0CC26B7C=~z~What an annoying little bitch you is.
+0x0CC26B7C=~z~你这小臭逼真烦人。
 
 ;0x0FB220F5=~z~That's 'cause I am drunk.
-0x0FB220F5=~z~That's 'cause I am drunk.
+0x0FB220F5=~z~这就是为啥我会喝醉了。
 
 ;0x1027E6C1=E2FC2_AQ
 0x1027E6C1=E2FC2_AQ
@@ -60,22 +60,22 @@
 0x194809D7=E2FC2_DM
 
 ;0x1A60BB12=~z~I may be drunk, but I ain't no motherfucker, Rique. That your department.
-0x1A60BB12=~z~I may be drunk, but I ain't no motherfucker, Rique. That your department.
+0x1A60BB12=~z~就算我喝多了我也不会撒酒疯，Rique。那是你的作风。
 
 ;0x1A8086F8=~z~Forget what?
-0x1A8086F8=~z~Forget what?
+0x1A8086F8=~z~忘了啥？
 
 ;0x1D418B6E=E2FC2_BR
 0x1D418B6E=E2FC2_BR
 
 ;0x201D6CE0=~z~It ain't even like that. We probably gonna stay with our pias.
-0x201D6CE0=~z~It ain't even like that. We probably gonna stay with our pias.
+0x201D6CE0=~z~才不是那样呢。咱们还是有脑子的。
 
 ;0x208FDAF5=~z~Please do.
-0x208FDAF5=~z~Please do.
+0x208FDAF5=~z~求之不得。
 
 ;0x2186C49E=~z~Shit, H, you look drunk, man.
-0x2186C49E=~z~Shit, H, you look drunk, man.
+0x2186C49E=~z~妈的，H，你看起来喝多了，哥们。
 
 ;0x21CF4677=E2FC2_CB
 0x21CF4677=E2FC2_CB
@@ -87,7 +87,7 @@
 0x22D2FFE5=E2FC2_BF
 
 ;0x2481E38B=~z~You opened your fucking mouth.
-0x2481E38B=~z~You opened your fucking mouth.
+0x2481E38B=~z~你他妈动动嘴吧。
 
 ;0x25F74DE6=E2FC2_HL
 0x25F74DE6=E2FC2_HL
@@ -96,22 +96,22 @@
 0x2608D230=E2FC2_GG
 
 ;0x268508E2=~z~Oh, here we go. Luis is gay, Luis loves men,
-0x268508E2=~z~Oh, here we go. Luis is gay, Luis loves men,
+0x268508E2=~z~哦，开始了，Luis是基佬，Luis喜欢男的，
 
 ;0x29426CEC=E2FC2_BB
 0x29426CEC=E2FC2_BB
 
 ;0x2A766E94=~z~Freedom was wasted on you, motherfucker.
-0x2A766E94=~z~Freedom was wasted on you, motherfucker.
+0x2A766E94=~z~自由被你糟蹋了，你他妈的。
 
 ;0x2ABD4750=E2FC2_HC
 0x2ABD4750=E2FC2_HC
 
 ;0x2CAB5FA7=~z~We three drunk motherfuckers, ain't we?
-0x2CAB5FA7=~z~We three drunk motherfuckers, ain't we?
+0x2CAB5FA7=~z~咱们仨都是喝疯了的，不是吗？
 
 ;0x2E60F697=~z~Fuck the pair of you. I don't like you fags no more. I'm gonnna find me some new losers to hang out with.
-0x2E60F697=~z~Fuck the pair of you. I don't like you fags no more. I'm gonnna find me some new losers to hang out with.
+0x2E60F697=~z~操你俩的，我才不喜欢你们这帮基佬。我要找别的废物一起出去玩。
 
 ;0x32C85466=E2FC2_HB
 0x32C85466=E2FC2_HB
@@ -123,13 +123,13 @@
 0x3435F24E=E2FC2_BM
 
 ;0x34A415ED=~z~I ain't no restaurant white table cloth yessir yessir motherfucker like you, fool.
-0x34A415ED=~z~I ain't no restaurant white table cloth yessir yessir motherfucker like you, fool.
+0x34A415ED=~z~我才不是像你一样在饭店里打杂的废物，傻逼。
 
 ;0x34AA09B5=E2FC2_AD
 0x34AA09B5=E2FC2_AD
 
 ;0x35DA7205=~z~That's what you called your cellmate wasn't it?
-0x35DA7205=~z~That's what you called your cellmate wasn't it?
+0x35DA7205=~z~你就是这么叫你的狱友的？
 
 ;0x368614A7=E2FC2_HG
 0x368614A7=E2FC2_HG
@@ -144,10 +144,10 @@
 0x36D4090F=E2FC2_HJ
 
 ;0x383AAC4D=~z~All I been doing is hanging out with dudes. Now I know what it like to be you, surrounded by dudes all the time.
-0x383AAC4D=~z~All I been doing is hanging out with dudes. Now I know what it like to be you, surrounded by dudes all the time.
+0x383AAC4D=~z~我所做的就是和男人们在一起。现在我知道你整天被男人包围着是什么感觉了。
 
 ;0x38576CA3=~z~You pussies weren't even pulling your weight in there.
-0x38576CA3=~z~You pussies weren't even pulling your weight in there.
+0x38576CA3=~z~你们这些娘炮都没尽力。
 
 ;0x3A6ECA6F=E2FC2_BP
 0x3A6ECA6F=E2FC2_BP
@@ -159,13 +159,13 @@
 0x3E7D169B=E2FC2_AB
 
 ;0x40560B4A=~z~Sure, whatever you say.
-0x40560B4A=~z~Sure, whatever you say.
+0x40560B4A=~z~是啊，你说啥都行。
 
 ;0x4310C1F9=~z~Yeah, alright... I mean a distinct lack of pussy recently but okay.
-0x4310C1F9=~z~Yeah, alright... I mean a distinct lack of pussy recently but okay.
+0x4310C1F9=~z~是，好吧…我的意思是最近没逼操。不过还好没大碍。
 
 ;0x4514DC20=~z~Cause you so damn hard.
-0x4514DC20=~z~Cause you so damn hard.
+0x4514DC20=~z~因为你真他妈硬。
 
 ;0x46D88880=E2FC2_DF
 0x46D88880=E2FC2_DF
@@ -180,7 +180,7 @@
 0x48A8540D=E2FC2_AM
 
 ;0x4C0113F2=~z~I was drinking for the both of you. That's the only reason I'm this drunk.
-0x4C0113F2=~z~I was drinking for the both of you. That's the only reason I'm this drunk.
+0x4C0113F2=~z~我在为你俩喝酒，这就是为啥我会醉成这样了。
 
 ;0x4DE60BD0=E2FC2_GJ
 0x4DE60BD0=E2FC2_GJ
@@ -192,10 +192,10 @@
 0x4FF17490=E2FC2_BQ
 
 ;0x51FAAA65=~z~"Harder, daddy. Harder! Slap that hairy ass."
-0x51FAAA65=~z~"Harder, daddy. Harder! Slap that hairy ass."
+0x51FAAA65=~z~”硬点，干爹，再硬点！打我那毛屁股吧。“
 
 ;0x531752D3=~z~I don't know about that.
-0x531752D3=~z~I don't know about that.
+0x531752D3=~z~那我不懂。
 
 ;0x53922C62=E2FC2_GH
 0x53922C62=E2FC2_GH
@@ -204,7 +204,7 @@
 0x5447B1E4=190290190090290190090290190
 
 ;0x54B9654A=~z~Good man.
-0x54B9654A=~z~Good man.
+0x54B9654A=~z~不错啊，哥们。
 
 ;0x5571B103=E2FC2_FG
 0x5571B103=E2FC2_FG
@@ -213,7 +213,7 @@
 0x56AC4F11=E2FC2_AF
 
 ;0x56DB7FAD=~z~Me too, and if i'm drunk you two must be gone.
-0x56DB7FAD=~z~Me too, and if i'm drunk you two must be gone.
+0x56DB7FAD=~z~我也是，要是我喝高了的话你俩肯定得上西天。
 
 ;0x56EFE6BE=E2FC2_BE
 0x56EFE6BE=E2FC2_BE
@@ -222,7 +222,7 @@
 0x580F5AED=E2FC2_HH
 
 ;0x58FCDE6D=~z~Jesus, what is wrong with you, a little drink and you turn into morons,
-0x58FCDE6D=~z~Jesus, what is wrong with you, a little drink and you turn into morons,
+0x58FCDE6D=~z~天哪，你有病吧，才两杯就喝傻了？
 
 ;0x59CF6EBD=E2FC2_BC
 0x59CF6EBD=E2FC2_BC
@@ -231,37 +231,37 @@
 0x5B362E01=E2FC2_GB
 
 ;0x5CFB85EF=~z~You boys is both out of control, I'm the one who's in control.
-0x5CFB85EF=~z~You boys is both out of control, I'm the one who's in control.
+0x5CFB85EF=~z~你哥俩都疯了，我还正常。
 
 ;0x5D477E34=E2FC2_EK
 0x5D477E34=E2FC2_EK
 
 ;0x5D68B6C1=~z~What you mean, bro?
-0x5D68B6C1=~z~What you mean, bro?
+0x5D68B6C1=~z~你啥意思，兄弟？
 
 ;0x5F91BE72=E2FC2_DB
 0x5F91BE72=E2FC2_DB
 
 ;0x60408C51=~z~No, you too stupid to know when to keep on going.
-0x60408C51=~z~No, you too stupid to know when to keep on going.
+0x60408C51=~z~不，你太蠢了，不懂得啥时候该继续。
 
 ;0x60E94C70=~z~Makes me wonder why you so insecure... what you so embarrassed about?
-0x60E94C70=~z~Makes me wonder why you so insecure... what you so embarrassed about?
+0x60E94C70=~z~搞得我想知道为啥你这么怂…你怕啥呢？
 
 ;0x620295F7=~z~You drink so much.
-0x620295F7=~z~You drink so much.
+0x620295F7=~z~你喝太多了。
 
 ;0x62D34C16=~z~He give it to you soft, or give it to you gentle.
-0x62D34C16=~z~He give it to you soft, or give it to you gentle.
+0x62D34C16=~z~他给你柔软，还是给你温柔。
 
 ;0x63ADFADA=E2FC2_BD
 0x63ADFADA=E2FC2_BD
 
 ;0x64CBF63C=~z~What up, A? That could be fun.
-0x64CBF63C=~z~What up, A? That could be fun.
+0x64CBF63C=~z~怎么样，A？这很有意思。
 
 ;0x652091F7=~z~Sorry, bro, but I think I'm about to me.
-0x652091F7=~z~Sorry, bro, but I think I'm about to me.
+0x652091F7=~z~不好意思，兄弟，但我觉得我快到了。
 
 ;0x6560461E=190290190290190290190090190290190290190
 0x6560461E=190290190290190290190090190290190290190
@@ -273,7 +273,7 @@
 0x66929E71=E2FC2_AL
 
 ;0x66C179F6=~z~I'm totally fine.
-0x66C179F6=~z~I'm totally fine.
+0x66C179F6=~z~我整个人都很好。
 
 ;0x66FAF7EC=E2FC2_HI
 0x66FAF7EC=E2FC2_HI
@@ -285,22 +285,22 @@
 0x6B409F29=E2FC2_AG
 
 ;0x6E3CA871=~z~You know what I mean, Mr. Sensible bitch-ass bitch.
-0x6E3CA871=~z~You know what I mean, Mr. Sensible bitch-ass bitch.
+0x6E3CA871=~z~你知道我啥意思的，老懂哥。
 
 ;0x6E5BF73E=~z~Nah, I needed to say that, A. I been holding onto it for too long. I'm sorry, but it needed to get said.
-0x6E5BF73E=~z~Nah, I needed to say that, A. I been holding onto it for too long. I'm sorry, but it needed to get said.
+0x6E5BF73E=~z~呐，我得提一下，A。我忍了很久了。很抱歉，但我还是要开口。
 
 ;0x6E85637A=~z~You one to talk, L. How's big Tony like it?
-0x6E85637A=~z~You one to talk, L. How's big Tony like it?
+0x6E85637A=~z~你说一下呗，L。最近Tony大哥怎样？
 
 ;0x6F26E8EB=~z~Thank you, H.
-0x6F26E8EB=~z~Thank you, H.
+0x6F26E8EB=~z~谢谢你，H。
 
 ;0x6F7E9AD4=~z~Well, maybe I did, but how was I know to do Luis was on his period? You and tony got your cycles lined up?
-0x6F7E9AD4=~z~Well, maybe I did, but how was I know to do Luis was on his period? You and tony got your cycles lined up?
+0x6F7E9AD4=~z~好吧，也许我有过，但是要咋样才知道Luis经期的时候我该干啥？你和Tony搞清楚经期了吗？
 
 ;0x6FBC316A=~z~Exactly.
-0x6FBC316A=~z~Exactly.
+0x6FBC316A=~z~对的。
 
 ;0x6FEE4185=E2FC2_BV
 0x6FEE4185=E2FC2_BV
@@ -309,10 +309,10 @@
 0x7241651A=E2FC2_CD1
 
 ;0x7407B3DF=~z~He too stupid to know when to stop.
-0x7407B3DF=~z~He too stupid to know when to stop.
+0x7407B3DF=~z~他太傻逼了，不知道啥时候该打住。
 
 ;0x74099486=~z~I'm fine. Always knew you was queer.
-0x74099486=~z~I'm fine. Always knew you was queer.
+0x74099486=~z~我很好，知道你是个基佬。
 
 ;0x7528E878=E2FC2_DC
 0x7528E878=E2FC2_DC
@@ -321,13 +321,13 @@
 0x76497854=E2FC2_BK
 
 ;0x77A81BF8=~z~Think about it, bro. Luis Lopez staying in some five star silk sheet palace
-0x77A81BF8=~z~Think about it, bro. Luis Lopez staying in some five star silk sheet palace
+0x77A81BF8=~z~你想啊，兄弟。Luis Lopez睡在一个有着丝绸床单的五星级豪宅里
 
 ;0x7B8699D5=E2FC2_EB
 0x7B8699D5=E2FC2_EB
 
 ;0x7D0A93B7=~z~Fuck you for thinking otherwise. Phoney fucking pool boy for a fucking fag don't make you so special.
-0x7D0A93B7=~z~Fuck you for thinking otherwise. Phoney fucking pool boy for a fucking fag don't make you so special.
+0x7D0A93B7=~z~你做你妈梦呢。就算你打台球耍得了小聪明，对于你这个操蛋基佬来说也不算啥。
 
 ;0x7DB0C463=E2FC2_BO
 0x7DB0C463=E2FC2_BO
@@ -339,34 +339,34 @@
 0x7DF1895A=E2FC2_CA
 
 ;0x81323E3B=~z~Yeah you did.
-0x81323E3B=~z~Yeah you did.
+0x81323E3B=~z~是啊。
 
 ;0x81E33039=~z~I'm gone.
-0x81E33039=~z~I'm gone.
+0x81E33039=~z~我走了。
 
 ;0x88623730=~z~Exactly!
-0x88623730=~z~Exactly!
+0x88623730=~z~对的！
 
 ;0x89258AF9=E2FC2_DH
 0x89258AF9=E2FC2_DH
 
 ;0x8935BF13=~z~Me and you cooped up in an un-air-conditioned rat trap.
-0x8935BF13=~z~Me and you cooped up in an un-air-conditioned rat trap.
+0x8935BF13=~z~我和你被困在一个闷闷的老鼠洞里。
 
 ;0x893A1D11=~z~Fuck you.
-0x893A1D11=~z~Fuck you.
+0x893A1D11=~z~操你妈的。
 
 ;0x89D3C01A=~z~Then why you pissed yourself?
-0x89D3C01A=~z~Then why you pissed yourself?
+0x89D3C01A=~z~那你咋尿衣服上了？
 
 ;0x8AB9616A=~z~That's why I need another drink.
-0x8AB9616A=~z~That's why I need another drink.
+0x8AB9616A=~z~那就是为啥我还要再来一杯的原因了。
 
 ;0x8BFB7A7F=E2FC2_BW
 0x8BFB7A7F=E2FC2_BW
 
 ;0x8BFC53CF=~z~You touchy today, bro. I didn't mean nothing.
-0x8BFC53CF=~z~You touchy today, bro. I didn't mean nothing.
+0x8BFC53CF=~z~你咋生气了，兄弟。我没别的意思啊。
 
 ;0x8C093766=E2FC2_AH
 0x8C093766=E2FC2_AH
@@ -381,13 +381,13 @@
 0x8E50CE25=E2FC2_EG
 
 ;0x8ECB3738=~z~No, fuck you. You a snitch and a coward. I forgave you for ratting folks out,
-0x8ECB3738=~z~No, fuck you. You a snitch and a coward. I forgave you for ratting folks out,
+0x8ECB3738=~z~不，操你妈的。你个打小报告的怂逼。我原谅你出卖大伙，
 
 ;0x8FA31632=~z~No, he fucking wishes.
-0x8FA31632=~z~No, he fucking wishes.
+0x8FA31632=~z~不，他太他妈想啦。
 
 ;0x909FBB17=~z~You tell him, H.
-0x909FBB17=~z~You tell him, H.
+0x909FBB17=~z~你告诉他吧，H。
 
 ;0x90B40528=E2FC2_BT
 0x90B40528=E2FC2_BT
@@ -399,10 +399,10 @@
 0x925A2BEB=E2FC2_FF
 
 ;0x928F51FA=~z~Coño bro, that might be true. We should take, like, a holiday together. Hit up DR.
-0x928F51FA=~z~Coño bro, that might be true. We should take, like, a holiday together. Hit up DR.
+0x928F51FA=~z~妈的，兄弟，那也许是对的，咱一块确实，呃，像度假一样。在多米尼加见吧。
 
 ;0x92AC4BC4=~z~Fuck the pair of you.
-0x92AC4BC4=~z~Fuck the pair of you.
+0x92AC4BC4=~z~操你俩的。
 
 ;0x92CA9335=E2FC2_HF
 0x92CA9335=E2FC2_HF
@@ -411,7 +411,7 @@
 0x93539B76=E2FC2_AI
 
 ;0x9528A640=~z~I don't know, man. Do I need an excuse to be drunk with my boys?
-0x9528A640=~z~I don't know, man. Do I need an excuse to be drunk with my boys?
+0x9528A640=~z~我咋知道啊，哥们。跟我的兄弟们大喝一顿还需要理由吗？
 
 ;0x953CB77E=E2FC2_BL
 0x953CB77E=E2FC2_BL
@@ -420,7 +420,7 @@
 0x95E03883=E2FC2_FE
 
 ;0x9691B392=~z~Soft and gentle is the same things, you idiot.
-0x9691B392=~z~Soft and gentle is the same things, you idiot.
+0x9691B392=~z~柔软和温柔是同一个东西，你个傻逼。
 
 ;0x97156CE0=E2FC2_DI
 0x97156CE0=E2FC2_DI
@@ -429,13 +429,13 @@
 0x97999963=E2FC2_HD
 
 ;0x97A648EE=~z~cause I thought it might give you an opportunity to stay outta jail and make something of yourself.
-0x97A648EE=~z~cause I thought it might give you an opportunity to stay outta jail and make something of yourself.
+0x97A648EE=~z~因为我觉得这会给你个机会离开监狱干自己想干的事情。
 
 ;0x99101FB0=290090190090190290200190290090290
 0x99101FB0=290090190090190290200190290090290
 
 ;0x9AF407D9=~z~Shit, I'm wasted.
-0x9AF407D9=~z~Shit, I'm wasted.
+0x9AF407D9=~z~妈的，我白瞎了。
 
 ;0x9B72D3BF=E2FC2_BH
 0x9B72D3BF=E2FC2_BH
@@ -447,10 +447,10 @@
 0x9D78ABF1=E2FC2_HE2
 
 ;0x9DA6F724=~z~Luis betrayed us by getting a job... change the fucking record, A.
-0x9DA6F724=~z~Luis betrayed us by getting a job... change the fucking record, A.
+0x9DA6F724=~z~Luis背叛我们，找了份工作…真他妈破记录啊，A。
 
 ;0x9F12EA98=~z~That ain't piss!
-0x9F12EA98=~z~That ain't piss!
+0x9F12EA98=~z~那不是尿！
 
 ;0xA0C6B534=E2FC2_AJ
 0xA0C6B534=E2FC2_AJ
@@ -468,10 +468,10 @@
 0xA315570E=090190290190290190290190290090190
 
 ;0xA4151421=~z~You just had something to drink, H. You drunk as a motherfucker.
-0xA4151421=~z~You just had something to drink, H. You drunk as a motherfucker.
+0xA4151421=~z~你才喝了两杯就像个疯子一样，H。
 
 ;0xA5C6D62A=~z~The company I keep.
-0xA5C6D62A=~z~The company I keep.
+0xA5C6D62A=~z~和我一块的人。
 
 ;0xA6C97E2E=E2FC2_EF
 0xA6C97E2E=E2FC2_EF
@@ -480,37 +480,37 @@
 0xAA583B61=E2FC2_AU
 
 ;0xAB1DEFDD=~z~But oh no, you just made more of a mess out of shit on the outside and that's what you still doing.
-0xAB1DEFDD=~z~But oh no, you just made more of a mess out of shit on the outside and that's what you still doing.
+0xAB1DEFDD=~z~倒也不，你一直在干的事情只是帮倒忙。
 
 ;0xABD6DF60=E2FC2_CE
 0xABD6DF60=E2FC2_CE
 
 ;0xADA907D0=~z~Really?
-0xADA907D0=~z~Really?
+0xADA907D0=~z~真的吗？
 
 ;0xADD52079=E2FC2_AO
 0xADD52079=E2FC2_AO
 
 ;0xAF855AF9=~z~He like the hunchback of Northwood Heights, that chip is so big.
-0xAF855AF9=~z~He like the hunchback of Northwood Heights, that chip is so big.
+0xAF855AF9=~z~他喜欢Northwood Heights的驼背佬，欠的钱很多。
 
 ;0xB0C1E332=~z~Charity! That's why I spend my time with you.
-0xB0C1E332=~z~Charity! That's why I spend my time with you.
+0xB0C1E332=~z~做慈善啊！这就是为啥我花时间在这陪你们。
 
 ;0xB2AD0615=E2FC2_ED
 0xB2AD0615=E2FC2_ED
 
 ;0xB2D52D5F=~z~You better not be sick on me again.
-0xB2D52D5F=~z~You better not be sick on me again.
+0xB2D52D5F=~z~你最好别又来恶心我。
 
 ;0xB3FF729B=~z~At least people will fuck me!
-0xB3FF729B=~z~At least people will fuck me!
+0xB3FF729B=~z~至少大家会来搞我！
 
 ;0xB4C0575A=090290190190090090190290190090090190290090290190290190290090190290
 0xB4C0575A=090290190190090090190290190090090190290090290190290190290090190290
 
 ;0xB4D88352=~z~Shit, L...
-0xB4D88352=~z~Shit, L...
+0xB4D88352=~z~妈的，L…
 
 ;0xB59CE0C1=E2FC2_HB3
 0xB59CE0C1=E2FC2_HB3
@@ -522,7 +522,7 @@
 0xB748BBDA=E2FC2_BS
 
 ;0xB74C3A8F=~z~We ain't even started yet, bro. I need something to drink.
-0xB74C3A8F=~z~We ain't even started yet, bro. I need something to drink.
+0xB74C3A8F=~z~咱还没开始呢，兄弟。我要来点喝的。
 
 ;0xB77BE597=E2FC2_HA
 0xB77BE597=E2FC2_HA
@@ -534,25 +534,25 @@
 0xBA0F7128=E2FC2_DD
 
 ;0xBAD8A22F=~z~For real.
-0xBAD8A22F=~z~For real.
+0xBAD8A22F=~z~我说真的。
 
 ;0xBC491243=~z~You can't dress us up in fancy clothes and pretend we is something else than we are.
-0xBC491243=~z~You can't dress us up in fancy clothes and pretend we is something else than we are.
+0xBC491243=~z~你不能拿奇装异服来把咱打扮成别的样子。
 
 ;0xBD2AFBE8=~z~You too are more annoying drunk than sober. Man. I am fucked up!
-0xBD2AFBE8=~z~You too are more annoying drunk than sober. Man. I am fucked up!
+0xBD2AFBE8=~z~你喝高的时候比醒着还要疯。哥们，我疯掉了！
 
 ;0xC076CCE4=~z~In control? I look like I'm in control to you? Damn. You a bigger fool than I thought.
-0xC076CCE4=~z~In control? I look like I'm in control to you? Damn. You a bigger fool than I thought.
+0xC076CCE4=~z~正常？你觉得我看起来正常？妈的，你傻得出乎我意料。
 
 ;0xC0A2C8FA=~z~I think I'm gonna be sick.
-0xC0A2C8FA=~z~I think I'm gonna be sick.
+0xC0A2C8FA=~z~我寻思我要不行了。
 
 ;0xC0E14211=E2FC2_AK
 0xC0E14211=E2FC2_AK
 
 ;0xC12BFE46=~z~No man, yo, you drunk 'cause you drinking for you and that massive chip on your shoulder.
-0xC12BFE46=~z~No man, yo, you drunk 'cause you drinking for you and that massive chip on your shoulder.
+0xC12BFE46=~z~不哥们，哟，你喝醉是因为你肩上沉甸甸的债务。
 
 ;0xC2CF7F68=E2FC2_DG
 0xC2CF7F68=E2FC2_DG
@@ -561,16 +561,16 @@
 0xC3CBEC3E=290190090090290090190190090190090290090190290
 
 ;0xC47335C1=~z~Shit, L, it so good to have you on board again. I feel like we ain't spent this much time together since we was kids.
-0xC47335C1=~z~Shit, L, it so good to have you on board again. I feel like we ain't spent this much time together since we was kids.
+0xC47335C1=~z~妈的，L，跟你出来玩真开心。我觉得我们从小就没在一起待过这么久。
 
 ;0xC82F16B0=~z~Yeah. You just fuck daddies. Big hairy daddies.
-0xC82F16B0=~z~Yeah. You just fuck daddies. Big hairy daddies.
+0xC82F16B0=~z~是啊。你只操干爹，一身毛的老干爹。
 
 ;0xC91C8924=~z~I thought Tony the homo woulda made a distinction.
-0xC91C8924=~z~I thought Tony the homo woulda made a distinction.
+0xC91C8924=~z~我寻思Tony那基佬会区分得了的。
 
 ;0xCA58909F=~z~I don't think so, L. What we even talking about?
-0xCA58909F=~z~I don't think so, L. What we even talking about?
+0xCA58909F=~z~我觉得不是，L。咱都聊了啥？
 
 ;0xCBD6BB94=E2FC2_EC
 0xCBD6BB94=E2FC2_EC
@@ -582,10 +582,10 @@
 0xCC931533=E2FC2_DE
 
 ;0xCED69F3F=~z~Good question.
-0xCED69F3F=~z~Good question.
+0xCED69F3F=~z~问得好。
 
 ;0xCF0DB7CC=~z~Coño mano, you take that corner with you wherever you go, don't you, A?
-0xCF0DB7CC=~z~Coño mano, you take that corner with you wherever you go, don't you, A?
+0xCF0DB7CC=~z~你妈的，不管你去哪都是要贩毒混饭吃，是吗，A？
 
 ;0xCFE2A807=E2FC2_FI
 0xCFE2A807=E2FC2_FI
@@ -597,31 +597,31 @@
 0xD387D686=E2FC2_EI
 
 ;0xD3CEF394=~z~Luis Lopez, the man who's always in control.
-0xD3CEF394=~z~Luis Lopez, the man who's always in control.
+0xD3CEF394=~z~Luis Lopez，千杯不倒的男人。
 
 ;0xD48B9FFA=~z~No, he fucking wishes.
-0xD48B9FFA=~z~No, he fucking wishes.
+0xD48B9FFA=~z~不，他太他妈想啦。
 
 ;0xD617A312=~z~There some real chemistry here. Pair of fucking morons.
-0xD617A312=~z~There some real chemistry here. Pair of fucking morons.
+0xD617A312=~z~这是真正的关系，你俩真他妈傻逼啊。
 
 ;0xD64A7E1D=E2FC2_DJ
 0xD64A7E1D=E2FC2_DJ
 
 ;0xD746F642=~z~Fuck you!
-0xD746F642=~z~Fuck you!
+0xD746F642=~z~操你妈的！
 
 ;0xD7F4C99A=~z~Always got to be the street tough guy. It's fucking ignorant.
-0xD7F4C99A=~z~Always got to be the street tough guy. It's fucking ignorant.
+0xD7F4C99A=~z~总是像个街头无赖一样，真他妈粗鲁。
 
 ;0xD878B283=~z~Fuck off. If you so fucking bright, who you spend all your time with me?
-0xD878B283=~z~Fuck off. If you so fucking bright, who you spend all your time with me?
+0xD878B283=~z~滚你妈的。要是你他妈的这么聪明，那你要带上我花时间去陪的人是谁？
 
 ;0xDA5A6B71=E2FC2_BG
 0xDA5A6B71=E2FC2_BG
 
 ;0xDB262D37=~z~I'll give it to you soft and gentle, if you not careful.
-0xDB262D37=~z~I'll give it to you soft and gentle, if you not careful.
+0xDB262D37=~z~要是你不够精致的话，我会来呵护你的。
 
 ;0xDB73755E=E2FC2_CJ
 0xDB73755E=E2FC2_CJ
@@ -639,7 +639,7 @@
 0xE392E210=E2FC2_AE1
 
 ;0xE48F5668=~z~I spilled my drink... oh fuck you too.
-0xE48F5668=~z~I spilled my drink... oh fuck you too.
+0xE48F5668=~z~我酒撒了…哦，你他妈也是。
 
 ;0xE5CF2446=E2FC2_DL
 0xE5CF2446=E2FC2_DL
@@ -648,22 +648,22 @@
 0xE681F14D=E2FC2_FH
 
 ;0xE6FA49E2=~z~Okay, if that's my excuse, what's yours, L?
-0xE6FA49E2=~z~Okay, if that's my excuse, what's yours, L?
+0xE6FA49E2=~z~行啊，要是那是我的借口的话，那你的呢，L？
 
 ;0xE99516D8=E2FC2_AP
 0xE99516D8=E2FC2_AP
 
 ;0xE9D00046=~z~But shit, we wanna go to a restaurant or something, I could pick that up.
-0xE9D00046=~z~But shit, we wanna go to a restaurant or something, I could pick that up.
+0xE9D00046=~z~操，咱想去吃饭啥的，我可以来。
 
 ;0xEA475620=~z~What you down to now, 15 or 20? Brain must be held together with bits of string.
-0xEA475620=~z~What you down to now, 15 or 20? Brain must be held together with bits of string.
+0xEA475620=~z~你现在智商降到多少了，15还是20？脑子要多开动才会灵光。
 
 ;0xEA515F36=~z~You the most angry, pent up annoying little cunt I ever met and I met quite a few.
-0xEA515F36=~z~You the most angry, pent up annoying little cunt I ever met and I met quite a few.
+0xEA515F36=~z~你是我到目前为止见过的最饥渴的小骚逼。
 
 ;0xEA906ED1=~z~I ain't ashamed of being ignorant. I didn't have no choice about who I am. It the only option I ever had, L.
-0xEA906ED1=~z~I ain't ashamed of being ignorant. I didn't have no choice about who I am. It the only option I ever had, L.
+0xEA906ED1=~z~作为一个大老粗我一点也不害臊。活成啥样我没得选，我只能这样子，L。
 
 ;0xEB16F454=E2FC2_AE2
 0xEB16F454=E2FC2_AE2
@@ -672,10 +672,10 @@
 0xEBD84AE7=E2FC2_GF1
 
 ;0xEF1DD942=~z~It's rare that I say it, but I'm siding with Armando here. I can't drink no more.
-0xEF1DD942=~z~It's rare that I say it, but I'm siding with Armando here. I can't drink no more.
+0xEF1DD942=~z~我很少这样说，但我现在支持Armando。我不能再喝了。
 
 ;0xF034B261=~z~Cause you got to forget.
-0xF034B261=~z~Cause you got to forget.
+0xF034B261=~z~因为你得忘记。
 
 ;0xF4AB8B4D=E2FC2_EE
 0xF4AB8B4D=E2FC2_EE
@@ -684,19 +684,19 @@
 0xF6163CD8=E2FC2_DK
 
 ;0xF6CB881F=~z~I don't give a fuck if you do, man. You talk about being from the streets and you opened your fucking mouth, man.
-0xF6CB881F=~z~I don't give a fuck if you do, man. You talk about being from the streets and you opened your fucking mouth, man.
+0xF6CB881F=~z~你要这么干的话那我也管不了，哥们。那你他妈去吹吧，吹你是街头无赖吧。
 
 ;0xF880FB95=~z~No wonder you ain't getting laid, dickhead.
-0xF880FB95=~z~No wonder you ain't getting laid, dickhead.
+0xF880FB95=~z~怪不得你个笨逼没上床。
 
 ;0xF8BEED6B=~z~Who fucking knows. Fuck both of you
-0xF8BEED6B=~z~Who fucking knows. Fuck both of you
+0xF8BEED6B=~z~谁他妈懂。操你俩的
 
 ;0xFA55F63D=~z~Fuck you.
-0xFA55F63D=~z~Fuck you.
+0xFA55F63D=~z~操你妈的。
 
 ;0xFD62055F=~z~It's true, man. You pretty angry.
-0xFD62055F=~z~It's true, man. You pretty angry.
+0xFD62055F=~z~这是真的，哥们。你是真的骚。
 
 ;0xFDCFCD97=~z~Yes.
 0xFDCFCD97=~z~Yes.
@@ -705,11 +705,11 @@
 0xFDD298DF=E2FC2_AC
 
 ;0xFE4D7385=~z~Whoa. Get a room. I'm feeling some real heat off you two.
-0xFE4D7385=~z~Whoa. Get a room. I'm feeling some real heat off you two.
+0xFE4D7385=~z~哇哦。那开房吧。我感到你俩蠢蠢欲动了。
 
 ;0xFE5889FA=~z~Looks like piss.
-0xFE5889FA=~z~Looks like piss.
+0xFE5889FA=~z~看起来像泡尿似的。
 
 ;0xFEB1B918=~z~So how you been boys?
-0xFEB1B918=~z~So how you been boys?
+0xFEB1B918=~z~你好吗伙计？
 
