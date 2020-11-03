@@ -3,35 +3,33 @@
 0x000355B4=100
 
 ;0x06A5C855=~z~Let's call it quits, L.
-0x06A5C855=~z~Let's call it quits, L.
+0x06A5C855=~z~我们取消它吧，L。
 
 ;0x070B11B0=E2FAH_CDA
 0x070B11B0=E2FAH_CDA
 
 ;0x086BE558=~z~I want another drink?
-0x086BE558=~z~I want another drink?
+0x086BE558=~z~我能再来一杯么？
 
 ;0x0873F70A=~z~Man, I feel kind of sick.
-0x0873F70A=~z~Man, I feel kind of sick.
+0x0873F70A=~z~伙计，我有点恶心。
 
 ;0x09023F2D=E2FAH_AVA
 0x09023F2D=E2FAH_AVA
 
 ;0x094FB08C=~z~Tony's ruined you, man. You turned into some whitebread motherfucker.
-0x094FB08C=~z~Tony's ruined you, man. You turned into some whitebread motherfucker.
+0x094FB08C=~z~Tony把你毁了。你变成一个富贵的混账玩意了。
 
 ;0x0C1C0A43=~z~I think I need another drink.
-0x0C1C0A43=~z~I think I need another drink.
-
+0x0C1C0A43=~z~我觉得我还得喝一杯。
 ;0x0C9E9796=~z~Three Latino's on the floor, we was incredible.
-0x0C9E9796=~z~Three Latino's on the floor, we was incredible.
+0x0C9E9796=~z~三个拉丁人睡在地上，我们真了不起。
 
 ;0x0E161B9B=200
 0x0E161B9B=200
 
 ;0x0EF93940=~z~Drop us off, if you've had enough, bitch.
-0x0EF93940=~z~Drop us off, if you've had enough, bitch.
-
+0x0EF93940=~z~如果你不想玩了，就送我们回去，沙雕。
 ;0x1057CD10=200
 0x1057CD10=200
 
@@ -39,19 +37,19 @@
 0x108D5187=E2FAH_BAA
 
 ;0x10BBFFA2=~z~That was fun but I've had enough of you fools.
-0x10BBFFA2=~z~That was fun but I've had enough of you fools.
+0x10BBFFA2=~z~真有意思。不过我今天已经和你们几个憨批玩的差不多了。
 
 ;0x10BF31AA=~z~See you later, L.
-0x10BF31AA=~z~See you later, L.
+0x10BF31AA=~z~再见，L。
 
 ;0x12A7AE18=~z~I'm exhausted.
-0x12A7AE18=~z~I'm exhausted.
+0x12A7AE18=~z~我累瘫了。
 
 ;0x15E8AA2A=~z~We tore that shit up!
-0x15E8AA2A=~z~We tore that shit up!
+0x15E8AA2A=~z~我们要把那垃圾撕碎！
 
 ;0x181B3461=~z~You know, for a fag, you're still fun, papa.
-0x181B3461=~z~You know, for a fag, you're still fun, papa.
+0x181B3461=~z~你知道，就基佬而言，你还挺有意思的，爸爸。
 
 ;0x1AA53878=100
 0x1AA53878=100
@@ -60,16 +58,15 @@
 0x1C4B0E0A=100
 
 ;0x1D3C3760=~z~Maybe we've all had enough now, L.
-0x1D3C3760=~z~Maybe we've all had enough now, L.
+0x1D3C3760=~z~大概咱们都玩够了，L。
 
 ;0x1D74B1F7=100
 0x1D74B1F7=100
 
 ;0x21694639=~z~Not as good as you Moms makes it, but good nonetheless.
-0x21694639=~z~Not as good as you Moms makes it, but good nonetheless.
-
+0x21694639=~z~没你妈做的好，不过还不错啦。
 ;0x2262D4F1=~z~Bye, L, man.
-0x2262D4F1=~z~Bye, L, man.
+0x2262D4F1=~z~拜，L，伙计。
 
 ;0x23C5F274=E2FAH_AXA
 0x23C5F274=E2FAH_AXA
@@ -78,16 +75,15 @@
 0x23E4F956=E2FAH_AZA
 
 ;0x24489170=~z~That was incredible.
-0x24489170=~z~That was incredible.
+0x24489170=~z~那真牛逼。
 
 ;0x24FF890A=~z~I'm sober man, sober as shit.
-0x24FF890A=~z~I'm sober man, sober as shit.
-
+0x24FF890A=~z~我很冷静，哥们，不能再冷静了。
 ;0x26BDBE24=~z~You look drunk. Thank god I'm fine.
-0x26BDBE24=~z~You look drunk. Thank god I'm fine.
+0x26BDBE24=~z~你看起来醉了，所幸我还好。
 
 ;0x27141B53=~z~You gone over to the other side, L?
-0x27141B53=~z~You gone over to the other side, L?
+0x27141B53=~z~你去另一边么，L？
 
 ;0x2849AEFD=200
 0x2849AEFD=200
@@ -96,19 +92,19 @@
 0x293CED8E=100
 
 ;0x297E4BF1=~z~Man you bitches are drunk.
-0x297E4BF1=~z~Man you bitches are drunk.
+0x297E4BF1=~z~哦你们这群婊砸喝醉了。
 
 ;0x2C379378=~z~I think we all had enough now, L.
-0x2C379378=~z~I think we all had enough now, L.
+0x2C379378=~z~我想我们都玩的差不多了，L。
 
 ;0x2F4E43DE=~z~That champagne costs too much.
-0x2F4E43DE=~z~That champagne costs too much.
+0x2F4E43DE=~z~那香槟真贵。
 
 ;0x2F4E8224=~z~I'm still up for hanging out.
-0x2F4E8224=~z~I'm still up for hanging out.
+0x2F4E8224=~z~我还想继续玩。
 
 ;0x311BCFDB=~z~I just love that shit.
-0x311BCFDB=~z~I just love that shit.
+0x311BCFDB=~z~我他妈的爱死那了。
 
 ;0x333E2CF4=200
 0x333E2CF4=200
@@ -120,7 +116,7 @@
 0x36B38405=200
 
 ;0x37F817FE=~z~What's wrong? You missing the cock?
-0x37F817FE=~z~What's wrong? You missing the cock?
+0x37F817FE=~z~怎么了？你想念牛子了？
 
 ;0x38CCEED6=200
 0x38CCEED6=200
@@ -129,34 +125,34 @@
 0x3985158E=200
 
 ;0x3AD17909=~z~That was decent.
-0x3AD17909=~z~That was decent.
+0x3AD17909=~z~那真合适。
 
 ;0x3BD855DA=~z~I'm tired now.
-0x3BD855DA=~z~I'm tired now.
+0x3BD855DA=~z~我好累。
 
 ;0x3CF3D020=E2FAH_CCA
 0x3CF3D020=E2FAH_CCA
 
 ;0x3E65EED6=~z~I feel kind of sick.
-0x3E65EED6=~z~I feel kind of sick.
+0x3E65EED6=~z~我有点恶心。
 
 ;0x3EE0E3E3=~z~I'm pretty full.
-0x3EE0E3E3=~z~I'm pretty full.
+0x3EE0E3E3=~z~吃得好饱。
 
 ;0x3F643DD7=~z~That was great...but I'm not drunk.
-0x3F643DD7=~z~That was great...but I'm not drunk.
+0x3F643DD7=~z~那真好......但我没喝醉。
 
 ;0x4077152D=~z~See you soon, bro.
-0x4077152D=~z~See you soon, bro.
+0x4077152D=~z~再见，哥们。
 
 ;0x44AC6A1E=200
 0x44AC6A1E=200
 
 ;0x44DAA3BC=~z~If you got better things to be doing, drop us off, homie.
-0x44DAA3BC=~z~If you got better things to be doing, drop us off, homie.
+0x44DAA3BC=~z~如果你还有事忙的话，送我们回去吧，伙计。
 
 ;0x4580AE88=~z~Yeah. I'm still up for more.
-0x4580AE88=~z~Yeah. I'm still up for more.
+0x4580AE88=~z~耶，我还没玩够。
 
 ;0x46082EA1=100
 0x46082EA1=100
@@ -168,22 +164,22 @@
 0x46F3FFB5=100
 
 ;0x4B2BD926=~z~Man, that was good fun.
-0x4B2BD926=~z~Man, that was good fun.
+0x4B2BD926=~z~老哥，太有意思了。
 
 ;0x4D089E3B=~z~That was fun, L, let's hang soon.
-0x4D089E3B=~z~That was fun, L, let's hang soon.
+0x4D089E3B=~z~玩的真开心，我们不久后再出来玩吧。
 
 ;0x4EC0794A=~z~Yeah, I'm starting to think about throwing up.
-0x4EC0794A=~z~Yeah, I'm starting to think about throwing up.
+0x4EC0794A=~z~耶，我已经想吐了。
 
 ;0x52013841=~z~Good hanging, L.
-0x52013841=~z~Good hanging, L.
+0x52013841=~z~玩的真爽，L。
 
 ;0x520BC79E=~z~Come on, let's hang some more.
-0x520BC79E=~z~Come on, let's hang some more.
+0x520BC79E=~z~继续啊，再玩点别的。
 
 ;0x54E676F7=~z~You spending too much time with Tony?
-0x54E676F7=~z~You spending too much time with Tony?
+0x54E676F7=~z~你和Tony混的太久了？
 
 ;0x5710B08A=E2FAH_CEA
 0x5710B08A=E2FAH_CEA
@@ -198,43 +194,40 @@
 0x5C8C84D2=E2FAH_CAA
 
 ;0x5CF174EB=~z~I think we all beat now, L.
-0x5CF174EB=~z~I think we all beat now, L.
+0x5CF174EB=~z~咱们应该都玩不动了吧，L。
 
 ;0x5D6E7DAB=~z~I am not drunk. I just look drunk and am wobbling a bit.
-0x5D6E7DAB=~z~I am not drunk. I just look drunk and am wobbling a bit.
-
+0x5D6E7DAB=~z~我没喝醉，就是看起来醉有点不稳而已。
 ;0x5EB39F6E=E2FAH_BUA
 0x5EB39F6E=E2FAH_BUA
 
 ;0x5ECDAB3E=~z~That stuff tastes so weird, I love it.
-0x5ECDAB3E=~z~That stuff tastes so weird, I love it.
+0x5ECDAB3E=~z~那饭味真奇怪，我喜欢。
 
 ;0x60D45CF5=~z~If you've got to split, drop us off at home.
-0x60D45CF5=~z~If you've got to split, drop us off at home.
-
+0x60D45CF5=~z~如果你得说拜拜了，送我们回家吧。
 ;0x61399734=~z~We do this shit again.
-0x61399734=~z~We do this shit again.
+0x61399734=~z~我们再来玩吧。
 
 ;0x6180C280=200
 0x6180C280=200
 
 ;0x61F90DA5=~z~You were doing okay, man.
-0x61F90DA5=~z~You were doing okay, man.
+0x61F90DA5=~z~你做的还行，哥们。
 
 ;0x626B2D85=E2FAH_BWA
 0x626B2D85=E2FAH_BWA
 
 ;0x63AC1CCF=~z~That was fun, ladies.
-0x63AC1CCF=~z~That was fun, ladies.
+0x63AC1CCF=~z~玩的真不错，小妞们。
 
 ;0x6475EC72=~z~I'm still having fun.
-0x6475EC72=~z~I'm still having fun.
-
+0x6475EC72=~z~我正爽的上头呢。
 ;0x6485935F=100
 0x6485935F=100
 
 ;0x648D969F=~z~I better split.
-0x648D969F=~z~I better split.
+0x648D969F=~z~我得闪人了。
 
 ;0x66223C9A=100
 0x66223C9A=100
@@ -246,31 +239,31 @@
 0x698346A0=E2FAH_CKA
 
 ;0x69CD57C4=~z~That was good times, boys. See you soon, L.
-0x69CD57C4=~z~That was good times, boys. See you soon, L.
+0x69CD57C4=~z~过得真不错，兄弟们。再见，L。
 
 ;0x69DDDB2B=E2FAH_BHA
 0x69DDDB2B=E2FAH_BHA
 
 ;0x6A9F708B=~z~Drop us back home if you're bored. Captain Downtown.
-0x6A9F708B=~z~Drop us back home if you're bored. Captain Downtown.
+0x6A9F708B=~z~ 如果无聊就送我们回家吧。市区大手子。
 
 ;0x6AAA0163=E2FAH_AWA
 0x6AAA0163=E2FAH_AWA
 
 ;0x6D9F1372=~z~I'm not drunk, the world's gone weird.
-0x6D9F1372=~z~I'm not drunk, the world's gone weird.
+0x6D9F1372=~z~醉的不是我，是这个世界。
 
 ;0x6DFED3B0=~z~L man, that was some gay shit.
-0x6DFED3B0=~z~L man, that was some gay shit.
+0x6DFED3B0=~z~L，哥们，真是欢乐。
 
 ;0x7146B804=~z~Good hanging with you idiots.
-0x7146B804=~z~Good hanging with you idiots.
+0x7146B804=~z~跟你们这些憨憨玩感觉还不错。
 
 ;0x72040639=200
 0x72040639=200
 
 ;0x72119CBE=~z~Shit, that was fun.
-0x72119CBE=~z~Shit, that was fun.
+0x72119CBE=~z~操，真好玩。
 
 ;0x72E3B00C=E2FAH_BZA
 0x72E3B00C=E2FAH_BZA
@@ -279,7 +272,7 @@
 0x763D03C2=E2FAH_BRA
 
 ;0x76730120=~z~See you soon, L.
-0x76730120=~z~See you soon, L.
+0x76730120=~z~再见，L。
 
 ;0x77681730=100
 0x77681730=100
@@ -297,28 +290,28 @@
 0x7A458772=E2FAH_CBA
 
 ;0x7B327A8E=~z~Let's hang again, soon boys.
-0x7B327A8E=~z~Let's hang again, soon boys.
+0x7B327A8E=~z~我们再出来玩吧，别等太久，各位。
 
 ;0x7FADB78F=~z~That was fun, but I need another drink.
-0x7FADB78F=~z~That was fun, but I need another drink.
+0x7FADB78F=~z~真有意思，但我得再喝一杯。
 
 ;0x80B159E0=E2FAH_BGA
 0x80B159E0=E2FAH_BGA
 
 ;0x83B46723=~z~I'm up for more partying.
-0x83B46723=~z~I'm up for more partying.
+0x83B46723=~z~我准备继续更多的活动了。
 
 ;0x83F331B5=E2FAH_AYA
 0x83F331B5=E2FAH_AYA
 
 ;0x8633FD78=~z~That was fun, I love you guys.
-0x8633FD78=~z~That was fun, I love you guys.
+0x8633FD78=~z~真有意思。我爱你们。
 
 ;0x8828C7E7=E2FAH_BCA
 0x8828C7E7=E2FAH_BCA
 
 ;0x88C20298=~z~Good hanging with you fuckers.
-0x88C20298=~z~Good hanging with you fuckers.
+0x88C20298=~z~能见到你们这些闸总真是太好了。
 
 ;0x8AF69C3C=E2FAH_BIA
 0x8AF69C3C=E2FAH_BIA
@@ -327,7 +320,7 @@
 0x8D7797F5=E2FAH_CHA
 
 ;0x8E02717B=~z~For a pair of fools, you're still fun.
-0x8E02717B=~z~For a pair of fools, you're still fun.
+0x8E02717B=~z~就一对憨批而言，你们挺有意思。
 
 ;0x8E3E2EF0=E2FAH_BNA
 0x8E3E2EF0=E2FAH_BNA
@@ -336,22 +329,22 @@
 0x9144832B=100
 
 ;0x91ED0394=~z~I'm up for partying some more.
-0x91ED0394=~z~I'm up for partying some more.
+0x91ED0394=~z~我准备继续更多的活动了。
 
 ;0x92380782=E2FAH_BVA
 0x92380782=E2FAH_BVA
 
 ;0x92DFFA80=~z~Good hanging with you two.
-0x92DFFA80=~z~Good hanging with you two.
+0x92DFFA80=~z~和你俩玩真不错。
 
 ;0x92E89692=100
 0x92E89692=100
 
 ;0x93FC757C=~z~I'm too drunk for this, better get out of here.
-0x93FC757C=~z~I'm too drunk for this, better get out of here.
+0x93FC757C=~z~我醉成傻逼了，还是走吧。
 
 ;0x942A41EE=~z~Drop us back home if you're bored, L.
-0x942A41EE=~z~Drop us back home if you're bored, L.
+0x942A41EE=~z~如果无聊就送我们回家吧，L。
 
 ;0x94864CF7=200
 0x94864CF7=200
