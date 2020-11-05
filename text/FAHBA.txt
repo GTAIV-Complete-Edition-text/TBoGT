@@ -353,7 +353,7 @@
 0x95A3BF37=E2FAH_BQA
 
 ;0x9629F525=~z~That'll soak up some of that drink.
-0x9629F525=~z~That'll soak up some of that drink.
+0x9629F525=~z~我得喝点那酒。
 
 ;0x97F3F5A5=200
 0x97F3F5A5=200
@@ -365,10 +365,10 @@
 0x9D2CB565=E2FAH_BSA
 
 ;0xA5045E42=~z~Later on, L.
-0xA5045E42=~z~Later on, L.
+0xA5045E42=~z~再会了，L。
 
 ;0xA885B64F=~z~Man, for some gay shit, that was fun.
-0xA885B64F=~z~Man, for some gay shit, that was fun.
+0xA885B64F=~z~哦，这可他娘的有意思，真有意思。
 
 ;0xACDD2AB6=200
 0xACDD2AB6=200
@@ -377,7 +377,7 @@
 0xADBCACDE=E2FAH_BJA
 
 ;0xB28390B6=~z~That was fun, man...but I need a drink.
-0xB28390B6=~z~That was fun, man...but I need a drink.
+0xB28390B6=~z~那真有意思......但我要喝一杯。
 
 ;0xB34F2F55=200
 0xB34F2F55=200
@@ -386,13 +386,13 @@
 0xB461B12B=E2FAH_BXA
 
 ;0xB7B436EC=~z~That was fun.
-0xB7B436EC=~z~That was fun.
+0xB7B436EC=~z~真不错。
 
 ;0xB8D84722=~z~It's all good, ladies.
-0xB8D84722=~z~It's all good, ladies.
+0xB8D84722=~z~一切顺利，娘们。
 
 ;0xB943AD92=~z~That was fun, but I think we should quit while we're ahead.
-0xB943AD92=~z~That was fun, but I think we should quit while we're ahead.
+0xB943AD92=~z~真有意思，但我觉得我们得提早离开了。
 
 ;0xBC0F80C7=E2FAH_BMA
 0xBC0F80C7=E2FAH_BMA
@@ -401,13 +401,13 @@
 0xBC733C10=100
 
 ;0xBD540372=~z~At least I'm not drunk.
-0xBD540372=~z~At least I'm not drunk.
+0xBD540372=~z~至少我还没醉。
 
 ;0xBF69CA20=100
 0xBF69CA20=100
 
 ;0xC0465D86=~z~That was fun, L...guess you ain't turned queer. See you soon, man.
-0xC0465D86=~z~That was fun, L...guess you ain't turned queer. See you soon, man.
+0xC0465D86=~z~好玩，L......我想你还没变成基佬吧。再见哥们。
 
 ;0xC0CD2EEA=100
 0xC0CD2EEA=100
@@ -419,10 +419,10 @@
 0xC4DBF9FC=E2FAH_BEA
 
 ;0xC56BD25B=~z~Mine was kind of skanky.
-0xC56BD25B=~z~Mine was kind of skanky.
+0xC56BD25B=~z~我的有点烦人。
 
 ;0xC59FE96B=~z~I've had enough of you fools.
-0xC59FE96B=~z~I've had enough of you fools.
+0xC59FE96B=~z~我受够你们这些傻逼了。
 
 ;0xC5A754CA=E2FAH_BYA
 0xC5A754CA=E2FAH_BYA
@@ -431,16 +431,16 @@
 0xC5D3941E=E2FAH_BOA
 
 ;0xC68EDF5A=~z~Nothing like rat meat to really fill you up.
-0xC68EDF5A=~z~Nothing like rat meat to really fill you up.
+0xC68EDF5A=~z~没啥比老鼠肉更适合堵你的嘴。
 
 ;0xC91089D2=~z~Why you quit, L? Not enough dudes?
-0xC91089D2=~z~Why you quit, L? Not enough dudes?
+0xC91089D2=~z~为啥要走啊，L？还没玩够呢？
 
 ;0xC94CF8F2=E2FAH_BDA
 0xC94CF8F2=E2FAH_BDA
 
 ;0xCBE55457=~z~Yeah, white bread motherfuckers, that was shit.
-0xCBE55457=~z~Yeah, white bread motherfuckers, that was shit.
+0xCBE55457=~z~耶，去你妈的后浪，操蛋。
 
 ;0xCBF27408=010
 0xCBF27408=010
@@ -449,40 +449,40 @@
 0xCDF116A7=E2FAH_CFA
 
 ;0xCE20F93B=~z~Good hanign with you, homie.
-0xCE20F93B=~z~Good hanign with you, homie.
+0xCE20F93B=~z~跟你出来玩真好，伙计。
 
 ;0xCFDD6970=~z~Why you quit? You got some moves, gay ones, but moves.
-0xCFDD6970=~z~Why you quit? You got some moves, gay ones, but moves.
+0xCFDD6970=~z~你为啥要离开？
 
 ;0xD3E5C727=200
 0xD3E5C727=200
 
 ;0xD45A06DF=~z~Man, I am beat.
-0xD45A06DF=~z~Man, I am beat.
+0xD45A06DF=~z~哥们，我累成狗了。
 
 ;0xD4B47BA5=~z~I feel shit already.
-0xD4B47BA5=~z~I feel shit already.
+0xD4B47BA5=~z~我现在难受的要死。
 
 ;0xD54FA1CB=E2FAH_CJA
 0xD54FA1CB=E2FAH_CJA
 
 ;0xD8439078=~z~Man, she was in love with me,
-0xD8439078=~z~Man, she was in love with me,
+0xD8439078=~z~哥们，她爱我。
 
 ;0xD86C4EF8=200
 0xD86C4EF8=200
 
 ;0xD86D4EC8=~z~See, it's different when you ain't dancing with gays, L.
-0xD86D4EC8=~z~See, it's different when you ain't dancing with gays, L.
+0xD86D4EC8=~z~看见了没，这可和基佬共舞不一样。
 
 ;0xDFDDF855=~z~I'm too drunk to know if my girl was even pretty.
-0xDFDDF855=~z~I'm too drunk to know if my girl was even pretty.
+0xDFDDF855=~z~我醉的都看不清我那马子长得啥样了。
 
 ;0xE3053F00=~z~That was pretty fun.
-0xE3053F00=~z~That was pretty fun.
+0xE3053F00=~z~可真有意思。
 
 ;0xE4327413=~z~Man, I need a drink.
-0xE4327413=~z~Man, I need a drink.
+0xE4327413=~z~哥们，我要喝一杯。
 
 ;0xE43EF08C=100
 0xE43EF08C=100
@@ -494,10 +494,10 @@
 0xE5FA689A=200
 
 ;0xE74A2A5F=~z~Me too.
-0xE74A2A5F=~z~Me too.
+0xE74A2A5F=~z~俺也一样。
 
 ;0xE88341B0=~z~You bitches are drunk.
-0xE88341B0=~z~You bitches are drunk.
+0xE88341B0=~z~你们几个烂醉的傻屌。
 
 ;0xE8A1F460=010
 0xE8A1F460=010
@@ -506,28 +506,28 @@
 0xEA28D276=E2FAH_CGA
 
 ;0xEA4B3487=~z~They always fall in love with me.
-0xEA4B3487=~z~They always fall in love with me.
+0xEA4B3487=~z~她们总是被我迷倒。
 
 ;0xEAD1528B=~z~I think it's time to quit, L.
-0xEAD1528B=~z~I think it's time to quit, L.
+0xEAD1528B=~z~我觉得能走了，L。
 
 ;0xEC5F6A9D=~z~Yeah, that was fucking great.
-0xEC5F6A9D=~z~Yeah, that was fucking great.
+0xEC5F6A9D=~z~耶，太他妈爽了。
 
 ;0xED5157EF=200
 0xED5157EF=200
 
 ;0xEDC10385=~z~You got to run off to Tony?
-0xEDC10385=~z~You got to run off to Tony?
+0xEDC10385=~z~你得和Tony私奔了？
 
 ;0xF4D104F0=~z~If you're late for a session of sucking cock, just drop us off.
-0xF4D104F0=~z~If you're late for a session of sucking cock, just drop us off.
+0xF4D104F0=~z~如果你赶不上给人嗦牛子的话，就把我们放在这里吧。
 
 ;0xF63D40FB=~z~Why do they always smell of peach?
-0xF63D40FB=~z~Why do they always smell of peach?
+0xF63D40FB=~z~她们为啥闻着总这么甜蜜？
 
 ;0xFAC78769=~z~Fuck, I am drunk as shit.
-0xFAC78769=~z~Fuck, I am drunk as shit.
+0xFAC78769=~z~操，我醉成傻逼了。
 
 ;0xFB4DD213=E2FAH_BKA
 0xFB4DD213=E2FAH_BKA
@@ -536,5 +536,5 @@
 0xFD66F605=200
 
 ;0xFDB337F2=~z~Two left feet.
-0xFDB337F2=~z~Two left feet.
+0xFDB337F2=~z~笨拙死了。
 
