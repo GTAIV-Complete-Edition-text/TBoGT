@@ -1,13 +1,13 @@
-﻿[PBLB247]
+[PBLB247]
 ;0x27FAB847=Joshua Crane
 0x27FAB847=Joshua Crane
 
 ;0x67AAB144=The military industrial complex claims another victim. Notorious agent of death, Frickie van Hardenburg was killed yesterday, seemingly in the middle of an arms deal. Having only just been allowed a visa to enter the country, the slave trader and arms dealer that human rights groups have been trying to put on trial was himself the victim of horrific violence, after a bloody attack by an unknown assailant on his boat, seemingly killing all on board. This is the kind of violence we expect when the government cares more about weapons than health care. Mr. van Hardenburg who saw himself as a legitimate businessman, but who had links to countless repressive regimes in Africa and the Middle East, and who has been implicated in slave trading in Asia, along with diamond dealing and above all weapons smuggling into conflicts across the globe, was a popular guest of several Senators, who will no doubt mourn his passing and the healthy campaign donations he made.
-0x67AAB144=The military industrial complex claims another victim. Notorious agent of death, Frickie van Hardenburg was killed yesterday, seemingly in the middle of an arms deal. Having only just been allowed a visa to enter the country, the slave trader and arms dealer that human rights groups have been trying to put on trial was himself the victim of horrific violence, after a bloody attack by an unknown assailant on his boat, seemingly killing all on board. This is the kind of violence we expect when the government cares more about weapons than health care. Mr. van Hardenburg who saw himself as a legitimate businessman, but who had links to countless repressive regimes in Africa and the Middle East, and who has been implicated in slave trading in Asia, along with diamond dealing and above all weapons smuggling into conflicts across the globe, was a popular guest of several Senators, who will no doubt mourn his passing and the healthy campaign donations he made.
+0x67AAB144=军工联合体宣布了另一名受害者的身份。臭名昭著的死亡使者，Frickie van Hardenburg于昨日在一场疑似军火交易的现场遇害。在一名未知身份的袭击者将船上所有人员屠戮一空之后，这位刚刚获得许可进入本国并被国际人道组织穷追不舍欲使其接受应有审判的奴隶贩子和军火商，终于亲身体验了一把当可怖暴行降临于己身时的滋味。当政府醉心于武器而非医疗保健的时候，这种暴行就是我们期望所看见的。van Hardenburg先生一贯声称自己是一名合法商人，但却与非洲和中东等地区的无政府专制政权眉来眼去，与亚洲的奴隶贩子暗通款曲，参与钻石交易并把军火走私到全球各处。除此之外，他还是我们国家好几位参议员的座上宾朋，这几位参议员想必一定在为他的死还有他的那些政治献金感到无比的悲痛。
 
 ;0x68F26CFF=DEATH OF AN ARMS SALESMAN
-0x68F26CFF=DEATH OF AN ARMS SALESMAN
+0x68F26CFF=军火商之死
 
 ;0xC49198AB=Justice Done as Mega Yacht Sinks
-0xC49198AB=Justice Done as Mega Yacht Sinks
+0xC49198AB=正义于豪华游艇的水槽中得以伸张
 

@@ -1,16 +1,15 @@
-﻿[PBLB248]
+[PBLB248]
 ;0x0777BAE9=A young woman in Alderney City, who installed the Eunux open-source operating system on her home computer, has become the victim of an evil hate campaign. The Eunux community has taken the girl's attempts to infiltrate their little white boys' club as a personal attack on their inadequate masculinity and has thrown all their joint efforts into publicly bashing her on blogs and newsgroups. What gives a bunch of losers who spend their Saturday nights recompiling a kernel, fantasizing about sleeping with their mother and shuddering if a female brushes past them on the subway the right to take out their fear of women and lack of social skills on a 13-year-old girl? Are they afraid that she will disturb their circle jerk session? Since when was a penis a prerequisite for computer programming?
-0x0777BAE9=A young woman in Alderney City, who installed the Eunux open-source operating system on her home computer, has become the victim of an evil hate campaign. The Eunux community has taken the girl's attempts to infiltrate their little white boys' club as a personal attack on their inadequate masculinity and has thrown all their joint efforts into publicly bashing her on blogs and newsgroups. What gives a bunch of losers who spend their Saturday nights recompiling a kernel, fantasizing about sleeping with their mother and shuddering if a female brushes past them on the subway the right to take out their fear of women and lack of social skills on a 13-year-old girl? Are they afraid that she will disturb their circle jerk session? Since when was a penis a prerequisite for computer programming?
+0x0777BAE9=一位居住在Alderney的女子因为在自己家电脑上安装了Eunux开源系统而沦为了一场邪恶的仇恨运动的受害者。Eunux社区把这个女孩尝试进入他们小小白人男孩俱乐部的行为视作一种对他们缺乏男子气概的攻击，他们联起手来重拳出击，在博客和新闻栏下夜以继日的抨击她。到底是谁给了这帮子利用周六夜晚再编译程序内核、幻想着晚上和妈妈一起睡觉、与地铁上陌生女性擦肩就紧张到发抖的废柴们权力去把他们骨子里对女性以及对社交障碍的恐惧发泄在一名年仅13岁的小女孩身上？他们担心她会打扰到自己定期参与的蠢蛋会议吗？从什么时候开始编程的前提变成了胯间得有一根鸡巴？
 
 ;0x19741B3A=S. Fiona Scott
 0x19741B3A=S. Fiona Scott
 
 ;0x3717894A=Hate Campaign Against Female Eunux User
-0x3717894A=Hate Campaign Against Female Eunux User
+0x3717894A=针对女性Eunux用户的仇恨运动
 
 ;0xDBC0C709=A code of sexism?
 0xDBC0C709=A code of sexism?
 
 ;0xF91B1E34=The worst part is that these young misogynists will soon be running the high-tech companies that continue to pay women 95% less than their male counterparts. The disgusting treatment of this poor girl at the hands of a group of pimple-faced teenagers who will never get laid is a microcosm of the phallocentric society in which American women are condemned to live. It is high time that Eunux woke up to the fact that a woman's interest in technology runs further than finding a cell phone that matches her shoes. You go girl. Fuck the patriarchy.
-0xF91B1E34=The worst part is that these young misogynists will soon be running the high-tech companies that continue to pay women 95% less than their male counterparts. The disgusting treatment of this poor girl at the hands of a group of pimple-faced teenagers who will never get laid is a microcosm of the phallocentric society in which American women are condemned to live. It is high time that Eunux woke up to the fact that a woman's interest in technology runs further than finding a cell phone that matches her shoes. You go girl. Fuck the patriarchy.
-
+0xF91B1E34=最糟糕的是这些年轻的厌女人士即将开始运营一家家高科技公司，支付给女性员工相比于她们那些长着鸡巴的同事们低95%的工资。这些受雇于满脸粉刺的小鬼且被极不公正对待的可怜女孩们将永远不会被解雇——此乃男权至上社会的一个缩影，女性受困于其间频受苛责。现在是Eunux社区醒来并接受女性在技术方面的兴趣要远超过找到一款能搭自己鞋子的手机这一事实的时候了。加油吧女孩子们，操翻傻逼父权制即为尔等之使命。

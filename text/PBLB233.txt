@@ -1,12 +1,12 @@
-﻿[PBLB233]
+[PBLB233]
 ;0x1E934DE3=How did we get here? The family dentist has become a creep. A drug dealer. A lecher. And despite most of us having dental insurance, each visit costs us a fortune. It came to a head recently with Simon Epstein, the so called Dirty Dentist, a sad case which sheds a light on a profession that needs to be regulated. Our children go to these creeps. Who knows what these guys are doing to my teen daughter while I'm in the waiting room thumbing through some idiotic right wing magazine? Epstein, it has been claimed, also used to masturbate his patients to relax them during root canals. It's sick, and the conservatives have deregulated our country to such an extent that this kind of thing goes on, unimpeded by the state.
-0x1E934DE3=How did we get here? The family dentist has become a creep. A drug dealer. A lecher. And despite most of us having dental insurance, each visit costs us a fortune. It came to a head recently with Simon Epstein, the so called Dirty Dentist, a sad case which sheds a light on a profession that needs to be regulated. Our children go to these creeps. Who knows what these guys are doing to my teen daughter while I'm in the waiting room thumbing through some idiotic right wing magazine? Epstein, it has been claimed, also used to masturbate his patients to relax them during root canals. It's sick, and the conservatives have deregulated our country to such an extent that this kind of thing goes on, unimpeded by the state.
+0x1E934DE3=我们何以沦落至此？家庭牙医已经变成了一团四处乱流的烂泥。毒品贩子。无耻好色之徒。以及尽管大多数人都拥有牙科保险，可是每次去看牙我们还是得花一大笔钱。被称为“龌龊牙医”的主角Simon Epstein近日引人关注，这一让人不愉的案例仅仅只是此需要监管行业的现状之一隅。我们的孩子走向这些烂泥怪物。在我无聊翻阅等候室里的傻逼右翼杂志时，鬼知道这帮变态在对我年幼的女儿做什么？据说Epstein之前为了让他的病人放松下来，会在根管治疗之前给他们撸上一管。这真的令人几欲呕吐，保守派的疏于管制把我们的国家变成了一副烂摊子，而诸如“龌龊牙医”的事件就在这种不受国家法律限制的情况下发生了。
 
 ;0x4DE0BA68=Dirty Dentist
-0x4DE0BA68=Dirty Dentist
+0x4DE0BA68=龌龊牙医
 
 ;0xA653DD98=Dentists need more regulation
-0xA653DD98=Dentists need more regulation
+0xA653DD98=牙医亟需更有力的监管
 
 ;0xF6D035F3=Candice Johnson
 0xF6D035F3=Candice Johnson
