@@ -51,7 +51,7 @@
 0x0D473513=~z~咱可不是来过家家的，兄弟。他们船上运着东西，这就是咱要做的。
 
 ;0x0F59D148=~z~It's time to get paid. Let's go.
-0x0F59D148=~z~是时候搞钱了，咱们上。
+0x0F59D148=~z~是时候动手了，咱们上。
 
 ;0x10700B2F=SFX_PAUSE_250
 0x10700B2F=SFX_PAUSE_250
@@ -90,7 +90,7 @@
 0x175E96AF=E2DW_ATB
 
 ;0x177DB872=~z~Damn right. I'm gonna get two sets of fries. That's how rich I'm gonna be.
-0x177DB872=~z~太他妈对了。以后去吃饭，我都要点双份。老子就是这么壕气。
+0x177DB872=~z~太他妈对了。以后去吃饭我都要点双份。老子就是这么壕气。
 
 ;0x179EC2B0=~z~Let's give into that temptation then.
 0x179EC2B0=~z~那让咱们屈服于诱惑吧。
@@ -117,7 +117,7 @@
 0x1AAEB8DE=E2DW_BGA
 
 ;0x1ACE3A05=~z~How's it feel to slum it, bro? You driving around two low rate pushers, not some Vinewood slut.
-0x1ACE3A05=~z~来到这过苦日子的感觉咋样，兄弟？你可是在跟着两个带货的小马仔开车兜风，而不是好麦坞的臭婆娘呢。
+0x1ACE3A05=~z~来到这过苦日子的感觉咋样，兄弟？现在跟着你开车兜风的是两个带货的小马仔，而不是好麦坞的臭婆娘呢。
 
 ;0x1B890722=E2DW_ANB
 0x1B890722=E2DW_ANB
@@ -138,7 +138,7 @@
 0x1DD76DB6=E2DW_AQB
 
 ;0x1E6467D2=~z~What we doing now, A?
-0x1E6467D2=~z~现在咱们干啥，？
+0x1E6467D2=~z~现在咱们干啥，A？
 
 ;0x1E91DC94=E2DW_BHB
 0x1E91DC94=E2DW_BHB
@@ -189,7 +189,7 @@
 0x2501FC98=~z~见到你们这帮伙计真好，哥们。
 
 ;0x25284F3B=~z~We going out to get ahold of this car. It meant to be loaded up with some real pure product.
-0x25284F3B=~z~咱们出去把这车子拿下。它上面应该装有些真家伙。
+0x25284F3B=~z~咱们出去把这车子拿下。它上面应该装有些好东西。
 
 ;0x26C017F8=100100090010090100100090010
 0x26C017F8=100100090010090100100090010
@@ -201,7 +201,7 @@
 0x26DF1171=~z~那会乱成啥样，H？
 
 ;0x271A25B1=~z~You such a sad cynic, bro. Don't you ever get tired of that shit?
-0x271A25B1=~z~你真是个可怜的懂哥，兄弟。弄这些破事你不觉得厌烦吗？
+0x271A25B1=~z~你愤世嫉俗起来真可怜，兄弟。弄这些破事你不觉得厌烦吗？
 
 ;0x27300964=200020090200090020
 0x27300964=200020090200090020
@@ -366,7 +366,7 @@
 0x4BE32CFC=~z~听起来够简单的。老掉牙的玩意。
 
 ;0x4C4D4B32=~z~You ready, ladies? ~c~ Let's go.
-0x4C4D4B32=~z~娘炮们准备好没？ ~c~ 咱们走。
+0x4C4D4B32=~z~娘炮们，准备好没？ ~c~ 咱们走。
 
 ;0x4C579D7F=SFX_PAUSE_270
 0x4C579D7F=SFX_PAUSE_270
@@ -384,7 +384,7 @@
 0x4F54D240=SFX_PAUSE_370
 
 ;0x4F7FB0C4=~z~Ain't you a specifical little bitch? Okay, we busting open a convoy and taking their shit.
-0x4F7FB0C4=~z~你个小婊子又立啥牌坊？好吧，咱们把这队人打开花，然后拿他们的货。
+0x4F7FB0C4=~z~你个小逼崽子不是有一手吗？好吧，咱们把这队人打开花，然后拿他们的货。
 
 ;0x4FA65E76=~z~It would be if we was all rich like you, Downtown, but some of us are in this to put food in our babies' mouths.
 0x4FA65E76=~z~要是咱们像你一样有钱的话，那肯定的啊，城里人。但咱们干这些是为了养家糊口啊。
@@ -405,7 +405,7 @@
 0x54126E6B=SFX_PAUSE_350
 
 ;0x542B4986=~z~Same as it always is, L. We ripping fools off.
-0x542B4986=~z~像往常一样，L。咱把傻逼们都干了。
+0x542B4986=~z~像往常一样，L。咱把傻逼们都干掉。
 
 ;0x54CC202E=E2DW_AXB
 0x54CC202E=E2DW_AXB
@@ -534,7 +534,7 @@
 0x738911E8=SFX_PAUSE_270
 
 ;0x73D3EC95=~z~Lay it down for me, Rique.
-0x73D3EC95=~z~给我把它放下，Rique。
+0x73D3EC95=~z~给我把他们打趴下，Rique。
 
 ;0x73DF1F78=SFX_PAUSE_250
 0x73DF1F78=SFX_PAUSE_250
@@ -603,7 +603,7 @@
 0x80612DE4=SFX_PAUSE_270
 
 ;0x80F21719=~z~Thought maybe we could rip them off, take the money and the product.
-0x80F21719=~z~咱寻思也许得把他们埋了，然后卷钱卷货跑路。
+0x80F21719=~z~咱寻思也许得把他们干掉，然后卷钱卷货跑路。
 
 ;0x81BD92F6=E2DW_BDA
 0x81BD92F6=E2DW_BDA
@@ -663,13 +663,13 @@
 0x8CDB5771=~z~我不懂你在说啥，哥们。我可没有男朋友。
 
 ;0x8D0AC525=~z~That's the real work, the stickup's easy. Vinewood shit.
-0x8D0AC525=~z~那可是玩真的，打劫很简单的，你个好麦坞的臭玩意。
+0x8D0AC525=~z~那才是难的部分。抢劫才简单，就和好麦坞大片里的一样。
 
 ;0x8EAD7591=E2DW_BJB
 0x8EAD7591=E2DW_BJB
 
 ;0x8ED2E170=~z~We need any running done, you the man for that.
-0x8ED2E170=~z~我们要点人来跑腿，你就是那个人。
+0x8ED2E170=~z~我们要找点人来跑腿，那个人就是你。
 
 ;0x90DB85D7=E2DW_AZF
 0x90DB85D7=E2DW_AZF
@@ -684,7 +684,7 @@
 0x9183B6AF=010090100090100090010
 
 ;0x91B6ED5D=~z~Yeah, bro. That's exactly what I mean.
-0x91B6ED5D=~z~是啊，兄弟。那的确就是我的意思。
+0x91B6ED5D=~z~是啊，兄弟。我就是那意思。
 
 ;0x91BDFB6F=100090010100090010
 0x91BDFB6F=100090010100090010
@@ -708,10 +708,10 @@
 0x93A44847=E2DW_BHC
 
 ;0x94529211=~z~What exactly am I handling, Mr Keeping-it-oh-so-real?
-0x94529211=~z~说真的，我在干嘛呢，真货哥？
+0x94529211=~z~说真的，我在干嘛呢，自以为是的家伙？
 
 ;0x952DE2EF=~z~Luis, man, this gonna be fun.
-0x952DE2EF=~z~Lusi，哥们，这会很有意思的。
+0x952DE2EF=~z~Luis，哥们，这很有意思的。
 
 ;0x954A9E71=~z~I ain't got no problem no more, L. I spent most last summer at the public pool.
 0x954A9E71=~z~我没啥好问的了，L。去年夏天我几乎都泡在了公共泳池里了。
@@ -720,7 +720,7 @@
 0x95A7E3F1=SFX_PAUSE_350
 
 ;0x969B619D=~z~Fuck you, bro. I got the down low on a stash and this is how you treat me?
-0x969B619D=~z~操你妈的，兄弟。我放下身段来跟你在这偷车，你就这样对我？
+0x969B619D=~z~操你妈的，兄弟。我放下身段来跟你在这带货，你就这样对我？
 
 ;0x98A46F03=~z~You ain't ever gonna get tired of those jokes, is you?
 0x98A46F03=~z~你一天天的讲这些笑话不累吗？
@@ -768,7 +768,7 @@
 0xA6356944=~z~嘿，L，这回很好玩，咱要去劫一波车队。
 
 ;0xA6AD9574=~z~Word is people are moving some product across town.
-0xA6AD9574=~z~有消息说一帮人在带着货穿过城市。
+0xA6AD9574=~z~有消息说一帮人正在带着货穿过城市。
 
 ;0xA7A4440C=SFX_PAUSE_350
 0xA7A4440C=SFX_PAUSE_350
@@ -807,7 +807,7 @@
 0xAF926B04=020200200020
 
 ;0xAFED3759=~z~Guys have a car all packed up with shit and it ain't even on the move yet. We just picking up a stationary vehicle.
-0xAFED3759=~z~有一帮人把货装车好了但还没走。咱就开走那辆车。
+0xAFED3759=~z~有一帮人把货装上车了，但还没开走。咱就开走那辆车。
 
 ;0xB0651F3D=E2DW_AIA
 0xB0651F3D=E2DW_AIA
@@ -822,7 +822,7 @@
 0xB308F7E3=~z~你啥意思，哥们？是不是叫，就比如说，Armando傻逼号？
 
 ;0xB30E75C7=~z~Let me take a guess. You bribed a junkie and he gave up the stash right away.
-0xB30E75C7=~z~让我猜猜。你贿赂了一个瘾君子，然后他就丢下东西跑了。
+0xB30E75C7=~z~让我猜猜。你给个瘾君子塞了点钱，然后他就马上都供出来了。
 
 ;0xB37D4290=SFX_PAUSE_300
 0xB37D4290=SFX_PAUSE_300
@@ -852,7 +852,7 @@
 0xBAA8FC7A=E2DW_BKD
 
 ;0xBB1F5FAA=~z~We ripping of some punks making an exchange.
-0xBB1F5FAA=~z~咱把几个混蛋埋了来做笔生意。
+0xBB1F5FAA=~z~咱杀几个混蛋来做个交换。
 
 ;0xBC419019=E2DW_BDE
 0xBC419019=E2DW_BDE
@@ -885,13 +885,13 @@
 0xC54CD867=E2DW_ANA
 
 ;0xC6C8D592=~z~We gonna highjack them on the road. Take what we need and get on with our lives.
-0xC6C8D592=~z~咱要上路飞车抢劫他们。拿走咱要的东西，然后该干啥干啥。
+0xC6C8D592=~z~咱要劫他们的车。拿走咱要的东西，然后该干啥干啥。
 
 ;0xC813D0FC=~z~and the cash someone was hoping to spend on it.
 0xC813D0FC=~z~还有人寻思花这钱呢。
 
 ;0xC8CF88EA=~z~Let's just hope they pussies too, man. That way you get your third P and we walk out of there not dead.
-0xC8CF88EA=~z~咱也等着操逼吧，哥们。咱得活着离开这里才能完成第三步啊。
+0xC8CF88EA=~z~咱也等着操逼吧，哥们。活着离开这里才能完成3P大法的第三步啊。
 
 ;0xC8EBA1BB=SFX_PAUSE_300
 0xC8EBA1BB=SFX_PAUSE_300
@@ -915,7 +915,7 @@
 0xCAD0C837=~z~咱开干吧，哥们。
 
 ;0xCB3D8A56=~z~I'm afraid we getting wet, bro. Putas decided to move this shipment by boat.
-0xCB3D8A56=~z~我怕把咱弄湿了，兄弟。这帮臭逼决定用船来运货。
+0xCB3D8A56=~z~恐怕咱们要湿身了，兄弟。这帮臭逼决定用船来运货。
 
 ;0xCBD3B9C5=SFX_PAUSE_370
 0xCBD3B9C5=SFX_PAUSE_370
@@ -951,7 +951,7 @@
 0xD03C5E36=~z~这帮人有架装满货的直升机等着给咱去抢呢。
 
 ;0xD09FB0ED=~z~These stickups are where we actually risking our lives, bro.
-0xD09FB0ED=~z~咱们可是冒着生命危险去打劫啊，兄弟。
+0xD09FB0ED=~z~抢劫才是真正有生命危险的啊，兄弟。
 
 ;0xD38234A8=SFX_PAUSE_250
 0xD38234A8=SFX_PAUSE_250
@@ -966,7 +966,7 @@
 0xD663403E=~z~我不清楚，但我听到的消息是他们有满满一车的货，听起来很诱人啊。
 
 ;0xD7BA73D9=~z~I ain't gonna let you kill my vibe man with your cynicism. I'm looking forward to this.
-0xD7BA73D9=~z~我可不会被你玩世不恭的态度消灭我的锐气。我等着干这个呢。
+0xD7BA73D9=~z~我的锐气可不会被你愤世嫉俗的态度消灭。我等着干这个呢。
 
 ;0xD9472BD1=E2DW_AUA
 0xD9472BD1=E2DW_AUA
@@ -1107,7 +1107,7 @@
 0xF5A9703E=~z~谢了。顺便说一句，我自有妙计。
 
 ;0xF5F27B92=~z~No, not quite. Fucking know-it-all.
-0xF5F27B92=~z~不，不完全是。滚你妈的万事通。
+0xF5F27B92=~z~不，不完全是。老懂哥，滚你妈的。
 
 ;0xF61E326A=E2DW_BFC
 0xF61E326A=E2DW_BFC
@@ -1119,7 +1119,7 @@
 0xF8784AD3=SFX_PAUSE_420
 
 ;0xF8A7B50F=~z~Sure bro, no doubt. I can handle that shit, or at least, I'm dumb enough to try.
-0xF8A7B50F=~z~那是兄弟，没毛病哈。我可以应付得了，或者至少说我再怎么傻也是可以试一试的。
+0xF8A7B50F=~z~那是，兄弟，没毛病。我可以应付得了，至少或者说，我再怎么傻也是可以试一试的。
 
 ;0xF9AAF17E=E2DW_AYB
 0xF9AAF17E=E2DW_AYB
@@ -1134,7 +1134,7 @@
 0xFA7806B6=~z~严格来说，兄弟，你不会经常得到报酬的。
 
 ;0xFA9106E4=~z~What we always doing, taking scores, we getting paid.
-0xFA9106E4=~z~咱都在干些啥啊，咱们辛苦干活上分，然后赚钱。
+0xFA9106E4=~z~咱都在干些啥啊，辛苦干活，然后赚钱。
 
 ;0xFE723AA1=~z~Good thing your boyfriend got you that helicopter license, bro.
 0xFE723AA1=~z~还好你男朋友给你整了直升机驾照，兄弟。

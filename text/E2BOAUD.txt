@@ -162,7 +162,7 @@
 0x454057DB=~z~是时候滚了。
 
 ;0x47255FFF=~z~Do you even own a mirror?
-0x47255FFF=~z~你有镜子吗？
+0x47255FFF=~z~你不照照看自己啥样也想进来？
 
 ;0x49A37927=500
 0x49A37927=500
@@ -234,7 +234,7 @@
 0x681C51DC=200
 
 ;0x68202938=~z~Hey, hey, what's poppin'?
-0x68202938=~z~嘿，嘿，什么是帅气？
+0x68202938=~z~嘿，嘿，最近怎么样？
 
 ;0x6949C79F=~z~For fuck's sake. Walk away.
 0x6949C79F=~z~识相的话就他妈的走开。
@@ -288,7 +288,7 @@
 0x7E306D60=400
 
 ;0x7FCFAA73=~z~Nah, nah, not tonight.
-0x7FCFAA73=~z~不，不，不是今晚。
+0x7FCFAA73=~z~今晚别想了。
 
 ;0x80089AF6=~z~Get out of here!
 0x80089AF6=~z~滚出去！
@@ -480,10 +480,10 @@
 0xCC838E11=~z~快他妈从这里滚吧。
 
 ;0xCE28693A=~z~Yeah, I guess. Come on in.
-0xCE28693A=~z~我想是的。进来吧。
+0xCE28693A=~z~行吧，进来吧。
 
 ;0xD061AC17=~z~Please, head straight through.
-0xD061AC17=~z~请吧，直接进去。
+0xD061AC17=~z~请吧，进来吧。
 
 ;0xD16DAE60=~z~You need some more practice at this game.
 0xD16DAE60=~z~你玩这把戏还得多练练。
@@ -507,7 +507,7 @@
 0xD8D39B25=~z~你觉得自己能进来的想法是真的逗。
 
 ;0xD98B44F3=~z~It's not happenin'.
-0xD98B44F3=~z~这还没发生。
+0xD98B44F3=~z~想都别想。
 
 ;0xDB3AF382=~z~Lucky for you, its low standards night.
 0xDB3AF382=~z~你很幸运，今晚的门槛低了。

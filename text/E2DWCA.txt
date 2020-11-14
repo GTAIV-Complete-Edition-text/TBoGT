@@ -6,7 +6,7 @@
 0x03395487=E2DW_CEB
 
 ;0x035E9B06=~z~He was always an uptight jackass, bro. Now concentrate, before we make a mistake.
-0x035E9B06=~z~他总是个慌慌张张的傻逼，兄弟。现在赶在我们犯错之前，打起精神来。
+0x035E9B06=~z~他总是个慌慌张张的像个傻逼一样，兄弟。现在赶在我们犯错之前，打起精神来。
 
 ;0x04ABFC11=100090010100090010
 0x04ABFC11=100090010100090010
@@ -201,7 +201,7 @@
 0x45D353FE=E2DW_BPD
 
 ;0x466700F8=~z~I want to meet someone nice. Have a couple of kids.
-0x466700F8=~z~我想见见好人，再养几个孩子。
+0x466700F8=~z~我想找个好老婆，再养几个孩子。
 
 ;0x48CD52AC=SFX_PAUSE_270
 0x48CD52AC=SFX_PAUSE_270
@@ -213,13 +213,13 @@
 0x4A8DA52D=SFX_PAUSE_270
 
 ;0x4AACCBBF=~z~Yo, L, this just like the time we stole that whiskey from Principal Fischer's office.
-0x4AACCBBF=~z~哟，L，这就像我们从Fischer校长的办公室里偷威士忌的那段时光。
+0x4AACCBBF=~z~哟，L，这就像我们从Fischer校长的办公室里偷威士忌的那段时光一样。
 
 ;0x4C781C52=~z~Get a job or something.
 0x4C781C52=~z~去找份工作吧，或者干点别的。
 
 ;0x4D144B17=~z~We both know you too crazy to let that happen.
-0x4D144B17=~z~咱都知道你让这事发生太疯狂。
+0x4D144B17=~z~咱都知道你让这事发生太疯狂了。
 
 ;0x4E6BB7F4=E2DW_BYB
 0x4E6BB7F4=E2DW_BYB
@@ -273,7 +273,7 @@
 0x602BBDF4=~z~哦好吧，兄弟。那为啥我们不靠边停车给你买个电视机呢？
 
 ;0x61A6CF17=~z~What do you mean by that?
-0x61A6CF17=~z~你那样说是啥意思？
+0x61A6CF17=~z~所以是啥意思？
 
 ;0x61A7CDC1=E2DW_CID
 0x61A7CDC1=E2DW_CID
@@ -336,7 +336,7 @@
 0x728D6588=200090020090200020
 
 ;0x74059B53=~z~Until next time, bros.~c~ Call me.
-0x74059B53=~z~下次吧，兄弟。~c~ 打电话给我吧。
+0x74059B53=~z~下次见，兄弟。~c~ 记得打电话给我。
 
 ;0x7641E9C3=SFX_PAUSE_300
 0x7641E9C3=SFX_PAUSE_300
@@ -426,7 +426,7 @@
 0x8E33E562=E2DW_BPB
 
 ;0x8F12924E=~z~So, you seeing anyone, man?
-0x8F12924E=~z~所以，你看到有别的人了吗，哥们？
+0x8F12924E=~z~所以，你有和谁约会了吗，哥们？
 
 ;0x8F7D967B=E2DW_BTD
 0x8F7D967B=E2DW_BTD
@@ -501,7 +501,7 @@
 0xA31357B0=E2DW_CGD
 
 ;0xA32CC9BA=~z~I can't really see myself working in a Burger Shot. I'd rather die.
-0xA32CC9BA=~z~我真看不下去我在汉堡店打工，不如死了算了。
+0xA32CC9BA=~z~我真看不下去我在汉堡店打工，这样的话不如死了算了。
 
 ;0xA3AD294E=E2DW_BWB
 0xA3AD294E=E2DW_BWB
@@ -567,13 +567,13 @@
 0xB75326D1=~z~你懂的，我对你感到很难过，L。
 
 ;0xB763E853=~z~Man, I'm gonna party so hard with this money.
-0xB763E853=~z~哥们，我我要花大力气搞这笔钱了。
+0xB763E853=~z~哥们，有了钱，我又可以尽情嗨起来了。
 
 ;0xB8215428=E2DW_CCC
 0xB8215428=E2DW_CCC
 
 ;0xB9BA87AB=~z~How's your bro, man?
-0xB9BA87AB=~z~你兄弟怎样了，哥们？
+0xB9BA87AB=~z~最近怎样，哥们？
 
 ;0xBC8CED42=~z~Yo, I hear you man, but right now, let's just focus on the matter at hand.
 0xBC8CED42=~z~哟，我懂了哥们，但是现在咱们得专心忙好手头上的事情。
@@ -597,7 +597,7 @@
 0xC66B0CC9=200
 
 ;0xC689EFF3=~z~Man, you are such a downer.
-0xC689EFF3=~z~哥们，你真是个苦逼。
+0xC689EFF3=~z~哥们，你真是让人扫兴。
 
 ;0xC87C580A=SFX_PAUSE_250
 0xC87C580A=SFX_PAUSE_250
@@ -609,7 +609,7 @@
 0xCAE21E25=~z~跟你们一起忙活真好，L。
 
 ;0xCB08AA47=~z~My bro? I don't know. I don't give a fuck.
-0xCB08AA47=~z~我兄弟？我不清楚，我都不搭理他们了。
+0xCB08AA47=~z~我兄弟？我不清楚，我根本不关心他们。
 
 ;0xCBDB95E5=E2DW_BXD
 0xCBDB95E5=E2DW_BXD
@@ -621,7 +621,7 @@
 0xCDEA3EF9=~z~你是最棒的，L。这就是为啥我们需要你的原因。
 
 ;0xD0E63616=~z~Maybe we should concentrate on not getting caught and speak about him another time?
-0xD0E63616=~z~也许咱们应该先忙着不被赶上然后再找别的时间讨论他？
+0xD0E63616=~z~晚点再讨论他吧，也许咱该先寻思下怎么跑路？
 
 ;0xD188959F=SFX_PAUSE_370
 0xD188959F=SFX_PAUSE_370
@@ -630,7 +630,7 @@
 0xD2AE74FE=SFX_PAUSE_450
 
 ;0xD3762077=~z~I'm sorry - shall we stop and get you a drink and a handjob now, motherfucker?
-0xD3762077=~z~我很抱歉，咱们现在就停下来喝杯酒再撸波管怎样，操你妈的？
+0xD3762077=~z~那我可真抱歉，是不是要现在停下来喝杯酒，再帮你冲一发咯，你个傻逼？
 
 ;0xD3FFC091=E2DW_CFD
 0xD3FFC091=E2DW_CFD
@@ -651,7 +651,7 @@
 0xD9F2F3E5=E2DW_BRD
 
 ;0xDA1DEC66=~z~Why? 'Cause we could both end up dead or in jail in the next few minutes?
-0xDA1DEC66=~z~为啥？因为咱也许几分钟后就交代在这了或者是进局子。
+0xDA1DEC66=~z~为啥？因为咱也许几分钟后就交代在这或者是进局子。
 
 ;0xDBBA41A3=E2DW_CHD
 0xDBBA41A3=E2DW_CHD
@@ -714,7 +714,7 @@
 0xF0AE0720=SFX_PAUSE_250
 
 ;0xF36ADB01=~z~No one special, H. You know me. Quantity, not quality.
-0xF36ADB01=~z~没啥特别的，H。你懂我的，数量，而不是质量。
+0xF36ADB01=~z~没啥特别的，H。你懂我的，咱要的是数量，而不是质量。
 
 ;0xF377214D=E2DW_BRE
 0xF377214D=E2DW_BRE
@@ -744,7 +744,7 @@
 0xFA565123=E2DW_CBA
 
 ;0xFCCE3BC8=~z~Surprise, surprise, the guy from Downtown ain't completely worthless.
-0xFCCE3BC8=~z~惊喜啊，意外啊，城里来的家伙还没有一文不值。
+0xFCCE3BC8=~z~惊喜啊，意外啊，城里来的家伙还不算太差劲。
 
 ;0xFD7F381C=SFX_PAUSE_250
 0xFD7F381C=SFX_PAUSE_250
@@ -759,7 +759,7 @@
 0xFE9C7206=E2DW_BSA
 
 ;0xFEFB3620=~z~You want to be a business guy, and you just a street thug. Me, I know my place.
-0xFEFB3620=~z~你想当个生意人，但你只是个街边的暴徒。而我，我知道我的定位。
+0xFEFB3620=~z~你想当个生意人，但其实你只是个街边的暴徒。而我，我知道我的定位。
 
 ;0xFFFD28AC=~z~I always like Leta, man.
 0xFFFD28AC=~z~我一直喜欢Leta，哥们。
