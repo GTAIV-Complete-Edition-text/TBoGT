@@ -1,6 +1,6 @@
 ﻿[E2BG2CA]
 ;0x010F7695=~z~I'm going to shoot this bitch in the balls.
-0x010F7695=~z~我一枪把这臭逼的牛子爆了。
+0x010F7695=~z~我要一枪把这臭逼的牛子爆了。
 
 ;0x01170BED=100090010090100090010
 0x01170BED=100090010090100090010
@@ -9,7 +9,7 @@
 0x015EFD42=~z~好的。
 
 ;0x01AEC899=~z~Peace put. Ladies
-0x01AEC899=~z~轻点放，娘炮。
+0x01AEC899=~z~我先溜了。
 
 ;0x01F47E7C=~z~He must be stopped!
 0x01F47E7C=~z~他得收收手啊！
@@ -90,7 +90,7 @@
 0x1F360C62=SFX_PAUSE_260
 
 ;0x1F46DD2D=~z~You'll have to find someone else, man. I mean, it's not my thing. I ain't qualified for that shit.
-0x1F46DD2D=~z~你得找别人，哥们。我是说，这不是我该干的。我不合适。
+0x1F46DD2D=~z~这种事你得找别人。总之我干不了，不合适。
 
 ;0x204076DF=SFX_PAUSE_260
 0x204076DF=SFX_PAUSE_260
@@ -108,7 +108,7 @@
 0x243C42FC=~z~欢迎。欢迎来嗨。坐吧，坐吧。
 
 ;0x2459D41C=~z~Luis. I am told you did a good job.
-0x2459D41C=~z~Luis，我宣布，你干得不错。
+0x2459D41C=~z~Luis，听说你干得不错。
 
 ;0x251216AE=E2BG2_BCA
 0x251216AE=E2BG2_BCA
@@ -129,10 +129,10 @@
 0x29F76FFE=~z~真可惜。
 
 ;0x2AF28DA9=~z~Yeah, great. Tell him I'm not his fucking hitman, okay. That's not why I'm hanging with him.
-0x2AF28DA9=~z~对，很好。跟他说下我他妈可不是他的杀手，好吗。我和他一起混不是为了这个。
+0x2AF28DA9=~z~那就好。告诉他我他妈可不是他的杀手，懂不？我和他一起混不是为了这个。
 
 ;0x2B25EE62=~z~This is not a funny confusion! I will speak to you soon.
-0x2B25EE62=~z~兜圈子可不好玩啊！我过后找你。
+0x2B25EE62=~z~你和我闹呢？迟点联络。
 
 ;0x2BB3544E=SFX_PAUSE_560
 0x2BB3544E=SFX_PAUSE_560
@@ -156,7 +156,7 @@
 0x3421673E=~z~Timur，能听到吗？我把你要找的人杀了。
 
 ;0x349287C4=~z~I wasn't discussing your career development. I was telling you what to do.
-0x349287C4=~z~不好意思。我不是来跟你讨论你的生涯发展规划的，是来给你派活的。
+0x349287C4=~z~我不是来跟你讨论你的生涯发展规划的，是来给你派活的。
 
 ;0x34D317D0=~z~Yo Ray, look, that Timur guy is competent, right?
 0x34D317D0=~z~哟Ray，听着，Timur那家伙很能干，对吧？
@@ -186,7 +186,7 @@
 0x3CAF7957=SFX_PAUSE_080
 
 ;0x404B3662=~z~We have him now.
-0x404B3662=~z~我们抓到他了。
+0x404B3662=~z~这次他跑不掉了。
 
 ;0x41891F21=~z~Money doesn't dance. The money doesn't dance, my friend.
 0x41891F21=~z~跳啥舞啊，生意人跳啥舞啊，朋友。
@@ -252,7 +252,7 @@
 0x58556807=E2BG2_BGA
 
 ;0x593DAD11=~z~A million dollars to the man who brings me his head.
-0x593DAD11=~z~悬赏一百万美元，取刺杀者狗头。
+0x593DAD11=~z~谁把他杀了我给他一百万美元！
 
 ;0x59E08EC4=090
 0x59E08EC4=090
@@ -270,13 +270,13 @@
 0x5AF5D1FA=~z~等等，等等，听着……
 
 ;0x5BDB9B7D=~z~She looked old for her age, okay. We all have our weaknesses.
-0x5BDB9B7D=~z~她看起来是比较老的啊，好吧。这谁顶得住啊。
+0x5BDB9B7D=~z~她看起来是比较老的啊，懂吧。这谁顶得住啊。
 
 ;0x5C7F120E=100090010090100090010090100090100090100
 0x5C7F120E=100090010090100090010090100090100090100
 
 ;0x5C8BB38E=~z~You know how to play the drums? We need a fucking drummer.
-0x5C8BB38E=~z~你会敲鼓吗？咱们他妈的要个鼓手。
+0x5C8BB38E=~z~你会打鼓吗？咱们他妈的要个鼓手。
 
 ;0x60A65F03=~z~Alright, alright. Okay.
 0x60A65F03=~z~好了，好了，好了。
@@ -321,7 +321,7 @@
 0x67B50E40=~z~你们一起上啊。
 
 ;0x6B6C748F=~z~You have heard about Liberty City Rampage?
-0x6B6C748F=~z~你听到自由城Rampage曲棍球队的消息吗？
+0x6B6C748F=~z~你有听到自由城Rampage曲棍球队的消息吗？
 
 ;0x6CC975A1=~z~Ah this is it. This is it!
 0x6CC975A1=~z~啊，就是这样，就是这种感觉！
@@ -333,7 +333,7 @@
 0x6FD19830=SFX_PAUSE_350
 
 ;0x77305226=~z~If it was the little Latin girl, I thought she was of age.
-0x77305226=~z~是那个拉丁小美女吧，我还以为她成年了。
+0x77305226=~z~如果是关于那个拉丁小美女的话，我还以为她成年了。
 
 ;0x77475250=~z~You fucking piece of shit. Tell me who you are!
 0x77475250=~z~你他妈个废物。快说你是谁？
@@ -363,7 +363,7 @@
 0x7F6E6DC4=E2BG2_ZDA
 
 ;0x7FCC016C=~z~I told you unauthorised choppers were not allowed on the roof.
-0x7FCC016C=~z~都说了，直升机未经许可不能降落的。
+0x7FCC016C=~z~都说了，未经许可的直升机不能降落的。
 
 ;0x80D63D4F=E2BG2_ZCA
 0x80D63D4F=E2BG2_ZCA
@@ -399,7 +399,7 @@
 0x8C0A4840=E2BG2_ZAA
 
 ;0x8C104FE3=~z~I am sorry, Mr. Hospitality man. You do what Mr. Ray says, that's it.
-0x8C104FE3=~z~真不好意思，服务员。Ray叫你干啥你干就完了，就这样哈。
+0x8C104FE3=~z~真不好意思，这位服务员先生。Ray叫你干啥你干就完了，就这样哈。
 
 ;0x8CEF9474=~z~This is political assassination. Protect me.
 0x8CEF9474=~z~这可是政治暗杀。保护我。
@@ -417,7 +417,7 @@
 0x9060DA8D=100090010
 
 ;0x9273C29D=~z~Do what needs to be done in his boardroom. Send a message.
-0x9273C29D=~z~去他的会议室，干咱们要干的，让他见识见识。
+0x9273C29D=~z~去他的会议室干你该干的事，让他见识见识。
 
 ;0x92EC0999=~z~What is it? Did the Kremlin send you?
 0x92EC0999=~z~这又是咋回事？是不是克里姆林宫派你来的？
@@ -504,13 +504,13 @@
 0xAB7E8EA9=E2BG2_BJC
 
 ;0xAE37D6E5=~z~I ain't your man, bro. Sorry.
-0xAE37D6E5=~z~我不是你们要找的人，兄弟。抱歉了。
+0xAE37D6E5=~z~我不会。抱歉。
 
 ;0xAEBCE0DB=SFX_PAUSE_930
 0xAEBCE0DB=SFX_PAUSE_930
 
 ;0xAF7640BD=~z~Okay. Now you got to go. I am outside in truck. Come out window.
-0xAF7640BD=~z~好的，现在你得走了。我在外面的卡车上，从窗户出来吧。
+0xAF7640BD=~z~好的，现在你得开溜了。我在外面的卡车上，从窗户出来吧。
 
 ;0xAF88244D=~z~See ya.
 0xAF88244D=~z~再见。
@@ -522,16 +522,16 @@
 0xB0655800=E2BG2_BMC
 
 ;0xB0B9DE79=~z~Not good, Mr. B. This ain't happening right now.
-0xB0B9DE79=~z~不妙啊，Bulgarin先生，目前事情没按计划出牌。
+0xB0B9DE79=~z~不太好，Bulgarin先生，现在处理不了这事。
 
 ;0xB42AF2CC=~z~Who'd you hear that from? Timur? That guy left me to get killed, bro. Some getaway driver.
-0xB42AF2CC=~z~你听谁说的？Timur？那家伙把我抛下，直接开车跑路。我人差点没了，兄弟。
+0xB42AF2CC=~z~你听谁说的？Timur？那家伙把我丢下，直接开车跑路，我人差点没了。就这还逃跑驾驶？
 
 ;0xB4A9CF3D=~z~This shit die now.
 0xB4A9CF3D=~z~这废物死定了。
 
 ;0xB4CF5BBD=~z~I'm not going to make it, man. Come back around.
-0xB4CF5BBD=~z~我办不到啊，哥们。再会吧。
+0xB4CF5BBD=~z~我办不到啊。下次吧。
 
 ;0xB55AD1A4=010
 0xB55AD1A4=010
@@ -591,7 +591,7 @@
 0xC8586FE7=E2BG2_AVA
 
 ;0xCA17D844=~z~Mr. B. You might have heard that I didn't make the landing.
-0xCA17D844=~z~Bulgarin先生，你都听说了吧，我降落失败了。
+0xCA17D844=~z~Bulgarin先生，你都听说了吧，我没降落成功。
 
 ;0xCA3168DB=490
 0xCA3168DB=490
@@ -600,13 +600,13 @@
 0xCC6587F3=092
 
 ;0xCEA9B56B=~z~Oh shit. We getting our wires crossed, bro. I meant Timur's dead, man.
-0xCEA9B56B=~z~噢，妈的，咱俩没在一个频道上啊，兄弟。我说的是Timur，哥们。
+0xCEA9B56B=~z~噢，妈的，咱俩没在一个频道上啊。我是说死的是Timur。
 
 ;0xCEC0B59D=~z~Excellent.
 0xCEC0B59D=~z~太棒啦。
 
 ;0xCF861991=~z~Can I get you anything? A drink?
-0xCF861991=~z~来点啥？喝一杯？
+0xCF861991=~z~要不要来点啥？喝一杯？
 
 ;0xD0681B45=~z~You Spanish have the rhythm. Give us fucking beat, man.
 0xD0681B45=~z~你们西班牙人搞音乐很有节奏感的。快他妈敲两下吧，哥们。
@@ -621,7 +621,7 @@
 0xD60D6F3C=E2BG2_BLA
 
 ;0xD66070ED=~z~It wasn't on purpose, man. I just missed it. I'll talk to you soon, okay.
-0xD66070ED=~z~不是故意的，哥们。就是飞过了而已。咱晚点聊，好吗。
+0xD66070ED=~z~不是故意的。就是飞过了而已。咱晚点聊，好吗。
 
 ;0xD906F0D2=~z~There'a whole fucking lot of you.
 0xD906F0D2=~z~你们他妈的人还挺多。
@@ -630,7 +630,7 @@
 0xDC34772E=~z~时间不等人，冒险不值得。祝你好运，兄弟。
 
 ;0xDFB45B71=~z~I can dance, man, but not with you and him.
-0xDFB45B71=~z~我是会跳舞，哥们，但不跟你和他一起跳。
+0xDFB45B71=~z~我是会跳舞，但不跟你和他一起跳。
 
 ;0xE14311A8=~z~Yeah, but I'm an asshole that don't have to hang out with you anymore. Tell your boss to shove his money up his ass.
 0xE14311A8=~z~对，但我不是那种非得跟你混的混蛋。告诉你老板拿钱吃屁去吧。
@@ -657,7 +657,7 @@
 0xEA00E03B=E2BG2_BID
 
 ;0xEAACD262=~z~Yeah, I'm afraid you going to have to accept it. See you round.
-0xEAACD262=~z~是啊，接受现实吧。再见。
+0xEAACD262=~z~那也没办法啊，下次再说吧。
 
 ;0xEB6FD374=SFX_PAUSE_230
 0xEB6FD374=SFX_PAUSE_230
@@ -666,7 +666,7 @@
 0xEC2DF610=~z~嘿，我可不是杀手啊，兄弟。跟任何人打架，干任何事都行，但我可不能收钱杀人。
 
 ;0xEC9F53D2=~z~Sacrifice yourselves! Your families will be rewarded.
-0xEC9F53D2=~z~找死吧你！你全家必遭报应。
+0xEC9F53D2=~z~你投降吧！你家人会有好处的。
 
 ;0xED169AF2=E2BG2_BLB
 0xED169AF2=E2BG2_BLB
@@ -684,7 +684,7 @@
 0xF1D0D24B=~z~你们要找的人在卡车上！
 
 ;0xF2357C86=~z~Yeah, I'm afraid so.
-0xF2357C86=~z~对，应该死了。
+0xF2357C86=~z~对，是这样的。
 
 ;0xF2823A93=E2BG2_BCD
 0xF2823A93=E2BG2_BCD
@@ -699,7 +699,7 @@
 0xF59CCEF3=E2BG2_BIC
 
 ;0xF7C50B9A=~z~You dance, Mr. B?
-0xF7C50B9A=~z~你也跳舞的吗，Bulgarin先生？
+0xF7C50B9A=~z~你跳舞的吗，Bulgarin先生？
 
 ;0xF85CC372=090
 0xF85CC372=090
