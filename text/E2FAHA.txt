@@ -165,10 +165,10 @@
 0x4243AE03=100
 
 ;0x43C4F1D2=~z~You hustle pool, L, or just cock?
-0x43C4F1D2=~z~你是台球高手马，L？还是菜鸡废物？
+0x43C4F1D2=~z~你是台球高手吗，L？还是菜鸡废物？
 
 ;0x4408FA0A=~z~Wonder if you any good at darts these days, L?
-0x4408FA0A=~z~最近你学会投飞镖了吗，L？
+0x4408FA0A=~z~现在你学会投飞镖了吗，L？
 
 ;0x442F9B97=~z~L, A, I'm jonesing for a drink.
 0x442F9B97=~z~L，A，我喝酒喝上瘾了。
@@ -240,7 +240,7 @@
 0x5AE8A09A=~z~我祝你被冰球打掉门牙，A。
 
 ;0x5B5FB36E=~z~Look at you, Mrs. Tony Prince.
-0x5B5FB36E=~z~你看看你，Tony Prince夫人。
+0x5B5FB36E=~z~你看看你，Tony Prince太太。
 
 ;0x5CEF5708=~z~Okay, let's play some fucking pool.
 0x5CEF5708=~z~好啊，打会儿傻逼台球吧。

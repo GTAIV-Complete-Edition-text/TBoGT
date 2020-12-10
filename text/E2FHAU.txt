@@ -222,7 +222,7 @@
 ;0x3A13422F=200
 0x3A13422F=200
 
-;0x	=~z~It a shame we didn't finish that frame, L. Damn.
+;0x3B6547D2=~z~It a shame we didn't finish that frame, L. Damn.
 0x3B6547D2=~z~这把没打完真是可惜，L。该死。
 
 ;0x3C15DBBB=E2FH_BCA

@@ -692,7 +692,7 @@
 ;0xA47CDF82=~z~You know, usual kind of chaotic shit.
 0xA47CDF82=~z~你也懂，就那些乱七八糟的。
 
-;0xA489D712=E2FC_GD1
+;0xA489D712=E2FC_GD
 0xA489D712=E2FC_GD
 
 ;0xA4CC19C3=E2FC_BG

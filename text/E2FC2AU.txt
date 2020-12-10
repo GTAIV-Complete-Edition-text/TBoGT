@@ -232,7 +232,7 @@
 0x5B362E01=E2FC2_GB
 
 ;0x5CFB85EF=~z~You boys is both out of control, I'm the one who's in control.
-0x5CFB85EF=~z~你们俩都不淡定了，就我还淡定着。
+0x5CFB85EF=~z~你俩都已经倒了，就剩我还没倒。
 
 ;0x5D477E34=E2FC2_EK
 0x5D477E34=E2FC2_EK
@@ -547,7 +547,7 @@
 ;"too" ---> "two"
 
 ;0xC076CCE4=~z~In control? I look like I'm in control to you? Damn. You a bigger fool than I thought.
-0xC076CCE4=~z~淡定？你觉得我看起来淡定？妈的，你怎么会笨成这样。
+0xC076CCE4=~z~千杯不倒？我看着像是还没倒吗？妈的，你怎么会笨成这样。
 
 ;0xC0A2C8FA=~z~I think I'm gonna be sick.
 0xC0A2C8FA=~z~唔...我有点想吐了。
@@ -601,7 +601,7 @@
 0xD387D686=E2FC2_EI
 
 ;0xD3CEF394=~z~Luis Lopez, the man who's always in control.
-0xD3CEF394=~z~Luis Lopez，永远都那么淡定的男人。
+0xD3CEF394=~z~Luis Lopez，千杯不倒的男人。
 
 ;0xD48B9FFA=~z~No, he fucking wishes.
 0xD48B9FFA=~z~只有他想。
@@ -645,7 +645,7 @@
 
 ;0xE48F5668=~z~I spilled my drink... oh fuck you too.
 0xE48F5668=~z~我酒撒了...噢，你俩吃屎吧。
-;我认为不是"too" 而是"too"
+;我认为不是"too" 而是"two"
 
 ;0xE5CF2446=E2FC2_DL
 0xE5CF2446=E2FC2_DL
