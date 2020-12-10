@@ -6,13 +6,13 @@
 0x01AF15EE=190090190090290190190290190290290090290090090190190090290
 
 ;0x025232A5=~z~Mellow Luis! That's a funny one.
-0x025232A5=~z~Luis老哥！这波很好玩的。
+0x025232A5=~z~稳重的Luis！好好笑哦。
 
 ;0x02B12B34=~z~Here we go again. Blah blah blah... put on a new record, DJ.
-0x02B12B34=~z~继续嗨。巴拉巴拉巴拉…换首歌，DJ。
+0x02B12B34=~z~这集看过了。废话废话废话...老板换碟。
 
 ;0x032811FD=~z~But I think you spoke about some shit so you took a walk and I, who didn't talk, I took a fall, and I don't care.
-0x032811FD=~z~但我寻思你一直在抱怨在逃避，而我没有。虽然我输了，但我不在乎。
+0x032811FD=~z~但我还是觉得你说了些什么，所以才逍遥法外。而我啥都没说，就坐牢了，但我不在乎。
 
 ;0x03BAB805=E2FC_AF
 0x03BAB805=E2FC_AF
@@ -33,7 +33,7 @@
 0x05FAD0DD=~z~你是个杀手，哥们。一直都是。
 
 ;0x060E36F8=~z~All I was saying is that it's cool to hang out and you've got to both act like a pair of fucking women.
-0x060E36F8=~z~我想说的是跟你们两个操蛋娘们出来玩好棒棒哦。
+0x060E36F8=~z~我只是想说能一起出来玩真好，结果你们俩都跟泼妇似的。
 
 ;0x0669F1B9=E2FC_EQ
 0x0669F1B9=E2FC_EQ
@@ -42,46 +42,46 @@
 0x07A6BA32=E2FC_DM
 
 ;0x07B0F615=~z~What's that, homie?
-0x07B0F615=~z~那是啥意思，兄弟？
+0x07B0F615=~z~什么事，兄弟？
 
 ;0x07BAFE07=~z~Oye, I only saw her a minute, man. She came down to Maisonette.
-0x07BAFE07=~z~哦，我刚刚看到她了，哥们。她去9号豪宅了。
+0x07BAFE07=~z~喂，我们只聊了一会儿，哥们。她来9号豪宅了。
 
 ;0x0871DE98=~z~What situation?
-0x0871DE98=~z~啥情况？
+0x0871DE98=~z~什么现状？
 
 ;0x0A438AA7=E2FC_HL
 0x0A438AA7=E2FC_HL
 
 ;0x0AF96A85=~z~Cool. Living and dying for dope... with no hope of nothing better. Seems kind of pathetic to me.
-0x0AF96A85=~z~行吧。这辈子给毒品卖命…没啥好盼头，看来我还挺可怜的。
+0x0AF96A85=~z~行吧。到死都在贩毒...看不见别的盼头。我觉得有点可悲。
 
 ;0x0B8F5247=~z~Oye, I help when I can. You know that.
-0x0B8F5247=~z~好，可以的话我就帮你。你懂的。
+0x0B8F5247=~z~喂，有空了我就来帮忙。你知道的。
 
 ;0x0C036869=E2FC_IE
 0x0C036869=E2FC_IE
 
 ;0x0CCB7374=~z~You ain't losing me, bro. I took a fucking fall for you, you dumb, ingrate prick, and we still friends,
-0x0CCB7374=~z~你还没失去我，兄弟。为了你个忘恩负义的傻逼屌毛，我他妈受了苦，但咱们还是朋友，
+0x0CCB7374=~z~你不会失去我的，兄弟。我都替你坐过牢了，你个忘恩负义的傻逼。咱们还是朋友，
 
 ;0x0CD6F21E=~z~I mean why you fucking stupid, bro. Is it 'cause your momma was smoking crack while she had you,
-0x0CD6F21E=~z~你他妈是不是傻逼啊，兄弟，是你妈怀你的时候抽大麻把你抽傻了，
+0x0CD6F21E=~z~我问的是你为什么是白痴，兄弟。是你妈怀你的时候吸可卡因把你吸傻了，
 
 ;0x0E189C4D=~z~How you doing, L?
 0x0E189C4D=~z~你好吗，L？
 
 ;0x0F90E72F=~z~That ain't true.
-0x0F90E72F=~z~那倒不是。
+0x0F90E72F=~z~不是那样的。
 
 ;0x10194E33=~z~So you'll understand that maybe sometimes I like things to be a little mellower.
-0x10194E33=~z~那现在你明白为啥我有时希望事情更顺利一点了吧。
+0x10194E33=~z~那你总该明白，我也会希望各方面都能稳重一点吧。
 
 ;0x102D918E=~z~That he all growed up while we still the same as we were as kids. He too good for us.
-0x102D918E=~z~咱还是小屁孩的时候，他就已经长大啦，我们配不上他。
+0x102D918E=~z~逼他说「我已经长大了，但你们还是当年的小屁孩。你们配不上我。」
 
 ;0x1092CC01=~z~Oh shut up. Both of you. You're both as bad as each other.
-0x1092CC01=~z~哦，你俩闭嘴吧，都是半斤八两的。
+0x1092CC01=~z~噢，你俩都闭嘴吧。别五十步笑百步了。
 
 ;0x10BE9B44=E2FC_GL
 0x10BE9B44=E2FC_GL
@@ -93,22 +93,22 @@
 0x12F71556=E2FC_AL1
 
 ;0x13AF813C=~z~Why did I spend a chunk of my life inside, and you didn't?
-0x13AF813C=~z~为啥我的大把时光都在蹲监狱，而你没有？
+0x13AF813C=~z~怎么我花了大把时间坐牢，你却没有？
 
 ;0x15F99A84=~z~You shoulda linked us, man.
-0x15F99A84=~z~别忘了我俩，哥们。
+0x15F99A84=~z~给我们介绍介绍呗，哥们。
 
 ;0x1665529C=~z~Cool, man. You too.
-0x1665529C=~z~好啊，哥们。你也是。
+0x1665529C=~z~是啊，哥们。我也是。
 
 ;0x1708C49C=~z~Then what kind, bro?
-0x1708C49C=~z~那是什么样的，兄弟？
+0x1708C49C=~z~那是哪些，兄弟？
 
 ;0x1797F2B7=~z~Careful, man. I'm sick. Who knows what I could do?
-0x1797F2B7=~z~小心点，哥们。我上头了。谁能知道我接下来会干啥？
+0x1797F2B7=~z~哈哈，小心点，哥们。我可是变态啊。天知道我会干出啥事？
 
 ;0x1AD98F16=~z~Like my dad for starters and my mom for second. If the Island life don't grab you, bro,
-0x1AD98F16=~z~我爸开了头，我妈紧随其后。兄弟，要是家乡的生活留不住你的话，
+0x1AD98F16=~z~我爸是第一个，然后就是我妈。就算你没被岛上的生活留住，兄弟，
 
 ;0x1B0FA798=E2FC_EN
 0x1B0FA798=E2FC_EN
@@ -123,34 +123,35 @@
 0x1F18AE8E=E2FC_EK
 
 ;0x1F7A0701=~z~Fuck you, little asshole. I ain't a moron.
-0x1F7A0701=~z~操你妈的小逼崽子，我又不是傻逼。
+0x1F7A0701=~z~操你妈，小逼崽子，我不是傻子。
 
 ;0x1F8818B9=E2FC_GA
 0x1F8818B9=E2FC_GA
 
 ;0x21A9CF00=~z~I sleep just fine.
-0x21A9CF00=~z~我睡得还好。
+0x21A9CF00=~z~我睡得很好。
 
 ;0x21DAC3D1=~z~Good, man. How you boys been?
-0x21DAC3D1=~z~兄弟们好，最近怎样？
+0x21DAC3D1=~z~挺好，兄弟。你们呢？
 
 ;0x229021E1=E2FC_CC
 0x229021E1=E2FC_CC
 
 ;0x230F3751=~z~Maybe we is going different directions right now, but that don't mean I think I'm better than you.
-0x230F3751=~z~也许眼下咱们的活法不一样，但我可没说过我混得比你们好。
+0x230F3751=~z~也许我们现在是走在不同的路上，哥们，但这不代表我觉得自己比你们高贵啊。
 
 ;0x23986D02=~z~Just like the old times.
-0x23986D02=~z~还是老样子哦。
+0x23986D02=~z~让我想起以前。
 
 ;0x23B22141=~z~Well, for real, what happened?
-0x23B22141=~z~呃，我认真的。咋的了？
+0x23B22141=~z~我认真的。咋的了？说实话，兄弟。
+;配音多了句"No bullshit, bro."
 
 ;0x253660F7=~z~No.
-0x253660F7=~z~不。
+0x253660F7=~z~不是。
 
 ;0x25A31FE4=~z~Me neither, but I'd rather die trying to get out of this world, than stuck in it, you know what I mean?
-0x25A31FE4=~z~我也不想啊，但就算是因为逃出去而死，也比待在这强多了。你懂我意思吧？
+0x25A31FE4=~z~我也不想啊，兄弟。但我宁可死在脱离街头的路上，也不想待在这里。你懂我意思吧？
 
 ;0x26B6C5F0=E2FC_GM
 0x26B6C5F0=E2FC_GM
@@ -168,22 +169,23 @@
 0x2E7C7C4B=E2FC_FH
 
 ;0x2EB79887=~z~So, like, when you coming on board full time. When we talking the operation to the next level?
-0x2EB79887=~z~那就像你全勤带货一样。咱们啥时候进一步商讨？
+0x2EB79887=~z~那个，你什么时候能加入我们？我们什么时候采取进一步的行动？
+;"talking"在配音中为"taking"
 
 ;0x2F223FB4=E2FC_IL
 0x2F223FB4=E2FC_IL
 
 ;0x30073882=~z~You guys. We supposed to be having a good time. What's got into you?
-0x30073882=~z~你们这帮人啊。咱们本应该玩得好好的，你犯啥毛病呢？
+0x30073882=~z~你俩别吵了。我们是出来休闲放松的，都犯啥病呢？
 
 ;0x340BAB9E=~z~Well, you certainly seem to like angry asshole, so I see what you mean.
-0x340BAB9E=~z~好吧，你人都炸毛了，我寻思我懂你意思了。
+0x340BAB9E=~z~确实，你好像是挺喜欢暴脾气的人，我能懂你的意思。
 
 ;0x34E15AF5=~z~Well you should do, 'cause it's fucking true.
-0x34E15AF5=~z~太他妈对了，干就完了。
+0x34E15AF5=~z~你就该这么想，这都是事实。
 
 ;0x34E5F578=~z~Listen, I know you didn't rat me out. If I thought you had, I would have killed you.
-0x34E5F578=~z~听好了，我知道你没有出卖我。要是你真这么干了，我会杀了你的。
+0x34E5F578=~z~听着，我知道你没出卖我。我要真那么想，你早就死了。
 
 ;0x34F18DB9=E2FC_FD
 0x34F18DB9=E2FC_FD
@@ -198,19 +200,19 @@
 0x35FDC099=~z~我也是。
 
 ;0x3614DABA=~z~Ended up cornering Jimmy Boston and crying her eyes out. Telling him she hated her life.
-0x3614DABA=~z~最后对Jimmy Boston紧追不舍，哭得稀里哗啦的，跟他说她现在活腻了。~“她”应该是Luis，骂他娘炮这样~
+0x3614DABA=~z~最后把Jimmy Boston逼到墙角，哭得稀里哗啦的。一直在说日子有多难过。
 
 ;0x363ABA2D=~z~I been meaning to ask you, L. How your tight-ass hermano feel about your current situation.
-0x363ABA2D=~z~我是想问你，L。你那铁公鸡兄弟对你混成的样子有啥看法。
+0x363ABA2D=~z~我一直都想问你，L，你那铁公鸡兄弟对你的现状有啥看法。
 
 ;0x396E2D89=E2FC_DH
 0x396E2D89=E2FC_DH
 
 ;0x3996E3FC=~z~Part of making Luis tell us that he ain't like us no more.
-0x3996E3FC=~z~又到了Luis鄙视我俩的环节啦。
+0x3996E3FC=~z~逼着Luis告诉我们「我和你们没感情了。」
 
 ;0x3CFAB50D=~z~So what, man?
-0x3CFAB50D=~z~那又咋样，哥们？
+0x3CFAB50D=~z~咋了，哥们？
 
 ;0x3E3A56F5=E2FC_CI
 0x3E3A56F5=E2FC_CI
@@ -228,16 +230,17 @@
 0x4096DA9C=E2FC_DA
 
 ;0x42974A15=~z~I mean - what the fuck is wrong with you? You have that little self awareness.
-0x42974A15=~z~我说，你他妈有病吧？一点自知之明都没有。
+0x42974A15=~z~我是说，你他妈有病吧？一点自知之明都没有。
 
 ;0x4421435A=~z~So, L?
-0x4421435A=~z~然后呢，L？
+0x4421435A=~z~那个，L？
 
 ;0x4459D65F=~z~Must really get that dorky motherfucker's back up.
-0x4459D65F=~z~真得让这傻逼玩意滚出去。
+0x4459D65F=~z~那傻逼玩意肯定会气得跳脚。
+;"motherfucker's back up"在配音中为"motherfucker pissed off"
 
 ;0x44E5623E=~z~At least I got a momma, A. Least mine didn't run out on me.
-0x44E5623E=~z~至少我还有个妈，还没离开我，A。
+0x44E5623E=~z~至少我还有妈，A。我妈可没抛下我走人，A。
 
 ;0x451F8091=E2FC_GK
 0x451F8091=E2FC_GK
@@ -255,7 +258,7 @@
 0x4913BFA6=E2FC_AG
 
 ;0x493C7903=~z~Like who?
-0x493C7903=~z~像谁？
+0x493C7903=~z~比如说？
 
 ;0x49A712FA=E2FC_GC
 0x49A712FA=E2FC_GC
@@ -270,7 +273,7 @@
 0x4CCFA373=E2FC_GH
 
 ;0x4CDD3F8B=~z~Listen that faggot cage fighting bullshit may work with a bunch of Russian models,
-0x4CDD3F8B=~z~听啊，这玩笼中格斗的操蛋基佬跟一帮毛子模特上班，
+0x4CDD3F8B=~z~听着，你的基佬笼中斗冠军也许能骗到不少毛妹模特，
 
 ;0x4D60C092=~z~Excuse me?
 0x4D60C092=~z~你说啥？
@@ -282,13 +285,13 @@
 0x515F96F8=E2FC_FM
 
 ;0x52727EC1=~z~This again.
-0x52727EC1=~z~又开始了。
+0x52727EC1=~z~又来了。
 
 ;0x52C6E918=E2FC_EB
 0x52C6E918=E2FC_EB
 
 ;0x53010C50=~z~You being weird, A. Rique can go wherever the fuck he likes.
-0x53010C50=~z~怪了，A，Rique他妈的想去哪就去哪。
+0x53010C50=~z~这是什么话，A。Rique想去哪就去哪。
 
 ;0x5306154C=E2FC_EL
 0x5306154C=E2FC_EL
@@ -297,10 +300,10 @@
 0x539112A1=E2FC_EH
 
 ;0x543080D4=~z~What you mean? Why is he, like, the most dependable motherfucker to have around in the fight?
-0x543080D4=~z~你啥意思？为啥他这操蛋玩意，会是，战斗中最可靠的家伙？
+0x543080D4=~z~这样是哪样？是说为什么他会成为你能找到的最可靠的打手吗？
 
 ;0x54C629A7=~z~I just told you - we making moves.
-0x54C629A7=~z~我就这么说吧——咱们动手了。
+0x54C629A7=~z~我说过了——往前走啊。
 
 ;0x550DF28F=E2FC_HD
 0x550DF28F=E2FC_HD
@@ -324,7 +327,7 @@
 0x58261C17=090190090190090290190290090190090090190090190090090190090190090090090190090090290190190090290
 
 ;0x582F786B=~z~And what's your excuse, A? For being a moron, I mean...
-0x582F786B=~z~我意思是，作为一个傻逼，你的理由是啥，A？
+0x582F786B=~z~那你的原因呢，A？我是说你傻逼的原因...
 
 ;0x58400850=E2FC_BI
 0x58400850=E2FC_BI
@@ -333,7 +336,7 @@
 0x5840DA60=E2FC_AD
 
 ;0x5849DB6E=~z~Fair enough. Sorry H.
-0x5849DB6E=~z~够了够了，对不起，H。
+0x5849DB6E=~z~你说得对。对不起，H。
 
 ;0x5C10AEB4=E2FC_GAC
 0x5C10AEB4=E2FC_GAC
@@ -342,19 +345,19 @@
 0x5CEC70FC=E2FC_CM
 
 ;0x5E2BEA7B=~z~Man, we gonna have some fucking fun, right?
-0x5E2BEA7B=~z~哥们，咱们他妈的得找点乐子，对吧？
+0x5E2BEA7B=~z~哥们，咱们得他妈找点乐子，对吧？
 
 ;0x5E49DC02=~z~Yeah, bro - why you so angry?
-0x5E49DC02=~z~是啊，兄弟，为啥你这么生气？
+0x5E49DC02=~z~是啊，兄弟，你急啥呢？
 
 ;0x5E8762DF=~z~What, now you're going to get all in my face and act like the hard man, huh son?
-0x5E8762DF=~z~啥？现在你要当着我的面充大佬，是吗，小逼崽子？
+0x5E8762DF=~z~怎么，现在你要跟我耍横装硬汉了，小子？
 
 ;0x5F7FAB96=E2FC_EG
 0x5F7FAB96=E2FC_EG
 
 ;0x5F89840D=~z~I ain't sick.
-0x5F89840D=~z~我没醉。
+0x5F89840D=~z~我不变态。
 
 ;0x5F8CA3D8=E2FC_EF
 0x5F8CA3D8=E2FC_EF
@@ -381,16 +384,18 @@
 0x665C1F75=E2FC_IC
 
 ;0x6684CD24=~z~Yes, I got that bit, fool. What I meant was how you and Henrique B planning on doing next?
-0x6684CD24=~z~对，我懂了，傻逼。我的意思是你和Henrique定的B计划是要干啥？
+0x6684CD24=~z~对，我听见了，傻逼。我要问的是你和Henrique接下来有什么打算？
+;配音后半句为"What I mean is, what you and Henrique planning on doing next"
+;字幕中"Henrique B"的B是指Henrique的姓(Bardas)，而不是plan B
 
 ;0x67AC7A33=~z~Yeah, sorry H. And he's right. It is good to hang out.
-0x67AC7A33=~z~好吧，对不起，H。他说对了，出来玩真好。
+0x67AC7A33=~z~是的，对不起，H。他说得对，能一起出来真好。
 
 ;0x68D49F54=~z~Yo. You remember when he caught us trying to get into Mr. Ellis's house?
-0x68D49F54=~z~哟。你还记得咱们溜进Ellis家的时候被他抓到现行了吗？
+0x68D49F54=~z~哟，你还记得他发现咱们想溜进Ellis老师家那次吗？
 
 ;0x6908F180=~z~Yeah, shut up.
-0x6908F180=~z~对啊，闭嘴吧你。
+0x6908F180=~z~就是，闭嘴吧你。
 
 ;0x69553F20=E2FC_JJ
 0x69553F20=E2FC_JJ
@@ -408,22 +413,22 @@
 0x6C0733CE=E2FC_CH
 
 ;0x6C6606EF=~z~Yeah, smash some skulls.
-0x6C6606EF=~z~好，来点兴奋剂。
+0x6C6606EF=~z~对，爆几个头。
 
 ;0x6DDB20B0=~z~You sick. You a sick fuck.
-0x6DDB20B0=~z~你喝多了，你个醉鬼。
+0x6DDB20B0=~z~你就是。你个变态疯子。
 
 ;0x6FACD16F=~z~Yeah, bro. I don't think my brother like my situation.
-0x6FACD16F=~z~是啊，兄弟。我寻思我兄弟不会喜欢我这样子。
+0x6FACD16F=~z~是啊，兄弟。我觉的我哥不喜欢我的现状。
 
 ;0x7022B9A7=~z~Oye, you got some real abandonment issues you got to deal with, Armando. Damn.
-0x7022B9A7=~z~哦，你真的有些遗留的问题要得处理下了，Armando。操。
+0x7022B9A7=~z~我说，你的不安全感也太严重了吧，该治治了，Armando。妈的。
 
 ;0x71EE16DA=E2FC_GY
 0x71EE16DA=E2FC_GY
 
 ;0x728FB2CA=~z~Mingling with all these celebrities. We give you shit, but it's kind of impressive.
-0x728FB2CA=~z~你都有大腿抱了，咱们还惦记着你，属实有点感人。
+0x728FB2CA=~z~你整天都在和名人厮混啊。我们是没啥感觉，但别人不这么想啊。
 
 ;0x7297AE32=E2FC_IN
 0x7297AE32=E2FC_IN
@@ -438,7 +443,7 @@
 0x74735AB8=E2FC_GO
 
 ;0x74E75BE0=~z~People don't change.
-0x74E75BE0=~z~大家都没变。
+0x74E75BE0=~z~本性难移啊。
 
 ;0x754F49BD=E2FC_IJ
 0x754F49BD=E2FC_IJ
@@ -450,10 +455,10 @@
 0x759042BF=E2FC_HH
 
 ;0x7697C691=~z~Shit, A. You can come too, if you like.
-0x7697C691=~z~妈的，A。你要是乐意的话，来也行。
+0x7697C691=~z~妈的，A。你要是乐意的话，可以一起去。
 
 ;0x7743C85B=~z~I hope you sleep well, bro.
-0x7743C85B=~z~祝你睡得踏实，兄弟。
+0x7743C85B=~z~希望你晚上睡得着，兄弟。
 
 ;0x78361AF3=E2FC_DL
 0x78361AF3=E2FC_DL
@@ -465,16 +470,16 @@
 0x79E253AC=~z~Jimmy Boston？他是个好演员，兄弟。
 
 ;0x7ACB9505=~z~Who are you loyal to, moron?
-0x7ACB9505=~z~你对谁忠诚，傻逼？
+0x7ACB9505=~z~你对谁效忠啊，傻逼？
 
 ;0x7BA1F75E=~z~We been making serious moves, dude. Serious shit.
-0x7BA1F75E=~z~咱们真的动手了，老哥。真的动了。
+0x7BA1F75E=~z~我们一步一个脚印，哥们。在往前走。
 
 ;0x7CCCA467=E2FC_GW
 0x7CCCA467=E2FC_GW
 
 ;0x7D55ECC1=~z~I'd ask him to do the accounts for the club, but I'd be worried the motherfucker would report us to the IRS.
-0x7D55ECC1=~z~我想让他来给俱乐部做账，但我担心这操蛋玩意会向国税局举报咱们。
+0x7D55ECC1=~z~我有想过找他给夜店管账，但我担心这傻逼会向国税局举报我们。
 
 ;0x7DA7559A=E2FC_BB
 0x7DA7559A=E2FC_BB
@@ -489,7 +494,7 @@
 0x7E7B6E30=E2FC_FB
 
 ;0x801616B5=~z~Not sure. Sometimes I think okay, and sometimes I think fucking awful, bro.
-0x801616B5=~z~也不全是。有时我觉得还行，有时觉得真他妈不行，兄弟。
+0x801616B5=~z~说不清，哥们。有时感觉还行，有时又感觉不行，兄弟。
 
 ;0x8018B411=E2FC_ET
 0x8018B411=E2FC_ET
@@ -501,16 +506,16 @@
 0x80870567=290090190090190090090190090190090190290090090190090
 
 ;0x8135747C=~z~No they don't.
-0x8135747C=~z~不，他们没有。
+0x8135747C=~z~是啊，不会变的。
 
 ;0x81380E1F=~z~He's so fucking gay, he probably pissed he didn't spend longer inside.
-0x81380E1F=~z~这基佬他妈的估计还抱怨局子蹲得不够久呢。
+0x81380E1F=~z~他这么个基佬，估计还嫌弃自己没在牢里多待几年。
 
 ;0x814C7B9A=E2FC_JH
 0x814C7B9A=E2FC_JH
 
 ;0x81713E0D=~z~Part of what, motherfucker? Say it.
-0x81713E0D=~z~啥环节啊，王八犊子？你说啊。
+0x81713E0D=~z~掺和什么，傻逼玩意？你说啊。
 
 ;0x819B7668=E2FC_GN
 0x819B7668=E2FC_GN
@@ -525,10 +530,10 @@
 0x84E3E613=190090190190090290190190290090090190290090
 
 ;0x84FE4EF6=~z~That's why we love you.
-0x84FE4EF6=~z~这就是为啥咱们爱你。
+0x84FE4EF6=~z~所以我们才爱你。
 
 ;0x8581E4D7=~z~Well, whatever, it certainly impacted you. Now you love hanging with fags.
-0x8581E4D7=~z~行吧，不管怎么说，这确实影响到你了。现在你喜欢跟着基佬一起混了。
+0x8581E4D7=~z~那不重要，但监狱一定让你变了。现在你喜欢跟着基佬一起混。
 
 ;0x85EF7ADC=E2FC_JC
 0x85EF7ADC=E2FC_JC
@@ -537,13 +542,13 @@
 0x86D1047B=E2FC_JK
 
 ;0x882E1C07=~z~But if you get all street philosopher on me, I am going to beat your bitch ass black and fucking blue.
-0x882E1C07=~z~要是你把街边的人生导师都叫来给我上课的话，我他妈就把你这婊子揍得青一块紫一块的。
+0x882E1C07=~z~要是你敢跟我耍街头的那点小聪明，我他妈就把你揍得青一块紫一块。
 
 ;0x89CD836D=E2FC_ED
 0x89CD836D=E2FC_ED
 
 ;0x89F0ED43=~z~you gonna get shot by a third world cop, or you'll drown your dumb ass. You ain't fucking leaving me.
-0x89F0ED43=~z~你要么吃第三世界警察的枪子，要么就是淹死你个傻逼。你他妈离不开我的。
+0x89F0ED43=~z~你要么吃第三世界警察的枪子，要么就是掉水里淹死。你他妈别想走。
 
 ;0x8A226925=E2FC_IA
 0x8A226925=E2FC_IA
@@ -552,22 +557,22 @@
 0x8A90897E=E2FC_JD
 
 ;0x8AC4F571=~z~Don't look down on her for that shit. Not everyone as acclimatized to the fancy-ass celebrity scene as you are, bro.
-0x8AC4F571=~z~别因为这破事就看不起她。面对一群大佬时，不是谁都像你这样能适应得了。
+0x8AC4F571=~z~别因为这事看不起她。不是所有人都跟你一样，能在名人面前如鱼得水的。
 
 ;0x8ACE18B2=E2FC_GAB
 0x8ACE18B2=E2FC_GAB
 
 ;0x8CCDB024=~z~The kind you're too cool to tell us about, huh?
-0x8CCDB024=~z~你是不是一点都不上心，都不跟我们说一声的？
+0x8CCDB024=~z~就是你那些酷到不能告诉我们的事？
 
 ;0x8D671AE8=~z~Cool. And what's the plan?
-0x8D671AE8=~z~好啊。那计划是啥？
+0x8D671AE8=~z~好啊。有什么打算吗？
 
 ;0x8DC26394=~z~It ain't your fault. Whole neighborhood knows you got dropped out of a window when you was baby...
-0x8DC26394=~z~那不是你的错。邻居们都知道你小时候从窗口摔下去过…
+0x8DC26394=~z~你傻不怪你。这里人都知道你小时候从窗户掉下去过...
 
 ;0x8E500DD5=~z~Exactly...
-0x8E500DD5=~z~是啊…
+0x8E500DD5=~z~是啊...
 
 ;0x8F04682F=E2FC_IQ
 0x8F04682F=E2FC_IQ
@@ -579,7 +584,7 @@
 0x8F75EEC3=E2FC_CG
 
 ;0x8FC8CD98=~z~Jesus. I thought Henrique was the moron. I mean, gimme a break, L.
-0x8FC8CD98=~z~天哪，Henrique是个傻逼吧。不行，让我歇会，L。
+0x8FC8CD98=~z~天哪。亏我把Henrique当傻逼。别吧，放过我吧，L。
 
 ;0x90EDAD9A=E2FC_GB
 0x90EDAD9A=E2FC_GB
@@ -603,22 +608,22 @@
 0x954B117C=E2FC_IK
 
 ;0x966FB88A=~z~Shit weren't like that, L.
-0x966FB88A=~z~事情不是那样的，L。
+0x966FB88A=~z~不是你想的那样，L。
 
 ;0x9680B494=E2FC_GF
 0x9680B494=E2FC_GF
 
 ;0x96999BCA=~z~They cool. Same old 9 to 5 shit.
-0x96999BCA=~z~那还行，还是老一套的无聊玩意。
+0x96999BCA=~z~他们挺好，还是在朝九晚五。
 
 ;0x97137BD1=~z~He did always tell us we was never gonna be shit, didn't he?
-0x97137BD1=~z~他确实一直在说我们不是废物，不是吗？
+0x97137BD1=~z~他确实一直说我们会一事无成，不是吗？
 
 ;0x977988D2=~z~I guess I'm just worried about losing my friends...
-0x977988D2=~z~我想我担心的只是失去朋友…
+0x977988D2=~z~我想我只是担心失去自己的朋友...
 
 ;0x978BCE85=~z~Sorry... know you don't do anything you don't enjoy.... I meant sucking them off.
-0x978BCE85=~z~不好意思…知道你不想干你不喜欢的事情…我是说当舔狗之类的。
+0x978BCE85=~z~抱歉...我知道你只做自己喜欢的工作...我是指给别人口。
 
 ;0x98AE762E=E2FC_EA
 0x98AE762E=E2FC_EA
@@ -627,7 +632,7 @@
 0x99027685=E2FC_GAF
 
 ;0x99F359BE=~z~but shit don't mean nothing up here.
-0x99F359BE=~z~但眼下这事情啥也算不上。
+0x99F359BE=~z~但不可能骗得到我。
 
 ;0x9A4A085A=190090190090190090190090090290190090290190090
 0x9A4A085A=190090190090190090190090090290190090290190090
@@ -636,13 +641,13 @@
 0x9ABE425B=E2FC_GG
 
 ;0x9C2C9EA6=~z~Yo, L, I got some news.
-0x9C2C9EA6=~z~哟，L，我有些消息。
+0x9C2C9EA6=~z~哟，L，我有事要说。
 
 ;0x9C40BEF4=E2FC_GI
 0x9C40BEF4=E2FC_GI
 
 ;0x9C57A746=~z~Yo, L, how your siblings, homie?
-0x9C57A746=~z~哟，L，你兄弟姐妹们怎么样，伙计？
+0x9C57A746=~z~哟，L，你哥和你妹还好吗，伙计？
 
 ;0x9CDB1F11=E2FC_ES
 0x9CDB1F11=E2FC_ES
@@ -651,42 +656,43 @@
 0x9CF3C06B=290090290190090190290190090190190290090
 
 ;0x9D801AE7=~z~I know that, but you'd think she'd want to talk to family, not some guy from the movies.
-0x9D801AE7=~z~我懂，但是你想啊，她想跟他聊天的人是他家人，而不是电影里的大明星。
+0x9D801AE7=~z~我知道，哥们。但她其实是想找家人说话，不是哪个电影明星。
 
 ;0x9D8F6925=~z~Well that'swhat I'm aiming for, a mellow vibe.
-0x9D8F6925=~z~好吧，那就是我一直在追求的，一种舒适的氛围。
+0x9D8F6925=~z~这就是我的目标，气质稳重。
 
 ;0x9DD8C760=~z~Is that true, A?
-0x9DD8C760=~z~真的吗，A？
+0x9DD8C760=~z~是这样吗，A？
 
 ;0x9F7A1388=~z~Who you calling a fool, you poseur. You always was. A pretty boy, but not a street guy.
-0x9F7A1388=~z~你个人模狗样的玩意说谁傻逼呢？你总是这样子。你是个体面人，不是街头的混混。
+0x9F7A1388=~z~你说谁傻逼呢，伪君子？你一直都没变，是块小鲜肉，不是道上混的。
 
 ;0x9FA41456=~z~Me neither, bro. It's hard to get angry when there's such a glaring fault in your logic.
-0x9FA41456=~z~我也不是，兄弟。当你的逻辑中出现了那么明显的错误时，你很难生气。
+0x9FA41456=~z~我也不是，兄弟。你的逻辑里有明显错误，我很难生气。
 
 ;0x9FD20D38=E2FC_IG
 0x9FD20D38=E2FC_IG
 
 ;0xA05240BE=~z~So you want to die on the streets, man? Cause that's how this will end for all of us, way we been living.
-0xA05240BE=~z~那你是想横尸街头吗，哥们？咱们这种活法，到头来就是这样子。
+0xA05240BE=~z~那你是想横尸街头吗，哥们？咱们这种活法，到头来都是这样。
 
 ;0xA0D18F51=~z~Any normal human being woulda helped our asses, not threatened to report us.
-0xA0D18F51=~z~任何一个正常人都会帮我们，而不是恐吓说要举报我们。
+0xA0D18F51=~z~是个正常人都会帮我们一把，而不是威胁说要去告状。
 
 ;0xA0E61A3E=~z~Rique, bro, why you think you like you are?
-0xA0E61A3E=~z~Rique，兄弟，你觉得你喜欢自己的什么地方？
+0xA0E61A3E=~z~Rique，兄弟，你觉得为什么你会是现在这样？
+;后半句在配音中为"why do you think you are like you are"
 
 ;0xA155E219=~z~Seriously, enano, shut up
-0xA155E219=~z~我说真的，矮逼，闭嘴
+0xA155E219=~z~你够了，矮子，闭嘴。
 
 ;0xA4721DFA=~z~I mean, we talking like rainforest depleting tree habit to pop me out.
-0xA4721DFA=~z~我是说，咱们讲话声音噼里啪啦的，像在热带雨林砍树一样。
+0xA4721DFA=~z~就是说，你那逻辑堪比因为雨林衰退，我才生成这样。
 
 ;0xA47CDF82=~z~You know, usual kind of chaotic shit.
-0xA47CDF82=~z~你懂的，又是这种乱七八糟的东西。
+0xA47CDF82=~z~你也懂，就那些乱七八糟的。
 
-;0xA489D712=E2FC_GD
+;0xA489D712=E2FC_GD1
 0xA489D712=E2FC_GD
 
 ;0xA4CC19C3=E2FC_BG
@@ -696,22 +702,22 @@
 0xA590EC20=E2FC_EJ
 
 ;0xA6182146=~z~She have to smoke up inhuman amounts of weed to make a kid this stupid.
-0xA6182146=~z~她是抽大麻抽得有多恐怖，才会把孩子搞成这样。
+0xA6182146=~z~她就算抽大麻抽到上天，都不至于把我生得这么笨。
 
 ;0xA7B840A1=~z~How about this, L? Me and Rique gonna stop trying to make you change, if pay us the same respect.
-0xA7B840A1=~z~那这样行不行，L？要是你够尊重我俩的话，我和Rique就不逼着你转变了。
+0xA7B840A1=~z~那这样行不行，L？只要你也尊重我们，我和Rique就不再逼你回心转意了。
 
 ;0xA81E22A7=E2FC_BE
 0xA81E22A7=E2FC_BE
 
 ;0xA8BEC014=~z~She's a mom now, bro.
-0xA8BEC014=~z~她现在当妈了，兄弟。
+0xA8BEC014=~z~她都当妈了，兄弟。
 
 ;0xA9814C86=E2FC_FN
 0xA9814C86=E2FC_FN
 
 ;0xA98FA0CD=~z~ We was trying to rob a teacher, after all.
-0xA98FA0CD=~z~毕竟咱们是在试着抢劫一个老师。
+0xA98FA0CD=~z~毕竟我们要偷的是老师家。
 
 ;0xA9CB448C=E2FC_EC
 0xA9CB448C=E2FC_EC
@@ -723,43 +729,43 @@
 0xAA5C5491=E2FC_GR
 
 ;0xAAC09A7A=~z~You can't change.
-0xAAC09A7A=~z~你变不了的。
+0xAAC09A7A=~z~以后还是。
 
 ;0xAC2763FD=~z~It's bullshit. For real. This guy is just pent up cause Tony won't blow him no more.
-0xAC2763FD=~z~说真的，这太扯淡了。就因为Tony不给他口，他就自闭了。
+0xAC2763FD=~z~都是屁话，假的。就因为Tony不给他口，他开始自闭了。
 
 ;0xAC293E9F=~z~You ain't going, man. I told you that.
-0xAC293E9F=~z~你走不掉了，哥们。我说过的。
+0xAC293E9F=~z~你不能回去，哥们。我说过的。
 
 ;0xAC8C787E=~z~What's going on gentlemen?
-0xAC8C787E=~z~咋的了先生？
+0xAC8C787E=~z~你们好吗，两位绅士？
 
 ;0xAD0C3638=E2FC_EV
 0xAD0C3638=E2FC_EV
 
 ;0xB053B53B=~z~Just don't drag H down with you, street genius, that's all.
-0xB053B53B=~z~别把H拖下水就行，街头鬼才。这样就够了。
+0xB053B53B=~z~那你别把H也拖下水，街头天才。就这样。
 
 ;0xB0C6328B=E2FC_CF
 0xB0C6328B=E2FC_CF
 
 ;0xB0F741D5=~z~The movies is good, bro. I shout at the screen the whole time.
-0xB0F741D5=~z~电影很不错啊，兄弟。我一直对着屏幕尖叫呢。
+0xB0F741D5=~z~他的电影很棒，兄弟。我一直对着屏幕大叫呢。
 
 ;0xB1C2BDD6=E2FC_DC
 0xB1C2BDD6=E2FC_DC
 
 ;0xB1E638DA=~z~Yo, shit, bro. I'm sorry. I didn't mean nothing.
-0xB1E638DA=~z~哟，妈的，兄弟。对不起。我没别的意思。
+0xB1E638DA=~z~哟，妈的，兄弟。对不起。我不是故意的。
 
 ;0xB2F9223C=E2FC_CP
 0xB2F9223C=E2FC_CP
 
 ;0xB3E67E51=~z~How you doing, L?
-0xB3E67E51=~z~怎么样，L？
+0xB3E67E51=~z~最近好吗，L？
 
 ;0xB40E878A=~z~Gentlemen... man, you spent too long wiping rich guy's asses.
-0xB40E878A=~z~先生…哥们，你给有钱人擦屁股太久了是吧。
+0xB40E878A=~z~绅士？哥们，你给阔佬擦屁股擦多了吧。
 
 ;0xB4499031=E2FC_DJ
 0xB4499031=E2FC_DJ
@@ -768,10 +774,12 @@
 0xB44B1214=E2FC_DK
 
 ;0xB5F50276=~z~Well I know all about that. I spend all day hanging with H.
-0xB5F50276=~z~对于这个，我啥都知道。我天天和H混在一起的。
+0xB5F50276=~z~这个我熟。我每天都跟H一起出来。
 
 ;0xB6665319=~z~I might go back to the DR for a time. My pia say she wants some company.
-0xB6665319=~z~我应该回多米尼加待段时间了。直觉告诉我她需要陪伴。
+0xB6665319=~z~我应该回多米尼加待段时间了。我姑姑说她需要陪伴。
+;"pia"在配音中为"tia" 西译英为"aunt"，而西语没有"pia"这个词
+;至于这个aunt是父亲那边的还是母亲那边的就无从考证了
 
 ;0xB7221FD1=E2FC_GZ
 0xB7221FD1=E2FC_GZ
@@ -780,28 +788,28 @@
 0xB741CEB9=E2FC_IM
 
 ;0xB806B506=~z~I can.
-0xB806B506=~z~我可以。
+0xB806B506=~z~不会是了。
 
 ;0xB84A62A5=~z~Maybe some people do. But, yeah, whatever, bro.
-0xB84A62A5=~z~也许有人干了。但，唉，随便吧，兄弟。
+0xB84A62A5=~z~也有人会变吧。不过确实，随便吧，兄弟。
 
 ;0xB8D2F911=E2FC_FK
 0xB8D2F911=E2FC_FK
 
 ;0xB8E2E05C=~z~Tell your hermana to hit we up when she next in town.
-0xB8E2E05C=~z~跟你姐妹说下吧，下次她来城里的话叫上咱们。
+0xB8E2E05C=~z~哪天你妹妹来城里了记得让她联系我们。
 
 ;0xB904200A=~z~What do you mean?
 0xB904200A=~z~你啥意思？
 
 ;0xB985E43C=~z~And it don't mean I can't help you guys go legit neither.
-0xB985E43C=~z~这也不意味着我可以帮你们开脱。
+0xB985E43C=~z~也不代表我不愿意帮你们上岸改行。
 
 ;0xB98F5150=E2FC_HI
 0xB98F5150=E2FC_HI
 
 ;0xBA428033=~z~Listen, I know you didn't get me in worse shit, but I do know you got someone in worse shit. And I don't give a fuck.
-0xBA428033=~z~听着，我知道你没带坏我，但我可知道你带坏了别人。我不会管的。
+0xBA428033=~z~听着，我知道你当年没害得我更糟，但我知道你害了别人。但我不在乎。
 
 ;0xBA6776E3=E2FC_JM
 0xBA6776E3=E2FC_JM
@@ -810,16 +818,16 @@
 0xBCAAD814=E2FC_BF
 
 ;0xBDD336D0=~z~He can be useful sometimes.
-0xBDD336D0=~z~他有时还是有用的。
+0xBDD336D0=~z~他还是挺能干的。
 
 ;0xBF254343=~z~You a kid who once broke his teacher's arm because the teaher picked on his sister.
-0xBF254343=~z~你曾经是个因为老师欺负他妹妹而打断老师胳膊的孩子。
+0xBF254343=~z~当年你可是因为妹妹被老师欺负，就打断了老师的胳膊啊。
 
 ;0xC0E7681B=~z~You might have forgotten, but I'm his boss, yo. We got a fuckin' business to run.
-0xC0E7681B=~z~你也许是忘了，但我可是他老板，哟。咱他妈的还有生意要做呢。
+0xC0E7681B=~z~你也许是忘了，但我可是他老板，哟。我们还他妈要做生意呢。
 
 ;0xC12BD76D=~z~You dudes is both morons. Shit.
-0xC12BD76D=~z~你哥俩都是傻逼。妈的。
+0xC12BD76D=~z~你们哥俩都是白痴。妈的。
 
 ;0xC17A7A06=E2FC_HK
 0xC17A7A06=E2FC_HK
@@ -828,43 +836,43 @@
 0xC2AF56BE=E2FC_ID
 
 ;0xC2BBE55E=~z~We know you do.
-0xC2BBE55E=~z~咱知道你做了。
+0xC2BBE55E=~z~知道你大叫了。
 
 ;0xC2ED89A1=E2FC_AK
 0xC2ED89A1=E2FC_AK
 
 ;0xC34D5448=~z~Biggest asshole teacher in the school.
-0xC34D5448=~z~学校里最操蛋的老师。
+0xC34D5448=~z~还是学校里最混蛋的一个。
 
 ;0xC411367F=E2FC_AH
 0xC411367F=E2FC_AH
 
 ;0xC4BE0995=~z~Dope ain't a long term game.
-0xC4BE0995=~z~贩毒这活干不了多久的。
+0xC4BE0995=~z~贩毒可不是长远的工作。
 
 ;0xC548E303=~z~Damn right I am.
-0xC548E303=~z~我太他妈对了。
+0xC548E303=~z~可不就是我吗。
 
 ;0xC61A010E=E2FC_EO
 0xC61A010E=E2FC_EO
 
 ;0xC83C364B=~z~Good to be hanging with you again, L.
-0xC83C364B=~z~还能跟你出来玩真好，L。
+0xC83C364B=~z~能再跟你出来玩真好，L。
 
 ;0xC9462918=~z~Just bullshit to do with hanging out with idiots.
-0xC9462918=~z~跟傻逼们出来玩是真的操蛋。
+0xC9462918=~z~就是些屁事，比如陪白痴出去。
 
 ;0xCA66C3CF=E2FC_CJ
 0xCA66C3CF=E2FC_CJ
 
 ;0xCB20161A=~z~Which is why I'm thinking of fucking killing you.
-0xCB20161A=~z~这就是为啥我他妈的想杀了你。
+0xCB20161A=~z~所以我他妈才想杀了你。
 
 ;0xCC5B09EA=~z~And I ain't never not respected that, bro. I always treated you like the freak you are.
-0xCC5B09EA=~z~我是不会那样尊重你的，兄弟。你有多奇葩，我就怎么对你。
+0xCC5B09EA=~z~我也没有不尊重过你的为人，兄弟。我只是给了怪人应有的待遇，哈哈。
 
 ;0xCCC3B8F4=~z~Ay Dios mio. Shut up.
-0xCCC3B8F4=~z~滚吧你，闭嘴吧。
+0xCCC3B8F4=~z~我的天哪，闭嘴吧。
 
 ;0xCCD9CCC4=E2FC_HP
 0xCCD9CCC4=E2FC_HP
@@ -873,7 +881,7 @@
 0xCE11B455=190290090190090290090190090190290090290090190190090190290090190090
 
 ;0xCE5BF1C5=~z~Yeah. What's that?
-0xCE5BF1C5=~z~是嘛。那是啥？
+0xCE5BF1C5=~z~是吗，啥错误？
 
 ;0xCE8C177C=E2FC_JI
 0xCE8C177C=E2FC_JI
@@ -885,13 +893,13 @@
 0xCF8F7344=E2FC_HF
 
 ;0xCFD05ACA=~z~I told you not to do this, A. I told you I didn't wanna be no part of it.
-0xCFD05ACA=~z~我跟你说过不要这样做的，A。我告诉过你我不想掺和进来的。
+0xCFD05ACA=~z~我都说了别这样了，A。我都说了我不想掺和进来。
 
 ;0xD0727A55=E2FC_DD
 0xD0727A55=E2FC_DD
 
 ;0xD1B4F87F=~z~You got a point. I guess it was crack then.
-0xD1B4F87F=~z~你说到点子上了。我猜那是毒品。
+0xD1B4F87F=~z~哈哈，很有道理。那就是可卡因的缘故了。
 
 ;0xD1F1538F=E2FC_AE
 0xD1F1538F=E2FC_AE
@@ -900,7 +908,7 @@
 0xD260589E=E2FC_CN
 
 ;0xD3AA873B=~z~Damn straight.
-0xD3AA873B=~z~太他妈对了。
+0xD3AA873B=~z~哈哈，可不是嘛。
 
 ;0xD4247BCC=E2FC_IB
 0xD4247BCC=E2FC_IB
@@ -912,10 +920,10 @@
 0xD60D9E1F=E2FC_FA
 
 ;0xD680AD1A=~z~I'm a street guy. Do I look like I got a 401K?
-0xD680AD1A=~z~我可是街头混混。我看起来像是领补助的人吗？
+0xD680AD1A=~z~我可是街头混混。我像是有退休金的人吗？
 
 ;0xD6EB75E1=~z~It's the company I keep. Two giant, over muscled pea brains.
-0xD6EB75E1=~z~这就是我的兄弟，两个四肢发达，头脑简单的家伙。
+0xD6EB75E1=~z~近墨者黑。怪这俩四肢发达，头脑简单的家伙。
 
 ;0xD7F17B36=E2FC_II
 0xD7F17B36=E2FC_II
@@ -927,28 +935,28 @@
 0xD901A767=E2FC_GP
 
 ;0xD9EB8C48=~z~Someone gotta step up.
-0xD9EB8C48=~z~得有人站出来。
+0xD9EB8C48=~z~总得有人挡在前面。
 
 ;0xDA4ECB29=~z~Why? What's going on?
-0xDA4ECB29=~z~为啥？咋的了？
+0xDA4ECB29=~z~为啥？出什么事了？
 
 ;0xDA6EB4B7=~z~You'd get a medal for that - services to humanity.
-0xDA6EB4B7=~z~那给你颁个人民公仆奖。
+0xDA6EB4B7=~z~那不得给你送面锦旗——为民除害。
 
 ;0xDCAF8DF2=~z~Dope is a way to help yourself, not a life, least that's how I see it, but whatever you fools want.
-0xDCAF8DF2=~z~毒品是损人利己的东西，至少我是这么认为的 。你们这帮傻逼爱咋想咋想吧。
+0xDCAF8DF2=~z~贩毒只是为了吃饭，不是生活方式。至少我是这么想的，你们俩傻逼爱咋咋。
 
 ;0xDCDB88C6=E2FC_IF
 0xDCDB88C6=E2FC_IF
 
 ;0xDCDF204A=~z~It's just for a few months. You get someone to fill in.
-0xDCDF204A=~z~就几个月而已。你找个人来替吧。
+0xDCDF204A=~z~就去几个月。你找个人来替吧。
 
 ;0xDD1B0887=E2FC_HC
 0xDD1B0887=E2FC_HC
 
 ;0xDD727FDD=~z~A fucking teacher. You sick, bro.
-0xDD727FDD=~z~他妈的是个老师啊。你疯了，兄弟。
+0xDD727FDD=~z~那他妈是老师啊。变态吧你，兄弟。
 
 ;0xDD7BE394=E2FC_AC
 0xDD7BE394=E2FC_AC
@@ -957,7 +965,7 @@
 0xDDC33D52=E2FC_JN
 
 ;0xDDF1AD17=~z~We is who we is. End of story.
-0xDDF1AD17=~z~我们就是我们。故事落幕了。
+0xDDF1AD17=~z~我们就是我们。就说到这儿。
 
 ;0xDEA53583=E2FC_HJ
 0xDEA53583=E2FC_HJ
@@ -966,19 +974,19 @@
 0xDEE0EEAE=E2FC_HN
 
 ;0xE0331A44=~z~Well, I went down and you didn't. So what was it, huh? Did you squeal?
-0xE0331A44=~z~好吧，我失败了，你们没有。那现在呢，嗯？你们争口气了吗？
+0xE0331A44=~z~当年我进去了，你没有。那算什么，啊？你丫告密了？
 
 ;0xE2FAB81D=E2FC_JF
 0xE2FAB81D=E2FC_JF
 
 ;0xE4733778=~z~Anyway, she was maybe a couple of months back on a conference.
-0xE4733778=~z~不管怎么说，她几个月前回到了会议上。
+0xE4733778=~z~不过，几个月前她可能来开过会。
 
 ;0xE54B8F7F=~z~Well, I gotta change.
-0xE54B8F7F=~z~好吧，我得改变下了。
+0xE54B8F7F=~z~是吗，以后就不是了。
 
 ;0xE6007A02=~z~Jesus - that's funny coming from you. We hear what you've been getting up to. We know what you like.
-0xE6007A02=~z~天哪，你说得真搞笑。咱知道你都在忙啥，都喜欢啥。
+0xE6007A02=~z~天哪，这话轮不到你说。我们知道你平常干什么，知道你是什么人。
 
 ;0xE64D7BA9=E2FC_BJ
 0xE64D7BA9=E2FC_BJ
@@ -996,25 +1004,25 @@
 0xE7D31F4B=E2FC_HB
 
 ;0xE8B929E3=~z~He's like that 'cause you the least dependable guy, A. And you always getting into us fuckin' fights.
-0xE8B929E3=~z~他之所以这样是因为至少你是信得过的，A。并且你一直都他妈的和我们混。
+0xE8B929E3=~z~他变成这样，都是因为你太靠不住，A。而且你还整天给我们找架打。
 
 ;0xE8DA1CE9=E2FC_IP
 0xE8DA1CE9=E2FC_IP
 
 ;0xE9780E19=~z~All the way. The three of us together.
-0xE9780E19=~z~一路走来咱们仨都在一块。
+0xE9780E19=~z~我们三个，一起干一辈子。
 
 ;0xEA401C8E=~z~Thank you. No one ever called me a genius before.
-0xEA401C8E=~z~谢了，还没有人说过我是天才呢。
+0xEA401C8E=~z~谢谢，还没有人说过我是天才呢。
 
 ;0xEBA7CA9B=E2FC_GQ
 0xEBA7CA9B=E2FC_GQ
 
 ;0xEBBB025A=~z~Oh really?
-0xEBBB025A=~z~哦，真的吗？
+0xEBBB025A=~z~哦，是吗？
 
 ;0xEC942DBB=~z~I guess I ain't so riddled with insecurity as you. I'm happy with who I am.
-0xEC942DBB=~z~我寻思我不像你那样缺少安全感。我对自己很满意。
+0xEC942DBB=~z~大概我没你那么缺乏安全感。我对自己很满意。
 
 ;0xECDC9D41=~z~Fuck you.
 0xECDC9D41=~z~操你妈的。
@@ -1023,43 +1031,43 @@
 0xEDA3B892=E2FC_EU
 
 ;0xEDCC6746=~z~Whatever you say, bro.
-0xEDCC6746=~z~你说啥都行，兄弟。
+0xEDCC6746=~z~随你说喽，兄弟。
 
 ;0xEE82B333=E2FC_CE
 0xEE82B333=E2FC_CE
 
 ;0xEE98C3BD=~z~No fucking way. People go to the Island, they don't come back.
-0xEE98C3BD=~z~他妈的没门。上了岛的人是不会回来的。
+0xEE98C3BD=~z~门都没有。上了岛的人是不会回来的。
 
 ;0xEEA44E7C=~z~You know that ain't how I think, H.
 0xEEA44E7C=~z~你知道我不是这么想的，H。
 
 ;0xEEF837CE=~z~You didn't take no fall for me.
-0xEEF837CE=~z~你没为我背锅过。
+0xEEF837CE=~z~你没替我坐过牢。
 
 ;0xF18E430E=E2FC_BA
 0xF18E430E=E2FC_BA
 
 ;0xF21389F9=~z~Yeah, only I hope with better results. Maybe this time, I can avoid a bid in a correctional facility.
-0xF21389F9=~z~是啊，我只希望走好运。也许这次我可以逃出生天了。
+0xF21389F9=~z~是啊，希望这次有更好的结果吧。说不定这次我不会被抓去坐牢。
 
 ;0xF267950C=E2FC_CK
 0xF267950C=E2FC_CK
 
 ;0xF27ED38F=~z~Even better.
-0xF27ED38F=~z~甚至会更好。
+0xF27ED38F=~z~那不是更好。
 
 ;0xF29D5D22=E2FC_JQ
 0xF29D5D22=E2FC_JQ
 
 ;0xF2D49085=~z~Pair of fucking bitches. Always complaining and shit.
-0xF2D49085=~z~你俩真他妈贱，一天天的都在扯淡抱怨。
+0xF2D49085=~z~跟俩泼妇一样，每天都在吵架。
 
 ;0xF4CA9796=~z~Let's try to keep things cool, okay?
-0xF4CA9796=~z~咱们尽量控制下，好吗？
+0xF4CA9796=~z~不要惹是生非，好吗？
 
 ;0xF4F9251B=~z~I ain't talking "when you can". I'm talking ditch this other shit and we gonna make something go.
-0xF4F9251B=~z~我才不会说“你啥时可以”这样的话。我要说的是抛开这些破事之后咱们要干的东西。
+0xF4F9251B=~z~我不是问你「哪天有空」。我的意思是让你抛下别的，我们一起干些大事。
 
 ;0xF6348E00=E2FC_FF
 0xF6348E00=E2FC_FF
@@ -1074,10 +1082,10 @@
 0xF94BE0F5=E2FC_AM
 
 ;0xFB78A1D5=~z~Yeah, really.
-0xFB78A1D5=~z~对，真的。
+0xFB78A1D5=~z~对，是的。
 
 ;0xFC1A4042=~z~Way I see it, is you're lucky to be as bright as you are. You a genius, given half your brain probably got smashed.
-0xFC1A4042=~z~依我看，你这半个脑袋开花的鬼才还能这么聪明真是幸运。
+0xFC1A4042=~z~依我看，你能有现在这智商已经够走运了。你是个天才，考虑到你的脑子可能摔坏了一半的话。
 
 ;0xFCD4290C=E2FC_HM
 0xFCD4290C=E2FC_HM
@@ -1092,10 +1100,10 @@
 0xFD8BE8BB=E2FC_DF
 
 ;0xFF0ED7FB=~z~even though we seem to hate each other.
-0xFF0ED7FB=~z~尽管咱们都互相鄙视对方。
+0xFF0ED7FB=~z~虽然嘴上都不客气。
 
 ;0xFF2056B1=~z~or was it just that weed smoke shit?
-0xFF2056B1=~z~或者这就是要抽的大麻？
+0xFF2056B1=~z~还是抽大麻就抽傻了？
 
 ;0xFF4AA18C=E2FC_FE
 0xFF4AA18C=E2FC_FE

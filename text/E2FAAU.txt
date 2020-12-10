@@ -3,16 +3,16 @@
 0x006C3B23=100
 
 ;0x0158BEC0=~z~I guess they don't got tables for you to practice on at your Downtown haunts.
-0x0158BEC0=~z~我猜你在市区经常出没的地方可没有桌子给你练习这个。
+0x0158BEC0=~z~你们城里人是不是没地方练桌上冰球啊。
 
 ;0x0185CE25=~z~It never gonna be as good as your mom's cooking, L. But let's go get something to eat.
-0x0185CE25=~z~这可没有跟你妈煮的一样好吃，L。但咱们还是去吃点吧。
+0x0185CE25=~z~虽然比不上你妈做的饭菜，L，但咱们还是下个馆子吧。
 
 ;0x01B11F8F=~z~There a Burger Shot near here, ain't there? Unless you too good for that shit now.
-0x01B11F8F=~z~这附近有家汉堡店不是吗？你不会已经高贵到不吃这些垃圾了吧。
+0x01B11F8F=~z~附近是不是有家吃得饱汉堡来着？你不会已经高贵到不吃这些垃圾了吧。
 
 ;0x01E0E0BD=~z~You part time motherfucker. I can round up Rique for you. I think he probably forgot who you are though.
-0x01E0E0BD=~z~操你妈个干兼职的。我帮你叫下Rique吧。我想他都已经忘记你是谁了。
+0x01E0E0BD=~z~这可是位稀客啊。我可以帮你叫上Rique。不过他可能都不认识你了。
 
 ;0x02C9ABD3=~z~This some homo game you playing. I don't like it.
 0x02C9ABD3=~z~这种基情四射的游戏是你玩的。我不喜欢。
@@ -30,34 +30,34 @@
 0x048D47C1=100
 
 ;0x04BA9059=~z~If you ain't gonna have time to finish bowling why you start in the first place.
-0x04BA9059=~z~要是你没空打完这把保龄球，那你起啥哄呢。
+0x04BA9059=~z~要是你都没空打完整局，那你约你妈呢。
 
 ;0x04C88A59=100
 0x04C88A59=100
 
 ;0x04D545D7=~z~I always had a better eye than you. Yeah.
-0x04D545D7=~z~我眼睛比你利，耶。
+0x04D545D7=~z~我眼睛一直比你好，没错。
 
 ;0x05900F56=100
 0x05900F56=100
 
 ;0x05BEB3C8=~z~This guy is gone, yo.
-0x05BEB3C8=~z~这人死定了，哟。
+0x05BEB3C8=~z~我先走一步了，哟。
 
 ;0x05C28A2E=~z~Me and H had a bet on whether you'd show. Thanks, L. You just made me some money.
-0x05C28A2E=~z~我和H打赌你到底会不会来。谢了L，你刚刚让我赌赢了。
+0x05C28A2E=~z~我和H赌了你到底会不会来。谢了L，你让我赢钱了。
 
 ;0x0657F355=E2FA_BWA
 0x0657F355=E2FA_BWA
 
 ;0x083B5E55=~z~Okay, bro. H certainly ain't busy and I could postpone some shit. Come pick us up.
-0x083B5E55=~z~好的，兄弟。H当然不忙，我可以推迟些事情。来接咱们吧。
+0x083B5E55=~z~好的，兄弟。H肯定闲着，我也能排出时间。来接咱们吧。
 
 ;0x0850B84D=~z~Armando, what's up? You got some shit in that van of yours? I need to restock.
 0x0850B84D=~z~Armando，你好吗？你车里有家伙吗？我要补点货。
 
 ;0x085B2418=~z~Rique could do with some L time, bro. Let's take him out.
-0x085B2418=~z~你有约，Rique可以来，兄弟。咱们带他出去吧。
+0x085B2418=~z~Rique想和L玩一会儿，兄弟。咱们带他出去吧。
 
 ;0x08B92A39=~z~What the fuck you messing with my shit for?
 0x08B92A39=~z~你他妈乱搞啥呢？
@@ -69,13 +69,13 @@
 0x0A39F9F9=E2FA_BXA
 
 ;0x0A75BD8C=~z~I spent enough on gas. I ain't giving you shit as well. Sorry, bro.
-0x0A75BD8C=~z~我油钱花够了。我也懒得理你了。对不起，兄弟。
+0x0A75BD8C=~z~油钱已经是倒贴了，不可能连枪都白送。对不起，兄弟。
 
 ;0x0AD398F3=~z~Where you been bro?
-0x0AD398F3=~z~你到哪了兄弟？
+0x0AD398F3=~z~你哪儿去了，兄弟？
 
 ;0x0B682D53=~z~It's a rich man's game. Of course you won.
-0x0B682D53=~z~这是有钱人玩的游戏，你当然会赢了
+0x0B682D53=~z~有钱人才玩这个，你当然会赢。
 
 ;0x0BCCEA35=100
 0x0BCCEA35=100
@@ -90,19 +90,19 @@
 0x10E01C37=100
 
 ;0x11BB0E9E=~z~I should stop selling drugs, bro. Getting these guns is so much easier.
-0x11BB0E9E=~z~我应该不贩毒了，兄弟。弄这些枪来要容易得多。
+0x11BB0E9E=~z~我还贩什么毒啊，兄弟。倒卖军火不是比贩毒赚钱。
 
 ;0x1259F536=~z~Yo. What time is it? I ain't even nearly awake yet.
 0x1259F536=~z~哟，现在几点？我还没睡醒呢。
 
 ;0x13101AC5=~z~Thanks, A. Te cuidas.
-0x13101AC5=~z~谢了，A。你真好。
+0x13101AC5=~z~谢了，A。你多保重。
 
 ;0x136068D4=~z~Cool, man.
-0x136068D4=~z~不错啊，哥们。
+0x136068D4=~z~好啊，哥们。
 
 ;0x13CCD03A=~z~Why don't you ask your sugar daddy for a loan?
-0x13CCD03A=~z~你咋不叫你干爹借你点钱呢？
+0x13CCD03A=~z~你咋不去找干爹借点钱呢？
 
 ;0x144BB4EC=E2FA_VA
 0x144BB4EC=E2FA_VA
@@ -120,19 +120,19 @@
 0x16DC1F92=100
 
 ;0x176C479F=~z~I ain't got money to replace this. Chill, bro.
-0x176C479F=~z~我没钱换掉这个，淡定点，兄弟。
+0x176C479F=~z~我没钱换车，冷静点，兄弟。
 
 ;0x185A17F7=100
 0x185A17F7=100
 
 ;0x1B26FCBB=~z~Oye, I'd love to hang with you and H, but the schedule don't permit.
-0x1B26FCBB=~z~噢耶，我很想跟你和H出来嗨，但是日程满满不允许啊。
+0x1B26FCBB=~z~喂，我很想跟你和H一起出去，但实在排不出时间啊。
 
 ;0x1B4B3F72=~z~Them pucks move too fast for a man in my state. Shit's a blur.
-0x1B4B3F72=~z~我看着这冰球移动得也太快了，都给我看糊了。
+0x1B4B3F72=~z~我刚才都看不清球在哪里，太糊了儿。
 
 ;0x1BFACE78=~z~All them golfing and fucking holidays you must go on with the queen, no wonder you won.
-0x1BFACE78=~z~你他妈一放假就和基佬去打高尔夫，怪不得你会赢。
+0x1BFACE78=~z~你他妈一放假就去和基佬打高尔夫，不赢才怪。
 
 ;0x1C22BD46=100
 0x1C22BD46=100
@@ -144,31 +144,31 @@
 0x1D7C902A=E2FA_BRA
 
 ;0x1DDF1A38=~z~Darts motherfucker! Ain't so bad hanging with us.
-0x1DDF1A38=~z~操你妈的玩飞镖？和咱玩这个也不错。
+0x1DDF1A38=~z~傻逼飞镖！和我们出来也没那么无聊吧。
 
 ;0x1E82E392=100
 0x1E82E392=100
 
 ;0x1F01E5AF=~z~Mira bro. I need something that's gonna help me win a fight. Can you come by in your van?
-0x1F01E5AF=~z~听着兄弟。我要点家伙来助我战斗胜利。你能开你的车来吗？
+0x1F01E5AF=~z~听着兄弟，我需要能让我打胜仗的东西。你能开那辆车过来吗？
 
 ;0x1F9833D5=~z~Thanks for coming down here, man. I'll see you soon.
-0x1F9833D5=~z~谢谢你走基层了，哥们。再见了。
+0x1F9833D5=~z~谢谢你过来送枪，哥们。再见了。
 
 ;0x20167B6D=~z~We get the point. You a busy motherfucker, L. Can't even see out darts with your friends.
-0x20167B6D=~z~我懂了。你他妈是个大忙人，L，甚至都不能和你朋友玩把飞镖。
+0x20167B6D=~z~我们懂了。你丫是个大忙人，L，陪朋友玩飞镖都要早退。
 
 ;0x20E54110=E2FA_BJA
 0x20E54110=E2FA_BJA
 
 ;0x22411CC4=~z~If you ain't got time for golf, what do you got time for?
-0x22411CC4=~z~你连打高尔夫都没空，那你都有空干啥了？
+0x22411CC4=~z~打高尔夫球都没空，那你有空干啥？
 
 ;0x227AAD52=~z~There he be!
-0x227AAD52=~z~他在这！
+0x227AAD52=~z~他来了！
 
 ;0x22F4F4EE=~z~Show H some of that toto at Honkers. It been a time for his starved ass.
-0x22F4F4EE=~z~给H看点脱衣舞厅里的逼吧。他屁眼痒好久了。
+0x22F4F4EE=~z~带H看点Honkers俱乐部的逼吧。他有段时间没去过了。
 
 ;0x23CFA7A3=100
 0x23CFA7A3=100
@@ -183,13 +183,13 @@
 0x252321B7=E2FA_BTA
 
 ;0x253858D3=~z~I can see myself rolling with one of these.
-0x253858D3=~z~我能看到自己玩的那个。
+0x253858D3=~z~我能想象到自己用这个的场景。
 
 ;0x254DE362=~z~Conyo. That my livelihood.
-0x254DE362=~z~看，那就是我的生活。
+0x254DE362=~z~妈的，老子的饭碗啊。
 
 ;0x25519110=~z~Diablo, loco, you always call when I'm the busiest. Can we do this another time?
-0x25519110=~z~亲爱的兄弟，你疯了，总是我最忙的时候你就找我。别的时间好不好？
+0x25519110=~z~你有病吧，我哪天没空你哪天约我。改天好不好？
 
 ;0x256BE785=E2FA_AIA
 0x256BE785=E2FA_AIA
@@ -216,19 +216,20 @@
 0x2ABEBBE1=100
 
 ;0x2B89D5BC=~z~This a blessing in disguise, L. Now I can put H back to work and make some paper out the dumb motherfucker.
-0x2B89D5BC=~z~这是因祸得福，L。现在我可以叫H回去工作然后赚钱离开这傻逼玩意了。
+0x2B89D5BC=~z~那我是因祸得福了，L。现在我可以叫H回去干活，接着压榨那个傻子的劳动力了。
 
 ;0x2BE3C5F7=~z~L. We see your fucking mom more than we see you. Shit is fucked up. Can you get your head out the homo's ass to chill with us a minute?
-0x2BE3C5F7=~z~L，我们他妈的见你妈的次数比见你还多，就你妈离谱。你能把你脑袋从基佬的屁眼里拿出来，跟咱们冷静一下？
+0x2BE3C5F7=~z~L，我们见到你妈的次数比见到你还多。能不能把你的头从基佬的屁眼里拿出来，陪我们出去逛逛？
+;"Shit is fucked up."配音没配
 
 ;0x2BFDDF7D=~z~Always were okay at bowling, L. Must be all them shit dates you go on.
-0x2BFDDF7D=~z~打保龄球啥时候都可以的，L。你肯定一天天的破事缠身。
+0x2BFDDF7D=~z~你还是这么强，L。一定是跟别人约会练出来的吧。
 
 ;0x2DB72904=E2FA_AQA
 0x2DB72904=E2FA_AQA
 
 ;0x2DC78E0F=~z~Much as I want to help a friend in need, they's more pressing things need my attention. Might be some room in the calendar later on if you still in need.
-0x2DC78E0F=~z~虽然我想帮上自己求助中的朋友，但还有更多要紧事需要我关注。要是你还需要帮忙的话，我再挤挤我的时刻表看看有没有空吧。
+0x2DC78E0F=~z~我很想帮求助于我的朋友，但还有更重要的事需要我关注。过段时间我可能有空，到时候你再问我吧。
 
 ;0x2DF8DA7B=190
 0x2DF8DA7B=190
@@ -243,7 +244,7 @@
 0x2FD24801=~z~哟哟哟。
 
 ;0x3085E457=~z~Remember this voice, L.
-0x3085E457=~z~记住这个声音了，L。
+0x3085E457=~z~猜猜我是谁，L。
 
 ;0x30C16985=100
 0x30C16985=100
@@ -252,16 +253,16 @@
 0x31E645B4=E2FA_NA
 
 ;0x320D12D3=~z~Wait for this...
-0x320D12D3=~z~等下……
+0x320D12D3=~z~是这个吗...
 
 ;0x327FC5A1=~z~Oye, you a lifesaver, A. I mean literally.
-0x327FC5A1=~z~噢耶，你是个救世主，A。我认真的。
+0x327FC5A1=~z~你这是救命恩人啊，A。字面意思的救命恩人。
 
 ;0x3321F807=~z~We could hit up the alley at Memory Lanes
-0x3321F807=~z~咱在保龄球馆那的小巷见面吧。
+0x3321F807=~z~我们可以去保龄球馆打场球。
 
 ;0x33E2F46D=~z~Ain't that a surprise. Luis Lopez getting out early. Damn
-0x33E2F46D=~z~那不算啥惊喜。Luis Lopez早就出来了。该死。
+0x33E2F46D=~z~好意外哦。Luis Lopez居然早退了。该死。
 
 ;0x36260361=~z~Cool. I'll come get you guys.
 0x36260361=~z~好啊。我来接你们了。
@@ -273,7 +274,7 @@
 0x37CE1B2C=E2FA_YA
 
 ;0x37EF364B=~z~Bro, I got work shit to do. Maybe I'll see you later.
-0x37EF364B=~z~兄弟，我有事情要忙。晚点再见你吧。
+0x37EF364B=~z~兄弟，我有事情要忙。晚点再约吧。
 
 ;0x383740DA=~z~H is gonna be disappointed, bro. Okay.
 0x383740DA=~z~H会失望的，兄弟。好吧。
@@ -282,19 +283,19 @@
 0x38596A71=100
 
 ;0x387F0210=~z~Number one, motherfuckers.
-0x387F0210=~z~第一个，操你妈的。
+0x387F0210=~z~爷第一，傻逼们。
 
 ;0x38E533DD=~z~Nice, bro. I'll relay the message to Henrique.
-0x38E533DD=~z~不错啊，兄弟。我跟Henrique说一声。
+0x38E533DD=~z~好的，兄弟。我跟Henrique说一声。
 
 ;0x38F860BD=E2FA_MA
 0x38F860BD=E2FA_MA
 
 ;0x3928A4D1=~z~This ain't a good time for me, L. You got to get your weapons somewhere else. If you call me later shit might have changed though.
-0x3928A4D1=~z~我这时间不太行，L。你得上别的地方去弄武器了。要是你晚点找我的话那就是另一回事了。
+0x3928A4D1=~z~我这时间不太行，L。你得去别的地方弄武器了。过会儿再问的话我可能会有空。
 
 ;0x393266E0=~z~Bye, motherfucker.
-0x393266E0=~z~再见了，混蛋。
+0x393266E0=~z~再见，混蛋。
 
 ;0x395B6241=E2FA_APA
 0x395B6241=E2FA_APA
@@ -303,40 +304,40 @@
 0x397E67A1=~z~再见了，兄弟。
 
 ;0x399F7AC0=~z~Big fucking deal. L a good bowler.
-0x399F7AC0=~z~这波真他妈爽。L是个好球手。
+0x399F7AC0=~z~就这样吧。L很擅长保龄球。
 
 ;0x3C083180=~z~I guess I just a golfing prodigy or something?
-0x3C083180=~z~我想我只是个高尔夫天才什么的？
+0x3C083180=~z~也许我就是高尔夫神童吧？
 
 ;0x3C4BC44D=~z~How about some Mama's action. They's always toto in there.
-0x3C4BC44D=~z~去脱衣舞厅整点活咋样。那里总有逼操。
+0x3C4BC44D=~z~去不去脱衣舞厅？那里总有娘们儿。
 
 ;0x3D5D2304=~z~Alright, I'm out.
-0x3D5D2304=~z~好吧，我走了。
+0x3D5D2304=~z~够了，我走了。
 
 ;0x3D8BEAAB=~z~Fucking figures. Put the friend who gonna give you a rim job first.
-0x3D8BEAAB=~z~这手见鬼了。把要给你舔屌的朋友放到了第一个。
+0x3D8BEAAB=~z~傻逼名流。眼里只有肯让你舔屁眼的朋友。
 
 ;0x3DE0532D=100
 0x3DE0532D=100
 
 ;0x3E354A3C=~z~Downtown starting to lose its sparkle, eh? Alright, come pick up your old friends in the next two.
-0x3E354A3C=~z~城里人开始装不了逼了，嗯？好吧，两个钟之内来接你的老朋友吧。
+0x3E354A3C=~z~城里人光芒不再了，嗯？好吧，两小时内来接你的老朋友吧。
 
 ;0x405A615A=~z~Thanks for coming, A.
-0x405A615A=~z~谢谢你能来，A。
+0x405A615A=~z~谢谢你过来，A。
 
 ;0x40ED1E61=~z~Would have been nice to finish that shit, L.
-0x40ED1E61=~z~要是能打完这波的话就好了，L。
+0x40ED1E61=~z~可惜没打完这局，L。
 
 ;0x41652E48=100
 0x41652E48=100
 
 ;0x43215862=~z~If it ain't Northwood's prodigal son. Alright, we'll welcome you back into the fold. You better show in the next two hours though.
-0x43215862=~z~如果你不是Northwood的回头浪子的话。好吧，咱欢迎你回到这旮旯。你最好两小时内出现。
+0x43215862=~z~这不是Northwood的回头浪子嘛。好了，欢迎你回归队伍。不过你最好两小时内到。
 
 ;0x437B2F9A=~z~Sorry, bro. They at cost already.
-0x437B2F9A=~z~不好意思，兄弟。他们都已经花出去了。
+0x437B2F9A=~z~抱歉，兄弟，已经是成本价了。
 
 ;0x4593BA14=E2FA_AAA
 0x4593BA14=E2FA_AAA
@@ -345,7 +346,7 @@
 0x47D33E5F=~z~别现在抢我啊。
 
 ;0x480E3BCF=~z~Earth to Downtown motherfucker! You gonna hang with me and H or what?
-0x480E3BCF=~z~生在城里的杂种！你要跟我和H出去嗨还是别的？
+0x480E3BCF=~z~呼叫城里的鳖孙！要不要跟我和H一起去玩？
 
 ;0x48A7C91A=E2FA_AA
 0x48A7C91A=E2FA_AA
@@ -354,13 +355,13 @@
 0x48C9C9E6=E2FA_BYA
 
 ;0x4947E31D=~z~Bro, you can't be calling here at this hour. Conyo. Call me later.
-0x4947E31D=~z~兄弟，你这时候打给我是不行的，好吧。晚点再打。
+0x4947E31D=~z~兄弟，你别挑这种时候打过来啊，妈的。晚点再打。
 
 ;0x49DACB3A=100
 0x49DACB3A=100
 
 ;0x4ABDA68D=~z~That's how you school 'em.
-0x4ABDA68D=~z~你就这么教他们的。
+0x4ABDA68D=~z~什么叫教做人啊。
 
 ;0x4B2A282F=E2FA_ZA
 0x4B2A282F=E2FA_ZA
@@ -372,10 +373,10 @@
 0x4B74BE81=100
 
 ;0x4CB6FA0F=~z~Oye, bro, I can't thank you enough.
-0x4CB6FA0F=~z~噢耶，兄弟。不知道咋报答你才好。
+0x4CB6FA0F=~z~喂，兄弟，都不知道咋报答你才好。
 
 ;0x4CEF67B0=~z~Funny you should call. There's a big hole in me and Rique's schedule. Come pick us up in the next two.
-0x4CEF67B0=~z~你这波电话打得可以。我和Rique的时间表上空了个大洞。两个钟内来接咱吧。
+0x4CEF67B0=~z~真会挑时候。我和Rique的日程刚好空着个大洞。两小时内来接我们吧。
 
 ;0x4D952655=E2FA_ARA
 0x4D952655=E2FA_ARA
@@ -384,28 +385,29 @@
 0x4DDF927D=E2FA_BMA
 
 ;0x4DF3B86A=~z~I don't like to leave things unfinished.
-0x4DF3B86A=~z~我不喜欢做事情虎头蛇尾。
+0x4DF3B86A=~z~我不喜欢半途而废。
 
 ;0x4E05EE2B=~z~Oh! Now he calls, does he? We can hang out with you, but only 'cause it's such a rare fuckin' treat. Scoop us in the next two.
-0x4E05EE2B=~z~哦！现在他打电话了，不是吗？咱可以跟你出来，只是因为这他妈是场难得的款待。两个小时内来带咱们走吧。
+0x4E05EE2B=~z~终于来电话了，好家伙。我们可以出来陪你，不过是因为你难得找我们出来。两小时内来接咱们吧。
+;开头的"Oh!"配音没配
 
 ;0x4F442295=~z~Alright, bro. Let's do it. I'll pick you up in the next two.
-0x4F442295=~z~好了，兄弟们，咱们嗨起来。我两个钟之内来接你们。
+0x4F442295=~z~好的，兄弟。那就来吧。我两小时内来接你们。
 
 ;0x4F89D883=~z~Fuck, L. I don't even play golf and I beat your ass.
-0x4F89D883=~z~操，L。我甚至没打过高尔夫就把你打得屁滚尿流。
+0x4F89D883=~z~操，L。我没打过高尔夫都把你打得屁滚尿流。
 
 ;0x4FE65C6D=~z~I don't care if I drunk, sober, or what. I can sink them shits.
-0x4FE65C6D=~z~我不在乎我醉没醉还是别的。我可以把他们都吐出来。
+0x4FE65C6D=~z~我不在乎我到底醉了没醉，反正都能让球进洞。
 
 ;0x50EB7029=E2FA_AZA
 0x50EB7029=E2FA_AZA
 
 ;0x51B955F2=~z~Sorry, L. You might have to buy from the competition. I'm otherwise occupied. Maybe later though.
-0x51B955F2=~z~对不起，L。你得从其他跟我竞争的对手那里买了，不然我忙不过来了。晚点再看看吧。
+0x51B955F2=~z~对不起，L。你得去找我的竞争对手买了，我实在忙不过来。晚点再找我吧。
 
 ;0x52C53C9F=~z~Alright. That's whats up.
-0x52C53C9F=~z~好吧，就那么回事。
+0x52C53C9F=~z~好的，就这么决定了。
 
 ;0x532D15ED=~z~H was looking forward to this. It like you cancelling Christmas, motherfucker.
 0x532D15ED=~z~H还等着来嗨呢。你这么搞就像把他杀了一样，你个狗逼。
@@ -414,13 +416,13 @@
 0x53944F9E=~z~我受够了，再见。
 
 ;0x53C7811D=~z~There that pub with the dart board we could go to. Long as H don't take his eye out.
-0x53C7811D=~z~只要H的眼睛还没被挖出来的话，那酒吧有飞镖靶子，咱可以去玩一下。
+0x53C7811D=~z~有家酒吧里有飞镖靶子，可以去玩一下。不过得确保H不会扎到自己的眼睛。
 
 ;0x5424EEB6=~z~Coño, monstruo. I got this really important thing to handle. Another time.
-0x5424EEB6=~z~你妈的疯了你。我真有要紧事要忙。别的时间吧。
+0x5424EEB6=~z~妈的，猛男。我有很重要的事要忙。改天吧。
 
 ;0x54750674=~z~All them handjobs must a given you good wrist action, L.
-0x54750674=~z~你给别人打飞机把腕力练得不错啊，L。
+0x54750674=~z~天天给别人打飞机把手活练得不错啊，L。
 
 ;0x55654C6E=E2FA_SA
 0x55654C6E=E2FA_SA
@@ -429,7 +431,7 @@
 0x5650A221=E2FA_AWA
 
 ;0x56C118A9=~z~I tell you it's a rush driving round with this shit. You just daring people to fuck with you.
-0x56C118A9=~z~ 我都跟你说了你开这玩意就是横冲直撞。你就想惹得别人找你麻烦。
+0x56C118A9=~z~跟你讲，车里装着这些到处跑很危险的。时刻都得当心被盯上。
 
 ;0x5927265C=100
 0x5927265C=100
@@ -438,13 +440,13 @@
 0x5A5D5D89=100
 
 ;0x5AA91BB9=~z~You fucking hustled me, dick.
-0x5AA91BB9=~z~你催你妈呢，狗屌。
+0x5AA91BB9=~z~你他妈打到老子了，傻逼。
 
 ;0x5AB36D6D=E2FA_BGA
 0x5AB36D6D=E2FA_BGA
 
 ;0x5BF5B9C8=~z~Luis Lopez. We worlds apart now, you know. Meet me and H, but don't get pissed if we changed from what you remember.
-0x5BF5B9C8=~z~Luis Lopez，现在咱们天各一方了，你明白的。常来看看我和H吧，但要是咱和你预期得不一样的时候，别把咱们甩一边了。
+0x5BF5B9C8=~z~Luis Lopez，咱们是两个世界的人了，懂吧。来找我和H吧，万一我们跟你印象里不一样，你可别吓着。
 
 ;0x5BFD690F=E2FA_BIA
 0x5BFD690F=E2FA_BIA
@@ -453,49 +455,49 @@
 0x5C1F6B8E=100
 
 ;0x5C7212D6=~z~Don't mean to fuck you round, A, but I can't chill with you and H no more.
-0x5C7212D6=~z~别又想着搞事情，A，我和H根本就镇不住你。
+0x5C7212D6=~z~不是我存心恶心你，A。但我没法陪你和H一起出去了。
 
 ;0x5C856B8A=~z~No can do, L. I got other business on and I don't make no money from you. Call me later and we'll see.
-0x5C856B8A=~z~办不到，L。我有别的生意要做，不从你这搞钱了。晚点打给我吧咱们再说吧。
+0x5C856B8A=~z~没法来，L。我有别的生意要做，从你这儿也赚不到钱。晚点再问我有没有空吧。
 
 ;0x5EA6B942=~z~Yo, A.
-0x5EA6B942=~z~Yo, A.
+0x5EA6B942=~z~哟，A。
 
 ;0x5EB76501=E2FA_ACA
 0x5EB76501=E2FA_ACA
 
 ;0x5EF39E88=~z~I appreciate this shit, man.
-0x5EF39E88=~z~谢了，哥们。
+0x5EF39E88=~z~多谢你了，哥们。
 
 ;0x5FC63EF4=E2FA_QA
 0x5FC63EF4=E2FA_QA
 
 ;0x60EC8FAA=~z~As Rique's boss, I can give him the time off. Come pick us up in the next two hours.
-0x60EC8FAA=~z~作为Rique的老板，我可以给他休息会。两小时内来接咱吧。
+0x60EC8FAA=~z~作为Rique的老板，我可以给他放会儿假。两小时内来接咱们吧。
 
 ;0x6155EB21=~z~You gone weird, bro. Goodbye.
-0x6155EB21=~z~你变怪了，兄弟。再见。
+0x6155EB21=~z~你不对劲，兄弟。再见。
 
 ;0x618B9372=~z~I shoulda figured you had high class parties to attend.
-0x618B9372=~z~我想你应该有高级的派对要参加。
+0x618B9372=~z~我早该想到你有上流人的派对要去。
 
 ;0x61B45A7D=~z~Nice one, bro. Try not to get arrested before I get there.
-0x61B45A7D=~z~这个不错，兄弟。在我到之前你别给逮住了。
+0x61B45A7D=~z~好嘞，兄弟。在我到之前你别给抓走了。
 
 ;0x63234D29=~z~Bigshot's got something more important than bowling to handle.
 0x63234D29=~z~大明星还有比打保龄球更重要的事情要忙呢。
 
 ;0x63CC5AF7=~z~I wish we could hit them balls around the city.
-0x63CC5AF7=~z~我在想咱可以把全城的球都打一遍。
+0x63CC5AF7=~z~真想把整座城市都当成高尔夫球场啊。
 
 ;0x648DB442=~z~Step right up and see this shit.
-0x648DB442=~z~一直走然后看看这个。
+0x648DB442=~z~再走两步，瞧瞧这个。
 
 ;0x654C494C=E2FA_ANA
 0x654C494C=E2FA_ANA
 
 ;0x65830B9D=~z~We should chill, pa. Get H and we'll go somewhere.
-0x65830B9D=~z~咱都该淡定点的，兄弟。咱带上H去找个地方嗨起来吧。
+0x65830B9D=~z~休闲一下吧，兄弟。叫上H一起出去玩吧。
 
 ;0x666F99B0=010
 0x666F99B0=010
@@ -507,34 +509,34 @@
 0x67E73B0F=E2FA_LA
 
 ;0x685D61C6=~z~They got air hockey over at Memory Lanes, don't they?
-0x685D61C6=~z~他们在保龄球馆打冰球呢，不是吗？
+0x685D61C6=~z~保龄球馆是不是有冰球台来着？
 
 ;0x68D7B68A=E2FA_UA
 0x68D7B68A=E2FA_UA
 
 ;0x69259E79=~z~We equals, L. You ain't no better than me.
-0x69259E79=~z~咱打平了，L。你也没比我好到哪去啊。
+0x69259E79=~z~打平了，L。你也没比我厉害多少啊。
 
 ;0x6961B364=~z~Don't get too cocky, bro. You got priors.
-0x6961B364=~z~你别太牛逼了，兄弟。你有过前科的。
+0x6961B364=~z~别太张扬，兄弟。你有前科的。
 
 ;0x696E74D1=100
 0x696E74D1=100
 
 ;0x69F0D5BE=~z~Ain't you meant to be sucking on some wrinkly grey balls or something? We'll hang with you, but we barely know you no more.
-0x69F0D5BE=~z~你不是在寻思着舔些老卵蛋啥的吗？咱会跟你出来玩，但我们几乎不太了解你了。
+0x69F0D5BE=~z~你他妈不是该在跪舔别人的糙卵蛋吗？我们可以出来陪你，但不知道你现在为人如何。
 
 ;0x69FB4FEB=~z~Hey bro.
-0x69FB4FEB=~z~嘿兄弟。
+0x69FB4FEB=~z~嘿，兄弟。
 
 ;0x6ADDBE1B=~z~Big L. Yo.
-0x6ADDBE1B=~z~Luis大哥，哟。
+0x6ADDBE1B=~z~L哥，哟。
 
 ;0x6BDB74A7=E2FA_AVA
 0x6BDB74A7=E2FA_AVA
 
 ;0x6C074335=~z~You can kill a man any kind of ways with this shit right here.
-0x6C074335=~z~拿着这家伙，你想怎么杀人就怎么杀。
+0x6C074335=~z~拿着这家伙，你想怎么杀人就怎么杀人。
 
 ;0x6C5F9132=100
 0x6C5F9132=100
@@ -543,16 +545,16 @@
 0x6DF1B84F=~z~我可以教你点东西，L。
 
 ;0x6FEE76F1=~z~Tight, bro. It's gonna be like old times.
-0x6FEE76F1=~z~认真点，兄弟。就像老样子。
+0x6FEE76F1=~z~好，兄弟。就像以前那样。
 
 ;0x70872320=~z~You made Rique's day.
-0x70872320=~z~你让Rique高兴高兴吧。
+0x70872320=~z~Rique会很高兴的。
 
 ;0x70E76FC6=100
 0x70E76FC6=100
 
 ;0x7173578E=~z~Later, A. I appreciate this.
-0x7173578E=~z~再见了A。谢谢了。
+0x7173578E=~z~回见，A。谢谢你了。
 
 ;0x7437BCE0=E2FA_AXA
 0x7437BCE0=E2FA_AXA
@@ -561,16 +563,17 @@
 0x7683E9E6=090
 
 ;0x76B4AE00=~z~Can you and H take some time off? Let's hang out.
-0x76B4AE00=~z~你和H有空吗？咱们出来玩吧。
+0x76B4AE00=~z~你和H现在有空吗？一起去玩吧。
 
 ;0x7700BD47=100
 0x7700BD47=100
 
 ;0x77D0BFFC=~z~Getting your asshole bleached or something? Fuckin' figures.
-0x77D0BFFC=~z~要把你屁眼漂白还是啥的？这手指真操蛋。
+0x77D0BFFC=~z~你是忙着洗腚眼子吗？傻逼名流。
 
 ;0x77EF5E0D=~z~You dead? You dead, motherfucker? That's the only excuse I can think of for you being such a shit friend. How about you remind me and Rique why we liked you once?
-0x77EF5E0D=~z~你死了？你死了吗，操你妈的？这是我唯一能想出来有你这么个废物朋友的理由了。你能不能点一下我和Rique以前是咋会喜欢上你这人的？
+0x77EF5E0D=~z~你死了？我想不到别的理由能解释你抛弃朋友的行为了。能不能来帮我和Rique回忆一下我们咋喜欢上你的？
+;"You dead, motherfucker?"配音没配
 
 ;0x78CF7EC8=100
 0x78CF7EC8=100
@@ -579,19 +582,19 @@
 0x797EDDD7=100
 
 ;0x7A6CA097=~z~Yo, it's A. You been neglecting your duties to our friend Henrique. How about you share the burden and hang the fuck out.
-0x7A6CA097=~z~哟，我是A。你对咱的朋友Henrique都不上心的。有啥难处跟咱分担一下然后出来嗨，怎么样？
+0x7A6CA097=~z~哟，我是A。原来归你的工作现在都靠Henrique顶着，你能不能回来分担一些顺便出去玩会儿？
 
 ;0x7C64A23D=E2FA_ASA
 0x7C64A23D=E2FA_ASA
 
 ;0x7D047E15=~z~I always got time for you two, man I'll be by soon.
-0x7D047E15=~z~陪你俩我都有空的，哥们。再见了。
+0x7D047E15=~z~陪你俩我都有空的，哥们。我马上到。
 
 ;0x7D2E529D=~z~He ain't got time for this shit in his busy schedule. Come on.
-0x7D2E529D=~z~他那满满的时刻表上都没时间给这破事，别吧。
+0x7D2E529D=~z~日程满到没空打高尔夫了都。你拉倒吧。
 
 ;0x7E74877A=~z~Why'd we go through this charade at all. You weren't never gonna show.
-0x7E74877A=~z~为啥咱要玩这游戏呢，你又不会玩。
+0x7E74877A=~z~我们别再演戏了好不好，反正你也不会来。
 
 ;0x8095DE4E=E2FA_GA
 0x8095DE4E=E2FA_GA
@@ -603,28 +606,37 @@
 0x80F25DA4=100
 
 ;0x8107C2A6=~z~Let's hang out, man. Round up H for me.
-0x8107C2A6=~z~咱们出来嗨吧，哥们。帮我叫上H。
+0x8107C2A6=~z~一起去转转吧，哥们。顺便把H叫上。
 
 ;0x812C3F08=~z~Drinking and pool. What a combination.
-0x812C3F08=~z~喝酒，打台球，多好的一对啊。
+0x812C3F08=~z~喝酒和打台球，太般配了。
 
 ;0x8226E1D7=~z~You got lucky, L.
-0x8226E1D7=~z~你交好运了，L。
+0x8226E1D7=~z~你真走运，L。
 
 ;0x82A63CD1=~z~No time to chill, bro. There's money to be made. Another time.
-0x82A63CD1=~z~没空来透透气，兄弟。还要搞钱呢。别的时间吧。
+0x82A63CD1=~z~没空休闲，兄弟。还要赚钱呢。改天吧。
 
 ;0x83C7C3BE=~z~I got the aim, bitches.
-0x83C7C3BE=~z~我瞄准了，你个臭逼。
+0x83C7C3BE=~z~我最准了，臭逼们。
 
 ;0x83C97623=010
 0x83C97623=010
 
 ;0x85766532=~z~Ain't you got a boyfriend to introduce us to at that Hercules place?
-0x85766532=~z~你在大力神俱乐部里面有没有能介绍给咱的男朋友？
+0x85766532=~z~要不要向我们介绍下你在大力神夜店的男朋友？
 
 ;0x85D3879B=~z~Armando, dima la monstruo!
-0x85D3879B=~z~Armando，你个奇葩！
+0x85D3879B=~z~Armando，你好啊猛男！
+;注：dima似乎不是西班牙语，在网上基本查不到专有名词以外的用法。urbandict给的解释之一是dick in my ass，指基佬，但感觉跟这里对不上。
+;la monstruo=the monster。monstruo只在约会电话出现过，共计8次，都是用来称呼Armando的。
+;Slang for "Monster" it refers to a man with great abilities, very capable.
+;定义出处：https://www.dominicanspanish.caribbeanspanish101.com/montro/
+;同网页的一个例句：Dime a ver montro ? = What's up dude?
+;虽然dime的发音跟配音和台词的dima不太一样 但我更倾向于dima是剧本写错了导致配音也配错了。(dime发音近似"滴咩" dima在配音中为"地嘛" 嘛类似于天津话/日语翻译腔的发音)
+;E2BG2AU.txt(Dropping in的对话)里有句类似的Dima la montro，也是偏向问候的用法。
+;这句的语境也确实是打电话约会的问候语。
+;好 解决了。
 
 ;0x87120130=E2FA_AOA
 0x87120130=E2FA_AOA
@@ -636,19 +648,19 @@
 0x8976069F=E2FA_FA
 
 ;0x89B97E99=~z~Whatever you need, bro. I got something for all occasions.
-0x89B97E99=~z~兄弟，不管你要啥我都有。
+0x89B97E99=~z~应有尽有，兄弟。什么需求我都能满足。
 
 ;0x8B628B3F=~z~Give H a call, yo.
-0x8B628B3F=~z~哟，给H打个电话吧。
+0x8B628B3F=~z~多联系H，哟。
 
 ;0x8D6F0F70=E2FA_CA
 0x8D6F0F70=E2FA_CA
 
 ;0x8F142218=~z~That's whats up, bro. Wait for me.
-0x8F142218=~z~就这样了，兄弟。等着我哈。
+0x8F142218=~z~就这么定了，兄弟。等着我哈。
 
 ;0x8F16B739=~z~Where the fuck is that dumb motherfucker. You seen Henrique?
-0x8F16B739=~z~那操蛋傻逼他妈的搁哪呢。你看见Henrique了吗？
+0x8F16B739=~z~傻逼儿子他妈人呢。你看见Henrique了吗？
 
 ;0x90D691AF=E2FA_BDA
 0x90D691AF=E2FA_BDA
@@ -660,16 +672,16 @@
 0x91FB50D0=E2FA_BA
 
 ;0x920FDBA4=~z~Nah, man. H and I got to make money sometime, bro. We ain't high-class motherfuckers like you.
-0x920FDBA4=~z~呐，哥们。H和我总得去搞钱的吧，兄弟。我们他妈的不是你这种高端人士。
+0x920FDBA4=~z~不了，哥们。H和我还是要赚钱的，兄弟。我们又不是你这种高端人士。
 
 ;0x925CABEE=~z~Fuck. Can't have you out there unarmed. I'm on my way.
-0x925CABEE=~z~操，可不能让你手无寸铁。我上路了。
+0x925CABEE=~z~操，可不能让你手无寸铁。我过来了。
 
 ;0x93A55FE6=~z~I bowl the shit out of anyone here.
-0x93A55FE6=~z~我的保龄球打得比这里所有人都好。
+0x93A55FE6=~z~老子的保龄球技术全场第一。
 
 ;0x9402C877=~z~How about you introduce us to your high class friends at Maisonette 9?
-0x9402C877=~z~去9号豪宅给咱介绍介绍你上流社会的朋友怎么样？
+0x9402C877=~z~要么去9号豪宅给咱介绍介绍你上流社会的朋友？
 
 ;0x947EF854=E2FA_
 0x947EF854=E2FA_
@@ -678,7 +690,7 @@
 0x95575509=100
 
 ;0x972AAA49=~z~What's up, A?
-0x972AAA49=~z~A，你好吗？
+0x972AAA49=~z~你好吗，A？
 
 ;0x97B029D8=E2FA_PA
 0x97B029D8=E2FA_PA
@@ -690,40 +702,41 @@
 0x99DCC12E=E2FA_AJA
 
 ;0x9A042882=~z~Don't be a stranger, bitch!
-0x9A042882=~z~别见外啊，臭逼！
+0x9A042882=~z~别忘了我们，臭逼！
 
 ;0x9A5643DA=E2FA_BEA
 0x9A5643DA=E2FA_BEA
 
 ;0x9B3986D9=~z~I don't know why I called in the first place.
-0x9B3986D9=~z~我不懂为啥我带头约你们出来。
+0x9B3986D9=~z~妈的，都不知道我打电话找你干嘛。
+;配音在开头多了个"Man. "
 
 ;0x9BC7CAFB=~z~You wanna do something with H and me?
-0x9BC7CAFB=~z~你想跟H和我出来做点啥吗？
+0x9BC7CAFB=~z~你想跟我和H一起出来做点啥吗？
 
 ;0x9C76D58B=100
 0x9C76D58B=100
 
 ;0x9CB7720A=~z~Mother fucking bowling. It like the motherfucking old days.
-0x9CB7720A=~z~操你妈的的保龄球，像过去一样操蛋。
+0x9CB7720A=~z~傻逼保龄球，让我想起傻逼的往事。
 
 ;0x9FE0D8CD=~z~We left Rique. We got to go back, bro.
-0x9FE0D8CD=~z~咱把Rique落下了，得回去，兄弟。
+0x9FE0D8CD=~z~Rique被落下了。快回去找他，兄弟。
 
 ;0xA2489D24=E2FA_BSA
 0xA2489D24=E2FA_BSA
 
 ;0xA3EE1ACC=~z~We equals, bigshot. The bowling alley has proved that for sure.
-0xA3EE1ACC=~z~咱打平了，大明星。这保龄球场实打实的证明了这点。
+0xA3EE1ACC=~z~平局了，大明星。这家球馆实打实地证明了这点。
 
 ;0xA3FF77AB=E2FA_BNA
 0xA3FF77AB=E2FA_BNA
 
 ;0xA4508029=~z~We busy, bro. Maybe another time, okay.
-0xA4508029=~z~咱忙着呢，兄弟。也许得是别的时间了，好吗？
+0xA4508029=~z~太忙了，兄弟。改天再说吧，好吗？
 
 ;0xA6854BBB=~z~The Homebrew Café got a pool table, don't it? Place always smell of kush too.
-0xA6854BBB=~z~家庭咖啡馆有个台球桌不是吗？那也是个闻起来总有一股大麻味的地方。
+0xA6854BBB=~z~家庭咖啡馆有个台球桌不是吗？那里总有一股大麻味。
 
 ;0xA78A4183=100
 0xA78A4183=100
@@ -735,7 +748,7 @@
 0xA9E24E86=010
 
 ;0xA9ED1424=~z~You and H wanna do something?
-0xA9ED1424=~z~你跟H想做点啥吗？
+0xA9ED1424=~z~你和H想做点啥吗？
 
 ;0xAA72F722=E2FA_BOA
 0xAA72F722=E2FA_BOA
@@ -750,37 +763,37 @@
 0xACF54FB7=E2FA_JA
 
 ;0xAD698288=~z~Yo, A. You got that van of yours? I need to buy some shit.
-0xAD698288=~z~哟，A。你车呢？我想买点东西。
+0xAD698288=~z~哟，A。你那辆车在吗？我想买点东西。
 
 ;0xAD9B91CC=~z~Yo. Too bad. We'll have to chill another time.
-0xAD9B91CC=~z~哟，太难了吧。咱得别的时间再出来透透气了。
+0xAD9B91CC=~z~哟，真可惜。那就改天再去休闲吧。
 
 ;0xADA66EB8=~z~How about you help me babysit the H bomb for a time?
-0xADA66EB8=~z~你帮我照看会H这个小皇帝怎么样？
+0xADA66EB8=~z~要么你帮我照顾下「H大佬」吧？
 
 ;0xADE51E9D=~z~You got lucky with that shit.
-0xADE51E9D=~z~有那东西你交好运了。
+0xADE51E9D=~z~这次算你走运。
 
 ;0xAEE3C42D=~z~I'll beat you with that cue next time. Shit.
-0xAEE3C42D=~z~下次我拿着这球杆把你打赢了，操。
+0xAEE3C42D=~z~下次我不拿球杆吊打你，妈的。
 
 ;0xAF3CB86A=~z~Shit, A. Something's come up. I got to cancel on our arrangement. Sorry, bro.
-0xAF3CB86A=~z~操，A。出事了。我得放鸽子了，不好意思，兄弟。
+0xAF3CB86A=~z~操，A。突然有事。我得放鸽子了。对不起，兄弟。
 
 ;0xB01F2311=~z~How you keep such a steady hand L. It all that ass fingering you do?
-0xB01F2311=~z~你是怎样保证不手抖的，L？是不是抠屁眼练出来的？
+0xB01F2311=~z~你怎么做到不手抖的，L？是不是抠屁眼练出来的？
 
 ;0xB04484C0=010
 0xB04484C0=010
 
 ;0xB0D52DB7=~z~There a driving range round here, ain't there? That's what rich people do, ain't it?
-0xB0D52DB7=~z~这附近有个高尔夫练习场不是吗？那不是阔佬们去的地方吗？
+0xB0D52DB7=~z~附近有个高尔夫练习场对吧？这就是有钱人的运动吧？
 
 ;0xB0F30A88=~z~You fucking joking. You the rich bitch. Ain't giving you shit for free.
-0xB0F30A88=~z~你他妈搞笑呢，发财佬，都没空理下咱们。
+0xB0F30A88=~z~你他妈搞笑呢。你这么有钱，别想白嫖老子。
 
 ;0xB116CA8C=~z~Luis Lopez. What's up?
-0xB116CA8C=~z~Luis Lopez。咋的啦？
+0xB116CA8C=~z~Luis Lopez。你好吗？
 
 ;0xB12AF409=E2FA_AEA
 0xB12AF409=E2FA_AEA
@@ -789,7 +802,7 @@
 0xB133D6E3=E2FA_AYA
 
 ;0xB1A1F1A4=~z~If you going down, you may as well have this with you.
-0xB1A1F1A4=~z~要是你凉了，你也会跟咱们做这些的。
+0xB1A1F1A4=~z~还有需要的话，最好再买个这个。
 
 ;0xB1B19944=100
 0xB1B19944=100
@@ -798,16 +811,16 @@
 0xB2D20844=100
 
 ;0xB3343295=~z~I had all your money and leisure time, L. I'd definitely beat you.
-0xB3343295=~z~我要是像你这样有钱又闲的话，L，你绝逼赢不了。
+0xB3343295=~z~我要是像你这样有钱又有闲的话，L，你绝逼赢不了。
 
 ;0xB3EAFC61=E2FA_ADA
 0xB3EAFC61=E2FA_ADA
 
 ;0xB4C6C1C7=~z~Coño, monstruo. I thought you were 24/7, bro. Sorry.
-0xB4C6C1C7=~z~你妈的疯了你。你是不是天天高强度运转的啊，兄弟。打扰了。
+0xB4C6C1C7=~z~妈的，猛男。我还以为你是007，兄弟。打扰了。
 
 ;0xB558471B=~z~I guess you don't got the hustlers touch, double L.
-0xB558471B=~z~我寻思你没给人家骗你吧，LL。
+0xB558471B=~z~看来你的球技还是差了点，LL。
 
 ;0xB5D1205A=100
 0xB5D1205A=100
@@ -819,7 +832,7 @@
 0xB7AC1CB1=E2FA_IA
 
 ;0xB9621901=~z~I ain't in the mood for this?
-0xB9621901=~z~我没心情整这个？
+0xB9621901=~z~我没心情整这个。
 
 ;0xB972A13A=E2FA_BZA
 0xB972A13A=E2FA_BZA
@@ -828,7 +841,7 @@
 0xBAB6242B=~z~这会把你鸡巴弄硬的。
 
 ;0xBAEEFC07=~z~We close to them fine titties at the Triangle.
-0xBAEEFC07=~z~在脱衣舞厅，咱离上好的奶子又近了一步。
+0xBAEEFC07=~z~我们去Triangle俱乐部看大咪咪吧。
 
 ;0xBB223C28=100
 0xBB223C28=100
@@ -837,16 +850,16 @@
 0xBB9E2C1E=100
 
 ;0xBD07D400=~z~Mando, sorry loco. But I can't hang with you no more. Tell H.
-0xBD07D400=~z~Mando，不好意思啊，我来聚不了了。跟H说下吧。
+0xBD07D400=~z~Mando，不好意思啊。但我没法陪你们出去了。跟H说下吧。
 
 ;0xBD8F6F98=~z~Later on, L.
-0xBD8F6F98=~z~再见了，L。
+0xBD8F6F98=~z~回头见，L。
 
 ;0xBDAA7F44=~z~Sounds like a plan, A. Hang out for a minute and I'll be by.
-0xBDAA7F44=~z~听起来像是个计划，A。你说出来玩一下然后我就来了。
+0xBDAA7F44=~z~这主意不错，A。你先溜达会儿，我马上过来。
 
 ;0xC058A953=~z~It's money outta my pocket if I give you that for free.
-0xC058A953=~z~如果我让你白嫖的话那我口袋里的钱就没了。
+0xC058A953=~z~这都白送给你就是我撒币了。
 
 ;0xC098E220=100
 0xC098E220=100
@@ -855,19 +868,19 @@
 0xC09DDA60=100
 
 ;0xC1E51C92=~z~I'm trying to run a business. Shit.
-0xC1E51C92=~z~我在忙生意呢，操。
+0xC1E51C92=~z~我还要做生意的，操。
 
 ;0xC2B7AD24=~z~Oye, Mando, I need some hardware. You available?
-0xC2B7AD24=~z~噢耶，Mando，我需要点硬家伙。你有吗？
+0xC2B7AD24=~z~喂，Mando，我需要点家伙。你有空吗？
 
 ;0xC305BCA0=~z~Coño, that's a shame. Another time.
-0xC305BCA0=~z~妈的，可惜了。别的时间吧。
+0xC305BCA0=~z~妈的，可惜了。那改天吧。
 
 ;0xC312AB3C=E2FA_AMA
 0xC312AB3C=E2FA_AMA
 
 ;0xC3579513=~z~This might help when the shit hits.
-0xC3579513=~z~当出事的时候这可能帮得上忙。
+0xC3579513=~z~出事的时候这个能派上用场。
 
 ;0xC36E428C=E2FA_KA
 0xC36E428C=E2FA_KA
@@ -876,19 +889,19 @@
 0xC58BC83B=010
 
 ;0xC688F570=~z~Northwood's son, Downtown's bitch. What's happening?
-0xC688F570=~z~Northwood之子，城里的狗逼，咋的啦？
+0xC688F570=~z~Northwood之子，城里的狗逼。你好吗？
 
 ;0xC73766A8=~z~Shit. Sorry, pa.
 0xC73766A8=~z~操，对不起，哥们。
 
 ;0xC818366D=~z~I'm doing you a favor. You forget that?
-0xC818366D=~z~我在帮你忙呢。你忘了？
+0xC818366D=~z~是你有求于我。你忘了？
 
 ;0xC8FFC0BE=~z~Tasty shit, no?
-0xC8FFC0BE=~z~这玩意不香吗？
+0xC8FFC0BE=~z~赞不赞？
 
 ;0xCCBDA620=~z~I bet you don't pull out half way when you looking after the boss, L.
-0xCCBDA620=~z~我打赌你照顾老板的时候不会中途跑路的，L。
+0xCCBDA620=~z~保护老板的时候你一定不会中途跑路吧，L。
 
 ;0xCDB53CDB=E2FA_OA
 0xCDB53CDB=E2FA_OA
@@ -897,22 +910,22 @@
 0xCE02A25F=100
 
 ;0xCE42AAE9=~z~I like it.
-0xCE42AAE9=~z~我喜欢这东西。
+0xCE42AAE9=~z~我喜欢。
 
 ;0xCE6076B1=~z~You're there, bro. Sorry to do this, but I got to cancel on our plans. We'll do it another time.
-0xCE6076B1=~z~你还在那吗，兄弟。很抱歉这么做，但我真得取消咱的计划了。咱们别的时间再约吧。
+0xCE6076B1=~z~是你吗，兄弟。很不好意思，但我们的计划得取消了。咱们改天再约吧。
 
 ;0xCF6E8333=~z~I don't know about you, but I could do with some fried Chicken.
-0xCF6E8333=~z~我不懂你吃啥，但我可以来点炸鸡。
+0xCF6E8333=~z~我想去吃顿炸鸡，不知道你意下如何。
 
 ;0xCFA2C072=E2FA_WA
 0xCFA2C072=E2FA_WA
 
 ;0xCFA3B80F=~z~What you doing, bro?
-0xCFA3B80F=~z~你干啥呢，兄弟？
+0xCFA3B80F=~z~你干嘛啊，兄弟？
 
 ;0xD11F58D3=~z~Okay, pues. Tell H I called.
-0xD11F58D3=~z~好吧，那就告诉H我叫上他了。
+0xD11F58D3=~z~好吧。替我问候H。
 
 ;0xD14C2E4D=100
 0xD14C2E4D=100
@@ -921,28 +934,28 @@
 0xD2109CB0=E2FA_TA
 
 ;0xD25C77A8=~z~I guess we evenly matched. Remember that next time you want to condescend.
-0xD25C77A8=~z~下次又想装逼的时候，你记好了，咱们比起来可是势均力敌的。
+0xD25C77A8=~z~下次又想装逼的时候，你记好了，咱们的水平可是不相上下的。
 
 ;0xD3996342=~z~That's how you do it. A working man's game.
-0xD3996342=~z~那就是你该咋做的。这是打工仔玩的游戏。
+0xD3996342=~z~打工仔的游戏，打工仔才能赢。
 
 ;0xD51D08B5=~z~We done darts, now let's go shoot some fuckers.
-0xD51D08B5=~z~咱们去玩飞镖，现在让我们去扎些混蛋玩吧。
+0xD51D08B5=~z~飞镖投完了，现在该来真刀真枪的了。
 
 ;0xD5F0D21E=~z~Why you fucking with me?
 0xD5F0D21E=~z~你跟我瞎搞啥呢？
 
 ;0xD6A03474=~z~If you need it, you need it. I don't want my boy getting hurt.
-0xD6A03474=~z~你想要的话那就要吧。我可不想我的人受伤。
+0xD6A03474=~z~你说需要，那就是有必要。我可不想我的人受伤。
 
 ;0xD83B8D83=100
 0xD83B8D83=100
 
 ;0xD89467BD=~z~Coño, mano. Okay, bro. Call me soon.
-0xD89467BD=~z~妈的，就这样吧，兄弟。晚点叫我吧。
+0xD89467BD=~z~妈的，就这样吧，兄弟。以后再约。
 
 ;0xDA3C47DF=~z~You too busy to hang with the family, bro? Let's you and me and Rique go out.
-0xDA3C47DF=~z~你忙到不能和家人一起玩了吗，兄弟？咱们，你，和我，和Rique，一起出去吧。
+0xDA3C47DF=~z~你有空陪家人们出去玩吗，兄弟？你、我，还有Rique一起出去吧。
 
 ;0xDC1F7A2D=010
 0xDC1F7A2D=010
@@ -951,16 +964,16 @@
 0xDC2D8F26=100
 
 ;0xDC622D6A=~z~Nos vemos, loco. Say hi to H for me.
-0xDC622D6A=~z~再见了，你个疯子。帮我跟H问声好。
+0xDC622D6A=~z~再见了，疯子。帮我跟H问好。
 
 ;0xDE9BF091=E2FA_ALA
 0xDE9BF091=E2FA_ALA
 
 ;0xDF49761A=~z~Henrique's had one of his fits, bro. You know, the ones you ain't had to deal with since you left? It's gonna have to be another time.
-0xDF49761A=~z~Henrique出了点事情，兄弟。你懂的，那些你走了之后就不用弄的事情。看来得别的时间约了。
+0xDF49761A=~z~Henrique有事要忙，兄弟。你懂的，你走了以后他就接过了你的重担。看来得改天再约了。
 
 ;0xDFE34E2A=~z~This just the thing.
-0xDFE34E2A=~z~事情就是这样的。
+0xDFE34E2A=~z~这个很合适。
 
 ;0xE015731E=100
 0xE015731E=100
@@ -975,13 +988,13 @@
 0xE33C62F8=100
 
 ;0xE427DBA8=~z~Everything gets better when you drunk.
-0xE427DBA8=~z~当你喝高的时候事情就好多了。
+0xE427DBA8=~z~人一喝高，心情就舒畅了。
 
 ;0xE499EF70=~z~You want me to turn one them pieces on you, bro. I will.
-0xE499EF70=~z~兄弟，你想让我给你个机会。我会的。
+0xE499EF70=~z~你是想让我拿你试枪是吧，兄弟。我会的。
 
 ;0xE4A7D083=~z~He got hisself in a fight, has he? I'll come by.
-0xE4A7D083=~z~他在打架，是吗？我会过来的。
+0xE4A7D083=~z~他又惹上事了，不是吗？我会过来的。
 
 ;0xE543A406=100
 0xE543A406=100
@@ -993,7 +1006,7 @@
 0xE715D2AE=100
 
 ;0xE815D378=~z~Downtown. It's your boy from the Heights.
-0xE815D378=~z~城里人，我是你家那边的人。
+0xE815D378=~z~城里人，我是你在高地的哥们。
 
 ;0xEB4D778D=100
 0xEB4D778D=100
@@ -1008,13 +1021,13 @@
 0xECCF0B9A=010
 
 ;0xED1927E7=~z~This is Armando's personal, non business related, totally one hundred percent legitimate cell phone. Leave a message.
-0xED1927E7=~z~这是Armando私人的、非业务相关、完全100%合法的手机号码。请留言。
+0xED1927E7=~z~这是Armando私人的、百分百合法的非工作手机号。请留言。
 
 ;0xED48CDC8=E2FA_AUA
 0xED48CDC8=E2FA_AUA
 
 ;0xEE271D47=~z~Thanks, A. Shit is so fucked up right now that might be useful. I'll call you.
-0xEE271D47=~z~谢了，A。眼下要是出事了那些东西可能会有用。我会叫你的。
+0xEE271D47=~z~谢了，A。现在世道不太平，这会很有用的。有需要了我就找你。
 
 ;0xEE65C131=E2FA_BUA
 0xEE65C131=E2FA_BUA
@@ -1026,13 +1039,13 @@
 0xEF5DF61E=100
 
 ;0xEFBD8E35=~z~Check it out.
-0xEFBD8E35=~z~你看看吧。
+0xEFBD8E35=~z~慢慢挑。
 
 ;0xF008D48A=~z~And then he was gone.
-0xF008D48A=~z~然后他就没了。
+0xF008D48A=~z~然后他走了。
 
 ;0xF0356AFE=~z~You know what? Stay Downtown. We don't want you up here. Conyo.
-0xF0356AFE=~z~你懂个屁？城里待着吧你。咱不想你来这，妈的。
+0xF0356AFE=~z~送你句话，城里待着吧你。我们不需要你了。妈的。
 
 ;0xF1008D62=100
 0xF1008D62=100
@@ -1053,29 +1066,29 @@
 0xF45F556E=E2FA_RA
 
 ;0xF497D622=~z~Yo, L. If you ever need some weaponry gimme a call. I can come by in my van and sell you shit at cost.
-0xF497D622=~z~哟，L。如果你需要武器的话就给我打个电话。我可以开车过来，按成本价卖给你。
+0xF497D622=~z~哟，L。以后需要武器了就给我打个电话。我可以开车过来，按成本价卖给你。
 
 ;0xF4C1F414=010
 0xF4C1F414=010
 
 ;0xF4FA46F0=~z~Rique ain't gonna believe I got a call from you, bro. He was sure you were dead or something. Pick us up in the next two hours.
-0xF4FA46F0=~z~Rique不会相信我接到了你的电话的。他确信你已经死了或者别的。两个小时内来接我们吧。
+0xF4FA46F0=~z~Rique肯定不相信我接到了你的电话，兄弟。他以为你已经死了。两小时内来接我们吧。
 
 ;0xF742720E=100
 0xF742720E=100
 
 ;0xF7D017EB=~z~I'm splitting.
-0xF7D017EB=~z~我要分手了。
+0xF7D017EB=~z~我要走了。
 
 ;0xF86A4AF7=E2FA_BFA
 0xF86A4AF7=E2FA_BFA
 
 ;0xF942C8DD=~z~Fuck, bro. We left H. I hope he alright.
-0xF942C8DD=~z~操，兄弟。咱把H落下了。我希望他没事。
+0xF942C8DD=~z~操，兄弟。咱把H落下了。希望他没事。
 
 ;0xFCF802CC=~z~What were we doing in there.
-0xFCF802CC=~z~我们在那干啥呢？
+0xFCF802CC=~z~我们刚才在干啥来着？
 
 ;0xFFB42477=~z~Let's just go get us a drink.
-0xFFB42477=~z~咱们就去喝酒吧。
+0xFFB42477=~z~咱们去喝几杯吧。
 
