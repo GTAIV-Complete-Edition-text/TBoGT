@@ -1,13 +1,13 @@
-[PBLB230]
+﻿[PBLB230]
 ;0x1C2956FA=Reign of the Flower People
-0x1C2956FA=女性统治
+0x1C2956FA=阴柔时代
 
 ;0x269A14A2=S. Fiona Scott
 0x269A14A2=S. Fiona Scott
 
 ;0x7FA6901A=The male ego heads to the bottom of the ratings.
-0x7FA6901A=男性的自我意识一路跌落到了最底层。
+0x7FA6901A=男性向节目收视率惨淡。
 
 ;0xDBC22595=The 80s were the decade for men. Explosions, international drug running, open shirts that exposed chest hair, freedom to smoke during business meetings. The 2000's are the age of women. It's all waxing, complaining, and gossip. It's little wonder that Jack Howitzers abominable reality show is in the toilet. Our nation is no longer entertained by machismo garbage. Network executives say women are in charge of the remote control, and that they are forcing their men to watch home renovation shows and fashion makeover programs starring catty feminine men and no-nonsense women. We believe this trend will continue, while men focus on day spas and practicing yoga in a 150 degree room.
-0xDBC22595=80年代是属于男性的十年。爆炸，跨国贩毒，解开衬衫袒胸露乳，商务场合随意吸烟。而如今千禧以来的这十年是女性的时代了。街头巷尾充斥着脱毛，抱怨，还有流言蜚语。所以为什么如今Jack Howitzers和他那让人恶心的真人秀只能在厕所里播放也就不那么奇怪了。诸如男子气概之类的垃圾在我们国家已经不再能刺激大家的神经。电视台主管说现在女人们把持着遥控器，强迫大老爷们收看由娘娘腔和干练女性主演的家装和时装类节目。我们相信这种趋势会继续持续下去，最终男人们会把精力全部放在日间水疗和高温瑜伽上。
+0xDBC22595=80年代是属于男性的十年：爆炸，跨国贩毒，胸毛外露的开胸衬衫，商务场合随意吸烟。而新世纪的头十年则是女性的时代了，街头巷尾充斥着脱毛、抱怨和八卦新闻。正因如此，Jack Howitzer的垃圾真人秀会烂在下水道里也不奇怪了。我国国民已不再中意这些大男子主义的糟粕。许多电视台的高管表示，现在女人把持着遥控器，强迫大老爷们观看由娘娘腔和干练女性主演的家装节目和时装节目。鉴于现代男性会把大量精力放在日间水疗和高温瑜伽上，我们相信这一趋势还会持续下去。
 
