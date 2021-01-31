@@ -1,9 +1,9 @@
 ﻿[E2T2BAU]
 ;0x03316FEF=~z~Stick together, Luis. Fuck!
-0x03316FEF=~z~待在一起，Luis。草！
+0x03316FEF=~z~待在一起，Luis。操！
 
 ;0x0636A2A3=~z~Luis, shit, that was my fucking car!
-0x0636A2A3=~z~Luis，草，那他妈是我的车啊！
+0x0636A2A3=~z~Luis，操，那是老子的车啊！
 
 ;0x17DA0018=E2T2_ATB
 0x17DA0018=E2T2_ATB
@@ -12,7 +12,7 @@
 0x2BC33F8A=SFX_PAUSE_430
 
 ;0x31DBF9ED=~z~Jesus, Lou. No wonder our business ventures are going so fucking well.
-0x31DBF9ED=~z~我的天，Lou。怪不得我们的生意现在会他妈这么烂。
+0x31DBF9ED=~z~天哪，Lou。怪不得我们的生意会烂成这样。
 
 ;0x3456A8EB=100
 0x3456A8EB=100
@@ -30,45 +30,46 @@
 0x5C65895F=100010090100090100
 
 ;0x5C894F47=~z~Tone, come on, we been through enough together to not let a stupid car get us down.
-0x5C894F47=~z~Tone，加油，我们待在一起，那破车不会让我们失望的。
+0x5C894F47=~z~Tone，别这样。我们经历了那么多，别为一辆破车生气。
 
 ;0x662435DB=~z~Where are you going? Get back here.
-0x662435DB=~z~你要去哪？回来。
+0x662435DB=~z~你要去哪儿？快回来。
 
 ;0x6772F0DB=~z~There's my bodyguard.
-0x6772F0DB=~z~那是我的保镖。
+0x6772F0DB=~z~我的保镖来了。
 
 ;0x7012494F=E2T2_ATC1
 0x7012494F=E2T2_ATC1
 
 ;0x73F374A3=~z~He threw a grenade! Fuck!
-0x73F374A3=~z~他扔了个手雷！淦！
+0x73F374A3=~z~他扔雷了！操！
 
 ;0x75E70DC3=~z~There he is.
-0x75E70DC3=~z~他来了。
+0x75E70DC3=~z~可算来了。
 
 ;0x8400777F=E2T2_ATC2
 0x8400777F=E2T2_ATC2
 
 ;0x86DC130C=~z~I can't do this again, Lou. I ain't getting all gung ho again. What happened with Rocco was it for me.
-0x86DC130C=~z~我受不了了，Lou。我再也不合作了。Rocco的烂事要我擦屁股。
+0x86DC130C=~z~别再让我开枪了，Lou。我不想再挨枪子儿了。搞不好就成上次Rocco那样了。
+
 ;0x8B3FED6F=E2T2B_AVA
 0x8B3FED6F=E2T2B_AVA
 
 ;0x8C7D8289=~z~Luis! Where have you gone? Shit.
-0x8C7D8289=~z~Luis! 你去哪了？草。
+0x8C7D8289=~z~Luis！你去哪儿了？操。
 
 ;0x913216C0=E2T2_ARA
 0x913216C0=E2T2_ARA
 
 ;0x9394B3E9=~z~Shit! Grenade!
-0x9394B3E9=~z~淦！手雷！
+0x9394B3E9=~z~干！手雷！
 
 ;0x93E013D2=E2T2_ATA
 0x93E013D2=E2T2_ATA
 
 ;0x94404A75=~z~This shit's serious, Lou.
-0x94404A75=~z~情况很不妙，Lou。
+0x94404A75=~z~可能没命的，Lou。
 
 ;0xAC5189ED=012
 0xAC5189ED=012
@@ -86,19 +87,19 @@
 0xBDDF1D8A=~z~谢谢！
 
 ;0xC8E17B50=~z~Help! Where are you going?
-0xC8E17B50=~z~救命！你要去哪？
+0xC8E17B50=~z~救命！你要去哪儿？
 
 ;0xCCEFB01A=~z~When did you become the kind of big shot who could throw away cars like dirty underwear?
 0xCCEFB01A=~z~你啥时候变成换辆新车跟换衣服一样的大佬了？
 
 ;0xD942D451=~z~Don't pull any more stunts like that.
-0xD942D451=~z~别像刚才那样做特技了。
+0xD942D451=~z~别开这种玩笑了。
 
 ;0xDC3AD4A7=100
 0xDC3AD4A7=100
 
 ;0xDF82C458=~z~I ain't shooting no one else here. Not after what went down at the driving range.
-0xDF82C458=~z~我在这没射杀别的人，不管高尔夫球场发生了啥。
+0xDF82C458=~z~我不会再开枪了。上次高尔夫球场的事让我有阴影了。
 
 ;0xE91173EE=~z~Don't leave me again.
 0xE91173EE=~z~别又丢下我。
@@ -107,6 +108,5 @@
 0xEC8F43BE=E2T2_ASA
 
 ;0xEDC160D5=~z~I'm giving peace a chance. I shot at enough people on the Golf Course to do me for a while.
-0xEDC160D5=~z~我在尝试停战。我那会儿在高尔夫球场杀了够多的人了。
-
+0xEDC160D5=~z~这次我选和平。上次我在高尔夫球场打的人够多了
 
