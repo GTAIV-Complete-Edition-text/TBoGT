@@ -1,88 +1,88 @@
-﻿[CELEBIN]
+[CELEBIN]
 ;0x0438185F=Statue of Grumpiness
-0x0438185F=Statue of Grumpiness
+0x0438185F=晦气女神像
 
 ;0x079C4FB4=Al's Hangover for Hell
-0x079C4FB4=Al's Hangover for Hell
+0x079C4FB4=Al为了寻欢而嗑药
 
 ;0x112E8A2D=Al Di Napoli - star of stage, screen, and drugs interventions around the country - has raised fresh doubts about his ability to perform on the Boulevard stage every night. We're not talking about the garbled lines or the stink of booze that goes all the way back to row F at the AmDram Theatre. No, police are wanting to question him after a Celebinator-reading cop recognised him as one of the suspects in a drugs bust. Big Al claims that he was in his hotel room all night and has several hookers to back up this story, but is still considered a suspect. Whoever's insuring Al's production of Legless better watch out. It's only a matter of time...
-0x112E8A2D=Al Di Napoli - star of stage, screen, and drugs interventions around the country - has raised fresh doubts about his ability to perform on the Boulevard stage every night. We're not talking about the garbled lines or the stink of booze that goes all the way back to row F at the AmDram Theatre. No, police are wanting to question him after a Celebinator-reading cop recognised him as one of the suspects in a drugs bust. Big Al claims that he was in his hotel room all night and has several hookers to back up this story, but is still considered a suspect. Whoever's insuring Al's production of Legless better watch out. It's only a matter of time...
+0x112E8A2D=Al Di Napoli——全国舞台，银幕和“药物干预”上的大明星——他让人们对他如何做到每晚在Boulevard舞台上表演引起了新的怀疑。我们不是在说他在AmDram剧院演出时混乱的台词和一直飘到F排的酒臭味。不，警方想要审问他，因为一名阅读名人新闻的警察认出他是一起缉毒行动的嫌疑人之一。AI哥声称他整晚都呆在酒店房间里，并且有几个妓女来支持他的说法，但他仍然被认为是嫌疑人。那些为AI醉醺醺的作品承保的人应该要担心起来了。他的颠覆只是时间上的问题……
 
 ;0x173A0BE0=FYI - I'm not writing this as the Celebinator, but a mere human being. Ive got all this power and it should be wielded with responsibility. With that in mind, Gay Tony Prince is the first / only guy we're apologizing to. We got to know him and his charming partner, Luis Lopez, when we shared a bottle of vintage Bleutr'd on a helicopter tour of the city. We talked about summer parties in the Carraways and winters in Vice - we clicked. That stuff we said before was stupid. Maisonette and Hercules are still the two hottest clubs in the town, and the guys who run it are awesome!
-0x173A0BE0=FYI - I'm not writing this as the Celebinator, but a mere human being. Ive got all this power and it should be wielded with responsibility. With that in mind, Gay Tony Prince is the first / only guy we're apologizing to. We got to know him and his charming partner, Luis Lopez, when we shared a bottle of vintage Bleutr'd on a helicopter tour of the city. We talked about summer parties in the Carraways and winters in Vice - we clicked. That stuff we said before was stupid. Maisonette and Hercules are still the two hottest clubs in the town, and the guys who run it are awesome!
+0x173A0BE0=供参考——我不是以“名人终结者”的角度写下这篇文章，而只是作为一个普通人。我有这么大的权力，应该负起责任来。考虑到这一点，基佬Tony Prince成为第一位也是唯一一位我们对之道歉的人。我们是在一起乘直升机游览城市时认识他和他迷人的伙伴Luis Lopez的，我们一起喝了瓶陈年Bleutr'd葡萄酒。我们谈到了在Carraways的夏日聚会和在Vice的冬日聚会——我们很合得来。我们之前说的那些话很蠢。Maisonette和大力神仍然是城里最火的两家夜总会，经营它们的人都很棒！
 
 ;0x179EE7E7=Whoop! Whoop! After a brief closure by the city on health and safety grounds - boring people - Tony Queen's two nightclubs have reopened. Yay! EVERYONE is going to be at the opening gala including moi! It's going to be proper fabulous! I'd write about it for you, but I'll probably be too gone on Bleutr'd too type, and too surrounded by fabulous people to be able to single one out. Jealous much??? Welcome back, Tony. Kiss kiss. I love you!
-0x179EE7E7=Whoop! Whoop! After a brief closure by the city on health and safety grounds - boring people - Tony Queen's two nightclubs have reopened. Yay! EVERYONE is going to be at the opening gala including moi! It's going to be proper fabulous! I'd write about it for you, but I'll probably be too gone on Bleutr'd too type, and too surrounded by fabulous people to be able to single one out. Jealous much??? Welcome back, Tony. Kiss kiss. I love you!
+0x179EE7E7=喔！喔！在被城市部门出于健康和安全考虑短暂关闭后——无聊的人们，Tony Queen的两家夜总会重新开张了。耶！所有人都会去开张盛典，包括我！一定会非常棒的！我想为你写写它，但我可能会太沉迷于红酒和周围很赞的人们，让我无法脱身。太嫉妒了？？？欢迎回来，Tony。亲亲你，我爱你！
 
 ;0x22FDB70C=In other Maisonette 9 news, Poppy Mitchell was thought to be engaged in group sex in the VIP room! Poppy Mitchell! And we thought she was a nice girl? We wish we'd been there to see it / film it / join in / all of the above. Sadly we weren't and the paps were too soggy to get some good photo journalism for us. :( Anyway, we love your newest RomCom Poppy, we don't care if you're a cum guzzling slut queen.) xxx
-0x22FDB70C=In other Maisonette 9 news, Poppy Mitchell was thought to be engaged in group sex in the VIP room! Poppy Mitchell! And we thought she was a nice girl? We wish we'd been there to see it / film it / join in / all of the above. Sadly we weren't and the paps were too soggy to get some good photo journalism for us. :( Anyway, we love your newest RomCom Poppy, we don't care if you're a cum guzzling slut queen.) xxx
+0x22FDB70C=在另一则9号豪宅的新闻中，Poppy Mitchell被认为参与了包房里的群交！Poppy Mitchell！我们之前还认为她是个好姑娘？我们真希望能去那里看/拍/参加它/以上所有都想。遗憾的是，我们没能，而且狗仔队也太菜了，拍不出一些好的新闻照片。:( 不管怎样，我们喜欢你最新的RomCom Poppy，即便你是一个吞精的荡妇我们也不在乎。
 
 ;0x2DF8B3E9=Party For Two
-0x2DF8B3E9=Party For Two
+0x2DF8B3E9=二人派对
 
 ;0x34BBDA88=Some paparazzi got a nasty surprise outside Maisonette 9 the other night as a rogue fire truck accidentally sprayed them with their hose. I know some people who'd kill to have a fireman turn his hose on them, but these paps aren't so happy. Several of them are getting together to launch a class action suit against the LCFD. Keeping the paps' cameras working is a hell of a lot more important that the firemen's pension plans so I say go for it. Who ever saw an old fireman anyway?
-0x34BBDA88=Some paparazzi got a nasty surprise outside Maisonette 9 the other night as a rogue fire truck accidentally sprayed them with their hose. I know some people who'd kill to have a fireman turn his hose on them, but these paps aren't so happy. Several of them are getting together to launch a class action suit against the LCFD. Keeping the paps' cameras working is a hell of a lot more important that the firemen's pension plans so I say go for it. Who ever saw an old fireman anyway?
+0x34BBDA88=一天晚上，一些狗仔队在9号豪宅外被一辆流氓消防车不小心用水龙带喷水到了他们身上。我知道有人会不惜一切代价让消防员用水管浇他们，但这些狗仔队可不像这种人那样乐意。他们中的一些人正聚在一起对自由城消防局提起集体诉讼。让狗仔队的摄像机正常工作比消防员的退休金计划重要得多，所以我是挺他们的。话又说回来了，谁又见到过年老的消防员呢？
 
 ;0x36B130E8=The Party Continues
-0x36B130E8=The Party Continues
+0x36B130E8=派对仍在继续
 
 ;0x394C5CE9=Tiny tweeny pop sensations the the Brothers Blue set mouths wagging after a fan accused them of date rape. No one has been able to get the truth since their meany publicist told them to keep schtum. Well, one of our spies managed to corner Bill and Bobby at a party and we've got the low down! You heard it here first, the kind souls only gave her a sedative to calm her down. "She was freaking out having a panic attack so we slipped her one to chill her out. We thought she might die." Good thing you had those roofies on you boys, you can sedate us whenever you like!
-0x394C5CE9=Tiny tweeny pop sensations the the Brothers Blue set mouths wagging after a fan accused them of date rape. No one has been able to get the truth since their meany publicist told them to keep schtum. Well, one of our spies managed to corner Bill and Bobby at a party and we've got the low down! You heard it here first, the kind souls only gave her a sedative to calm her down. "She was freaking out having a panic attack so we slipped her one to chill her out. We thought she might die." Good thing you had those roofies on you boys, you can sedate us whenever you like!
+0x394C5CE9=在被一位粉丝指控他们约会强奸后，年轻的流行小天后组合the Brothers Blue矢口否认。自从他们刻薄的公关人员告诉他们不要说废话后，就没人能知道真相。但我们的一个间谍在一个派对上硬把Bill和Bobby套出话来了，我们已经掌握了内幕！这是我们首次公开它，善良的他们只是给了她镇定剂让她平静下来。“她吓坏了，恐慌症发作了，所以我们给了她一支让她冷静下来。我们以为她可能会死。”还好你们身上带了迷奸药，你们可以随时给我们打镇静剂！
 
 ;0x417E2DAC=It's a Rap for Clay
-0x417E2DAC=It's a Rap for Clay
+0x417E2DAC=Clay的“罪名”
 
 ;0x5EF35332=Tony Queen and his rent boy princess, Luis Lopez, are at it again. Apart from being the least convincing non-couple since two men spit-roasted an albino cheetah in Las Venturas, Queeny and Queenier insist on telling half the few desperate shlobs who bother to try to go to the now irrelevant Maisonette to take a hike. Get over yourselves! Hello sweeties, no one is interested in coming in there to watch you lap dance each other anyway.
-0x5EF35332=Tony Queen and his rent boy princess, Luis Lopez, are at it again. Apart from being the least convincing non-couple since two men spit-roasted an albino cheetah in Las Venturas, Queeny and Queenier insist on telling half the few desperate shlobs who bother to try to go to the now irrelevant Maisonette to take a hike. Get over yourselves! Hello sweeties, no one is interested in coming in there to watch you lap dance each other anyway.
+0x5EF35332=Tony Queen和他的好基友Luis Lopez又来了。他们俩在Las Venturas烤一只白化的猎豹，因此最被相信是一对情侣。他们坚持告诉那些不顾一切想去现在已经无关紧要的Maisonette夜店的少数蠢货们，让他们去远足。丢下包袱吧！亲爱的，反正也没人想进去看你们一起跳脱衣舞的。
 
 ;0x698395CE=Clay 'The Pain Giver' Jackson was spotted out with a mystery blond last night. No, not Poppy Mitchell or Cloe Parker. Contrary to what Mr. Jackson would have us believe in his raps, this date was less ho and more homo. His new album of ballads LOVE ISN'T A CRIME comes out soon. Being gay isn't a crime either, Clay, so get on out of that closet, amigo! And stop going to Hercules! Closet case or not, that place SUCK, SUCK, SUCKS!
-0x698395CE=Clay 'The Pain Giver' Jackson was spotted out with a mystery blond last night. No, not Poppy Mitchell or Cloe Parker. Contrary to what Mr. Jackson would have us believe in his raps, this date was less ho and more homo. His new album of ballads LOVE ISN'T A CRIME comes out soon. Being gay isn't a crime either, Clay, so get on out of that closet, amigo! And stop going to Hercules! Closet case or not, that place SUCK, SUCK, SUCKS!
+0x698395CE=“痛苦给予者”Clay Jackson昨晚被拍到和一个神秘的金发郎约会。不，不是Poppy Mitchell或Cloe Parker。与Jackson先生在说唱段子中想让我们相信的相反，这次约会更像是同性恋而不是异性恋。他的新专辑《爱不是罪》即将发行。同性恋也不是罪，Clay，所以别遮遮掩掩了，老兄！也别再去大力神夜店了！不管你是不是同性恋，那个地方糟透了，糟透了，糟透了！
 
 ;0x6E9D5F25=Teen Blues
-0x6E9D5F25=Teen Blues
+0x6E9D5F25=Blues天团
 
 ;0x7CB7ADC1=Tourists in Star Junction got a surprise earlier when they looked up to see aging action star Chris Hunt's flaccid member flashing across the Weazel News Mega-Screen. Our sources hear that an explicit video featuring him and British debutante Daisy Cash-Cooze was broadcast to passers-by before being leaked on the internet. It was like briefly time travelling back to the nineties when people actually went to see Chris Hunt movies. They're about as old as the dinosaurs, people. That oh so familiar sense of disappointment came back too, when we realised that the only thing you get to see is a hand job! Boo! I watch hand shandies every morning in my shower! Come on Chris, you're going to have to do better than that if you expect any of us to believe that you stand to attention for anyone other than your little Filipino house boy! P-lease!
-0x7CB7ADC1=Tourists in Star Junction got a surprise earlier when they looked up to see aging action star Chris Hunt's flaccid member flashing across the Weazel News Mega-Screen. Our sources hear that an explicit video featuring him and British debutante Daisy Cash-Cooze was broadcast to passers-by before being leaked on the internet. It was like briefly time travelling back to the nineties when people actually went to see Chris Hunt movies. They're about as old as the dinosaurs, people. That oh so familiar sense of disappointment came back too, when we realised that the only thing you get to see is a hand job! Boo! I watch hand shandies every morning in my shower! Come on Chris, you're going to have to do better than that if you expect any of us to believe that you stand to attention for anyone other than your little Filipino house boy! P-lease!
+0x7CB7ADC1=早些时候，当游客们在Star路口抬头看到年迈的动作明星Chris Hunt那疲软的老二在Weazel News的大屏幕上闪烁时，他们都大吃一惊。我们的线人打听到一段关于他和英国少女Daisy Cash-Cooze的露点视频在被泄露到网上之前曾向路人播放过。这就像短暂地回到了90年代，那时人们真的去看Chris Hunt的电影。那些人现在已经像恐龙一样古老了。当我们意识到我们现在唯一能看到的东西是撸管时，那种熟悉的失望感又回来了！嘘！我每天早上洗澡的时候都看手冲视频！别这样嘛，Chris，如果你想让我们相信除了在你的菲律宾小男仆面前你还能在其他任何人面前都保持“坚挺”，你得弄得尺度更大一点！求求你了！
 
 ;0x7FBB2AD0=Queen's Crown Slipping
-0x7FBB2AD0=Queen's Crown Slipping
+0x7FBB2AD0=破碎的女王皇冠
 
 ;0x80D7EDDD=Want to know the real reason Vinewood leading man Bruce Spade fired his agent? He couldn't book him a gig at the Civilisation Committee. A source close to El Spado says "Bruce has been reading a lot of pamphlets on international relations recently. He's got some really interesting theories he wants to share with luminaries from around the world and thought addressing the Citadel was the perfect way to do it." When his agent couldn't secure the appointment (normally reserved for world leaders) he threw a hissy fit and tore up their contract. Hopefully his next agent will be able to help him get that Peace Prize he's been eying for the awards cabinet.
-0x80D7EDDD=Want to know the real reason Vinewood leading man Bruce Spade fired his agent? He couldn't book him a gig at the Civilisation Committee. A source close to El Spado says "Bruce has been reading a lot of pamphlets on international relations recently. He's got some really interesting theories he wants to share with luminaries from around the world and thought addressing the Citadel was the perfect way to do it." When his agent couldn't secure the appointment (normally reserved for world leaders) he threw a hissy fit and tore up their contract. Hopefully his next agent will be able to help him get that Peace Prize he's been eying for the awards cabinet.
+0x80D7EDDD=想知道好麦坞的主要演员Bruce Spade解雇经纪人的真正原因吗？那位经纪人没能给他在文明开化委员会预约一场演讲。一位与El Spado关系密切的消息人士说：“Bruce最近读了很多关于国际关系的手册。他有一些非常有趣的理论想与世界各地的杰出人士分享，他认为在Citadel演讲是达成这一目的的完美方式。”当他的经纪人未能确保这次会面的预约（通常是留给世界领导人的）时，他大发雷霆，撕毁了他们的合同。希望他的下一任经纪人能够帮助他获得他一直期待的和平奖，来摆在奖牌陈列柜里。
 
 ;0x83956705=Rumor has it a member of the British Royal family has been taking time out from spending taxpayer money in the UK to come spend their money over here. After a few too many at a Middle Park East drinks party he over-shared with one of our secret informants - "I've had all the 18 to 25 year olds in London so I'm going to come over here until a new crop matures. Being next in line to the throne might allow you to quash tabloid kiss and tell stories, but not so much with the statutory rape allegations." Awww. It's a hard life, isn't it, petal?
-0x83956705=Rumor has it a member of the British Royal family has been taking time out from spending taxpayer money in the UK to come spend their money over here. After a few too many at a Middle Park East drinks party he over-shared with one of our secret informants - "I've had all the 18 to 25 year olds in London so I'm going to come over here until a new crop matures. Being next in line to the throne might allow you to quash tabloid kiss and tell stories, but not so much with the statutory rape allegations." Awww. It's a hard life, isn't it, petal?
+0x83956705=有传言称，英国皇室的一名成员已经从在英国花纳税人的钱的生活中抽时间在这里花他们的钱。在一次中央公园东街区的酒会上，他和我们的一个秘密线人透露了很多——“伦敦18到25岁的我都搞过了，所以我要到这里来，直到新的‘幼苗’长成。”作为王位继承人，你或许可以平息小报上的各种绯闻，但对法定的强奸指控就没那么好办了。”噢。生活很艰难，不是吗，亲爱的？
 
 ;0x8A478F77=Hey Mr. Celebinator, we're big fans of your site at the club, so it's kind of confusing when we read this spiteful shit. I'm sure you don't wanna offend us, so give us a call and we'll try to work it out.
-0x8A478F77=Hey Mr. Celebinator, we're big fans of your site at the club, so it's kind of confusing when we read this spiteful shit. I'm sure you don't wanna offend us, so give us a call and we'll try to work it out.
+0x8A478F77=嘿，Celebinator先生，我们是你网站的忠实粉丝，所以当我们看到这些恶意的绯闻时有点困惑。你肯定不想冒犯我们，给我们打个电话，我们会一起想办法解决的。
 
 ;0x96626E7C=Prince Back on his Throne
-0x96626E7C=Prince Back on his Throne
+0x96626E7C=王子重回王位
 
 ;0xB45D9D6F=Poppies, Pappies, and a wild night at Maisonette
-0xB45D9D6F=Poppies, Pappies, and a wild night at Maisonette
+0xB45D9D6F=毒品，奶子，Maisonette里的疯狂之夜
 
 ;0xBFEB4F91=Once legendary night club Mr. Big, Gay Tony is losing his touch. Rumors persist he's too wrapped up in his rent boy, Luis Lopez, to worry about running a decent club any more. Tony, who was a big star before the internet but has seen his popularity begin to wane, really should try relaxing his notoriously strict door policy and letting people in. Now it seems Tony and Luis are too busy staring into each other's eyes to worry about the fact their drinks are overpriced, their music is lame and even worse, the cool people simply don't go to their shitty clubs anymore. Bye bye!
-0xBFEB4F91=Once legendary night club Mr. Big, Gay Tony is losing his touch. Rumors persist he's too wrapped up in his rent boy, Luis Lopez, to worry about running a decent club any more. Tony, who was a big star before the internet but has seen his popularity begin to wane, really should try relaxing his notoriously strict door policy and letting people in. Now it seems Tony and Luis are too busy staring into each other's eyes to worry about the fact their drinks are overpriced, their music is lame and even worse, the cool people simply don't go to their shitty clubs anymore. Bye bye!
+0xBFEB4F91=曾经的传奇夜总会大亨，基佬Tony，正在淡出人们的视野。有谣言称他把精力都放在他的好基友Luis Lopez上以至于无暇经营一家像样的夜总会了。Tony在互联网出现之前是大明星，但现在他的知名度开始下滑，他真的应该试着放松他那出了名严格的准入政策，让人们进去。现在看来，Tony和Luis都忙着爱的凝视而不去管夜店里饮料价格过高，音乐太差劲等问题。更糟糕的是，潮人们根本就不去他们的烂夜总会了。拜拜！
 
 ;0xD729A905=Regal Airs
-0xD729A905=Regal Airs
+0xD729A905=王室之风
 
 ;0xD8CABB5B=Yummy but ohh so skinny Brit, Charlotte Crown is fighting back against people who say she is anorexic. We saw her out last night and she said "I just love food. I am obsessed by food. Seriously. When I get older and have kids, I'm definitely going to write a cook book. All my favorite recipes. I love eating. I ate 3 shepherd's pies today and lots of crisps and fish and chips and all these scrummy English things, because I'm really proud of being English, even though I have to live in Los Santos now. I'm definitely not anorexic. It's ridiculous. I'm just really lucky." You go girl! And don't forget to start shaving soon. Ciao!
-0xD8CABB5B=Yummy but ohh so skinny Brit, Charlotte Crown is fighting back against people who say she is anorexic. We saw her out last night and she said "I just love food. I am obsessed by food. Seriously. When I get older and have kids, I'm definitely going to write a cook book. All my favorite recipes. I love eating. I ate 3 shepherd's pies today and lots of crisps and fish and chips and all these scrummy English things, because I'm really proud of being English, even though I have to live in Los Santos now. I'm definitely not anorexic. It's ridiculous. I'm just really lucky." You go girl! And don't forget to start shaving soon. Ciao!
+0xD8CABB5B=Charlotte Crown，一位自称热爱美食但却瘦骨嶙峋的英国人，正在对那些说她患有厌食症的人进行反击。我们昨晚看到她外出，她说：“我热爱美食。我对美食很着迷。真的。等我岁数更大点有了孩子，我一定会写一本烹饪书。里面会囊括所有我最喜欢的食谱。我爱吃。我今天吃了3个牧羊人派，还有很多薯片、炸鱼和薯条，还有所有这些好吃的英国食物，因为我为自己是英国人而感到骄傲，尽管我现在不得不住在洛圣都。我绝对不是厌食症患者。这是荒谬的。我真的很幸运没有长胖。”继续编下去吧姑娘！别忘了尽快开始刮胡子。拜拜！
 
 ;0xE1301FD5=(note: I would never compromise this blog's credibility by accepting bribes. Tony, Luis and me really did vibe, and the clubs are f-ing fabulous. You'd be a doofus to think otherwise! Would people please stop bitching about my Silver Schafter as well! All kinds of public figures get free shit!
-0xE1301FD5=(note: I would never compromise this blog's credibility by accepting bribes. Tony, Luis and me really did vibe, and the clubs are f-ing fabulous. You'd be a doofus to think otherwise! Would people please stop bitching about my Silver Schafter as well! All kinds of public figures get free shit!
+0xE1301FD5=（注：我绝不会接受贿赂而损毁这个博客的名誉。Tony，Luis和我真的关系很好，他们的夜总会太他妈棒了。你要是不这么想就太蠢了！大家能不能别再挖苦我的那辆银色Schafter了！所有公众人物都会得到些免费的东西！
 
 ;0xE3103446=The Hunt is On
-0xE3103446=The Hunt is On
+0xE3103446=狩猎开始了
 
 ;0xF06F6AEF=Ace of Spades
-0xF06F6AEF=Ace of Spades
+0xF06F6AEF=黑桃A
 
 ;0xFE429417=The other day I had the unfortunate experience of getting up-close and personal with the statue of Happiness. It's horrible! I could swear that disgusting strained smile on her face reminds me of someone, too. That's the face of a woman who needs some work done, or some action, or both! I mean, she is seriously living a lie, that one, and for what? She just stands there and does nothing! Reminds me of my mother. If I was married to that cold slab of stone I'd be off with any fat bird who'd take me. It's amazing that angry black heart of hers still beats in her chest.
-0xFE429417=The other day I had the unfortunate experience of getting up-close and personal with the statue of Happiness. It's horrible! I could swear that disgusting strained smile on her face reminds me of someone, too. That's the face of a woman who needs some work done, or some action, or both! I mean, she is seriously living a lie, that one, and for what? She just stands there and does nothing! Reminds me of my mother. If I was married to that cold slab of stone I'd be off with any fat bird who'd take me. It's amazing that angry black heart of hers still beats in her chest.
+0xFE429417=前几天，我不幸地与幸福女神像近距离接触。太可怕了！我敢发誓，她脸上那令人厌恶的紧绷的笑容让我想起了某人。这是一张需要完成一些工作的女人的脸，或者需要行动，或者两者都需要！我是说，她真的活在谎言中，为了什么？她只是站在那里，什么都不做！这让我想起了我的母亲。如果我娶了那块冰冷的石头，我会和任何愿意嫁给我的胖女人一起离开。她那颗愤怒的黑色的心还在她的胸口跳动着，真是令人惊奇。
 
 ;0xFF56429B=Wow! Crown Gains Carats!
-0xFF56429B=Wow! Crown Gains Carats!
+0xFF56429B=哇！皇冠上的宝石变多了！
 
