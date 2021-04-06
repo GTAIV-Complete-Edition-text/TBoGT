@@ -51,7 +51,7 @@
 0x80D7EDDD=想知道好麦坞的主要演员Bruce Spade解雇经纪人的真正原因吗？那位经纪人没能给他在文明开化委员会预约一场演讲。一位与El Spado关系密切的消息人士说：“Bruce最近读了很多关于国际关系的手册。他有一些非常有趣的理论想与世界各地的杰出人士分享，他认为在Citadel演讲是达成这一目的的完美方式。”当他的经纪人未能确保这次会面的预约（通常是留给世界领导人的）时，他大发雷霆，撕毁了他们的合同。希望他的下一任经纪人能够帮助他获得他一直期待的和平奖，来摆在奖牌陈列柜里。
 
 ;0x83956705=Rumor has it a member of the British Royal family has been taking time out from spending taxpayer money in the UK to come spend their money over here. After a few too many at a Middle Park East drinks party he over-shared with one of our secret informants - "I've had all the 18 to 25 year olds in London so I'm going to come over here until a new crop matures. Being next in line to the throne might allow you to quash tabloid kiss and tell stories, but not so much with the statutory rape allegations." Awww. It's a hard life, isn't it, petal?
-0x83956705=有传言称，英国皇室的一名成员已经从在英国花纳税人的钱的生活中抽时间在这里花他们的钱。在一次中央公园东街区的酒会上，他和我们的一个秘密线人透露了很多——“伦敦18到25岁的我都搞过了，所以我要到这里来，直到新的‘幼苗’长成。”作为王位继承人，你或许可以平息小报上的各种绯闻，但对法定的强奸指控就没那么好办了。”噢。生活很艰难，不是吗，亲爱的？
+0x83956705=有传言称，英国皇室的一名成员已经从在英国花纳税人的钱的生活中抽时间在这里花他们的钱。在一次中央公园东街区的酒会上，他和我们的一个秘密线人透露了很多——“伦敦18到25岁的我都搞过了，所以我要到这里来，直到新的‘幼苗’长成。作为王位继承人，你或许可以平息小报上的各种绯闻，但对法定的强奸指控就没那么好办了。”噢。生活很艰难，不是吗，亲爱的？
 
 ;0x8A478F77=Hey Mr. Celebinator, we're big fans of your site at the club, so it's kind of confusing when we read this spiteful shit. I'm sure you don't wanna offend us, so give us a call and we'll try to work it out.
 0x8A478F77=嘿，Celebinator先生，我们是你网站的忠实粉丝，所以当我们看到这些恶意的绯闻时有点困惑。你肯定不想冒犯我们，给我们打个电话，我们会一起想办法解决的。
