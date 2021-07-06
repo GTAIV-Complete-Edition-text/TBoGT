@@ -1,54 +1,54 @@
 ﻿[E2BG2BA]
 ;0x08FEDD17=~z~These guys look pissed.
-0x08FEDD17=~z~These guys look pissed.
+0x08FEDD17=~z~看来这帮人生气了。
 
 ;0x0A7D1160=~z~Stop him! He cannot escape!
-0x0A7D1160=~z~Stop him! He cannot escape!
+0x0A7D1160=~z~拦下他！他跑不掉的！
 
 ;0x13861925=~z~That all they got? Let's get out of here.
-0x13861925=~z~That all they got? Let's get out of here.
+0x13861925=~z~就这？走了。
 
 ;0x1B4FE082=102
 0x1B4FE082=102
 
 ;0x1F5098F9=~z~Ashvilli fucking dead, assholes.
-0x1F5098F9=~z~Ashvilli fucking dead, assholes.
+0x1F5098F9=~z~Ashvilli都他妈死了，傻逼们。
 
 ;0x20763D52=~z~Kill the asshole!
-0x20763D52=~z~Kill the asshole!
+0x20763D52=~z~杀了这混蛋！
 
 ;0x2190D178=092
 0x2190D178=092
 
 ;0x3C6A11FD=~z~Get in here! Quick!
-0x3C6A11FD=~z~Get in here! Quick!
+0x3C6A11FD=~z~上车！快！
 
 ;0x3C8FF585=~z~Don't let him get away!
-0x3C8FF585=~z~Don't let him get away!
+0x3C8FF585=~z~别让他跑了！
 
 ;0x43A483AE=~z~Get him! Get him!
-0x43A483AE=~z~Get him! Get him!
+0x43A483AE=~z~抓住他！抓住他！
 
 ;0x4A40869D=~z~No more of them? Okay, we go.
-0x4A40869D=~z~No more of them? Okay, we go.
+0x4A40869D=~z~没人了吧？好，走。
 
 ;0x4C06B132=~z~Get in!
-0x4C06B132=~z~Get in!
+0x4C06B132=~z~上车！
 
 ;0x4D6BB400=~z~Come on. Get in!
-0x4D6BB400=~z~Come on. Get in!
+0x4D6BB400=~z~快点！上车！
 
 ;0x4DD997E0=~z~There's the guy!
-0x4DD997E0=~z~There's the guy!
+0x4DD997E0=~z~就是他！
 
 ;0x58222260=~z~Alright. We go now. Come on.
-0x58222260=~z~Alright. We go now. Come on.
+0x58222260=~z~好了，现在就走，来吧。
 
 ;0x5D5E9514=~z~Your boss is dead already.
-0x5D5E9514=~z~Your boss is dead already.
+0x5D5E9514=~z~你们老板早死了。
 
 ;0x5F18BA5E=~z~That's the guy who killed Ashvilli.
-0x5F18BA5E=~z~That's the guy who killed Ashvilli.
+0x5F18BA5E=~z~就是他杀了Ashvilli。
 
 ;0x6248668F=E2BG2_BUA
 0x6248668F=E2BG2_BUA
@@ -57,55 +57,55 @@
 0x6380A1EF=010
 
 ;0x640C226B=~z~Fuck off.
-0x640C226B=~z~Fuck off.
+0x640C226B=~z~滚吧。
 
 ;0x6A30AEB8=~z~You're too late.
-0x6A30AEB8=~z~You're too late.
+0x6A30AEB8=~z~你们来晚了。
 
 ;0x6A7D3AE5=~z~Marki! What happened?
-0x6A7D3AE5=~z~Marki! What happened?
+0x6A7D3AE5=~z~Marki！你怎么了？
 
 ;0x80778214=E2BG2_BRA
 0x80778214=E2BG2_BRA
 
 ;0x810C5C6F=~z~Assholes.
-0x810C5C6F=~z~Assholes.
+0x810C5C6F=~z~狗日玩意。
 
 ;0x861F0041=~z~Yo, Timur, I think I see Ashvilli.
-0x861F0041=~z~Yo, Timur, I think I see Ashvilli.
+0x861F0041=~z~哟，Timur，我看到Ashvilli了。
 
 ;0x874F8657=100
 0x874F8657=100
 
 ;0x8B9B718D=~z~Ashvilli was traitor.
-0x8B9B718D=~z~Ashvilli was traitor.
+0x8B9B718D=~z~Ashvilli是个叛徒。
 
 ;0x92D99E7F=E2BG2_BPA
 0x92D99E7F=E2BG2_BPA
 
 ;0x93570C98=~z~What's going on? Mr. Ashvilli?
-0x93570C98=~z~What's going on? Mr. Ashvilli?
+0x93570C98=~z~你还好吗？Ashvilli先生？
 
 ;0x97261E1A=~z~Hey, you the guy I'm looking for?
-0x97261E1A=~z~Hey, you the guy I'm looking for?
+0x97261E1A=~z~嘿，你是我要找的人吗？
 
 ;0x9867A4D2=~z~I think I got your target, asshole.
-0x9867A4D2=~z~I think I got your target, asshole.
+0x9867A4D2=~z~我找到你的目标了，混蛋。
 
 ;0x9D89861A=~z~I think you got some people looking for you.
-0x9D89861A=~z~I think you got some people looking for you.
+0x9D89861A=~z~有人找上来了。
 
 ;0xA9668539=192
 0xA9668539=192
 
 ;0xA9DD4388=~z~I'm here for you, asshole.
-0xA9DD4388=~z~I'm here for you, asshole.
+0xA9DD4388=~z~我是来找你的，混蛋。
 
 ;0xB4C56CE3=492
 0xB4C56CE3=492
 
 ;0xB8DBD7A1=~z~Shit, Mr. Ashvilli!
-0xB8DBD7A1=~z~Shit, Mr. Ashvilli!
+0xB8DBD7A1=~z~他妈的，Ashvilli先生！
 
 ;0xC0993DD9=492
 0xC0993DD9=492
@@ -117,31 +117,31 @@
 0xC4B7172C=E2BG2_BVA
 
 ;0xCD5D16E9=~z~That's him. He killed Ashvilli.
-0xCD5D16E9=~z~That's him. He killed Ashvilli.
+0xCD5D16E9=~z~就是他杀了Ashvilli。
 
 ;0xCF703A55=492
 0xCF703A55=492
 
 ;0xD04BEB9E=~z~You know these idiots?
-0xD04BEB9E=~z~You know these idiots?
+0xD04BEB9E=~z~知道这帮傻逼是谁吗？
 
 ;0xD3863703=E2BG2_BTA
 0xD3863703=E2BG2_BTA
 
 ;0xDB9BA704=~z~This all you got, you rich bitch.
-0xDB9BA704=~z~This all you got, you rich bitch.
+0xDB9BA704=~z~这就是你应得的，你个臭土豪。
 
 ;0xE11BBC5A=E2BG2_BQA
 0xE11BBC5A=E2BG2_BQA
 
 ;0xEA804906=~z~This might be your guy, partyboy.
-0xEA804906=~z~This might be your guy, partyboy.
+0xEA804906=~z~就是来找你的，嗨仔。
 
 ;0xEDD85817=~z~Get that motherfucker!
-0xEDD85817=~z~Get that motherfucker!
+0xEDD85817=~z~抓住这操蛋玩意！
 
 ;0xEDF1CBB0=~z~Some other rich Russian assholes want you dead. Don't shoot the messenger.
-0xEDF1CBB0=~z~Some other rich Russian assholes want you dead. Don't shoot the messenger.
+0xEDF1CBB0=~z~别开火，我是来报信的，有别的俄国土豪想杀了你。
 
 ;0xEF60D026=102
 0xEF60D026=102
@@ -153,5 +153,5 @@
 0xFB29F719=E2BG2_BZA
 
 ;0xFF496E5F=~z~Blame capitalism, friend.
-0xFF496E5F=~z~Blame capitalism, friend.
+0xFF496E5F=~z~要怪就怪资本主义去吧，朋友。
 

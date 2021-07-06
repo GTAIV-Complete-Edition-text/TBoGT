@@ -1,18 +1,18 @@
 ﻿[GIRL1AU]
 ;0x0073883C=~z~You're gonna get burnt one day too, you know. And don't you dare come crying to me when it happens.
-0x0073883C=~z~You're gonna get burnt one day too, you know. And don't you dare come crying to me when it happens.
+0x0073883C=~z~你总有一天也会引火烧身的，到时出事了你也不敢来找我哭诉。
 
 ;0x03C0D6AF=GIRL1_VA
 0x03C0D6AF=GIRL1_VA
 
 ;0x05605AEC=~z~No.
-0x05605AEC=~z~No.
+0x05605AEC=~z~不。
 
 ;0x05AE7272=~z~You should be locked up.
-0x05AE7272=~z~You should be locked up.
+0x05AE7272=~z~你应该被关起来的。
 
 ;0x05DAF462=~z~I don't love you.
-0x05DAF462=~z~I don't love you.
+0x05DAF462=~z~我不爱你。
 
 ;0x06DBE90C=GIRL1_ZA
 0x06DBE90C=GIRL1_ZA
@@ -24,13 +24,13 @@
 0x07C75D1E=SFX_PAUSE_360
 
 ;0x07CD70A2=~z~What?
-0x07CD70A2=~z~What?
+0x07CD70A2=~z~啥？
 
 ;0x08BB507B=~z~Yeah, it does, actually.
-0x08BB507B=~z~Yeah, it does, actually.
+0x08BB507B=~z~事实上是这样的。
 
 ;0x08D2D40A=~z~What?
-0x08D2D40A=~z~What?
+0x08D2D40A=~z~什么？
 
 ;0x08F44353=GIRL1_PB
 0x08F44353=GIRL1_PB
@@ -39,55 +39,55 @@
 0x09336B39=GIRL1_WA
 
 ;0x098F6C31=~z~Fancy seeing you here.
-0x098F6C31=~z~Fancy seeing you here.
+0x098F6C31=~z~真没料到你在这。
 
 ;0x09B2E162=100090100090010
 0x09B2E162=100090100090010
 
 ;0x0AE93CF3=~z~Shit, it's cold.
-0x0AE93CF3=~z~Shit, it's cold.
+0x0AE93CF3=~z~妈的，好冷啊。
 
 ;0x0B322309=~z~Oh my god! He just pushed her. Is she dead?
-0x0B322309=~z~Oh my god! He just pushed her. Is she dead?
+0x0B322309=~z~哦天哪！他刚刚把她推下去了。她死了没？
 
 ;0x0FC4C117=~z~Shit, girl, you real wet.
-0x0FC4C117=~z~Shit, girl, you real wet.
+0x0FC4C117=~z~操，妹子，你真废物啊。
 
 ;0x1001636C=~z~Yeah. I'll think about how crazy you were.
-0x1001636C=~z~Yeah. I'll think about how crazy you were.
+0x1001636C=~z~对啊。我在寻思你有多疯狂。
 
 ;0x1039B077=~z~Shit, Luis, why do I love you so bad?
-0x1039B077=~z~Shit, Luis, why do I love you so bad?
+0x1039B077=~z~妈的，Luis，为啥我爱你爱得这么痴情？
 
 ;0x1080FD54=~z~You just took an overdose over a guy who ain't seen you in twelve months. Fuck, girl.
-0x1080FD54=~z~You just took an overdose over a guy who ain't seen you in twelve months. Fuck, girl.
+0x1080FD54=~z~我操。妹子，就因为个男的一年没来找你，你就想服药自尽。
 
 ;0x1166F611=~z~But, seriously, I just don't want to marry you.
-0x1166F611=~z~But, seriously, I just don't want to marry you.
+0x1166F611=~z~但，说真的，我不就是不想娶你嘛。
 
 ;0x1262988C=~z~Yeah, I meant to, I'm just...
-0x1262988C=~z~Yeah, I meant to, I'm just...
+0x1262988C=~z~是，是有过，我只是…
 
 ;0x13426A87=GIRL1_BA
 0x13426A87=GIRL1_BA
 
 ;0x15A1EDA8=~z~Okay? I don't care which it is, just get over here, please.
-0x15A1EDA8=~z~Okay? I don't care which it is, just get over here, please.
+0x15A1EDA8=~z~好吗？不管怎么说，过来吧，求求你了。
 
 ;0x15BA5299=~z~I think a rat just bit me.
-0x15BA5299=~z~I think a rat just bit me.
+0x15BA5299=~z~我感觉是只老鼠咬了我。
 
 ;0x17C1C48E=GIRL1_OA
 0x17C1C48E=GIRL1_OA
 
 ;0x18828130=~z~Did you get the book I sent you?
-0x18828130=~z~Did you get the book I sent you?
+0x18828130=~z~你拿到我送给你的书了吗？
 
 ;0x194746B9=~z~I've been watching you, you know. I know all about those other girls.
-0x194746B9=~z~I've been watching you, you know. I know all about those other girls.
+0x194746B9=~z~我一直在留意你，你懂的，你身边那些女的我都认识。
 
 ;0x197ADA16=~z~It smells like shit in here.
-0x197ADA16=~z~It smells like shit in here.
+0x197ADA16=~z~这闻起来跟屎一样。
 
 ;0x1BFAD947=GIRL1_VD
 0x1BFAD947=GIRL1_VD
@@ -96,13 +96,13 @@
 0x1CDEC4B5=GIRL1_NA
 
 ;0x1DD1DD0F=~z~My hero.
-0x1DD1DD0F=~z~My hero.
+0x1DD1DD0F=~z~我的白马王子。
 
 ;0x1DD216F0=392
 0x1DD216F0=392
 
 ;0x20C6988C=~z~You fucking idiot.
-0x20C6988C=~z~You fucking idiot.
+0x20C6988C=~z~你真他妈傻逼啊。
 
 ;0x20FD31D2=GIRL1_RA
 0x20FD31D2=GIRL1_RA
@@ -117,28 +117,28 @@
 0x220790F0=GIRL1_WB
 
 ;0x224853D9=~z~Killer! Killer!
-0x224853D9=~z~Killer! Killer!
+0x224853D9=~z~凶手！凶手！
 
 ;0x23A43B0F=~z~Or my emails.
-0x23A43B0F=~z~Or my emails.
+0x23A43B0F=~z~和我的邮件。
 
 ;0x24F4495A=~z~I think I just saw a murder.
-0x24F4495A=~z~I think I just saw a murder.
+0x24F4495A=~z~我看到有人谋杀。
 
 ;0x2567DAD3=~z~You're my fucking savior, Luis.
-0x2567DAD3=~z~You're my fucking savior, Luis.
+0x2567DAD3=~z~你真他妈是我的救星啊，Luis。
 
 ;0x25B8EEF7=SFX_PAUSE_260
 0x25B8EEF7=SFX_PAUSE_260
 
 ;0x26518BA7=~z~Now come on, get down from there.
-0x26518BA7=~z~Now come on, get down from there.
+0x26518BA7=~z~现在赶紧的，下来吧。
 
 ;0x277F9133=~z~No. Listen, I'm sorry. I'm sorry.
-0x277F9133=~z~No. Listen, I'm sorry. I'm sorry.
+0x277F9133=~z~不。听着，抱歉，真抱歉。
 
 ;0x2835F78C=~z~I'm here.
-0x2835F78C=~z~I'm here.
+0x2835F78C=~z~我在这。
 
 ;0x291CC5AA=GIRL1_JA
 0x291CC5AA=GIRL1_JA
@@ -147,49 +147,49 @@
 0x2933A7EE=GIRL1_KA
 
 ;0x29EE66EA=~z~I got to get you to a hospital. There's one in Easton.
-0x29EE66EA=~z~I got to get you to a hospital. There's one in Easton.
+0x29EE66EA=~z~我得把你送医院去，Easton就有一家。
 
 ;0x2AD125CD=~z~Yeah. Look, I've had a lot going on.
-0x2AD125CD=~z~Yeah. Look, I've had a lot going on.
+0x2AD125CD=~z~对。好了，我还要忙。
 
 ;0x2BE0792C=~z~Get in here.
-0x2BE0792C=~z~Get in here.
+0x2BE0792C=~z~上车。
 
 ;0x2BF8B443=~z~What's wrong with you? Nothing apart that you're mentally deranged.
-0x2BF8B443=~z~What's wrong with you? Nothing apart that you're mentally deranged.
+0x2BF8B443=~z~有病吧你，除了发疯啥都不会是吗？
 
 ;0x2C6339CD=~z~You really fucking care. I knew it!
-0x2C6339CD=~z~You really fucking care. I knew it!
+0x2C6339CD=~z~你他妈会在乎的，我知道！
 
 ;0x2D7DD424=~z~I don't feel so good.
-0x2D7DD424=~z~I don't feel so good.
+0x2D7DD424=~z~我感觉不妙。
 
 ;0x2EFA51BB=~z~Yeah, I'm sorry.
-0x2EFA51BB=~z~Yeah, I'm sorry.
+0x2EFA51BB=~z~是，我很抱歉。
 
 ;0x305D47CF=~z~There's nothing mixed about this - stay away from me!
-0x305D47CF=~z~There's nothing mixed about this - stay away from me!
+0x305D47CF=~z~都别管我，离我远点！
 
 ;0x3076F036=~z~Eat him alive.
-0x3076F036=~z~Eat him alive.
+0x3076F036=~z~生吃了他。
 
 ;0x320A6386=~z~Fuck me. He pushed her.
-0x320A6386=~z~Fuck me. He pushed her.
+0x320A6386=~z~我操，他把她推下去了。
 
 ;0x3261AF9C=GIRL1_WC
 0x3261AF9C=GIRL1_WC
 
 ;0x329C06C5=~z~That was the most beautiful thing anyone's ever done for me. Imagine what our kids will think of this story.
-0x329C06C5=~z~That was the most beautiful thing anyone's ever done for me. Imagine what our kids will think of this story.
+0x329C06C5=~z~这真是我人生中的高光时刻啊。想象下咱们的孩子听到这故事时会怎么想。
 
 ;0x337F2A67=~z~Will you think of me after I'm gone?
-0x337F2A67=~z~Will you think of me after I'm gone?
+0x337F2A67=~z~我死了后你会想我吗？
 
 ;0x3393A62B=~z~Must be easy for you,
-0x3393A62B=~z~Must be easy for you,
+0x3393A62B=~z~对你来说肯定很简单啊，
 
 ;0x33AAD51A=~z~Aren't you coming in? You could hold back my hair when they pump me.
-0x33AAD51A=~z~Aren't you coming in? You could hold back my hair when they pump me.
+0x33AAD51A=~z~你不来吗？洗胃的时候你还能帮我收下头发。
 
 ;0x33B611EA=GIRL1_FA
 0x33B611EA=GIRL1_FA
@@ -201,46 +201,46 @@
 0x3632A732=100090010
 
 ;0x371CB09D=~z~Yeah, either that or thank me.
-0x371CB09D=~z~Yeah, either that or thank me.
+0x371CB09D=~z~也有可能会谢我。
 
 ;0x37947F2C=~z~I hope insurance covers this.
-0x37947F2C=~z~I hope insurance covers this.
+0x37947F2C=~z~希望这东西上了保险。
 
 ;0x396B66EB=100090010
 0x396B66EB=100090010
 
 ;0x3D9A0F37=~z~Urrrrrrrrrrrr.
-0x3D9A0F37=~z~Urrrrrrrrrrrr.
+0x3D9A0F37=~z~呃……
 
 ;0x3E1D85CD=~z~I was real stupid, wasn't I?
-0x3E1D85CD=~z~I was real stupid, wasn't I?
+0x3E1D85CD=~z~我真傻逼啊，不是吗？
 
 ;0x3F57520D=~z~But...but I can go.
-0x3F57520D=~z~But...but I can go.
+0x3F57520D=~z~但…但我可以走啊。
 
 ;0x3FE21D28=100090010
 0x3FE21D28=100090010
 
 ;0x4036F434=~z~You never answered my calls.
-0x4036F434=~z~You never answered my calls.
+0x4036F434=~z~你都不接我电话。
 
 ;0x40F5C950=190
 0x40F5C950=190
 
 ;0x42A59497=~z~You're going to burn in hell.
-0x42A59497=~z~You're going to burn in hell.
+0x42A59497=~z~你会被打下地狱活活烧死。
 
 ;0x42CE6EC2=~z~No dumbass, that's just your liver failing.
-0x42CE6EC2=~z~No dumbass, that's just your liver failing.
+0x42CE6EC2=~z~不，那只是你肝脏衰竭了，傻逼。
 
 ;0x4358FFDA=~z~Come on, baby. I'm feeling drowsy.
-0x4358FFDA=~z~Come on, baby. I'm feeling drowsy.
+0x4358FFDA=~z~快点吧，宝贝。我好困啊。
 
 ;0x43AACE23=SFX_PAUSE_330
 0x43AACE23=SFX_PAUSE_330
 
 ;0x465CCBBD=~z~No, I mean I'm sorry we can't be together. You can't have me.
-0x465CCBBD=~z~No, I mean I'm sorry we can't be together. You can't have me.
+0x465CCBBD=~z~不，我的意思是真抱歉咱在不了一起。你拥有不了我。
 
 ;0x46DFB024=GIRL1_VI
 0x46DFB024=GIRL1_VI
@@ -249,13 +249,13 @@
 0x477D4250=GIRL1_PA
 
 ;0x4943619B=~z~It felt like nothing to me.
-0x4943619B=~z~It felt like nothing to me.
+0x4943619B=~z~这关我啥事。
 
 ;0x49AA7457=~z~You got to stop doing this. One of these days you actually gonna succeed in killing yourself.
-0x49AA7457=~z~You got to stop doing this. One of these days you actually gonna succeed in killing yourself.
+0x49AA7457=~z~你得住手了，不然哪天你就害了自己。
 
 ;0x4B240A12=~z~At Hercules? It's a gay club.
-0x4B240A12=~z~At Hercules? It's a gay club.
+0x4B240A12=~z~在Hercules？这可是家基佬的倶乐部啊。
 
 ;0x4BDDA4FA=GIRL1_NB
 0x4BDDA4FA=GIRL1_NB
@@ -264,31 +264,31 @@
 0x4CCA3871=GIRL1_LA
 
 ;0x4E2B3059=~z~This is more painful than I thought it would be.
-0x4E2B3059=~z~This is more painful than I thought it would be.
+0x4E2B3059=~z~这比我想象中的还要痛啊。
 
 ;0x4E9EDD7F=~z~I think I'm dying.
-0x4E9EDD7F=~z~I think I'm dying.
+0x4E9EDD7F=~z~我觉得我要死了。
 
 ;0x5249F7F2=~z~Y-you can't go.
-0x5249F7F2=~z~Y-you can't go.
+0x5249F7F2=~z~你…你不能走。
 
 ;0x5366FE16=010090100090010090100
 0x5366FE16=010090100090010090100
 
 ;0x5396E631=~z~I don't want you.
-0x5396E631=~z~I don't want you.
+0x5396E631=~z~我不想娶你。
 
 ;0x53DB57E8=SFX_PAUSE_250
 0x53DB57E8=SFX_PAUSE_250
 
 ;0x54ED82F8=~z~I knew you'd come.
-0x54ED82F8=~z~I knew you'd come.
+0x54ED82F8=~z~我就知道你会来的。
 
 ;0x55AC88AA=100
 0x55AC88AA=100
 
 ;0x57E29D8D=~z~Get in there. You the doctor's problem now.
-0x57E29D8D=~z~Get in there. You the doctor's problem now.
+0x57E29D8D=~z~进去吧。现在该头疼你的是医生了。
 
 ;0x57EFD6C4=SFX_OVERLAP_3210
 0x57EFD6C4=SFX_OVERLAP_3210
@@ -297,52 +297,52 @@
 0x5871B3DA=GIRL1_QA
 
 ;0x59B675A0=~z~Okay, wait - just - I - I just don't want to marry you.
-0x59B675A0=~z~Okay, wait - just - I - I just don't want to marry you.
+0x59B675A0=~z~嗯，等下，只是，我，我只是不想娶你。
 
 ;0x59E59AB7=GIRL1_UA
 0x59E59AB7=GIRL1_UA
 
 ;0x5A810209=~z~Kill that sick pervert. Rip him apart.
-0x5A810209=~z~Kill that sick pervert. Rip him apart.
+0x5A810209=~z~把那恶心的变态干掉，让他粉身碎骨。
 
 ;0x5B0F190A=100090010
 0x5B0F190A=100090010
 
 ;0x5B1F3DA6=~z~Don't catch a cold. Stay sane and stay the fuck away from me. Bye!
-0x5B1F3DA6=~z~Don't catch a cold. Stay sane and stay the fuck away from me. Bye!
+0x5B1F3DA6=~z~别感冒了。正常点，离我他妈的远点。再见！
 
 ;0x5B751F99=~z~telling everyone that you pushed me.
-0x5B751F99=~z~telling everyone that you pushed me.
+0x5B751F99=~z~告诉所有人是你把我推下去的。
 
 ;0x5B7E8A33=GIRL1_KB
 0x5B7E8A33=GIRL1_KB
 
 ;0x5BA179A6=~z~Nothing. Nothing. Come on, come on, get over here.
-0x5BA179A6=~z~Nothing. Nothing. Come on, come on, get over here.
+0x5BA179A6=~z~没啥，没啥。快，赶紧的，过来吧。
 
 ;0x5C2D995D=~z~Oh my god!
-0x5C2D995D=~z~Oh my god!
+0x5C2D995D=~z~哦天哪！
 
 ;0x5CE7AD99=~z~I was just... just... meeting someone! A date, actually.
-0x5CE7AD99=~z~I was just... just... meeting someone! A date, actually.
+0x5CE7AD99=~z~我只是…只是…见个人！事实上，是个约会。
 
 ;0x5CF3C933=~z~She was a sweet, innocent girl.
-0x5CF3C933=~z~She was a sweet, innocent girl.
+0x5CF3C933=~z~她是个可爱、天真的女孩。
 
 ;0x5DD76F09=202
 0x5DD76F09=202
 
 ;0x5F65AE63=~z~Yeah! You a serious Grade A nut job.
-0x5F65AE63=~z~Yeah! You a serious Grade A nut job.
+0x5F65AE63=~z~是啊！你真是个书呆子。
 
 ;0x608A8348=~z~You fuck people and then you ignore them. That's easy. It's a game, isn't it?
-0x608A8348=~z~You fuck people and then you ignore them. That's easy. It's a game, isn't it?
+0x608A8348=~z~你操逼完了就拍屁股走人，真轻松啊。像游戏一样，不是吗？
 
 ;0x60B3564A=GIRL1_JB
 0x60B3564A=GIRL1_JB
 
 ;0x61B619B9=~z~He'll catch me, I know it.
-0x61B619B9=~z~He'll catch me, I know it.
+0x61B619B9=~z~他会抓住我，我懂的。
 
 ;0x623CA61A=SFX_PAUSE_160
 0x623CA61A=SFX_PAUSE_160
@@ -351,10 +351,10 @@
 0x6325F5AA=GIRL1_AAA
 
 ;0x64AB3205=~z~Come on, get over here.
-0x64AB3205=~z~Come on, get over here.
+0x64AB3205=~z~快，过来吧。
 
 ;0x65061D66=~z~Y-your dad? Look, he probably was. Okay, but, if you'll excuse me, I-I gotta go.
-0x65061D66=~z~Y-your dad? Look, he probably was. Okay, but, if you'll excuse me, I-I gotta go.
+0x65061D66=~z~你，你爸？那应该是吧。行了，不好意思，我得走了。
 
 ;0x664F355E=GIRL1_UF
 0x664F355E=GIRL1_UF
@@ -363,10 +363,10 @@
 0x66E714AA=SFX_PAUSE_170
 
 ;0x67A29E5D=~z~It didn't feel like nothing, Luis.
-0x67A29E5D=~z~It didn't feel like nothing, Luis.
+0x67A29E5D=~z~这关你事，Luis。
 
 ;0x6811C3ED=~z~Hey Margot. How - how are you? What are you doing here?
-0x6811C3ED=~z~Hey Margot. How - how are you? What are you doing here?
+0x6811C3ED=~z~嘿，Margot。你…你好吗？在这干啥呢？
 
 ;0x69071E50=292
 0x69071E50=292
@@ -378,58 +378,58 @@
 0x6AE3193B=GIRL1_FB
 
 ;0x6C3898B2=~z~Yeah, that tends to be what happens when you take a massive overdose. Shit.
-0x6C3898B2=~z~Yeah, that tends to be what happens when you take a massive overdose. Shit.
+0x6C3898B2=~z~是啊，服药过量都是这样子的。妈的。
 
 ;0x6CB2859F=GIRL1_YA
 0x6CB2859F=GIRL1_YA
 
 ;0x6CBEA684=~z~Get him. Get him!
-0x6CBEA684=~z~Get him. Get him!
+0x6CBEA684=~z~抓住他，抓住他！
 
 ;0x6DD932AC=~z~I'm going to die, and it's all your fault.
-0x6DD932AC=~z~I'm going to die, and it's all your fault.
+0x6DD932AC=~z~我要死了，这都怪你。
 
 ;0x6EC7FF1C=~z~You hadn't noticed falling in that river? You crazier than I thought.
-0x6EC7FF1C=~z~You hadn't noticed falling in that river? You crazier than I thought.
+0x6EC7FF1C=~z~你也不看看会掉到河里去吗？你真是比我想的还要疯狂。
 
 ;0x7150B8DE=~z~It's Tony, isn't it? He warned you off me.
-0x7150B8DE=~z~It's Tony, isn't it? He warned you off me.
+0x7150B8DE=~z~是Tony，对吧？是他警告你离我远点的。
 
 ;0x727C976E=SFX_PAUSE_120
 0x727C976E=SFX_PAUSE_120
 
 ;0x7481A836=~z~There's a note in my apartment that explains all about you and why I did this.
-0x7481A836=~z~There's a note in my apartment that explains all about you and why I did this.
+0x7481A836=~z~我公寓里有份文件，里面解释了咱俩为啥有这一桩子事情。
 
 ;0x74C3389E=~z~You fucking empty motherfucker!
-0x74C3389E=~z~You fucking empty motherfucker!
+0x74C3389E=~z~你他妈个行尸走肉的混蛋！
 
 ;0x74E0A211=~z~Hold on to yourself, bitch. It would be real inconvenient if you died on me.
-0x74E0A211=~z~Hold on to yourself, bitch. It would be real inconvenient if you died on me.
+0x74E0A211=~z~坚持住啊，你个臭逼。要是死在我这的话就不好办了。
 
 ;0x75ACDC5A=~z~What did she do to you?
-0x75ACDC5A=~z~What did she do to you?
+0x75ACDC5A=~z~她对你干了啥？
 
 ;0x75D1BEFD=~z~You know, my dad was right about you.
-0x75D1BEFD=~z~You know, my dad was right about you.
+0x75D1BEFD=~z~你懂的，我爸讲你讲得真对。
 
 ;0x76C661B0=GIRL1_UC
 0x76C661B0=GIRL1_UC
 
 ;0x7740C1DB=~z~No. Rejection never is personal.
-0x7740C1DB=~z~No. Rejection never is personal.
+0x7740C1DB=~z~不。拒绝从来都不是对事不对人的。
 
 ;0x779E9796=GIRL1_EB
 0x779E9796=GIRL1_EB
 
 ;0x77D4F711=~z~Rest assured I ain't coming anywhere near you. Wrap up warm now.
-0x77D4F711=~z~Rest assured I ain't coming anywhere near you. Wrap up warm now.
+0x77D4F711=~z~别想了，我不会贴上来的。自个裹紧实点。
 
 ;0x7942E386=~z~Fuck the police. Make this guy pay.
-0x7942E386=~z~Fuck the police. Make this guy pay.
+0x7942E386=~z~快他妈报警，让这家伙知道错。
 
 ;0x79CC6762=~z~Oh, hi, Luis. Wow, what a coincidence.
-0x79CC6762=~z~Oh, hi, Luis. Wow, what a coincidence.
+0x79CC6762=~z~噢，嗨，Luis。哇，好巧啊。
 
 ;0x79E059B8=SFX_PAUSE_160
 0x79E059B8=SFX_PAUSE_160
@@ -438,37 +438,37 @@
 0x7A3794AB=SFX_PAUSE_230
 
 ;0x7A723F7F=~z~No, you killed yourself, You're the selfish one here, bitch.
-0x7A723F7F=~z~No, you killed yourself, You're the selfish one here, bitch.
+0x7A723F7F=~z~不，你这是害了自己。在这点上你很自私，贱逼。
 
 ;0x7AF07146=100090010
 0x7AF07146=100090010
 
 ;0x7B3885BC=~z~Rip his empty heart out!
-0x7B3885BC=~z~Rip his empty heart out!
+0x7B3885BC=~z~把这家伙的狼心狗肺掏出来！
 
 ;0x7DA1EA8E=GIRL1_DA
 0x7DA1EA8E=GIRL1_DA
 
 ;0x7F1CC8D4=~z~Fuck! You've killed me, you thoughtless fucking asshole.
-0x7F1CC8D4=~z~Fuck! You've killed me, you thoughtless fucking asshole.
+0x7F1CC8D4=~z~操！你早把我杀了，你他妈个没头没脑的混账。
 
 ;0x7F6CBDDC=~z~Hey, don't apologize. I love keeping people from killing themselves. It's a weird fetish of mine.
-0x7F6CBDDC=~z~Hey, don't apologize. I love keeping people from killing themselves. It's a weird fetish of mine.
+0x7F6CBDDC=~z~嘿，别道歉。我只是喜欢救下自杀者。我好这口。
 
 ;0x8066D7C7=~z~~c~ You crazy bitch.
-0x8066D7C7=~z~~c~ You crazy bitch.
+0x8066D7C7=~z~~c~你这疯婊子。
 
 ;0x810AC9F6=SFX_PAUSE_250
 0x810AC9F6=SFX_PAUSE_250
 
 ;0x83319AE1=~z~Is getting your stomach pumped icky?
-0x83319AE1=~z~Is getting your stomach pumped icky?
+0x83319AE1=~z~你的肚子是不是开始翻江倒海了？
 
 ;0x8504DA33=~z~You know that? You think you're such hot shit, don't you?
-0x8504DA33=~z~You know that? You think you're such hot shit, don't you?
+0x8504DA33=~z~你懂吗？你以为自己是个大红人，对吧？
 
 ;0x89056564=~z~or naming stars after me, or whatever. It's nothing personal.
-0x89056564=~z~or naming stars after me, or whatever. It's nothing personal.
+0x89056564=~z~还是用我名字来给星星命名，或是别的。这对事不对人。
 
 ;0x89DEBA26=GIRL1_EA
 0x89DEBA26=GIRL1_EA
@@ -477,7 +477,7 @@
 0x8AB761BC=GIRL1_XA
 
 ;0x8B178733=~z~We want justice!
-0x8B178733=~z~We want justice!
+0x8B178733=~z~我们要伸张正义！
 
 ;0x8B21DFFF=SFX_PAUSE_190
 0x8B21DFFF=SFX_PAUSE_190
@@ -498,40 +498,40 @@
 0x90E3E61C=SFX_PAUSE_180
 
 ;0x90FD612D=~z~It's meant to go to the papers if I die.
-0x90FD612D=~z~It's meant to go to the papers if I die.
+0x90FD612D=~z~如果我死了，那就要上报纸。
 
 ;0x914E4188=GIRL1_VC
 0x914E4188=GIRL1_VC
 
 ;0x915261DB=~z~Perfect. I can't wait to be demonised in the press. Now I got another reason to save your ass.
-0x915261DB=~z~Perfect. I can't wait to be demonised in the press. Now I got another reason to save your ass.
+0x915261DB=~z~太对了。我等不及要被媒体妖魔化地报道了。现在我又有别的理由来救你了。
 
 ;0x9230FB5B=~z~I'll be dead soon. Either get me to the hospital or I'm dead.
-0x9230FB5B=~z~I'll be dead soon. Either get me to the hospital or I'm dead.
+0x9230FB5B=~z~我快不行了。要么上医院，要么就撂这了。
 
 ;0x974A7EBE=~z~You're pathetic.
-0x974A7EBE=~z~You're pathetic.
+0x974A7EBE=~z~你真可悲。
 
 ;0x976E11FF=GIRL1_UG
 0x976E11FF=GIRL1_UG
 
 ;0x97710B36=~z~What's wrong with me, Luis? At least tell me why I'm not good enough for you.
-0x97710B36=~z~What's wrong with me, Luis? At least tell me why I'm not good enough for you.
+0x97710B36=~z~我咋了，Luis？至少告诉我我为啥不够好配不上你啊。
 
 ;0x982B7D5D=~z~I can't believe he killed her!
-0x982B7D5D=~z~I can't believe he killed her!
+0x982B7D5D=~z~真不敢相信他把她杀了！
 
 ;0x9A6855EC=GIRL1_LB
 0x9A6855EC=GIRL1_LB
 
 ;0x9ABB88D0=~z~or sky writing my name,
-0x9ABB88D0=~z~or sky writing my name,
+0x9ABB88D0=~z~还是用飞机在天上写我名字，
 
 ;0x9AE80C20=~z~Be strong, Margot.
-0x9AE80C20=~z~Be strong, Margot.
+0x9AE80C20=~z~坚强点，Margot。
 
 ;0x9B1F6E8E=~z~I'm slipping away. Hold me, Luis.
-0x9B1F6E8E=~z~I'm slipping away. Hold me, Luis.
+0x9B1F6E8E=~z~我要滑倒了，抱住我，Luis。
 
 ;0x9C6DF69D=100090010
 0x9C6DF69D=100090010
@@ -549,10 +549,10 @@
 0x9E55569F=GIRL1_IB
 
 ;0x9EA52B11=~z~I love you.
-0x9EA52B11=~z~I love you.
+0x9EA52B11=~z~我爱你。
 
 ;0x9F02AF09=~z~You can't get away with that shit.
-0x9F02AF09=~z~You can't get away with that shit.
+0x9F02AF09=~z~带着这玩意你跑不掉。
 
 ;0x9F070CBE=100090010
 0x9F070CBE=100090010
@@ -561,10 +561,10 @@
 0x9FCBE6D8=SFX_PAUSE_290
 
 ;0xA05496ED=~z~Where is he?
-0xA05496ED=~z~Where is he?
+0xA05496ED=~z~他在哪？
 
 ;0xA1292B00=~z~I've got a letter,
-0xA1292B00=~z~I've got a letter,
+0xA1292B00=~z~我这有封信，
 
 ;0xA1930E2A=GIRL1_MC
 0xA1930E2A=GIRL1_MC
@@ -573,7 +573,7 @@
 0xA1C4499D=100090010
 
 ;0xA3D0DC1F=~z~Shit!
-0xA3D0DC1F=~z~Shit!
+0xA3D0DC1F=~z~妈的！
 
 ;0xA5593491=SFX_PAUSE_360
 0xA5593491=SFX_PAUSE_360
@@ -585,16 +585,16 @@
 0xA5BC9095=GIRL1_TA
 
 ;0xA5D62ADB=~z~I'm taking you to shore
-0xA5D62ADB=~z~I'm taking you to shore
+0xA5D62ADB=~z~我要带你去海滩
 
 ;0xA6236DCA=~z~We ain't having kids, Margot. I'm dropping you over there and then I ain't seeing you ever again.
-0xA6236DCA=~z~We ain't having kids, Margot. I'm dropping you over there and then I ain't seeing you ever again.
+0xA6236DCA=~z~咱没有孩子，Margot。送你到那，咱就再也不见了。
 
 ;0xA686235C=~z~I know he'll come.
-0xA686235C=~z~I know he'll come.
+0xA686235C=~z~我知道他会来的。
 
 ;0xA6A62445=~z~You can't. I'm going to die.
-0xA6A62445=~z~You can't. I'm going to die.
+0xA6A62445=~z~你不能。我要死了。
 
 ;0xA8612366=302
 0xA8612366=302
@@ -603,85 +603,85 @@
 0xA884907D=100090010
 
 ;0xAA6AA4FE=~z~It's... It was a long time ago. I mean, it's time to move on.
-0xAA6AA4FE=~z~It's... It was a long time ago. I mean, it's time to move on.
+0xAA6AA4FE=~z~那…那是很久以前的了。我意思是，该放眼未来了。
 
 ;0xAC8D2C73=~z~And no matter how many letters you send me, or chocolate bunnies,
-0xAC8D2C73=~z~And no matter how many letters you send me, or chocolate bunnies,
+0xAC8D2C73=~z~不管你给我寄多少封信，还是寄巧克力兔子，
 
 ;0xAEF34690=~z~Save me!
-0xAEF34690=~z~Save me!
+0xAEF34690=~z~救救我！
 
 ;0xB0AFACF7=190
 0xB0AFACF7=190
 
 ;0xB0F18909=~z~Luis! Luis!
-0xB0F18909=~z~Luis! Luis!
+0xB0F18909=~z~Luis！ Luis！
 
 ;0xB217C530=~z~Of course I care. I don't want no one killing themselves.
-0xB217C530=~z~Of course I care. I don't want no one killing themselves.
+0xB217C530=~z~我当然在乎。我不想任何人了断自己。
 
 ;0xB3C92698=~z~You don't care about anyone. You're a shell.
-0xB3C92698=~z~You don't care about anyone. You're a shell.
+0xB3C92698=~z~你不在乎别人。你空有一副躯壳。
 
 ;0xB4FA7E72=~z~Oh fuck. I thought I'd just pass out.
-0xB4FA7E72=~z~Oh fuck. I thought I'd just pass out.
+0xB4FA7E72=~z~哦操，我以为我要晕过去了。
 
 ;0xB535F895=SFX_PAUSE_210
 0xB535F895=SFX_PAUSE_210
 
 ;0xB6C9C3D3=~z~Tone don't even know you exist. Breaking things off was my own good judgement.
-0xB6C9C3D3=~z~Tone don't even know you exist. Breaking things off was my own good judgement.
+0xB6C9C3D3=~z~Tone都不知道有你这个人。咱一刀两断都是我自己好好思考过的。
 
 ;0xB765C51B=~z~This will show him.
-0xB765C51B=~z~This will show him.
+0xB765C51B=~z~他会看到的。
 
 ;0xB8D45707=GIRL1_UH
 0xB8D45707=GIRL1_UH
 
 ;0xB97449E1=~z~ I just took 37 painkillers and 15 sleeping pills.
-0xB97449E1=~z~ I just took 37 painkillers and 15 sleeping pills.
+0xB97449E1=~z~我刚刚吞下37片止痛药和15片安眠药。
 
 ;0xBA477941=492
 0xBA477941=492
 
 ;0xBC96E1DB=~z~If you loved me, you'd save me.
-0xBC96E1DB=~z~If you loved me, you'd save me.
+0xBC96E1DB=~z~你要是爱我的话，就会救我。
 
 ;0xBCA8C97A=~z~What's time got to do with anything?
-0xBCA8C97A=~z~What's time got to do with anything?
+0xBCA8C97A=~z~时间跟啥有关？
 
 ;0xBD1D6001=GIRL1_SB
 0xBD1D6001=GIRL1_SB
 
 ;0xBF47A5B5=~z~I knew you'd save me.
-0xBF47A5B5=~z~I knew you'd save me.
+0xBF47A5B5=~z~我就知道你会救我的。
 
 ;0xBFB54B7D=SFX_PAUSE_290
 0xBFB54B7D=SFX_PAUSE_290
 
 ;0xC004D91D=~z~I'm sorry, Luis.
-0xC004D91D=~z~I'm sorry, Luis.
+0xC004D91D=~z~对不起，Luis。
 
 ;0xC0595619=010
 0xC0595619=010
 
 ;0xC0C3F28B=~z~Yo, string him up!'
-0xC0C3F28B=~z~Yo, string him up!'
+0xC0C3F28B=~z~哟，把他绑起来！
 
 ;0xC1DE530F=GIRL1_HA
 0xC1DE530F=GIRL1_HA
 
 ;0xC222F20C=~z~I see enough bulimic bitches at the club, Margot. You on your own.
-0xC222F20C=~z~I see enough bulimic bitches at the club, Margot. You on your own.
+0xC222F20C=~z~我看到俱乐部里有好多饥渴难耐的骚逼，Margot。就你一个人吗？
 
 ;0xC2574714=~z~I don't want to marry someone who is a complete psychopath.
-0xC2574714=~z~I don't want to marry someone who is a complete psychopath.
+0xC2574714=~z~我可不想娶一个十足的神经病。
 
 ;0xC38B0040=~z~Oh god.
-0xC38B0040=~z~Oh god.
+0xC38B0040=~z~哦天哪。
 
 ;0xC3EAD4CF=~z~He killed her. Get him.
-0xC3EAD4CF=~z~He killed her. Get him.
+0xC3EAD4CF=~z~他把她杀了。抓住他。
 
 ;0xC52AA818=SFX_PAUSE_240
 0xC52AA818=SFX_PAUSE_240
@@ -699,13 +699,13 @@
 0xC9872E2A=SFX_PAUSE_270
 
 ;0xC9A102D4=~z~Are you going to start taking me seriously now?
-0xC9A102D4=~z~Are you going to start taking me seriously now?
+0xC9A102D4=~z~你现在终于要对我上心了吗？
 
 ;0xC9ECE2F0=~z~Can you just understand that what we had was nothing. Shit.
-0xC9ECE2F0=~z~Can you just understand that what we had was nothing. Shit.
+0xC9ECE2F0=~z~你明不明白咱俩是成不了的？妈的。
 
 ;0xCB12ED1E=~z~There. There's the bottle.
-0xCB12ED1E=~z~There. There's the bottle.
+0xCB12ED1E=~z~这。瓶子在这。
 
 ;0xCB730C84=SFX_PAUSE_170
 0xCB730C84=SFX_PAUSE_170
@@ -714,13 +714,13 @@
 0xCBDD468E=GIRL1_PC
 
 ;0xCC8C403E=~z~You really do love me.
-0xCC8C403E=~z~You really do love me.
+0xCC8C403E=~z~你是真的爱我。
 
 ;0xCF0D9D89=102
 0xCF0D9D89=102
 
 ;0xCFAC6F81=~z~it - it was over a year ago.
-0xCFAC6F81=~z~it - it was over a year ago.
+0xCFAC6F81=~z~这，这都一年多了。
 
 ;0xD0F50A10=SFX_PAUSE_210
 0xD0F50A10=SFX_PAUSE_210
@@ -729,16 +729,16 @@
 0xD122B4C5=GIRL1_MB
 
 ;0xD22D7D6E=~z~How?
-0xD22D7D6E=~z~How?
+0xD22D7D6E=~z~那又怎样？
 
 ;0xD4260167=~z~Oh, Jesus, Margot.
-0xD4260167=~z~Oh, Jesus, Margot.
+0xD4260167=~z~哦，天哪，Margot。
 
 ;0xD45801C3=~z~When you suddenly decided the view was better from there?
-0xD45801C3=~z~When you suddenly decided the view was better from there?
+0xD45801C3=~z~你啥时候觉得那里的风景更好的？
 
 ;0xD584A433=~z~Luis.
-0xD584A433=~z~Luis.
+0xD584A433=~z~Luis。
 
 ;0xD64FD469=100090010
 0xD64FD469=100090010
@@ -747,16 +747,16 @@
 0xD9B305F4=GIRL1_VB
 
 ;0xDA781C06=~z~How can you be so nice one second and mean the next. You're sending mixed signals.
-0xDA781C06=~z~How can you be so nice one second and mean the next. You're sending mixed signals.
+0xDA781C06=~z~刚刚还好好的，怎么就变卦了，你真让人捉摸不透。
 
 ;0xDED39FA9=SFX_PAUSE_230
 0xDED39FA9=SFX_PAUSE_230
 
 ;0xDF6FFDE5=~z~Either that, or I'd think I was.
-0xDF6FFDE5=~z~Either that, or I'd think I was.
+0xDF6FFDE5=~z~要不那样，要不就我这样。
 
 ;0xE0059037=~z~No. Listen, Margot, you're a nice girl, and it was nice hooking up with you, but
-0xE0059037=~z~No. Listen, Margot, you're a nice girl, and it was nice hooking up with you, but
+0xE0059037=~z~不。听着，Margot，你是个好人，认识你也很荣幸，但是
 
 ;0xE27513F5=100090010090010
 0xE27513F5=100090010090010
@@ -765,16 +765,16 @@
 0xE5BD5894=SFX_PAUSE_330
 
 ;0xE62DA56E=~z~Yes.
-0xE62DA56E=~z~Yes.
+0xE62DA56E=~z~对。
 
 ;0xE64ED631=~z~Now you starting to understand. Thank you!
-0xE64ED631=~z~Now you starting to understand. Thank you!
+0xE64ED631=~z~你现在才开始明白啊。谢谢您嘞！
 
 ;0xE6570F13=~z~When I die, people will blame you.
-0xE6570F13=~z~When I die, people will blame you.
+0xE6570F13=~z~我死了的话，人们就会怪罪到你头上。
 
 ;0xE677A60A=~z~Hey Luis.
-0xE677A60A=~z~Hey Luis.
+0xE677A60A=~z~嘿Luis。
 
 ;0xE6AE1DCE=SFX_PAUSE_260
 0xE6AE1DCE=SFX_PAUSE_260
@@ -783,10 +783,10 @@
 0xE752F0BC=SFX_PAUSE_250
 
 ;0xE7B9433E=~z~Fucking rude.
-0xE7B9433E=~z~Fucking rude.
+0xE7B9433E=~z~真他妈没礼貌。
 
 ;0xE863DD7D=~z~He pushed her. I saw it.
-0xE863DD7D=~z~He pushed her. I saw it.
+0xE863DD7D=~z~他把她推下去了。我看见了。
 
 ;0xEA9D12C5=GIRL1_MA
 0xEA9D12C5=GIRL1_MA
@@ -795,79 +795,79 @@
 0xECC6067B=GIRL1_PD
 
 ;0xECFD9900=~z~You're not crazy, Luis. You're empty.
-0xECFD9900=~z~You're not crazy, Luis. You're empty.
+0xECFD9900=~z~你没疯，Luis。你只是个行尸走肉。
 
 ;0xED4B0889=SFX_OVERLAP_2820
 0xED4B0889=SFX_OVERLAP_2820
 
 ;0xEDF7030F=~z~You came, baby.
-0xEDF7030F=~z~You came, baby.
+0xEDF7030F=~z~来吧，宝贝。
 
 ;0xEEEE9A80=SFX_PAUSE_220
 0xEEEE9A80=SFX_PAUSE_220
 
 ;0xEFBA2AD4=~z~The only thing going near that mouth is the tube for the stomach pump.
-0xEFBA2AD4=~z~The only thing going near that mouth is the tube for the stomach pump.
+0xEFBA2AD4=~z~能亲你的只有洗胃管。
 
 ;0xF010318A=SFX_PAUSE_200
 0xF010318A=SFX_PAUSE_200
 
 ;0xF04722F3=~z~Okay? Maybe I'm empty, like you said. Or maybe, like pretty much every man alive,
-0xF04722F3=~z~Okay? Maybe I'm empty, like you said. Or maybe, like pretty much every man alive,
+0xF04722F3=~z~好吗？像你说的，也许我是个行尸走肉，但也许，像大多数活着的人一样，
 
 ;0xF2648997=GIRL1_VH
 0xF2648997=GIRL1_VH
 
 ;0xF31E3668=~z~The flowers?
-0xF31E3668=~z~The flowers?
+0xF31E3668=~z~那花呢？
 
 ;0xF34C9DD3=100090010090010
 0xF34C9DD3=100090010090010
 
 ;0xF39108B0=~z~Oh really? I hadn't noticed.
-0xF39108B0=~z~Oh really? I hadn't noticed.
+0xF39108B0=~z~噢，真的？我没注意过。
 
 ;0xF4D87DDC=~z~I never made no promises to you. You need to forget about me.
-0xF4D87DDC=~z~I never made no promises to you. You need to forget about me.
+0xF4D87DDC=~z~我可没跟你保证过。你得把我忘了。
 
 ;0xF529ACA8=010
 0xF529ACA8=010
 
 ;0xF631395B=~z~He's a god damn murderer!
-0xF631395B=~z~He's a god damn murderer!
+0xF631395B=~z~这天杀玩意是个杀人犯！
 
 ;0xF71E8B4F=010090100090010090100090010090010100090010
 0xF71E8B4F=010090100090010090100090010090010100090010
 
 ;0xF7C4C89C=~z~Don't tell me you were just passing through.
-0xF7C4C89C=~z~Don't tell me you were just passing through.
+0xF7C4C89C=~z~别告诉我你只是路过。
 
 ;0xF7E182D1=~z~You going to hospital, you idiot. Shit.
-0xF7E182D1=~z~You going to hospital, you idiot. Shit.
+0xF7E182D1=~z~该去医院了，你个傻逼。妈的。
 
 ;0xF8BDDAA6=~z~I think I can feel my heart breaking, baby.
-0xF8BDDAA6=~z~I think I can feel my heart breaking, baby.
+0xF8BDDAA6=~z~我想我能感受到我的心碎，宝贝。
 
 ;0xF9B001E5=SFX_PAIUSE_160
 0xF9B001E5=SFX_PAIUSE_160
 
 ;0xFA456DB4=~z~Where is he?
-0xFA456DB4=~z~Where is he?
+0xFA456DB4=~z~他在哪？
 
 ;0xFA9B1B20=GIRL1_VG
 0xFA9B1B20=GIRL1_VG
 
 ;0xFAC7D4BD=~z~I'll get you to dry land.
-0xFAC7D4BD=~z~I'll get you to dry land.
+0xFAC7D4BD=~z~我把你拉上岸来。
 
 ;0xFAF4B4EE=~z~thinking of me as being crazy. It must help.
-0xFAF4B4EE=~z~thinking of me as being crazy. It must help.
+0xFAF4B4EE=~z~想象我成发疯的吧。这肯定奏效。
 
 ;0xFAF856A3=GIRL1_CA
 0xFAF856A3=GIRL1_CA
 
 ;0xFC15C38B=~z~Kiss me, baby.
-0xFC15C38B=~z~Kiss me, baby.
+0xFC15C38B=~z~亲亲我，宝贝。
 
 ;0xFD1DEA15=GIRL1_UE
 0xFD1DEA15=GIRL1_UE
@@ -879,5 +879,5 @@
 0xFF106502=GIRL1_SA
 
 ;0xFF1D517E=~z~No. I'm more like cold shit.
-0xFF1D517E=~z~No. I'm more like cold shit.
+0xFF1D517E=~z~不。我更像是个高冷的人。
 

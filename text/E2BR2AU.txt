@@ -1,30 +1,30 @@
 ﻿[E2BR2AU]
 ;0x00754A1D=~z~Man, you got to love interns. Those fucks'll do anything.
-0x00754A1D=~z~Man, you got to love interns. Those fucks'll do anything.
+0x00754A1D=~z~哥们，这波练手你会喜欢上的。那帮混蛋啥事都干得出来。
 
 ;0x012ED3C0=~z~Bring it bro.
-0x012ED3C0=~z~Bring it bro.
+0x012ED3C0=~z~带我一个，兄弟。
 
 ;0x033D4F98=~z~Good for you, Tiny. So, umm, do we got to see each other again?
-0x033D4F98=~z~Good for you, Tiny. So, umm, do we got to see each other again?
+0x033D4F98=~z~你开心就好，小可爱。那么，呃，我们还会再见吗？
 
 ;0x0345EC5E=SFX_PAUSE_170
 0x0345EC5E=SFX_PAUSE_170
 
 ;0x0372410E=~z~Let me win. Come on.
-0x0372410E=~z~Let me win. Come on.
+0x0372410E=~z~快点，让我赢吧。
 
 ;0x049003DE=SFX_PAUSE_310
 0x049003DE=SFX_PAUSE_310
 
 ;0x05C841E7=~z~Kiss my orange ass.
-0x05C841E7=~z~Kiss my orange ass.
+0x05C841E7=~z~你吃屁吧。
 
 ;0x0749E1DF=011
 0x0749E1DF=011
 
 ;0x078221FF=~z~It's Mori's friend.
-0x078221FF=~z~It's Mori's friend.
+0x078221FF=~z~这是Mori的朋友。
 
 ;0x07DA84D9=100090100090010100090100100090010090100100090010
 0x07DA84D9=100090100090010100090100100090010090100100090010
@@ -39,7 +39,7 @@
 0x083E49E4=E2BR2_GA
 
 ;0x097B3AE7=~z~Calculated risk. What are you gonna do?
-0x097B3AE7=~z~Calculated risk. What are you gonna do?
+0x097B3AE7=~z~你算算看风险，是你的话你会怎么做？
 
 ;0x0B01944C=SFX_PAUSE_170
 0x0B01944C=SFX_PAUSE_170
@@ -57,13 +57,13 @@
 0x0CC3D52F=E2BR2_GB
 
 ;0x0F021778=~z~Maybe that's because I had a brother as pathetic as little B,
-0x0F021778=~z~Maybe that's because I had a brother as pathetic as little B,
+0x0F021778=~z~也许是因为我有个像小Brucie一样可怜的兄弟，
 
 ;0x10B55B60=SFX_PAUSE_190
 0x10B55B60=SFX_PAUSE_190
 
 ;0x12AC17CE=~z~Oh, Luis. You're gonna get your ass handed to you, you bitch.
-0x12AC17CE=~z~Oh, Luis. You're gonna get your ass handed to you, you bitch.
+0x12AC17CE=~z~噢Luis，你得把你自己控制好了，你个骚逼。
 
 ;0x14831A43=291291090291090291
 0x14831A43=291291090291090291
@@ -84,31 +84,31 @@
 0x16DA1BDF=SFX_PAUSE_130
 
 ;0x16DD9AC7=~z~I'm racing an orange midget. Why wouldn't I be ready?
-0x16DD9AC7=~z~I'm racing an orange midget. Why wouldn't I be ready?
+0x16DD9AC7=~z~我跟个黄皮矮子比赛。还能没准备好吗？
 
 ;0x17576D92=~z~Oooh! My jackhammer would crush the shit outta you, bitch.
-0x17576D92=~z~Oooh! My jackhammer would crush the shit outta you, bitch.
+0x17576D92=~z~哦！我的气锤已经把那废物打爆了，狗子。
 
 ;0x17A113FF=E2BR2_EH
 0x17A113FF=E2BR2_EH
 
 ;0x18238421=~z~I got into two. Come on, let's get outta here.
-0x18238421=~z~I got into two. Come on, let's get outta here.
+0x18238421=~z~而是两所。来吧，咱们走。
 
 ;0x1BCB2287=~z~The first person to make it to the finish in Middle Park is the winner.
-0x1BCB2287=~z~The first person to make it to the finish in Middle Park is the winner.
+0x1BCB2287=~z~胜利者是第一个到达Middle Park的人。
 
 ;0x1BF52A60=~z~Ho! I never thought hustling you was gonna be this easy, Lopez.
-0x1BF52A60=~z~Ho! I never thought hustling you was gonna be this easy, Lopez.
+0x1BF52A60=~z~嚯！我从没想过赶上你会这么简单，Lopez。
 
 ;0x1D6F6E4F=E2BR2_DD
 0x1D6F6E4F=E2BR2_DD
 
 ;0x1D911F6F=~z~Saving one last job I need help with, I'll let you off all your contractual obligations.
-0x1D911F6F=~z~Saving one last job I need help with, I'll let you off all your contractual obligations.
+0x1D911F6F=~z~你再帮我最后一件事情，我就把你欠的债一笔勾销。
 
 ;0x20487462=~z~3!
-0x20487462=~z~3!
+0x20487462=~z~3！
 
 ;0x2259A6FC=E2BR2_EI
 0x2259A6FC=E2BR2_EI
@@ -126,16 +126,16 @@
 0x28D0B6E5=SFX_PAUSE_220
 
 ;0x2A61A89D=~z~Little thicko never went to college... I never got into an Ivy League school.
-0x2A61A89D=~z~Little thicko never went to college... I never got into an Ivy League school.
+0x2A61A89D=~z~小笨蛋没上过大学……我没上过一所常春藤的高校，
 
 ;0x2BF3BC3F=SFX_PAUSE_170
 0x2BF3BC3F=SFX_PAUSE_170
 
 ;0x2D61B7D8=~z~Hey, here's to that.
-0x2D61B7D8=~z~Hey, here's to that.
+0x2D61B7D8=~z~嘿，来吧。
 
 ;0x2E658157=~z~It's Luis, bro.
-0x2E658157=~z~It's Luis, bro.
+0x2E658157=~z~是Luis，兄弟。
 
 ;0x2E715B48=101
 0x2E715B48=101
@@ -150,10 +150,10 @@
 0x2FB64B43=SFX_PAUSE_130
 
 ;0x300E0596=~z~Ahh, you'll be my bitch for life after this, Louie.
-0x300E0596=~z~Ahh, you'll be my bitch for life after this, Louie.
+0x300E0596=~z~啊哈，从此以后你这辈子就是我的一条狗了，Louie。
 
 ;0x35810CC6=~z~Maybe they couldn't get the seat up high enough to bring your head into shot.
-0x35810CC6=~z~Maybe they couldn't get the seat up high enough to bring your head into shot.
+0x35810CC6=~z~也许是他们不够格带你上报纸。
 
 ;0x35C0AB0A=SFX_PAUSE_190
 0x35C0AB0A=SFX_PAUSE_190
@@ -162,34 +162,34 @@
 0x361B665E=091
 
 ;0x364FB5D1=~z~Oh well we agree on something at least?
-0x364FB5D1=~z~Oh well we agree on something at least?
+0x364FB5D1=~z~哦，好吧，至少我们得达成些共识吧？
 
 ;0x388844E2=~z~Hey Lou! Come on in.. hang on one second...
-0x388844E2=~z~Hey Lou! Come on in.. hang on one second...
+0x388844E2=~z~嘿Lou！快进来吧……等一下……
 
 ;0x38F3D634=~z~You win and I forget about the dollars I'm owed.
-0x38F3D634=~z~You win and I forget about the dollars I'm owed.
+0x38F3D634=~z~你赢的话，我就把你欠我的钱从记忆里抹掉。
 
 ;0x3AEB5973=SFX_PAUSE_170
 0x3AEB5973=SFX_PAUSE_170
 
 ;0x3B9FB622=~z~I ain't having no monster measuring contest, bro. I keep telling you I ain't into that creepy shit.
-0x3B9FB622=~z~I ain't having no monster measuring contest, bro. I keep telling you I ain't into that creepy shit.
+0x3B9FB622=~z~我不弄什么怪人的事情了，兄弟。我一直跟你说的我不掺和这些鬼事情。
 
 ;0x3DD0A11B=~z~I'm unstoppable, bitch.
-0x3DD0A11B=~z~I'm unstoppable, bitch.
+0x3DD0A11B=~z~我不会停下来的，贱货。
 
 ;0x3EA3E568=E2BR2_EF
 0x3EA3E568=E2BR2_EF
 
 ;0x3ED85167=~z~Them little legs of yours ain't gonna carry you too fast.
-0x3ED85167=~z~Them little legs of yours ain't gonna carry you too fast.
+0x3ED85167=~z~你那小细腿让你跑不快的。
 
 ;0x403768B9=E2BR2_PD
 0x403768B9=E2BR2_PD
 
 ;0x40A025CC=~z~It'll be Little Louise if I want it to be, you still owe me money, so you're still my bitch.
-0x40A025CC=~z~It'll be Little Louise if I want it to be, you still owe me money, so you're still my bitch.
+0x40A025CC=~z~我想怎么叫你就怎么叫，小Louise。你还欠我钱，所以你还是我的一条狗。
 
 ;0x415DE0F8=SFX_PAUSE_190
 0x415DE0F8=SFX_PAUSE_190
@@ -207,7 +207,7 @@
 0x45835A58=E2BR2_VF
 
 ;0x45EE54F5=~z~Ouch, man. That's got to be an expensive race for you.
-0x45EE54F5=~z~Ouch, man. That's got to be an expensive race for you.
+0x45EE54F5=~z~哦，哥们，今天这比赛看来你挺赚啊。
 
 ;0x45FF5EB6=E2BR2_BC
 0x45FF5EB6=E2BR2_BC
@@ -216,7 +216,7 @@
 0x46C0ECD6=E2BR2_EB
 
 ;0x4936FD5E=~z~Are you ready?
-0x4936FD5E=~z~Are you ready?
+0x4936FD5E=~z~你准备好没？
 
 ;0x4A308569=SFX_PAUSE_180
 0x4A308569=SFX_PAUSE_180
@@ -228,19 +228,19 @@
 0x4D6E841D=SFX_PAUSE_190
 
 ;0x4EE25EAE=~z~Oh sure. Sure. Don't you ever get tired a that shit? That muscle bound fag hag routine?
-0x4EE25EAE=~z~Oh sure. Sure. Don't you ever get tired a that shit? That muscle bound fag hag routine?
+0x4EE25EAE=~z~噢，是吧，是吧。和那个四肢发达的基佬做那些破事你不累吗？ 
 
 ;0x4FC0187C=~z~Get us to the heliport near Fishmarket South.
-0x4FC0187C=~z~Get us to the heliport near Fishmarket South.
+0x4FC0187C=~z~带咱们去Fishmarket South附近的停机坪。
 
 ;0x503FD01C=E2BR2_HE
 0x503FD01C=E2BR2_HE
 
 ;0x51D0482C=~z~So I got a proposition for you, Louie.
-0x51D0482C=~z~So I got a proposition for you, Louie.
+0x51D0482C=~z~是这样，Louie，我有个任务给你。
 
 ;0x521CC5FD=~z~How's that business of yours? I been looking in them financial papers and I ain't been seeing your face.
-0x521CC5FD=~z~How's that business of yours? I been looking in them financial papers and I ain't been seeing your face.
+0x521CC5FD=~z~你那笔生意咋样了？我没在经济报纸上看到你的脸啊。
 
 ;0x533174D4=SFX_PAUSE_190
 0x533174D4=SFX_PAUSE_190
@@ -249,19 +249,19 @@
 0x549604A5=SFX_PAUSE_220
 
 ;0x55437E3D=~z~We gonna give a headstart to those under four feet?
-0x55437E3D=~z~We gonna give a headstart to those under four feet?
+0x55437E3D=~z~四英尺之下我们要领先一波吗？
 
 ;0x56A85AC7=SFX_PAUSE_160
 0x56A85AC7=SFX_PAUSE_160
 
 ;0x5804A24D=~z~Alright, bro, I gave my word.
-0x5804A24D=~z~Alright, bro, I gave my word.
+0x5804A24D=~z~行吧，兄弟。我保证。
 
 ;0x588B0B2F=E2BR2_IF
 0x588B0B2F=E2BR2_IF
 
 ;0x59D8D92B=~z~Oh yeah, I'm the shit.
-0x59D8D92B=~z~Oh yeah, I'm the shit.
+0x59D8D92B=~z~噢耶，我赢了。
 
 ;0x5A97A087=SFX_PAUSE_160
 0x5A97A087=SFX_PAUSE_160
@@ -276,10 +276,10 @@
 0x5DDEBC1A=E2BR2_HA
 
 ;0x5E7335E2=~z~Take us over the bridge and to the heliport.
-0x5E7335E2=~z~Take us over the bridge and to the heliport.
+0x5E7335E2=~z~带我们过桥然后去停机坪吧。
 
 ;0x5EC17C65=~z~Now listen to me, I got a wager.
-0x5EC17C65=~z~Now listen to me, I got a wager.
+0x5EC17C65=~z~现在听我说，我跟你打个赌。
 
 ;0x616425E3=SFX_PAUSE_360
 0x616425E3=SFX_PAUSE_360
@@ -291,16 +291,16 @@
 0x630F8377=SFX_PAUSE_120
 
 ;0x6932CBD8=~z~or maybe it is because I am the S-H-I-T, bitch!
-0x6932CBD8=~z~or maybe it is because I am the S-H-I-T, bitch!
+0x6932CBD8=~z~或者也许我就他妈的是—个—贱—货！
 
 ;0x6A360331=SFX_PAUSE_210
 0x6A360331=SFX_PAUSE_210
 
 ;0x6A967AA6=~z~I'm the daddy. I'm the daddy. Oh, I'm the daddy.
-0x6A967AA6=~z~I'm the daddy. I'm the daddy. Oh, I'm the daddy.
+0x6A967AA6=~z~我才是爸爸。我才是爸爸。哦，我才是爸爸。
 
 ;0x6B5C17A1=~z~Working with Tone? You must be joking, man. Even jail would be a vacation in comparison to hanging with you.
-0x6B5C17A1=~z~Working with Tone? You must be joking, man. Even jail would be a vacation in comparison to hanging with you.
+0x6B5C17A1=~z~我是在和Tone工作！你在搞笑吧，哥们。这么一对比起来，跟你在这干活干到断气，蹲监狱都算是放假了。
 
 ;0x6CE2F70C=SFX_PAUSE_190
 0x6CE2F70C=SFX_PAUSE_190
@@ -309,7 +309,7 @@
 0x6DB647DC=SFX_PAUSE_150
 
 ;0x6F239873=~z~Stay away from me.
-0x6F239873=~z~Stay away from me.
+0x6F239873=~z~离我远点。
 
 ;0x6FD448C5=E2BR2_FA
 0x6FD448C5=E2BR2_FA
@@ -339,7 +339,7 @@
 0x7E522A89=E2BR2_FC
 
 ;0x802D64CE=~z~Enough of this bullshit, Lou. How about a wager?
-0x802D64CE=~z~Enough of this bullshit, Lou. How about a wager?
+0x802D64CE=~z~扯淡扯够了，Lou。来赌一把怎么样？
 
 ;0x803637DF=010090010090100090100010
 0x803637DF=010090010090100090100010
@@ -348,7 +348,7 @@
 0x80D7A76E=E2BR2_DB
 
 ;0x81F7CD20=~z~Oh yeah! Marketing associates, publicity, entertainment - we never pay a buck for those people.
-0x81F7CD20=~z~Oh yeah! Marketing associates, publicity, entertainment - we never pay a buck for those people.
+0x81F7CD20=~z~哦是吗，市场营销学，传播学，办活动——我们从未报复过那些人。
 
 ;0x828C72F0=E2BR2_VC
 0x828C72F0=E2BR2_VC
@@ -357,7 +357,7 @@
 0x8532F02D=E2BR2_EG
 
 ;0x85A630C5=~z~I own this shit!
-0x85A630C5=~z~I own this shit!
+0x85A630C5=~z~我主宰比赛了！
 
 ;0x891204BE=100090010100090100
 0x891204BE=100090010100090100
@@ -369,19 +369,19 @@
 0x8CBF0CA0=E2BR2_IJ
 
 ;0x8D813CB5=~z~Not really, bro. Being around people you want to kill. That shit gets confusing, Mori.
-0x8D813CB5=~z~Not really, bro. Being around people you want to kill. That shit gets confusing, Mori.
+0x8D813CB5=~z~不是这样的，兄弟。跟着你想杀的人混才是真的让人困惑，Mori。
 
 ;0x8D83FD18=~z~All or nothing, eh? Heavenly peace or a lifetime of being tortured by some hellish imp?
-0x8D83FD18=~z~All or nothing, eh? Heavenly peace or a lifetime of being tortured by some hellish imp?
+0x8D83FD18=~z~一笔勾销或者是一无所有，对吧？天堂般的宁静或者是小鬼来折磨？
 
 ;0x8F0851F0=~z~Go!
-0x8F0851F0=~z~Go!
+0x8F0851F0=~z~上！
 
 ;0x91177F46=~z~Yeah, you shit alright.
-0x91177F46=~z~Yeah, you shit alright.
+0x91177F46=~z~是啊，你是真的贱。
 
 ;0x93B24CDD=~z~You're gonna get left in the dust, you big lug.
-0x93B24CDD=~z~You're gonna get left in the dust, you big lug.
+0x93B24CDD=~z~你就在后面吃灰吧，大块头。
 
 ;0x94D877AD=SFX_PAUSE_160
 0x94D877AD=SFX_PAUSE_160
@@ -393,7 +393,7 @@
 0x96EFFF40=E2BR2_IA
 
 ;0x97AF5111=~z~Chill the fuck out. Being around all those gay dudes all day must get confusing, I understand.
-0x97AF5111=~z~Chill the fuck out. Being around all those gay dudes all day must get confusing, I understand.
+0x97AF5111=~z~你妈的淡定点吧。一天天的跟着这帮基佬混，搞得我人都傻了，我懂的。
 
 ;0x97D0D904=SFX_PAUSE_160
 0x97D0D904=SFX_PAUSE_160
@@ -402,10 +402,10 @@
 0x980D8437=SFX_PAUSE_180
 
 ;0x983E81E1=~z~An extreme race around the city. Air, more air, water, land, it's got it all.
-0x983E81E1=~z~An extreme race around the city. Air, more air, water, land, it's got it all.
+0x983E81E1=~z~来场绕城大赛，海陆空一起上。
 
 ;0x994003F0=~z~Shit, that's heavy man. But maybe losing everything is about worth it to not see you again. What we betting on?
-0x994003F0=~z~Shit, that's heavy man. But maybe losing everything is about worth it to not see you again. What we betting on?
+0x994003F0=~z~操，这也太难了吧，哥们。但是也许败光身家比不跟你打照面赚多了。咱们赌啥？
 
 ;0x99B39E00=E2BR2_PC
 0x99B39E00=E2BR2_PC
@@ -417,13 +417,13 @@
 0x9E9E61C3=SFX_PAUSE_210
 
 ;0x9EC80B2A=~z~Fuck yeah!
-0x9EC80B2A=~z~Fuck yeah!
+0x9EC80B2A=~z~当然了！
 
 ;0x9EFF38D0=E2BR2_IG
 0x9EFF38D0=E2BR2_IG
 
 ;0x9FC8B96F=~z~It's a race, you fucking pussy. All around the city. Only for serious high roller cats.
-0x9FC8B96F=~z~It's a race, you fucking pussy. All around the city. Only for serious high roller cats.
+0x9FC8B96F=~z~来场比赛吧，你个操蛋娘们。全城范围的，都是高级玩意。
 
 ;0x9FD18CC1=E2BR2_BA
 0x9FD18CC1=E2BR2_BA
@@ -432,13 +432,13 @@
 0xA0297FDF=E2BR2_VG
 
 ;0xA16BE850=~z~I'm gonna own those clubs, Lopez.
-0xA16BE850=~z~I'm gonna own those clubs, Lopez.
+0xA16BE850=~z~那些俱乐部快要是我的了，Lopez。
 
 ;0xA1862524=~z~I get everything. You're rolling with me full time, hombre. Buddies for life. Mmmwah.
-0xA1862524=~z~I get everything. You're rolling with me full time, hombre. Buddies for life. Mmmwah.
+0xA1862524=~z~那所有东西就都是我的了。你就天天跟着我干活吧，老哥。陪着我一辈子。嗯哈哈哈。
 
 ;0xA1B27D90=~z~I mortgaged my house to do this race.
-0xA1B27D90=~z~I mortgaged my house to do this race.
+0xA1B27D90=~z~为了这场比赛，我赌上我的房子了。
 
 ;0xA1F332A5=E2BR2_DF
 0xA1F332A5=E2BR2_DF
@@ -459,31 +459,31 @@
 0xA8DB4409=100090100090100100010090100090010090100100090010
 
 ;0xAA979623=~z~You know, I don't get you, Lopez. No ambition.
-0xAA979623=~z~You know, I don't get you, Lopez. No ambition.
+0xAA979623=~z~你懂的，我想不明白你在干啥，Lopez，没点野心的你。
 
 ;0xAB6D0AB9=~z~1!
-0xAB6D0AB9=~z~1!
+0xAB6D0AB9=~z~1！
 
 ;0xAC3828B0=E2BR2_ID
 0xAC3828B0=E2BR2_ID
 
 ;0xAE3E046E=~z~Okay. So what we betting on?
-0xAE3E046E=~z~Okay. So what we betting on?
+0xAE3E046E=~z~好吧。那我们赌什么？
 
 ;0xAF1E068A=E2BR2_CB
 0xAF1E068A=E2BR2_CB
 
 ;0xAF5C0438=~z~I'm gonna beat you, Lou.
-0xAF5C0438=~z~I'm gonna beat you, Lou.
+0xAF5C0438=~z~我要打败你了，Lou。
 
 ;0xB30078F9=~z~This race is mine, midget whisperer.
-0xB30078F9=~z~This race is mine, midget whisperer.
+0xB30078F9=~z~我主宰比赛了，你个天天乱搞事的矮逼。
 
 ;0xB3330818=~z~You know I'm sensing a little tension here, Lou. You should let it out. I don't know, beat off more or something.
-0xB3330818=~z~You know I'm sensing a little tension here, Lou. You should let it out. I don't know, beat off more or something.
+0xB3330818=~z~你知道我在这有点紧张，Lou。你该放松点。我不知道是不是还有更多的东西要对付。
 
 ;0xB34EA016=~z~I'm worried I'd be replacing it with "tiny cunt management".
-0xB34EA016=~z~I'm worried I'd be replacing it with "tiny cunt management".
+0xB34EA016=~z~那我有点担心替换上去的会是“小逼崽子的经纪人”。
 
 ;0xB3B1CE52=SFX_PAUSE_220
 0xB3B1CE52=SFX_PAUSE_220
@@ -492,16 +492,16 @@
 0xB3F195B6=402
 
 ;0xB6172659=~z~Back off of me.
-0xB6172659=~z~Back off of me.
+0xB6172659=~z~你往后稍稍吧。
 
 ;0xB6C8A85E=SFX_PAUSE_130
 0xB6C8A85E=SFX_PAUSE_130
 
 ;0xB75037D4=~z~Don't even have to pay them neither.
-0xB75037D4=~z~Don't even have to pay them neither.
+0xB75037D4=~z~别又去报复他们了。
 
 ;0xB7BAB890=~z~I told you, Louie. One more job. I got some cars to procure and you're gonna help me.
-0xB7BAB890=~z~I told you, Louie. One more job. I got some cars to procure and you're gonna help me.
+0xB7BAB890=~z~我说过的，Louie。还有个事。我要买些车，你来帮下我。
 
 ;0xB7F043BA=E2BR2_BB
 0xB7F043BA=E2BR2_BB
@@ -510,13 +510,13 @@
 0xBAC9E7EA=E2BR2_VA
 
 ;0xBB297030=~z~Choppers, boats, cars and everything in between.
-0xBB297030=~z~Choppers, boats, cars and everything in between.
+0xBB297030=~z~直升机，快艇，跑车都有。
 
 ;0xBC9CE695=E2BR2_MA
 0xBC9CE695=E2BR2_MA
 
 ;0xBCBA8C71=~z~Hey! Why you hang out with that asshole Mori?
-0xBCBA8C71=~z~Hey! Why you hang out with that asshole Mori?
+0xBCBA8C71=~z~嘿！为啥你要和这混蛋Mori一起干活？
 
 ;0xBCECAF7B=E2BR2_DC
 0xBCECAF7B=E2BR2_DC
@@ -528,7 +528,7 @@
 0xBFE1799E=192
 
 ;0xC1F77CE9=~z~Algonquin heliport, come on, hit it.
-0xC1F77CE9=~z~Algonquin heliport, come on, hit it.
+0xC1F77CE9=~z~Algonquin的停机坪，快点去吧。
 
 ;0xC2657A2C=E2BR2_II
 0xC2657A2C=E2BR2_II
@@ -537,28 +537,28 @@
 0xC5966D1A=E2BR2_BD
 
 ;0xC603EE1F=~z~That sounds too good to be true, bro. What happens if I lose?
-0xC603EE1F=~z~That sounds too good to be true, bro. What happens if I lose?
+0xC603EE1F=~z~听起来华而不实，兄弟。要是输了呢？
 
 ;0xC7760413=E2BR2_MC1
 0xC7760413=E2BR2_MC1
 
 ;0xC7C56CA1=~z~and then all your contractual obligations are released.
-0xC7C56CA1=~z~and then all your contractual obligations are released.
+0xC7C56CA1=~z~然后你所有的欠账都一笔勾销了。
 
 ;0xC7F3C3C6=~z~2!
-0xC7F3C3C6=~z~2!
+0xC7F3C3C6=~z~2！
 
 ;0xCAC00F5D=~z~So all I gotta do is win that and you out of our lives?
-0xCAC00F5D=~z~So all I gotta do is win that and you out of our lives?
+0xCAC00F5D=~z~那我该做的就是赢你然后你滚蛋？
 
 ;0xCC276776=E2BR2_IE
 0xCC276776=E2BR2_IE
 
 ;0xCCBBFB8B=~z~Well, how about everything Tony owes me? And I promise to get out of your life if you win.
-0xCCBBFB8B=~z~Well, how about everything Tony owes me? And I promise to get out of your life if you win.
+0xCCBBFB8B=~z~好，就拿Tony欠我的所有东西来说吧。我保证你赢了我的话我就滚出你的生活。
 
 ;0xCCF304B4=~z~You will be airlifted to the start where you will race from one vehicle to the next.
-0xCCF304B4=~z~You will be airlifted to the start where you will race from one vehicle to the next.
+0xCCF304B4=~z~你会被空运到起点，在那会在不同的载具之间进行比赛。
 
 ;0xCEFFF15F=E2BR2_IB
 0xCEFFF15F=E2BR2_IB
@@ -567,31 +567,31 @@
 0xCF54588D=E2BR2_PA
 
 ;0xCFAC03CA=~z~And you sign everything over to me.
-0xCFAC03CA=~z~And you sign everything over to me.
+0xCFAC03CA=~z~你就签字画押把你身家给我吧。
 
 ;0xD26281DB=~z~Now if you do win, which you won't, you just got to help me with one more thing
-0xD26281DB=~z~Now if you do win, which you won't, you just got to help me with one more thing
+0xD26281DB=~z~现在不管你是赢了还是输了，你还得最后帮我一件事情，
 
 ;0xD2858959=~z~Bro, I need that little speech in writing. What if I lose?
-0xD2858959=~z~Bro, I need that little speech in writing. What if I lose?
+0xD2858959=~z~兄弟，我得拿笔记一下。要是输了呢？
 
 ;0xD4176922=~z~You should give it all up to work with some real men on some serious shit.
-0xD4176922=~z~You should give it all up to work with some real men on some serious shit.
+0xD4176922=~z~没点野心的你。你应该放弃你手头在做的事情，来跟些真爷们干实事。
 
 ;0xD84C1BE2=E2BR2_VD
 0xD84C1BE2=E2BR2_VD
 
 ;0xD881AAE0=~z~In theory, yes. But that ain't gonna happen, dog. 'Cause I never lost at nothing in my whole life.
-0xD881AAE0=~z~In theory, yes. But that ain't gonna happen, dog. 'Cause I never lost at nothing in my whole life.
+0xD881AAE0=~z~理论上来说，是这样的。但是这不会发生的，狗子。因为我这辈子就没输过什么。
 
 ;0xD97DFC2F=~z~God bless college credit. Ooh!
-0xD97DFC2F=~z~God bless college credit. Ooh!
+0xD97DFC2F=~z~谢天谢地，大学我没挂科。哦！
 
 ;0xDBE93348=SFX_PAUSE_190
 0xDBE93348=SFX_PAUSE_190
 
 ;0xDD20DFC1=~z~What part of this race am I not good at?
-0xDD20DFC1=~z~What part of this race am I not good at?
+0xDD20DFC1=~z~这比赛有哪段是我不擅长的？
 
 ;0xDFB7CF11=E2BR2_AA
 0xDFB7CF11=E2BR2_AA
@@ -600,7 +600,7 @@
 0xE131D3D0=E2BR2_JA
 
 ;0xE19B949A=~z~Only the richest most hardcore cats can enter. You in?
-0xE19B949A=~z~Only the richest most hardcore cats can enter. You in?
+0xE19B949A=~z~只有最会玩最硬核的玩家才能参加。你来不？
 
 ;0xE2EAF073=SFX_PAUSE_150
 0xE2EAF073=SFX_PAUSE_150
@@ -615,31 +615,31 @@
 0xE7251D18=E2BR2_QA
 
 ;0xE7F8C237=~z~Come by Brucie's and we'll hit it.
-0xE7F8C237=~z~Come by Brucie's and we'll hit it.
+0xE7F8C237=~z~去Brucie那里，我们在那见。
 
 ;0xE821B491=~z~I get the fuck outta your life, you and your fairy godmother can assfuck a pumpkin all night long.
-0xE821B491=~z~I get the fuck outta your life, you and your fairy godmother can assfuck a pumpkin all night long.
+0xE821B491=~z~我会滚出你的生活，你和你的大恩人就可以操一整晚的屁眼了。
 
 ;0xE9DF985D=011090101090101090011090101101090011
 0xE9DF985D=011090101090101090011090101101090011
 
 ;0xEA521DBE=~z~Bullshit, man. Someone musta sabotaged me or something. No, shit, no I wanted to lose.
-0xEA521DBE=~z~Bullshit, man. Someone musta sabotaged me or something. No, shit, no I wanted to lose.
+0xEA521DBE=~z~真扯淡，哥们。是谁还是啥来给我捣乱。不，操了，不，我不想输。
 
 ;0xEAFC68F4=~z~You're not winning, you dwarf loving gimp.
-0xEAFC68F4=~z~You're not winning, you dwarf loving gimp.
+0xEAFC68F4=~z~赢不了的，你个可爱的小笨逼。
 
 ;0xED273C61=~z~What's on the line then, you terrifyingly insecure midget?
-0xED273C61=~z~What's on the line then, you terrifyingly insecure midget?
+0xED273C61=~z~那你在说啥呢，你个吓人又危险的矮逼。
 
 ;0xED6DC180=E2BR2_IH
 0xED6DC180=E2BR2_IH
 
 ;0xEF9B2029=~z~You could add a zero to that little tiny pay check a yours and take "mopping cum" out the job description.
-0xEF9B2029=~z~You could add a zero to that little tiny pay check a yours and take "mopping cum" out the job description.
+0xEF9B2029=~z~你可以在你的支票上加个小小的零，然后就可以把履历上的“扫地僧”划掉了。
 
 ;0xF19F638D=~z~There ain't much beyond a common love of free labor from snotty graduates. That for sure.
-0xF19F638D=~z~There ain't much beyond a common love of free labor from snotty graduates. That for sure.
+0xF19F638D=~z~从目空一切的大学生这只能看到对打工的热爱外，没别的了。就这样。
 
 ;0xF1F60E7C=E2BR2_NA
 0xF1F60E7C=E2BR2_NA
@@ -651,7 +651,7 @@
 0xF3023AE9=SFX_PAUSE_270
 
 ;0xF304A4ED=~z~No, no, no, no. I'm talking a fair bet. Calculated risk.
-0xF304A4ED=~z~No, no, no, no. I'm talking a fair bet. Calculated risk.
+0xF304A4ED=~z~不不不不，这回打的是公平的赌，计算过风险了的。
 
 ;0xF38A441A=E2BR2_EA
 0xF38A441A=E2BR2_EA
@@ -663,10 +663,10 @@
 0xF605086A=E2BR2_GC2
 
 ;0xF75F9348=~z~Man, Tony, you owe me, bro. Making me hang out with this jackass.
-0xF75F9348=~z~Man, Tony, you owe me, bro. Making me hang out with this jackass.
+0xF75F9348=~z~哥们，Tony，你欠我的，让我跟这傻逼一起共事。
 
 ;0xF78C1709=~z~Shit is tough.
-0xF78C1709=~z~Shit is tough.
+0xF78C1709=~z~很难受啊。
 
 ;0xF81A1CFD=E2BR2_EE1
 0xF81A1CFD=E2BR2_EE1
@@ -681,7 +681,7 @@
 0xF967DA02=E2BR2_FB
 
 ;0xF9C2473C=~z~I don't like your chances, big man.
-0xF9C2473C=~z~I don't like your chances, big man.
+0xF9C2473C=~z~我不会给你机会的，大块头。
 
 ;0xFA1A597B=E2BR2_MB
 0xFA1A597B=E2BR2_MB
@@ -696,7 +696,7 @@
 0xFAF07262=E2BR2_EC
 
 ;0xFB3AE143=~z~You have all been provided, parachutes, boats, and cars.
-0xFB3AE143=~z~You have all been provided, parachutes, boats, and cars.
+0xFB3AE143=~z~你要的东西都给你备好了，降落伞，快艇和跑车。
 
 ;0xFB53E98E=E2BR2_MC2
 0xFB53E98E=E2BR2_MC2
@@ -708,11 +708,11 @@
 0xFC1C395B=100090010090100010090100090010
 
 ;0xFC95CD0A=~z~Check...mate. See ya!
-0xFC95CD0A=~z~Check...mate. See ya!
+0xFC95CD0A=~z~将……军！再见咯！
 
 ;0xFD7BED6A=~z~Here we be! This is where the shit kicks off.
-0xFD7BED6A=~z~Here we be! This is where the shit kicks off.
+0xFD7BED6A=~z~咱到了！就在这开始搞事情吧。
 
 ;0xFDF8C50B=~z~You think Tony's cash means shit to me? I got other investments.
-0xFDF8C50B=~z~You think Tony's cash means shit to me? I got other investments.
+0xFDF8C50B=~z~你以为Tony的钱对我来说算得了什么吗？我有其他投资了。
 

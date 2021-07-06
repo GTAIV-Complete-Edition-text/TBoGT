@@ -3,13 +3,13 @@
 0x00201175=E2Tm3_YB
 
 ;0x00873436=~z~Okay, boss. Anyone asks, I ain't seen you.
-0x00873436=~z~Okay, boss. Anyone asks, I ain't seen you.
+0x00873436=~z~好的，老大。有人问起的话我就说没见着你。
 
 ;0x012D6E2C=E2Tm3_UD
 0x012D6E2C=E2Tm3_UD
 
 ;0x01C01754=~z~I've taken a little suite-y pooh at some dive in Star Junction. Can you run us up there, chap?
-0x01C01754=~z~I've taken a little suite-y pooh at some dive in Star Junction. Can you run us up there, chap?
+0x01C01754=~z~我在Star Junction附近的小巷里给小妞们定了个情侣套房。你能带咱过去吗，伙计？
 
 ;0x02253DD4=SFX_PAUSE_270
 0x02253DD4=SFX_PAUSE_270
@@ -18,7 +18,7 @@
 0x03CBBF6C=E2Tm3_QD2
 
 ;0x03D6D194=~z~Anyway, I'm sick of prudish cunt.
-0x03D6D194=~z~Anyway, I'm sick of prudish cunt.
+0x03D6D194=~z~不管怎么说，玩起来放不开的臭逼我受够了。
 
 ;0x06BBDDD5=SFX_PAUSE_320
 0x06BBDDD5=SFX_PAUSE_320
@@ -27,13 +27,13 @@
 0x0934EB30=E2Tm3_UF
 
 ;0x096113D9=~z~Me neither, L, but I guess inbreeding ain't good for people. Come on back to Maisonette.
-0x096113D9=~z~Me neither, L, but I guess inbreeding ain't good for people. Come on back to Maisonette.
+0x096113D9=~z~我也是，L，但我觉得近亲交配对人不好。回豪宅来吧。
 
 ;0x098A489E=E2Tm3_ABA
 0x098A489E=E2Tm3_ABA
 
 ;0x0A89D7EA=~z~Jump in, girls. Choppy, choppy.
-0x0A89D7EA=~z~Jump in, girls. Choppy, choppy.
+0x0A89D7EA=~z~进来吧，妹子们。嗨起来，嗨起来。
 
 ;0x0CB6749A=010010090100
 0x0CB6749A=010010090100
@@ -42,7 +42,7 @@
 0x0CBBD45B=SFX_PAUSE_250
 
 ;0x0D389FD6=~z~Sure, why not? There's two dozen girls in here who'd love to get with a Prince. I'll introduce.
-0x0D389FD6=~z~Sure, why not? There's two dozen girls in here who'd love to get with a Prince. I'll introduce.
+0x0D389FD6=~z~为啥不行？这有大把妹子等着泡王子呢。我给他介绍介绍。
 
 ;0x0DC75146=E2Tm1_JB
 0x0DC75146=E2Tm1_JB
@@ -54,10 +54,10 @@
 0x0ED790FA=020090200
 
 ;0x0EFA9141=~z~Fantastic. I love a bit of Korean. It's like you've got an A Level in rogering on the national curriculum.
-0x0EFA9141=~z~Fantastic. I love a bit of Korean. It's like you've got an A Level in rogering on the national curriculum.
+0x0EFA9141=~z~太好了。我挺喜欢韩国妹的。真开心啊，就像考上了高中一样。
 
 ;0x10FF05B6=~z~Un-bloody-likely, love. I'm a front door, back door and out the stable kind of guy.
-0x10FF05B6=~z~Un-bloody-likely, love. I'm a front door, back door and out the stable kind of guy.
+0x10FF05B6=~z~不全是，亲爱的。我口爆，肛交都喜欢，玩得很花。
 
 ;0x115D0040=020090200090020090200090200090200200090020090200
 0x115D0040=020090200090020090200090200090200200090020090200
@@ -66,7 +66,7 @@
 0x1364F251=SFX_PAUSE_170
 
 ;0x15B5A9FF=~z~Look mate, if you want to hang around you can have a crack when I'm done.
-0x15B5A9FF=~z~Look mate, if you want to hang around you can have a crack when I'm done.
+0x15B5A9FF=~z~听着朋友，要是你想出来玩的话，等我完事了，你可以叫上我。
 
 ;0x15CC8C83=E2Tm3_UE
 0x15CC8C83=E2Tm3_UE
@@ -78,7 +78,7 @@
 0x19BA26E0=E2Tm3_UA
 
 ;0x19E6796B=~z~Very nice for you, sir.
-0x19E6796B=~z~Very nice for you, sir.
+0x19E6796B=~z~很适合你啊，先生。
 
 ;0x1C54BC6B=E2Tm3_WC
 0x1C54BC6B=E2Tm3_WC
@@ -90,37 +90,37 @@
 0x1E261CBD=SFX_PAUSE_270
 
 ;0x1E9AA0ED=~z~You wouldn't believe how many hold out on you in the hope of getting a ring.
-0x1E9AA0ED=~z~You wouldn't believe how many hold out on you in the hope of getting a ring.
+0x1E9AA0ED=~z~你不知道会有多少人拦着你讨一枚戒指。
 
 ;0x1EB1A6FC=E2Tm3_UC
 0x1EB1A6FC=E2Tm3_UC
 
 ;0x1F57E404=~z~I'm fine.
-0x1F57E404=~z~I'm fine.
+0x1F57E404=~z~我很好。
 
 ;0x2027C7BC=010090100
 0x2027C7BC=010090100
 
 ;0x215035EC=~z~We are from Korea, Mr. Prince.
-0x215035EC=~z~We are from Korea, Mr. Prince.
+0x215035EC=~z~我们是韩国来的，王子先生。
 
 ;0x21DCBA83=~z~Oh bloody hell. I'm sorry, pal. If I'd have known I'd've booked one for you as well.
-0x21DCBA83=~z~Oh bloody hell. I'm sorry, pal. If I'd have known I'd've booked one for you as well.
+0x21DCBA83=~z~噢，真见鬼了。不好意思，朋友。早知道的话我也帮你开间房好了。
 
 ;0x22097E07=E2Tm3_QD1
 0x22097E07=E2Tm3_QD1
 
 ;0x224978D9=~z~Not quite, chappy. Listen, I'm sorry if you got the wrong end of the stick.
-0x224978D9=~z~Not quite, chappy. Listen, I'm sorry if you got the wrong end of the stick.
+0x224978D9=~z~不全是噢，伙计。听着，要是你误会了，那跟你说声抱歉。
 
 ;0x23364A3C=E2Tm3_NB
 0x23364A3C=E2Tm3_NB
 
 ;0x2451BF71=~z~Look, bro, I'm sorry about this, but you're making me real uncomfortable.
-0x2451BF71=~z~Look, bro, I'm sorry about this, but you're making me real uncomfortable.
+0x2451BF71=~z~听着，兄弟。真抱歉，但你也搞得我很不爽。
 
 ;0x2520FD69=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
-0x2520FD69=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+0x2520FD69=~z~嘿兄弟，我手头上这事现在不太对劲。我得低调一阵子了。
 
 ;0x258476BA=010090100
 0x258476BA=010090100
@@ -132,25 +132,25 @@
 0x27C885CF=SFX_PAUSE_350
 
 ;0x2DF4B830=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
-0x2DF4B830=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+0x2DF4B830=~z~妈的老大，这事情况不妙。歇会吧，咱们晚点聊。
 
 ;0x300EF3F1=~z~I got us a room in a hotel in Star Junction that rents by the hour. Do us a favor, will you?
-0x300EF3F1=~z~I got us a room in a hotel in Star Junction that rents by the hour. Do us a favor, will you?
+0x300EF3F1=~z~我在Star Junction的酒店开了间钟点房。帮个忙吧，好吗？
 
 ;0x3242311C=~z~I hope it's nothing serious, boss. You take care.
-0x3242311C=~z~I hope it's nothing serious, boss. You take care.
+0x3242311C=~z~希望没事，老大。你多保重。
 
 ;0x35DC9FFF=~z~Professional services are on the agenda for this chap, I'm afraid.
-0x35DC9FFF=~z~Professional services are on the agenda for this chap, I'm afraid.
+0x35DC9FFF=~z~恐怕这位伙计现在的安排是私人服务。
 
 ;0x3686A59F=~z~I ain't never gonna understand that aristocratic shit.
-0x3686A59F=~z~I ain't never gonna understand that aristocratic shit.
+0x3686A59F=~z~上流贵族玩的东西我永远搞不懂。
 
 ;0x3766D6ED=E2Tm3_QC
 0x3766D6ED=E2Tm3_QC
 
 ;0x37C4B25F=~z~Ladies. Your chariot awaits.
-0x37C4B25F=~z~Ladies. Your chariot awaits.
+0x37C4B25F=~z~女士们，您的马车来了。
 
 ;0x38AE535F=SFX_PAUSE_250
 0x38AE535F=SFX_PAUSE_250
@@ -171,16 +171,16 @@
 0x3F8BC06F=SFX_PAUSE_140
 
 ;0x420A0D66=~z~No problem, boss.
-0x420A0D66=~z~No problem, boss.
+0x420A0D66=~z~没问题，老大。
 
 ;0x428D3AB2=E2Tm3_QB
 0x428D3AB2=E2Tm3_QB
 
 ;0x448C8E85=~z~Boss. I got something that needs your sensitive touch.
-0x448C8E85=~z~Boss. I got something that needs your sensitive touch.
+0x448C8E85=~z~老大，我这有件事需要你来灵活处理一下。
 
 ;0x459B4B89=~z~Here it is. Make sure this guy pays you extra ladies, he can afford it.
-0x459B4B89=~z~Here it is. Make sure this guy pays you extra ladies, he can afford it.
+0x459B4B89=~z~到了。妹子们，让这家伙多掏点，他给得起。
 
 ;0x468EEE40=E2Tm3_XD
 0x468EEE40=E2Tm3_XD
@@ -189,16 +189,16 @@
 0x47259D10=E2Tm3_RA
 
 ;0x48CB04E1=~z~Very horny, Mr. Prince. Horny indeed.
-0x48CB04E1=~z~Very horny, Mr. Prince. Horny indeed.
+0x48CB04E1=~z~很饥渴，王子先生。非常饥渴。
 
 ;0x491408F1=~z~That ain't exactly what I meant.
-0x491408F1=~z~That ain't exactly what I meant.
+0x491408F1=~z~我不是那意思。
 
 ;0x493390FA=~z~I reckon these are seriously top class brass. These ching chongs can suck the fur off a tennis ball.
-0x493390FA=~z~I reckon these are seriously top class brass. These ching chongs can suck the fur off a tennis ball.
+0x493390FA=~z~我觉得这些黄种妹子都是顶级的，这帮中国佬可以帮蛋上的皮都口下来。
 
 ;0x49E14DD1=~z~Okay. If that's what gets you off...
-0x49E14DD1=~z~Okay. If that's what gets you off...
+0x49E14DD1=~z~好吧。你就这样走了…
 
 ;0x4B85D621=SFX_PAUSE_320
 0x4B85D621=SFX_PAUSE_320
@@ -207,16 +207,16 @@
 0x4BEF50C7=SFX_PAUSE_200
 
 ;0x4C8465A0=~z~This thing ain't happening, D . We ran into an issue.
-0x4C8465A0=~z~This thing ain't happening, D . We ran into an issue.
+0x4C8465A0=~z~这事没发生，D。我们遇到了个问题。
 
 ;0x4F9302E9=E2Tm3_QA
 0x4F9302E9=E2Tm3_QA
 
 ;0x50C3DA19=~z~Oye, D. I dropped his regalness at the hotel with tonight's ladies of the night.
-0x50C3DA19=~z~Oye, D. I dropped his regalness at the hotel with tonight's ladies of the night.
+0x50C3DA19=~z~嘿，D。我把尊贵的他和他今晚的妹子送到酒店了。
 
 ;0x5173FF2E=~z~Coño. I knew I shouldn't have gone on that run, bro.
-0x5173FF2E=~z~Coño. I knew I shouldn't have gone on that run, bro.
+0x5173FF2E=~z~妈的，我就知道我不该跑这趟的，兄弟。
 
 ;0x519A58A7=SFX_PAUSE_150
 0x519A58A7=SFX_PAUSE_150
@@ -225,7 +225,7 @@
 0x52DC261C=E2Tm3_TA
 
 ;0x52EF6B7C=~z~Oh, Gawd, I do love a bit of yellow. Cunts like hyenas' jaws, don't you know.
-0x52EF6B7C=~z~Oh, Gawd, I do love a bit of yellow. Cunts like hyenas' jaws, don't you know.
+0x52EF6B7C=~z~噢，天哪，试试看黄种人还是可以的。她们的逼像鬣狗的嘴一样。你不懂。
 
 ;0x5377E5F7=E2Tm3_KA1
 0x5377E5F7=E2Tm3_KA1
@@ -264,7 +264,7 @@
 0x60CF77B9=E2Tm1_HA
 
 ;0x6119479E=~z~What's up?
-0x6119479E=~z~What's up?
+0x6119479E=~z~怎么了？
 
 ;0x67B6F780=010090100
 0x67B6F780=010090100
@@ -273,10 +273,10 @@
 0x6816AC9F=200090020090200200090020
 
 ;0x696DD1EA=~z~Top work. You're a fucking legend.
-0x696DD1EA=~z~Top work. You're a fucking legend.
+0x696DD1EA=~z~干得好，你真他妈牛逼。
 
 ;0x69891964=~z~Thanks.
-0x69891964=~z~Thanks.
+0x69891964=~z~谢了。
 
 ;0x6A8F828E=SFX_PAUSE_120
 0x6A8F828E=SFX_PAUSE_120
@@ -291,7 +291,7 @@
 0x6EB73CF3=010090100
 
 ;0x6FB5A9DE=~z~I don't know, but we should get out of here. Don't come back to the club.
-0x6FB5A9DE=~z~I don't know, but we should get out of here. Don't come back to the club.
+0x6FB5A9DE=~z~我不知道，但是咱们应该离开这。别回俱乐部去。
 
 ;0x71C87023=020090200090300
 0x71C87023=020090200090300
@@ -321,7 +321,7 @@
 0x7D816EE6=E2Tm3_ZA
 
 ;0x7DBD6EC5=~z~Either that or eating all that dog gives you people the major horn, what ho?
-0x7DBD6EC5=~z~Either that or eating all that dog gives you people the major horn, what ho?
+0x7DBD6EC5=~z~要不就打起来，要不就那样，你说呢？
 
 ;0x7DEA33ED=300200090200090300090200090300200200090300
 0x7DEA33ED=300200090200090300090200090300200200090300
@@ -333,7 +333,7 @@
 0x7E7649DA=E2Tm1_FA
 
 ;0x7F61F58C=~z~You must be itching to have a crack at it. Nothing better than some servile twat to round off the day.
-0x7F61F58C=~z~You must be itching to have a crack at it. Nothing better than some servile twat to round off the day.
+0x7F61F58C=~z~你一定很想试试看吧。没有啥比和贱婊子们度过一天更好的了。
 
 ;0x80257F8C=SFX_PAUSE_250
 0x80257F8C=SFX_PAUSE_250
@@ -351,13 +351,13 @@
 0x81A2C08C=SFX_PAUSE_350
 
 ;0x83624C61=~z~It is nice to meet you.
-0x83624C61=~z~It is nice to meet you.
+0x83624C61=~z~见到你很开心。
 
 ;0x846377CA=SFX_PAUSE_270
 0x846377CA=SFX_PAUSE_270
 
 ;0x854A092A=~z~Oh you're bloody right. I'm just a little thicko, but I don't mean anything by it... I love darkies.
-0x854A092A=~z~Oh you're bloody right. I'm just a little thicko, but I don't mean anything by it... I love darkies.
+0x854A092A=~z~噢，你说得很对。我傻逼了，没别的意思…我还是喜欢黑鬼的。
 
 ;0x85E36155=200020090200090200
 0x85E36155=200020090200090200
@@ -387,10 +387,10 @@
 0x928DE213=E2Tm3_WA
 
 ;0x933A70E7=~z~Bloody hell. Where are the bodyguards when you need to cover up a hooker's death?
-0x933A70E7=~z~Bloody hell. Where are the bodyguards when you need to cover up a hooker's death?
+0x933A70E7=~z~真见鬼。给妓女收尸的时候，你的保镖在哪？
 
 ;0x93CF67F0=~z~Bye bye, mister.
-0x93CF67F0=~z~Bye bye, mister.
+0x93CF67F0=~z~再见了，先生。
 
 ;0x9407D53E=010090100
 0x9407D53E=010090100
@@ -399,10 +399,10 @@
 0x94C899C8=E2Tm3_UB2
 
 ;0x9589F4F8=~z~Who these girls you meeting? Friends from back home?
-0x9589F4F8=~z~Who these girls you meeting? Friends from back home?
+0x9589F4F8=~z~你去见的这些妹子是谁啊？老家的朋友吗？
 
 ;0x95DCAAC7=~z~That's sweet of you, old bean. But I wouldn't be here if it wasn't for all the quality snatch you've got on display.
-0x95DCAAC7=~z~That's sweet of you, old bean. But I wouldn't be here if it wasn't for all the quality snatch you've got on display.
+0x95DCAAC7=~z~你真好，老哥。要不是你送我去接这些顶级小妹，我也不会在这了。
 
 ;0x9844F70F=010090010090100
 0x9844F70F=010090010090100
@@ -417,10 +417,10 @@
 0x9A685B87=SFX_PAUSE_250
 
 ;0x9AEEBB44=~z~Can you talk to him?
-0x9AEEBB44=~z~Can you talk to him?
+0x9AEEBB44=~z~你能跟他谈谈吗？
 
 ;0x9B4537A3=~z~I ain't never gonna understand that aristocratic shit.
-0x9B4537A3=~z~I ain't never gonna understand that aristocratic shit.
+0x9B4537A3=~z~上流贵族玩的东西我永远搞不懂。
 
 ;0x9D437303=SFX_PAUSE_350
 0x9D437303=SFX_PAUSE_350
@@ -429,10 +429,10 @@
 0x9DCD6B23=E2Tm3_QF
 
 ;0x9E410222=~z~Where are you lovely ladies from?
-0x9E410222=~z~Where are you lovely ladies from?
+0x9E410222=~z~几位可爱的女士是从哪来的？
 
 ;0x9E8E466D=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
-0x9E8E466D=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+0x9E8E466D=~z~哟，D。事情有点搞砸了，哥们。你能罩我吗？
 
 ;0x9F2163D9=E2Tm3_YA
 0x9F2163D9=E2Tm3_YA
@@ -441,13 +441,13 @@
 0x9F6C8CF8=SFX_PAUSE_320
 
 ;0xA0568A95=~z~Good god, no. These are some "friends" I made on the erotic services section on Craplist.
-0xA0568A95=~z~Good god, no. These are some "friends" I made on the erotic services section on Craplist.
+0xA0568A95=~z~天哪，不是这样的。这些「朋友」是我在Craplist网的色情服务板块上认识的。
 
 ;0xA0835521=300090200090300090020
 0xA0835521=300090200090300090020
 
 ;0xA1C72E1E=~z~Not again. All our fucking clients die on us!
-0xA1C72E1E=~z~Not again. All our fucking clients die on us!
+0xA1C72E1E=~z~不要再这样了！把自家的客户败在自己手上！
 
 ;0xA1CEB7EA=200090200090020090020090200090200
 0xA1CEB7EA=200090200090020090020090200090200
@@ -474,7 +474,7 @@
 0xA8361B1A=E2Tm3_ME
 
 ;0xA8BD30A2=~z~We are here to please you.
-0xA8BD30A2=~z~We are here to please you.
+0xA8BD30A2=~z~我们是来邀请你的。
 
 ;0xA8EFE043=SFX_PAUSE_400
 0xA8EFE043=SFX_PAUSE_400
@@ -486,10 +486,10 @@
 0xACAD00B5=SFX_PAUSE_300
 
 ;0xAEA823A1=~z~Great place you got here. Seriously bloody cool.
-0xAEA823A1=~z~Great place you got here. Seriously bloody cool.
+0xAEA823A1=~z~你这地方挺不错的。非常好。
 
 ;0xAF149271=~z~Tarts, my man. Doxies. Ladies of the night. Tramps.
-0xAF149271=~z~Tarts, my man. Doxies. Ladies of the night. Tramps.
+0xAF149271=~z~骚的，浪的，哥们。晚上嗨的那种，你个农逼。
 
 ;0xB024950D=E2Tm3_QH
 0xB024950D=E2Tm3_QH
@@ -507,16 +507,16 @@
 0xB33646BA=200090020
 
 ;0xB491AF8C=~z~You go out in London much? Don't suppose you do. It's kind of my home town... my family sort of run things there.
-0xB491AF8C=~z~You go out in London much? Don't suppose you do. It's kind of my home town... my family sort of run things there.
+0xB491AF8C=~z~你经常去伦敦吗？别跟我说是。那是我的家乡…我家人好像还在那干活。
 
 ;0xB5EAD0BE=E2Tm3_ND
 0xB5EAD0BE=E2Tm3_ND
 
 ;0xB71ACA7C=~z~I'm meeting these girls at the Underground station in Easton.
-0xB71ACA7C=~z~I'm meeting these girls at the Underground station in Easton.
+0xB71ACA7C=~z~我在Easton的地铁站跟那些妹子见面。
 
 ;0xB7552EFB=~z~Thanks chappie, you've been a top sport about this. Send Tony my best.
-0xB7552EFB=~z~Thanks chappie, you've been a top sport about this. Send Tony my best.
+0xB7552EFB=~z~谢了，伙计。干得不错。替我向Tony问个好。
 
 ;0xB875D6C5=SFX_PAUSE_200
 0xB875D6C5=SFX_PAUSE_200
@@ -537,7 +537,7 @@
 0xBC7FB0CA=E2Tm3_ABB
 
 ;0xBCDD43A2=~z~You cruising for whores on the internet? Really, bro?
-0xBCDD43A2=~z~You cruising for whores on the internet? Really, bro?
+0xBCDD43A2=~z~你在网上约炮？真的吗，兄弟？
 
 ;0xBD307EE8=020090200090200090020
 0xBD307EE8=020090200090200090020
@@ -549,25 +549,25 @@
 0xBE2A2CE8=E2Tm3_QE
 
 ;0xBE68E761=~z~That's too bad, girl. But you don't want to hang around here. This is one famous dude, and you don't want to be caught up in it.
-0xBE68E761=~z~That's too bad, girl. But you don't want to hang around here. This is one famous dude, and you don't want to be caught up in it.
+0xBE68E761=~z~太糟了，妹子们，此地不宜久留。这家伙是个大牌，你们可不想被牵扯进来吧。
 
 ;0xBEBFFE98=~z~Oye, D. I dropped his regalness at the hotel with tonight's ladies of the night.
-0xBEBFFE98=~z~Oye, D. I dropped his regalness at the hotel with tonight's ladies of the night.
+0xBEBFFE98=~z~嘿，D。我把尊贵的他和他今晚的妹子送到酒店了。
 
 ;0xBEE53212=~z~I thought I was helping you pick up girls in there, not driving you to meet some.
-0xBEE53212=~z~I thought I was helping you pick up girls in there, not driving you to meet some.
+0xBEE53212=~z~我是带你去接人的，不是去见人的。
 
 ;0xBF383291=E2Tm1_HB
 0xBF383291=E2Tm1_HB
 
 ;0xC14727F8=~z~Oh no, don't worry about him. He's just giving us a lift.
-0xC14727F8=~z~Oh no, don't worry about him. He's just giving us a lift.
+0xC14727F8=~z~哦不，别担心他。他是来接咱们的。
 
 ;0xC24EBBB1=E2Tm3_QG
 0xC24EBBB1=E2Tm3_QG
 
 ;0xC2B8E4D2=~z~I'll save the demeaning for when we play water sports.
-0xC2B8E4D2=~z~I'll save the demeaning for when we play water sports.
+0xC2B8E4D2=~z~等咱们玩水上运动的时侯再好好嘲讽嘲讽你。
 
 ;0xC2C13664=E2Tm3_XF
 0xC2C13664=E2Tm3_XF
@@ -576,7 +576,7 @@
 0xC37044A4=E2Tm3_VC
 
 ;0xC3C04DE9=~z~Then again, why would you bother with London totty when Liberty City's finest quim is right here on your doorstep?
-0xC3C04DE9=~z~Then again, why would you bother with London totty when Liberty City's finest quim is right here on your doorstep?
+0xC3C04DE9=~z~第二，自由城最骚的婊子都上门来了，你还寻思伦敦的干啥？
 
 ;0xC7FCF37A=SFX_PAUSE_220
 0xC7FCF37A=SFX_PAUSE_220
@@ -585,16 +585,16 @@
 0xC9A5C875=E2Tm3_OA
 
 ;0xC9DEEDAA=~z~Hi, I'm Luis Lopez. I run this place. It's a pleasure to make your acquaintance.
-0xC9DEEDAA=~z~Hi, I'm Luis Lopez. I run this place. It's a pleasure to make your acquaintance.
+0xC9DEEDAA=~z~你好，我是Luis Lopez，这里管事的。很高兴认识你。
 
 ;0xCCA04D88=~z~What kind of ride is that?
-0xCCA04D88=~z~What kind of ride is that?
+0xCCA04D88=~z~你想玩啥样的？
 
 ;0xCCADF5A2=~z~I need to pick these girls up. They're at the tube station in Easton.
-0xCCADF5A2=~z~I need to pick these girls up. They're at the tube station in Easton.
+0xCCADF5A2=~z~我要去接那些妹子。她们在Easton的地铁站。
 
 ;0xCCCBBEED=~z~Okay. He no want watch?
-0xCCCBBEED=~z~Okay. He no want watch?
+0xCCCBBEED=~z~好吧。他不想看？
 
 ;0xCD2321A3=E2Tm3_NA
 0xCD2321A3=E2Tm3_NA
@@ -606,13 +606,13 @@
 0xCF955A05=E2Tm3_WB
 
 ;0xCFEF587E=~z~Me neither, L. Come on back to the Maisonette when you're free.
-0xCFEF587E=~z~Me neither, L. Come on back to the Maisonette when you're free.
+0xCFEF587E=~z~我也是，L。有空就回豪宅看看吧。
 
 ;0xD08B00E3=SFX_PAUSE_400
 0xD08B00E3=SFX_PAUSE_400
 
 ;0xD16F8297=~z~Mr. Lopez will look after you fine, HRH. Goodnight.
-0xD16F8297=~z~Mr. Lopez will look after you fine, HRH. Goodnight.
+0xD16F8297=~z~Luis先生会好好伺候您的，殿下。晚安。
 
 ;0xD2047D15=SFX_PAUSE_270
 0xD2047D15=SFX_PAUSE_270
@@ -621,16 +621,16 @@
 0xD2900D5E=SFX_PAUSE_200
 
 ;0xD44AA72A=~z~I prefer my balls furry, bro, and I'd prefer it if you didnt have to demean them any worse.
-0xD44AA72A=~z~I prefer my balls furry, bro, and I'd prefer it if you didnt have to demean them any worse.
+0xD44AA72A=~z~你要是不觉得丢脸的话，屌毛茂盛挺好的，兄弟。
 
 ;0xD48C7A97=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
-0xD48C7A97=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+0xD48C7A97=~z~事情没按计划出牌啊，Dess。懂我意思吧？
 
 ;0xD5208425=~z~Alright mate. Can we buzz outside for a sec? We need to run a little errand.
-0xD5208425=~z~Alright mate. Can we buzz outside for a sec? We need to run a little errand.
+0xD5208425=~z~好的朋友。出去一下？有点小事要办。
 
 ;0xD55E09E3=~z~You pay by the hour, yes.
-0xD55E09E3=~z~You pay by the hour, yes.
+0xD55E09E3=~z~按小时付钱，好吗。
 
 ;0xD6AB6B08=E2Tm3_KA2
 0xD6AB6B08=E2Tm3_KA2
@@ -639,7 +639,7 @@
 0xD9371DE7=E2Tm3_AAC
 
 ;0xD9739698=~z~I know, it's a fucking bloody disgrace.
-0xD9739698=~z~I know, it's a fucking bloody disgrace.
+0xD9739698=~z~我知道，这太他妈丢人了。
 
 ;0xDA8517BF=E2Tm3_MB
 0xDA8517BF=E2Tm3_MB
@@ -654,7 +654,7 @@
 0xDDC5C42E=E2Tm3_ABE
 
 ;0xDDCD3AA3=~z~Thanks. We appreciate it. It's nice to have people like you come down and enjoy themselves.
-0xDDCD3AA3=~z~Thanks. We appreciate it. It's nice to have people like you come down and enjoy themselves.
+0xDDCD3AA3=~z~谢了，谢了。欢迎你这样的人过来一起嗨。
 
 ;0xE200930B=E2Tm3_ADB
 0xE200930B=E2Tm3_ADB
@@ -663,13 +663,13 @@
 0xE200B5A2=200
 
 ;0xE394264F=~z~Where too Mr. Prince?
-0xE394264F=~z~Where too Mr. Prince?
+0xE394264F=~z~去哪呢，王子先生？
 
 ;0xE54E0EDD=E2Tm3_MD
 0xE54E0EDD=E2Tm3_MD
 
 ;0xE742186B=~z~Don't worry about it. It's not my money, the English taxpayer's picking up the tab.
-0xE742186B=~z~Don't worry about it. It's not my money, the English taxpayer's picking up the tab.
+0xE742186B=~z~没事的，又不是花我的钱，让英国的纳税人掏去吧。
 
 ;0xE771D82A=SFX_PAUSE_120
 0xE771D82A=SFX_PAUSE_120
@@ -678,19 +678,19 @@
 0xE7A7B31C=SFX_PAUSE_200
 
 ;0xE7E1AF7B=~z~See you soon, your highness.
-0xE7E1AF7B=~z~See you soon, your highness.
+0xE7E1AF7B=~z~再见了，殿下。
 
 ;0xE82221BE=~z~Shit, L. Okay. I'll get on damage control.
-0xE82221BE=~z~Shit, L. Okay. I'll get on damage control.
+0xE82221BE=~z~妈的，L。好的。我会及时止损的。
 
 ;0xEA349AC1=~z~Quim?
-0xEA349AC1=~z~Quim?
+0xEA349AC1=~z~谁？
 
 ;0xEB0F5527=~z~Congratulations, by the way. Seriously great job you've done with this place.
-0xEB0F5527=~z~Congratulations, by the way. Seriously great job you've done with this place.
+0xEB0F5527=~z~顺便说一句恭喜吧。你干得很不错。
 
 ;0xEBABFCC1=~z~You say one man on phone. We not think it was two of you. Cost extra.
-0xEBABFCC1=~z~You say one man on phone. We not think it was two of you. Cost extra.
+0xEBABFCC1=~z~你在电话里说好了只有一个男的，不是两个啊。要多忙活了。
 
 ;0xEBBBBADB=E2Tm3_XC
 0xEBBBBADB=E2Tm3_XC
@@ -699,7 +699,7 @@
 0xEDB2EC38=SFX_PAUSE_170
 
 ;0xEE23E1AD=~z~We entertaining this Royal dude from England who says he wants some girls for the night.
-0xEE23E1AD=~z~We entertaining this Royal dude from England who says he wants some girls for the night.
+0xEE23E1AD=~z~我这有个英国皇室的老哥，要找几个妹子过夜。
 
 ;0xEE4C969D=E2Tm3_PA
 0xEE4C969D=E2Tm3_PA
@@ -714,25 +714,25 @@
 0xF288A82A=SFX_PAUSE_300
 
 ;0xF5964EDD=~z~The days of courtesans are over, I guess.
-0xF5964EDD=~z~The days of courtesans are over, I guess.
+0xF5964EDD=~z~我想顶级小姐的时代已经结束了。
 
 ;0xF61459AA=E2Tm3_KB
 0xF61459AA=E2Tm3_KB
 
 ;0xF7CE6E31=~z~ It's bad enough they got to do what they do.
-0xF7CE6E31=~z~ It's bad enough they got to do what they do.
+0xF7CE6E31=~z~他们要干的事情够糟的了。
 
 ;0xF8879236=SFX_PAUSE_140
 0xF8879236=SFX_PAUSE_140
 
 ;0xF98A275B=~z~Maybe next time you can help me nail some fillies in there. I'm after a different kind of ride ce soir.
-0xF98A275B=~z~Maybe next time you can help me nail some fillies in there. I'm after a different kind of ride ce soir.
+0xF98A275B=~z~下次你帮我叫几个马子过来吧。我今晚要玩点别的。
 
 ;0xFAA15102=SFX_PAUSE_270
 0xFAA15102=SFX_PAUSE_270
 
 ;0xFB393C11=~z~Not the big shark attacks you find on English girls.
-0xFB393C11=~z~Not the big shark attacks you find on English girls.
+0xFB393C11=~z~不像英国妹子那样鲨鱼大开口。
 
 ;0xFFA0257A=E2Tm3_PF
 0xFFA0257A=E2Tm3_PF
