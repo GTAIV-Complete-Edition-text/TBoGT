@@ -1,4 +1,4 @@
-[E2Y4AUD]
+ï»¿[E2Y4AUD]
 ;0x0015B43C=SFX_PAUSE_090
 0x0015B43C=SFX_PAUSE_090
 
@@ -6,25 +6,25 @@
 0x00D93E66=E2Y4_AKB
 
 ;0x032F2F01=~z~Puneta.
-0x032F2F01=~z~ÕâÉ¶£¿
+0x032F2F01=~z~è¿™å•¥ï¼Ÿ
 
 ;0x03E4DA4F=~z~A motherfucking subway train! Oh yeah, baby.
-0x03E4DA4F=~z~Ò»Á¾Å£±ÆºåºåµÄÁĞ³µ£¡°ô¼«ÁË£¬±¦±´¡£
+0x03E4DA4F=~z~ä¸€è¾†ç‰›é€¼å“„å“„çš„åˆ—è½¦ï¼æ£’æäº†ï¼Œå®è´ã€‚
 
 ;0x03F5EF44=~z~Where's the rest of his cell?
-0x03F5EF44=~z~ËûµÄÍ¬»ïÔÚÄÄ£¿
+0x03F5EF44=~z~ä»–çš„åŒä¼™åœ¨å“ªï¼Ÿ
 
 ;0x043DA242=~z~Okay. You just need to jump on the train. Climb to the front and unhook the lead car. I'll take it from there.
-0x043DA242=~z~ºÃµÄ¡£ÄãÖ»ÒªÌøÉÏÁĞ³µ¾ÍĞĞÁË¡£ÅÀµ½Ç°ÃæÈÃ³µÍ·ÍÑ¹³¡£ÎÒ»áµõËü×ß¡£
+0x043DA242=~z~å¥½çš„ã€‚ä½ åªè¦è·³ä¸Šåˆ—è½¦å°±è¡Œäº†ã€‚çˆ¬åˆ°å‰é¢è®©è½¦å¤´è„±é’©ã€‚æˆ‘ä¼šåŠå®ƒèµ°ã€‚
 
 ;0x049BE34F=~z~I got you that tank thing and the chopper - what now, you want the Statue of Happiness for your back yard?
-0x049BE34F=~z~ÎÒ¶¼¸øÄãÅªÁËÌ¹¿ËºÍÖ±Éı»ú - ÏÖÔÚÄØ£¬ÄãÒªĞÒ¸£Å®ÉñÏñ·ÅÄã¼ÒºóÔº£¿
+0x049BE34F=~z~æˆ‘éƒ½ç»™ä½ å¼„äº†å¦å…‹å’Œç›´å‡æœº - ç°åœ¨å‘¢ï¼Œä½ è¦å¹¸ç¦å¥³ç¥åƒæ”¾ä½ å®¶åé™¢ï¼Ÿ
 
 ;0x04D53BCC=010
 0x04D53BCC=010
 
 ;0x05B01CCE=~z~I see myself getting cut in half or locked up, bro - that's what I see.
-0x05B01CCE=~z~ÎÒ¿´µ½×Ô¼ºÈËÊ×·ÖÀë»òÊÇ±»¹ØÆğÀ´ - ÄÇ¾ÍÊÇÎÒ½«Òª¿´µ½µÄ¡£
+0x05B01CCE=~z~æˆ‘çœ‹åˆ°è‡ªå·±äººé¦–åˆ†ç¦»æˆ–æ˜¯è¢«å…³èµ·æ¥ - é‚£å°±æ˜¯æˆ‘å°†è¦çœ‹åˆ°çš„ã€‚
 
 ;0x05D02675=E2Y4_CC
 0x05D02675=E2Y4_CC
@@ -33,7 +33,7 @@
 0x086D68D1=092
 
 ;0x08AE973D=~z~Unleash the beast!
-0x08AE973D=~z~½â¿ª¸ÖÌúÃÍÊŞ£¡
+0x08AE973D=~z~è§£å¼€é’¢é“çŒ›å…½ï¼
 
 ;0x09D6F4A9=092
 0x09D6F4A9=092
@@ -45,25 +45,25 @@
 0x0A4D2791=SFX_PAUSE_230
 
 ;0x0A88F2C6=~z~I thought the world liked us now!
-0x0A88F2C6=~z~ÎÒÒÔÎªÏÖÔÚÈ«ÊÀ½ç¶¼Ï²»¶ÎÒÃÇÁË£¡
+0x0A88F2C6=~z~æˆ‘ä»¥ä¸ºç°åœ¨å…¨ä¸–ç•Œéƒ½å–œæ¬¢æˆ‘ä»¬äº†ï¼
 
 ;0x0B400254=~z~Damn.
-0x0B400254=~z~²ÙÁË¡£
+0x0B400254=~z~æ“äº†ã€‚
 
 ;0x0C08DFDC=~z~Whatever, man. How's it going?
-0x0C08DFDC=~z~ËæÄãÁË£¬ĞÖµÜ¡£¼ÌĞøËµ£¿
+0x0C08DFDC=~z~éšä½ äº†ï¼Œå…„å¼Ÿã€‚ç»§ç»­è¯´ï¼Ÿ
 
 ;0x0C924450=302
 0x0C924450=302
 
 ;0x0CA53E79=~z~Okay, we just need the front car of the train.
-0x0CA53E79=~z~ºÃ£¬ÎÒÃÇÖ»ĞèÒªÁĞ³µµÄ³µÍ·¡£
+0x0CA53E79=~z~å¥½ï¼Œæˆ‘ä»¬åªéœ€è¦åˆ—è½¦çš„è½¦å¤´ã€‚
 
 ;0x0D2BFBDC=~z~Yusuf. Where are you, man? They think I'm a fucking terrorist.
-0x0D2BFBDC=~z~Yusuf¡£ÄãÔÚÄÄ£¬ĞÖµÜ£¿ËûÃÇ¾õµÃÎÒÊÇÍò¶ñµÄ¿Ö²À·Ö×Ó¡£
+0x0D2BFBDC=~z~Yusufã€‚ä½ åœ¨å“ªï¼Œå…„å¼Ÿï¼Ÿä»–ä»¬è§‰å¾—æˆ‘æ˜¯ä¸‡æ¶çš„ææ€–åˆ†å­ã€‚
 
 ;0x0D9C86B9=~z~Too close, man.
-0x0D9C86B9=~z~Ì«½üÁË£¬ĞÖµÜ¡£
+0x0D9C86B9=~z~å¤ªè¿‘äº†ï¼Œå…„å¼Ÿã€‚
 
 ;0x0DFA407B=E2Y4_UA
 0x0DFA407B=E2Y4_UA
@@ -72,13 +72,13 @@
 0x0E3512B3=SFX_PAUSE_230
 
 ;0x0E44FE0A=~z~Chill out, homie. Yusuf's on his way.
-0x0E44FE0A=~z~Àä¾²£¬ºÃĞÖµÜ¡£Yusuf'sÔÚÂ·ÉÏÁË¡£
+0x0E44FE0A=~z~å†·é™ï¼Œå¥½å…„å¼Ÿã€‚Yusuf'såœ¨è·¯ä¸Šäº†ã€‚
 
 ;0x0E4F00BF=SFX_PAUSE_150
 0x0E4F00BF=SFX_PAUSE_150
 
 ;0x0E69B99B=~z~You, Tony Gayer and a camel getting all velvet rope on some Arabic shit.
-0x0E69B99B=~z~Äã£¬»ùÀĞTonyºÍÒ»Ö»ÂæÍÕ£¬°ÑÉí¼ÒÑ¹ÔÚ°¢À­²®ÈËÉíÉÏ£¨Ï¹±àµÄÕæ¿´²»¶®ÎØÎØ
+0x0E69B99B=~z~ä½ ï¼ŒåŸºä½¬Tonyå’Œä¸€åªéª†é©¼ï¼ŒæŠŠèº«å®¶å‹åœ¨é˜¿æ‹‰ä¼¯äººèº«ä¸Šï¼ˆçç¼–çš„çœŸçœ‹ä¸æ‡‚å‘œå‘œ
 
 ;0x0E6CA87A=E2Y4_BAA
 0x0E6CA87A=E2Y4_BAA
@@ -108,10 +108,10 @@
 0x1158250C=SFX_PAUSE_330
 
 ;0x13262270=~z~We haven't got all day. Unhook the front car.
-0x13262270=~z~ÎÒÃÇÊ±¼ä²»¶àÁË¡£½â¿ª³µÍ·¡£
+0x13262270=~z~æˆ‘ä»¬æ—¶é—´ä¸å¤šäº†ã€‚è§£å¼€è½¦å¤´ã€‚
 
 ;0x13EA6720=~z~I have to go now, man. Wait here above the tracks.
-0x13EA6720=~z~ÎÒµÃ×ßÁË£¬ĞÖµÜ¡£ÔÚÁĞ³µÉÏµÈÎÒ»ØÀ´¡£
+0x13EA6720=~z~æˆ‘å¾—èµ°äº†ï¼Œå…„å¼Ÿã€‚åœ¨åˆ—è½¦ä¸Šç­‰æˆ‘å›æ¥ã€‚
 
 ;0x16925AD2=012
 0x16925AD2=012
@@ -120,25 +120,25 @@
 0x16986F43=SFX_PAUSE_180
 
 ;0x16C9F666=~z~I hope you got your work shoes on.
-0x16C9F666=~z~Ï£ÍûÄã´©ÉÏ×¨ÓÃĞ¬¡£
+0x16C9F666=~z~å¸Œæœ›ä½ ç©¿ä¸Šä¸“ç”¨é‹ã€‚
 
 ;0x16F033C0=~z~Free that baby up for me!
-0x16F033C0=~z~¸øÎÒ·Å³öÄÇ¸ö±¦±´£¡
+0x16F033C0=~z~ç»™æˆ‘æ”¾å‡ºé‚£ä¸ªå®è´ï¼
 
 ;0x173471AE=~z~Be my guest, bro. You jump on the train and I'll put my feet up.
-0x173471AE=~z~Çë±ã£¬ĞÖµÜ¡£ÄãÌøÉÏ»ğ³µÎÒ¾Í»áÕ¾ÆğÀ´¡£
+0x173471AE=~z~è¯·ä¾¿ï¼Œå…„å¼Ÿã€‚ä½ è·³ä¸Šç«è½¦æˆ‘å°±ä¼šç«™èµ·æ¥ã€‚
 
 ;0x1934C3D7=~z~made of models on a track made of gold.
-0x1934C3D7=~z~´©¹ıÒ»Ìõ»Æ½ğ×ö¹ìµÀÄ£ĞÍµÄËíµÀ
+0x1934C3D7=~z~ç©¿è¿‡ä¸€æ¡é»„é‡‘åšè½¨é“æ¨¡å‹çš„éš§é“
 
 ;0x1AFFB25F=~z~You got choppers on my ass too?
-0x1AFFB25F=~z~ÎÒÆ¨¹ÉÉÏÒ²ÓĞÖ±Éı»ú£¿
+0x1AFFB25F=~z~æˆ‘å±è‚¡ä¸Šä¹Ÿæœ‰ç›´å‡æœºï¼Ÿ
 
 ;0x1D394F97=SFX_PAUSE_270
 0x1D394F97=SFX_PAUSE_270
 
 ;0x1DA0F1B8=~z~Here's the spot!
-0x1DA0F1B8=~z~¾ÍÊÇÕâÁË£¡
+0x1DA0F1B8=~z~å°±æ˜¯è¿™äº†ï¼
 
 ;0x1E339CA9=E2Y4_AHA
 0x1E339CA9=E2Y4_AHA
@@ -150,49 +150,49 @@
 0x1F5EC121=092
 
 ;0x204F9324=~z~The prize of the fleet. The assfucking flagship of the LTA. Give it up!
-0x204F9324=~z~ËûÃÇµÄ±¦±´¡£LTAµÄ±¦±´ÁĞ³µ¡£¹éÎÒÁË£¡
+0x204F9324=~z~ä»–ä»¬çš„å®è´ã€‚LTAçš„å®è´åˆ—è½¦ã€‚å½’æˆ‘äº†ï¼
 
 ;0x21820B9B=~z~I guess I better wait for that motherfucker.
-0x21820B9B=~z~ÎÒ¾õµÃÎÒ×îºÃµÈÏÂÄÇ¸ö»ìµ°¡£
+0x21820B9B=~z~æˆ‘è§‰å¾—æˆ‘æœ€å¥½ç­‰ä¸‹é‚£ä¸ªæ··è›‹ã€‚
 
 ;0x21936ACD=~z~We have liftoff, motherfuckers.
-0x21936ACD=~z~ÎÒÃÇÒªÆğ·ÉÁË£¬Îßºş¡£
+0x21936ACD=~z~æˆ‘ä»¬è¦èµ·é£äº†ï¼ŒèŠœæ¹–ã€‚
 
 ;0x22988A56=~z~Just fucking tell me, bro!
-0x22988A56=~z~¿ìËûÂèµÄ¸æËßÎÒ¾ÍĞĞ£¬ĞÖµÜ£¡
+0x22988A56=~z~å¿«ä»–å¦ˆçš„å‘Šè¯‰æˆ‘å°±è¡Œï¼Œå…„å¼Ÿï¼
 
 ;0x235C6FA4=~z~Aside from how fucking dumb that sounds, how am I supposed to take that thing?
-0x235C6FA4=~z~ÏÈ±ğËµÄÇĞ©´ÀÊÂÁË£¬¸æËßÎÒÔõÃ´ÇÀÁĞ³µ£¿
+0x235C6FA4=~z~å…ˆåˆ«è¯´é‚£äº›è ¢äº‹äº†ï¼Œå‘Šè¯‰æˆ‘æ€ä¹ˆæŠ¢åˆ—è½¦ï¼Ÿ
 
 ;0x241CBB35=~z~I fucking love you, man. I love you. See you later.
-0x241CBB35=~z~ÎÒËûÂè°®ËÀÄãÁË£¬ĞÖµÜ£¬ÎÒ°®Äã¡£Ò»»á¶ù¼û¡£
+0x241CBB35=~z~æˆ‘ä»–å¦ˆçˆ±æ­»ä½ äº†ï¼Œå…„å¼Ÿï¼Œæˆ‘çˆ±ä½ ã€‚ä¸€ä¼šå„¿è§ã€‚
 
 ;0x25C64242=E2Y4_YA
 0x25C64242=E2Y4_YA
 
 ;0x26B5C9CB=~z~What you need a chopper for, cop?
-0x26B5C9CB=~z~ÄãÒªÖ±Éı»ú¸ÉÂï£¬¾¯²ìÏÈÉú£¿
+0x26B5C9CB=~z~ä½ è¦ç›´å‡æœºå¹²å˜›ï¼Œè­¦å¯Ÿå…ˆç”Ÿï¼Ÿ
 
 ;0x26C96801=E2Y4_SA
 0x26C96801=E2Y4_SA
 
 ;0x27BD781D=~z~Here we go.
-0x27BD781D=~z~¿ªÊ¼°É¡£
+0x27BD781D=~z~å¼€å§‹å§ã€‚
 
 ;0x27CBF4BE=~z~Yo. How am I supposed to pull this off?
-0x27CBF4BE=~z~Ó´¡£ÎÒÔõÃ´°Ñ³µÅªÏÂÀ´£¿
+0x27CBF4BE=~z~å“Ÿã€‚æˆ‘æ€ä¹ˆæŠŠè½¦å¼„ä¸‹æ¥ï¼Ÿ
 
 ;0x27D1D0DC=E2Y4_DE
 0x27D1D0DC=E2Y4_DE
 
 ;0x27E60BB8=~z~There you go.
-0x27E60BB8=~z~¸ã¶¨¡£
+0x27E60BB8=~z~æå®šã€‚
 
 ;0x2809F542=~z~You jump on board, you climb to the front and you unhook the car.
-0x2809F542=~z~ÄãÌø³µÉÏ£¬ÅÀµ½Ç°Ãæ½â¿ª³µÍ·¡£
+0x2809F542=~z~ä½ è·³è½¦ä¸Šï¼Œçˆ¬åˆ°å‰é¢è§£å¼€è½¦å¤´ã€‚
 
 ;0x283E5CA6=~z~Arab money, bitches! Fuck yeah!
-0x283E5CA6=~z~Ç®£¬æ»×Ó£¡ºÃÒ®£¡
+0x283E5CA6=~z~é’±ï¼Œå©Šå­ï¼å¥½è€¶ï¼
 
 ;0x28EAFFD1=100090010090100
 0x28EAFFD1=100090010090100
@@ -201,7 +201,7 @@
 0x2A47C00F=~z~Got lucky there.
 
 ;0x2A8A82A7=~z~Someone better be grateful for this.
-0x2A8A82A7=~z~Ä³ÈË×îºÃĞÄ´æ¸Ğ¼¤¡£
+0x2A8A82A7=~z~æŸäººæœ€å¥½å¿ƒå­˜æ„Ÿæ¿€ã€‚
 
 ;0x2B14B913=SFX_PAUSE_110
 0x2B14B913=SFX_PAUSE_110
@@ -210,22 +210,22 @@
 0x2B88C8DA=SFX_PAUSE_220
 
 ;0x2C12010F=~z~Can't you just buy yourself a subway car, bro?
-0x2C12010F=~z~Äã¾Í²»ÄÜ×Ô¼ºÂòÒ»Á¾Âğ£¬ĞÖµÜ£¿
+0x2C12010F=~z~ä½ å°±ä¸èƒ½è‡ªå·±ä¹°ä¸€è¾†å—ï¼Œå…„å¼Ÿï¼Ÿ
 
 ;0x2CC15071=091
 0x2CC15071=091
 
 ;0x2E1C2406=~z~Would you shut the fuck up, man? What's wrong with you?
-0x2E1C2406=~z~ÄÜËûÂèÌıÎÒËµÂğ£¬ĞÖµÜ£¿ÄãÓĞÊ²Ã´ÊÂ£¿
+0x2E1C2406=~z~èƒ½ä»–å¦ˆå¬æˆ‘è¯´å—ï¼Œå…„å¼Ÿï¼Ÿä½ æœ‰ä»€ä¹ˆäº‹ï¼Ÿ
 
 ;0x2E7BA71A=~z~Here I come, baby. You better be gripping tight.
-0x2E7BA71A=~z~ÎÒÀ´ÁË£¬±¦±´¡£Äã×îºÃ×¥½ôÁË¡£
+0x2E7BA71A=~z~æˆ‘æ¥äº†ï¼Œå®è´ã€‚ä½ æœ€å¥½æŠ“ç´§äº†ã€‚
 
 ;0x2E849C54=~z~Get in position to jump, my friend. I will meet you later.
-0x2E849C54=~z~×¼±¸ºÃÌøÏÂÈ¥°É£¬ÎÒµÄÅóÓÑ¡£Ò»»á¶ùÔÙ¼ûÁË¡£
+0x2E849C54=~z~å‡†å¤‡å¥½è·³ä¸‹å»å§ï¼Œæˆ‘çš„æœ‹å‹ã€‚ä¸€ä¼šå„¿å†è§äº†ã€‚
 
 ;0x2FD08890=~z~No, man, shit. We need the genuine article. The real deal.
-0x2FD08890=~z~²»ÊÇµÄ£¬ĞÖµÜ£¬²Ù¡£ÎÒÃÇµÃÅªÀ´Ò»Á¾Õæ»õ¡£ÕæÆ·¡£
+0x2FD08890=~z~ä¸æ˜¯çš„ï¼Œå…„å¼Ÿï¼Œæ“ã€‚æˆ‘ä»¬å¾—å¼„æ¥ä¸€è¾†çœŸè´§ã€‚çœŸå“ã€‚
 
 ;0x2FFCDE48=SFX_PAUSE_300
 0x2FFCDE48=SFX_PAUSE_300
@@ -240,16 +240,16 @@
 0x315AD209=010090100090100090010090100090100090010
 
 ;0x32762808=~z~Hey man, I missed the train, bro. You're gonna have to rethink things.
-0x32762808=~z~ºÙĞÖµÜ£¬ÎÒ´í¹ıÁĞ³µÁË£¬ĞÖµÜ¡£Äã¿ÉÄÜµÃÖØĞÂ¹æ»®ÁË¡£
+0x32762808=~z~å˜¿å…„å¼Ÿï¼Œæˆ‘é”™è¿‡åˆ—è½¦äº†ï¼Œå…„å¼Ÿã€‚ä½ å¯èƒ½å¾—é‡æ–°è§„åˆ’äº†ã€‚
 
 ;0x332EAEF4=~z~I'm here, Yusuf. Where the fuck are you?
-0x332EAEF4=~z~ÎÒÔÚÕâ£¬Yusuf¡£ÄãËûÂèµÄÈËÄØ£¿
+0x332EAEF4=~z~æˆ‘åœ¨è¿™ï¼ŒYusufã€‚ä½ ä»–å¦ˆçš„äººå‘¢ï¼Ÿ
 
 ;0x334A8025=SFX_PAUSE_160
 0x334A8025=SFX_PAUSE_160
 
 ;0x339A9A46=~z~Don't joke around with that weapon, dog.
-0x339A9A46=~z~±ğÄÃÄÇÇ¹¿ªÍæĞ¦£¬ĞÖµÜ¡£
+0x339A9A46=~z~åˆ«æ‹¿é‚£æªå¼€ç©ç¬‘ï¼Œå…„å¼Ÿã€‚
 
 ;0x351C9473=092
 0x351C9473=092
@@ -267,19 +267,19 @@
 0x39290A64=E2Y4_FE
 
 ;0x396DAEC7=~z~Here goes.
-0x396DAEC7=~z~À´ÁË¡£
+0x396DAEC7=~z~æ¥äº†ã€‚
 
 ;0x397E3D19=E2Y4_AUA
 0x397E3D19=E2Y4_AUA
 
 ;0x3A7E3841=~z~I wish I was coming with you, man. I'd be one crazy motherfucker on that train.
-0x3A7E3841=~z~ÎÒÕæµÄÏëºÍÄãÒ»ÆğÈ¥£¬»ï¼Æ¡£ÎÒÔÚÁĞ³µÉÏ¾ÍÊÇ¸ö·èµÄ¡£
+0x3A7E3841=~z~æˆ‘çœŸçš„æƒ³å’Œä½ ä¸€èµ·å»ï¼Œä¼™è®¡ã€‚æˆ‘åœ¨åˆ—è½¦ä¸Šå°±æ˜¯ä¸ªç–¯çš„ã€‚
 
 ;0x3B1E00D2=E2Y4_XA
 0x3B1E00D2=E2Y4_XA
 
 ;0x3B9162A2=~z~I got to be quicker.
-0x3B9162A2=~z~ÎÒµÃ¿ìµãÁË¡£
+0x3B9162A2=~z~æˆ‘å¾—å¿«ç‚¹äº†ã€‚
 
 ;0x3BCD7DCA=E2Y4_VA
 0x3BCD7DCA=E2Y4_VA
@@ -288,7 +288,7 @@
 0x3BCE3B16=E2Y4_BC
 
 ;0x3C62F525=~z~You doing worse to this train than I am.
-0x3C62F525=~z~Äã¶ÔÕâÁĞ³µ×öµÄÊÂÔã¹ıÎÒ¡£
+0x3C62F525=~z~ä½ å¯¹è¿™åˆ—è½¦åšçš„äº‹ç³Ÿè¿‡æˆ‘ã€‚
 
 ;0x3CE85BD9=SFX_PAUSE_290
 0x3CE85BD9=SFX_PAUSE_290
@@ -303,19 +303,19 @@
 0x3DF93D5D=100090100090010090100090100090100
 
 ;0x3EF24309=~z~You ready?
-0x3EF24309=~z~Äã×¼±¸ºÃÁË£¿
+0x3EF24309=~z~ä½ å‡†å¤‡å¥½äº†ï¼Ÿ
 
 ;0x3FF80468=106
 0x3FF80468=106
 
 ;0x403B0659=~z~Unhook the lead car.
-0x403B0659=~z~½â¿ª³µÍ·¡£
+0x403B0659=~z~è§£å¼€è½¦å¤´ã€‚
 
 ;0x406A807B=E2Y4_MB
 0x406A807B=E2Y4_MB
 
 ;0x406B48A4=~z~Yo, nigga!
-0x406B48A4=~z~Ó´£¬Ğ¡ºÚÆ¤£¡
+0x406B48A4=~z~å“Ÿï¼Œå°é»‘çš®ï¼
 
 ;0x41B39A65=010090100090100090100090010090100090100090100090010
 0x41B39A65=010090100090100090100090010090100090100090100090010
@@ -327,28 +327,28 @@
 0x426D3386=SFX_PAUSE_240
 
 ;0x439D8282=~z~But he's obsessed with what they won't sell him.
-0x439D8282=~z~µ«Ëû³ÕÃÔÓÚÄÇĞ©ËûÂò²»µ½µÄ¶«Î÷¡£
+0x439D8282=~z~ä½†ä»–ç—´è¿·äºé‚£äº›ä»–ä¹°ä¸åˆ°çš„ä¸œè¥¿ã€‚
 
 ;0x448A0573=~z~I fuckin' hate helicopters.
-0x448A0573=~z~ÎÒÕæËûÂèµÄºŞÖ±Éı»ú¡£
+0x448A0573=~z~æˆ‘çœŸä»–å¦ˆçš„æ¨ç›´å‡æœºã€‚
 
 ;0x45E3EB79=E2Y4_EB
 0x45E3EB79=E2Y4_EB
 
 ;0x471CD155=~z~Okay, man, okay. Back to the drawing board. Call me.
-0x471CD155=~z~ºÃµÄ£¬ĞÖµÜ£¬ºÃµÄ¡£ÌÉ»Ø³µÉÏ¡£ÁªÏµÎÒ¡££¨¿´²»¶®£¬²»ÖªµÀÊÇÈÎÎñÊ§°Ü»¹ÊÇÈÎÎñÖĞÌ¨´Ê
+0x471CD155=~z~å¥½çš„ï¼Œå…„å¼Ÿï¼Œå¥½çš„ã€‚èººå›è½¦ä¸Šã€‚è”ç³»æˆ‘ã€‚ï¼ˆçœ‹ä¸æ‡‚ï¼Œä¸çŸ¥é“æ˜¯ä»»åŠ¡å¤±è´¥è¿˜æ˜¯ä»»åŠ¡ä¸­å°è¯
 
 ;0x47340300=SFX_PAUSE_120
 0x47340300=SFX_PAUSE_120
 
 ;0x47813AA9=~z~Yo, I'm Dominican. We ain't terrorists, you dumb fucks.
-0x47813AA9=~z~Ó´£¬ÎÒÊÇ¶àÃ×ÄáÑÇÁ¼Ãñ¡£ÎÒÃÇ²»ÊÇ¿Ö²À·Ö×Ó£¬ÄãÃÇÕâĞ©´À»õ¡£
+0x47813AA9=~z~å“Ÿï¼Œæˆ‘æ˜¯å¤šç±³å°¼äºšè‰¯æ°‘ã€‚æˆ‘ä»¬ä¸æ˜¯ææ€–åˆ†å­ï¼Œä½ ä»¬è¿™äº›è ¢è´§ã€‚
 
 ;0x4A0109BA=E2Y4_DC
 0x4A0109BA=E2Y4_DC
 
 ;0x4A1D0DEF=~z~I don't think I'm going to get this bitch.
-0x4A1D0DEF=~z~ÎÒ¸Ğ¾õÎÒÄÃ²»µ½ÕâŒÅ³µÁË¡£
+0x4A1D0DEF=~z~æˆ‘æ„Ÿè§‰æˆ‘æ‹¿ä¸åˆ°è¿™å±Œè½¦äº†ã€‚
 
 ;0x4B6CC710=SFX_PAUSE_190
 0x4B6CC710=SFX_PAUSE_190
@@ -357,13 +357,13 @@
 0x4B94CE68=E2Y4_HB
 
 ;0x4BAFBB82=~z~Fuuuuuck.
-0x4BAFBB82=~z~²Ù²Ù²Ù²Ù²Ù²Ù²Ù²Ù¡£
+0x4BAFBB82=~z~æ“æ“æ“æ“æ“æ“æ“æ“ã€‚
 
 ;0x4C18EA03=SFX_PAUSE_220
 0x4C18EA03=SFX_PAUSE_220
 
 ;0x4D5AC91B=~z~Before I forget, you mind handing over some more of those explosive shells? Those things are tight, man.
-0x4D5AC91B=~z~ÔÚÎÒÃ¦ÍüÖ®Ç°£¬Äã½éÒâÔÙ¸øÎÒĞ©±¬ÁÑµ¯Âğ£¿ÄÇ¶«Î÷µÃ½ô×ÅÓÃ£¬ĞÖµÜ¡£
+0x4D5AC91B=~z~åœ¨æˆ‘å¿™å¿˜ä¹‹å‰ï¼Œä½ ä»‹æ„å†ç»™æˆ‘äº›çˆ†è£‚å¼¹å—ï¼Ÿé‚£ä¸œè¥¿å¾—ç´§ç€ç”¨ï¼Œå…„å¼Ÿã€‚
 
 ;0x4DCD07AB=100090010090100090100090010090100090100
 0x4DCD07AB=100090010090100090100090010090100090100
@@ -372,10 +372,10 @@
 0x4E0E510B=E2Y4_HC
 
 ;0x4F154BBC=~z~Here goes nothing.
-0x4F154BBC=~z~ÕâÃ«¶¼Ã»ÓĞ¡£
+0x4F154BBC=~z~è¿™æ¯›éƒ½æ²¡æœ‰ã€‚
 
 ;0x4F441462=~z~What? They on me already?
-0x4F441462=~z~Ê²Ã´£¿ËûÃÇÕâ¾ÍÀ´×¥ÎÒÁË£¿
+0x4F441462=~z~ä»€ä¹ˆï¼Ÿä»–ä»¬è¿™å°±æ¥æŠ“æˆ‘äº†ï¼Ÿ
 
 ;0x511F25EC=010090100090010
 0x511F25EC=010090100090010
@@ -384,19 +384,19 @@
 0x51647EDA=SFX_PAUSE_210
 
 ;0x52C7A1EE=~z~Give a man a break.
-0x52C7A1EE=~z~°²Ï¢°É¡£
+0x52C7A1EE=~z~å®‰æ¯å§ã€‚
 
 ;0x541F2DED=E2Y4_BCA
 0x541F2DED=E2Y4_BCA
 
 ;0x54960A82=~z~We good to go?
-0x54960A82=~z~ÎÒÃÇ¿ÉÒÔ×ßÁËÂğ£¿
+0x54960A82=~z~æˆ‘ä»¬å¯ä»¥èµ°äº†å—ï¼Ÿ
 
 ;0x55829311=~z~You think we could put the Amir name to anything but authentic shit?
-0x55829311=~z~Äã¾õµÃÎÒÃÇÄÜ°ÑAmirµÄÃû×ÖĞ´ÔÚË®»õ·ÂÆ·ÉÏÂğ£¿
+0x55829311=~z~ä½ è§‰å¾—æˆ‘ä»¬èƒ½æŠŠAmirçš„åå­—å†™åœ¨æ°´è´§ä»¿å“ä¸Šå—ï¼Ÿ
 
 ;0x5795D816=~z~No one likes people fucking with their public transport in this paranoid age.
-0x5795D816=~z~ÔÚÕâ¸öÆ«Ö´µÄÊ±´ú£¬´ó¼Ò¶¼ÌÖÑá´ò¹«¹²½»Í¨Ö÷ÒâµÄÈË¡£
+0x5795D816=~z~åœ¨è¿™ä¸ªåæ‰§çš„æ—¶ä»£ï¼Œå¤§å®¶éƒ½è®¨åŒæ‰“å…¬å…±äº¤é€šä¸»æ„çš„äººã€‚
 
 ;0x57EC9C41=E2Y4_ABA
 0x57EC9C41=E2Y4_ABA
@@ -405,7 +405,7 @@
 0x5892E93C=SFX_PAUSE_300
 
 ;0x596EFBB3=~z~Damn right, motherfucker!
-0x596EFBB3=~z~²ÙÁË£¬²ÙËûÂèµÄ£¡
+0x596EFBB3=~z~æ“äº†ï¼Œæ“ä»–å¦ˆçš„ï¼
 
 ;0x59C8592E=106
 0x59C8592E=106
@@ -423,25 +423,25 @@
 0x5B6F839D=E2Y4_BBA
 
 ;0x5C212E1C=~z~You kidding me? Where were they hiding?
-0x5C212E1C=~z~ÄãÔÚ¶ºÎÒ£¿ËûÃÇ¶ãÔÚÄÄÀïµÄ£¿
+0x5C212E1C=~z~ä½ åœ¨é€—æˆ‘ï¼Ÿä»–ä»¬èº²åœ¨å“ªé‡Œçš„ï¼Ÿ
 
 ;0x5FB8E864=~z~You know what, I can drive to the chopper later. Take us to the Broker side of the Algonquin bridge now.
-0x5FB8E864=~z~ÄãÖªµÀÂğ£¬ÎÒ»á¿ª³µÈ¥ÄÃÖ±Éı»ú¡£ÏÖÔÚÎÒÃÇÏÈÈ¥BrokerµÄÄÇ±ßµÄAlgonquin´óÇÅ¡£
+0x5FB8E864=~z~ä½ çŸ¥é“å—ï¼Œæˆ‘ä¼šå¼€è½¦å»æ‹¿ç›´å‡æœºã€‚ç°åœ¨æˆ‘ä»¬å…ˆå»Brokerçš„é‚£è¾¹çš„Algonquinå¤§æ¡¥ã€‚
 
 ;0x60496EF8=~z~Yusuf, bro. Hand over some more exploding shotgun shells. I love those things.
-0x60496EF8=~z~Yusuf£¬ĞÖµÜ¡£¶à¸øÎÒµã±¬ÁÑµ¯¡£ÎÒ°®ÄÇÍæÒâ¶ù¡£
+0x60496EF8=~z~Yusufï¼Œå…„å¼Ÿã€‚å¤šç»™æˆ‘ç‚¹çˆ†è£‚å¼¹ã€‚æˆ‘çˆ±é‚£ç©æ„å„¿ã€‚
 
 ;0x60BFEF11=~z~What I got myself into?
-0x60BFEF11=~z~ÎÒ¸ÉÁËÊ²Ã´ÄñÊÂ£¿
+0x60BFEF11=~z~æˆ‘å¹²äº†ä»€ä¹ˆé¸Ÿäº‹ï¼Ÿ
 
 ;0x60EF9DB3=~z~Shit, man, I was already playing subway conductor in my head. Too fucking lame. Call me soon.
-0x60EF9DB3=~z~»ï¼Æ£¬¾ÍÕâ£¬ÎÒ¶¼ÄÔ²¹ÎÒÒÔºóÔÚº£ÍåÂôÆ±ÁË¡£²ËµÄ¿Ù½Å¡£Ò»»á¶ù»Øµç¡£
+0x60EF9DB3=~z~ä¼™è®¡ï¼Œå°±è¿™ï¼Œæˆ‘éƒ½è„‘è¡¥æˆ‘ä»¥ååœ¨æµ·æ¹¾å–ç¥¨äº†ã€‚èœçš„æŠ è„šã€‚ä¸€ä¼šå„¿å›ç”µã€‚
 
 ;0x61136754=~z~I don't know why I hang out with you, bro.
-0x61136754=~z~ÎÒ¶¼²»ÖªµÀÎÒÎªÊ²Ã´Òª¸úÄã»ìÔÚÒ»Æğ£¬ĞÖµÜ¡£
+0x61136754=~z~æˆ‘éƒ½ä¸çŸ¥é“æˆ‘ä¸ºä»€ä¹ˆè¦è·Ÿä½ æ··åœ¨ä¸€èµ·ï¼Œå…„å¼Ÿã€‚
 
 ;0x63F90FBF=~z~They invented math and shit. I'm here I'm not afraid. I can get my hands dirty. I can work.
-0x63F90FBF=~z~ËûÃÇ´´ÔìÁËÊıÑ§ºÍ³ô¹·Êº¡£ÎÒÔÚÕâÉ¶¶¼²»ÅÂ¡£ÎÒÄÜ¸ÉÕâ»î¡£ÎÒ¿ÉÒÔµÄ¡£
+0x63F90FBF=~z~ä»–ä»¬åˆ›é€ äº†æ•°å­¦å’Œè‡­ç‹—å±ã€‚æˆ‘åœ¨è¿™å•¥éƒ½ä¸æ€•ã€‚æˆ‘èƒ½å¹²è¿™æ´»ã€‚æˆ‘å¯ä»¥çš„ã€‚
 
 ;0x645DA068=E2Y4_AFA
 0x645DA068=E2Y4_AFA
@@ -450,7 +450,7 @@
 0x64F0E039=E2Y4_CE1
 
 ;0x65C97EA3=~z~Don't fucking shoot me, man.
-0x65C97EA3=~z~±ğËûÂèÉäÎÒ£¬»ï¼Æ¡£
+0x65C97EA3=~z~åˆ«ä»–å¦ˆå°„æˆ‘ï¼Œä¼™è®¡ã€‚
 
 ;0x66752A5B=E2Y4_EC
 0x66752A5B=E2Y4_EC
@@ -465,7 +465,7 @@
 0x67FDF981=~z~Diablo.
 
 ;0x68311910=~z~Yusuf, where are you, bro?
-0x68311910=~z~Yusuf£¬ÄãÔÚÄÄ°¡£¬ĞÖµÜ£¿
+0x68311910=~z~Yusufï¼Œä½ åœ¨å“ªå•Šï¼Œå…„å¼Ÿï¼Ÿ
 
 ;0x6A7C6BF5=E2Y4_IB1
 0x6A7C6BF5=E2Y4_IB1
@@ -480,40 +480,40 @@
 0x6DDDC7C2=091
 
 ;0x6DFEF5E1=~z~We can always get a new car.
-0x6DFEF5E1=~z~ÎÒÃÇËæÊ±ÄÜÅªÁ¾ĞÂ³µ¡£
+0x6DFEF5E1=~z~æˆ‘ä»¬éšæ—¶èƒ½å¼„è¾†æ–°è½¦ã€‚
 
 ;0x6E4280A7=~z~Shiiiiiit.
-0x6E4280A7=~z~²Ù²Ù²Ù²Ù²Ù²Ù²Ù²Ù¡£
+0x6E4280A7=~z~æ“æ“æ“æ“æ“æ“æ“æ“ã€‚
 
 ;0x6E5E8863=~z~Leave me alone!
-0x6E5E8863=~z~±ğ¹ÜÎÒ£¡
+0x6E5E8863=~z~åˆ«ç®¡æˆ‘ï¼
 
 ;0x6E881021=E2Y4_HA
 0x6E881021=E2Y4_HA
 
 ;0x6F0804F0=~z~We rolling out to the Broker side of the Algonquin bridge, homeboy.
-0x6F0804F0=~z~ÎÒÃÇµÃ¿ªµ½AlgonquinÇÅµÄÔÑµÀÉÏ£¬»ï¼Æ¡£
+0x6F0804F0=~z~æˆ‘ä»¬å¾—å¼€åˆ°Algonquinæ¡¥çš„åŒé“ä¸Šï¼Œä¼™è®¡ã€‚
 
 ;0x6F103832=~z~Wait for it.
-0x6F103832=~z~µÈÒ»ÏÂ¡£
+0x6F103832=~z~ç­‰ä¸€ä¸‹ã€‚
 
 ;0x71400B2D=~z~Urgh...shit.
-0x71400B2D=~z~°¡...²Ù¡£
+0x71400B2D=~z~å•Š...æ“ã€‚
 
 ;0x71FC7565=~z~What the fuck am I getting into, man? Shit.
-0x71FC7565=~z~ÎÒËûÂèÔÚ¸ãÊ²Ã´¹í¼¦°Í£¬ĞÖµÜ£¿²ÙÁË¡£
+0x71FC7565=~z~æˆ‘ä»–å¦ˆåœ¨æä»€ä¹ˆé¬¼é¸¡å·´ï¼Œå…„å¼Ÿï¼Ÿæ“äº†ã€‚
 
 ;0x7252E477=~z~Okay, cool man, listen, it was good catching up with you, okay? I'll see you soon.
-0x7252E477=~z~ºÃµÄ£¬´øÒÕÊõ¼Ò£¬Ìı×Å£¬ºÜ¸ßĞËÓÖÅöµ½Äã£¬ºÃÂğ£¿¸æ´Ç¡£
+0x7252E477=~z~å¥½çš„ï¼Œå¸¦è‰ºæœ¯å®¶ï¼Œå¬ç€ï¼Œå¾ˆé«˜å…´åˆç¢°åˆ°ä½ ï¼Œå¥½å—ï¼Ÿå‘Šè¾ã€‚
 
 ;0x732536AC=E2Y4_HD
 0x732536AC=E2Y4_HD
 
 ;0x73A9AA97=~z~The plan doesn't allow for that, homie. Disappoints me as much as you. Probably more. Inside, I am crying.
-0x73A9AA97=~z~¼Æ»®ÀïÃ»Õâµã£¬ºÃĞÖµÜ¡£ÎÒ¿ÉÄÜ±ÈÄã¸üÊ§Íû¡£ÔÚÎÒĞÄÀï£¬ÎÒÒÑ¾­¿ŞÁË¡£
+0x73A9AA97=~z~è®¡åˆ’é‡Œæ²¡è¿™ç‚¹ï¼Œå¥½å…„å¼Ÿã€‚æˆ‘å¯èƒ½æ¯”ä½ æ›´å¤±æœ›ã€‚åœ¨æˆ‘å¿ƒé‡Œï¼Œæˆ‘å·²ç»å“­äº†ã€‚
 
 ;0x747805B2=~z~There might even be room for a Maisonette 9 franchise there. How about it?
-0x747805B2=~z~ÄÇÀïÉõÖÁ¿ÉÄÜ»á¸ø9ºÅºÀÕ¬Ò»¸öÌØĞí¾­ÓªµÄ¿Õ¼ä¡£ÕâµãÔõÃ´Ñù£¿
+0x747805B2=~z~é‚£é‡Œç”šè‡³å¯èƒ½ä¼šç»™9å·è±ªå®…ä¸€ä¸ªç‰¹è®¸ç»è¥çš„ç©ºé—´ã€‚è¿™ç‚¹æ€ä¹ˆæ ·ï¼Ÿ
 
 ;0x74939F71=E2Y4_BG
 0x74939F71=E2Y4_BG
@@ -522,61 +522,61 @@
 0x749C15D6=E2Y4_AKA
 
 ;0x7549325F=~z~Well you know it's my father...uh...hey, you know my ancestors, we built the pyramids baby! We built the ziggurats.
-0x7549325F=~z~ºÃ°ÉÄãÖªµÀÎÒ¸¸±²..ßÀ..ºÙ£¬ÄãÖªµÀÎÒ×æ±²ÉÏ°É£¬ÎÒÃÇ½¨ÔìÁË½ğ×ÖËş±¦±´£¡ÎÒÃÇ´´ÔìÁËÉñ¼£¡£
+0x7549325F=~z~å¥½å§ä½ çŸ¥é“æˆ‘çˆ¶è¾ˆ..å‘ƒ..å˜¿ï¼Œä½ çŸ¥é“æˆ‘ç¥–è¾ˆä¸Šå§ï¼Œæˆ‘ä»¬å»ºé€ äº†é‡‘å­—å¡”å®è´ï¼æˆ‘ä»¬åˆ›é€ äº†ç¥è¿¹ã€‚
 
 ;0x75AE4771=106
 0x75AE4771=106
 
 ;0x76CA608F=~z~Have fun with it, you crazy fool.
-0x76CA608F=~z~ËÍ»ØÈ¥ÉµÀÖ°É£¬Äã¸ö¶ş»õ¡£
+0x76CA608F=~z~é€å›å»å‚»ä¹å§ï¼Œä½ ä¸ªäºŒè´§ã€‚
 
 ;0x778A08D5=~z~Sounds real simple.
-0x778A08D5=~z~ÌıÆğÀ´ºÜ¼òµ¥¡£
+0x778A08D5=~z~å¬èµ·æ¥å¾ˆç®€å•ã€‚
 
 ;0x7790B445=~z~I'm waiting.
-0x7790B445=~z~ÎÒ»¹ÔÚµÈ¡£
+0x7790B445=~z~æˆ‘è¿˜åœ¨ç­‰ã€‚
 
 ;0x78C19235=106
 0x78C19235=106
 
 ;0x79370452=~z~Cynics don't build pyramids, man. You got to believe. Tell me you believe, Luis.
-0x79370452=~z~±¯¹ÛµÄÈËÔì²»³ö½ğ×ÖËşµÄ£¬ĞÖµÜ£¬ÄãµÃÏàĞÅ¡£¸æËßÎÒÄãÏàĞÅ£¬Luis¡£
+0x79370452=~z~æ‚²è§‚çš„äººé€ ä¸å‡ºé‡‘å­—å¡”çš„ï¼Œå…„å¼Ÿï¼Œä½ å¾—ç›¸ä¿¡ã€‚å‘Šè¯‰æˆ‘ä½ ç›¸ä¿¡ï¼ŒLuisã€‚
 
 ;0x7A26F423=~z~what are you doing here?
-0x7A26F423=~z~ÄãÔÚÕâ¸ÉÊ²Ã´?
+0x7A26F423=~z~ä½ åœ¨è¿™å¹²ä»€ä¹ˆ?
 
 ;0x7A6E5632=~z~Do it! Do it! Let's go.
-0x7A6E5632=~z~¿ìµã£¡¿ìµã£¡ÎÒÃÇ×ß¡£
+0x7A6E5632=~z~å¿«ç‚¹ï¼å¿«ç‚¹ï¼æˆ‘ä»¬èµ°ã€‚
 
 ;0x7B94E224=010090100
 0x7B94E224=010090100
 
 ;0x7C9077AD=~z~That and I'm going to put your clubs on the world stage.
-0x7C9077AD=~z~ÎÒÒª°ÑÄãµÄ¾ãÀÖ²¿ÍÆ¹ãµ½ÊÀ½çÉÏÈ¥¡£
+0x7C9077AD=~z~æˆ‘è¦æŠŠä½ çš„ä¿±ä¹éƒ¨æ¨å¹¿åˆ°ä¸–ç•Œä¸Šå»ã€‚
 
 ;0x7CD4C3CF=~z~I'm going in for the kill. Hold on!
-0x7CD4C3CF=~z~ÎÒ¿ìÒª½áÊøÁË¡£¼á³Ö×¡£¡
+0x7CD4C3CF=~z~æˆ‘å¿«è¦ç»“æŸäº†ã€‚åšæŒä½ï¼
 
 ;0x7D7C56CC=~z~Yusuf, bro, we got problems, man. I couldn't handle that thing for you.
-0x7D7C56CC=~z~Yusuf£¬ĞÖµÜ£¬ÎÒÃÇÓĞÂé·³ÁË£¬ĞÖµÜ¡£ÎÒ²»ÄÜ°ïÄã½â¾öÄÇ¼şÊÂÁË¡£
+0x7D7C56CC=~z~Yusufï¼Œå…„å¼Ÿï¼Œæˆ‘ä»¬æœ‰éº»çƒ¦äº†ï¼Œå…„å¼Ÿã€‚æˆ‘ä¸èƒ½å¸®ä½ è§£å†³é‚£ä»¶äº‹äº†ã€‚
 
 ;0x8035A90C=~z~Come on.
-0x8035A90C=~z~À´°É¡£
+0x8035A90C=~z~æ¥å§ã€‚
 
 ;0x806A90AB=E2Y4_AWA
 0x806A90AB=E2Y4_AWA
 
 ;0x80E128A2=~z~Head out to the east side of the Algonquin Bridge, my dude.
-0x80E128A2=~z~ÏÈÈ¥AlgonquinÇÅµÄ¶«²à£¬ÎÒµÄ¸ç¡£
+0x80E128A2=~z~å…ˆå»Algonquinæ¡¥çš„ä¸œä¾§ï¼Œæˆ‘çš„å“¥ã€‚
 
 ;0x820579E4=~z~Where the fuck did they come from?
-0x820579E4=~z~Õâ°ï»ìµ°´ÓÄÄÃ°³öÀ´µÄ¡£
+0x820579E4=~z~è¿™å¸®æ··è›‹ä»å“ªå†’å‡ºæ¥çš„ã€‚
 
 ;0x8236A12F=~z~The train is not just for me. It will be the centerpiece of a new Liberty themed development in the Gulf.
-0x8236A12F=~z~²»ÊÇ¸øÎÒ×Ô¼ºµÄ¡£Ëü»á³ÉÎªº£ÍåµØÇøĞÂ¿ª·¢ÏîÄ¿µÄºËĞÄ£¬ÒÔ×ÔÓÉ³ÇÎªÖ÷Ìâ¡£
+0x8236A12F=~z~ä¸æ˜¯ç»™æˆ‘è‡ªå·±çš„ã€‚å®ƒä¼šæˆä¸ºæµ·æ¹¾åœ°åŒºæ–°å¼€å‘é¡¹ç›®çš„æ ¸å¿ƒï¼Œä»¥è‡ªç”±åŸä¸ºä¸»é¢˜ã€‚
 
 ;0x82FAAEA2=~z~Man.
-0x82FAAEA2=~z~ĞÖµÜ¡£
+0x82FAAEA2=~z~å…„å¼Ÿã€‚
 
 ;0x8343B6A9=E2Y4_QA
 0x8343B6A9=E2Y4_QA
@@ -588,7 +588,7 @@
 0x83982B08=100
 
 ;0x84242512=~z~They called Michelangelo crazy, but he invented the wheel and who's laughing now?
-0x84242512=~z~ËûÃÇËµÃ×¿ªÀÊ»ùÂŞÊÇ·è×Ó£¬µ«Ëû·¢Ã÷ÁË³µÂÖ£¬¿´¿´ÏÖÔÚË­µÃÒâ£¿
+0x84242512=~z~ä»–ä»¬è¯´ç±³å¼€æœ—åŸºç½—æ˜¯ç–¯å­ï¼Œä½†ä»–å‘æ˜äº†è½¦è½®ï¼Œçœ‹çœ‹ç°åœ¨è°å¾—æ„ï¼Ÿ
 
 ;0x8511FAC2=106
 0x8511FAC2=106
@@ -600,10 +600,10 @@
 0x853EF79B=106
 
 ;0x86080BE1=~z~Hey, not so fast, homie.
-0x86080BE1=~z~ºÙ£¬±ğ½é£¬ºÃĞÖµÜ¡£
+0x86080BE1=~z~å˜¿ï¼Œåˆ«ä»‹ï¼Œå¥½å…„å¼Ÿã€‚
 
 ;0x861CB7DF=~z~I'm just riding the motherfucking metro!
-0x861CB7DF=~z~ÎÒËûÂèÖ»ÊÇÔÚ´î³µ£¡
+0x861CB7DF=~z~æˆ‘ä»–å¦ˆåªæ˜¯åœ¨æ­è½¦ï¼
 
 ;0x867EFB2D=SFX_PAUSE_170
 0x867EFB2D=SFX_PAUSE_170
@@ -615,16 +615,16 @@
 0x86ED797A=SFX_PAUSE_390
 
 ;0x876CEC84=~z~I'm gonna look after you. You and Tony. Your problems, man, Yusuf can make them go away.
-0x876CEC84=~z~ÎÒ»áÕÕ¹ËºÃÄãµÄ¡£ÄãºÍTony¡£ÄãµÄÎÊÌâ£¬ĞÖµÜ£¬YusufÄÜ½â¾öµôµÄ¡£
+0x876CEC84=~z~æˆ‘ä¼šç…§é¡¾å¥½ä½ çš„ã€‚ä½ å’ŒTonyã€‚ä½ çš„é—®é¢˜ï¼Œå…„å¼Ÿï¼ŒYusufèƒ½è§£å†³æ‰çš„ã€‚
 
 ;0x87B9ED2A=~z~You better be able to, bro. 'Cause you about to owe me big time.
-0x87B9ED2A=~z~Äã×îºÃÄÜ°ìµ½£¬ĞÖµÜ¡£ÒòÎªÄãÇ·ÎÒÌ«¶àÁË¡£
+0x87B9ED2A=~z~ä½ æœ€å¥½èƒ½åŠåˆ°ï¼Œå…„å¼Ÿã€‚å› ä¸ºä½ æ¬ æˆ‘å¤ªå¤šäº†ã€‚
 
 ;0x87C48373=E2Y4_AVA
 0x87C48373=E2Y4_AVA
 
 ;0x89C1228B=~z~Ever since I played with my golden train set as a child, I have always wanted one and now we're gonna get it.
-0x89C1228B=~z~×Ô´ÓÎÒĞ¡Ê±ºòÍæ¹ıÎÒµÄ»Æ½ğĞ¡ÁĞ³µÒÔºó£¬ÎÒ¾ÍÒ»Ö±ÏëÒªÒ»¸ö£¬ÏÖÔÚÎÒÃÇ¸ãµ½ÁË¡£
+0x89C1228B=~z~è‡ªä»æˆ‘å°æ—¶å€™ç©è¿‡æˆ‘çš„é»„é‡‘å°åˆ—è½¦ä»¥åï¼Œæˆ‘å°±ä¸€ç›´æƒ³è¦ä¸€ä¸ªï¼Œç°åœ¨æˆ‘ä»¬æåˆ°äº†ã€‚
 
 ;0x8A476E6E=E2Y4_FG
 0x8A476E6E=E2Y4_FG
@@ -633,19 +633,19 @@
 0x8A7DEE6E=E2Y4_AA
 
 ;0x8CC2DC81=~z~I told you I was getting one of these.
-0x8CC2DC81=~z~ÎÒËµ¹ıÎÒÒªÅªÒ»¸ö¡£
+0x8CC2DC81=~z~æˆ‘è¯´è¿‡æˆ‘è¦å¼„ä¸€ä¸ªã€‚
 
 ;0x8D0AECB1=~z~Check this out, a genuine LTA submarine train!
-0x8D0AECB1=~z~¿´¿´Õâ¸ö£¬Ò»Á¾LTAÇ±Í§ÁĞ³µ£¡
+0x8D0AECB1=~z~çœ‹çœ‹è¿™ä¸ªï¼Œä¸€è¾†LTAæ½œè‰‡åˆ—è½¦ï¼
 
 ;0x8D56DDA3=E2Y4_AMB
 0x8D56DDA3=E2Y4_AMB
 
 ;0x8D72023E=~z~Get your gas masks on!
-0x8D72023E=~z~´÷ÉÏÄãµÄÃæ¾ß£¡
+0x8D72023E=~z~æˆ´ä¸Šä½ çš„é¢å…·ï¼
 
 ;0x8DEE1BB1=~z~I'm crafting this whole thing with my bare hands.
-0x8DEE1BB1=~z~ÎÒÕıÔÚÇ×ÊÖÍê³ÉÕâ×ùÉñ¼£¡£
+0x8DEE1BB1=~z~æˆ‘æ­£åœ¨äº²æ‰‹å®Œæˆè¿™åº§ç¥è¿¹ã€‚
 
 ;0x8DEF33F6=SFX_PAUSE_300
 0x8DEF33F6=SFX_PAUSE_300
@@ -657,13 +657,13 @@
 0x8F640192=E2Y4_EG
 
 ;0x913758E3=~z~This is where you going to jump.
-0x913758E3=~z~Õâ¾ÍÊÇÄãÒªÌøµÄµØ·½¡£
+0x913758E3=~z~è¿™å°±æ˜¯ä½ è¦è·³çš„åœ°æ–¹ã€‚
 
 ;0x920D090B=~z~Believe it, baby. Pinch yourself. You ain't dreaming. This is no film. The city is our playground, homie.
-0x920D090B=~z~ĞÑĞÑ£¬±¦±´£¬ÆşÆşÄã×Ô¼º¡£ÄãÃ»ÓĞ×öÃÎ¡£Ã»ÔÚÅÄµçÓ°¡£Õâ³ÇÊĞ¾ÍÊÇÎÒÃÇµÄÓÎÀÖ³¡£¬ºÃĞÖµÜ¡£
+0x920D090B=~z~é†’é†’ï¼Œå®è´ï¼Œææä½ è‡ªå·±ã€‚ä½ æ²¡æœ‰åšæ¢¦ã€‚æ²¡åœ¨æ‹ç”µå½±ã€‚è¿™åŸå¸‚å°±æ˜¯æˆ‘ä»¬çš„æ¸¸ä¹åœºï¼Œå¥½å…„å¼Ÿã€‚
 
 ;0x9320EF16=~z~What?
-0x9320EF16=~z~Ê²Ã´£¿
+0x9320EF16=~z~ä»€ä¹ˆï¼Ÿ
 
 ;0x93701027=SFX_PAUSE_190
 0x93701027=SFX_PAUSE_190
@@ -678,73 +678,73 @@
 0x94FE3901=E2Y4_FA
 
 ;0x9581D030=~z~I'll handle all the rest. Real simple, man.
-0x9581D030=~z~ÎÒ»á´¦ÀíÊ£ÏÂµÄ¡£ºÜ¼òµ¥µÄ£¬ĞÖµÜ¡£
+0x9581D030=~z~æˆ‘ä¼šå¤„ç†å‰©ä¸‹çš„ã€‚å¾ˆç®€å•çš„ï¼Œå…„å¼Ÿã€‚
 
 ;0x95B10F17=~z~But I thought you was busy building the pyramids?
-0x95B10F17=~z~µ«ÎÒ»¹ÒÔÎªÄãÔÚÃ¦×ÅÔì½ğ×ÖËş£¿
+0x95B10F17=~z~ä½†æˆ‘è¿˜ä»¥ä¸ºä½ åœ¨å¿™ç€é€ é‡‘å­—å¡”ï¼Ÿ
 
 ;0x97A2F4AE=106
 0x97A2F4AE=106
 
 ;0x98019158=~z~Come on, man.
-0x98019158=~z~À´°É£¬ĞÖµÜ¡£
+0x98019158=~z~æ¥å§ï¼Œå…„å¼Ÿã€‚
 
 ;0x983C99EB=E2Y4_AJA
 0x983C99EB=E2Y4_AJA
 
 ;0x98AF2428=~z~Greatest heist in Liberty City history. Look at us, man! We're the biggest pimps in the city.
-0x98AF2428=~z~×ÔÓÉ³ÇÊ·ÉÏ×î´óµÄ½Ù°¸¡£¿´¿´ÎÒÃÇ£¬ĞÖµÜ£¡ÎÒÃÇÊÇÕâ³ÇÀï×îÅÆÃæµÄ»¨»¨¹«×Ó¡£
+0x98AF2428=~z~è‡ªç”±åŸå²ä¸Šæœ€å¤§çš„åŠ«æ¡ˆã€‚çœ‹çœ‹æˆ‘ä»¬ï¼Œå…„å¼Ÿï¼æˆ‘ä»¬æ˜¯è¿™åŸé‡Œæœ€ç‰Œé¢çš„èŠ±èŠ±å…¬å­ã€‚
 
 ;0x98F29D63=~z~Fuck. That was close.
-0x98F29D63=~z~²Ù£¬ÄÇÌ«½Ó½üÁË¡£
+0x98F29D63=~z~æ“ï¼Œé‚£å¤ªæ¥è¿‘äº†ã€‚
 
 ;0x9B2CB2B7=~z~This is where the city's budget goes?
-0x9B2CB2B7=~z~Õâ¾ÍÊÇ³ÇÊĞ×Ê½ğµÄÓÃÍ¾£¿
+0x9B2CB2B7=~z~è¿™å°±æ˜¯åŸå¸‚èµ„é‡‘çš„ç”¨é€”ï¼Ÿ
 
 ;0x9C09DC35=~z~Ahhhhhhhh.
-0x9C09DC35=~z~°¡°¡°¡°¡°¡°¡°¡°¡°¡¡£
+0x9C09DC35=~z~å•Šå•Šå•Šå•Šå•Šå•Šå•Šå•Šå•Šã€‚
 
 ;0x9C11F40E=~z~OK, done.
-0x9C11F40E=~z~ºÃµÄ£¬ºÃÁË¡£
+0x9C11F40E=~z~å¥½çš„ï¼Œå¥½äº†ã€‚
 
 ;0x9CACA128=E2Y4_DA
 0x9CACA128=E2Y4_DA
 
 ;0x9D14A183=~z~He's got a bomb!
-0x9D14A183=~z~ËûÓĞÕ¨µ¯£¡
+0x9D14A183=~z~ä»–æœ‰ç‚¸å¼¹ï¼
 
 ;0x9D2EFC2D=~z~Just get me on the fucking ground!
-0x9D2EFC2D=~z~¿ìËûÂè·ÅÎÒÏÂÈ¥£¡
+0x9D2EFC2D=~z~å¿«ä»–å¦ˆæ”¾æˆ‘ä¸‹å»ï¼
 
 ;0x9DDBE759=~z~Asshole! What the fuck?
-0x9DDBE759=~z~ÂèµÄ£¬Ê²Ã´¹í£¿
+0x9DDBE759=~z~å¦ˆçš„ï¼Œä»€ä¹ˆé¬¼ï¼Ÿ
 
 ;0x9E16B86D=SFX_PAUSE_180
 0x9E16B86D=SFX_PAUSE_180
 
 ;0x9EF9BDC8=~z~"The impossible dream. Priceless indulgence. Style by Yusuf Amir. A timeless classic. Timeless classic!"
-0x9EF9BDC8=~z~¡°ÎŞ¾¡µÄÉİ»ª¡£²»¿ÉÄÜÖ®ÃÎ¡£Yusuf Amir·ç¸ñ¡£Ò»¸öÓÀºãµÄ¾­µä¡£ÓÀºãµÄ¾­µä!¡±
+0x9EF9BDC8=~z~â€œæ— å°½çš„å¥¢åã€‚ä¸å¯èƒ½ä¹‹æ¢¦ã€‚Yusuf Amiré£æ ¼ã€‚ä¸€ä¸ªæ°¸æ’çš„ç»å…¸ã€‚æ°¸æ’çš„ç»å…¸!â€
 
 ;0x9F728E81=SFX_PAUSE_460
 0x9F728E81=SFX_PAUSE_460
 
 ;0x9FDF3E4A=~z~'Cause you fucking love this shit, homie. Ain't nothing like rolling with this Arabic bad boy.
-0x9FDF3E4A=~z~ÒòÎªÄãÏ²»¶Õâ·İ»î£¬ĞÖµÜ¡£Ã»Ê²Ã´ÄÜÏñ¸ú×ÅÕâ¸ö°¢À­²®»µÄĞº¢»ì¸üºÃÁË¡£
+0x9FDF3E4A=~z~å› ä¸ºä½ å–œæ¬¢è¿™ä»½æ´»ï¼Œå…„å¼Ÿã€‚æ²¡ä»€ä¹ˆèƒ½åƒè·Ÿç€è¿™ä¸ªé˜¿æ‹‰ä¼¯åç”·å­©æ··æ›´å¥½äº†ã€‚
 
 ;0xA110DC46=~z~Okay, shit, if I do help you, what's the plan?
-0xA110DC46=~z~ºÃ°É£¬²Ù£¬Èç¹ûÎÒ°ïÄã£¬ÄÇ¼Æ»®ÊÇÊ²Ã´£¿
+0xA110DC46=~z~å¥½å§ï¼Œæ“ï¼Œå¦‚æœæˆ‘å¸®ä½ ï¼Œé‚£è®¡åˆ’æ˜¯ä»€ä¹ˆï¼Ÿ
 
 ;0xA2C878A5=~z~Nothing can go wrong.
-0xA2C878A5=~z~Ã»Ê²Ã´ÎÊÌâµÄ¡£
+0xA2C878A5=~z~æ²¡ä»€ä¹ˆé—®é¢˜çš„ã€‚
 
 ;0xA3EE25A2=~z~Violate this punk.
-0xA3EE25A2=~z~×¥×¡Õâ¸ö¼Ò»ï¡£
+0xA3EE25A2=~z~æŠ“ä½è¿™ä¸ªå®¶ä¼™ã€‚
 
 ;0xA4A59B57=010090100
 0xA4A59B57=010090100
 
 ;0xA589E7D5=~z~I ain't.
-0xA589E7D5=~z~ÎÒÃ»ÓĞ¡£
+0xA589E7D5=~z~æˆ‘æ²¡æœ‰ã€‚
 
 ;0xA595ABC5=E2Y4_EH
 0xA595ABC5=E2Y4_EH
@@ -753,22 +753,22 @@
 0xA714B468=SFX_PAUSE_050
 
 ;0xA79FEC09=~z~You fucking crazy, you know that?
-0xA79FEC09=~z~ÄãËûÂèµÄ·èÁË£¬Äã¶®Âğ£¿
+0xA79FEC09=~z~ä½ ä»–å¦ˆçš„ç–¯äº†ï¼Œä½ æ‡‚å—ï¼Ÿ
 
 ;0xA7F9AA04=~z~Excellent idea, my friend, but that will have to wait.
-0xA7F9AA04=~z~ºÜºÃµÄÖ÷Òâ£¬ÎÒµÄÅóÓÑ£¬µ«µÃµÈµÈ¡£
+0xA7F9AA04=~z~å¾ˆå¥½çš„ä¸»æ„ï¼Œæˆ‘çš„æœ‹å‹ï¼Œä½†å¾—ç­‰ç­‰ã€‚
 
 ;0xA947958A=~z~Get ready for liftoff, motherfucker.
-0xA947958A=~z~×¼±¸Æğ·É£¬»ìµ°¡£
+0xA947958A=~z~å‡†å¤‡èµ·é£ï¼Œæ··è›‹ã€‚
 
 ;0xA969BB0A=E2Y4_HF
 0xA969BB0A=E2Y4_HF
 
 ;0xA9DB0A2E=~z~Here's where you board the train.
-0xA9DB0A2E=~z~ÕâÊÇÄãÉÏÁĞ³µµÄµØ·½¡£
+0xA9DB0A2E=~z~è¿™æ˜¯ä½ ä¸Šåˆ—è½¦çš„åœ°æ–¹ã€‚
 
 ;0xAC18D457=~z~Disconnect the front car. Come on.
-0xAC18D457=~z~¶Ï¿ª³µÍ·£¬¿ìµã¡£
+0xAC18D457=~z~æ–­å¼€è½¦å¤´ï¼Œå¿«ç‚¹ã€‚
 
 ;0xACB6F09E=SFX_PAUSE_200
 0xACB6F09E=SFX_PAUSE_200
@@ -777,13 +777,13 @@
 0xACB71AFF=091
 
 ;0xAE92A4F1=~z~People will write a bible about this shit in the future, baby.
-0xAE92A4F1=~z~ËûÃÇÒÔºó»áÄÃÕâ¶°Â¥Ğ´±¾Ê¥¾­µÄ£¬±¦±´¡£
+0xAE92A4F1=~z~ä»–ä»¬ä»¥åä¼šæ‹¿è¿™æ ‹æ¥¼å†™æœ¬åœ£ç»çš„ï¼Œå®è´ã€‚
 
 ;0xAF054564=~z~Fucking terrorist!
-0xAF054564=~z~¸ÃËÀµÄ¿Ö²À·Ö×Ó£¡
+0xAF054564=~z~è¯¥æ­»çš„ææ€–åˆ†å­ï¼
 
 ;0xAFBC397D=~z~What you after this time, man?
-0xAFBC397D=~z~ÄÇÕâ´ÎÄãÒªÊ²Ã´£¬ĞÖµÜ£¿
+0xAFBC397D=~z~é‚£è¿™æ¬¡ä½ è¦ä»€ä¹ˆï¼Œå…„å¼Ÿï¼Ÿ
 
 ;0xAFFB067A=100
 0xAFFB067A=100
@@ -792,25 +792,25 @@
 0xB00351F4=E2Y4_VB
 
 ;0xB0B9E148=~z~Yeah, sounds perfect, man. Just what the people want right now. But...
-0xB0B9E148=~z~ÊÇ°¡ÌıÆğÀ´Õæ²»´í£¬ĞÖµÜ¡£ÕıÊÇÈËÃÇÏÖÔÚÏëÒªµÄ¡£µ«ÊÇ...
+0xB0B9E148=~z~æ˜¯å•Šå¬èµ·æ¥çœŸä¸é”™ï¼Œå…„å¼Ÿã€‚æ­£æ˜¯äººä»¬ç°åœ¨æƒ³è¦çš„ã€‚ä½†æ˜¯...
 
 ;0xB0BE7E51=E2Y4_MA
 0xB0BE7E51=E2Y4_MA
 
 ;0xB27497FC=~z~Shit, dude, you got attitude. Ease off with that thing.
-0xB27497FC=~z~²ÙÁË£¬ĞÖµÜ£¬±£³ÖÕâ¸ö×ËÊÆ£¬×¼±¸ºÃ¡£
+0xB27497FC=~z~æ“äº†ï¼Œå…„å¼Ÿï¼Œä¿æŒè¿™ä¸ªå§¿åŠ¿ï¼Œå‡†å¤‡å¥½ã€‚
 
 ;0xB277F3BA=E2Y4_CB
 0xB277F3BA=E2Y4_CB
 
 ;0xB303C3BD=~z~Terrorist on the train!
-0xB303C3BD=~z~¿Ö²À·Ö×ÓÔÚÁĞ³µ¶¥ÉÏ£¡
+0xB303C3BD=~z~ææ€–åˆ†å­åœ¨åˆ—è½¦é¡¶ä¸Šï¼
 
 ;0xB34B87E3=SFX_PAUSE_270
 0xB34B87E3=SFX_PAUSE_270
 
 ;0xB357E53B=~z~Dios Mio.
-0xB357E53B=~z~Dios Mio¡£
+0xB357E53B=~z~Dios Mioã€‚
 
 ;0xB3EF5344=E2Y4_AAA
 0xB3EF5344=E2Y4_AAA
@@ -819,7 +819,7 @@
 0xB3F838EC=E2Y4_BE
 
 ;0xB48AF81E=~z~You heard me. A genuine Liberty City subway car.
-0xB48AF81E=~z~Ìıµ½ÁËÂğ¡£Ò»Á¾ÕæÕıµÄ×ÔÓÉ³ÇÁĞ³µ¡£
+0xB48AF81E=~z~å¬åˆ°äº†å—ã€‚ä¸€è¾†çœŸæ­£çš„è‡ªç”±åŸåˆ—è½¦ã€‚
 
 ;0xB5287ACD=SFX_PAUSE_160
 0xB5287ACD=SFX_PAUSE_160
@@ -834,7 +834,7 @@
 0xB573C93F=SFX_PAUSE_160
 
 ;0xB5B5FD4F=~z~Tell me you fucking see it - me and you riding in our very own subway train through a tunnel
-0xB5B5FD4F=~z~¸æËßÎÒÄã¿´µ½ÁË - ÎÒºÍÄã×øÔÚÎÒÃÇ×Ô¼ºµÄÁĞ³µÉÏ
+0xB5B5FD4F=~z~å‘Šè¯‰æˆ‘ä½ çœ‹åˆ°äº† - æˆ‘å’Œä½ ååœ¨æˆ‘ä»¬è‡ªå·±çš„åˆ—è½¦ä¸Š
 
 ;0xB5EE109D=202
 0xB5EE109D=202
@@ -843,37 +843,37 @@
 0xB9F0670A=SFX_PAUSE_200
 
 ;0xB9FD1C9E=~z~Fuck.
-0xB9FD1C9E=~z~²Ù¡£
+0xB9FD1C9E=~z~æ“ã€‚
 
 ;0xBA0C2730=~z~Why do I struggle to believe that?
-0xBA0C2730=~z~ÎÒÔõÃ´ÕâÃ´ÄÑÏàĞÅÄãËµµÄ»°£¿
+0xBA0C2730=~z~æˆ‘æ€ä¹ˆè¿™ä¹ˆéš¾ç›¸ä¿¡ä½ è¯´çš„è¯ï¼Ÿ
 
 ;0xBA2D1BCE=E2Y4_ARA
 0xBA2D1BCE=E2Y4_ARA
 
 ;0xBF664698=~z~What are you doing here?
-0xBF664698=~z~ÄãÔÚÕâ¸ÉÊ²Ã´£¿
+0xBF664698=~z~ä½ åœ¨è¿™å¹²ä»€ä¹ˆï¼Ÿ
 
 ;0xBF73FB0D=~z~Come on, man. Uncouple the front car.
-0xBF73FB0D=~z~À´°É£¬ĞÖµÜ¡£½â¿ª³µÍ·µÄÁ¬½Ó¡£
+0xBF73FB0D=~z~æ¥å§ï¼Œå…„å¼Ÿã€‚è§£å¼€è½¦å¤´çš„è¿æ¥ã€‚
 
 ;0xBF7F62B3=~z~Yo, could you give me a ride to my helicopter? I could tell you something on the way.
-0xBF7F62B3=~z~Ó´£¬Äã¿ÉÒÔËÍÎÒÈ¥ÎÒÖ±Éı»úÄÇÀïÂğ£¿ÎÒÏëÔÚÂ·ÉÏºÍÄãËµĞ©ÊÂ¡£
+0xBF7F62B3=~z~å“Ÿï¼Œä½ å¯ä»¥é€æˆ‘å»æˆ‘ç›´å‡æœºé‚£é‡Œå—ï¼Ÿæˆ‘æƒ³åœ¨è·¯ä¸Šå’Œä½ è¯´äº›äº‹ã€‚
 
 ;0xBFDEF843=E2Y4_GA
 0xBFDEF843=E2Y4_GA
 
 ;0xC16E82B1=~z~It's going to be drowned in gold, y'know it's like, 'yo, yo, is that a diamond in your pocket or are you just pleased to see me', and shit.
-0xC16E82B1=~z~ÕâÀï»á±ä³É½ğÉ½£¬ÔõÃ´ËµÀ´×Å£¬¡°Ó´£¬Ó´£¬ÄãÊÇ¿´ÉÏÎÒµÄÇ®ÁË»¹ÊÇ¿´ÉÏÎÒµÄÈËÁË¡±£¬ÕâÀàµÄ¡£
+0xC16E82B1=~z~è¿™é‡Œä¼šå˜æˆé‡‘å±±ï¼Œæ€ä¹ˆè¯´æ¥ç€ï¼Œâ€œå“Ÿï¼Œå“Ÿï¼Œä½ æ˜¯çœ‹ä¸Šæˆ‘çš„é’±äº†è¿˜æ˜¯çœ‹ä¸Šæˆ‘çš„äººäº†â€ï¼Œè¿™ç±»çš„ã€‚
 
 ;0xC1A52313=E2Y4_GD
 0xC1A52313=E2Y4_GD
 
 ;0xC1C19D4B=~z~That's my boy! There's the reason you're my main hombre.
-0xC1C19D4B=~z~ºÃĞÖµÜ£¡Õâ²ÅÊÇÎÒµÄºÃĞÖµÜ¡£
+0xC1C19D4B=~z~å¥½å…„å¼Ÿï¼è¿™æ‰æ˜¯æˆ‘çš„å¥½å…„å¼Ÿã€‚
 
 ;0xC229CD27=~z~You got some exercise plans for me, Yusuf?
-0xC229CD27=~z~ÓĞÊ²Ã´¼Æ»®¸æËßÎÒÂğ£¬Yusuf£¿
+0xC229CD27=~z~æœ‰ä»€ä¹ˆè®¡åˆ’å‘Šè¯‰æˆ‘å—ï¼ŒYusufï¼Ÿ
 
 ;0xC2F546BA=E2Y4_BD
 0xC2F546BA=E2Y4_BD
@@ -891,7 +891,7 @@
 0xC59E1AA2=E2Y4_KA
 
 ;0xC5C0F076=~z~I can't believe I'm doing this.
-0xC5C0F076=~z~ÎÒÕæ²»¸ÒÏëÏó¡£
+0xC5C0F076=~z~æˆ‘çœŸä¸æ•¢æƒ³è±¡ã€‚
 
 ;0xC5F002FF=SFX_PAUSE_350
 0xC5F002FF=SFX_PAUSE_350
@@ -903,16 +903,16 @@
 0xC832BEFB=E2Y4_DF
 
 ;0xC8F1D124=~z~Get in position above the tracks, man. I'll see you soon.
-0xC8F1D124=~z~ÔÚ¹ìµÀÉÏÃæµÈ×ÅÌøÏÂÈ¥£¬ĞÖµÜ¡£Ò»»á¶ù¼û¡£
+0xC8F1D124=~z~åœ¨è½¨é“ä¸Šé¢ç­‰ç€è·³ä¸‹å»ï¼Œå…„å¼Ÿã€‚ä¸€ä¼šå„¿è§ã€‚
 
 ;0xC9D9C91F=SFX_PAUSE_320
 0xC9D9C91F=SFX_PAUSE_320
 
 ;0xCA89BDB7=~z~Damn.
-0xCA89BDB7=~z~²ÙÁË¡£
+0xCA89BDB7=~z~æ“äº†ã€‚
 
 ;0xCBE471D9=~z~Alright then. What we after?
-0xCBE471D9=~z~ºÃ°É£¬ËùÒÔÕâ´Îµ½µ×ÒªÊ²Ã´£¿
+0xCBE471D9=~z~å¥½å§ï¼Œæ‰€ä»¥è¿™æ¬¡åˆ°åº•è¦ä»€ä¹ˆï¼Ÿ
 
 ;0xCBEAB572=E2Y4_GC
 0xCBEAB572=E2Y4_GC
@@ -945,40 +945,40 @@
 0xCFBF02D4=E2Y4_KC
 
 ;0xD1A6614A=~z~What the fuck, man? I got to go in.
-0xD1A6614A=~z~¸ãÊ²Ã´£¬ĞÖµÜ£¿ÎÒ¿ì±»×¥½øÈ¥ÁË¡£
+0xD1A6614A=~z~æä»€ä¹ˆï¼Œå…„å¼Ÿï¼Ÿæˆ‘å¿«è¢«æŠ“è¿›å»äº†ã€‚
 
 ;0xD21207F7=E2Y4_ED
 0xD21207F7=E2Y4_ED
 
 ;0xD2D56D76=~z~Yo, yo, yo. Easy, amigo. I'm just pleased to see you. Come on baby, give me some skin! Come on.
-0xD2D56D76=~z~Ó´£¬Ó´£¬Ó´£¬Àä¾²£¬ºÃĞÖµÜ¡£ÎÒÖ»ÊÇ¼ûµ½ÄãºÜ¼¤¶¯¡£¿ìµã±¦±´£¬ÎÕ¸öÊÖ£¡À´°É¡£
+0xD2D56D76=~z~å“Ÿï¼Œå“Ÿï¼Œå“Ÿï¼Œå†·é™ï¼Œå¥½å…„å¼Ÿã€‚æˆ‘åªæ˜¯è§åˆ°ä½ å¾ˆæ¿€åŠ¨ã€‚å¿«ç‚¹å®è´ï¼Œæ¡ä¸ªæ‰‹ï¼æ¥å§ã€‚
 
 ;0xD2E2D16A=~z~You treat all the commuters like this?
-0xD2E2D16A=~z~ÄãÃÇ¾ÍÕâÑù¶Ô´ı³Ë¿ÍµÄ£¿
+0xD2E2D16A=~z~ä½ ä»¬å°±è¿™æ ·å¯¹å¾…ä¹˜å®¢çš„ï¼Ÿ
 
 ;0xD2F389F7=~z~Arghhhhhh.
-0xD2F389F7=~z~°¡°¡°¡°¡°¡°¡°¡¡£
+0xD2F389F7=~z~å•Šå•Šå•Šå•Šå•Šå•Šå•Šã€‚
 
 ;0xD3272622=~z~Y'know the sales sheet's going to say,
-0xD3272622=~z~Äã»á¿´µ½ÏúÊÛµ¥ÉÏĞ´£¬
+0xD3272622=~z~ä½ ä¼šçœ‹åˆ°é”€å”®å•ä¸Šå†™ï¼Œ
 
 ;0xD3AED001=~z~Alright. Rrrrr.
-0xD3AED001=~z~ºÃ°É¡£ °¡°¡°¡°¡°¡¡£
+0xD3AED001=~z~å¥½å§ã€‚ å•Šå•Šå•Šå•Šå•Šã€‚
 
 ;0xD5D67E47=~z~What you want a subway train for?
-0xD5D67E47=~z~ÄãÒªÁ¾ÁĞ³µ¸ÉÊ²Ã´£¿
+0xD5D67E47=~z~ä½ è¦è¾†åˆ—è½¦å¹²ä»€ä¹ˆï¼Ÿ
 
 ;0xD62681F5=SFX_PAUSE_200
 0xD62681F5=SFX_PAUSE_200
 
 ;0xD6901479=~z~I knew this day would come!
-0xD6901479=~z~ÎÒ¾ÍÖªµÀ»áÓĞÕâÒ»Ìì£¡
+0xD6901479=~z~æˆ‘å°±çŸ¥é“ä¼šæœ‰è¿™ä¸€å¤©ï¼
 
 ;0xD722713F=~z~I'm here for you, baby.
-0xD722713F=~z~ÎÒÀ´ÁË£¬±¦±´¡£
+0xD722713F=~z~æˆ‘æ¥äº†ï¼Œå®è´ã€‚
 
 ;0xD724ACD4=~z~We'll have a lounge on the moon by the time we're done. For real.
-0xD724ACD4=~z~¸ÉÍê»îÄÄÅÂÉÏÔÂÇòÎÒÒ²Òª¸øÄã×ö¸ö¾Æ°É¡£ÎÒËµÕæµÄ¡£
+0xD724ACD4=~z~å¹²å®Œæ´»å“ªæ€•ä¸Šæœˆçƒæˆ‘ä¹Ÿè¦ç»™ä½ åšä¸ªé…’å§ã€‚æˆ‘è¯´çœŸçš„ã€‚
 
 ;0xD730FE0E=010090100010090100100090100
 0xD730FE0E=010090100010090100100090100
@@ -999,7 +999,7 @@
 0xD7D24B72=SFX_PAUSE_260
 
 ;0xD866FF09=~z~Things have a tendency to get outta hand man. Maybe you could give me some more exploding shells for peace of mind.
-0xD866FF09=~z~ÊÂÇéÓĞÊ§¿ØµÄÇ÷ÊÆĞÖµÜ¡£Ò²ĞíÄã¿ÉÒÔ¸øÎÒµã±¬ÁÑµ¯ºÃÈÃÎÒ°²°²ĞÄ¡£
+0xD866FF09=~z~äº‹æƒ…æœ‰å¤±æ§çš„è¶‹åŠ¿å…„å¼Ÿã€‚ä¹Ÿè®¸ä½ å¯ä»¥ç»™æˆ‘ç‚¹çˆ†è£‚å¼¹å¥½è®©æˆ‘å®‰å®‰å¿ƒã€‚
 
 ;0xD90012B3=SFX_PAUSE_210
 0xD90012B3=SFX_PAUSE_210
@@ -1020,13 +1020,13 @@
 0xDBA6EDC9=E2Y4_TA
 
 ;0xDBF851B8=~z~Of course it is. I have this shit calculated to the hundredth decimal fucking point.
-0xDBF851B8=~z~µ±È»ÁË£¬³É¹¦ÂÊ¾«×¼µ½ËûÂèµÄ°Ù·ÖÎ»¡£
+0xDBF851B8=~z~å½“ç„¶äº†ï¼ŒæˆåŠŸç‡ç²¾å‡†åˆ°ä»–å¦ˆçš„ç™¾åˆ†ä½ã€‚
 
 ;0xDC2E1611=~z~You're not taking our freedom!
-0xDC2E1611=~z~Äã¶á²»×ßÎÒÃÇµÄ×ÔÓÉ£¡
+0xDC2E1611=~z~ä½ å¤ºä¸èµ°æˆ‘ä»¬çš„è‡ªç”±ï¼
 
 ;0xDC6F1C9A=~z~All work and no play makes Yusuf a dull boy. Come on, baby, it'll be fun.
-0xDC6F1C9A=~z~Ö»¹¤×÷²»ÍæË££¬YusufÒ²±äÉµ¡£À´°É±¦±´£¬Õâ»áºÜÓĞÒâË¼µÄ¡£
+0xDC6F1C9A=~z~åªå·¥ä½œä¸ç©è€ï¼ŒYusufä¹Ÿå˜å‚»ã€‚æ¥å§å®è´ï¼Œè¿™ä¼šå¾ˆæœ‰æ„æ€çš„ã€‚
 
 ;0xDCD53DB9=100090100090100090010090010
 0xDCD53DB9=100090100090100090010090010
@@ -1038,7 +1038,7 @@
 0xDFD53E31=E2Y4_EA
 
 ;0xE0062B89=~z~Motherfuck.
-0xE0062B89=~z~ÂèµÄ¡£
+0xE0062B89=~z~å¦ˆçš„ã€‚
 
 ;0xE03E85DE=100
 0xE03E85DE=100
@@ -1056,28 +1056,28 @@
 0xE5D0EBF1=E2Y4_ATA
 
 ;0xE5EB4BAA=~z~I'm talking luxury on a whole new level.
-0xE5EB4BAA=~z~ÔÚÉİ³ŞÉÏ´ïµ½ÁËÈ«ĞÂµÄ¸ß¶È¡£
+0xE5EB4BAA=~z~åœ¨å¥¢ä¾ˆä¸Šè¾¾åˆ°äº†å…¨æ–°çš„é«˜åº¦ã€‚
 
 ;0xE64AA3B9=E2Y4_HE
 0xE64AA3B9=E2Y4_HE
 
 ;0xE6BE7620=~z~Arrrghhh!
-0xE6BE7620=~z~°¡°¡°¡°¡£¡
+0xE6BE7620=~z~å•Šå•Šå•Šå•Šï¼
 
 ;0xE6EA32E9=E2Y4_EF
 0xE6EA32E9=E2Y4_EF
 
 ;0xE6F52B9F=~z~Get the terrorist!
-0xE6F52B9F=~z~×¥×¡¿Ö²À·Ö×Ó£¡
+0xE6F52B9F=~z~æŠ“ä½ææ€–åˆ†å­ï¼
 
 ;0xE7899D4E=~z~Hey, bro. Just in case you mind if I hit you for some of them exploding shells? Thanks, man.
-0xE7899D4E=~z~ºÙ£¬ĞÖµÜ¡£ÒÔ·ÀÍòÒ»£¬Äã²»½éÒâÎÒÄÃÄãµã±¬ÁÑµ¯°É£¿Ğ»Ğ»ÁË£¬»ï¼Æ¡£
+0xE7899D4E=~z~å˜¿ï¼Œå…„å¼Ÿã€‚ä»¥é˜²ä¸‡ä¸€ï¼Œä½ ä¸ä»‹æ„æˆ‘æ‹¿ä½ ç‚¹çˆ†è£‚å¼¹å§ï¼Ÿè°¢è°¢äº†ï¼Œä¼™è®¡ã€‚
 
 ;0xE7A9DBD1=E2Y4_CA
 0xE7A9DBD1=E2Y4_CA
 
 ;0xE859FC58=~z~You fucked with the wrong commuter.
-0xE859FC58=~z~Äã¸ã´íÈËÁË£¡
+0xE859FC58=~z~ä½ æé”™äººäº†ï¼
 
 ;0xEA3AAA1E=106
 0xEA3AAA1E=106
@@ -1101,10 +1101,10 @@
 0xED8BB253=E2Y4_AGA
 
 ;0xEDFE04F0=~z~Shit, actually, it's best that we go to the Algonquin Bridge first. The helicopter can wait.
-0xEDFE04F0=~z~ÂèµÄ£¬Êµ¼ÊÉÏ£¬ÎÒÃÇ×îºÃÊÇÏÈÈ¥AlgonquinÇÅµÈ×Å¡£Ö±Éı»úµÃµÈÒ»µÈ¡£
+0xEDFE04F0=~z~å¦ˆçš„ï¼Œå®é™…ä¸Šï¼Œæˆ‘ä»¬æœ€å¥½æ˜¯å…ˆå»Algonquinæ¡¥ç­‰ç€ã€‚ç›´å‡æœºå¾—ç­‰ä¸€ç­‰ã€‚
 
 ;0xEE964224=~z~If it's our playground, how come I'm the only one getting dirty? Shit.
-0xEE964224=~z~Èç¹ûÕâÊÇÎÒÃÇµÄÓÎÀÖ³¡£¬ÎªÊ²Ã´Ö»ÓĞÎÒ¸ÉÔà»îÀÛ»î£¿²Ù¡£
+0xEE964224=~z~å¦‚æœè¿™æ˜¯æˆ‘ä»¬çš„æ¸¸ä¹åœºï¼Œä¸ºä»€ä¹ˆåªæœ‰æˆ‘å¹²è„æ´»ç´¯æ´»ï¼Ÿæ“ã€‚
 
 ;0xF0ED262D=SFX_PAUSE_300
 0xF0ED262D=SFX_PAUSE_300
@@ -1116,10 +1116,10 @@
 0xF1F1341E=100
 
 ;0xF23336EC=~z~We're taking that shit out to the Gulf for a new Liberty City themed development out there.
-0xF23336EC=~z~ÎÒÃÇÒª°ÑÕâ¶«Î÷Åªµ½º£ÍåÇøÈ¥£¬¿ª·¢Ò»¸öÒÔ×ÔÓÉ³ÇÎªÖ÷ÌâµÄĞÂÏîÄ¿¡£
+0xF23336EC=~z~æˆ‘ä»¬è¦æŠŠè¿™ä¸œè¥¿å¼„åˆ°æµ·æ¹¾åŒºå»ï¼Œå¼€å‘ä¸€ä¸ªä»¥è‡ªç”±åŸä¸ºä¸»é¢˜çš„æ–°é¡¹ç›®ã€‚
 
 ;0xF2484BE9=~z~It's an attack!
-0xF2484BE9=~z~¿Ö²ÀÏ®»÷£¡
+0xF2484BE9=~z~ææ€–è¢­å‡»ï¼
 
 ;0xF2A5BA80=E2Y4_AXA
 0xF2A5BA80=E2Y4_AXA
@@ -1131,19 +1131,19 @@
 0xF48F9D03=E2Y4_BH
 
 ;0xF5E694B9=~z~Not going to be easy, dog.
-0xF5E694B9=~z~Õâ²¢²»¼òµ¥£¬ĞÖµÜ¡£
+0xF5E694B9=~z~è¿™å¹¶ä¸ç®€å•ï¼Œå…„å¼Ÿã€‚
 
 ;0xF5F84A3D=E2Y4_EI
 0xF5F84A3D=E2Y4_EI
 
 ;0xF69E360F=~z~How you feel about helping this Arabic sonofabitch steal himself an LTA subway car?
-0xF69E360F=~z~°ïÕâ¸ö°¢À­²®ÈËÍµÒ»Á¾LTAÁĞ³µÄã¾õµÃÔõÃ´Ñù£¿
+0xF69E360F=~z~å¸®è¿™ä¸ªé˜¿æ‹‰ä¼¯äººå·ä¸€è¾†LTAåˆ—è½¦ä½ è§‰å¾—æ€ä¹ˆæ ·ï¼Ÿ
 
 ;0xF6C9D299=E2Y4_FF
 0xF6C9D299=E2Y4_FF
 
 ;0xF7A0EF15=~z~This place going to be so expensive, people won't even be able to afford it.
-0xF7A0EF15=~z~ÕâµØ·½»áÂô³öÌì¼Û£¬ÆÕÍ¨ÈË¾ø¶ÔÂò²»Æğ¡£
+0xF7A0EF15=~z~è¿™åœ°æ–¹ä¼šå–å‡ºå¤©ä»·ï¼Œæ™®é€šäººç»å¯¹ä¹°ä¸èµ·ã€‚
 
 ;0xF7A2B42B=E2Y4_ADA
 0xF7A2B42B=E2Y4_ADA
@@ -1152,7 +1152,7 @@
 0xF9850E79=106
 
 ;0xF9D03B6B=~z~Epic, homie. This shit is epic.
-0xF9D03B6B=~z~Éñ¼££¬ĞÖµÜ¡£ÕâËûÂè¼òÖ±¾ÍÊÇÉñ¼£¡£
+0xF9D03B6B=~z~ç¥è¿¹ï¼Œå…„å¼Ÿã€‚è¿™ä»–å¦ˆç®€ç›´å°±æ˜¯ç¥è¿¹ã€‚
 
 ;0xFA370963=106
 0xFA370963=106
@@ -1161,11 +1161,11 @@
 0xFE64B1D9=100090010
 
 ;0xFF3BA76B=~z~Slight change of plan, I'll get the chopper later. Head out to the east side of the Algonquin Bridge, homie.
-0xFF3BA76B=~z~¼Æ»®ÓĞµãĞ¡±ä£¬·É»úµÃÍíµãÄÃÁË¡£ÏÈÈ¥AlgonquinÇÅµÄ¶«²à£¬ºÃĞÖµÜ¡£
+0xFF3BA76B=~z~è®¡åˆ’æœ‰ç‚¹å°å˜ï¼Œé£æœºå¾—æ™šç‚¹æ‹¿äº†ã€‚å…ˆå»Algonquinæ¡¥çš„ä¸œä¾§ï¼Œå¥½å…„å¼Ÿã€‚
 
 ;0xFF760B81=~z~Get that shit going through a precious and delicate coral reef! Ah! Perfect.
-0xFF760B81=~z~ÈÃÄÇ¶«Î÷´©¹ıÒ»Æ¬ÕäÆ·µÄÉºº÷½¸°É£¡°¡£¡ÍêÃÀ¡£
+0xFF760B81=~z~è®©é‚£ä¸œè¥¿ç©¿è¿‡ä¸€ç‰‡çå“çš„çŠç‘šç¤å§ï¼å•Šï¼å®Œç¾ã€‚
 
 ;0xFFCADD4A=~z~Redact this asshole.
-0xFFCADD4A=~z~¸ã¶¨Õâ¸öÈËÔü¡£
+0xFFCADD4A=~z~æå®šè¿™ä¸ªäººæ¸£ã€‚
 
