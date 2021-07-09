@@ -1,6 +1,6 @@
 ﻿[FRI2]
 ;0x0084955B=~r~You abandoned Armando and Henrique.
-0x0084955B=~r~你丢下了 Armando 和 Henrique。
+0x0084955B=~r~你把Armando和Henrique丢下了。
 
 ;0x061015A3=~r~You left the shipment unprotected.
 0x061015A3=~r~你未能保护好货物。
