@@ -78,7 +78,7 @@
 0x0E4F00BF=SFX_PAUSE_150
 
 ;0x0E69B99B=~z~You, Tony Gayer and a camel getting all velvet rope on some Arabic shit.
-0x0E69B99B=~z~你，基佬Tony和一只骆驼，把身家压在阿拉伯人身上（瞎编的真看不懂呜呜
+0x0E69B99B=~z~你，基佬Tony和一个阿拉伯人，来享受所有的的东西。
 
 ;0x0E6CA87A=E2Y4_BAA
 0x0E6CA87A=E2Y4_BAA
