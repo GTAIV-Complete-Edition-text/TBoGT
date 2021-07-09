@@ -1,30 +1,30 @@
 ﻿[WEZL239]
 ;0x07820D09=Rotterdam Rocked
-0x07820D09=Rotterdam Rocked
+0x07820D09=Rotterdam事变
 
 ;0x1A4C1240=NOOSE shady on Details
-0x1A4C1240=NOOSE shady on Details
+0x1A4C1240=细思极恐
 
 ;0x1DEC3298=Flowers Delivered to Mourn Loss of Manhood
-0x1DEC3298=Flowers Delivered to Mourn Loss of Manhood
+0x1DEC3298=送花以哀悼逝去的男子气概
 
 ;0x2943D511=Explosions, dead Arabs, crashing helicopters. No, we're not extending our imperialist grip on the globe, we're at home witnessing an alleged public relations exercise for the National Office of Security Enforcement.
-0x2943D511=Explosions, dead Arabs, crashing helicopters. No, we're not extending our imperialist grip on the globe, we're at home witnessing an alleged public relations exercise for the National Office of Security Enforcement.
+0x2943D511=爆炸，死掉的阿拉伯人，坠毁的直升机。不，我们没有在扩大帝国主义对全球的控制，我们是在国内目睹一场所谓的国家安全执法办公室的公关演习。
 
 ;0x42F40871=Anyone who saw the chaos at the top of Rotterdam Tower earlier would have thought that the world was ending, not that a standard PR exercise was going on. The only information we're being given is that two Dubai residents, Ahmed Khaleel and Tahir Saaed were involved somehow. Is no one else suspicious of this horseshit we're being fed? Liberty City has clearly suffered a terrorist onslaught, and the liberals don't want you to know about it. The only questions we should be asking is who to got to war with and when.
-0x42F40871=Anyone who saw the chaos at the top of Rotterdam Tower earlier would have thought that the world was ending, not that a standard PR exercise was going on. The only information we're being given is that two Dubai residents, Ahmed Khaleel and Tahir Saaed were involved somehow. Is no one else suspicious of this horseshit we're being fed? Liberty City has clearly suffered a terrorist onslaught, and the liberals don't want you to know about it. The only questions we should be asking is who to got to war with and when.
+0x42F40871=任何早些时候看到Rotterdam塔顶部混乱景象的人都会认为那是世界末日，而不是一场标准的公关演习。我们唯一了解的信息是两名迪拜居民，Ahmed Khaleel和Tahir Saaed与此事有关。难道没人怀疑这场所谓的公关演习吗？自由城显然遭受了恐怖分子的袭击，自由主义者不想让你知道这件事。我们唯一应该问的问题是什么时候和谁开战。
 
 ;0x5DBD1C62=Eugene White
 0x5DBD1C62=Eugene White
 
 ;0xB0967010=Maybe we should all neuter ourselves right now. Flowerman? Really? The top movie for weeks? This spate of romantic comedies is ruining our manhood. The American man is literally dying from estrogen. And women are turning into self righteous shrews. This liberal elite Vinewood trash has us so confused as to our proper roles that American society is disintegrating in front of our very eyes. Our TV shows, our movies, our very society portray men as bumbling morons who are helpless unless a woman saves the day. Good luck ladies. We're leaving.
-0xB0967010=Maybe we should all neuter ourselves right now. Flowerman? Really? The top movie for weeks? This spate of romantic comedies is ruining our manhood. The American man is literally dying from estrogen. And women are turning into self righteous shrews. This liberal elite Vinewood trash has us so confused as to our proper roles that American society is disintegrating in front of our very eyes. Our TV shows, our movies, our very society portray men as bumbling morons who are helpless unless a woman saves the day. Good luck ladies. We're leaving.
+0xB0967010=也许我们现在都该把自己阉了。Flowerman？认真的？这是连续几周位居榜首的电影？接二连三的浪漫喜剧正在毁掉我们的男子气概。美国男人越来越女性化。女人都变成自以为是的泼妇了。这些Vinewood里的自由主义精英垃圾让我们对自己扮演的角色感到困惑，以致于美国社会正在我们眼前瓦解。我们的电视节目，我们的电影，我们的社会都把男人描绘成笨手笨脚的白痴，除非有女人拯救他们。祝你们好运，女士们。我们走了。
 
 ;0xC2FDC17B=Movie's Run at the Top a Nail in Coffin of Masculinity
-0xC2FDC17B=Movie's Run at the Top a Nail in Coffin of Masculinity
+0xC2FDC17B=电影是给男子气概棺材上的钉子
 
 ;0xFC7FC112=Terror attack cover up?
-0xFC7FC112=Terror attack cover up?
+0xFC7FC112=掩饰恐怖袭击？
 
 ;0xFEC0C87F=Leslie Mitchell
 0xFEC0C87F=Leslie Mitchell

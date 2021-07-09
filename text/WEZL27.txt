@@ -1,30 +1,30 @@
 ﻿[WEZL27]
 ;0x0365563F=Deputy Mayor, Bryce Dawkins, weighed in on the issue "If America is to remain the moral Christian country I know it is, we need to take the vote away from these people. They can concentrate on picking out wallpaper and leave the choosing of our President to real men."
-0x0365563F=Deputy Mayor, Bryce Dawkins, weighed in on the issue "If America is to remain the moral Christian country I know it is, we need to take the vote away from these people. They can concentrate on picking out wallpaper and leave the choosing of our President to real men."
+0x0365563F=副市长Bryce Dawkins对这一问题发表了看法:“如果美国要保持我所知道的道德基督教国家的地位，我们就需要剥夺这些人的投票权。他们可以专心挑选墙纸，而把选择总统的工作留给真正的男人去做。”
 
 ;0x0499F69D=Homosexual Homicide
-0x0499F69D=Homosexual Homicide
+0x0499F69D=同性恋杀人犯
 
 ;0x0DC8F839=The children are our future, they should remember that.
-0x0DC8F839=The children are our future, they should remember that.
+0x0DC8F839=孩子是我们的未来，他们应该记住这一点。
 
 ;0x1DED8B53=Just when the homosexual community had gained a smatter of respectability by parodying themselves in reality TV shows and sitcoms, they go and ruin it for themselves. The death of Evan Moss, amateur body builder, drug addict and cum receptacle for "Gay" Tony Prince, got himself killed in the most brutal of fashions. This just goes to show that a deviant lifestyle will lead to an unfashionably early arrival at the sodomites' party in Hell.
-0x1DED8B53=Just when the homosexual community had gained a smatter of respectability by parodying themselves in reality TV shows and sitcoms, they go and ruin it for themselves. The death of Evan Moss, amateur body builder, drug addict and cum receptacle for "Gay" Tony Prince, got himself killed in the most brutal of fashions. This just goes to show that a deviant lifestyle will lead to an unfashionably early arrival at the sodomites' party in Hell.
+0x1DED8B53=正当同性恋群体通过在电视真人秀和情景喜剧中模仿自己而获得一点尊严时，他们却又自己毁掉它。Evan Moss死了，他是一名业余健身者，瘾君子，也是基佬Tony的精子库，他以最残酷的方式被杀了。这只是表明，【办鸡奸派对这种异常的生活方式终将使他们走向地狱。】
 
 ;0x1F5E4DB4=Eugene White
 0x1F5E4DB4=Eugene White
 
 ;0x6780E772=Another sodomite on his way to hell
-0x6780E772=Another sodomite on his way to hell
+0x6780E772=又一个要下地狱的鸡奸者
 
 ;0x92BB3CA6=Gays and Crime, the full story
-0x92BB3CA6=Gays and Crime, the full story
+0x92BB3CA6=同性恋与犯罪，完整的故事
 
 ;0x94B46055=We've had it up to hear with these lazy workers and their lazy lawsuits. Been fired for not showing up to work and taking too many days off? Sue. Boss used strong language about your lack of passion on a project but unlimited time and creativity for your personal blog? Sue. The mainstream media is to blame, which we are not by any means the mainstream media, despite the fact that we have a TV station in every city with at least one stoplight and are on every cable box in America. We're outsiders, we're angry, and these lazy twenty-somethings want to live on the dole of mommy or America and we're not having it. We prefer to be on the dole of corporate tax breaks and subsidies. Sandra McColland , you can sue all you want. If you don't love America and you are too tired from reading your communist pamphlets, die. Please.
-0x94B46055=We've had it up to hear with these lazy workers and their lazy lawsuits. Been fired for not showing up to work and taking too many days off? Sue. Boss used strong language about your lack of passion on a project but unlimited time and creativity for your personal blog? Sue. The mainstream media is to blame, which we are not by any means the mainstream media, despite the fact that we have a TV station in every city with at least one stoplight and are on every cable box in America. We're outsiders, we're angry, and these lazy twenty-somethings want to live on the dole of mommy or America and we're not having it. We prefer to be on the dole of corporate tax breaks and subsidies. Sandra McColland , you can sue all you want. If you don't love America and you are too tired from reading your communist pamphlets, die. Please.
+0x94B46055=我们已经受够了这些懒惰的工人和他们懒惰的诉讼。诉讼因为不上班和请太多假而被解雇？诉讼老板用强硬的语言说你对项目缺乏激情，但对你的个人博客却有无限的时间和创造力？诉讼主流媒体是罪魁祸首，【尽管就像美国每个城市都有电视台，都至少有一个红绿灯那样，每个美国有线电视机顶盒上都有我们的节目。但我们绝不是主流媒体。】我们是外来者，我们很愤怒，这些懒惰的20多岁的年轻人想靠妈妈或美国的救济金生活，而我们没有。我们更愿意享受公司税收减免和补贴 。Sandra McColland，你想怎么告都行。如果你不爱美国，读累了共产主义小册子，去死吧。请。
 
 ;0xC4DFB7A7=Lazy days for lackadaisical generation
-0xC4DFB7A7=Lazy days for lackadaisical generation
+0xC4DFB7A7=懒散的一代慵懒的日子
 
 ;0xF871A047=Leslie Mitchell
 0xF871A047=Leslie Mitchell

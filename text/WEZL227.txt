@@ -1,16 +1,16 @@
 ﻿[WEZL227]
 ;0x08B61091=Arms Dealer Granted Entry
-0x08B61091=Arms Dealer Granted Entry
+0x08B61091=军火商获准入境
 
 ;0x6A9B466F=Today alleged arms dealer, Frickie van Hardenburg was finally granted a visa to enter the United States. Thank God senses prevailed. A few wacko liberals nearly derailed this fine businessman and humanitarian with their accusations that he should be put on trial for war crimes over his alleged financing of conflicts in Africa, support of very restrictive regimes in the Middle East, continued involvement in the slave trade and that he has a grating accent. But thankfully immigration authorities have turned a blind eye to this nonsense, citing the fact that Mr. Van Hardenburg took several senators on a safari last year and also is a really nice guy once you get to know him.
-0x6A9B466F=Today alleged arms dealer, Frickie van Hardenburg was finally granted a visa to enter the United States. Thank God senses prevailed. A few wacko liberals nearly derailed this fine businessman and humanitarian with their accusations that he should be put on trial for war crimes over his alleged financing of conflicts in Africa, support of very restrictive regimes in the Middle East, continued involvement in the slave trade and that he has a grating accent. But thankfully immigration authorities have turned a blind eye to this nonsense, citing the fact that Mr. Van Hardenburg took several senators on a safari last year and also is a really nice guy once you get to know him.
+0x6A9B466F=今天，所谓的军火商Frickie van Hardenburg终于获得了进入美国的签证。感谢上帝，感性胜过了理性。几个奇怪的自由主义者指控他涉嫌资助非洲冲突战争，支持中东军阀政权，参与奴隶交易而且口音难听，应该受到审判。不过谢天谢地，移民当局对这种无稽之谈睁一只眼闭一只眼，他们援引的事实是，Van Hardenburg先生去年带几位参议员去旅行了，而且一旦你了解他，你会发现他真的是个好人。
 
 ;0x83357299=Not so Sickie Frickie
-0x83357299=Not so Sickie Frickie
+0x83357299=Frickie没那么坏哦
 
 ;0xA772BBAB=Eugene White
 0xA772BBAB=Eugene White
 
 ;0xEED224BB=Alleged War Profiteer Actually a Nice Guy
-0xEED224BB=Alleged War Profiteer Actually a Nice Guy
+0xEED224BB=那所谓的战争奸商其实是个好人
 
