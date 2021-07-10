@@ -3,14 +3,14 @@
 0x31972AA4=Joshua Crane
 
 ;0x808B1E5C=Monsters Under MyBed?
-0x808B1E5C=Monsters Under MyBed?
+0x808B1E5C=藏于MyBed之下的恶魔？
 
 ;0xB736AB0B=The site, at <a href="www.myroomonline.net">www.myRoomOnline.net</a>, is a favorite teen hangout. These predators have been highlighted on TV shows that entrap men who want to have sex with hot teen girls, which is essentially every man in America.
-0xB736AB0B=The site, at <a href="www.myroomonline.net">www.myRoomOnline.net</a>, is a favorite teen hangout. These predators have been highlighted on TV shows that entrap men who want to have sex with hot teen girls, which is essentially every man in America.
+0xB736AB0B=这家网址为<a href="www.myroomonline.net">www.myRoomOnline.net</a>的网站，是青少年最爱访问的社交场所。这些掠食者们因诱骗那些想要与火辣少女发生性关系、实际上是每一个美国的男人，而在电视节目中被强调。
 
 ;0xCCD250FD=You drive your child to school and teach them that minorities are all ok (but just can't afford your neighborhood because of conservative racism) and that they should treat everyone with kindness. But what about adults who prey on our children? In a recent report, there are over 8 million registered sex offenders with MyRoom accounts.
-0xCCD250FD=You drive your child to school and teach them that minorities are all ok (but just can't afford your neighborhood because of conservative racism) and that they should treat everyone with kindness. But what about adults who prey on our children? In a recent report, there are over 8 million registered sex offenders with MyRoom accounts.
+0xCCD250FD=你开车送你的孩子去学校，并告诉他们少数族裔是没问题的（只是由于保守种族主义而承担不了你的街区），而且他们应该善待每一个人。但是那些伤害我们孩子们的成年人呢？一份近期的报告显示，有超过800万名登记的性犯罪者拥有MyRoom账户。
 
 ;0xE98EDC41=MyRoom is full of predators
-0xE98EDC41=MyRoom is full of predators
+0xE98EDC41=MyRoom充斥着掠食者们
 
