@@ -3,37 +3,37 @@
 0x03DC8792=E2BG3_ZAE
 
 ;0x05208FCF=~z~Of course it's locked.
-0x05208FCF=~z~Of course it's locked.
+0x05208FCF=~z~我就知道门锁上了。
 
 ;0x098122EE=~z~Have some grenades, motherfucker.
-0x098122EE=~z~Have some grenades, motherfucker.
+0x098122EE=~z~尝尝手雷吧，傻逼。
 
 ;0x0DD8379E=~z~I want you to cover Timur's back. He's is going to talk to some people and I need you there.
-0x0DD8379E=~z~I want you to cover Timur's back. He's is going to talk to some people and I need you there.
+0x0DD8379E=~z~你去掩护Timur，他准备和某人谈谈，你在那给他帮忙。
 
 ;0x0FF9BA57=~z~Never should of worked with that guy...
-0x0FF9BA57=~z~Never should of worked with that guy...
+0x0FF9BA57=~z~我就不该帮那家伙...
 
 ;0x11840998=E2MF1_EA
 0x11840998=E2MF1_EA
 
 ;0x1483436A=~z~Ray, you asshole.
-0x1483436A=~z~Ray, you asshole.
+0x1483436A=~z~Ray，你这蠢货。
 
 ;0x15038E60=E2BG3_ZAC
 0x15038E60=E2BG3_ZAC
 
 ;0x15C6C77B=~z~Okay, man. I got it. But you should chill out, bro.
-0x15C6C77B=~z~Okay, man. I got it. But you should chill out, bro.
+0x15C6C77B=~z~好，兄弟。我明白了。但你得冷静一下，兄弟。
 
 ;0x162DC21A=~z~Don't tell me to shut up!
-0x162DC21A=~z~Don't tell me to shut up!
+0x162DC21A=~z~不要叫我闭嘴！
 
 ;0x1849C386=~z~Ray! Ray! What are you still doing here anyway?
-0x1849C386=~z~Ray! Ray! What are you still doing here anyway?
+0x1849C386=~z~Ray！Ray！你还在这干什么呢？
 
 ;0x189843FF=~z~You got them from the fat cook?
-0x189843FF=~z~You got them from the fat cook?
+0x189843FF=~z~你们是从那个胖厨子那买到的吗？
 
 ;0x18B95D67=SFX_PAUSE_300
 0x18B95D67=SFX_PAUSE_300
@@ -42,70 +42,70 @@
 0x1D8C22C8=E2MF1_EB
 
 ;0x256393B2=~z~Ray, hey man, I hate to disappoint you.
-0x256393B2=~z~Ray, hey man, I hate to disappoint you.
+0x256393B2=~z~Ray，嘿兄弟，我不想让你失望。
 
 ;0x2647E6F3=~z~So stupid. I might just deserve this.
-0x2647E6F3=~z~So stupid. I might just deserve this.
+0x2647E6F3=~z~太傻了，我可能是活该。
 
 ;0x27762AC0=E2BG3_ADE
 0x27762AC0=E2BG3_ADE
 
 ;0x27B454F6=~z~Locked? What the fuck?
-0x27B454F6=~z~Locked? What the fuck?
+0x27B454F6=~z~锁上了？我操？
 
 ;0x285CB245=~z~Yo, We just got some rocks off him. Okay? Look, listen-
-0x285CB245=~z~Yo, We just got some rocks off him. Okay? Look, listen-
+0x285CB245=~z~嘿，我们只不过占了他一点便宜，好吗？听着-
 
 ;0x286CECC7=~z~Let me decide when to chill out. Go.
-0x286CECC7=~z~Let me decide when to chill out. Go.
+0x286CECC7=~z~冷不冷静老子说了算，快去。
 
 ;0x28EB6795=~z~So, I heard from some people I know that maybe you have some diamonds for sale?
-0x28EB6795=~z~So, I heard from some people I know that maybe you have some diamonds for sale?
+0x28EB6795=~z~有人告诉我你有好像几颗钻石要卖？
 
 ;0x2C137A8A=~z~No, give me a sec...
-0x2C137A8A=~z~No, give me a sec...
+0x2C137A8A=~z~还没，等一下...
 
 ;0x2CBF2251=~z~Pathetic. Why did I have faith in this loser?
-0x2CBF2251=~z~Pathetic. Why did I have faith in this loser?
+0x2CBF2251=~z~真可悲。我怎么会对这个废物有信心呢？
 
 ;0x2F66D1C4=~z~He cut that cook's head off. Long story short he wants us dead.
-0x2F66D1C4=~z~He cut that cook's head off. Long story short he wants us dead.
+0x2F66D1C4=~z~他把那个厨子的头砍下来了。长话短说，他巴不得我们死。
 
 ;0x30900383=~z~Open it....
-0x30900383=~z~Open it....
+0x30900383=~z~打开看看....
 
 ;0x32DD81A4=~z~I gotta talk to Tony.
-0x32DD81A4=~z~I gotta talk to Tony.
+0x32DD81A4=~z~我得问问Tony。
 
 ;0x32EE6B6A=~z~It's locked. Perfect.
-0x32EE6B6A=~z~It's locked. Perfect.
+0x32EE6B6A=~z~门锁上了，完美。
 
 ;0x39D766E8=E2BG3_ADF
 0x39D766E8=E2BG3_ADF
 
 ;0x3A9256B0=~z~You colluded with him to steal from me.
-0x3A9256B0=~z~You colluded with him to steal from me.
+0x3A9256B0=~z~你和他勾结，偷走了我的钻石。
 
 ;0x3B187EF3=~z~Hunting? Hunting humans, dog. I got top of the line sniper shit I can give you.
-0x3B187EF3=~z~Hunting? Hunting humans, dog. I got top of the line sniper shit I can give you.
+0x3B187EF3=~z~打猎？打猎人和狗。我有顶级的狙击枪可以给你。
 
 ;0x40DEE628=E2BG3_AAA
 0x40DEE628=E2BG3_AAA
 
 ;0x41317559=~z~And it turns out the diamonds we bought were stolen off him in the first place.
-0x41317559=~z~And it turns out the diamonds we bought were stolen off him in the first place.
+0x41317559=~z~似乎我们买的钻石一开始是从他那里偷来的。
 
 ;0x42CAA7F8=~z~Noooo?
-0x42CAA7F8=~z~Noooo?
+0x42CAA7F8=~z~还没好吗？
 
 ;0x4322CF30=~z~Luis.
-0x4322CF30=~z~Luis.
+0x4322CF30=~z~Luis。
 
 ;0x4360998F=~z~You think you're a big man. Where's your house on Middle Park East? Where's your big sports team, huh?
-0x4360998F=~z~You think you're a big man. Where's your house on Middle Park East? Where's your big sports team, huh?
+0x4360998F=~z~你以为你算老几。你在Middle Park East的豪宅去哪了？你的大球队在哪呢，啊？
 
 ;0x43D8693C=~z~Yo, I don't know shit about those rocks.
-0x43D8693C=~z~Yo, I don't know shit about those rocks.
+0x43D8693C=~z~嘿，我对这些钻石一无所知。
 
 ;0x47D9B037=E2BG3_ZAI
 0x47D9B037=E2BG3_ZAI
@@ -117,19 +117,19 @@
 0x4D3E045A=E2BG3_AAC
 
 ;0x4DDD0EB4=~z~He's bad news. I hate to be the voice of reason here, but I don't think we need that kind of stress in our lives.
-0x4DDD0EB4=~z~He's bad news. I hate to be the voice of reason here, but I don't think we need that kind of stress in our lives.
+0x4DDD0EB4=~z~他让我很不舒服。虽然我不想保持理智，但我认为我们的生活中不需要这样的压力。
 
 ;0x51546B93=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
-0x51546B93=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
+0x51546B93=~z~嘿你让我很尴尬，兄弟。我没法告诉你这件事已经处理好了--因为它没有。
 
 ;0x534D3C58=~z~Hey. Where's the one man band?
-0x534D3C58=~z~Hey. Where's the one man band?
+0x534D3C58=~z~嘿，你的“单人乐队”去哪了？
 
 ;0x56170DB9=~z~No, you listen. I offered you an opportunity, yet you were plotting against me.
-0x56170DB9=~z~No, you listen. I offered you an opportunity, yet you were plotting against me.
+0x56170DB9=~z~不，你听着。我给过你机会，你却密谋反对我。
 
 ;0x56823FD2=~z~I'll stay as long as I like.
-0x56823FD2=~z~I'll stay as long as I like.
+0x56823FD2=~z~我想呆多久就呆多久。
 
 ;0x5B4921D0=E2BG3_AAB
 0x5B4921D0=E2BG3_AAB
@@ -138,55 +138,55 @@
 0x5C960D23=E2BG3_ZCA
 
 ;0x5F63DAB4=~z~You got to talk to Daddy... I thought I was making you a real man. Not a rentboy.
-0x5F63DAB4=~z~You got to talk to Daddy... I thought I was making you a real man. Not a rentboy.
+0x5F63DAB4=~z~你咋不问问你爹...我还以为我让你成为了一个真正的男人，而不是基佬。
 
 ;0x601EDC26=~z~Ignore her, Luis. The diamonds - tell me.
-0x601EDC26=~z~Ignore her, Luis. The diamonds - tell me.
+0x601EDC26=~z~别管她，Luis。那些钻石，给我说说。
 
 ;0x62173E68=E2BG3_ZAJ
 0x62173E68=E2BG3_ZAJ
 
 ;0x64DFAB4A=~z~Shit!
-0x64DFAB4A=~z~Shit!
+0x64DFAB4A=~z~操！
 
 ;0x65426CE7=~z~Have you opened it yet?
-0x65426CE7=~z~Have you opened it yet?
+0x65426CE7=~z~打开了吗？
 
 ;0x689366E4=~z~Mr. Luis.
-0x689366E4=~z~Mr. Luis.
+0x689366E4=~z~Luis先生。
 
 ;0x6A80B873=SFX_PAUSE_210
 0x6A80B873=SFX_PAUSE_210
 
 ;0x6C484B8A=~z~Listen, Tony, I got something to talk to you about. You remember that Ray Bulgarin guy?
-0x6C484B8A=~z~Listen, Tony, I got something to talk to you about. You remember that Ray Bulgarin guy?
+0x6C484B8A=~z~听着，Tony，我有事给你说下。你还记得那个叫Ray Bulgarin的家伙吗？
 
 ;0x6CAF44A9=090
 0x6CAF44A9=090
 
 ;0x71267E39=~z~I can't sell what ain't mine, bro, and plus, with all the work I put in for you, I don't really feel like a man yet.
-0x71267E39=~z~I can't sell what ain't mine, bro, and plus, with all the work I put in for you, I don't really feel like a man yet.
+0x71267E39=~z~不是我的东西我也卖不了，兄弟，再说了，给你办了这么多事，我也没觉得自己成了男人。
 
 ;0x714BF565=~z~Shut up, you cunt.
-0x714BF565=~z~Shut up, you cunt.
+0x714BF565=~z~闭嘴，臭婊子。
 
 ;0x71968F40=~z~That'll teach ya...
-0x71968F40=~z~That'll teach ya...
+0x71968F40=~z~那会给你个教训...
 
 ;0x77224FCF=~z~Do you recognise this man?
-0x77224FCF=~z~Do you recognise this man?
+0x77224FCF=~z~你能认出这个人是谁吗？
 
 ;0x785012EA=~z~Yeah.
-0x785012EA=~z~Yeah.
+0x785012EA=~z~看到了。
 
 ;0x79D99615=~z~Okay, I'm here.
-0x79D99615=~z~Okay, I'm here.
+0x79D99615=~z~好的，我到了。
 
 ;0x7BA3EA41=~z~Yo, man, we already got it. I, ummm, talked to him about some opportunities.
-0x7BA3EA41=~z~Yo, man, we already got it. I, ummm, talked to him about some opportunities.
+0x7BA3EA41=~z~嘿，老兄，我们早就知道了。我，嗯，之前和Ray讨论过一些机遇。
 
 ;0x7BCD8A68=~z~Shut up, you fucking cunt.
-0x7BCD8A68=~z~Shut up, you fucking cunt.
+0x7BCD8A68=~z~闭嘴，你这蠢猪。
 
 ;0x7DF61D8F=E2BG3_ZAH
 0x7DF61D8F=E2BG3_ZAH
@@ -195,64 +195,64 @@
 0x7DFAEA02=100090010010090100090100
 
 ;0x80636251=~z~Yo, what the fuck? Is this the guy we bought the ice from?
-0x80636251=~z~Yo, what the fuck? Is this the guy we bought the ice from?
+0x80636251=~z~嘿，搞什么鬼？这是卖给我们钻石的人吗？
 
 ;0x82B51B27=~z~Ray? Hey Ray!
-0x82B51B27=~z~Ray? Hey Ray!
+0x82B51B27=~z~Ray？嘿Ray！
 
 ;0x88E971FE=~z~Yeah. A real relief.
-0x88E971FE=~z~Yeah. A real relief.
+0x88E971FE=~z~是的。真正的解脱。
 
 ;0x8B7442FB=~z~You weren't quick enough.
-0x8B7442FB=~z~You weren't quick enough.
+0x8B7442FB=~z~你还不够快。
 
 ;0x8B89A2C7=~z~I was in with some bad Russians, and they've sent this crack sniper team after us.
-0x8B89A2C7=~z~I was in with some bad Russians, and they've sent this crack sniper team after us.
+0x8B89A2C7=~z~我和被几个毛子盯上了，他们派出了这个厉害的狙击小队对付我们。
 
 ;0x8B96B18B=~z~Take the fucking diamonds. Shit.
-0x8B96B18B=~z~Take the fucking diamonds. Shit.
+0x8B96B18B=~z~拿他妈的钻石，操。
 
 ;0x8DA52E17=~z~Aargh, fuck you, Ray!
-0x8DA52E17=~z~Aargh, fuck you, Ray!
+0x8DA52E17=~z~啊，操你妈，Ray！
 
 ;0x91C5AC4C=~z~Yo, L, what's up?
-0x91C5AC4C=~z~Yo, L, what's up?
+0x91C5AC4C=~z~嘿，L，怎么了？
 
 ;0x92AD06E4=~z~I believe you partnered with him in a diamond deal.
-0x92AD06E4=~z~I believe you partnered with him in a diamond deal.
+0x92AD06E4=~z~我认为你和他合作进行了一笔钻石交易。
 
 ;0x92F307D1=E2BG3_ZAA
 0x92F307D1=E2BG3_ZAA
 
 ;0x9357BC6C=~z~I have company. Shut up.
-0x9357BC6C=~z~I have company. Shut up.
+0x9357BC6C=~z~我有客人，闭嘴！
 
 ;0x93A49097=~z~Oh, shit! Fucking great.
-0x93A49097=~z~Oh, shit! Fucking great.
+0x93A49097=~z~哦，我操！太他妈好了。
 
 ;0x959D472A=~z~Mother always said she only had daughters!
-0x959D472A=~z~Mother always said she only had daughters!
+0x959D472A=~z~妈妈总说自己只有女儿！
 
 ;0x95B6BB88=~z~Where all these fucks been hiding...
-0x95B6BB88=~z~Where all these fucks been hiding...
+0x95B6BB88=~z~这些混蛋都藏在哪了...
 
 ;0x9601B7B3=~z~What? How come?
-0x9601B7B3=~z~What? How come?
+0x9601B7B3=~z~什么？为什么？
 
 ;0x98654397=~z~A big gun makes you a big man. Huh?
-0x98654397=~z~A big gun makes you a big man. Huh?
+0x98654397=~z~有把枪你就牛逼了，是吗？
 
 ;0x9A0AA70E=~z~That Russian gangster? You think he'd lend us the money we need to get out of this shit?
-0x9A0AA70E=~z~That Russian gangster? You think he'd lend us the money we need to get out of this shit?
+0x9A0AA70E=~z~那个毛子黑帮？你认为他肯借我们钱帮我们摆平这些破事？
 
 ;0x9A82573F=E2BG3_ADC
 0x9A82573F=E2BG3_ADC
 
 ;0x9CC1DBCD=~z~Ah, yeah okay.
-0x9CC1DBCD=~z~Ah, yeah okay.
+0x9CC1DBCD=~z~呃，很好。
 
 ;0xA00D48DB=~z~and I think I might need some long range type shit for it. You got a hunting rifle, something like that, for me?
-0xA00D48DB=~z~and I think I might need some long range type shit for it. You got a hunting rifle, something like that, for me?
+0xA00D48DB=~z~我认为我需要一些远程的武器。你有猎枪或者类似的东西能给我吗？
 
 ;0xA04E0134=100010100010100
 0xA04E0134=100010100010100
@@ -261,19 +261,19 @@
 0xA7645A12=E2BG3_ZBA
 
 ;0xA904E4FA=~z~Your thingie was tiny even before the wrestling coach make you take steroids.
-0xA904E4FA=~z~Your thingie was tiny even before the wrestling coach make you take steroids.
+0xA904E4FA=~z~要是摔跤教练没让你用类固醇，你那玩意还是细得像根金针菇。
 
 ;0xA96DBC29=~z~Goodbye.
-0xA96DBC29=~z~Goodbye.
+0xA96DBC29=~z~再见。
 
 ;0xAA1FE70C=~z~Hey, man. Is she okay?
-0xAA1FE70C=~z~Hey, man. Is she okay?
+0xAA1FE70C=~z~嘿兄弟，她没事吧？
 
 ;0xAD14E5DD=~z~I shoulda handled them myself, but I got scared and I ran. I'm sorry, bro. Look after yourself.
-0xAD14E5DD=~z~I shoulda handled them myself, but I got scared and I ran. I'm sorry, bro. Look after yourself.
+0xAD14E5DD=~z~我本该自己处理，但是我被吓跑了。我很抱歉，兄弟。照顾好你自己。
 
 ;0xAD827D4E=~z~You are in position. Do you see a box in front of you?
-0xAD827D4E=~z~You are in position. Do you see a box in front of you?
+0xAD827D4E=~z~你已经就位了，你看到你前面有个盒子吗？
 
 ;0xAEF3C7C9=E2MF1_ED
 0xAEF3C7C9=E2MF1_ED
@@ -282,40 +282,40 @@
 0xAF454720=E2MF1_EC
 
 ;0xAF5B6777=~z~Hey man, quick favor to ask. I got to watch over this deal on Denver in Little Italy
-0xAF5B6777=~z~Hey man, quick favor to ask. I got to watch over this deal on Denver in Little Italy
+0xAF5B6777=~z~嘿兄弟，帮我个小忙。我得在Little Italy坐在车上盯着这个交易。
 
 ;0xB1CD865A=E2BG3_ACA
 0xB1CD865A=E2BG3_ACA
 
 ;0xB203064F=~z~- Hey.~n~ - Yeah what's up, I'm here.
-0xB203064F=~z~- Hey.~n~ - Yeah what's up, I'm here.
+0xB203064F=~z~- 嘿。~n~ - 怎么了，我到这了。
 
 ;0xB397E9B2=E2BG3_ZAD
 0xB397E9B2=E2BG3_ZAD
 
 ;0xB41C144E=~z~You ain't so hot.
-0xB41C144E=~z~You ain't so hot.
+0xB41C144E=~z~你还没那么热。
 
 ;0xB848E35B=102
 0xB848E35B=102
 
 ;0xB86580E1=~z~More of them? You joking?
-0xB86580E1=~z~More of them? You joking?
+0xB86580E1=~z~还有人？你在开玩笑吧？
 
 ;0xB8740B45=~z~More trouble than they worth. Damn.
-0xB8740B45=~z~More trouble than they worth. Damn.
+0xB8740B45=~z~麻烦超过了价值，真该死。
 
 ;0xB9C69FAB=~z~Sorry, bro.
-0xB9C69FAB=~z~Sorry, bro.
+0xB9C69FAB=~z~对不起，兄弟。
 
 ;0xBBD88D71=~z~Not me. My boss, Tony. Well, my other boss.
-0xBBD88D71=~z~Not me. My boss, Tony. Well, my other boss.
+0xBBD88D71=~z~不是我。是我的老板Tony，另外一个老板。
 
 ;0xBE6B0CBF=~z~I'll blow you off that roof!
-0xBE6B0CBF=~z~I'll blow you off that roof!
+0xBE6B0CBF=~z~我会把你从屋顶上炸下来！
 
 ;0xC29F7837=~z~Luis, shit, I've been looking for you.
-0xC29F7837=~z~Luis, shit, I've been looking for you.
+0xC29F7837=~z~Luis，操，我一直在找你。
 
 ;0xC6008C33=E2BG3_ZAB
 0xC6008C33=E2BG3_ZAB
@@ -324,19 +324,19 @@
 0xC6BF12B5=E2BG3_ABA
 
 ;0xCA5624C2=~z~Even more of these guys. Damn.
-0xCA5624C2=~z~Even more of these guys. Damn.
+0xCA5624C2=~z~人更多了。该死。
 
 ;0xCACFAFFC=~z~If I get out of this...
-0xCACFAFFC=~z~If I get out of this...
+0xCACFAFFC=~z~要是我能逃出去...
 
 ;0xCD388D01=~z~I'm sorry. I fucked up. Kind of refreshing for me to be the one getting us in shit for once, don't you think?
-0xCD388D01=~z~I'm sorry. I fucked up. Kind of refreshing for me to be the one getting us in shit for once, don't you think?
+0xCD388D01=~z~很抱歉，我搞砸了。这次是我让大家陷入困境了，对我来说有点新鲜，你不这样认为吗？
 
 ;0xCFA900D7=~z~I will do everything in my considerable power to drive you and your faggot master from this earth.
-0xCFA900D7=~z~I will do everything in my considerable power to drive you and your faggot master from this earth.
+0xCFA900D7=~z~我会尽我所能把你和你的基佬老板赶出地球。
 
 ;0xD0343051=~z~You blow up now, fuckhead.
-0xD0343051=~z~You blow up now, fuckhead.
+0xD0343051=~z~现在就炸飞你，傻逼。
 
 ;0xD220250E=090
 0xD220250E=090
@@ -351,7 +351,7 @@
 0xD7069749=100010100100010010010100010100
 
 ;0xD77A37B8=~z~I'll leave it in the alleyway right by there. Let's hang soon, yo.
-0xD77A37B8=~z~I'll leave it in the alleyway right by there. Let's hang soon, yo.
+0xD77A37B8=~z~我会把它放在那里的巷子里。我们很快就会见面了，嘿。
 
 ;0xD8590F42=E2BG3_AAD
 0xD8590F42=E2BG3_AAD
@@ -363,19 +363,19 @@
 0xD9F613DC=SFX_PAUSE_270
 
 ;0xDB8E29AC=~z~Poor old chef. What were you doing talking to these guys without me, Lou?
-0xDB8E29AC=~z~Poor old chef. What were you doing talking to these guys without me, Lou?
+0xDB8E29AC=~z~可怜的老厨子。你和这些人交谈怎么不带上我，Lou？
 
 ;0xDB979CEF=E2BG3_AAE
 0xDB979CEF=E2BG3_AAE
 
 ;0xDBEFD23C=~z~This aint my time to die, motherfuckers
-0xDBEFD23C=~z~This aint my time to die, motherfuckers
+0xDBEFD23C=~z~我还没到死的时候，蠢货们
 
 ;0xDD36502C=~z~He's working.
-0xDD36502C=~z~He's working.
+0xDD36502C=~z~他在工作。
 
 ;0xDD958417=~z~Then do not.
-0xDD958417=~z~Then do not.
+0xDD958417=~z~那就别做。
 
 ;0xE0449EA2=E2BG3_ADD
 0xE0449EA2=E2BG3_ADD
@@ -387,13 +387,13 @@
 0xE1300A89=090
 
 ;0xE172A46A=~z~But I believe it doesn't matter.
-0xE172A46A=~z~But I believe it doesn't matter.
+0xE172A46A=~z~但我认为这没关系。
 
 ;0xE1B41E2D=SFX_PAUSE_250
 0xE1B41E2D=SFX_PAUSE_250
 
 ;0xE2DED5A6=~z~Eat a grenade, fucker!
-0xE2DED5A6=~z~Eat a grenade, fucker!
+0xE2DED5A6=~z~吃我手雷，混蛋。
 
 ;0xE477DD6C=090
 0xE477DD6C=090
@@ -402,10 +402,10 @@
 0xE79DC486=100010090100090010090010090100
 
 ;0xE8C1DD32=~z~Lou. Where've you been?
-0xE8C1DD32=~z~Lou. Where've you been?
+0xE8C1DD32=~z~Lou，你去哪了？
 
 ;0xE8DE7DDA=~z~Got you.
-0xE8DE7DDA=~z~Got you.
+0xE8DE7DDA=~z~抓到你了。
 
 ;0xEB3CFADF=E2BG3_ADB
 0xEB3CFADF=E2BG3_ADB
@@ -414,28 +414,28 @@
 0xEC2AD140=E2BG3_AEA
 
 ;0xEE70773D=~z~What were you thinking, Lopez?
-0xEE70773D=~z~What were you thinking, Lopez?
+0xEE70773D=~z~你之前怎么想的，Lopez？
 
 ;0xEE90BA1A=SFX_PAUSE_300
-0xEE90BA1A=SFX_PAUSE_300
+0xEE90BA1A=SFX_PAUSE_300···
 
 ;0xEFF1F5A3=~z~Okay.
-0xEFF1F5A3=~z~Okay.
+0xEFF1F5A3=~z~好吧。
 
 ;0xF49A0C91=~z~You mean even more people want us dead? How am I not surprised? Fuck!
-0xF49A0C91=~z~You mean even more people want us dead? How am I not surprised? Fuck!
-
+0xF49A0C91=~z~你的意思是有更多人希望我们死？我怎会不惊讶呢？操！
+·
 ;0xF4B0F94A=~z~You like boom boom, bitch.
-0xF4B0F94A=~z~You like boom boom, bitch.
+0xF4B0F94A=~z~炸死你丫的，婊子。
 
 ;0xF51039B5=E2MF1_EE
 0xF51039B5=E2MF1_EE
 
 ;0xF984FEB8=~z~Tony? Fuck! Look, bro. I'm sorry I can't explain all this, but you need to lay low a while.
-0xF984FEB8=~z~Tony? Fuck! Look, bro. I'm sorry I can't explain all this, but you need to lay low a while.
+0xF984FEB8=~z~Tony？操！听着，老兄。很抱歉我还不能说清楚这些事，但你这段时间要保持低调。
 
 ;0xFB0A9203=~z~Okay, soon, man, soon.
-0xFB0A9203=~z~Okay, soon, man, soon.
+0xFB0A9203=~z~好吧，很快，兄弟，很快就是了。
 
 ;0xFEBCA0A6=E2BG3_ADA
 0xFEBCA0A6=E2BG3_ADA
