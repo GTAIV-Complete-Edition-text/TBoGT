@@ -1,67 +1,67 @@
 ﻿[YUSUF2]
 ;0x03ACFE44=~r~You missed the meet.
-0x03ACFE44=~r~You missed the meet.
+0x03ACFE44=~r~你错过了会面。
 
 ;0x1696241A=~r~You killed Tahir.
-0x1696241A=~r~You killed Tahir.
+0x1696241A=~r~你杀了Tahir。
 
 ;0x16E0E723=~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster.
-0x16E0E723=~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster.
+0x16E0E723=~s~长按~INPUT_SPRINT~让你爬梯子爬得更快。
 
 ;0x1C155157=~s~Go and meet ~b~Ahmed.
-0x1C155157=~s~Go and meet ~b~Ahmed.
+0x1C155157=~s~去见~b~Ahmed。
 
 ;0x207EEE22=~s~Take the ~y~elevator ~s~to the top of the tower.
-0x207EEE22=~s~Take the ~y~elevator ~s~to the top of the tower.
+0x207EEE22=~s~使用~y~电梯~s~上到塔楼的顶端。
 
 ;0x290848FE=~r~Yusuf died.
-0x290848FE=~r~Yusuf died.
+0x290848FE=~r~Yusuf死了。
 
 ;0x48D804EB=~s~You have the parachute, now jump off the building.
-0x48D804EB=~s~You have the parachute, now jump off the building.
+0x48D804EB=~s~你得到降落伞了，现在跳伞离开塔楼。
 
 ;0x49C52231=Chase ~b~Ahmed ~s~up the Tower.
-0x49C52231=Chase ~b~Ahmed ~s~up the Tower.
+0x49C52231=追逐~b~Ahmed ~s~上到塔楼。
 
 ;0x5122F989=~s~You have left ~b~Yusuf.
-0x5122F989=~s~You have left ~b~Yusuf.
+0x5122F989=~s~你落下了~b~Yusuf。
 
 ;0x68A4FB0F=~s~Return to ~b~Yusuf's car.
-0x68A4FB0F=~s~Return to ~b~Yusuf's car.
+0x68A4FB0F=~s~回到~b~Yusuf的车里。
 
 ;0x82E563BB=~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster.
-0x82E563BB=~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster.
+0x82E563BB=~s~在爬梯子时使用~INPUT_SPRINT~来使你爬的更快。
 
 ;0x857001CC=~r~You abandoned Yusuf.
-0x857001CC=~r~You abandoned Yusuf.
-
+0x857001CC=~r~你落下了Yusuf。
+  
 ;0x96BAA461=~r~You killed Ahmed.
-0x96BAA461=~r~You killed Ahmed.
+0x96BAA461=~r~你杀死了Ahmed。
 
 ;0xA6CCD9A1=When airborne use ~PAD_LSTICK_ALL~ to move. In freefall press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
-0xA6CCD9A1=When airborne use ~PAD_LSTICK_ALL~ to move. In freefall press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+0xA6CCD9A1=在空中使用~PAD_LSTICK_ALL~来进行移动。在下落时按~INPUT_MOUSE_LMB~来打开降落伞。~n~按住~INPUT_NEXT_CAMERA~来切换不同的视角。
 
 ;0xBD8ADED1=When airborne use ~PAD_LSTICK_ALL~ to move. In freefall press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
-0xBD8ADED1=When airborne use ~PAD_LSTICK_ALL~ to move. In freefall press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0xBD8ADED1=在空中使用~PAD_LSTICK_ALL~来进行移动。在下落时按~INPUT_SPRINT~来打开降落伞~n~按住~INPUT_MELEE_ATTACK1~来切换不同的视角。
 
 ;0xDEC330EE=~s~Lose the cops.
-0xDEC330EE=~s~Lose the cops.
+0xDEC330EE=~s~甩掉警察。
 
 ;0xE3E89426=~s~Go to ~y~Rotterdam Tower.
-0xE3E89426=~s~Go to ~y~Rotterdam Tower.
+0xE3E89426=~s~前往~y~Rotterdam　Tower。
 
 ;0xE7150C26=~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.
-0xE7150C26=~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.
+0xE7150C26=~s~按~INPUT_ENTER~来登上梯子。使用~PAD_LSTICK_UPDOWN~来在梯子上进行上下移动。
 
 ;0xE7B43323=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes.~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
-0xE7B43323=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes.~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0xE7B43323=使用~PAD_LSTICK_ALL~调整身体重心。~n~使用~INPUT_AIM~和~INPUT_ATTACK~来向左或向右转。~n~按~INPUT_ENTER~来分离降落伞。~n~按住~INPUT_MELEE_ATTACK1~来切换不同的视角。
 
 ;0xEEC0B44B=~s~Get into ~b~Yusuf's car.
-0xEEC0B44B=~s~Get into ~b~Yusuf's car.
+0xEEC0B44B=~s~进入~b~Yusuf的车。
 
 ;0xEFB33FBF=While using a parachute, an altimeter will appear over the radar. This indicates your height above sea level.
-0xEFB33FBF=While using a parachute, an altimeter will appear over the radar. This indicates your height above sea level.
+0xEFB33FBF=在使用降落伞时，高度计会显示在雷达上面。这表示您当前的海拔高度。
 
 ;0xF1F75AD9=~r~Yusuf's car was wrecked.
-0xF1F75AD9=~r~Yusuf's car was wrecked.
+0xF1F75AD9=~r~Yusuf的车被摧毁了。
 
