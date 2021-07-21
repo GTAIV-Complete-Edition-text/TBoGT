@@ -1,15 +1,15 @@
 ﻿[E2T4AUD]
 ;0x00294F5A=~z~Luis, how'd you like his site?
-0x00294F5A=~z~Luis, how'd you like his site?
+0x00294F5A=~z~Luis，他的网站你喜欢吗？
 
 ;0x01750985=E2T4_KE
 0x01750985=E2T4_KE
 
 ;0x022FBBBF=~z~This prize stud ain't no faggot, believe me.
-0x022FBBBF=~z~This prize stud ain't no faggot, believe me.
+0x022FBBBF=~z~相信我吧，这价格可不是虚的。
 
 ;0x02E998CD=~z~Yo. Alright. I'll check him out. What's his site?
-0x02E998CD=~z~Yo. Alright. I'll check him out. What's his site?
+0x02E998CD=~z~好吧。我去看看。网站是什么？
 
 ;0x031B565F=E2T4_UB
 0x031B565F=E2T4_UB
@@ -27,22 +27,22 @@
 0x066A9D85=E2T4_XE
 
 ;0x0679ABC7=~z~Shit, Lou, what the fuck is wrong with you? I was trying to sell that car.
-0x0679ABC7=~z~Shit, Lou, what the fuck is wrong with you? I was trying to sell that car.
+0x0679ABC7=~z~妈的，Lou，你他妈怎么回事？我这车还要卖的呢。
 
 ;0x0684C15F=~z~You gotta have respect for that kind of logic, Gracie.
-0x0684C15F=~z~You gotta have respect for that kind of logic, Gracie.
+0x0684C15F=~z~说话过下脑子，Gracie。
 
 ;0x0693B89E=200090020200090020020090100100
 0x0693B89E=200090020200090020020090100100
 
 ;0x06D9C9F6=~z~No, he's not here yet. Ah, did you talk to him?
-0x06D9C9F6=~z~No, he's not here yet. Ah, did you talk to him?
+0x06D9C9F6=~z~不在，他还没来。噢，你跟他聊过没？
 
 ;0x0711B3E9=E2T4_RC
 0x0711B3E9=E2T4_RC
 
 ;0x076CBD68=~z~Chill out, bro. First of all, the summer's a long way off.
-0x076CBD68=~z~Chill out, bro. First of all, the summer's a long way off.
+0x076CBD68=~z~别急，兄弟。首先，夏天还早着。
 
 ;0x09E23135=SFX_OVERLAP_2840
 0x09E23135=SFX_OVERLAP_2840
@@ -51,13 +51,13 @@
 0x0AFCC665=SFX_PAUSE_310
 
 ;0x0B6A5FD4=~z~Jesus, when even the queens don't want to get wrecked, you know this city has turned into a fucking suburb!
-0x0B6A5FD4=~z~Jesus, when even the queens don't want to get wrecked, you know this city has turned into a fucking suburb!
+0x0B6A5FD4=~z~天哪，连基佬都不想喝酒，这城市已经完了。
 
 ;0x0B82294C=E2T4_PE
 0x0B82294C=E2T4_PE
 
 ;0x0D504365=~z~See you, Lou.
-0x0D504365=~z~See you, Lou.
+0x0D504365=~z~再见，Lou。
 
 ;0x0E588DB5=E2T4_PD
 0x0E588DB5=E2T4_PD
@@ -66,10 +66,10 @@
 0x0F717DA1=E2T4_HE
 
 ;0x1143AF1B=~z~Hey yo. Hey Gracie. What's up?
-0x1143AF1B=~z~Hey yo. Hey Gracie. What's up?
+0x1143AF1B=~z~嘿，Gracie。怎么样？
 
 ;0x11871CDD=~z~I know where you're coming from. The shit I got into after my night of indiscretion with Roy Zito. Whoa!
-0x11871CDD=~z~I know where you're coming from. The shit I got into after my night of indiscretion with Roy Zito. Whoa!
+0x11871CDD=~z~我知道你是谁生的了，你就是我那晚跟Roy Zito乱搞之后生下来的。哦嚯！
 
 ;0x124B2AA2=E2T4_XD
 0x124B2AA2=E2T4_XD
@@ -78,10 +78,10 @@
 0x130F026E=SFX_PAUSE_320
 
 ;0x1346DAD7=~z~Yeah, Tony's Tony. He's the boss. He gets special privileges.
-0x1346DAD7=~z~Yeah, Tony's Tony. He's the boss. He gets special privileges.
+0x1346DAD7=~z~Tony是Tony，人家是老板，有特权。
 
 ;0x16060216=~z~Hey, I didn't have to drive you. I was doing you a favor so chill the fuck out.
-0x16060216=~z~Hey, I didn't have to drive you. I was doing you a favor so chill the fuck out.
+0x16060216=~z~嘿，谁给谁开车呢，我只是帮你个忙罢了。你他妈淡定点。
 
 ;0x16EF922D=SFX_PAUSE_220
 0x16EF922D=SFX_PAUSE_220
@@ -90,7 +90,7 @@
 0x1826C1FD=E2T4_XA
 
 ;0x18870015=~z~Thanks, L. Let's see where it goes.
-0x18870015=~z~Thanks, L. Let's see where it goes.
+0x18870015=~z~谢了，L。那就看看接下来会怎样吧。
 
 ;0x1A0AE0C6=E2T4_FG
 0x1A0AE0C6=E2T4_FG
@@ -102,16 +102,16 @@
 0x1B33EA41=E2T4_IA
 
 ;0x1B8C1B6F=~z~I'll drop you guys off, but then I got to handle this. Tony's orders.
-0x1B8C1B6F=~z~I'll drop you guys off, but then I got to handle this. Tony's orders.
+0x1B8C1B6F=~z~送你们下车，然后我去忙这事。Tony发话了的。
 
 ;0x1B9978C4=E2T4_IC
 0x1B9978C4=E2T4_IC
 
 ;0x1BEAF418=~z~Who?
-0x1BEAF418=~z~Who?
+0x1BEAF418=~z~跟谁？
 
 ;0x1FFABCD6=~z~Ignore her, Lou. She's bitter like that lonely old queen, the Celebinator.
-0x1FFABCD6=~z~Ignore her, Lou. She's bitter like that lonely old queen, the Celebinator.
+0x1FFABCD6=~z~算了，Lou。她酸起来和Celebinator那个寂寞大基佬一样。
 
 ;0x20485480=E2T4_XB
 0x20485480=E2T4_XB
@@ -120,25 +120,25 @@
 0x20C000AD=E2T4_IB
 
 ;0x223EB06B=~z~Can you send him an email? Use that famous charm of yours?
-0x223EB06B=~z~Can you send him an email? Use that famous charm of yours?
+0x223EB06B=~z~你能不能用骚话给他发个邮件？
 
 ;0x2285831A=~z~Shit, don't we got other problems right now? Come on!
-0x2285831A=~z~Shit, don't we got other problems right now? Come on!
+0x2285831A=~z~妈的，现在是闲得没事干了吗？别吧！
 
 ;0x2399396B=~z~This guy could sink us!
-0x2399396B=~z~This guy could sink us!
+0x2399396B=~z~这人会搞垮我们的！
 
 ;0x23B95406=~z~Tone, what the fuck is it with Luis?
-0x23B95406=~z~Tone, what the fuck is it with Luis?
+0x23B95406=~z~Tone，Luis他妈的怎么了？
 
 ;0x24E0C6A2=~z~Living in the Luis Lopez no fuck zone means I ain't got one thing in common with most of the skanks in the city.
-0x24E0C6A2=~z~Living in the Luis Lopez no fuck zone means I ain't got one thing in common with most of the skanks in the city.
+0x24E0C6A2=~z~住在这种Luis看不上的地方，意味着我和城里的臭骚逼没有共通之处。
 
 ;0x254E036E=E2T4_ED
 0x254E036E=E2T4_ED
 
 ;0x2596C631=~z~Exactly! That's the charm the women love.
-0x2596C631=~z~Exactly! That's the charm the women love.
+0x2596C631=~z~对头！基佬就好这口。
 
 ;0x2680EB83=E2T4_NF
 0x2680EB83=E2T4_NF
@@ -147,7 +147,7 @@
 0x27F5510E=SFX_PAUSE_260
 
 ;0x27FEE0FF=~z~Umm... Luis... aren't you meant to be going to an internet café or something? Come on.
-0x27FEE0FF=~z~Umm... Luis... aren't you meant to be going to an internet café or something? Come on.
+0x27FEE0FF=~z~呃...Luis...你不是说要去网吧吗？快去啊。
 
 ;0x28106EAD=E2T4_TC
 0x28106EAD=E2T4_TC
@@ -159,16 +159,16 @@
 0x28D27396=SFX_PAUSE_280
 
 ;0x28E70E10=~z~Tony. About me.
-0x28E70E10=~z~Tony. About me.
+0x28E70E10=~z~Tony啊。我的事情。
 
 ;0x2A369BF4=~z~Bro, I don't know what to tell you, man. Dessie is the man at Maisonette, okay? This is the job we got for you.
-0x2A369BF4=~z~Bro, I don't know what to tell you, man. Dessie is the man at Maisonette, okay? This is the job we got for you.
+0x2A369BF4=~z~兄弟，我也不懂说啥好。Dessie不也是9号豪宅的人嘛，懂吗？这可是我们给你找的工作啊。
 
 ;0x2A801D3C=E2T4_AAA
 0x2A801D3C=E2T4_AAA
 
 ;0x2B550C2E=~z~What?
-0x2B550C2E=~z~What?
+0x2B550C2E=~z~啥？
 
 ;0x2C1D790C=E2T4_NE
 0x2C1D790C=E2T4_NE
@@ -183,25 +183,25 @@
 0x2E6D41B2=E2T4_MB
 
 ;0x2ECE8661=~z~What's wrong with the car? I'm trying to sell it anyways.
-0x2ECE8661=~z~What's wrong with the car? I'm trying to sell it anyways.
+0x2ECE8661=~z~车又怎么了？我还要卖的呢。
 
 ;0x320676C2=E2T4_ND
 0x320676C2=E2T4_ND
 
 ;0x32202D3F=~z~No.
-0x32202D3F=~z~No.
+0x32202D3F=~z~不行。
 
 ;0x3297620F=~z~Come on, baby. No need to be rude.
-0x3297620F=~z~Come on, baby. No need to be rude.
+0x3297620F=~z~别吧，宝贝。别那么粗鲁。
 
 ;0x32BE49D3=~z~What would I do without him, huh?
-0x32BE49D3=~z~What would I do without him, huh?
+0x32BE49D3=~z~没他在我咋办呢？
 
 ;0x33D1E502=E2T4_FE
 0x33D1E502=E2T4_FE
 
 ;0x3494A088=~z~Sorry, babe, I got this Alderney rule. I don't mess with any woman from your side of the West River.
-0x3494A088=~z~Sorry, babe, I got this Alderney rule. I don't mess with any woman from your side of the West River.
+0x3494A088=~z~不好意思，宝贝，不跟你们West River这边的女人乱搞，是Alderney的规则。
 
 ;0x349CBBB1=E2T4_UA
 0x349CBBB1=E2T4_UA
@@ -213,22 +213,22 @@
 0x35ABDCFE=E2T4_GE1
 
 ;0x361D1F88=~z~No comment.
-0x361D1F88=~z~No comment.
+0x361D1F88=~z~无可奉告。
 
 ;0x36D6F6CE=~z~Tony, your extreme queeniness is starting to rub off on the employees.
-0x36D6F6CE=~z~Tony, your extreme queeniness is starting to rub off on the employees.
+0x36D6F6CE=~z~Tony，你的基佬行为影响到员工了。
 
 ;0x37A93E59=~z~I was my most charming digital self. Like one of them internet vigilantes pretending to be twelve.
-0x37A93E59=~z~I was my most charming digital self. Like one of them internet vigilantes pretending to be twelve.
+0x37A93E59=~z~网上都是演的，跟那些装嫩的网络义警一个意思。
 
 ;0x37D82807=~z~Yo, T, you know I can't stand that girl. Come on.
-0x37D82807=~z~Yo, T, you know I can't stand that girl. Come on.
+0x37D82807=~z~T，我真受不了这个女的，快点吧。
 
 ;0x381C3D41=E2T4_ID
 0x381C3D41=E2T4_ID
 
 ;0x3895AD6D=~z~What about you?
-0x3895AD6D=~z~What about you?
+0x3895AD6D=~z~你的事情？
 
 ;0x38AAD734=SFX_PAUSE_130
 0x38AAD734=SFX_PAUSE_130
@@ -246,7 +246,7 @@
 0x3A76CF2B=E2T4_HB
 
 ;0x3B3D954E=~z~Oh I'm sorry, babe, maybe you should scrap it. Do yourself and the world a favor.
-0x3B3D954E=~z~Oh I'm sorry, babe, maybe you should scrap it. Do yourself and the world a favor.
+0x3B3D954E=~z~噢，不好意思。拿去报废，干点人事吧。
 
 ;0x3BE18B18=E2T4_NB
 0x3BE18B18=E2T4_NB
@@ -255,7 +255,7 @@
 0x3BEEFD98=E2T4_KD
 
 ;0x3CE5C152=~z~- Maybe if Tony could hear me sing, I'd be okay here.~n~ - Helloooo? Yeah thanks, yeah it's me. Who is this?
-0x3CE5C152=~z~- Maybe if Tony could hear me sing, I'd be okay here.~n~ - Helloooo? Yeah thanks, yeah it's me. Who is this?
+0x3CE5C152=~z~ —— 要是让Tony听下我唱歌，待在这也不错。~n~ —— 你好？对，是我。你是哪位？
 
 ;0x3D7407B6=E2T4_OA1
 0x3D7407B6=E2T4_OA1
@@ -267,19 +267,19 @@
 0x3E76E4F4=E2T4_FC
 
 ;0x3F71C681=~z~Shit! Do you know who's daughter that was? Burn the body. Pull the teeth. Fucking dental records!
-0x3F71C681=~z~Shit! Do you know who's daughter that was? Burn the body. Pull the teeth. Fucking dental records!
+0x3F71C681=~z~妈的！这是谁的女儿你知道吗？赶紧把尸体烧了，牙齿拔掉，看牙的病历也处理掉。
 
 ;0x3F926B12=~z~But he's on a rampage. He's outing our patrons, he's trashing us, he's a complete cunt.
-0x3F926B12=~z~But he's on a rampage. He's outing our patrons, he's trashing us, he's a complete cunt.
+0x3F926B12=~z~但是他疯了，会把我们的赞助商逼走，搞垮我们。真是个大贱逼。
 
 ;0x403E38CF=~z~If I had my way, I'd blow that tunnel up myself.
-0x403E38CF=~z~If I had my way, I'd blow that tunnel up myself.
+0x403E38CF=~z~我要有办法的话，指定把Booth Tunnel隧道炸掉。
 
 ;0x404DBE9C=SFX_PAUSE_200
 0x404DBE9C=SFX_PAUSE_200
 
 ;0x4055C9AA=~z~No!
-0x4055C9AA=~z~No!
+0x4055C9AA=~z~不行！
 
 ;0x42281EF9=E2T4_RB
 0x42281EF9=E2T4_RB
@@ -297,10 +297,10 @@
 0x45D573A4=SFX_PAUSE_230
 
 ;0x47968C2D=~z~Tell me about it.
-0x47968C2D=~z~Tell me about it.
+0x47968C2D=~z~说吧。
 
 ;0x48B1C4B1=~z~What about this Celebinator, Tone?
-0x48B1C4B1=~z~What about this Celebinator, Tone?
+0x48B1C4B1=~z~Celebinator怎么了，Tone？
 
 ;0x49B8CF54=SFX_PAUSE_230
 0x49B8CF54=SFX_PAUSE_230
@@ -309,10 +309,10 @@
 0x4A0C4070=E2T4_AAC
 
 ;0x4A554334=~z~What happened?
-0x4A554334=~z~What happened?
+0x4A554334=~z~怎么了？
 
 ;0x4C47A990=~z~What are you waiting for, L? Go check that site.
-0x4C47A990=~z~What are you waiting for, L? Go check that site.
+0x4C47A990=~z~等啥呢，L？去上网看看啊。
 
 ;0x4CA85266=E2T4_KC
 0x4CA85266=E2T4_KC
@@ -321,7 +321,7 @@
 0x4CA9CB66=SFX_PAUSE_240
 
 ;0x4CBB8DC5=~z~Lou, Lou, Lou, Lou, Lou, you're going to have to make this up to me.
-0x4CBB8DC5=~z~Lou, Lou, Lou, Lou, Lou, you're going to have to make this up to me.
+0x4CBB8DC5=~z~Lou，Lou，Lou，Lou，Lou，你得补偿我。
 
 ;0x4E0EFD43=E2T4_ZE
 0x4E0EFD43=E2T4_ZE
@@ -330,19 +330,19 @@
 0x4E604810=E2T4_AAB
 
 ;0x4ECDB32C=~z~The who?
-0x4ECDB32C=~z~The who?
+0x4ECDB32C=~z~谁？
 
 ;0x4FF69227=SFX_PAUSE_350
 0x4FF69227=SFX_PAUSE_350
 
 ;0x511F6B3D=~z~What is wrong with you people? Don't you know a good time when you see one?
-0x511F6B3D=~z~What is wrong with you people? Don't you know a good time when you see one?
+0x511F6B3D=~z~都怎么回事？见到这么好的夜店不知道珍惜？
 
 ;0x522DD7B1=E2T4_EB
 0x522DD7B1=E2T4_EB
 
 ;0x5392EEAC=~z~Don't be like that man. You know me. I'm an artist. I've got songs in me.
-0x5392EEAC=~z~Don't be like that man. You know me. I'm an artist. I've got songs in me.
+0x5392EEAC=~z~别这样啊。你又不是不懂，我还是个艺人。我会唱歌。
 
 ;0x541880B7=SFX_PAUSE_190
 0x541880B7=SFX_PAUSE_190
@@ -363,10 +363,10 @@
 0x58D8E25E=SFX_PAUSE_240
 
 ;0x59AF3C82=~z~Yeah, well, they don't wear a label on their head.
-0x59AF3C82=~z~Yeah, well, they don't wear a label on their head.
+0x59AF3C82=~z~那当然，他们脑袋上又没写着。
 
 ;0x5BE90DDB=~z~What's got into him?
-0x5BE90DDB=~z~What's got into him?
+0x5BE90DDB=~z~你怎么回事？
 
 ;0x5CF30D65=SFX_PAUSE_380
 0x5CF30D65=SFX_PAUSE_380
@@ -381,13 +381,13 @@
 0x5DC02F2F=SFX_PAUSE_280
 
 ;0x5E0A4D15=~z~If I didn't know better, I'd think you were cracking onto Gracie here. Go check the website.
-0x5E0A4D15=~z~If I didn't know better, I'd think you were cracking onto Gracie here. Go check the website.
+0x5E0A4D15=~z~要不是我了解你，我就觉得你在骗Gracie。去看看那网站。
 
 ;0x5F7A11FE=SFX_PAUSE_350
 0x5F7A11FE=SFX_PAUSE_350
 
 ;0x60EA7758=~z~Who the fuck does that guy think he is?
-0x60EA7758=~z~Who the fuck does that guy think he is?
+0x60EA7758=~z~这个逼以为自己是谁呢？
 
 ;0x62275B79=120090200090020090120
 0x62275B79=120090200090020090120
@@ -396,7 +396,7 @@
 0x63C19279=100090010100090010100
 
 ;0x640EFB6B=~z~Did you read about Clay Jackson? I could not believe it!
-0x640EFB6B=~z~Did you read about Clay Jackson? I could not believe it!
+0x640EFB6B=~z~你看到Clay Jackson的消息了没？真是让人大跌眼镜！
 
 ;0x6479D1D2=E2T4_OD
 0x6479D1D2=E2T4_OD
@@ -405,7 +405,7 @@
 0x67233AE7=E2T4_WA
 
 ;0x67B45BFB=~z~Luis! Hey babe. How are you?
-0x67B45BFB=~z~Luis! Hey babe. How are you?
+0x67B45BFB=~z~Luis！嘿，宝贝。还好吗？
 
 ;0x68A312AF=SFX_PAUSE_460
 0x68A312AF=SFX_PAUSE_460
@@ -417,10 +417,10 @@
 0x69906F52=100010090010090210
 
 ;0x69C19191=~z~We're paying a visit.
-0x69C19191=~z~We're paying a visit.
+0x69C19191=~z~来参观。
 
 ;0x6A4ED19D=~z~When are you moving, Gracie? It's social suicide over there.
-0x6A4ED19D=~z~When are you moving, Gracie? It's social suicide over there.
+0x6A4ED19D=~z~你什么时候搬走，Gracie？住这里和隐居没区别。
 
 ;0x6C128973=E2T4_QA
 0x6C128973=E2T4_QA
@@ -429,19 +429,19 @@
 0x6C30B95A=E2T4_HF
 
 ;0x6E231887=~z~Hey, what's up, Troy? Tony inside?
-0x6E231887=~z~Hey, what's up, Troy? Tony inside?
+0x6E231887=~z~嘿，怎么样，Troy？Tony在里面吗？
 
 ;0x6E4BE5BB=~z~I never woulda guessed it.
-0x6E4BE5BB=~z~I never woulda guessed it.
+0x6E4BE5BB=~z~真是不敢想象。
 
 ;0x6E85F180=E2T4_NC
 0x6E85F180=E2T4_NC
 
 ;0x71632BC4=~z~Let's go.
-0x71632BC4=~z~Let's go.
+0x71632BC4=~z~我们走。
 
 ;0x7365A505=~z~Look, coño, Tone, what are we doing out at Gracie's house?
-0x7365A505=~z~Look, coño, Tone, what are we doing out at Gracie's house?
+0x7365A505=~z~操你妈的，听我说。Tony，我们来Gracie家干什么？
 
 ;0x74904546=E2T4_GC
 0x74904546=E2T4_GC
@@ -450,10 +450,10 @@
 0x74F621DD=E2T4_EE
 
 ;0x76E7D2B1=~z~Trying to claim I spiked his drink.
-0x76E7D2B1=~z~Trying to claim I spiked his drink.
+0x76E7D2B1=~z~他还说是我给他下的药。
 
 ;0x77E13748=~z~I want a picket fence in Alderney, I want to raise kids, play ball. You know, and look at me.
-0x77E13748=~z~I want a picket fence in Alderney, I want to raise kids, play ball. You know, and look at me.
+0x77E13748=~z~我想在Alderney买房，养个孩子，打打球，知道吗。你看看现在。
 
 ;0x790DA8BD=SFX_PAUSE_180
 0x790DA8BD=SFX_PAUSE_180
@@ -462,16 +462,16 @@
 0x798E0B31=100090010
 
 ;0x7A5C4AC1=~z~Shit, I'm a business partner not a chauffeur, you asshole.
-0x7A5C4AC1=~z~Shit, I'm a business partner not a chauffeur, you asshole.
+0x7A5C4AC1=~z~你他妈的，我是合伙人，不是开车的，你个王八犊子。
 
 ;0x7B0FA3B0=SFX_PAUSE_490
 0x7B0FA3B0=SFX_PAUSE_490
 
 ;0x7C6A2D2C=~z~Hey Gracie. You mind calling me Luis? That's my name, okay?
-0x7C6A2D2C=~z~Hey Gracie. You mind calling me Luis? That's my name, okay?
+0x7C6A2D2C=~z~嘿，Gracie，不介意叫我Luis吧？那才是我的名字，好吧？
 
 ;0x7DD66002=~z~Does that mean you're not coming to my house?
-0x7DD66002=~z~Does that mean you're not coming to my house?
+0x7DD66002=~z~意思是你不进来坐坐了？
 
 ;0x7E00570D=SFX_PAUSE_250
 0x7E00570D=SFX_PAUSE_250
@@ -480,7 +480,7 @@
 0x7F740851=SFX_PAUSE_120
 
 ;0x80068930=~z~He ain't a very good one.
-0x80068930=~z~He ain't a very good one.
+0x80068930=~z~是，但这人不太行。
 
 ;0x80DCC1C2=E2T4_WC
 0x80DCC1C2=E2T4_WC
@@ -489,7 +489,7 @@
 0x818CA9B3=SFX_PAUSE_300
 
 ;0x828CBA9C=~z~You're meant to be the rational one here, Luis. Look, I'll see what I can do about it. I'll be in touch.
-0x828CBA9C=~z~You're meant to be the rational one here, Luis. Look, I'll see what I can do about it. I'll be in touch.
+0x828CBA9C=~z~你还是比较灵光的，Luis。听着，我看看我能做点啥。常联系。
 
 ;0x837B376B=E2T4_WD1
 0x837B376B=E2T4_WD1
@@ -504,34 +504,34 @@
 0x8472C0DF=E2T4_JB
 
 ;0x84E116A3=~z~Hard-ons are your department, T. If he likes you, then maybe you gotta take one for the team.
-0x84E116A3=~z~Hard-ons are your department, T. If he likes you, then maybe you gotta take one for the team.
+0x84E116A3=~z~他不是喜欢你嘛，为了大家，那就辛苦一下你的鸡巴吧，T。
 
 ;0x86514AB0=~z~Well that guy's blog don't love us.
-0x86514AB0=~z~Well that guy's blog don't love us.
+0x86514AB0=~z~人家可不喜欢你。
 
 ;0x869BF924=~z~Yeah okay, bro, I'll get on that shit right now. "Dear Complete Cunt, it has come to my attention that..."
-0x869BF924=~z~Yeah okay, bro, I'll get on that shit right now. "Dear Complete Cunt, it has come to my attention that..."
+0x869BF924=~z~可以的，兄弟。马上搞。「亲爱的大骚逼，我最近注意到...」
 
 ;0x86BE566E=~z~Tony, can I have a word?
-0x86BE566E=~z~Tony, can I have a word?
+0x86BE566E=~z~Tony，我能说两句吗？
 
 ;0x86FAAE3D=E2T4_RA
 0x86FAAE3D=E2T4_RA
 
 ;0x87CF4521=~z~You seen the picture of you and me that motherfucker put up there? Yo, that asshole's got to be taken care of.
-0x87CF4521=~z~You seen the picture of you and me that motherfucker put up there? Yo, that asshole's got to be taken care of.
+0x87CF4521=~z~你看见他发的我们的合照了吗？这个逼是要注意一下了。
 
 ;0x88773786=E2T4_NG
 0x88773786=E2T4_NG
 
 ;0x88CD67A3=~z~Nice driving, Luis.
-0x88CD67A3=~z~Nice driving, Luis.
+0x88CD67A3=~z~你的车技真是太好啦，Luis。
 
 ;0x8920E59C=~z~Oh my god! I cannot believe that just happened.
-0x8920E59C=~z~Oh my god! I cannot believe that just happened.
+0x8920E59C=~z~我的天！怎么会这样子。
 
 ;0x8CA6164B=~z~Well, I ain't gonna be living in Alderney forever.
-0x8CA6164B=~z~Well, I ain't gonna be living in Alderney forever.
+0x8CA6164B=~z~我又不会一直住在Alderney。
 
 ;0x8CB75BD2=200090020200090020020090100090210
 0x8CB75BD2=200090020200090020020090100090210
@@ -549,25 +549,25 @@
 0x8ECCFAEE=SFX_PAUSE_200
 
 ;0x8FA756A0=~z~Yeah, I know. I heard the stories. How come you never made a play on me?
-0x8FA756A0=~z~Yeah, I know. I heard the stories. How come you never made a play on me?
+0x8FA756A0=~z~对，我知道，这故事我听过。能不能不要再逗我了？
 
 ;0x90E79861=SFX_PAUSE_210
 0x90E79861=SFX_PAUSE_210
 
 ;0x923D2D9D=~z~Roy Z's a homo?
-0x923D2D9D=~z~Roy Z's a homo?
+0x923D2D9D=~z~Roy Z是基佬吗？
 
 ;0x9253CD6A=~z~This is your house, Gracie? And that is your car? Oh my god, you need to move to the City.
-0x9253CD6A=~z~This is your house, Gracie? And that is your car? Oh my god, you need to move to the City.
+0x9253CD6A=~z~这就是你的房子吗，Gracie？这就是你的车？天，你是该换个地方住了。
 
 ;0x94A56758=~z~Now that you mention it, there is another issue - that fucking nebbish, the Celebinator.
-0x94A56758=~z~Now that you mention it, there is another issue - that fucking nebbish, the Celebinator.
+0x94A56758=~z~这么说的话，倒是有件事————那个怂逼，Celebinator。
 
 ;0x94F8F2E3=~z~Gracie, sweetheart, in the back.
-0x94F8F2E3=~z~Gracie, sweetheart, in the back.
+0x94F8F2E3=~z~Gracie，甜心，坐后面。
 
 ;0x9551056B=~z~He sounds like a fucking faggot to me.
-0x9551056B=~z~He sounds like a fucking faggot to me.
+0x9551056B=~z~他对我来说真他妈像个基佬。
 
 ;0x9595AB20=E2T4_FF
 0x9595AB20=E2T4_FF
@@ -576,13 +576,13 @@
 0x95A2CBD1=210120090210090020210090210
 
 ;0x95A600BC=~z~Self important piece of shit!
-0x95A600BC=~z~Self important piece of shit!
+0x95A600BC=~z~你真以为自己牛逼啊。
 
 ;0x96FE2C9D=SFX_PAUSE_240
 0x96FE2C9D=SFX_PAUSE_240
 
 ;0x97EDE433=~z~Hey Lou.
-0x97EDE433=~z~Hey Lou.
+0x97EDE433=~z~嘿，Lou。
 
 ;0x982DDE7D=E2T4_QD
 0x982DDE7D=E2T4_QD
@@ -591,28 +591,28 @@
 0x9A9F9727=E2T4_HD
 
 ;0x9B39EEC9=~z~One little drive with her, is that too much to ask?
-0x9B39EEC9=~z~One little drive with her, is that too much to ask?
+0x9B39EEC9=~z~跟她逛一小圈，很难吗？
 
 ;0x9B88FE97=~z~If you don't like it, fuck off, I guess. If you do, shut the fuck up and stop being a moron.
-0x9B88FE97=~z~If you don't like it, fuck off, I guess. If you do, shut the fuck up and stop being a moron.
+0x9B88FE97=~z~不喜欢的话，就滚。喜欢的话，就闭嘴，别当傻逼。
 
 ;0x9D3486B3=~z~Can you take us out to Gracie's house? It's on Babbage Drive.
-0x9D3486B3=~z~Can you take us out to Gracie's house? It's on Babbage Drive.
+0x9D3486B3=~z~能带我们去Gracie家吗？就在Babbage Drive。
 
 ;0x9D980E96=~z~Me neither, babe. I got to handle some shit. You gonna be okay?
-0x9D980E96=~z~Me neither, babe. I got to handle some shit. You gonna be okay?
+0x9D980E96=~z~我也一样，宝贝。我忙去了，没有关系吧？
 
 ;0x9DA882D6=~z~Oh, fantastic.
-0x9DA882D6=~z~Oh, fantastic.
+0x9DA882D6=~z~哦嚯，见鬼了。
 
 ;0x9E1CB606=~z~Call me an asshole, but that was it for me.
-0x9E1CB606=~z~Call me an asshole, but that was it for me.
+0x9E1CB606=~z~你说我操蛋就操蛋吧，我这人就这样。
 
 ;0x9F0F219A=E2T4_ZA
 0x9F0F219A=E2T4_ZA
 
 ;0x9FF0FC22=~z~Hey Luis, what's up, man?
-0x9FF0FC22=~z~Hey Luis, what's up, man?
+0x9FF0FC22=~z~嘿，Luis，怎么样，哥们？
 
 ;0xA0A8EE02=E2T4_EC
 0xA0A8EE02=E2T4_EC
@@ -624,10 +624,10 @@
 0xA1BEA866=SFX_PAUSE_280
 
 ;0xA222BE76=~z~Having a pussy is your type, Lou. Tell me what's wrong with me?
-0xA222BE76=~z~Having a pussy is your type, Lou. Tell me what's wrong with me?
+0xA222BE76=~z~你不是最喜欢女人嘛，Lou。说吧，我哪不好了？
 
 ;0xA2F903FF=~z~Oh my god! I just love that guy's blog.
-0xA2F903FF=~z~Oh my god! I just love that guy's blog.
+0xA2F903FF=~z~我的天！我喜欢那人的博客。
 
 ;0xA31EFAF2=SFX_PAUSE_200
 0xA31EFAF2=SFX_PAUSE_200
@@ -639,19 +639,19 @@
 0xA4FA3F6E=E2T4_PB
 
 ;0xA665B8BF=~z~With all the shit we're dealing with at the moment,
-0xA665B8BF=~z~With all the shit we're dealing with at the moment,
+0xA665B8BF=~z~现在这一堆破事里，
 
 ;0xA7437D0F=~z~So what? He thinks he's the only guy with a mouth on the fucking internet?
-0xA7437D0F=~z~So what? He thinks he's the only guy with a mouth on the fucking internet?
+0xA7437D0F=~z~那又怎么样？那么多网友就他长嘴巴？
 
 ;0xA7D40D79=E2T4_LE
 0xA7D40D79=E2T4_LE
 
 ;0xA83E5D0E=~z~I mean, he'll try to bang anything with a pussy, but it's Mr. Limpdick when I'm around.
-0xA83E5D0E=~z~I mean, he'll try to bang anything with a pussy, but it's Mr. Limpdick when I'm around.
+0xA83E5D0E=~z~他不是很牛逼吗？怎么我一来就拉垮了？
 
 ;0xA96B8F1B=~z~Bro, you work for a guy whose nickname since 1985 is Gay Tony. Why do you give a fuck?
-0xA96B8F1B=~z~Bro, you work for a guy whose nickname since 1985 is Gay Tony. Why do you give a fuck?
+0xA96B8F1B=~z~兄弟啊，你可是在给从1985年就打起Gay Tony名号的大佬工作啊，这你都看不上？
 
 ;0xAC66104B=E2T4_IE
 0xAC66104B=E2T4_IE
@@ -660,7 +660,7 @@
 0xAC848812=E2T4_QB
 
 ;0xAC8B52E3=~z~Hey look, I stopped dealing with mobster brats after Dani Lupisella tried to get her daddy to cut my balls off.
-0xAC8B52E3=~z~Hey look, I stopped dealing with mobster brats after Dani Lupisella tried to get her daddy to cut my balls off.
+0xAC8B52E3=~z~嘿，听着，自从Dani Lupisella想让她爸把我阉了之后，我就不和黑手党打交道了。
 
 ;0xAD8322DA=090090090
 0xAD8322DA=090090090
@@ -675,13 +675,13 @@
 0xAF01AD5E=E2T4_IF
 
 ;0xAF2492A0=~z~But Tony calls you Lou...
-0xAF2492A0=~z~But Tony calls you Lou...
+0xAF2492A0=~z~但是Tony叫你Lou啊...
 
 ;0xB0AE7458=~z~Oh yeah sure, babe. Some other time.
-0xB0AE7458=~z~Oh yeah sure, babe. Some other time.
+0xB0AE7458=~z~好吧，行，别的时间吧。
 
 ;0xB16FD72C=~z~That ain't happening, babe, so please keep your clothes on.
-0xB16FD72C=~z~That ain't happening, babe, so please keep your clothes on.
+0xB16FD72C=~z~别想了，赶紧把衣服穿上。
 
 ;0xB289962B=E2T4_EF
 0xB289962B=E2T4_EF
@@ -702,7 +702,7 @@
 0xB6DB2CE7=E2T4_LD
 
 ;0xB84DE2D2=~z~Listen to him, Lou. The Celebinator is real influential.
-0xB84DE2D2=~z~Listen to him, Lou. The Celebinator is real influential.
+0xB84DE2D2=~z~听他讲，Lou。Celebinator真的很有影响力。
 
 ;0xB97BF335=E2T4_OC
 0xB97BF335=E2T4_OC
@@ -711,16 +711,16 @@
 0xB98E8F6B=E2T4_TD
 
 ;0xBABD2406=~z~He's talking shit like it's going out of fashion.
-0xBABD2406=~z~He's talking shit like it's going out of fashion.
+0xBABD2406=~z~他一天天的乱放屁，说人家过气了。
 
 ;0xBAE1A913=~z~The Celebinator! Oh my God! I love that site!
-0xBAE1A913=~z~The Celebinator! Oh my God! I love that site!
+0xBAE1A913=~z~Celebinator！天！我太喜欢他的主页了！
 
 ;0xBC7D0BF5=~z~Shit, Lou, another time.
-0xBC7D0BF5=~z~Shit, Lou, another time.
+0xBC7D0BF5=~z~妈的，Lou，再说吧。
 
 ;0xBC903175=~z~I guess not, T. I'm sorry. I'll come see you soon.
-0xBC903175=~z~I guess not, T. I'm sorry. I'll come see you soon.
+0xBC903175=~z~应该不是，T。不好意思。晚点来找你。
 
 ;0xBD68D596=SFX_PAUSE_250
 0xBD68D596=SFX_PAUSE_250
@@ -738,16 +738,16 @@
 0xBFEA304E=100
 
 ;0xC000AE91=~z~And second, we shouldn't be having no party in the Carraways with our financial situation.
-0xC000AE91=~z~And second, we shouldn't be having no party in the Carraways with our financial situation.
+0xC000AE91=~z~其次，现在的经济状况也不允许我们在Carraways办聚会。
 
 ;0xC1587F01=E2T4_FD
 0xC1587F01=E2T4_FD
 
 ;0xC20AD985=~z~You want war, Mr. Blogger. It's on.
-0xC20AD985=~z~You want war, Mr. Blogger. It's on.
+0xC20AD985=~z~想找打是吧，这位博主。来啊。
 
 ;0xC21DB892=~z~And since I ain't flipping pizzas in an Alderney strip mall, for you, Luis suits me better.
-0xC21DB892=~z~And since I ain't flipping pizzas in an Alderney strip mall, for you, Luis suits me better.
+0xC21DB892=~z~自从我不在Alderney的路边摊烤披萨后，跟你相比，Luis更适合我。
 
 ;0xC395E3AB=SFX_PAUSE_300
 0xC395E3AB=SFX_PAUSE_300
@@ -759,16 +759,16 @@
 0xC53E2C6A=E2T4_TA
 
 ;0xC65F5BC3=~z~But you schmoozed him, didn't you?
-0xC65F5BC3=~z~But you schmoozed him, didn't you?
+0xC65F5BC3=~z~你不是跟他聊过了吗？
 
 ;0xC684D953=~z~Take us out to Gracie's place in Alderney, will you? It's on Babbage Drive.
-0xC684D953=~z~Take us out to Gracie's place in Alderney, will you? It's on Babbage Drive.
+0xC684D953=~z~带我们去Gracie在Alderney的家好吗？就在Babbage Drive。
 
 ;0xC6C2C4D6=~z~He got that one from me.
-0xC6C2C4D6=~z~He got that one from me.
+0xC6C2C4D6=~z~他那个就是从我这搞来的。
 
 ;0xC7B13830=~z~Fucking cops took my license and I was not DUI!
-0xC7B13830=~z~Fucking cops took my license and I was not DUI!
+0xC7B13830=~z~傻逼条子，扣我驾照，我又没有酒驾！
 
 ;0xC8D99B43=SFX_PAUSE_170
 0xC8D99B43=SFX_PAUSE_170
@@ -789,7 +789,7 @@
 0xCCFA9D5A=E2T4_OA2
 
 ;0xCED40FE2=~z~It's fucking blackmail with these guys. He got left off a list somewhere so it's our livelihoods at stake!
-0xCED40FE2=~z~It's fucking blackmail with these guys. He got left off a list somewhere so it's our livelihoods at stake!
+0xCED40FE2=~z~咱们绑架他。现在别管这事了，做生意要紧。
 
 ;0xCFAC1A20=E2T4_HA
 0xCFAC1A20=E2T4_HA
@@ -807,10 +807,10 @@
 0xD2090803=SFX_PAUSE_250
 
 ;0xD225E08F=~z~About me working here, man. I can't do it no more. I ain't queer and it's doing my head in.
-0xD225E08F=~z~About me working here, man. I can't do it no more. I ain't queer and it's doing my head in.
+0xD225E08F=~z~我的工作啊，哥们。我干不下去了。烦死了，我又不是基佬。
 
 ;0xD3AD765F=~z~Yeah, I can't believe people read that shit. No wonder we didn't let that bucktooth bastard in.
-0xD3AD765F=~z~Yeah, I can't believe people read that shit. No wonder we didn't let that bucktooth bastard in.
+0xD3AD765F=~z~真不敢相信会有人看这玩意。怪不得咱们不让这大龅牙来店里。
 
 ;0xD3B3F63D=200020090200
 0xD3B3F63D=200020090200
@@ -831,7 +831,7 @@
 0xD5B8FB7C=100100090100090100090010090100
 
 ;0xD67E398D=~z~I don't know. Maybe it's your charming turn of phrase, or your demure, almost nun-like manner.
-0xD67E398D=~z~I don't know. Maybe it's your charming turn of phrase, or your demure, almost nun-like manner.
+0xD67E398D=~z~不知道。可能是因为你像修女一样谈吐高雅，举止端庄吧。
 
 ;0xD68A17B3=E2T4_WB
 0xD68A17B3=E2T4_WB
@@ -840,28 +840,28 @@
 0xD73B6B5E=SFX_PAUSE_160
 
 ;0xD820C340=~z~I'll send you a link. Will you drop us off and go do it now?
-0xD820C340=~z~I'll send you a link. Will you drop us off and go do it now?
+0xD820C340=~z~我发链接给你。放我们下车你就过去弄，可以吗？
 
 ;0xD8255D13=E2T4_QC
 0xD8255D13=E2T4_QC
 
 ;0xD8C6A645=~z~Fuck you, Luis. Get over yourself, you fucking faggot.
-0xD8C6A645=~z~Fuck you, Luis. Get over yourself, you fucking faggot.
+0xD8C6A645=~z~操你妈的，Luis，真以为自己牛逼是吧，你他妈个基佬。
 
 ;0xD8FA1821=SFX_PAUSE_220
 0xD8FA1821=SFX_PAUSE_220
 
 ;0xD91F2C0E=~z~Luis! Fuck you.
-0xD91F2C0E=~z~Luis! Fuck you.
+0xD91F2C0E=~z~Luis！操你妈的。
 
 ;0xD9B33797=E2T4_XC
 0xD9B33797=E2T4_XC
 
 ;0xDB51BFC5=~z~Oh! Look at this bitch behind the wheel!
-0xDB51BFC5=~z~Oh! Look at this bitch behind the wheel!
+0xDB51BFC5=~z~噢！看看这开车的！
 
 ;0xDB7122D5=~z~the last thing we need to be doing is further enhancing this egomaniac piece of shit's opinion of himself.
-0xDB7122D5=~z~the last thing we need to be doing is further enhancing this egomaniac piece of shit's opinion of himself.
+0xDB7122D5=~z~最重要的是捧一捧这个自大狂。
 
 ;0xDB74CD90=SFX_PAUSE_220
 0xDB74CD90=SFX_PAUSE_220
@@ -873,7 +873,7 @@
 0xDC87E508=200090020
 
 ;0xDC91AB5D=~z~Relax, bro. We'll send him a basket. It'll be cool.
-0xDC91AB5D=~z~Relax, bro. We'll send him a basket. It'll be cool.
+0xDC91AB5D=~z~放松，兄弟。我们会教训他的。没事的。
 
 ;0xDEA82F61=SFX_OVERLAP_5700
 0xDEA82F61=SFX_OVERLAP_5700
@@ -888,10 +888,10 @@
 0xDF7AC342=E2T4_OB
 
 ;0xE0494D76=~z~"Positive PR", ain't that what you're always saying?
-0xE0494D76=~z~"Positive PR", ain't that what you're always saying?
+0xE0494D76=~z~这就是你常挂嘴边的「有效公关」吗？
 
 ;0xE065886A=~z~T, chill out. It was an accident. We'll explain it and everything'll be cool. I'll call you soon.
-0xE065886A=~z~T, chill out. It was an accident. We'll explain it and everything'll be cool. I'll call you soon.
+0xE065886A=~z~T，淡定点，是车祸。我们做好解释就得了。晚点找你。
 
 ;0xE0B073D8=SFX_PAUSE_230
 0xE0B073D8=SFX_PAUSE_230
@@ -900,31 +900,31 @@
 0xE1DF98DF=E2T4_GB
 
 ;0xE2FF2A56=~z~Awww.
-0xE2FF2A56=~z~Awww.
+0xE2FF2A56=~z~呃...
 
 ;0xE3D20F2C=~z~You're real tense, man, and you used to be cool.
-0xE3D20F2C=~z~You're real tense, man, and you used to be cool.
+0xE3D20F2C=~z~急啥眼啊，哥们，刚才不是好好的嘛。
 
 ;0xE42D70FE=~z~Sorry Gracie, you ain't my type, so can you let me be a "limpdick" in peace?
-0xE42D70FE=~z~Sorry Gracie, you ain't my type, so can you let me be a "limpdick" in peace?
+0xE42D70FE=~z~不好意思Gracie，你不是我的菜，拉垮就拉垮吧。
 
 ;0xE5910376=~z~You think I like going to Alderney? Even us kids from Dukes look down on fucking Alderney.
-0xE5910376=~z~You think I like going to Alderney? Even us kids from Dukes look down on fucking Alderney.
+0xE5910376=~z~你觉得我会喜欢来Alderney？就连Duke的三岁小孩都他妈看不上这里。
 
 ;0xE5B7DD72=200090120210090210020090100010
 0xE5B7DD72=200090120210090210020090100010
 
 ;0xE746C85D=~z~There ain't nothing wrong with you... if you like really loud guidettes.
-0xE746C85D=~z~There ain't nothing wrong with you... if you like really loud guidettes.
+0xE746C85D=~z~没有...除了看起来很像个意大利人。
 
 ;0xE8552051=200090020090200
 0xE8552051=200090020090200
 
 ;0xE89F643D=~z~But that means Luis won't be able to see the inside of my place.
-0xE89F643D=~z~But that means Luis won't be able to see the inside of my place.
+0xE89F643D=~z~那意思是Luis没机会进来看看了？
 
 ;0xEA4A678F=~z~Oh well in that case, I'll definitely do it now.
-0xEA4A678F=~z~Oh well in that case, I'll definitely do it now.
+0xEA4A678F=~z~噢，好吧，既然这样，那我就现在弄吧。
 
 ;0xEA6E416A=100200090120090210090210
 0xEA6E416A=100200090120090210090210
@@ -933,13 +933,13 @@
 0xEA73FCE0=E2T4_ACA
 
 ;0xEADC1D3C=~z~Pretty quiet.
-0xEADC1D3C=~z~Pretty quiet.
+0xEADC1D3C=~z~静悄悄的。
 
 ;0xECA92252=~z~Alright! Luis, get in the car.
-0xECA92252=~z~Alright! Luis, get in the car.
+0xECA92252=~z~好了！Luis，上车。
 
 ;0xED01E694=~z~What is up with that, Luis?
-0xED01E694=~z~What is up with that, Luis?
+0xED01E694=~z~怎么说，Luis？
 
 ;0xED02CF66=E2T4_PF
 0xED02CF66=E2T4_PF
@@ -948,7 +948,7 @@
 0xEEB615A3=E2T4_KB
 
 ;0xEEC199C6=~z~Because I want to be married, man. You know? I want to have a nice life.
-0xEEC199C6=~z~Because I want to be married, man. You know? I want to have a nice life.
+0xEEC199C6=~z~我想结婚了，哥们。知道吗？我想过小日子去了。
 
 ;0xEF040F96=210090210120090010090100090010090010
 0xEF040F96=210090210120090010090100090010090010
@@ -963,13 +963,13 @@
 0xF0D0F728=E2T4_NA
 
 ;0xF1B291F4=~z~This is something we don't need right now. Ughh, if no one comes to our summer party in the Carraways...
-0xF1B291F4=~z~This is something we don't need right now. Ughh, if no one comes to our summer party in the Carraways...
+0xF1B291F4=~z~现在这人对我们没有用，呃，除非是没人来我们在Carraways办的夏日聚会...
 
 ;0xF1E40576=010090100090100090100010
 0xF1E40576=010090100090100090100010
 
 ;0xF23737D3=~z~I could do with some comforting so gimme a call soon. Promise, okay.
-0xF23737D3=~z~I could do with some comforting so gimme a call soon. Promise, okay.
+0xF23737D3=~z~我磕点药爽一下得了。晚点给我打电话吧，说到做到，好吗？
 
 ;0xF2F7D90C=E2T4_PC
 0xF2F7D90C=E2T4_PC
@@ -981,7 +981,7 @@
 0xF6F9A386=200090020090200200120090100090020
 
 ;0xF71EB5C5=~z~You're the fucking doorman, bro, not the cabaret. What is wrong with you?
-0xF71EB5C5=~z~You're the fucking doorman, bro, not the cabaret. What is wrong with you?
+0xF71EB5C5=~z~你他妈是看门的，不是唱歌的。犯啥毛病呢？
 
 ;0xF80905D1=E2T4_VC
 0xF80905D1=E2T4_VC
@@ -990,7 +990,7 @@
 0xF83764BF=SFX_PAUSE_220
 
 ;0xF867B853=~z~Hey Troy... Hey, how's business? Luis, come on, let's go.
-0xF867B853=~z~Hey Troy... Hey, how's business? Luis, come on, let's go.
+0xF867B853=~z~嘿，Troy...嘿，生意怎样？Luis，快，咱们走。
 
 ;0xF934932F=010090100210090010200090020
 0xF934932F=010090100210090010200090020
@@ -1017,13 +1017,13 @@
 0xFBB85E6D=E2T4_MA
 
 ;0xFC06A0D2=~z~Thanks, Luis. Call me when you've emailed that dreadful blogger.
-0xFC06A0D2=~z~Thanks, Luis. Call me when you've emailed that dreadful blogger.
+0xFC06A0D2=~z~谢了，Luis。给那死妈博主发邮件后，打电话给我。
 
 ;0xFE1D263B=E2T4_AAD
 0xFE1D263B=E2T4_AAD
 
 ;0xFE482FDB=~z~He's got a hard-on for us and it ain't gonna go away. He'll bring heat and that'll mean license trouble.
-0xFE482FDB=~z~He's got a hard-on for us and it ain't gonna go away. He'll bring heat and that'll mean license trouble.
+0xFE482FDB=~z~他跟我们干上了，还赖着不走。他会把事情闹大，咱们的声誉就扫地了。
 
 ;0xFEC03ABC=E2T4_LC
 0xFEC03ABC=E2T4_LC
@@ -1032,7 +1032,7 @@
 0xFEDC7689=SFX_PAUSE_330
 
 ;0xFF38B3F2=~z~Luis, how did you like his site?
-0xFF38B3F2=~z~Luis, how did you like his site?
+0xFF38B3F2=~z~Luis，他的网站你喜欢吗？
 
 ;0xFFC3DD7E=E2T4_ZC
 0xFFC3DD7E=E2T4_ZC
