@@ -33,13 +33,13 @@
 0x2E4E9285=~s~他们从前边冲进来了，挡住他们。
 
 ;0x2FFA0221=~s~Take out the ~r~cops~s~ atacking Henrique.
-0x2FFA0221=~s~干掉正在攻击Henrique的~r~条子。
+0x2FFA0221=~s~干掉攻击Henrique的~r~警察。
 
 ;0x34BE8B9E=~s~Take out the ~r~cops~s~ atacking Armando.
-0x34BE8B9E=~s~干掉正在攻击Armando的~r~条子。
+0x34BE8B9E=~s~干掉攻击Armando的~r~警察。
 
 ;0x36823B8E=~r~The car was destroyed.~s~
-0x36823B8E=~r~车被破坏了。~s~
+0x36823B8E=~r~车被毁了。~s~
 
 ;0x3CF6AFD5=~s~Watch it, they're coming down the sides.
 0x3CF6AFD5=~s~看着点，他们从边上过来了。
@@ -87,7 +87,7 @@
 0xA581E3C7=~r~你抛弃了Tony。~s~
 
 ;0xADF34E56=~s~Shoot down the ~r~chopper.~s~
-0xADF34E56=~s~把~r~直升机~s~打下来
+0xADF34E56=~s~击落~r~直升机。~s~
 
 ;0xB68C79C0=PLACEHOLDER:~n~Player and buddies head to the docks to oversee a drug deal.
 0xB68C79C0=PLACEHOLDER:~n~Player and buddies head to the docks to oversee a drug deal.
