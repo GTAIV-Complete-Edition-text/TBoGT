@@ -1,46 +1,45 @@
 ﻿[LBTR239]
 ;0x08BB62C0=While early reports suggested that this might have been a sting gone wrong, NOOSE spokespeople are sticking to their guns, claiming that they were filming a public relations video. Mr. Saaed's death is being investigated.
-0x08BB62C0=While early reports suggested that this might have been a sting gone wrong, NOOSE spokespeople are sticking to their guns, claiming that they were filming a public relations video. Mr. Saaed's death is being investigated.
+0x08BB62C0=虽然此前报道表明这可能是一个明显的错误，但是NOOSE的发言人们仍坚持己见，声称他们是在拍一部关于公共关系的电影。Saaed先生的死因目前尚在调查中。
 
 ;0x27BB9B08=Flowerman tops the charts
-0x27BB9B08=Flowerman tops the charts
+0x27BB9B08=Flowerman登顶本周流行唱片榜
 
 ;0x2BB0CC64=Debate Rages - Has Vinewood Lost its Balls?
-0x2BB0CC64=Debate Rages - Has Vinewood Lost its Balls?
+0x2BB0CC64=争论激烈——Vinewood没种了吗？
 
 ;0x451370DD=Romantic comedies are all the rage at the box office these days as Vinewood changes course from the macho to the metrosexual. It's been a long time coming. Elisabeth Lanclett, a spokesperson for Liberty City Cinemas said business is booming. "We love the trend of romantic comedies. Men won't bring women to a war or robot movie, but women will drag their men to a romantic comedy. And the men will shove his face full of expensive food from the snack stand just to make it through the film." Experts say it's a phenomenon they don't yet have a theory but isn't it worthy of a major government study as it seems really important?
-0x451370DD=Romantic comedies are all the rage at the box office these days as Vinewood changes course from the macho to the metrosexual. It's been a long time coming. Elisabeth Lanclett, a spokesperson for Liberty City Cinemas said business is booming. "We love the trend of romantic comedies. Men won't bring women to a war or robot movie, but women will drag their men to a romantic comedy. And the men will shove his face full of expensive food from the snack stand just to make it through the film." Experts say it's a phenomenon they don't yet have a theory but isn't it worthy of a major government study as it seems really important?
+0x451370DD=由于Vinewood领导班子经历了一次由大男子主义向都市美男转型的大换血，最近爱情喜剧的票房一时疯涨。真是早该如此了。一位Liberty City Cinemas的发言人Elisabeth Lanclett声称，如今影院生意正旺。“我们都喜欢爱情喜剧的发展趋势。男性顾客不会带女性顾客去看战争片或机器人片子，但女性顾客却可以拽着她们的伴侣来看爱情喜剧。然后那些男人们就会往他脸上堆满小吃摊上的昂贵零食，仅仅只是为了看完电影。”专家称目前还缺少相关理论来解释这种现象，但这看上去似乎很重要啊，这难道还不值得发起一次正规的政府调查来研究吗？
 
 ;0x5BDAF63A=Mysterious Explosions on the Standing Erection
-0x5BDAF63A=Mysterious Explosions on the Standing Erection
+0x5BDAF63A=摩天大楼遭遇神秘爆炸
 
 ;0x70BB3794=Mary Williamson
 0x70BB3794=Mary Williamson
 
 ;0x92572B3F=Class Tensions Rise as Wrong Area Invaded
-0x92572B3F=Class Tensions Rise as Wrong Area Invaded
+0x92572B3F=错误入侵导致阶级矛盾尖锐化
 
 ;0xAC32FC4B=What happened at the top of Rotterdam?
-0xAC32FC4B=What happened at the top of Rotterdam?
+0xAC32FC4B=Rotterdam楼顶发生了什么？
 
 ;0xC911E4F5=A fight outside a bar in Broker's East Hook neighborhood ended in death and carnage last night. The One-Eyed Sailor, a neighborhood dive bar for over 50 years, has been overrun with hipsters in recent months following a blog post that described it as, "undiscovered, counter-cultural and uber-raw." Jude Corbin, age 32, had been running up a tab on his parents' credit card with six or seven other identically-dressed, bearded 20-somethings since the early afternoon. The group spent a few hours loudly debating the type of bagel that best defines their identity, while slouching outside every five minutes to nonchalantly smoke clove cigarettes. As they became increasingly drunk, however, tensions with the regular customers began to build. When they started playing 80s music on the juke box and ironically body-popping, their patronizing fauxhemian antics proved too much for one local man, who dragged Corbin outside by his asymmetrical bangs and proceeded to beat him on the sidewalk, shouting, "Go back home you ridiculous hipster scum,". Corbin's friends ran off immediately, leaving the 90-pound, wannabe Beat Poet at the mercy of his 250-pound assailant. Witnesses say that he curled up into a ball, crying like a baby, and died a few seconds later when his skintight corduroys cut off the blood flow to the brain.
-0xC911E4F5=A fight outside a bar in Broker's East Hook neighborhood ended in death and carnage last night. The One-Eyed Sailor, a neighborhood dive bar for over 50 years, has been overrun with hipsters in recent months following a blog post that described it as, "undiscovered, counter-cultural and uber-raw." Jude Corbin, age 32, had been running up a tab on his parents' credit card with six or seven other identically-dressed, bearded 20-somethings since the early afternoon. The group spent a few hours loudly debating the type of bagel that best defines their identity, while slouching outside every five minutes to nonchalantly smoke clove cigarettes. As they became increasingly drunk, however, tensions with the regular customers began to build. When they started playing 80s music on the juke box and ironically body-popping, their patronizing fauxhemian antics proved too much for one local man, who dragged Corbin outside by his asymmetrical bangs and proceeded to beat him on the sidewalk, shouting, "Go back home you ridiculous hipster scum,". Corbin's friends ran off immediately, leaving the 90-pound, wannabe Beat Poet at the mercy of his 250-pound assailant. Witnesses say that he curled up into a ball, crying like a baby, and died a few seconds later when his skintight corduroys cut off the blood flow to the brain.
+0xC911E4F5=昨晚，发生在Broker区East Hook街区的一场斗殴最后以可怖的死伤和惨烈的屠杀而告终。“The One-Eyed Sailor”是位于该街区的一家潜水酒吧，有着超过50年的营业史，由于此前一个博客文章将其描述为“未被发现的、非主流的、极其原始自然的”，导致近几个月来酒吧里总是挤满了一些“时髦人士”。Jude Corbin，32岁，在下午早些时候，他正与6、7位衣冠楚楚、满脸胡须的二十出头的年轻人承担着他父母信用卡上积欠的一笔债款。这群人花了几个小时大声辩论哪种百吉饼最能代表他们身份，然后每五分钟就懒洋洋地到酒吧外面漫不经心地抽根丁香烟。然而，正当Corbin等一行人饮酒正酣时，他们与酒吧里老顾客们之间的关系却愈发紧张起来。当他们开始在自动点唱机里点播80年代的歌，紧接着又讽刺地跳起了机械舞，对于一个本地人来说，他们这套傲慢的假波西米亚风格的滑稽动作让人感觉的明显的不能再明显了，于是一位老顾客便扯着Corbin那头不对称刘海把他拽出了酒吧，随即又继续在人行道上对他进行殴打，并吼叫道：“给老子滚回家去，你这滑稽可笑的嬉皮士人渣！”Corbin的朋友们见状直接跑路，丢下这位90磅的节奏诗人任由那个250磅的袭击者摆布。目击者称Corbin被搓成了一团，哭得像个孩子，然后被人用自己的紧身裤勒住了自己的脖子，阻断了大脑的供血，几秒之后便呜呼哀哉了。
 
 ;0xCC983F8E=Unwashed Hipster Bathed in Blood
-0xCC983F8E=Unwashed Hipster Bathed in Blood
+0xCC983F8E=肮脏不堪的嬉皮士以血净身
 
 ;0xE4861BDD=Another murder. Another reason to buy a gun. It only takes one middle-class white boy to be killed by a working-class immigrant to know that it is time to panic, stay inside and trust nobody.
-0xE4861BDD=Another murder. Another reason to buy a gun. It only takes one middle-class white boy to be killed by a working-class immigrant to know that it is time to panic, stay inside and trust nobody.
+0xE4861BDD=又一起谋杀。又多了一个买把枪的理由。社会只付出了让一个中产阶级白人男孩被一个工人阶级移民杀害的代价就让我们意识到是时候恐慌了，待在家里，不要相信任何人。
 
 ;0xE4FABA76=NOOSE Shady on Incident Details
-0xE4FABA76=NOOSE Shady on Incident Details
+0xE4FABA76=NOOSE隐瞒事实细节
 
 ;0xE5A51C94=Mysterious explosions at the top of Rotterdam Tower earlier have been explained as a public relations exercise by the National Office of Security Enforcement. Witnesses report that the observation desk was cleared of tourists by NOOSE agents claiming that it was needed for "official businesses." Several hours later Tahir Saaed, a Dubai resident working for a property developer in Liberty City, fell to his death from the top of the tower. Moments later the explosions started.
-0xE5A51C94=Mysterious explosions at the top of Rotterdam Tower earlier have been explained as a public relations exercise by the National Office of Security Enforcement. Witnesses report that the observation desk was cleared of tourists by NOOSE agents claiming that it was needed for "official businesses." Several hours later Tahir Saaed, a Dubai resident working for a property developer in Liberty City, fell to his death from the top of the tower. Moments later the explosions started.
+0xE5A51C94=此前，发生在Rotterdam Tower楼顶的离奇爆炸事件被国家安全执法办公室（NOOSE）解释为一次公共关系行动。事件目击者称，塔楼观景台上的游客在收到NOOSE特工有关“官方事务”的公告后而被清场。数小时后，Tahir Saaed（迪拜公民，曾为Liberty City中的一家房地产开发商工作）从塔顶坠亡，紧接着发生爆炸事件。
 
 ;0xF1D81FF0=T.J. Barry
 0xF1D81FF0=T.J. Barry
 
 ;0xFB408380=Tony J Smith
 0xFB408380=Tony J Smith
-

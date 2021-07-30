@@ -1,33 +1,33 @@
 ﻿[LBTR233]
 ;0x0A035290=Blasts Rock City
-0x0A035290=Blasts Rock City
+0x0A035290=山崩石裂之城
 
 ;0x1D8D5455=While the chronology of these events is still being debated, authorities have used social network updates on the popular bleeter.biz website in order to put them in an approximate order. It is believed that the first blast caused a crane to go down at the Libel site on Columbus Avenue. The second made an out of commission subway train derail on the Algonquin-Bohan line. And a third blast caused a private jet belonging to the LTA to combust at Francis International. Cleanup crews are hard at work on the sites while authorities debate on how to better safeguard against a repeat of these tragedies.
-0x1D8D5455=While the chronology of these events is still being debated, authorities have used social network updates on the popular bleeter.biz website in order to put them in an approximate order. It is believed that the first blast caused a crane to go down at the Libel site on Columbus Avenue. The second made an out of commission subway train derail on the Algonquin-Bohan line. And a third blast caused a private jet belonging to the LTA to combust at Francis International. Cleanup crews are hard at work on the sites while authorities debate on how to better safeguard against a repeat of these tragedies.
+0x1D8D5455=虽然针对这几起事件发生的时间顺序仍在争议之中，但目前有关当局已经利用社交网络在主流网站bleeter.biz上更新，把这些事件的发生顺序大致排列了一下。据消息称，首次爆炸造成一座起重机坠毁在位于Columbus Avenue的Libel工地上。第二波爆炸致使Algonquin-Bohan地铁线上的一列停运列车发生脱轨。而第三波爆炸则引燃了一架当时位于Francis International的LTA属私人飞机。
 
 ;0x1F97656F=NO RAMPAGE!
-0x1F97656F=NO RAMPAGE!
+0x1F97656F=永别了，Rampage球队！永别了，暴行！
 
 ;0x2266B9D0=City Pulls Bad Tooth
-0x2266B9D0=City Pulls Bad Tooth
+0x2266B9D0=为城市除害
 
 ;0x391A7923=Ashvilli Denies Sale Speculation
-0x391A7923=Ashvilli Denies Sale Speculation
+0x391A7923=Ashvilli否认投机倒把
 
 ;0x4E7FC0E6=Three Explosions Shake Illusion of Security
-0x4E7FC0E6=Three Explosions Shake Illusion of Security
+0x4E7FC0E6=三大爆炸撼动幻影的和平
 
 ;0x5942CBBF=What have a plane, a train, and a crane got in common? They rhyme and they could all kill your children. Unrelated accidents in three corners of Liberty City have shown how close we come to death when we leave our apartments everyday.
-0x5942CBBF=What have a plane, a train, and a crane got in common? They rhyme and they could all kill your children. Unrelated accidents in three corners of Liberty City have shown how close we come to death when we leave our apartments everyday.
+0x5942CBBF=一架飞机，一列列车，一座起重机，他们之间有何共同点？它们押韵，也都可以害死你的孩子。近期在Liberty City的三处地点发生的互不相干的几起事故已向我们表明，当我们离开自己的公寓后，死神离我们究竟有多近。
 
 ;0x5F000CDC=Controversial Rampage owner, Marki Ashvilli has forcefully denied allegations he is about to sell the team, and says he is looking forward to the new season. Mr. Ashvilli, who has faced down a string of accusations, including claims he is not the legal owner of the team along with on going investigations into his links to organized crime, released a statement through a spokesman.
-0x5F000CDC=Controversial Rampage owner, Marki Ashvilli has forcefully denied allegations he is about to sell the team, and says he is looking forward to the new season. Mr. Ashvilli, who has faced down a string of accusations, including claims he is not the legal owner of the team along with on going investigations into his links to organized crime, released a statement through a spokesman.
+0x5F000CDC=备受争议的Rampage球队老板Marki Ashvilli坚决地驳回了他将出售这支球队的指控，并表达了他对新赛季的期待。Ashvilli先生由于遭受一系列已证实的指控——其中包括关于他并非球队合法负责人的声明，以及如今正在调查中的关于他与有组织犯罪之间的联系——现在通过他的发言人发表此次陈述。
 
 ;0x792BFF55=Staff Writer
-0x792BFF55=Staff Writer
+0x792BFF55=本社编辑
 
 ;0x846A57B0="Mr. Ashvilli is committed to the Rampage. He's a life long hockey fan and he has settled happily in Liberty City. He believes that the constant rumors about his finances, his immigration status, his wife, his experiences back in Russia and every other aspect of his life have been spread by people wanting to take over his business interests in both Russia and the US and in particular take control of the rampage. Mr. Ashvilli is 100% focused on the season ahead." League officials are still trying to discover is Mr. Ashvilli passes their test of being a person fit for owning a franchise, while formal investigations into Mr. Ashvilli's finances are on going.
-0x846A57B0="Mr. Ashvilli is committed to the Rampage. He's a life long hockey fan and he has settled happily in Liberty City. He believes that the constant rumors about his finances, his immigration status, his wife, his experiences back in Russia and every other aspect of his life have been spread by people wanting to take over his business interests in both Russia and the US and in particular take control of the rampage. Mr. Ashvilli is 100% focused on the season ahead." League officials are still trying to discover is Mr. Ashvilli passes their test of being a person fit for owning a franchise, while formal investigations into Mr. Ashvilli's finances are on going.
+0x846A57B0=“Ashvilli先生致力于Rampage球队。他一直以来就是一个曲棍球迷，如今已在Liberty City中幸福地安顿着。他认为，所有这些关于他的财产情况、移民状态、家庭妻子、往日的俄国经历以及关于他个人生活的其他所有方面的谣言，都是由那些美俄两国里妄图接管他的商业利益的小人们疯狂散布的，尤其是那些想抢走我Rampage球队的家伙。Ashvilli先生现在100%地、全心全意地关注着即将来临的新赛季。”赛事联盟官方如今仍在尝试查明Ashvilli先生能否通过赛事特许经营权所有人的资质审查，而在另一方面，此前关于Ashvilli先生财产情况的调查仍在进行之中。
 
 ;0x9A6A8A9E=Tony J Smith
 0x9A6A8A9E=Tony J Smith
@@ -36,11 +36,10 @@
 0xAA16C4B7=Is Nothing Safe?
 
 ;0xB8DD29E0=Simon Epstein loves his job. So much that he gets high on his own supply. The Liberty City Dentist was arrested recently for selling nitrous oxide tanks to local partiers. But some of his dental hygienists are coming forward and saying he liked to suck on the gas while at work, and would often fondle them while doing teeth cleaning. Hygienist Sarah Levin said "He was doing a root canal, and that sucky thing is pulling spit out of the patients mouth, and there's blood and spit everywhere, and the dentist started to caress my thigh. It was very erotic, and I was in to it then. But now I just want money."
-0xB8DD29E0=Simon Epstein loves his job. So much that he gets high on his own supply. The Liberty City Dentist was arrested recently for selling nitrous oxide tanks to local partiers. But some of his dental hygienists are coming forward and saying he liked to suck on the gas while at work, and would often fondle them while doing teeth cleaning. Hygienist Sarah Levin said "He was doing a root canal, and that sucky thing is pulling spit out of the patients mouth, and there's blood and spit everywhere, and the dentist started to caress my thigh. It was very erotic, and I was in to it then. But now I just want money."
+0xB8DD29E0=Simon Epstein真是太喜欢他的工作了，以至于他实在入戏太深。近日，这位Liberty City的牙医由于向当地党派人士出售一氧化二氮气罐而被捕。然而他旗下的牙科保健工作人员却站出来说，这位牙医喜欢在工作时吸食这种气体，还会在做洗牙服务时爱抚他的牙齿。牙科保健员Sarah Levin说道：“他当时正在做根管治疗，然后那个不可名状的吸食物就把病人嘴里的痰给吸了出来，血液混杂着口痰搞得到处都是，然后那牙医就开始来摸我的大腿。那感觉真是好色情噢，我当时也非常享受其中。但现在我只想要我的钱来。”
 
 ;0xC0FD3E37=T.J. Barry
 0xC0FD3E37=T.J. Barry
 
 ;0xD3707273=Dirty Dentist Busted
-0xD3707273=Dirty Dentist Busted
-
+0xD3707273=下流牙医横遭逮捕

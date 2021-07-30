@@ -1,43 +1,42 @@
-﻿[LBTR247]
+[LBTR247]
 ;0x242F53FD=Richie Score
 0x242F53FD=Richie Score
 
 ;0x3EBBF831=Pressing the wrong button on his phone may cost him millions of dollars as fans react to the scandalous shots of boy band superstar Bobby Blue in women's lingerie posing and mugging in the mirror. Mr. Blue initially claimed it was a digitally altered photo that had been sent out by a rival boy band. Now he's confessed all and says he dressed up for a funny shoot for their next video. However, industry insiders say they haven't had a plan for a video shoot in months.
-0x3EBBF831=Pressing the wrong button on his phone may cost him millions of dollars as fans react to the scandalous shots of boy band superstar Bobby Blue in women's lingerie posing and mugging in the mirror. Mr. Blue initially claimed it was a digitally altered photo that had been sent out by a rival boy band. Now he's confessed all and says he dressed up for a funny shoot for their next video. However, industry insiders say they haven't had a plan for a video shoot in months.
+0x3EBBF831=误触手机上的一个按钮可能导致付出上百万美元的代价，现在，粉丝们都因为一张某超人气男团成员Bobby Blue穿着女性内衣对着镜子摆鬼脸的照片炸开了锅。Blue先生最初声明这是一张出自竞争对手团队的修改过的照片。但现在他和盘托出，并说道他只是为了本团队下一部视频作品中的一个搞笑镜头才穿成这样拍照的。然而，内部人员透露该团体本月并无新视频作品企划。
 
 ;0x3F258405=This is my first byline so go easy on me
-0x3F258405=This is my first byline so go easy on me
+0x3F258405=这是我的署名处女作所以求轻喷
 
 ;0x50C617FA=Bobby Blue accidently sends graphic Bleet update to 500,000 fans
-0x50C617FA=Bobby Blue accidently sends graphic Bleet update to 500,000 fans
+0x50C617FA=Bobby Blue在Bleet上向50万粉丝意外发布更新
 
 ;0x525CE888=Michael Wayne
 0x525CE888=Michael Wayne
 
 ;0x5E4BDF1E=Boat Sinks in Harbour
-0x5E4BDF1E=Boat Sinks in Harbour
+0x5E4BDF1E=港口沉船
 
 ;0x746C2893=You may have heard the nonsense coming out of Switzerland this week - no, not their claims that pocket knives and watches are a really important contribution to global culture - but the economists' summit that declared the recession is in fact just a myth. Millions of Americans disagree - in fact one in 7 does so because they're unemployed. Economists are idiots who sit around drawing graphs and getting aroused at comparing GDP numbers from year to year. They were dorks at school who still cannot get laid. We say - Babylon is burning, and nobody cares except a few of us journalists left since all the papers have gone down the shitter. I was an intern last week and now I'm Sr. Economics editor. Journalism is screwed. Big shout outs to my boys Javier and Jason. You know how we do it in Bohan, son! Peace!
-0x746C2893=You may have heard the nonsense coming out of Switzerland this week - no, not their claims that pocket knives and watches are a really important contribution to global culture - but the economists' summit that declared the recession is in fact just a myth. Millions of Americans disagree - in fact one in 7 does so because they're unemployed. Economists are idiots who sit around drawing graphs and getting aroused at comparing GDP numbers from year to year. They were dorks at school who still cannot get laid. We say - Babylon is burning, and nobody cares except a few of us journalists left since all the papers have gone down the shitter. I was an intern last week and now I'm Sr. Economics editor. Journalism is screwed. Big shout outs to my boys Javier and Jason. You know how we do it in Bohan, son! Peace!
+0x746C2893=你或许已经听说这周瑞士方面传来一些胡说的消息——不，不是指他们关于瑞士刀和瑞士表对全球文化做出巨大贡献的说辞——而是在经济峰会上宣称目前的经济衰退情况依然处于迷雾之中。广大美国人民坚决不同意这一说法——事实上7个中就有1个不同意，因为他被解雇了。那些经济学家不过是一群干坐在那画画图表、光是对着历年来的GDP数据比来比去就高潮了的白痴罢了。他们就是一群没破处的书呆子。我们常说，事不关己高高挂起，除非所有报社都陷入这场灾难破事中，导致我们记者中的一部分跳槽。我上周还是一个实习生，而现在却成了Sr. Economics的编辑。新闻业玩完了。特别感谢我的好兄弟Javier和Jason。你知道我们在Bohan是怎么干的，伙计们！和平！
 
 ;0x7A7AC1A9=Bobby Blue sends Blue Bleets
-0x7A7AC1A9=Bobby Blue sends Blue Bleets
+0x7A7AC1A9=黄色Bobby发布黄色官讯
 
 ;0x90B20210=A controversial South African business man was killed in a violent incident in the harbor yesterday. Fricke Van Hardenburg, who had only recently been granted a visa to enter the country was relaxing with pals on a motor yacht, when an assailant attacked and killed him and his friends.
-0x90B20210=A controversial South African business man was killed in a violent incident in the harbor yesterday. Fricke Van Hardenburg, who had only recently been granted a visa to enter the country was relaxing with pals on a motor yacht, when an assailant attacked and killed him and his friends.
+0x90B20210=昨日，一名颇具争议的南非商人在一场暴力事故中于港口遇害。遇害者Fricke Van Hardenburg最近刚取得我国入境签证，遇害当日其正在一艘游艇上与朋友伙伴放松游玩，而后遭受一名袭击者攻击，全员遇害。
 
 ;0x96D36D52=FISH FOOD!
-0x96D36D52=FISH FOOD!
+0x96D36D52=葬身鱼腹！
 
 ;0xAC0938BE=Mr. Van Hardenburg was loved by some and hated by many who accused him of being involved in all manner of nefarious activities. Having been accused at various points of arms dealing, drug trafficking, slave trading, incest, and supporting repressive regimes, some will not mourn his passing, but many in government enjoyed vacations at his ranch and hunting endangered species on his farm.
-0xAC0938BE=Mr. Van Hardenburg was loved by some and hated by many who accused him of being involved in all manner of nefarious activities. Having been accused at various points of arms dealing, drug trafficking, slave trading, incest, and supporting repressive regimes, some will not mourn his passing, but many in government enjoyed vacations at his ranch and hunting endangered species on his farm.
+0xAC0938BE=Mr. Van Hardenburg有人爱，但有更多人恨，因为后者都指控他参与各式各样的罪恶活动。由于被指控涉及参与军火交易、毒品贩运、奴隶贸易、强奸乱伦以及支持反动极端势力统治，有的人对他的离世根本不屑任何哀悼，但政府官员们倒是很喜欢在他的大牧场享受假期，一边还在他的农场里狩猎濒危物种。
 
 ;0xB085381B=Mary Williamson
 0xB085381B=Mary Williamson
 
 ;0xBB73E881=Controversial Businessman Killed
-0xBB73E881=Controversial Businessman Killed
+0xBB73E881=颇具争议的商人遇害
 
 ;0xDD2AE1D3=Recession, Depression, and Swiss economics
-0xDD2AE1D3=Recession, Depression, and Swiss economics
-
+0xDD2AE1D3=萧条、衰退以及瑞士经济峰会
