@@ -1,15 +1,15 @@
 ﻿[WEZL224]
 ;0x55C897C0=Civil liberties are useless if you're dead.
-0x55C897C0=如果命都没了哪还有自由呢。
+0x55C897C0=死人没有自由。
 
 ;0x617BAFC2=Staff Writer
-0x617BAFC2=本报记者
+0x617BAFC2=特约记者
 
 ;0x86568D0C=Close the bridges. Now. Despite the pleas of many citizens and this newspaper, the police bowed to liberals and reopened the bridges. And look what we've got. A spate of recent violence and what are surely terrorist attacks. Without rules, people will die. Experts say the only way for this country to feel safe again is more security cameras, security guards at the airports, rifling through people's bags on the subway, and background checks for apartments.
-0x86568D0C=我们需要马上关闭大桥。尽管有许多市民，包括本报社都请愿关闭大桥，警方最终还是向自由派低头，重新开放大桥的通行。看看我们得到了什么：一系列的暴力事件和恐怖袭击事件。若无秩序，人命如纸。专家表示，现在能做的无非只是：给机场加些监控、安保，在地铁站搜下包，以及对公寓展开背景调查。
+0x86568D0C=立刻关闭大桥。快。尽管许多市民以及本报都请愿关闭大桥，警方最终还是向自由派低头，重新开放了大桥。而这就是开放大桥的后果：一系列的暴力事件和恐怖袭击。若无秩序，人命如纸。专家表示，如今要想保证国民安全，只能采取以下手段：广泛安装监控摄像头、机场增加安保人数、地铁站强制安检以及对落户人口进行背景调查。
 
 ;0xAAD79CB3=Movement to Reclose Bridges Before it's too Late
-0xAAD79CB3=现在关闭大桥为时不晚
+0xAAD79CB3=关闭大桥为时不晚
 
 ;0xDF2DBD81=Grassroots Democracy
-0xDF2DBD81=基层民主
+0xDF2DBD81=草根民主

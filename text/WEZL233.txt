@@ -1,16 +1,16 @@
 ﻿[WEZL233]
 ;0x01BBE114=Three Explosions on Teamsters' Watch
-0x01BBE114=在工会管理下的三起爆炸
+0x01BBE114=工会监督下的三起爆炸
 
 ;0x2404C60E=Unions or Terrorists? Same Thing
-0x2404C60E=工会还是恐怖分子？一丘之貉而已
+0x2404C60E=工会还是恐怖分子？一路货色
 
 ;0x5EBE887D=Staff Writer
-0x5EBE887D=本报记者
+0x5EBE887D=特约记者
 
 ;0x6EB66EBC=Yet another improperly installed construction crane goes down while overpaid union cronies stand around smoking cigarettes, reading porn, and drinking during lunch. The crane accident at the libel site on Columbus Avenue could be prevented if unions didn't have such a stranglehold on the construction industry in this town. And the transit union is to blame for the awful derailment of the subway train on the Algonquin-Bohan line. For the trifecta, if union airport security gaurds actually did some work instead of putting us all at risk with their 4 hour work days, long lunches and lazy work ethic, the explosion at Francis International wouldn't have happened. How many more innocent Americans will die because of unions? Weazel News will keep you informed.
-0x6EB66EBC=然而，当工资过高的工会成员站在一旁抽烟、看黄片、吃午饭时喝酒时，另一辆安装不当的建筑起重机又倒下了。如果工会对这个城市的建筑行业没有这样的控制，位于Columbus Avenue的libel site的起重机事故是可以避免的。交通运输工会要为Algonquin-Bohan线可怕的地铁脱轨事件负责。对于这三件事来说，如果工会机场的保安真的做点工作，而不是每天工作4小时、午餐过长时间、工作态度懒散，让我们所有人都处于危险之中，Francis International的爆炸就不会发生。还有多少无辜的美国人会因为工会而死？Weazel News将为您提供最新消息。
+0x6EB66EBC=当工资过高的工会成员站在一旁抽烟、看黄书、午饭配小酒时，又有一台塔吊因安装不当倒下了。要是这个城市的建筑行业没有被工会束缚，这起发生在 Columbus 大道的 LibEl 工地的事故其实是可以避免的。运输工会则要为 Algonquin-Bohan 线可怕的地铁脱轨事件负责。祸不单行，要是机场保安工会真的发挥了什么作用，而不是老惦记他那4小时工作制、延长午餐时间和懒散的工作态度，也不至于让所有人都陷入危险，继而导致 Francis 国际机场的爆炸。还有多少无辜的美国人会因工会而死？ Weazel 新闻将为您持续报道。
 
 ;0x99077A23=Time to Break This Socialist Menace
-0x99077A23=是时候打破社会主义的威胁了
+0x99077A23=是时候打破社会主义者的威胁了
 
