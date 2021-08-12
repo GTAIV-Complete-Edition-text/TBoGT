@@ -1,6 +1,6 @@
 ﻿[BUSSTOP]
 ;0x04762659=Press ~PAD_LSTICK_ALL~ and ~INPUT_KB_DOWN~~INPUT_KB_UP~~INPUT_KB_RIGHT~~INPUT_KB_LEFT~ as they appear to keep the dance going.
-0x04762659=Press ~PAD_LSTICK_ALL~ and ~INPUT_KB_DOWN~~INPUT_KB_UP~~INPUT_KB_RIGHT~~INPUT_KB_LEFT~ as they appear to keep the dance going.
+0x04762659=根据出现的指示按下~PAD_LSTICK_ALL~或~INPUT_KB_DOWN~~INPUT_KB_UP~~INPUT_KB_RIGHT~~INPUT_KB_LEFT~跳舞。
 
 ;0x10970BF9=~INPUT_KB_UP~
 0x10970BF9=~INPUT_KB_UP~
@@ -24,7 +24,7 @@
 0x457099B7=~INPUT_MOVE_UP~
 
 ;0x4B0CEC2C=Well done. The Bus Stop is complete.
-0x4B0CEC2C=Well done. The Bus Stop is complete.
+0x4B0CEC2C=好样的。已完成Bus Stop舞步。
 
 ;0x4EB38078=~PAD_LSTICK_LEFT~
 0x4EB38078=~PAD_LSTICK_LEFT~
@@ -33,13 +33,13 @@
 0x5C030933=~PAD_Y~
 
 ;0x63409733=Excellent, keep it going.
-0x63409733=Excellent, keep it going.
+0x63409733=漂亮，再接再厉。
 
 ;0x69118616=~PAD_LSTICK_RIGHT~
 0x69118616=~PAD_LSTICK_RIGHT~
 
 ;0x83F869F2=Follow the directions as they appear to keep the dance going.
-0x83F869F2=Follow the directions as they appear to keep the dance going.
+0x83F869F2=根据出现的指示按下对应按键跳舞。
 
 ;0x98326074=~INPUT_MOVE_DOWN~
 0x98326074=~INPUT_MOVE_DOWN~
@@ -54,10 +54,10 @@
 0xA2DD96EB=~PAD_X~
 
 ;0xAF69E9B4=You made too many mistakes. The dance is over.
-0xAF69E9B4=You made too many mistakes. The dance is over.
+0xAF69E9B4=你的失误太多了。舞蹈结束。
 
 ;0xBF058588=Press the directions as they appear.
-0xBF058588=Press the directions as they appear.
+0xBF058588=根据指示按下对应按键。
 
 ;0xC0497A9C=~INPUT_MOVE_LEFT~
 0xC0497A9C=~INPUT_MOVE_LEFT~
