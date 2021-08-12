@@ -1,12 +1,12 @@
-[DANCING]
+﻿[DANCING]
 ;0x0560A5BB=When indicated perform a hold move by holding ~PAD_LSTICK_ALL~. Keep it held for the duration of the move to increase your dance meter.~n~Press ~INPUT_ENTER~ for more instructions.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.
-0x0560A5BB=当显示“保持”时，按住 ~PAD_LSTICK_ALL~ 以保持该动作。在动作进行时，保持按下状态以增加舞蹈进度条。~n~按 ~INPUT_ENTER~ 来显示更多提示。~n~按 ~INPUT_SPRINT~ 开始跳舞。~n~按 ~INPUT_PICKUP~ 退出。
+0x0560A5BB=提示「保持！」时按住~PAD_LSTICK_ALL~可以持续积累跳舞量表。~n~按~INPUT_ENTER~查看后续教程。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。
 
 ;0x0B50D192=When the speaker glows red perform a hold move by holding ~INPUT_MOVE_LEFT~ or ~INPUT_MOVE_RIGHT~ in one direction.
-0x0B50D192=当扬声器图标变红时，朝一个方向按下 ~INPUT_MOVE_LEFT~ 或 ~INPUT_MOVE_RIGHT~ 以保持动作。
+0x0B50D192=扬声器图标变红时，朝一个方向按下~INPUT_MOVE_LEFT~或~INPUT_MOVE_RIGHT~以保持动作。
 
 ;0x0BEC145B=Press buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~INPUT_PICKUP~ stop dancing.
-0x0BEC145B=跟随音乐节奏及时按下按键以跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~INPUT_PICKUP~ 停止跳舞。
+0x0BEC145B=跟随音乐节奏按下按键跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~INPUT_PICKUP~ 停止跳舞。
 
 ;0x0BFE0306=Dance level ~1~
 0x0BFE0306=舞蹈等级 ~1~
@@ -21,34 +21,34 @@
 0x1DA8A451=还有2拍。
 
 ;0x2931CF6D=Press buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.
-0x2931CF6D=跟随音乐节奏及时按下按键以跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~PAD_LB~ 停止跳舞。
+0x2931CF6D=跟随音乐节奏按下按键跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~PAD_LB~ 停止跳舞。
 
 ;0x2BB44068=5 more beats.
 0x2BB44068=还有5拍。
 
 ;0x2D23610B=DANCE!
-0x2D23610B=舞起来！
+0x2D23610B=扭起来！
 
 ;0x2E79F579=During a hold press ~PAD_LT~ or ~PAD_RT~ in time to the music to boost your dance meter.~n~Press ~PAD_Y~ for more instructions.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.
-0x2E79F579=在“保持”过程中跟随音乐节奏及时按下 ~PAD_LT~ 或 ~PAD_RT~ 以增加舞蹈进度条。~n~按 ~PAD_Y~ 来显示更多提示。~n~按 ~PAD_A~ 开始跳舞。~n~按 ~PAD_LB~ 退出。
+0x2E79F579=「保持！」期间随节拍按下~PAD_LT~或~PAD_RT~可以积累大量跳舞量表。~n~按~PAD_Y~查看后续教程。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。
 
 ;0x2EC8C95A=Your moves have impressed.~n~Press ~INPUT_FRONTEND_ACCEPT~ to dance with the girl.~n~Press ~INPUT_FRONTEND_CANCEL~ to decline.~n~Press ~PAD_LB~ to stop dancing.
-0x2EC8C95A=你的舞步令人刮目相看。~n~按 ~INPUT_FRONTEND_ACCEPT~ 来和女孩一起跳舞。~n~按 ~INPUT_FRONTEND_CANCEL~ 来谢绝。~n~按 ~PAD_LB~ 停止跳舞。
+0x2EC8C95A=你的舞步令人刮目相看。~n~按~INPUT_FRONTEND_ACCEPT~和姑娘一起跳舞。~n~按~INPUT_FRONTEND_CANCEL~谢绝。~n~按~PAD_LB~停止跳舞。
 
 ;0x329E3AE9=Fill your dance meter without many mistakes and you will take part in a special group dance sequence.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.
-0x329E3AE9=充满你的舞蹈进度条且没有过多失误，你将会参与一个特殊集体舞队列。~n~按 ~INPUT_SPRINT~ 开始跳舞。~n~按 ~INPUT_PICKUP~ 退出。
+0x329E3AE9=尽量避免失误，填满跳舞量表，即可触发特殊的团体舞步。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。
 
 ;0x32C44E80=6 more beats.
 0x32C44E80=还有6拍。
 
 ;0x361FB55B=Fill your dance meter by pressing ~PAD_LSTICK_ALL~ in time to the music.~n~Press ~INPUT_ENTER~ for more instructions.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.
-0x361FB55B=跟随音乐节奏及时按 ~PAD_LSTICK_ALL~ 以充满舞蹈进度条。~n~按 ~INPUT_ENTER~ 来显示更多提示。~n~按 ~INPUT_SPRINT~ 开始跳舞。~n~按 ~INPUT_PICKUP~ 退出。
+0x361FB55B=随节拍按下~PAD_LSTICK_ALL~积累跳舞量表。~n~按~INPUT_ENTER~查看后续教程。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。
 
 ;0x38AB6E60=Press buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.
-0x38AB6E60=跟随音乐节奏及时按下按键以跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~PAD_LB~ 停止跳舞。
+0x38AB6E60=跟随音乐节奏按下按键跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~PAD_LB~ 停止跳舞。
 
 ;0x3E3A7AD6=Move ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ in time with the music to dance.
-0x3E3A7AD6=跟随音乐节奏及时移动 ~PAD_LSTICK_ALL~ 和 ~PAD_RSTICK_ALL~ 以跳舞。
+0x3E3A7AD6=随节拍推动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~跳舞。
 
 ;0x49347B68=4 more beats.
 0x49347B68=还有4拍。
@@ -60,16 +60,16 @@
 0x5CB9063C=~PAD_LSTICK_RIGHT~
 
 ;0x641D31A3=Move ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ in time with the music to dance.~n~Press ~INPUT_PICKUP~ to stop dancing.
-0x641D31A3=跟随音乐节奏及时移动 ~PAD_LSTICK_ALL~ 和 ~PAD_RSTICK_ALL~ 以跳舞。~n~按 ~INPUT_PICKUP~ 停止跳舞。
+0x641D31A3=随节拍推动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~跳舞。~n~按~INPUT_PICKUP~停止跳舞。
 
 ;0x66B342DC=Press buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~INPUT_PICKUP~ stop dancing.
-0x66B342DC=跟随音乐节奏及时按下按键以跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~INPUT_PICKUP~ 停止跳舞。
+0x66B342DC=跟随音乐节奏按下按键跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~INPUT_PICKUP~ 停止跳舞。
 
 ;0x724B4D95=1 more beat.
 0x724B4D95=还有1拍。
 
 ;0x74316594=During a hold press ~INPUT_ATTACK~ or ~INPUT_AIM~ in time to the music to boost your dance meter.~n~Press ~INPUT_ENTER~ for more instructions.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.
-0x74316594=在“保持”过程中跟随音乐节奏及时按下 ~INPUT_ATTACK~ 或 ~INPUT_AIM~ 以增加舞蹈进度条。~n~按 ~INPUT_ENTER~ 来显示更多提示。~n~按 ~INPUT_SPRINT~ 开始跳舞。~n~按 ~INPUT_PICKUP~ 退出。
+0x74316594=「保持！」期间随节拍按下~INPUT_ATTACK~或~INPUT_AIM~可以积累大量跳舞量表。~n~按~INPUT_ENTER~查看后续教程。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。
 
 ;0x7DC1B592=~PAD_B~
 0x7DC1B592=~PAD_B~
@@ -90,13 +90,13 @@
 0x981F195B=保持！
 
 ;0x9DC64172=Dancing minigame passed
-0x9DC64172=跳舞小游戏已通过
+0x9DC64172=跳舞小游戏成功
 
 ;0xC26E5896=~PAD_LSTICK_LEFT~
 0xC26E5896=~PAD_LSTICK_LEFT~
 
 ;0xC80F28A5=When indicated perform a hold move by holding ~PAD_LSTICK_ALL~ or ~PAD_RSTICK_ALL~ in one direction. Keep it held for the duration of the move to increase your dance meter.~n~Press ~PAD_Y~ for more instructions.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.
-0xC80F28A5=当显示“保持”时，朝一个方向按下 ~PAD_LSTICK_ALL~ 或 ~PAD_RSTICK_ALL~ 以保持动作。在动作进行时，保持按下状态以增加舞蹈进度条。~n~按 ~PAD_Y~ 来显示更多提示。~n~按 ~PAD_A~ 开始跳舞。~n~按 ~PAD_LB~ 退出。
+0xC80F28A5=提示「保持！」时将~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~之一推到底可以持续积累跳舞量表。~n~按~PAD_Y~查看后续教程。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。
 
 ;0xCDBB046B=8 more beats.
 0xCDBB046B=还有8拍。
@@ -105,22 +105,22 @@
 0xD0B6D3BC=跳舞小游戏失败
 
 ;0xD38212C6=Keep the hold for ~a~
-0xD38212C6=为了 ~a~ 保持该状态
+0xD38212C6=保持~a~
 
 ;0xD432E27F=~PAD_Y~
 0xD432E27F=~PAD_Y~
 
 ;0xD92CCAE0=Fill your dance meter by moving ~PAD_LSTICK_ALL~ or ~PAD_RSTICK_ALL~ in time to the music.~n~Press ~PAD_Y~ for more instructions.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.
-0xD92CCAE0=跟随音乐节奏及时移动 ~PAD_LSTICK_ALL~ 或 ~PAD_RSTICK_ALL~ 以充满舞蹈进度条。~n~按 ~PAD_Y~ 来显示更多提示。~n~按 ~PAD_A~ 开始跳舞。~n~按 ~PAD_LB~ 退出。
+0xD92CCAE0=随节拍推动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~积累跳舞量表。~n~按~PAD_Y~查看后续教程。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。
 
 ;0xDC31242C=Your dance bar is full. ~n~Press ~PAD_X~, ~PAD_Y~, ~PAD_A~, ~PAD_B~ to perform a special move.
-0xDC31242C=你的舞蹈进度条已充满。 ~n~按 ~PAD_X~, ~PAD_Y~, ~PAD_A~, ~PAD_B~ 以表演一个特殊动作。
+0xDC31242C=你的跳舞量表已充满。~n~按~PAD_X~~PAD_Y~~PAD_A~~PAD_B~之一可表演特殊动作。
 
 ;0xE0AE8220=Press ~INPUT_ENTER~ for instructions.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.
-0xE0AE8220=按 ~INPUT_ENTER~ 来显示提示。~n~按 ~INPUT_SPRINT~ 开始跳舞。~n~按 ~INPUT_PICKUP~ 退出。
+0xE0AE8220=按~INPUT_ENTER~查看教程。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。
 
 ;0xE55BB679=When the speaker glows red perform a hold move by holding ~PAD_LSTICK_ALL~ or ~PAD_RSTICK_ALL~ in one direction.
-0xE55BB679=当扬声器图标变红时，朝一个方向按下 ~PAD_LSTICK_ALL~ 或 ~PAD_RSTICK_ALL~ 以保持动作。
+0xE55BB679=扬声器图标变红时，朝一个方向推动~INPUT_MOVE_LEFT~或~INPUT_MOVE_RIGHT~以保持动作。
 
 ;0xE89AE78C=~1~
 0xE89AE78C=~1~
@@ -129,23 +129,23 @@
 0xE939DDBE=~INPUT_MOUSE_LMB~
 
 ;0xEAEC6E5F=Press ~PAD_Y~ for instructions.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.
-0xEAEC6E5F=按 ~PAD_Y~ 来显示提示。~n~按 ~PAD_A~ 开始跳舞。~n~按 ~PAD_LB~ 退出。
+0xEAEC6E5F=按~PAD_Y~查看教程。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。
 
 ;0xEC3E443E=Move ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ to perform special moves.
-0xEC3E443E=移动 ~PAD_LSTICK_ALL~ 和 ~PAD_RSTICK_ALL~ 来表演特殊动作。
+0xEC3E443E=移动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~可表演特殊动作。
 
 ;0xF01178B1=Fill your dance meter without many mistakes and you will take part in a special group dance sequence.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.
-0xF01178B1=充满你的舞蹈进度条且没有过多失误，你将会参与一个特殊集体舞队列。~n~按 ~PAD_A~ 开始跳舞。~n~按 ~PAD_LB~ 退出。
+0xF01178B1=尽量避免失误，填满跳舞量表，即可触发特殊的团体舞步。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。
 
 ;0xF62E8CB6=Your moves have impressed.~n~Press ~INPUT_FRONTEND_ACCEPT~ to dance with the girl.~n~Press ~INPUT_FRONTEND_CANCEL~ to decline.~n~Press ~INPUT_PICKUP~ to stop dancing.
-0xF62E8CB6=你的舞步令人刮目相看。~n~按 ~INPUT_FRONTEND_ACCEPT~ 来和女孩一起跳舞。~n~按 ~INPUT_FRONTEND_CANCEL~ 来谢绝。~n~按 ~INPUT_PICKUP~ 停止跳舞。
+0xF62E8CB6=你的舞步令人刮目相看。~n~按~INPUT_FRONTEND_ACCEPT~和姑娘一起跳舞。~n~按~INPUT_FRONTEND_CANCEL~谢绝。~n~按~INPUT_PICKUP~停止跳舞。
 
 ;0xF884C7CD=~INPUT_MOUSE_RMB~
 0xF884C7CD=~INPUT_MOUSE_RMB~
 
 ;0xF9A3DF11=Move ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ in time with the music to dance.~n~Press ~PAD_LB~ to stop dancing.
-0xF9A3DF11=跟随音乐节奏及时移动 ~PAD_LSTICK_ALL~ 和 ~PAD_RSTICK_ALL~ 以跳舞。~n~按 ~PAD_LB~ 停止跳舞。
+0xF9A3DF11=随节拍推动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~跳舞。~n~按~PAD_LB~停止跳舞。
 
 ;0xFF0D69DC=Press ~INPUT_FRONTEND_ACCEPT~ to enter dance trance.
-0xFF0D69DC=按 ~INPUT_FRONTEND_ACCEPT~ 进入迷幻舞曲。
+0xFF0D69DC=按~INPUT_FRONTEND_ACCEPT~进入迷幻舞曲。
 
