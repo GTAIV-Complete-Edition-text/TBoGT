@@ -1,16 +1,16 @@
 ﻿[LBTR227]
+
 ;0x18261FB8=More than half a million dollars taken
-0x18261FB8=More than half a million dollars taken
+0x18261FB8=超过50万美元被拿走
 
 ;0x68757A95=A raid on Bank of Liberty has ended in tragedy, police are hunting three suspects
-0x68757A95=A raid on Bank of Liberty has ended in tragedy, police are hunting three suspects
+0x68757A95=针对自由城银行的一场抢劫以悲剧收场，警方正在搜捕三名嫌疑犯
 
 ;0x8AE9D32B=Heist Ends in Death Blood Shocker
-0x8AE9D32B=Heist Ends in Death Blood Shocker
+0x8AE9D32B=抢劫案以令人震惊的血腥惨案收场
 
 ;0xA6D19384=Tony J Smith
 0xA6D19384=Tony J Smith
 
 ;0xF3D9DE15=A daring raid on a downtown branch of the Bank of Liberty has left one robber dead along with multiple police and civilian casualties. The suspect has been identified as Michael Keane, a convicted felon from Dukes. Four men wearing suits and balaclavas entered the branch and held the customers hostage while blowing the door to the vault with explosives. In the confusion, brave customer Eugene Reaper attempted to stop the robbery and was murdered in cold blood. Three robbers left the bank on foot and fought their way through police before escaping on the subway. Authorities are questioning all known associates of Mr. Keane in an attempt to discover the identities of his accomplices. The Bank of Liberty estimates that in excess of half a million dollars was stolen.
-0xF3D9DE15=A daring raid on a downtown branch of the Bank of Liberty has left one robber dead along with multiple police and civilian casualties. The suspect has been identified as Michael Keane, a convicted felon from Dukes. Four men wearing suits and balaclavas entered the branch and held the customers hostage while blowing the door to the vault with explosives. In the confusion, brave customer Eugene Reaper attempted to stop the robbery and was murdered in cold blood. Three robbers left the bank on foot and fought their way through police before escaping on the subway. Authorities are questioning all known associates of Mr. Keane in an attempt to discover the identities of his accomplices. The Bank of Liberty estimates that in excess of half a million dollars was stolen.
-
+0xF3D9DE15=一场针对自由铖银行市中心分行的大胆抢劫造成一名抢劫犯死亡，多名警察和平民伤亡。嫌疑人被确认为Michael Keane，一名来自Dukes区的重罪犯。 四名身穿西装的蒙面男子进入这家分行，劫持了顾客作为人质，同时用炸药炸开了保险库的门。在混乱中，勇敢的顾客Eugene Reaper试图阻止抢劫，结果被残忍地杀害。三名劫匪步行离开银行，与警方搏斗，然后乘地铁逃跑。当局正在询问已知所有与Keane先生有联系的人，试图找出他同伙的身份。自由城银行估计有超过50万美元被盗。
