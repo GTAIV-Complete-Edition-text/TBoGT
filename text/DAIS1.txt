@@ -1,49 +1,49 @@
 ﻿[DAIS1]
 ;0x12C29D96=~r~You abandoned Daisy.~s~
-0x12C29D96=~r~You abandoned Daisy.~s~
+0x12C29D96=~r~你抛弃了Daisy。~s~
 
 ;0x1360E918=Use ~PAD_RSTICK_ALL~ to look around the area.
-0x1360E918=Use ~PAD_RSTICK_ALL~ to look around the area.
+0x1360E918=用~PAD_RSTICK_ALL~来查看区域周围。
 
 ;0x2501C214=~r~Daisy died.~s~
-0x2501C214=~r~Daisy died.~s~
+0x2501C214=~r~Daisy死了。~s~
 
 ;0x2A0DD72F=~s~Don't leave ~b~Daisy~s~ behind.
-0x2A0DD72F=~s~Don't leave ~b~Daisy~s~ behind.
+0x2A0DD72F=~s~不要把~b~Daisy~s~落下。
 
 ;0x36BE7090=~s~Lose the cops.~s~
-0x36BE7090=~s~Lose the cops.~s~
+0x36BE7090=~s~甩掉警察。~s~
 
 ;0x4C889C24=~s~Get in a vehicle.~s~
-0x4C889C24=~s~Get in a vehicle.~s~
+0x4C889C24=~s~找一辆车。~s~
 
 ;0x5B36397F=~s~Drive ~y~uptown.~s~
-0x5B36397F=~s~Drive ~y~uptown.~s~
+0x5B36397F=~s~驶向~y~住宅区。~s~
 
 ;0x61DF46D1=~s~Go to ~y~Perseus.~s~
-0x61DF46D1=~s~Go to ~y~Perseus.~s~
+0x61DF46D1=~s~前往~y~Perseus~s~服装店。~s~
 
 ;0x6E3AD45D=~r~Chris has been injured.~s~
-0x6E3AD45D=~r~Chris has been injured.~s~
+0x6E3AD45D=~r~Chris受伤了。~s~
 
 ;0x6FA5E25E=~s~Go to the ~y~Squid Row~s~ restaurant.
-0x6FA5E25E=~s~Go to the ~y~Squid Row~s~ restaurant.
+0x6FA5E25E=~s~前往~y~Squid Row~s~餐厅。
 
 ;0x86740FFA=~s~Go to ~y~Star Junction.~s~
-0x86740FFA=~s~Go to ~y~Star Junction.~s~
+0x86740FFA=~s~前往~y~Star Junction。~s~
 
 ;0x87930715=~r~Chris died.~s~
-0x87930715=~r~Chris died.~s~
+0x87930715=~r~Chris死了。~s~
 
 ;0x944BABA9=~s~Look around for Chris.
-0x944BABA9=~s~Look around for Chris.
+0x944BABA9=~s~搜寻Chris。
 
 ;0x99D52B99=~r~You took too long to find Chris.~s~
-0x99D52B99=~r~You took too long to find Chris.~s~
+0x99D52B99=~r~你找Chris太久了。~s~
 
 ;0xD4199031=~s~Go back to the ~y~Squid Row~s~ restaurant and look for Chris.
-0xD4199031=~s~Go back to the ~y~Squid Row~s~ restaurant and look for Chris.
+0xD4199031=~s~回到~y~Squid Row~s~餐厅并寻找Chris。
 
 ;0xE65F34BC=~s~Go back to ~y~Perseus~s~ and look for Chris.
-0xE65F34BC=~s~Go back to ~y~Perseus~s~ and look for Chris.
+0xE65F34BC=~s~回到~y~Perseus~s~服装店并寻找Chris。
 
