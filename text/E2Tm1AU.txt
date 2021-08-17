@@ -1,6 +1,6 @@
 ﻿[E2Tm1AU]
 ;0x00A97201=~z~I mean, you haven't got the side of you that goes to Hercules and feels up bodybuilders on the album, right?
-0x00A97201=~z~我的意思是，你没有在你的专辑里面提到你要去大力神俱乐部跟肌肉男乱搞，对吧？
+0x00A97201=~z~我是说，你没在新歌里提到你会去大力神跟肌肉男亲密接触，对吧？
 
 ;0x021E808B=~z~Chill out, bro. I'm doing my best.
 0x021E808B=~z~淡定点，兄弟。我尽力了。
@@ -9,16 +9,16 @@
 0x02F22A66=E2Tm1_NA
 
 ;0x05780E25=~z~Get out of here, PG. A sensitive soul like you don't wanna get locked up for photographer abuse.
-0x05780E25=~z~出来吧，PG。像你这样敏感的人可不想被关起来被相机一顿乱拍吧。
+0x05780E25=~z~出来吧，PG。像你这样敏感的人可不想躲在里面被相机一顿乱拍吧。
 
 ;0x057F7F6F=~z~You got the magic touch, boss. Come back to Maisonette.
-0x057F7F6F=~z~你可真是心有灵犀啊，老大。回豪宅这来吧。
+0x057F7F6F=~z~你真行啊，老板。回豪宅这来吧。
 
 ;0x0600B987=E2Tm1_VA
 0x0600B987=E2Tm1_VA
 
 ;0x066A3DF9=~z~What is it, bro? Can't Troy handle this?
-0x066A3DF9=~z~怎么回事，兄弟？Troy处理不了？
+0x066A3DF9=~z~怎么回事，兄弟？Troy处理不了吗？
 
 ;0x06792914=E2Tm1_SB
 0x06792914=E2Tm1_SB
@@ -30,7 +30,7 @@
 0x0908D36D=SFX_PAUSE_220
 
 ;0x0B3505CB=~z~No problem, boss.
-0x0B3505CB=~z~没问题，老大。
+0x0B3505CB=~z~没问题，老板。
 
 ;0x0C40C77D=~z~Damn. Go away.
 0x0C40C77D=~z~妈的。走开。
@@ -45,16 +45,16 @@
 0x0EE639F7=010090100
 
 ;0x0F5059E0=~z~Where were you when they launched a naval assault on that gay cruise last summer?
-0x0F5059E0=~z~去年夏天他们在海上袭击那帮基佬游艇的时侯，你在哪？
+0x0F5059E0=~z~去年夏天他们海上突袭基佬游艇的时侯咋就没遇见你呢？
 
 ;0x10E71819=~z~Your loss. These kicks are the shit, man.
-0x10E71819=~z~你完了，搞得一团糟，哥们。
+0x10E71819=~z~那你亏了。真的超棒的，哥们。
 
 ;0x11276956=E2Tm1_AFA
 0x11276956=E2Tm1_AFA
 
 ;0x131858C6=~z~I ain't never been to no Hercules. I don't know what you talking about, but trust me, homie, I hate that gay shit.
-0x131858C6=~z~我可没来过大力神俱乐部。我不知道你讲的啥。相信我吧，伙计，我讨厌那帮基佬。
+0x131858C6=~z~我可没去过大力神，你在说什么呢。相信我，伙计，我很讨厌基佬。
 
 ;0x13DF42C0=SFX_PAUSE_380
 0x13DF42C0=SFX_PAUSE_380
@@ -66,13 +66,13 @@
 0x16FAA00A=010090100
 
 ;0x184655B8=~z~You want them to take a picture? Go!
-0x184655B8=~z~你想让他们拍到吗？快走啊！
+0x184655B8=~z~你想让他们拍到我吗？快走！
 
 ;0x1903626C=E2Tm1_FB
 0x1903626C=E2Tm1_FB
 
 ;0x1AD6979A=~z~Why do they harass me like this? I'm an artist. I'm allowed to be interested in fashion and disco and male dancers.
-0x1AD6979A=~z~凭什么他们这样骚扰我？我可是正经跳舞搞时尚的艺术家啊。
+0x1AD6979A=~z~凭什么他们这样骚扰我？我可是艺术家。对潮流、蹦迪和男舞者感兴趣都不行吗。
 
 ;0x1BF240B7=SFX_PAUSE_420
 0x1BF240B7=SFX_PAUSE_420
@@ -96,13 +96,13 @@
 0x204D0F96=E2Tm1_AIB
 
 ;0x2075ED96=~z~I think you been outed, bro. Maybe it might be the best thing for you. Later.
-0x2075ED96=~z~你是基佬吧，兄弟。这对你来说最好不过了。再见。
+0x2075ED96=~z~你被迫出柜了，兄弟。对你可能也是件好事。再见。
 
 ;0x2146F44B=SFX_PAUSE_170
 0x2146F44B=SFX_PAUSE_170
 
 ;0x25BD4958=~z~I'm here to save your ass, Clay. Open up.
-0x25BD4958=~z~我来救你了，Clay。让开。
+0x25BD4958=~z~我来救你了，Clay。开门。
 
 ;0x27EFDC83=E2Tm1_ADB
 0x27EFDC83=E2Tm1_ADB
@@ -111,7 +111,7 @@
 0x280A7E8C=200090020090200
 
 ;0x2A047934=~z~Don't hang around. Move it!
-0x2A047934=~z~别围在一起了。散了散了！
+0x2A047934=~z~别磨叽了。快走！
 
 ;0x2C62023E=E2Tm1_KB
 0x2C62023E=E2Tm1_KB
@@ -126,10 +126,10 @@
 0x2F1BD111=200090020
 
 ;0x2FAC11ED=~z~Okay, bro. If that's what makes you comfortable. Sure you haven't.
-0x2FAC11ED=~z~好吧，兄弟。要是这样能让你舒服的话。当然并没有。
+0x2FAC11ED=~z~好吧，兄弟。你高兴就好。当然没去过。
 
 ;0x305EE1FC=~z~This thing ain't happening, D . We ran into an issue.
-0x305EE1FC=~z~这事还没发生，D。咱有麻烦了。
+0x305EE1FC=~z~事情解决不了了，D。这里出问题了。
 
 ;0x30CD2293=SFX_PAUSE_250
 0x30CD2293=SFX_PAUSE_250
@@ -144,7 +144,7 @@
 0x32639B7C=010090100
 
 ;0x32645C03=~z~Coño. I knew I shouldn't have gone on that run, bro.
-0x32645C03=~z~妈的，我就知道我不应该跑这趟的。
+0x32645C03=~z~妈的，我就知道不该跑这趟的。
 
 ;0x32AC6064=E2Tm1_IA
 0x32AC6064=E2Tm1_IA
@@ -159,16 +159,16 @@
 0x3729681F=E2Tm1_AAG
 
 ;0x379ADE96=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
-0x379ADE96=~z~哟，D。事情有点棘手了，哥们。你能来帮下我吗？
+0x379ADE96=~z~哟，D。事情有点搞砸了，哥们。你能帮我瞒过去吗？
 
 ;0x3A0147DF=~z~I'll leave you two to it. That ain't really my scene.
-0x3A0147DF=~z~我就把你俩撂这了，反正也不关我的事。
+0x3A0147DF=~z~你们二位自己留着吧，我就算了。
 
 ;0x3A19965D=E2Tm1_AEB
 0x3A19965D=E2Tm1_AEB
 
 ;0x40D27DF6=~z~It's all a big mistake man. I'm not gay. In fact, I can't stand them! Get us out of here.
-0x40D27DF6=~z~就很离谱，哥们。我不是基佬。说真的，我顶不住了！咱们快走吧。
+0x40D27DF6=~z~完全是误会啊，哥们。我不是基佬。说真的，我完全无法接受！咱们快走吧。
 
 ;0x40EDAEF3=E2Tm1_AIA
 0x40EDAEF3=E2Tm1_AIA
@@ -183,25 +183,25 @@
 0x41F8DED9=091
 
 ;0x45C1A695=~z~Crazy. Crazy. Crazy. Either you come out, or I'm going to be hitting the Herc solo.
-0x45C1A695=~z~疯了，疯了，都疯了。要么你出来，要么我跟俱乐部里的基佬单挑。
+0x45C1A695=~z~疯了，疯了，都疯了。要么你出来，要么我跟夜店里的基佬单挑。
 
 ;0x47EFE3B0=~z~Yeah, I don't know if me and Tony is the same kind of partners as you guys. I mean, we don't share hotel rooms, for example.
-0x47EFE3B0=~z~对啊，我不知道Tony跟我是不是像你们那样的一对。这么说吧，住酒店的时候我可不会跟他睡一间。
+0x47EFE3B0=~z~是吗，不知道Tony跟我是不是你们那种「伙伴」关系。至少，住酒店的时候我俩不会睡一间。
 
 ;0x48C938F7=E2Tm1_SC
 0x48C938F7=E2Tm1_SC
 
 ;0x4B236A23=~z~You must get so lonely. You can bunk in with us if you like. We're gonna order some shoes from Tokyo when we get back.
-0x4B236A23=~z~你肯定会很寂寞的。要是你乐意的话，咱们可以跟你一起睡。到咱们回来的时候还要去东京买点鞋子。
+0x4B236A23=~z~那你一定很寂寞吧。需要的话你可以跟我们一起住。回去以后我们还要订几双东京的鞋子。
 
 ;0x4C6C3F03=~z~Whatever, bro.
-0x4C6C3F03=~z~随你去吧。兄弟。
+0x4C6C3F03=~z~随你便。兄弟。
 
 ;0x4E1F5797=SFX_PAUSE_320
 0x4E1F5797=SFX_PAUSE_320
 
 ;0x4F20A705=~z~You got the touch, boss. We'll see you another time.
-0x4F20A705=~z~你懂的，老大。咱回头见。
+0x4F20A705=~z~你真行，老板。咱们回头见。
 
 ;0x52199BB5=E2Tm1_ZD
 0x52199BB5=E2Tm1_ZD
@@ -219,19 +219,19 @@
 0x53DB3DDC=SFX_PAUSE_150
 
 ;0x561AAD73=~z~I hope it's nothing serious, boss. You take care.
-0x561AAD73=~z~希望没事，老大。你小心点。
+0x561AAD73=~z~希望没出大事，老板。你多保重。
 
 ;0x562328A6=E2T2_AXA
 0x562328A6=E2T2_AXA
 
 ;0x58312E3F=~z~I work for Tony, man. Let me in.
-0x58312E3F=~z~我是Tony的人，让我进去。
+0x58312E3F=~z~我是Tony的人，让我上车。
 
 ;0x59128D9E=~z~Get the fuck out of here. And don't tell no one that I was around when PG kicked it. Conyo.
-0x59128D9E=~z~快他妈滚吧。还有，别跟别人说PG出事的时侯我在他身边。妈的。
+0x59128D9E=~z~快他妈滚吧。还有，别告诉别人PG出事的时侯我也在场。妈的。
 
 ;0x59ABC3E7=~z~The big guy's back there.
-0x59ABC3E7=~z~那大块头回来了。
+0x59ABC3E7=~z~大人物在后面。
 
 ;0x59CCC7F5=SFX_PAUSE_220
 0x59CCC7F5=SFX_PAUSE_220
@@ -252,7 +252,7 @@
 0x606CB1E5=090
 
 ;0x6271DB46=~z~Fuck it! Streets ain't nothing nice, homie.
-0x6271DB46=~z~操了！路上跑的都不是什么好料，伙计。
+0x6271DB46=~z~操了！街头可没那么好混啊，伙计。
 
 ;0x6271F4F2=020
 0x6271F4F2=020
@@ -279,10 +279,10 @@
 0x6E210B46=SFX_PAUSE_360
 
 ;0x70015C13=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
-0x70015C13=~z~事情不是很顺利啊，Dess。你懂我意思吧？
+0x70015C13=~z~这边事情不太顺利，Dess。懂我意思吧？
 
 ;0x7151DE2E=~z~I'm coming through, motherfucker.
-0x7151DE2E=~z~我过来了，操你妈的。
+0x7151DE2E=~z~我要过去，操你妈的。
 
 ;0x71F073AB=SFX_PAUSE_220
 0x71F073AB=SFX_PAUSE_220
@@ -291,10 +291,10 @@
 0x7744050F=SFX_PAUSE_250
 
 ;0x77699966=~z~Okay, boss. Anyone asks, I ain't seen you.
-0x77699966=~z~好的，老大。有人问起的话我就说没看见你。
+0x77699966=~z~好的，老板。有人问起来我就说没见过你。
 
 ;0x7B1B7AD9=~z~Yo valet, this the Pain Giver's car. Look after it.
-0x7B1B7AD9=~z~嘿，服务员，这可是PG的车啊，小心点。
+0x7B1B7AD9=~z~哟，服务员，这可是PG的车，小心点。
 
 ;0x7B4754D5=E2Tm1_GB
 0x7B4754D5=E2Tm1_GB
@@ -309,10 +309,10 @@
 0x7ED88871=200090020
 
 ;0x7FFD7B85=~z~Get out my way.
-0x7FFD7B85=~z~给我让让路。
+0x7FFD7B85=~z~别挡老子路。
 
 ;0x81D3887B=~z~Dump these motherfucking paps! They always misconstrue things!
-0x81D3887B=~z~操他妈的傻逼狗崽队！一天天的啥都搞不懂！
+0x81D3887B=~z~操他妈的傻逼狗仔队！每天听风就是雨！
 
 ;0x83093813=~z~If that's what you say was going on, that's what was going on.
 0x83093813=~z~你说是，那就是吧。
@@ -324,13 +324,13 @@
 0x86BF017F=E2Tm1_ZB
 
 ;0x87BD8805=~z~Yeah. The kids will love that. The marketing guys been all over my ass to get more raps about gay clubs in there.
-0x87BD8805=~z~对，孩子们会喜欢的。市场上的人都跟在我屁股后面，要听更多基佬俱乐部的说唱歌曲。
+0x87BD8805=~z~对，孩子们会喜欢的。店里搞营销的人都追着我要这种讲男同夜店的新歌。
 
 ;0x88F6C3EE=~z~So what if I dance disco? Shit. I love women!
-0x88F6C3EE=~z~那我跳舞又怎样？妈的，我喜欢女人！
+0x88F6C3EE=~z~那我还每天蹦迪呢？妈的，我喜欢女人！
 
 ;0x89414F3D=~z~Okay, guys. Here you are. Come back to the club soon for some good clean hetero fun.
-0x89414F3D=~z~好了，伙计。你到了。晚点再回来搞点正常的异性恋吧。
+0x89414F3D=~z~好了，二位。到地方了。下次再来我们店里搞点正常的异性恋吧。
 
 ;0x8CA4446C=E2Tm1_PA
 0x8CA4446C=E2Tm1_PA
@@ -345,13 +345,13 @@
 0x8DC96EA1=020
 
 ;0x8E68F0A5=~z~Really? That's funny because Jacob here is my business partner, too.
-0x8E68F0A5=~z~真的？太搞笑了，这位Jacob也是我的生意伙伴啊。
+0x8E68F0A5=~z~真的？这不巧了，这位Jacob也是我的生意伙伴啊。
 
 ;0x8ED19225=E2Tm1_IB
 0x8ED19225=E2Tm1_IB
 
 ;0x8F62285D=~z~Cool man. Can you drop us back at the Majestic?
-0x8F62285D=~z~好了，哥们。你能带我们回Majestic酒店去吗？
+0x8F62285D=~z~赞诶，哥们。你能送我们回Majestic酒店吗？
 
 ;0x8FD1B605=~z~Okay.
 0x8FD1B605=~z~好的。
@@ -381,13 +381,13 @@
 0x9C06A552=E2Tm1_ZF
 
 ;0x9D43E0B1=~z~I doubt that, but whatever man.
-0x9D43E0B1=~z~我是有点怀疑，但是无所谓了，哥们。
+0x9D43E0B1=~z~我不太相信，但是无所谓了，哥们。
 
 ;0x9DB9EC96=~z~Damn! Poor bastard. I'll see what I can do.
-0x9DB9EC96=~z~妈的！真倒霉。我看看我能干点啥。
+0x9DB9EC96=~z~妈的！真惨啊。我看看我能干点啥。
 
 ;0x9F537F88=~z~You fine, bro. I'm getting you out of there.
-0x9F537F88=~z~没事的，兄弟。我带你走。
+0x9F537F88=~z~没事的，兄弟。我会帮你甩掉他们的。
 
 ;0xA022689F=~z~I am not going to prison.
 0xA022689F=~z~我不想蹲局子。
@@ -402,16 +402,16 @@
 0xA0E94F27=E2Tm1_RB
 
 ;0xA13423F4=~z~We lost those photographers, man.
-0xA13423F4=~z~咱把那帮摄影师甩掉了，哥们。
+0xA13423F4=~z~甩掉那帮记者了，哥们。
 
 ;0xA19A33E8=~z~Congratulations on the new album, PG. My friends who are into that stuff say it's good.
-0xA19A33E8=~z~祝贺你发布新专辑，PG。我在制作组里的朋友都说好。
+0xA19A33E8=~z~祝贺你发布新专辑，PG。我那些听说唱的朋友都说好。
 
 ;0xA230CDFA=~z~That's tight, bro! Can you please take us back to the Majestic now?
-0xA230CDFA=~z~太好啦，兄弟！现在能不能带咱回Majestic酒店去？
+0xA230CDFA=~z~太好啦，兄弟！能麻烦你送我们回Majestic酒店吗？
 
 ;0xA2ED4164=~z~This my club. Move out the way.
-0xA2ED4164=~z~这是老子的俱乐部，把路让让。
+0xA2ED4164=~z~我开的夜店，全都让开。
 
 ;0xA5063DD9=E2Tm1_AKA
 0xA5063DD9=E2Tm1_AKA
@@ -432,43 +432,43 @@
 0xAACD246C=E2Tm1_AWA
 
 ;0xAADCA98C=~z~We're business partners.
-0xAADCA98C=~z~咱们是一伙的。
+0xAADCA98C=~z~我俩是生意伙伴。
 
 ;0xAB4ACF1F=~z~Show my street side and my tolerant sophisticated side, in the same track.
-0xAB4ACF1F=~z~还是老样子，展现我街头混混和忍耐老练的一面。
+0xAB4ACF1F=~z~一首新歌，既有我街头硬汉的一面，又有我包容老练的一面。
 
 ;0xADAD8D6B=~z~What is the world coming to if a straight man can't have fun with his gay friends without being accused on the internet?
-0xADAD8D6B=~z~要是一个异性恋不被人在网上喷就不能跟他的基佬朋友混的话，那这个世界将会变得怎么样？
+0xADAD8D6B=~z~一个异性恋跟他的基佬朋友出个门都要被人在网上定罪的话，那这世道也太可怕了吧。
 
 ;0xADBF0CAF=~z~Tell Clay I love that new joint.
-0xADBF0CAF=~z~告诉Clay我喜欢他那新东西。
+0xADBF0CAF=~z~告诉Clay我喜欢他的新歌。
 
 ;0xADF897E6=E2Tm1_AFC2
 0xADF897E6=E2Tm1_AFC2
 
 ;0xAE096C85=~z~The VIP's back there, boss. You wouldn't believe what I walked in on earlier.
-0xAE096C85=~z~VIP在后面，老板。真不敢相信早些时候都发生了些啥。
+0xAE096C85=~z~VIP在后面，老板。你不会相信当时我撞见了什么的。
 
 ;0xAE8CCDC9=~z~Thank you, homie. I thought it was time my fans heard the sensitive side of the Pain Giver.
-0xAE8CCDC9=~z~谢了，老哥。我寻思是时候让我的粉丝见识下PG敏感的那一面了。
+0xAE8CCDC9=~z~谢了，哥们。这首新歌是想让我的粉丝见识下PG敏感的一面。
 
 ;0xAFE714CA=090
 0xAFE714CA=090
 
 ;0xB093E9EA=~z~Dessie, bro, the Pain Giver can stay in his closet for a few more days. We done with that shit.
-0xB093E9EA=~z~Dessie，兄弟，PG可以的话能在家自闭好几天。咱们把这事办了。
+0xB093E9EA=~z~Dessie兄弟。PG可以在柜子里多藏几天了。事情解决了。
 
 ;0xB0CE06BD=~z~Move it, man. They're gonna snap us.
-0xB0CE06BD=~z~走啊，哥们。他们会抓拍到的。
+0xB0CE06BD=~z~走啊，哥们。会被他们拍到的。
 
 ;0xB168233C=~z~Too bad about your car, PG. That's fucked up.
-0xB168233C=~z~你的车不行了，PG。烂了都。
+0xB168233C=~z~你的车真倒霉，PG。烂了都。
 
 ;0xB262C651=~z~Oye, I think we're in the clear.
-0xB262C651=~z~哦耶，我寻思咱们终于清净了。
+0xB262C651=~z~喂，咱们终于清净了。
 
 ;0xB40A6CE8=~z~Lose these paparrazzi pricks, will you?
-0xB40A6CE8=~z~把那帮狗崽队屌毛甩了，好吗？
+0xB40A6CE8=~z~甩掉这帮狗仔队的傻逼，好吗？
 
 ;0xB5518FD8=~z~I don't wanna be no cover boy. Fucking hustle.
 0xB5518FD8=~z~我可不想上头条。你他妈快点。
@@ -480,13 +480,13 @@
 0xB784F02E=E2Tm1_AJA
 
 ;0xB7F8646E=~z~Dessie, bro, the Pain Giver can stay in his closet for a few more days. We done with that shit.
-0xB7F8646E=~z~Dessie，兄弟。PG可以的话能在家自闭好几天。咱们把这事办了。
+0xB7F8646E=~z~Dessie兄弟。PG可以在柜子里多藏几天了。事情解决了。
 
 ;0xB9F134C3=~z~Yo, you think they got my picture? None of that stuff was useable, right?
-0xB9F134C3=~z~哟，你觉得他们拍到我了吗？他们白忙活了，对吧？
+0xB9F134C3=~z~哟，他们拍到我了吗？他们白忙活了，对吧？
 
 ;0xBB3106F0=~z~Captain Hetero's having himself some good clean fun, boss.
-0xBB3106F0=~z~异性恋大佬要玩点正常的，老板。
+0xBB3106F0=~z~异性恋大佬玩的很正常，老板。
 
 ;0xBBF641F9=E2Tm1_ZG
 0xBBF641F9=E2Tm1_ZG
@@ -507,16 +507,16 @@
 0xC0AC4167=E2Tm1_FA
 
 ;0xC1173354=~z~Seems the Pain Giver needs a fast extraction.
-0xC1173354=~z~看来PG得快点抽身出来。
+0xC1173354=~z~看来PG需要一场快速撤离。
 
 ;0xC1B13E93=~z~Oye. We'll be away from these stalkers in no time, man. Don't worry.
-0xC1B13E93=~z~噢，咱们很快就能甩掉这些跟踪狂的，哥们。没事的。
+0xC1B13E93=~z~喂，马上就能甩掉这些跟踪狂了，哥们。没事的。
 
 ;0xC45F84CE=~z~Shit, L. Okay. I'll get on damage control.
-0xC45F84CE=~z~妈的，L。好吧。我会止损的。
+0xC45F84CE=~z~妈的，L。好吧，止损的事我来。
 
 ;0xC509B6BF=~z~They got the shot. I could swear they got the motherfucking shot.
-0xC509B6BF=~z~他们中枪了。我敢说他们中枪了。
+0xC509B6BF=~z~他们拍到了。这次他们绝逼拍到照片了。
 
 ;0xC5DDC205=E2Tm1_XA
 0xC5DDC205=E2Tm1_XA
@@ -525,10 +525,10 @@
 0xC722B848=E2Tm1_QA
 
 ;0xC7606293=~z~So, you and Tony are friends, huh?
-0xC7606293=~z~那么，你和Tony是朋友吧，嗯？
+0xC7606293=~z~那，你和Tony是朋友吧，嗯？
 
 ;0xCAF986A2=~z~Sensitive, but not too sensitive?
-0xCAF986A2=~z~敏感但不过分，对吧？
+0xCAF986A2=~z~敏感，但不是超级敏感？
 
 ;0xCBE66461=E2Tm1_WB
 0xCBE66461=E2Tm1_WB
@@ -540,13 +540,13 @@
 0xCC8B92FF=SFX_PAUSE_250
 
 ;0xCD48C52F=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
-0xCD48C52F=~z~嘿兄弟。我这事情不太对劲。这阵子我得避避风头才行。
+0xCD48C52F=~z~嘿兄弟。这次的事不太对劲。我要避会儿风头了。
 
 ;0xCDCE5E2D=020200090200
 0xCDCE5E2D=020200090200
 
 ;0xCF161568=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
-0xCF161568=~z~妈的，老板，这事不对劲啊。我得冷静会，咱晚点聊。
+0xCF161568=~z~妈的，老板，这事不对劲啊。最近避避风头，咱晚点聊。
 
 ;0xCF1D4E5D=E2Tm1_VB
 0xCF1D4E5D=E2Tm1_VB
@@ -558,10 +558,10 @@
 0xD2E15829=E2Tm1_AAA
 
 ;0xD339556B=~z~I'm not who you think I am!
-0xD339556B=~z~我可不是你想象中的那种人！
+0xD339556B=~z~我不是你们以为的那种人！
 
 ;0xD4DDEA27=~z~Damn right that was too bad. I've only got, like, six of them. Keeping it real, homie. Real.
-0xD4DDEA27=~z~对啊，不行了。这种车，呃，我只有六辆。现实点吧，老哥。现实点。
+0xD4DDEA27=~z~确实很倒霉啊。这种车我只有六辆。保持真我，老哥。真诚点。
 
 ;0xD5E59C26=010090100
 0xD5E59C26=010090100
@@ -588,10 +588,10 @@
 0xE09F4943=020200090200090020
 
 ;0xE3146B5D=~z~We ain't posing for the weeklies. Get us out of here.
-0xE3146B5D=~z~咱可不想上周刊。快走吧。
+0xE3146B5D=~z~现在没在做写真模特。快点走啊。
 
 ;0xE396F853=~z~That rapper Clay PG Jackson's been pinned down by paparazzi.
-0xE396F853=~z~说唱歌手Clay PG Jackson被狗崽队盯上了。
+0xE396F853=~z~说唱歌手Clay PG Jackson被狗仔队盯上了。
 
 ;0xE439677C=200
 0xE439677C=200
@@ -657,7 +657,7 @@
 0xF4CE1C91=E2Tm1_MA
 
 ;0xF6921C20=~z~I didn't know this was a gay bar! I just wanted to watch sports!
-0xF6921C20=~z~我不知道这是家基佬的酒吧啊！我就是想来看看运动节目的！
+0xF6921C20=~z~我不知道这是家基佬酒吧！我只是想找个地方看体育比赛！
 
 ;0xF69BE62F=SFX_PAUSE_320
 0xF69BE62F=SFX_PAUSE_320
@@ -681,7 +681,7 @@
 0xFAF1E535=200090020090200020090200020090200
 
 ;0xFE43DE75=~z~You should put more of that flavor in that gangster shit, Clay. The hood gonna love that.
-0xFE43DE75=~z~你的帮派说唱歌曲里可以多整点这些元素，黑帮兄弟们都好这口。
+0xFE43DE75=~z~你可以往帮派说唱里整点这些元素，Clay。兄弟们都好这口。
 
 ;0xFEE1EB38=E2Tm1_UB
 0xFEE1EB38=E2Tm1_UB

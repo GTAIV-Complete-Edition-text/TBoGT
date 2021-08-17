@@ -1,9 +1,9 @@
 ﻿[E2Tm5AU]
 ;0x008F1D6C=~z~I got my car at the lot next door. We got to get it. Come on, Leroy.
-0x008F1D6C=~z~我的车在门边的停车场。上车。来吧，Leroy。
+0x008F1D6C=~z~我的车在隔壁的停车场。我们过去吧。拜托，Leroy。
 
 ;0x02B29CE6=~z~You know that that, like, a man's sexualness peaks at 17.
-0x02B29CE6=~z~你懂的，比如说，男人的性欲在十七岁达到顶峰。
+0x02B29CE6=~z~你懂的，男人的性欲在十七岁达到顶峰。
 
 ;0x03A4A10E=SFX_PAUSE_220
 0x03A4A10E=SFX_PAUSE_220
@@ -24,13 +24,13 @@
 0x097AD85D=E2Tm5_ACC2
 
 ;0x09E814D6=~z~Pussy feels naughty tonight!
-0x09E814D6=~z~小骚逼今晚要按捺不住了哦！
+0x09E814D6=~z~小猫咪今晚按捺不住了哦！
 
 ;0x0A03716A=SFX_PAUSE_290
 0x0A03716A=SFX_PAUSE_290
 
 ;0x0A312064=~z~Yo, man, that girl is drunk. Last I saw her she was in the washroom.
-0x0A312064=~z~哟，哥们。那妹子喝醉了。上次看到她是在洗手间。
+0x0A312064=~z~哟，哥们，那姑娘醉了。上次看到她是在洗手间。
 
 ;0x0A92B12E=SFX_PAUSE_220
 0x0A92B12E=SFX_PAUSE_220
@@ -48,7 +48,7 @@
 0x0CE74DDF=SFX_PAUSE_170
 
 ;0x0ED7C12B=~z~Come on, I don't think so. I just got clean blood off the maid's daughter.
-0x0ED7C12B=~z~别吧，我可没这么想过。我刚从仆人的女儿那拿到了干净的血。
+0x0ED7C12B=~z~得了吧，哪有这种事。我直接问仆人的女儿要了管血。
 
 ;0x1100DD84=E2Tm5_UC
 0x1100DD84=E2Tm5_UC
@@ -57,7 +57,7 @@
 0x122874ED=~z~真的没必要。
 
 ;0x125D8160=~z~But we were just getting started.
-0x125D8160=~z~但我们才刚刚开始啊。
+0x125D8160=~z~但狂欢才刚刚开始啊。
 
 ;0x128DCE1A=E2Tm5_AFB
 0x128DCE1A=E2Tm5_AFB
@@ -66,31 +66,31 @@
 0x12A48D85=SFX_PAUSE_240
 
 ;0x12F5D7BD=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
-0x12F5D7BD=~z~嘿兄弟。我这事情不太对劲。这阵子我得避避风头才行。
+0x12F5D7BD=~z~嘿兄弟。这次的事不太对劲。我要避会儿风头了。
 
 ;0x13B6079B=~z~I'm sure they're lovely, sweet heart.
-0x13B6079B=~z~我确定他们都是可爱的宝贝。
+0x13B6079B=~z~我知道它很好看，甜心。
 
 ;0x144C5A6E=~z~Okay, boss. Anyone asks, I ain't seen you.
-0x144C5A6E=~z~好的，老大。有人问起的话我就说没看见你。
+0x144C5A6E=~z~好的，老板。有人问起来我就说没见过你。
 
 ;0x145FC5DF=~z~Cause I'm working, Cloe. I can't get fucked if I got responsibilities.
-0x145FC5DF=~z~因为我在上班啊，Cloe。工作时不能操逼。
+0x145FC5DF=~z~因为我在上班啊，Cloe。工作时必须头脑清醒。
 
 ;0x14E5B760=E2Tm5_AGB
 0x14E5B760=E2Tm5_AGB
 
 ;0x1619BF56=~z~He ain't ever this fucked, not in here, anyway. And even if he was, he's the boss.
-0x1619BF56=~z~不管怎么说，要操也不是在这里操。就算他要操，他可是老板啊。
+0x1619BF56=~z~那他也没在店里醉成这样啊。再说他是老板，管不了他。
 
 ;0x1663F0F7=SFX_OVERLAP_1050
 0x1663F0F7=SFX_OVERLAP_1050
 
 ;0x176DC678=~z~It was like fucking four guys in their thirties maybe.
-0x176DC678=~z~就他妈的像四个三十多岁的男人。
+0x176DC678=~z~大概跟睡四个三十多岁的男人差不多。
 
 ;0x1AAC5B62=~z~You're the one who made the drinks so fucking cheap here.
-0x1AAC5B62=~z~就是你把这的酒水搞得这么便宜。
+0x1AAC5B62=~z~就是你把这儿的酒水搞得这么便宜。
 
 ;0x1ADA51FA=010090100
 0x1ADA51FA=010090100
@@ -102,7 +102,7 @@
 0x1C68588B=E2Tm5_AHA
 
 ;0x1D68101E=~z~Your loss, Dave. Pussy's just going to get lonely tonight.
-0x1D68101E=~z~你亏了呀，Dave。今晚小骚逼要寂寞了。
+0x1D68101E=~z~你亏了呀，Dave。今晚小猫咪要寂寞了。
 
 ;0x1EDCA927=010090100
 0x1EDCA927=010090100
@@ -117,31 +117,31 @@
 0x20848A88=200090020
 
 ;0x20952CF9=~z~Maybe he tasted of pretzels.
-0x20952CF9=~z~也许他是想亲热亲热。
+0x20952CF9=~z~他的口感有点像蝴蝶脆饼。
 
 ;0x23371C79=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
-0x23371C79=~z~事情不是很顺利啊，Dess。你懂我意思吧？
+0x23371C79=~z~这边事情不太顺利，Dess。懂我意思吧？
 
 ;0x26F647CB=E2Tm5_AJA
 0x26F647CB=E2Tm5_AJA
 
 ;0x2742748E=~z~You pooped your own party, girl. I can't believe I just said that.
-0x2742748E=~z~是你自己玩累了，妹子。真不敢相信我会这样说。
+0x2742748E=~z~是你自己玩累了，姑娘。我居然会说这种话。
 
 ;0x280C95F6=E2Tm1_GB
 0x280C95F6=E2Tm1_GB
 
 ;0x29D9C478=~z~We got a problem in the women's restroom, boss. Cloe Parker's had a few too many.
-0x29D9C478=~z~女洗手间出了点问题，老大。Cloe Parker喝多了。
+0x29D9C478=~z~女洗手间出了点问题，老板。Cloe Parker喝多了。
 
 ;0x2D6EF262=E2Tm5_VA1
 0x2D6EF262=E2Tm5_VA1
 
 ;0x2D7701B2=~z~No one turns me down, Dave. Do you know who I fucking am?
-0x2D7701B2=~z~没人敢拒绝我，Dave。你他妈知道我是谁吗？
+0x2D7701B2=~z~没人敢拒绝我，Dave。知道老娘是谁吗？
 
 ;0x2EA05E48=~z~I'm sure you were a gentleman about it, L. Head on back to the Maisonette.
-0x2EA05E48=~z~相信你没乱来，L。回豪宅来吧。
+0x2EA05E48=~z~就知道你不会趁人之危，L。回豪宅来吧。
 
 ;0x2F1C73DA=E2Tm5_SE
 0x2F1C73DA=E2Tm5_SE
@@ -165,22 +165,22 @@
 0x34D92458=SFX_PAUSE_190
 
 ;0x35466B96=~z~She's right here.
-0x35466B96=~z~眼前这位。
+0x35466B96=~z~近在眼前。
 
 ;0x35E94877=~z~Left foot. Right foot. Left foot. Right foot.
-0x35E94877=~z~左右左，左右左。
+0x35E94877=~z~左一步...右一步...左一步...右一步...
 
 ;0x37FD91F9=E2Tm5_AHB
 0x37FD91F9=E2Tm5_AHB
 
 ;0x38691912=~z~The Parker Mansion in Westdyke please driver.
-0x38691912=~z~Parker家的豪宅在Westdyke。请吧，司机。
+0x38691912=~z~去Westdyke的Parker家，司机。
 
 ;0x38CE9B84=~z~All that promise ring stuff is bullshit, you know? I fucked them both after the interview...
-0x38CE9B84=~z~定情戒指啥的都是扯淡，懂吗？见面后我跟他俩都上床了…
+0x38CE9B84=~z~定情戒指啥的都是扯淡，懂吗？访谈结束我就跟他俩上床了...
 
 ;0x3947C327=~z~You're such a babe. I did not want to get caught DUI again.
-0x3947C327=~z~宝贝，我不想又被抓到酒驾了。
+0x3947C327=~z~你真好，我不想再被抓到酒驾了。
 
 ;0x397A967F=200090020090200090200090020
 0x397A967F=200090020090200090200090020
@@ -201,19 +201,19 @@
 0x3C23C037=~z~为啥条子追着咱呢，我又没在开车。
 
 ;0x3D13E99F=~z~Look after her, L.
-0x3D13E99F=~z~照顾点她，L。
+0x3D13E99F=~z~照顾好她，L。
 
 ;0x3DDE8840=E2Tm5_QA
 0x3DDE8840=E2Tm5_QA
 
 ;0x3E0C67E7=~z~Don't worry, I was so wasted, I can hardly remember.
-0x3E0C67E7=~z~没事的，我很废物的，啥都不上心。
+0x3E0C67E7=~z~没事的，我神志不清，啥都没记住。
 
 ;0x3FE4A5E6=~z~What's wrong with having a good time? You're always pooping my fucking party.
-0x3FE4A5E6=~z~出来嗨都有错了？你他妈的一天天来砸场子。
+0x3FE4A5E6=~z~出来嗨都有错了？每次你都来扫我的兴。
 
 ;0x4214A148=~z~Why you so serious tonight, Lenny?
-0x4214A148=~z~你今晚咋那么正经呢，Lenny？
+0x4214A148=~z~今晚你咋这么严肃呢，Lenny？
 
 ;0x429B8E9E=E2Tm5_SB
 0x429B8E9E=E2Tm5_SB
@@ -234,10 +234,10 @@
 0x4B13FF04=~z~该走了，Cloe。来吧。
 
 ;0x4B90CAE1=~z~Sorry about your car, babe. I guess you got to walk home.
-0x4B90CAE1=~z~对你的车我道个歉，宝贝。我寻思你得走路回家了。
+0x4B90CAE1=~z~对你的车我道个歉，宝贝。这下你得走路回家了。
 
 ;0x4C812C40=~z~Poo! The fun police has got me again.
-0x4C812C40=~z~妈的！逗逼警察又把我逮着了。
+0x4C812C40=~z~妈的！快乐警察又把我逮着了。
 
 ;0x4D7D62EA=~z~Oh officer.
 0x4D7D62EA=~z~噢，是警察。
@@ -255,13 +255,13 @@
 0x556D4146=E2Tm5_VC2
 
 ;0x55E31790=~z~If that ain't gonna teach you something important, nothing will.
-0x55E31790=~z~这都救不了你的话，那也差不多凉了。
+0x55E31790=~z~这都不吸取教训的话，那你没救了。
 
 ;0x571C1653=200
 0x571C1653=200
 
 ;0x57429F4D=~z~Cloe Parker? Coño. Again? She's a fucking degenerate. I'll check it out.
-0x57429F4D=~z~Cloe Parker？他妈的，又开始了？这人真他妈废物啊。我去看看吧。
+0x57429F4D=~z~Cloe Parker？他妈的，又来？什么社会败类啊。我去看看吧。
 
 ;0x583291EF=E2Tm5_TA2
 0x583291EF=E2Tm5_TA2
@@ -276,7 +276,7 @@
 0x5A7B1687=E2Tm5_ADD
 
 ;0x5ABA0AC1=~z~Don't worry, puss puss. Momma's gonna look after you. Momma's gonna treat you right.
-0x5ABA0AC1=~z~没事的，小骚逼。妈妈会好好照顾你，好好对你的。
+0x5ABA0AC1=~z~没事的，猫猫。妈妈会好好照顾你，好好对你的。
 
 ;0x5ABF8AB4=SFX_PAUSE_220
 0x5ABF8AB4=SFX_PAUSE_220
@@ -285,10 +285,10 @@
 0x5B2C6783=E2Tm5_YB
 
 ;0x5BB49425=~z~The night's over already. Was fucking shit anyway.
-0x5BB49425=~z~今晚已经嗨完了。玩的都他妈些啥。
+0x5BB49425=~z~今晚已经结束了。屁意思都没有。
 
 ;0x5D215761=~z~Yeah. That might help you hold onto a job.
-0x5D215761=~z~对。那应该可以帮你保住工作。
+0x5D215761=~z~对。这样应该能让你保住工作。
 
 ;0x5EC888BD=SFX_PAUSE_170
 0x5EC888BD=SFX_PAUSE_170
@@ -309,10 +309,10 @@
 0x67AE5593=SFX_PAUSE_220
 
 ;0x69C8F49A=~z~Yeah I'm sure. Put a bucket by your bed, girl. You might be in for a rough night.
-0x69C8F49A=~z~我确定。床边放个桶吧，妹子。你今晚应该不会好受。
+0x69C8F49A=~z~我确定。床边放个桶吧，姑娘。你今晚应该不会好受的。
 
 ;0x6B13AC9D=~z~Shit, L. Okay. I'll get on damage control.
-0x6B13AC9D=~z~妈的，L。好吧。我会止损的。
+0x6B13AC9D=~z~妈的，L。好吧，止损的事我来。
 
 ;0x6B66B562=010090100
 0x6B66B562=010090100
@@ -327,7 +327,7 @@
 0x6CBA307D=200
 
 ;0x6E200622=~z~The other day I was presenting a show for MeTV
-0x6E200622=~z~前几天我在MeTV做节目
+0x6E200622=~z~前几天我在MeTV做节目，
 
 ;0x6F14D45D=SFX_PAUSE_240
 0x6F14D45D=SFX_PAUSE_240
@@ -339,7 +339,7 @@
 0x71F2CC73=E2Tm5_YA
 
 ;0x727050AA=~z~Blood went everywhere. I only got out of it because I blew the doctor.
-0x727050AA=~z~谁的血不都一样。我给医生口了一发，最后不还是没事了嘛。
+0x727050AA=~z~血洒了一地。我给医生口了一发，这才没有进去。
 
 ;0x74AA892D=~z~You ever fucked a famous person?
 0x74AA892D=~z~你操过名人吗？
@@ -360,28 +360,28 @@
 0x778DF772=100
 
 ;0x789F60EA=~z~Some privacy, please.
-0x789F60EA=~z~这是女洗手间啊，好吗。
+0x789F60EA=~z~尊重一下，好吗。
 
 ;0x79C4F9CD=200090020090020090200
 0x79C4F9CD=200090020090020090200
 
 ;0x7A4CBE5A=~z~Coño. I knew I shouldn't have gone on that run, bro.
-0x7A4CBE5A=~z~妈的，我就知道我不应该跑这趟的。
+0x7A4CBE5A=~z~妈的，我就知道不该跑这趟的。
 
 ;0x7AC311D6=~z~My car's on the lot just down the street. Come on.
 0x7AC311D6=~z~我的车就在外面的停车场。来吧。
 
 ;0x7C81A2E5=~z~I only let the ugly one do it from behind.
-0x7C81A2E5=~z~我只让丑的那个从后面开始做。
+0x7C81A2E5=~z~我只让丑的那个后入。
 
 ;0x7CC4995D=~z~Sure. Like fucking a normal person, only they look in the mirror all the time.
-0x7CC4995D=~z~当然了。那他妈跟平常人没啥区别，只是他们都喜欢全程看着镜子。
+0x7CC4995D=~z~当然了。跟操平常人没区别，只是她们一直都盯着镜子。
 
 ;0x7D2C1B1F=SFX_PAUSE_190
 0x7D2C1B1F=SFX_PAUSE_190
 
 ;0x7D69AE92=~z~I'm gonna get mistaken for a hooker again, aren't I? Could be worse, I guess.
-0x7D69AE92=~z~那我不就被误认为是婊子了吗？这样会更糟。
+0x7D69AE92=~z~那我不是又要被当成妓女了吗？说不定还要糟。
 
 ;0x7D7981C6=E2Tm5_AGC
 0x7D7981C6=E2Tm5_AGC
@@ -402,22 +402,22 @@
 0x802FFACE=SFX_PAUSE_170
 
 ;0x80315D1E=~z~Come on. Let's go.
-0x80315D1E=~z~来吧，我们走。
+0x80315D1E=~z~好啦，我们走吧。
 
 ;0x807006DB=E2Tm5_OB
 0x807006DB=E2Tm5_OB
 
 ;0x81D11B25=~z~Or getting gang-banged by eight sixty year olds.
-0x81D11B25=~z~或者是被八个六十岁一起轮奸。
+0x81D11B25=~z~或者是被八个六旬老汉轮奸。
 
 ;0x82BE2DBB=~z~Take me back to the place in Westdyke, will you?
-0x82BE2DBB=~z~带我回Westdyke去，好吗？
+0x82BE2DBB=~z~送我回Westdyke，好吗？
 
 ;0x83AE4B64=SFX_PAUSE_150
 0x83AE4B64=SFX_PAUSE_150
 
 ;0x8513F5F1=~z~The bottom was when they caught me.
-0x8513F5F1=~z~警察来了才要狗急跳墙。
+0x8513F5F1=~z~被警察抓了才是黑暗。
 
 ;0x857C0FD7=E2Tm5_OC
 0x857C0FD7=E2Tm5_OC
@@ -429,7 +429,7 @@
 0x8A280268=200090020
 
 ;0x8B450208=~z~No problem, boss.
-0x8B450208=~z~没问题，老大。
+0x8B450208=~z~没问题，老板。
 
 ;0x8C336C65=E2Tm5_AIA
 0x8C336C65=E2Tm5_AIA
@@ -438,13 +438,13 @@
 0x8D0D786C=E2Tm5_TA1
 
 ;0x8DF6BCFD=~z~This is it, Luis. You sure you don't want to come in?
-0x8DF6BCFD=~z~到了，Luis。你确定不用进来吗？
+0x8DF6BCFD=~z~到家了，Luis。你确定不用进来吗？
 
 ;0x908AB898=~z~Exactly. fantastic!
-0x908AB898=~z~对，好极了！
+0x908AB898=~z~没错。棒极了！
 
 ;0x91490AF9=~z~Pussy's going to have to chill out as Luis don't want no itch
-0x91490AF9=~z~Luis没心情，小骚逼只能消停会了。
+0x91490AF9=~z~Luis不想得脏病，小猫咪消停会儿吧。
 
 ;0x93A7DDCB=200090020090200
 0x93A7DDCB=200090020090200
@@ -456,7 +456,7 @@
 0x94253AFD=E2Tm5_VB
 
 ;0x95C725AC=~z~Stroke yourself, babe. Go all out. Have a stroke.
-0x95C725AC=~z~自己抠去，宝贝。用力抠，抠吧。
+0x95C725AC=~z~自己摸去，宝贝。用力摸，摸个爽。
 
 ;0x972E2070=SFX_PAUSE_210
 0x972E2070=SFX_PAUSE_210
@@ -465,13 +465,13 @@
 0x97CD8C22=E2Tm1_HB
 
 ;0x97DED68C=~z~And don't act so surprised. We go through this whole charade once a week.
-0x97DED68C=~z~还有，别装得那么惊讶。咱们做戏一周一次。
+0x97DED68C=~z~也别装得那么惊讶。每周都是这个流程。
 
 ;0x985D7F40=E2Tm1_JB
 0x985D7F40=E2Tm1_JB
 
 ;0x98EC589B=~z~You the girl who keeps coming to our club and getting so piss drunk that she's gotta be driven home.
-0x98EC589B=~z~你这妹子天天来咱俱乐部喝个烂醉，还要开车回家。
+0x98EC589B=~z~你这娘们天天来我店里喝个烂醉，还要找人代驾回家。
 
 ;0x9980A41B=010090100
 0x9980A41B=010090100
@@ -480,10 +480,10 @@
 0x9B347EAF=SFX_PAUSE_190
 
 ;0x9D1B29E1=~z~Hello! Ladies Room!
-0x9D1B29E1=~z~嘿！这是女洗手间啊！
+0x9D1B29E1=~z~喂喂！这是女厕！
 
 ;0x9DA97B8F=~z~I hope it's nothing serious, boss. You take care.
-0x9DA97B8F=~z~希望没事，老大。你多保重。
+0x9DA97B8F=~z~希望没出大事，老板。你多保重。
 
 ;0x9F32147C=E2Tm5_ABA
 0x9F32147C=E2Tm5_ABA
@@ -495,7 +495,7 @@
 0xA25C5F20=E2Tm5_XB
 
 ;0xA3AD0762=~z~This thing ain't happening, D . We ran into an issue.
-0xA3AD0762=~z~这事还没发生，D。咱有麻烦了。
+0xA3AD0762=~z~事情解决不了了，D。这里出问题了。
 
 ;0xA43D1BE7=SFX_PAUSE_270
 0xA43D1BE7=SFX_PAUSE_270
@@ -525,7 +525,7 @@
 0xAEA675EA=020200
 
 ;0xAEBAC8F3=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
-0xAEBAC8F3=~z~哟，D。事情有点搞砸了，哥们。你能罩罩我吗？
+0xAEBAC8F3=~z~哟，D。事情有点搞砸了，哥们。你能帮我瞒过去吗？
 
 ;0xAEE6CB12=E2Tm1_IB
 0xAEE6CB12=E2Tm1_IB
@@ -558,7 +558,7 @@
 0xB3A1BC93=~z~看到荣华富贵的生活让你这么「正常」真是太好了，Cloe。
 
 ;0xB621124D=~z~How 'bout we make it even more expensive, just for you?
-0xB621124D=~z~那就卖你贵点啊，怎么样？
+0xB621124D=~z~那我们卖得贵点，给你贵宾价。
 
 ;0xB6436527=E2Tm5_TD
 0xB6436527=E2Tm5_TD
@@ -567,13 +567,13 @@
 0xB8C9695D=010090100
 
 ;0xB8F6EC0B=~z~Pussy's purring at me. You wanna stroke her?
-0xB8F6EC0B=~z~下面好痒啊，你要不要抠一下？
+0xB8F6EC0B=~z~小猫咪在咕噜咕噜叫了，你要不要摸一下？
 
 ;0xBB8D7759=200090020
 0xBB8D7759=200090020
 
 ;0xBBCA8F33=~z~So two of them was, like, incredible.
-0xBBCA8F33=~z~他俩，怎么说呢，真是不可思议。
+0xBBCA8F33=~z~所以两个人简直是...比顶还顶。
 
 ;0xBCBDC088=E2Tm5_ACA
 0xBCBDC088=E2Tm5_ACA
@@ -585,28 +585,28 @@
 0xC046DAD6=400
 
 ;0xC117AC10=~z~I bet.
-0xC117AC10=~z~我敢打赌。
+0xC117AC10=~z~可不嘛。
 
 ;0xC1706490=E2Tm5_ADC
 0xC1706490=E2Tm5_ADC
 
 ;0xC4601708=~z~Yeast infections ain't sexy, girl. Conyo.
-0xC4601708=~z~宫颈感染看起来可不性感，妹子。妈的。
+0xC4601708=~z~真菌感染可不性感，姑娘。妈的。
 
 ;0xC523115F=E2Tm5_SD
 0xC523115F=E2Tm5_SD
 
 ;0xC5BF77AF=~z~That's one for the grandkids.
-0xC5BF77AF=~z~那是孙子们才玩的吧。
+0xC5BF77AF=~z~留着给孙子讲吧。
 
 ;0xC76A2FE3=~z~Come on, puss puss. Let's go.
-0xC76A2FE3=~z~来嘛，小骚逼，咱们走。
+0xC76A2FE3=~z~好了，猫猫，咱们走。
 
 ;0xC86BD9B1=E2Tm5_VH2
 0xC86BD9B1=E2Tm5_VH2
 
 ;0xCADEE65B=~z~I guess it keeps you off the booze for a while.
-0xCADEE65B=~z~那我寻思你得戒酒一会了。
+0xCADEE65B=~z~那你好像得戒会儿酒了。
 
 ;0xCBDD113F=E2Tm5_SC1
 0xCBDD113F=E2Tm5_SC1
@@ -618,7 +618,7 @@
 0xCF402ABB=~z~我才不管她是谁呢，L。把她从洗手间带走。
 
 ;0xCF524885=~z~and I threw up all over the Blue Brothers. Yucky!
-0xCF524885=~z~然后我全都吐到Blue兄弟的身上了。真恶心！
+0xCF524885=~z~然后我全吐到Blue兄弟身上了。真恶心！
 
 ;0xD182C526=SFX_PAUSE_240
 0xD182C526=SFX_PAUSE_240
@@ -642,7 +642,7 @@
 0xD63A4A43=SFX_PAUSE_210
 
 ;0xD6582DB7=~z~Who's Pussy?
-0xD6582DB7=~z~谁是小骚逼？
+0xD6582DB7=~z~小猫咪谁啊？
 
 ;0xD7BCADF2=010090100
 0xD7BCADF2=010090100
@@ -654,7 +654,7 @@
 0xD882C70D=E2Tm5_ND
 
 ;0xD8C4087D=~z~This ain't gonna take long... I hope.
-0xD8C4087D=~z~这用不多久的…但愿吧。
+0xD8C4087D=~z~应该用不了多久...但愿吧。
 
 ;0xD9389B4F=~z~Come on, Miss Parker. Let's get out of here.
 0xD9389B4F=~z~来吧，Parker小姐。咱们走吧。
@@ -669,7 +669,7 @@
 0xD9D37E20=E2Tm5_VG
 
 ;0xDA547E6C=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
-0xDA547E6C=~z~妈的老大，我手头上这事不太妙啊。我得低调点了。咱晚点聊。
+0xDA547E6C=~z~妈的，老板，这事不对劲啊。最近避避风头，咱晚点聊。
 
 ;0xDA69B9BC=E2Tm5_SC2
 0xDA69B9BC=E2Tm5_SC2
@@ -681,25 +681,25 @@
 0xDD10CF67=E2Tm5_VA2
 
 ;0xDDA8478F=~z~Get that bitch out of here, yo. I think she's in the rest room.
-0xDDA8478F=~z~把那婊子玩意带走。我寻思她应该在洗手间。
+0xDDA8478F=~z~把那婊子玩意带走。她应该在洗手间。
 
 ;0xDDFF8D0F=E2Tm1_JA
 0xDDFF8D0F=E2Tm1_JA
 
 ;0xDEE6CC15=~z~Pussy's real itchy right now. You gonna scratch her?
-0xDEE6CC15=~z~现在逼都送上门了，你不来抠抠吗？
+0xDEE6CC15=~z~小猫咪现在好痒啊，你能挠挠她吗？
 
 ;0xE0DD899C=~z~You think they'll leave us alone if I show pussy to them.
-0xE0DD899C=~z~你觉得要是我把逼亮出来的话他们会躲开吗？
+0xE0DD899C=~z~要是我把逼亮出来，他们会放过我们吗？
 
 ;0xE37DEDC9=~z~Do we? Shit.
-0xE37DEDC9=~z~我们？妈的。
+0xE37DEDC9=~z~有吗？妈的。
 
 ;0xE4118616=E2Tm5_UB
 0xE4118616=E2Tm5_UB
 
 ;0xE4CFDCC3=~z~But Tony's fucked here every night...
-0xE4CFDCC3=~z~但是Tony天天晚上都在这操逼…
+0xE4CFDCC3=~z~但Tony也天天在店里喝醉啊...
 
 ;0xE50AB8F8=E2Tm5_ADA
 0xE50AB8F8=E2Tm5_ADA
@@ -717,7 +717,7 @@
 0xE85C6C78=E2Tm5_NC
 
 ;0xE9CA28D7=~z~Dave? Jesus... I'm sure you'll figure something out. Maybe call up the Navy.
-0xE9CA28D7=~z~Dave？老天…相信你会搞懂的。加入海军看看吧。
+0xE9CA28D7=~z~Dave？老天...你肯定能想到办法的。找个海军士兵啥的。
 
 ;0xE9D265FF=200090020
 0xE9D265FF=200090020
@@ -735,19 +735,19 @@
 0xEB362D62=E2Tm5_OA
 
 ;0xEC7AF093=~z~Still, I imagine they'll be pissed when they start to itch. Little bastards.
-0xEC7AF093=~z~说是这么说，我希望她们想要的时候是喝醉的。你个小王八蛋。
+0xEC7AF093=~z~不过，开始发痒的时候他们就该暴跳如雷了。小王八蛋。
 
 ;0xECA17A75=E2Tm5_XA
 0xECA17A75=E2Tm5_XA
 
 ;0xED984392=~z~Pussy really wants to meet you.
-0xED984392=~z~小骚逼好想要啊。
+0xED984392=~z~小猫咪好想要你。
 
 ;0xEE2D98EE=E2Tm5_UA
 0xEE2D98EE=E2Tm5_UA
 
 ;0xEE653CFA=~z~Check out my labia. Dr. Vassils augmented the shit out of them.
-0xEE653CFA=~z~试试下我的骚逼吧。Vassils医生说我的逼够松。
+0xEE653CFA=~z~看看我的骚逼吧。Vassils医生帮我整过的。
 
 ;0xF241A673=SFX_PAUSE_260
 0xF241A673=SFX_PAUSE_260
@@ -765,7 +765,7 @@
 0xF6787956=SFX_OVERLAP_4750
 
 ;0xF6A5806E=~z~You know we can't have this shit going on in here. Come on.
-0xF6A5806E=~z~可别在这被逮到。快点。
+0xF6A5806E=~z~你也知道店里要维持秩序。拜托。
 
 ;0xF6F97D49=200090020200090020
 0xF6F97D49=200090020200090020
@@ -774,10 +774,10 @@
 0xF7940C48=~z~那好骚啊。下次上班的时候我得清醒点了。
 
 ;0xF796BFCA=~z~You had some trouble with the traffic cops? Why am I not surprised?
-0xF796BFCA=~z~你跟交警咋的了？为啥我就不觉得惊讶呢？
+0xF796BFCA=~z~你跟交警打过交道？我倒也不意外。
 
 ;0xFA4B1812=~z~Nice. Nothing like sticking a big needle in a little girl to let you know you got a problem. They call that shit 'rock bottom', don't they?
-0xFA4B1812=~z~可还行。没有啥比给一个小女孩狠狠来一针更好让你知道你出事了。大家不都管这叫「狗急跳墙」吗？
+0xFA4B1812=~z~行吧。都往小女孩身上扎针了，那你确实很有问题。这就是所谓「至暗时刻」吧？
 
 ;0xFAB6C153=E2Tm1_HA
 0xFAB6C153=E2Tm1_HA
@@ -786,7 +786,7 @@
 0xFBEC5888=E2Tm5_TC2
 
 ;0xFD865201=~z~I'll be in touch.
-0xFD865201=~z~再联系。
+0xFD865201=~z~保持联络。
 
 ;0xFD8D7C57=E2Tm5_ZB
 0xFD8D7C57=E2Tm5_ZB

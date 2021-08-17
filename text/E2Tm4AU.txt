@@ -9,19 +9,19 @@
 0x06BBF51B=~z~希望你们相机没坏。
 
 ;0x07B6C81D=~z~It's boring as shit, if you ask me. All those stuck up neurotic models- you can smell puke in the elevators.
-0x07B6C81D=~z~要问起来的话那就是无聊得一批。那些骄傲自大又神经兮兮的模特跟电梯里的呕吐物一个味。
+0x07B6C81D=~z~实际上也无聊得一批。净是些自大又神经质的模特，电梯里一股呕吐物味儿。
 
 ;0x07FA0742=E2Tm1_IA
 0x07FA0742=E2Tm1_IA
 
 ;0x0A7691B2=~z~Okay, boss. Anyone asks, I ain't seen you.
-0x0A7691B2=~z~好的，老大。有人问起来的话我就说没见着你。
+0x0A7691B2=~z~好的，老板。有人问起来我就说没见过你。
 
 ;0x0BABC844=~z~I had really good time the other day, but it was a one shot deal. I've got a lot on my plate at the moment.
 0x0BABC844=~z~前几天玩得是挺开心的，但快乐总是转瞬即逝。现在我忙得要死。
 
 ;0x0C6FD5F5=~z~This thing ain't happening, D . We ran into an issue.
-0x0C6FD5F5=~z~这事还没发生，D。咱有麻烦了。
+0x0C6FD5F5=~z~事情解决不了了，D。这里出问题了。
 
 ;0x126C7A05=090
 0x126C7A05=090
@@ -30,25 +30,25 @@
 0x12DCF845=E2Tm4_ACA
 
 ;0x13C09D3C=~z~That sounds like a plan, D. There should be a truck at the Northwood Station. I'll go up there.
-0x13C09D3C=~z~很有想法，D。Northwood的消防站应该有辆消防车。我过去吧。
+0x13C09D3C=~z~这主意还不错，D。Northwood的消防站应该有消防车。我过去吧。
 
 ;0x15589F77=SFX_PAUSE_170
 0x15589F77=SFX_PAUSE_170
 
 ;0x177E422C=~z~Boss, if you spray these dudes with the water cannon on a fire truck, it won't look like we compromising their rights.
-0x177E422C=~z~老大，你要是开车拿水炮冲他们的话，看起来够给面子了。
+0x177E422C=~z~老板，开消防车拿水炮冲他们的话，应该就能假装跟店里无关了。
 
 ;0x1A24372B=E2Tm1_GB
 0x1A24372B=E2Tm1_GB
 
 ;0x1AAD0CE9=~z~These streets have never looked so clean, boss.
-0x1AAD0CE9=~z~这马路看起来从没这么干净过，老大。
+0x1AAD0CE9=~z~马路从来没这么干净过，老板。
 
 ;0x1C146858=SFX_PAUSE_250
 0x1C146858=SFX_PAUSE_250
 
 ;0x1CAC52F8=~z~Damn, boss. Why'd you get like that. We gonna be all over the news for violent behaviour.
-0x1CAC52F8=~z~妈的，老大。你怎么这样的。我们出手暴力的消息会满天飞的。
+0x1CAC52F8=~z~妈的，老板。你怎么这样的。我们攻击记者的消息会满天飞的。
 
 ;0x1DE72FB4=E2Tm1_FA
 0x1DE72FB4=E2Tm1_FA
@@ -66,16 +66,16 @@
 0x25C70CEA=020090200090020200090200
 
 ;0x293F836F=~z~Oh yeah?
-0x293F836F=~z~噢，是吗？
+0x293F836F=~z~是吗？
 
 ;0x2CA821E7=090
 0x2CA821E7=090
 
 ;0x2DB85835=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
-0x2DB85835=~z~嘿兄弟，我手头上这事有点异常。我得低调一阵子了。
+0x2DB85835=~z~嘿兄弟。这次的事不太对劲。我要避会儿风头了。
 
 ;0x32DB96A3=~z~Yeah. I'm like a fucking circus pony. The only way to get to the top in this business is on your back. Sad, but true.
-0x32DB96A3=~z~是啊，我他妈就像是马戏团里的小马一样。要想高升，唯一的办法写在背上了。悲哀吧，但很真实。
+0x32DB96A3=~z~是啊，我他妈就像马戏团里的小马，要想上位只能被人骑。悲哀吧，但很现实。
 
 ;0x33D9DFE2=SFX_PAUSE_270
 0x33D9DFE2=SFX_PAUSE_270
@@ -96,13 +96,13 @@
 0x39C0679C=E2Tm4_MA
 
 ;0x3B32C812=~z~Here you go, Pop. The HOLE.
-0x3B32C812=~z~到了，Pop。HOLE酒店。
+0x3B32C812=~z~到了，Pop。东勒德。
 
 ;0x401FADDE=E2Tm4_ZB
 0x401FADDE=E2Tm4_ZB
 
 ;0x40F95F71=~z~Good idea, Dessie. I'll get on it.
-0x40F95F71=~z~想法不错，Dessie。我过去了。
+0x40F95F71=~z~好主意，Dessie。我过去了。
 
 ;0x46A140C9=E2Tm4_WA
 0x46A140C9=E2Tm4_WA
@@ -111,10 +111,10 @@
 0x47C7AD9C=100090010
 
 ;0x497D4475=~z~Yo, D, you were right. We need to clear the paps from the front of the club.
-0x497D4475=~z~哟，D。你说对了。咱得把前门的狗仔队赶走。
+0x497D4475=~z~哟，D。你说对了。是得把门口的狗仔队赶走。
 
 ;0x4A16275B=~z~Boss, maybe you could get these guys with the water cannon on a fire truck. Make it look like an accident.
-0x4A16275B=~z~老大，你可以用消防车上的水炮把那帮人赶走，这样看起来就像是出事了一样。
+0x4A16275B=~z~老板，你可以用消防车上的水炮赶走他们，伪装成意外。
 
 ;0x4CE13F80=E2Tm4_VF
 0x4CE13F80=E2Tm4_VF
@@ -129,7 +129,7 @@
 0x55E5BBF3=E2Tm1_JA
 
 ;0x56471FB1=~z~I got a room at HOLE can you take me down there?
-0x56471FB1=~z~我在HOLE酒店订房了，你能带我过去吗？
+0x56471FB1=~z~我在东勒德酒店订了房，能送我过去吗？
 
 ;0x57714E15=E2Tm4_AAC
 0x57714E15=E2Tm4_AAC
@@ -138,13 +138,13 @@
 0x57B8CED8=E2Tm4_RA
 
 ;0x57DDECD0=~z~I hope it's nothing serious, boss. You take care.
-0x57DDECD0=~z~希望没事，老大。你多保重。
+0x57DDECD0=~z~希望没出大事，老板。你多保重。
 
 ;0x581F01EE=~z~Thanks, Luis. You're such a fucking sweetheart. Big kiss to Tony from me.
 0x581F01EE=~z~谢了，Luis。你最好了。代我向Tony问好。
 
 ;0x598B5307=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
-0x598B5307=~z~哟，D。事情搞砸了，哥们。你能罩罩我吗？
+0x598B5307=~z~哟，D。事情有点搞砸了，哥们。你能帮我瞒过去吗？
 
 ;0x5AB114F1=SFX_PAUSE_320
 0x5AB114F1=SFX_PAUSE_320
@@ -180,7 +180,7 @@
 0x69AFB84E=E2Tm4_VD
 
 ;0x6AB6282C=~z~We got a problem, boss. Poppy Mitchell is freaking out in the VIP.
-0x6AB6282C=~z~出事了，老大。VIP包厢的Poppy Michelle生气了。
+0x6AB6282C=~z~出事了，老板。VIP包厢的Poppy Mitchell生气了。
 
 ;0x72548987=E2Tm4_QA
 0x72548987=E2Tm4_QA
@@ -195,7 +195,7 @@
 0x769F8B45=E2Tm4_SA
 
 ;0x78096335=~z~I'm staying at HOLE, can you take me down there?
-0x78096335=~z~我在HOLE酒店休息，能带我过去吗？
+0x78096335=~z~我在东勒德酒店休息，能带我过去吗？
 
 ;0x782E7DDF=020090200090020
 0x782E7DDF=020090200090020
@@ -207,28 +207,28 @@
 0x7A846AC9=E2Tm1_FB
 
 ;0x7A95EAE9=~z~Nice. They gonna have a truck over at the station in Northwood. I'll check it out.
-0x7A95EAE9=~z~可以。正好Northwood的消防站外面停有一辆。我去看看。
+0x7A95EAE9=~z~可以。正好Northwood的消防站就有一辆。我去看看。
 
 ;0x7AE2B1DA=~z~You never get used to it. That and I promised my agent I'd clean my act up. No more sexting for me.
-0x7AE2B1DA=~z~习惯不了的。我向经纪人保证了，生活检点一点，不发黄色短信了。
+0x7AE2B1DA=~z~习惯不了的。而且我刚向经纪人保证要检点生活，不搞文爱了。
 
 ;0x7C19A9B1=~z~Dess, we got to get these photographers out of here. How the fuck we gonna do that?
-0x7C19A9B1=~z~Dess，咱得把这些狗仔队赶走。咱他妈的该咋办？
+0x7C19A9B1=~z~Dess，得把门口的狗仔队赶走。这他妈该咋办？
 
 ;0x7D1A1A2C=~z~No problem, boss.
-0x7D1A1A2C=~z~没问题，老大。
+0x7D1A1A2C=~z~没问题，老板。
 
 ;0x7E0CC413=E2Tm4_ADA
 0x7E0CC413=E2Tm4_ADA
 
 ;0x7F97B7D1=~z~I need to get my own place in the City.
-0x7F97B7D1=~z~在这城市我得有自己的的地位。
+0x7F97B7D1=~z~在自由城我得有一席之地。
 
 ;0x80DE996A=~z~You drive a fire truck? That's, ummm, a pretty strong move...
-0x80DE996A=~z~你开了辆消防车？这…呃，力度很大啊…
+0x80DE996A=~z~你开了辆消防车？这...有点给力啊...
 
 ;0x84274C79=~z~Never say never, but not tonight. It's been a long day.
-0x84274C79=~z~话也不能说太死了，但今晚肯定不行。累了一天了。
+0x84274C79=~z~话别说太死。但今晚肯定不行，累了一天了。
 
 ;0x84F9E17D=~z~All clear, Miss Mitchell.
 0x84F9E17D=~z~都完事了，Mitchell小姐。
@@ -237,19 +237,19 @@
 0x8523D348=E2Tm4_KB
 
 ;0x85F5279A=~z~Shit, L. You need to be more careful of the VIPs.
-0x85F5279A=~z~妈的，L。照顾VIP还得再细致点啊。
+0x85F5279A=~z~妈的，L。接待VIP的时候能不能小心点。
 
 ;0x8899E3F3=~z~What's she got to freak out about? She's America's favorite daughter.
-0x8899E3F3=~z~生啥气呢？她不是国民女星吗。
+0x8899E3F3=~z~她有什么要生气的？她不是国民女星吗。
 
 ;0x892DBAC7=E2Tm4_YA
 0x892DBAC7=E2Tm4_YA
 
 ;0x8A653EF3=~z~Shit, L. Okay. I'll get on damage control.
-0x8A653EF3=~z~妈的，L。好的，我会止损的。
+0x8A653EF3=~z~妈的，L。好吧，止损的事我来。
 
 ;0x8ED319A7=~z~I'll see you guys in a minute.
-0x8ED319A7=~z~我马上过来见大伙们。
+0x8ED319A7=~z~我去去就回。
 
 ;0x8EDDFCC6=E2Tm4_LB
 0x8EDDFCC6=E2Tm4_LB
@@ -270,7 +270,7 @@
 0x9429C8B5=SFX_PAUSE_270
 
 ;0x944F905C=~z~We cleaning up these streets.
-0x944F905C=~z~扫大街呢。
+0x944F905C=~z~扫大街了。
 
 ;0x95CF3B45=100
 0x95CF3B45=100
@@ -282,19 +282,19 @@
 0x96E14874=E2Tm4_AAA
 
 ;0x9702A698=~z~Coño. I knew I shouldn't have gone on that run, bro.
-0x9702A698=~z~妈的，我就知道不该跑这趟的，兄弟。
+0x9702A698=~z~妈的，我就知道不该跑这趟的。
 
 ;0x97053344=~z~Sure you will.
-0x97053344=~z~好，你会的。
+0x97053344=~z~说定了。
 
 ;0x97576AC3=~z~So, why you so desperate to get away from the paps? I thought you'd be getting used to that.
-0x97576AC3=~z~那么，为啥你这么想把狗仔队甩掉呢？我还以为你习惯了呢。
+0x97576AC3=~z~为啥你这么想把狗仔队甩掉呢？我还以为你习惯了呢。
 
 ;0x988D1BF5=SFX_PAUSE_300
 0x988D1BF5=SFX_PAUSE_300
 
 ;0x98F11703=~z~OMFGG, not a pap in sight. This is too cool. Let's split.
-0x98F11703=~z~我的老天啊，终于看不到狗仔们了。太好了，咱们闪人吧。
+0x98F11703=~z~mlgb的，终于没有狗仔队了。太好了，咱们闪人吧。
 
 ;0x9C3E979E=100090010
 0x9C3E979E=100090010
@@ -303,13 +303,13 @@
 0x9E51ECC1=~z~那就好。你要回豪宅来吗？还有要忙的呢。
 
 ;0x9ED16DC4=~z~Yo Dess, Poppy Mitchell is now tucked up safely in bed.
-0x9ED16DC4=~z~哟Dess，Poppy Mitchell现在好好的上床了。
+0x9ED16DC4=~z~哟Dess，Poppy Mitchell已经安稳地躺在床上了。
 
 ;0x9F1E0942=E2Tm4_VB
 0x9F1E0942=E2Tm4_VB
 
 ;0x9F1E9BB6=~z~Excellent idea, D. I'll go get one right now.
-0x9F1E9BB6=~z~这想法可以，D。我现在去搞一辆。
+0x9F1E9BB6=~z~这想法可以，D。我这就去找一辆。
 
 ;0x9FD7C134=SFX_PAUSE_120
 0x9FD7C134=SFX_PAUSE_120
@@ -327,7 +327,7 @@
 0xA4AC81FA=~z~一分钱一分货。
 
 ;0xA55D7619=~z~Luis, sweetheart. I can't have another camera shoved up my dress today. I haven't shaved. Get rid of those vultures.
-0xA55D7619=~z~Luis，亲爱的，今天不能再让人拍我裙底了。毛还没刮呢。把这些趁火打劫的人甩掉。
+0xA55D7619=~z~Luis，亲爱的，今天不能再让人拍我裙底了。毛还没刮呢。让这些吸血鬼滚蛋。
 
 ;0xA69AEDAF=E2Tm4_UA
 0xA69AEDAF=E2Tm4_UA
@@ -345,10 +345,10 @@
 0xAB09BDD0=~z~快走吧。
 
 ;0xACA01558=~z~Wait a second, you weren't fucking in our VIP room again, were you?
-0xACA01558=~z~等等，你没在咱们的VIP包厢里跟别人操起来吧？
+0xACA01558=~z~等等，你没在店里的VIP包厢跟别人打炮吧？
 
 ;0xAEDA7752=~z~Fuck it, bro. No one cares about them blood suckers.
-0xAEDA7752=~z~操了，兄弟。没人关心这些吸血鬼。
+0xAEDA7752=~z~操了，兄弟。真没人关心这些吸血鬼。
 
 ;0xB21C8B84=SFX_PAUSE_350
 0xB21C8B84=SFX_PAUSE_350
@@ -357,7 +357,7 @@
 0xB3B06008=SFX_PAUSE_140
 
 ;0xB3EDBA9A=~z~I don't know, but there's paps all over the place up here.
-0xB3EDBA9A=~z~我不知道啊，但是外面都是狗仔队的人。
+0xB3EDBA9A=~z~不知道，但外面全都是狗仔队。
 
 ;0xB581D843=090
 0xB581D843=090
@@ -366,25 +366,25 @@
 0xB5F9F9E6=E2Tm1_JB
 
 ;0xB9875ACB=~z~I see a fire.
-0xB9875ACB=~z~我看到着火啦。
+0xB9875ACB=~z~这里着火啦。
 
 ;0xBBD1C209=020090200090020090200
 0xBBD1C209=020090200090020090200
 
 ;0xBEA27945=~z~Thanks for the ride, bro...
-0xBEA27945=~z~谢谢你的车，兄弟…
+0xBEA27945=~z~谢谢你的车，兄弟。
 
 ;0xC1AF49D2=E2Tm4_AEA
 0xC1AF49D2=E2Tm4_AEA
 
 ;0xC1D83FC8=~z~That was after hours, so that don't count. When am I gonna get a second chance at that?
-0xC1D83FC8=~z~那会咱都打烊了，不算数。我啥时候还有机会再来一次？
+0xC1D83FC8=~z~那会儿都打烊了，不算数。什么时候有机会再来一次？
 
 ;0xC25AF836=E2Tm4_XB
 0xC25AF836=E2Tm4_XB
 
 ;0xC2897DA5=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
-0xC2897DA5=~z~妈的老大，我手头上这事不太对劲。我得冷静会。咱晚点聊。
+0xC2897DA5=~z~妈的，老板，这事不对劲啊。最近避避风头，咱晚点聊。
 
 ;0xC29A3DA3=200
 0xC29A3DA3=200
@@ -402,7 +402,7 @@
 0xC68DA28F=E2Tm4_AEC
 
 ;0xC74BF3B8=~z~Luis! Amazing! They're all gone. Let's get out of here.
-0xC74BF3B8=~z~Luis！太神奇了！他们都消失了。咱们走吧。
+0xC74BF3B8=~z~Luis！太棒了！记者散了。咱们走吧。
 
 ;0xCB12A912=SFX_PAUSE_150
 0xCB12A912=SFX_PAUSE_150
@@ -420,10 +420,10 @@
 0xD097E695=SFX_PAUSE_300
 
 ;0xD2792A2B=~z~I got just the thing to relax you.
-0xD2792A2B=~z~刚帮你办完的事没让你放松吗。
+0xD2792A2B=~z~那我正好帮你放松放松。
 
 ;0xDA63F0DF=~z~Luis! You know you're the only guy I've fucked in that VIP.
-0xDA63F0DF=~z~Luis！你知道在包厢里我只跟你操过的。
+0xDA63F0DF=~z~Luis！你知道我在包厢里只跟你做过的。
 
 ;0xDA8BE6CA=200
 0xDA8BE6CA=200
@@ -438,25 +438,25 @@
 0xDF903FD0=E2Tm4_XA
 
 ;0xE1FBF4E5=~z~We should hang out again sometime.
-0xE1FBF4E5=~z~咱们别的时间再约吧。
+0xE1FBF4E5=~z~咱们有空再约一次吧。
 
 ;0xE30EFEBE=~z~Six hundred dollars a night. For that money it better be Kerry McIntosh's puke.
-0xE30EFEBE=~z~一晚六百美元。Kerry Mclntosh吃下去吐出来的也是这么多。
+0xE30EFEBE=~z~一晚六百美元。这价格得是Kerry Mclntosh吐的。
 
 ;0xE3712E86=~z~Oye, cool down.
-0xE3712E86=~z~噢，淡定点吧。
+0xE3712E86=~z~喂，消消火气。
 
 ;0xE6289883=~z~I'll see what I can do, Poppy.
 0xE6289883=~z~我看看怎么办吧，Poppy。
 
 ;0xE708F83D=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
-0xE708F83D=~z~事情没按计划出牌啊，Dess。你懂我意思吧？
+0xE708F83D=~z~这边事情不太顺利，Dess。懂我意思吧？
 
 ;0xE8FD7837=E2Tm4_PA
 0xE8FD7837=E2Tm4_PA
 
 ;0xE9936ED5=~z~As owner of this place, I reserve the right to do this shit sometimes. Thanks for looking out though, D.
-0xE9936ED5=~z~作为老板我有权利这样做。多谢关照，D。
+0xE9936ED5=~z~作为这里的店长，我有权利这样做。多谢关照，D。
 
 ;0xEB6642C2=E2Tm4_YC
 0xEB6642C2=E2Tm4_YC
@@ -477,7 +477,7 @@
 0xF0563DE6=010090100
 
 ;0xF2B8CD15=~z~Sorry about this, but I heard there was a fire.
-0xF2B8CD15=~z~不好意思了，接到报警说这里有火情。
+0xF2B8CD15=~z~不好意思了，听说这里有火情。
 
 ;0xF5325F40=SFX_PAUSE_250
 0xF5325F40=SFX_PAUSE_250
@@ -486,7 +486,7 @@
 0xF5EC7D26=010090100
 
 ;0xF5FF24A2=~z~The HOLE? Nice.
-0xF5FF24A2=~z~HOLE酒店？好的。
+0xF5FF24A2=~z~东勒德？挺好。
 
 ;0xF60EF305=100
 0xF60EF305=100
@@ -501,7 +501,7 @@
 0xF9035B1C=100090010090100
 
 ;0xFA9B7A6F=~z~Baby, you're sweet, but this exec from Canyon is meant to come by. I'll call you.
-0xFA9B7A6F=~z~宝贝，你真会说话，但该来的总是会来的。到时打电话叫你。
+0xFA9B7A6F=~z~宝贝，你真好，但影视公司的高管要来找我。之后打电话叫你。
 
 ;0xFACD9365=010090100
 0xFACD9365=010090100
