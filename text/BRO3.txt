@@ -1,148 +1,148 @@
 ﻿[BRO3]
 ;0x022065D7=~r~You trashed the car.
-0x022065D7=~r~You trashed the car.
+0x022065D7=~r~你把车搞坏了。
 
 ;0x063C265E=~s~You need a 4 door car.
-0x063C265E=~s~You need a 4 door car.
+0x063C265E=~s~你需要一辆四门车。
 
 ;0x07AB1297=~s~Use ~INPUT_MOVE_DOWN~ to move the platform.
-0x07AB1297=~s~Use ~INPUT_MOVE_DOWN~ to move the platform.
+0x07AB1297=~s~用~INPUT_MOVE_DOWN~移动平台。
 
 ;0x124E253A=~s~Lose the ~r~chopper.
-0x124E253A=~s~Lose the ~r~chopper.
+0x124E253A=~s~甩掉~r~警用直升机。
 
 ;0x15AEC666=~s~Line up behind the ~y~Kibbutz brothers.
-0x15AEC666=~s~Line up behind the ~y~Kibbutz brothers.
+0x15AEC666=~s~跟随~y~Kibbutz兄弟。
 
 ;0x1AC54D7B=~s~Go get ~b~Mori.
-0x1AC54D7B=~s~Go get ~b~Mori.
+0x1AC54D7B=~s~跟上~b~Mori。
 
 ;0x1E5E4BA6=~s~Wait for ~b~Brucie.
-0x1E5E4BA6=~s~Wait for ~b~Brucie.
+0x1E5E4BA6=~s~等待~b~Brucie。
 
 ;0x2B4B0F5F=~s~Press Q to restart chase.~n~Press ~INPUT_PHONE_PUT_AWAY~ to reset car.
-0x2B4B0F5F=~s~Press Q to restart chase.~n~Press ~INPUT_PHONE_PUT_AWAY~ to reset car.
+0x2B4B0F5F=~s~按Q重启追逐赛。~n~按 ~INPUT_PHONE_PUT_AWAY~重置车辆。
 
 ;0x3744BD91=~s~Go get ~b~Brucie.
-0x3744BD91=~s~Go get ~b~Brucie.
+0x3744BD91=~s~跟上~b~Brucie。
 
 ;0x44B17A89=~s~Mission Passed
-0x44B17A89=~s~Mission Passed
+0x44B17A89=~s~任务失败
 
 ;0x46462BD2=~s~Hold ~INPUT_PICKUP~ to activate controls.
-0x46462BD2=~s~Hold ~INPUT_PICKUP~ to activate controls.
+0x46462BD2=~s~长按~INPUT_PICKUP~激活控制。
 
 ;0x55E63F12=~r~You abandoned Mori and Brucie.
-0x55E63F12=~r~You abandoned Mori and Brucie.
+0x55E63F12=~r~你丢下了Mori和Brucie。
 
 ;0x582C0F95=~s~Wait for ~b~Brucie~s~ to get in the car.
-0x582C0F95=~s~Wait for ~b~Brucie~s~ to get in the car.
+0x582C0F95=~s~等待~b~Brucie~s~上车。
 
 ;0x587A5205=~s~Top Speed was ~1~mph!
-0x587A5205=~s~Top Speed was ~1~mph!
+0x587A5205=~s~极速是~1~迈！
 
 ;0x596FFD21=~s~Go to the ~y~garage.
-0x596FFD21=~s~Go to the ~y~garage.
+0x596FFD21=~s~去~y~车库。
 
 ;0x75E63070=~s~Wait for ~b~Mori~s~ to get in the car.
-0x75E63070=~s~Wait for ~b~Mori~s~ to get in the car.
+0x75E63070=~s~等待~b~Mori~s~上车。
 
 ;0x79383DE4=~s~Shoot the fuel container to clear the path.
-0x79383DE4=~s~Shoot the fuel container to clear the path.
+0x79383DE4=~s~射击燃料箱清空道路。
 
 ;0x79A32A4D=~r~Mori's car was trashed.
-0x79A32A4D=~r~Mori's car was trashed.
+0x79A32A4D=~r~Mori的车坏了。
 
 ;0x8187D6DE=~r~Mori died.
-0x8187D6DE=~r~Mori died.
+0x8187D6DE=~r~Mori死了。
 
 ;0x84B075FF=~s~Use ~INPUT_MOVE_DOWN~ to lower the platform.
-0x84B075FF=~s~Use ~INPUT_MOVE_DOWN~ to lower the platform.
+0x84B075FF=~s~用~INPUT_MOVE_DOWN~放下平台。
 
 ;0x8A76BFB7=~s~Car damage was a poor ~1~%
-0x8A76BFB7=~s~Car damage was a poor ~1~%
+0x8A76BFB7=~s~车辆受损~1~%，太糟糕了！
 
 ;0x8BF70544=~s~Car damage was excellent ~1~%!
-0x8BF70544=~s~Car damage was excellent ~1~%!
+0x8BF70544=~s~车辆受损~1~%，很棒！
 
 ;0x927E1B30=~s~Lose the cops.
-0x927E1B30=~s~Lose the cops.
+0x927E1B30=~s~甩掉条子。
 
 ;0x95BFF67C=~s~Go get ~b~Brucie.
-0x95BFF67C=~s~Go get ~b~Brucie.
+0x95BFF67C=~s~去找~b~Brucie。
 
 ;0x9AC665CE=~s~Car damage was an ok ~1~%!
-0x9AC665CE=~s~Car damage was an ok ~1~%!
+0x9AC665CE=~s~车辆受损~1~%，还可以！
 
 ;0x9F5C0D2D=~s~Go get ~b~Mori.
-0x9F5C0D2D=~s~Go get ~b~Mori.
+0x9F5C0D2D=~s~去找~b~Mori。
 
 ;0xA03FB9AC=~s~Mission time was a poor ~1~:~1~:~1~
-0xA03FB9AC=~s~Mission time was a poor ~1~:~1~:~1~
+0xA03FB9AC=~s~任务时间是~1~:~1~:~1~，太糟糕了。
 
 ;0xA32B9C54=~s~Wait for ~b~Mori.
-0xA32B9C54=~s~Wait for ~b~Mori.
+0xA32B9C54=~s~等待~b~Mori。
 
 ;0xA7973287=~r~You abandoned Mori.
-0xA7973287=~r~You abandoned Mori.
+0xA7973287=~r~你丢下了Mori。
 
 ;0xAB7457EA=~r~Brucie died.
-0xAB7457EA=~r~Brucie died.
+0xAB7457EA=~r~Brucie死了。
 
 ;0xB11860C9=~s~Target the ~b~car park attendant.~s~ Don't hurt him.
-0xB11860C9=~s~Target the ~b~car park attendant.~s~ Don't hurt him.
+0xB11860C9=~s~瞄准~b~停车场管理员。~s~不要伤害他。
 
 ;0xB99E3F6D=~s~Mission Failed
-0xB99E3F6D=~s~Mission Failed
+0xB99E3F6D=~s~任务失败
 
 ;0xBA1D75D1=~s~This is placeholder for a MoCap cutscene.
-0xBA1D75D1=~s~This is placeholder for a MoCap cutscene.
+0xBA1D75D1=~s~这是动作捕捉系统的占位符。
 
 ;0xC0DB0C20=~s~Use the ~g~button~s~ to lower the platform.
-0xC0DB0C20=~s~Use the ~g~button~s~ to lower the platform.
+0xC0DB0C20=~s~按下~g~按钮~s~降下平台。
 
 ;0xC72053A5=~s~Wait for ~b~Brucie.
-0xC72053A5=~s~Wait for ~b~Brucie.
+0xC72053A5=~s~等待~b~Brucie。
 
 ;0xCC900C15=~s~Press ~INPUT_PICKUP~ to activate controls.
-0xCC900C15=~s~Press ~INPUT_PICKUP~ to activate controls.
+0xCC900C15=~s~按~INPUT_PICKUP~激活控制。
 
 ;0xCD0E9A7D=~s~Mission time was an ok ~1~:~1~:~1~!
-0xCD0E9A7D=~s~Mission time was an ok ~1~:~1~:~1~!
+0xCD0E9A7D=~s~任务时间是~1~:~1~:~1~，还可以！
 
 ;0xCFC08C29=~r~Brucie's car was trashed.
-0xCFC08C29=~r~Brucie's car was trashed.
+0xCFC08C29=~r~Brucie的车坏了。
 
 ;0xD42EEDE2=~s~Get in the ~b~car.
-0xD42EEDE2=~s~Get in the ~b~car.
+0xD42EEDE2=~s~上~b~车。
 
 ;0xD7B70E91=~s~Wait for ~b~Mori.
-0xD7B70E91=~s~Wait for ~b~Mori.
+0xD7B70E91=~s~等待~b~Mori。
 
 ;0xDBCE3604=~r~You abandoned Brucie.
-0xDBCE3604=~r~You abandoned Brucie.
+0xDBCE3604=~r~你丢下了Brucie。
 
 ;0xDCD43C80=~s~Clear the platform before lowering.
-0xDCD43C80=~s~Clear the platform before lowering.
+0xDCD43C80=~s~下降之前清空平台。
 
 ;0xDD25E345=~s~Use ~INPUT_FRONTEND_RIGHT_AXIS_Y~ to move the platform.
-0xDD25E345=~s~Use ~INPUT_FRONTEND_RIGHT_AXIS_Y~ to move the platform.
+0xDD25E345=~s~用~INPUT_FRONTEND_RIGHT_AXIS_Y~移动平台。
 
 ;0xE621E80E=~s~Go get ~b~Mori~s~ and ~b~Brucie.
-0xE621E80E=~s~Go get ~b~Mori~s~ and ~b~Brucie.
+0xE621E80E=~s~去找~b~Mori~s~和~b~Brucie。
 
 ;0xE7250233=~s~Wait for ~b~Mori~s~ and ~b~Brucie.
-0xE7250233=~s~Wait for ~b~Mori~s~ and ~b~Brucie.
+0xE7250233=~s~等待~b~Mori~s~和~b~Brucie。
 
 ;0xF5D822D2=~s~Go to the ~y~car park.
-0xF5D822D2=~s~Go to the ~y~car park.
+0xF5D822D2=~s~去~y~停车场，
 
 ;0xF74B00FC=~s~Keep up with ~b~Mori.
-0xF74B00FC=~s~Keep up with ~b~Mori.
+0xF74B00FC=~s~跟上~b~Mori。
 
 ;0xF977AF0D=~s~Get back in the ~b~car.
-0xF977AF0D=~s~Get back in the ~b~car.
+0xF977AF0D=~s~返回~b~车上。
 
 ;0xFDF58362=~s~Mission time was an excellent ~1~:~1~:~1~!
-0xFDF58362=~s~Mission time was an excellent ~1~:~1~:~1~!
+0xFDF58362=~s~任务时间是~1~:~1~:~1~，很棒！
 
