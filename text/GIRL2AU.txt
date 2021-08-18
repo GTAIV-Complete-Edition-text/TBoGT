@@ -51,7 +51,7 @@
 0x0C3CA76B=GIRL2_IE2
 
 ;0x0CA72A0A=~z~All Chris's suits are made by that darling little man at Perseus - we should go there.
-0x0CA72A0A=~z~Chris的套装都是找彭风精品的小个子定做的，咱们去那儿吧。
+0x0CA72A0A=~z~Chris的套装都是找神之子服饰的小个子定做的，咱们去那儿吧。
 
 ;0x0CEC9A63=GIRL2_IB2
 0x0CEC9A63=GIRL2_IB2
