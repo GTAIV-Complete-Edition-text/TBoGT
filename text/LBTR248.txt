@@ -3,22 +3,22 @@
 0x098B56E6=Tony J Smith
 
 ;0x1869CCD3=A homeless Vietnam veteran, Jerry Kapowitz, has stumbled upon a haul of diamonds valued at over $2 million. They were in a small pouch amongst the trash in Meadows Park. Mr. Kapowitz had been living near the dump and surviving off of things he salvaged from there. "Before this, the best thing I'd found was a TV and that didn't even work," he told reporters. Mr. Kapowitz plans to take his newfound wealth down to Vice City where he will start a gun shop and liquor store, "They're real men down there and they need real guns and liquor in one convenient location." Mr. Kapowitz's ownership of the diamonds was immediately contested by over 100 people. Mayor Ochoa decided that it would be impossible to verify the claims so allowed Mr. Kapowitz to keep all of the proceeds from the diamonds' sale.
-0x1869CCD3=Jerry Kapowitz，一位无家可归的越战老兵，如今被卷入了一起大量非法钻石事件中，涉案金额超200万美元。这些钻石被装进袋子里，然后被扔在Meadows Park的垃圾堆中。Kapowitz先生长期以来都住在垃圾场附近，通过拾荒以维持生计。“在这之前，我能找到最好的东西是一台坏掉的电视”，他告诉记者。Kapowitz先生计划带上他的钻石到Vice City去，到那儿开一家枪店和酒馆，“Vice City那边的人都是狠角色，而且他们迫切需要方便地取得一些真正的火力和美酒。”对于Kapowitz先生对这些钻石的所有权，很快就有超100人进行抗议。Ochoa市长决定，鉴于不可能证实这些钻石的所有权问题，因此允许Kapowitz先生保留钻石并可以进行交易。
+0x1869CCD3=一名流浪的越战老兵，Jerry Kapowitz，捡到了一批价值超过两百万美元的钻石。钻石被装在一个小袋子里，混在Meadows Park的垃圾山中。Kapowitz先生一直住在垃圾场附近，靠捡垃圾生存。「此前，我捡到过的最好的东西是一台电视，而且还是坏的，」他告诉记者。Kapowitz先生计划带着自己刚获得的财富去罪城，然后开一家枪店兼酒馆，「那边的人都是真汉子，他们需要一家同时具备真枪和好酒的店。」已有上百人对Kapowitz先生的钻石拥有权提出了异议，称自己是失主。Ochoa市长则以无法证实失主为由，允许Kapowitz先生保留出售钻石所获得的收入。
 
 ;0x186FB69A=Finds diamonds sleeping rough
-0x186FB69A=发现钻石置之野外
+0x186FB69A=钻石露宿街头
 
 ;0x45282CD7=Jon Gravelli cheated justice for the final time, passing away peacefully in his hospital bed
 0x45282CD7=最后一次欺瞒司法，Jon Gravelli在医院病床上安然离世
 
 ;0x5F667E79=Mob Boss Dies Before Trial
-0x5F667E79=暴民头目在审判前死亡
+0x5F667E79=黑帮老大于庭审前死亡
 
 ;0x6EE38546=Bum Hits The Jackpot
-0x6EE38546=流浪汉撞头彩
+0x6EE38546=流浪汉中大奖
 
 ;0x74693DD5=Mob Boss, Jon Gravelli, alleged head of the Gambetti crime family, died peacefully in his sleep last night. Mr. Gravelli, 85, had been residing at the Schottler Medical Center for the last 3 years. Although some in the DA's office argued that this was a ruse to avoid a court case, Mr. Gravelli never left hospital after being admitted. Mr. Gravelli has been head of the Gambetti crime syndicate since 1978 and under his stewardship, the family had become the most powerful of Liberty City's crime families, rivaling the Pavano family. Although he had been indicted several times, Mr. Gravelli was never convicted of a serious crime. Some believed he had contacts within the government who protected him, and for whom he would get criminal associates to perform hits and other crimes, but these allegations were never substantiated. What happens now to the delicate balance of power amongst criminal gangs within Liberty City is unknown. It is unlikely to be pretty.
-0x74693DD5=Jon Gravelli，暴民头目，自称犯罪家族Gambetti的家主，于昨晚在睡梦中安然离世，享年85岁。Gravelli先生已在Schottler Medical Center医院住院3年。尽管一些地方检察官称那只是为了避免庭审的诡计，但Gravelli先生在住院后也从未走出过医院。Gravelli先生于1978年成为Gambetti家族犯罪集团的头目，在他的任职期内，该家族成为了Liberty City所有犯罪家族中最强大的一家，其最大的对手为Pavano家族。尽管被数次指证，但Gravelli先生从未被控告过一起严重犯罪事件。有的人认为他跟政府人员有所接触并受到保护，而他会为那些官员当打手或从事其他犯罪活动，但是这些指控却从未被证实。事到如今，Liberty City各个犯罪集团之间的微妙平衡该何去何从，一切都还是个未知数，但大概率也不会有多好就是了。
+0x74693DD5=被认为是Gambetti犯罪家族头目的黑帮老大，Jon Gravelli，昨晚在睡梦中安然离世。85岁的Gravelli先生过去三年一直住在Schottler医疗中心。尽管地检署中有人认为住院是其回避庭审的诡计，但Gravelli先生在住院后的确从未离开医院。Gravelli先生自1978年起担任Gambetti犯罪家族的头目，在其管理下，该家族成为了自由城最强大的犯罪家族，与Pavano家族分庭抗礼。尽管其已被指控多次，但Gravelli先生从未被判任何重罪。有人认为政府内存在他的保护伞，为其实施谋杀等各类犯罪提供便利，但这些说法并未得到证实。自由城各大犯罪势力间的脆弱平衡或将发生变化，但很难向好发展。
 
 ;0x78B2BE19=Russian Gangsters in Shootouts
 0x78B2BE19=俄黑帮陷入激烈枪战
@@ -30,13 +30,14 @@
 0xA2C19C94=Tony J Smith
 
 ;0xB139D40D=What will this mean for organized crime in LC?
-0xB139D40D=对于LC中的有组织犯罪来说，这将意味着什么？
+0xB139D40D=这对自由城的犯罪集团意味着什么？
 
 ;0xD8EFD2CA=Authorities and pundits are looking for the meanings behind two gangland shootouts that broke out in the city. Several Russian gangsters thought to be involved in a major heroin deal were killed in Hove Beach. Shortly afterwards, a shootout broke out at Francis International Terminal, culminating in the crashing of a private jet belonging to controversial Russian business man Ray Bulgarin.
-0xD8EFD2CA=官方人员和专家正在研究查明两个黑社会集团火并对这座城市造成的影响。数名涉嫌参与一起海洛因交易案件的俄国黑帮分子在Hove Beach被杀害。紧接着在Francis International Terminal中发生激烈枪战，并最终导致一架私人飞机坠毁，这架飞机属于一名备受争议的俄国商人Ray Bulgarin。
+0xD8EFD2CA=有关部门和专家正在研究本市发生的两起黑社会枪战带来的影响。数名涉嫌参与一起海洛因交易案件的俄国黑帮分子在Hove Beach被杀害。随后不久，Francis国际机场又发生了激烈枪战，最终导致一架私人飞机坠毁，这架飞机属于备受争议的俄国商人Ray Bulgarin。
 
 ;0xEB2F7715=Attempting to read the tea leaves, as it were, authorities are asking whether this spells a resurgence in violent organised crime in the city, or perhaps its death knell. Are the numbers of these Russian criminals sustainable or will this infighting mean that they eventually become extinct? We shall see, but we certainly like the metaphor. Makes us look Darwinian.
-0xEB2F7715=试图预测未来，就字面意思，官方人员正在思考这次事件是否意味着有组织暴力犯罪在这座城市里的死灰复燃，又或者是敲响了其死亡的丧钟。这些俄国黑帮犯罪分子将会持续存在吗，还是说经历这次帮派内讧意味着他们将最终灭亡？我们拭目以待。但是我们肯定喜欢这句隐喻：让我们看上去更“达尔文”一些吧。
+0xEB2F7715=有关部门正试图「见始知终」，思考此次事件是在暗示自由城有组织暴力犯罪的死灰复燃，还是为其敲响了丧钟。俄国黑帮的种群数量会长期维持吗？还是说这次内讧意味着他们将走向灭绝？让我们拭目以待。但我们很喜欢这个社达式的形容。
 
 ;0xF109EDB3=Staff Writer
-0xF109EDB3=本社编者
+0xF109EDB3=特约记者
+
