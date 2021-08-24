@@ -3,7 +3,7 @@
 0x00AA39F7=E2Tm7_TD
 
 ;0x0105C66E=~z~I've walked that road. Al Di Napoli knows pain.
-0x0105C66E=~z~都是同道中人啊。 Al Di Napoli懂你的难处。
+0x0105C66E=~z~我也是这样的。Al Di Napoli懂你的难处。
 
 ;0x01B73C78=~z~That's a shame, brother. Al feels your pain.
 0x01B73C78=~z~可惜了，兄弟。Al懂你的苦。
@@ -12,10 +12,10 @@
 0x01D701E6=200090020
 
 ;0x02F27B53=~z~The restraining part of my brain is long dead.
-0x02F27B53=~z~我脑袋里负责克制的那部分早就废了。
+0x02F27B53=~z~我脑子里的节制模块早就死了。
 
 ;0x03B1F5E8=~z~Sweet. Take me to the Amdram, bro? I got people to entertain.
-0x03B1F5E8=~z~好哇。带我去Amdram剧院好吗，兄弟？还有观众等着我呢。
+0x03B1F5E8=~z~好哇。带我去Amdram剧院吧，兄弟。观众等着我呢。
 
 ;0x03FE3E78=E2Tm7_TG
 0x03FE3E78=E2Tm7_TG
@@ -33,13 +33,13 @@
 0x05726A27=E2Tm7_MA
 
 ;0x05F1C8EF=~z~Boss, you mind heading over to Hercules? Al Di Napoli is asking for you specifically.
-0x05F1C8EF=~z~老大，介意跑一趟大力神俱乐部吗？Al Di Napoli点名叫你过去。
+0x05F1C8EF=~z~老板，介意跑一趟大力神吗？Al Di Napoli点名叫你过去。
 
 ;0x066D44EA=E2Tm7_AIH
 0x066D44EA=E2Tm7_AIH
 
 ;0x06C0F6AF=~z~Who you take me for, L? Bruce Spade or someone?
-0x06C0F6AF=~z~你以为我是谁啊，L？是Bruce Spade还是谁？
+0x06C0F6AF=~z~你以为我谁啊，L？Bruce Spade还是谁？
 
 ;0x08BAE5DA=SFX_PAUSE_190
 0x08BAE5DA=SFX_PAUSE_190
@@ -54,25 +54,25 @@
 0x0C157F3D=E2Tm1_FB
 
 ;0x0C15E1D8=~z~I don't know, man. Might be. I ain't remembered a performance yet.
-0x0C15E1D8=~z~我不知道哦，哥们。应该吧。我也不记得看过啥了。
+0x0C15E1D8=~z~不知道啊。应该吧。我也忘了演的啥了。
 
 ;0x0C7FC6A6=~z~Then fuck it. I ain't ever gonna come back to this town. I don't care what my agent promises me.
-0x0C7FC6A6=~z~滚他妈的。我不会回来了，也不在乎经纪人跟我保证啥了。
+0x0C7FC6A6=~z~滚他妈的。我也不会回来了，也不在乎经纪人跟我保证啥了。
 
 ;0x0CC645E5=~z~One of them's a Police Chief, and the other guy did time for tax evasion. I was lucky to get out.
-0x0CC645E5=~z~其中有一个还是警长，另一个是因为逃税去蹲监狱了。我运气不错，出来了。
+0x0CC645E5=~z~其中一个当了警长，另一个因为逃税去蹲监狱了。我运气还不错。
 
 ;0x0DD99ADE=SFX_PAUSE_170
 0x0DD99ADE=SFX_PAUSE_170
 
 ;0x0DEDF138=~z~Fucking she-males to see what it feels like, taking apart hotel room TVs to see where pay-per-view comes from,
-0x0DEDF138=~z~操他妈的人妖来看看是啥感觉吧，把酒店房间里的电视拆了，看看收费的电视节目是怎么来的，
+0x0DEDF138=~z~出于好奇去操人妖，拆开酒店的电视研究收费节目的原理，
 
 ;0x0E37965D=~z~Don't worry, man. I'll take the heat for this if we go down. You won't see any of it.
-0x0E37965D=~z~没事，哥们。沦落了肯定要受苦的嘛。你不懂。
+0x0E37965D=~z~没事，哥们。被抓了我来担责。保证把你撇干净。
 
 ;0x0F106283=~z~I feel you, bro. The Italian kids I grew up with became cops or ended up in the big house.
-0x0F106283=~z~我懂你，兄弟。和我一起长大的意大利孩子当上了警察或者是在豪宅里度过一生。
+0x0F106283=~z~我懂你，兄弟。和我一起长大的意大利孩子不是成了警察就是住上了大别墅。
 
 ;0x0FD61DD2=~z~That ain't a good idea. Chill out.
 0x0FD61DD2=~z~那可不行。你冷静点。
@@ -87,13 +87,13 @@
 0x10C4C82C=SFX_PAUSE_220
 
 ;0x10FC9716=~z~Lopez! What you doing here, bitch? I thought you was out the game.
-0x10FC9716=~z~Lopez！你这狗逼来干啥呢？我还以为你洗手不干了呢。
+0x10FC9716=~z~Lopez！你这逼咋在这儿呢？你不是洗手不干了吗。
 
 ;0x117E93F3=E2Tm7_TC
 0x117E93F3=E2Tm7_TC
 
 ;0x11BA840D=~z~Of course, man. Let's get the fuck out of here.
-0x11BA840D=~z~那当然，兄弟。咱们快他妈走吧。
+0x11BA840D=~z~那确实，兄弟。快他妈走吧。
 
 ;0x13569F00=E2Tm7_AAC
 0x13569F00=E2Tm7_AAC
@@ -102,16 +102,16 @@
 0x1369965D=SFX_PAUSE_190
 
 ;0x14E20491=~z~No, I'm joking. You look okay... just about.
-0x14E20491=~z~没，我开玩笑呢。你还好吧…应该吧。
+0x14E20491=~z~没，我开玩笑的。你看起来还好...挺好的。
 
 ;0x1512BFEC=~z~Nah, bro. Of course I ain't. I'm implying that you fall into both.
-0x1512BFEC=~z~啊，兄弟。我当然没有了。我是说你两个都占了。
+0x1512BFEC=~z~啊，兄弟。当然没有了。我是说你两个都占了。
 
 ;0x157B7C8F=E2Tm6_LC
 0x157B7C8F=E2Tm6_LC
 
 ;0x160DE525=~z~We having enough trouble maintaining the operation here, Al. I don't think we ready to expand things.
-0x160DE525=~z~保饭碗都够难的了，Al。扩展业务的话就算了。
+0x160DE525=~z~现在保住自由城的店都够呛，Al。不太可能开新店。
 
 ;0x16AF6469=SFX_PAUSE_240
 0x16AF6469=SFX_PAUSE_240
@@ -123,16 +123,16 @@
 0x18818AD6=SFX_PAUSE_240
 
 ;0x1A2F9D3D=~z~I'm on the path, motherfucker. And Al Di Napoli will beat the monkey off his back.
-0x1A2F9D3D=~z~我来了，操你妈的。Al Di Napoli会干翻你们这帮猴子的。
+0x1A2F9D3D=~z~我都在路上了，操你妈的。Al Di Napoli会摆脱困境的。
 
 ;0x1A57E108=~z~Yeah, well... I was, but we had these two Italian dudes in our class.
-0x1A57E108=~z~对，呃…我是有，但我们班有两个意大利老哥。
+0x1A57E108=~z~对，呃...确实是，但我们班有两个意大利人。
 
 ;0x1C31CCA4=SFX_PAUSE_210
 0x1C31CCA4=SFX_PAUSE_210
 
 ;0x1C510E02=~z~Shit, man. I thought this work was subtle - I paid for the "natural look".
-0x1C510E02=~z~妈的，哥们。我还以为这波藏得够深——我打扮得挺「自然」的啊。
+0x1C510E02=~z~妈的，哥们。我藏得不够深吗？专门花钱做的「自然造型」。
 
 ;0x1C720FBF=E2Tm7_AIG
 0x1C720FBF=E2Tm7_AIG
@@ -147,7 +147,7 @@
 0x1DE56CF2=~z~Al，很高兴又见到你了，哥们。
 
 ;0x1EEB7DEA=~z~I'm just a little highly strung right now, L. I'm sorry.
-0x1EEB7DEA=~z~我现在只是有点紧张了，L。不好意思。
+0x1EEB7DEA=~z~是我有点激动了，L。不好意思。
 
 ;0x1F6085A0=E2Tm7_AME
 0x1F6085A0=E2Tm7_AME
@@ -165,10 +165,10 @@
 0x23DE3212=SFX_PAUSE_190
 
 ;0x25437E2F=~z~This thing ain't happening, D . We ran into an issue.
-0x25437E2F=~z~这事还没发生，D。咱有麻烦了。
+0x25437E2F=~z~事情解决不了了，D。这里出问题了。
 
 ;0x2566265F=~z~I'm sorry, bro. It don't look like you getting your shit.
-0x2566265F=~z~不好意思，兄弟。看来你也不像是拿到东西的样子。
+0x2566265F=~z~不好意思，兄弟。看来你拿不了货了。
 
 ;0x25AE65D4=010090100090010
 0x25AE65D4=010090100090010
@@ -183,31 +183,31 @@
 0x270E7EFF=SFX_PAUSE_270
 
 ;0x2BEFD605=~z~Gimme a gun, bro. I wanna pop some of these motherfuckers. I've done it in lots of films.
-0x2BEFD605=~z~给我把枪，兄弟。我要干几个操蛋条子。电影里面我都是这样操作的。
+0x2BEFD605=~z~给我把枪，兄弟。我一枪一个傻逼条子。电影里我经常这么干。
 
 ;0x2C327C82=~z~The motherfucker...
-0x2C327C82=~z~操你妈的…
+0x2C327C82=~z~那个混蛋...
 
 ;0x2C97DE8C=~z~I can't argue with that.
-0x2C97DE8C=~z~我吵不动了。
+0x2C97DE8C=~z~无法反驳。
 
 ;0x2D12EBFA=~z~What you doing in here, bro? I didn't think this was your scene.
-0x2D12EBFA=~z~你在这干啥呢，兄弟？我寻思这不是你待的地方啊。
+0x2D12EBFA=~z~你在这干啥呢，兄弟？这不是你会来的地方吧。
 
 ;0x2D49C4EF=010090100
 0x2D49C4EF=010090100
 
 ;0x2E59D1D0=~z~Fine with me. Enjoy the high life.
-0x2E59D1D0=~z~我也是啊。祝你磕得爽。
+0x2E59D1D0=~z~我都行。祝你嗑得爽。
 
 ;0x2EA13142=E2Tm7_AFC
 0x2EA13142=E2Tm7_AFC
 
 ;0x2F0E01FB=~z~What the producers gonna think if you get arrested on a school night?
-0x2F0E01FB=~z~你要是在学校的晚会上被条子带走，制片人会怎么想？
+0x2F0E01FB=~z~要是你在工作前一天被捕，制片人会怎么想？
 
 ;0x2FB3F8CC=~z~Don't run on my account, L. I can handle some time on the inside.
-0x2FB3F8CC=~z~别带我跑了，L。进去了我会管好自己的。
+0x2FB3F8CC=~z~没必要带我逃跑，L。我不介意蹲几年牢房的。
 
 ;0x2FF16580=SFX_PAUSE_270
 0x2FF16580=SFX_PAUSE_270
@@ -237,7 +237,7 @@
 0x3719DE88=E2Tm7_QA
 
 ;0x37227FE4=~z~Sanity, bro? I'd hate to think what you'd be like somewhere else.
-0x37227FE4=~z~神智清醒，兄弟？我才懒得去想你死哪去，变成啥样。
+0x37227FE4=~z~保持清醒，兄弟？很难想象你在其他地方的情况。
 
 ;0x381A5DE6=SFX_PAUSE_220
 0x381A5DE6=SFX_PAUSE_220
@@ -252,28 +252,28 @@
 0x3A0DA551=SFX_PAUSE_270
 
 ;0x3AA78B11=~z~I hope you ain't implying that I fall into either one of them stereotypes, L.
-0x3AA78B11=~z~希望你不是在暗示我变成了某种老一套的样子，L。
+0x3AA78B11=~z~希望你不是想说我是二者之一，L。
 
 ;0x3AB0DF4E=020090200
 0x3AB0DF4E=020090200
 
 ;0x3AB235BA=~z~The Herc's got some vibe, bro. Those people are real.
-0x3AB235BA=~z~大力神俱乐部很有感觉，兄弟。那些人都很真实。
+0x3AB235BA=~z~大力神才有氛围，兄弟。大家都很真实。
 
 ;0x3C67DF81=~z~Yo, I'm getting some crank off an asshole up here. Can you help me out?
-0x3C67DF81=~z~哟，我把几个疯子惹毛了。你能帮帮我吗？
+0x3C67DF81=~z~哟，我跟人约好在这儿取货。你能帮帮我吗？
 
 ;0x3DA7E7A9=E2Tm7_KB
 0x3DA7E7A9=E2Tm7_KB
 
 ;0x3E8A30C0=~z~I hope it's nothing serious, boss. You take care.
-0x3E8A30C0=~z~希望没事，老大。你多保重。
+0x3E8A30C0=~z~希望没出大事，老板。你多保重。
 
 ;0x3F43D70C=E2Tm7_AJB
 0x3F43D70C=E2Tm7_AJB
 
 ;0x400891B0=~z~I'd be a fucking train wreck, bro. Vice is the only city in the US worth sticking in.
-0x400891B0=~z~真想来场火车事故死了算了，兄弟。罪恶都市是美国唯一值得去的城市了。
+0x400891B0=~z~我就是个废物，兄弟。罪城是美国唯一值得去的城市了。
 
 ;0x40F43A29=302
 0x40F43A29=302
@@ -288,7 +288,7 @@
 0x41DBAFFF=E2Tm7_AKA
 
 ;0x41E1520D=~z~What the fuck? Al Di Napoli can fight.
-0x41E1520D=~z~怎么回事？Al Di Napoli是有两下子的啊。
+0x41E1520D=~z~说啥呢？Al Di Napoli有两下子的。
 
 ;0x41E8453B=E2Tm7_AMD
 0x41E8453B=E2Tm7_AMD
@@ -303,7 +303,7 @@
 0x4429153F=E2Tm7_PA
 
 ;0x44558918=~z~That was before I found "the way".
-0x44558918=~z~我之前找到了「那条路」。
+0x44558918=~z~那是我找到「那条路」之前。
 
 ;0x454825C2=E2Tm7_SG
 0x454825C2=E2Tm7_SG
@@ -321,7 +321,7 @@
 0x47D7E00B=E2Tm7_NA
 
 ;0x48945FDF=~z~Your chances of lasting a round in the cage after a week long meth binge are slim to none. Stick to acting.
-0x48945FDF=~z~嗑药嗨上一周之后你没啥机会能跟别人斗上一回合。老实当演员吧。
+0x48945FDF=~z~嗑药嗨上一周之后，你都没机会跟别人斗上一回合。老实当演员吧。
 
 ;0x48E2A6FA=E2Tm7_ZB
 0x48E2A6FA=E2Tm7_ZB
@@ -330,13 +330,13 @@
 0x4901F89D=E2Tm7_ALB
 
 ;0x49E3DAA6=~z~That was twenty years ago, Al. Things kind of different now.
-0x49E3DAA6=~z~那都二十年前了，Al。现在不一样了。
+0x49E3DAA6=~z~那都是二十年前了，Al。现在不一样了。
 
 ;0x4AD7B1D6=E2Tm7_AEB
 0x4AD7B1D6=E2Tm7_AEB
 
 ;0x4D8FA56A=~z~Fuck. We ain't getting arrested. Let's go!
-0x4D8FA56A=~z~操，咱可不想被逮着了。快跑！
+0x4D8FA56A=~z~操，我们不能被逮着。快跑！
 
 ;0x4E334467=SFX_PAUSE_240
 0x4E334467=SFX_PAUSE_240
@@ -357,7 +357,7 @@
 0x5046ECB5=SFX_PAUSE_210
 
 ;0x507BBF5A=~z~They don't get special treatment, I don't want it neither. Man of the fucking people. That's Al Di Napoli for you.
-0x507BBF5A=~z~他们没被特殊招待，我也不想。滚你妈的操蛋玩意，让你们看看Al Di Napoli的厉害。
+0x507BBF5A=~z~他们没有特殊待遇，我也不想要。与大众打成一片。这就是我Al Di Napoli。
 
 ;0x509F13C4=SFX_PAUSE_290
 0x509F13C4=SFX_PAUSE_290
@@ -387,7 +387,7 @@
 0x577EF16E=200
 
 ;0x5788EF24=~z~What the fuck do you know, man? That shit is hard. And no one said nothing about meth. Fuck you.
-0x5788EF24=~z~你他妈懂个屁？这可难了。都没人说起来药的事情。操你妈的。
+0x5788EF24=~z~你他妈懂个屁？这可难了。谁跟你提吸毒了。操你妈的。
 
 ;0x579DA3E8=E2Tm7_AKG
 0x579DA3E8=E2Tm7_AKG
@@ -405,13 +405,13 @@
 0x59B6ED31=E2Tm7_AKC
 
 ;0x5AC375DC=~z~You get conceited motherfuckers in Hercules too, Al.
-0x5AC375DC=~z~你现在在大力神俱乐部也混得很牛逼是吧，Al。
+0x5AC375DC=~z~大力神也有自以为是的傻逼啊，Al。
 
 ;0x5B1CB6A6=~z~Sometimes it keeps me up at night thinking about them bloody faces, and broken bones I caused.
-0x5B1CB6A6=~z~晚上有时候这东西特提神，让我忘不了我弄的那血淋淋的脸和砸碎的骨头。
+0x5B1CB6A6=~z~想到对手血淋淋的脸和被我打断的骨头，我就睡不好觉。
 
 ;0x5BDA99B8=~z~No, man, a crisis of just about everything else. I'll tell you about it some other time. Guy is deranged.
-0x5BDA99B8=~z~不是性危机，是别的。别的时间再聊吧，这人疯了。
+0x5BDA99B8=~z~不是，是别的危机。改天再告诉你吧，这人疯了。
 
 ;0x5C410BB4=020090200090200
 0x5C410BB4=020090200090200
@@ -432,7 +432,7 @@
 0x5DFDBA05=E2Tm7_ANB
 
 ;0x5EF537DF=~z~That's real nice of you, Al, but my priors are gonna give these guys plenty of shit to throw at me.
-0x5EF537DF=~z~你真好，Al，但我的前科会让这帮人给我很多麻烦。
+0x5EF537DF=~z~你真好，Al。但我有前科，条子不会轻易放过我的。
 
 ;0x5EFBDB23=E2Tm7_QC
 0x5EFBDB23=E2Tm7_QC
@@ -468,7 +468,7 @@
 0x6289B084=SFX_PAUSE_190
 
 ;0x62FEA0C1=~z~Respectfully, I ain't gonna get no implants to make me look like a swollen nut sack.
-0x62FEA0C1=~z~恕我直言，我可不想打肿脸充胖子。
+0x62FEA0C1=~z~恕我直言，我可不想整容整成屌面人。
 
 ;0x634ADFC0=E2Tm7_TK
 0x634ADFC0=E2Tm7_TK
@@ -477,7 +477,7 @@
 0x640F7D50=SFX_PAUSE_290
 
 ;0x64FC6EE9=~z~Yo. Don't over do it, man.
-0x64FC6EE9=~z~哟，别太过分了，哥们。
+0x64FC6EE9=~z~哟，你悠着点，哥们。
 
 ;0x6606BEAB=SFX_PAUSE_220
 0x6606BEAB=SFX_PAUSE_220
@@ -486,13 +486,13 @@
 0x663DDA27=E2Tm7_AHC
 
 ;0x66EF978A=~z~Everyone gotta do this shit now. First step on the comeback road. Make the motherfuckers think you serious.
-0x66EF978A=~z~现在谁不干这行啊。这可是复出之路的第一步，让大家看看你他妈有多认真。
+0x66EF978A=~z~也是不得已而为之啊。这是复出之路的第一步，必须让大家看见你是认真的。
 
 ;0x67FC89D4=E2Tm7_NC
 0x67FC89D4=E2Tm7_NC
 
 ;0x68821159=~z~Yeah, but they're a lot more honest about their drug habits. And the motherfucker don't close!
-0x68821159=~z~是啊，但对于他们的吸毒史，他们诚实多了。这帮操蛋玩意磕起药就停不下来！
+0x68821159=~z~是有，但他们对自己的吸毒史就实诚多了。他们还不躲藏！
 
 ;0x68BA7861=E2Tm7_YB
 0x68BA7861=E2Tm7_YB
@@ -513,7 +513,7 @@
 0x6A5F8214=E2Tm7_VA
 
 ;0x6AEF7441=~z~I don't need looking after, bro. I'm just here to get fucked up with the homos.
-0x6AEF7441=~z~不用照顾我了，兄弟。我跟个基佬来这注定就是要出事的。
+0x6AEF7441=~z~没必要关照我，兄弟。我就是来跟男同喝酒的。
 
 ;0x6B9524FB=SFX_PAUSE_450
 0x6B9524FB=SFX_PAUSE_450
@@ -522,16 +522,16 @@
 0x6C1A0C90=020090200
 
 ;0x6C3BB409=~z~People paid a hundred dollars to see me, they gonna be pissed if I pass out on stage.
-0x6C3BB409=~z~大家一人掏一百块钱来看我演出，我要是上台就晕了，他们会生气的。
+0x6C3BB409=~z~大家花一百块钱看我演出，我要是上台就晕了，他们会生气的。
 
 ;0x6DE880C9=~z~Three days, I think. It's kind of a blur.
-0x6DE880C9=~z~三天啊。我看东西都有点糊了。
+0x6DE880C9=~z~三天吧。我也不太清楚。
 
 ;0x6EA5C628=~z~It don't feel like you found "the way", bro.
 0x6EA5C628=~z~你不像是找到了「那条路」啊，兄弟。
 
 ;0x6EFDEF9A=~z~You live in Vice now, don't you?
-0x6EFDEF9A=~z~你现在干的不就是脏活吗？
+0x6EFDEF9A=~z~你现在是住在罪城吧？
 
 ;0x6FA8F9D4=SFX_PAUSE_120
 0x6FA8F9D4=SFX_PAUSE_120
@@ -579,13 +579,13 @@
 0x796C27E6=SFX_PAUSE_120
 
 ;0x7A78EEE6=~z~We ain't getting caught.
-0x7A78EEE6=~z~咱跑得掉的。
+0x7A78EEE6=~z~绝不能被捕。
 
 ;0x7B0F8D30=SFX_PAUSE_210
 0x7B0F8D30=SFX_PAUSE_210
 
 ;0x7B6158C1=~z~That we do. What was it, boss? Crisis of sexuality?
-0x7B6158C1=~z~那回来吧。都干啥了，老大？遇到性危机了？
+0x7B6158C1=~z~你回来吧。都干啥了，老板？遇到性危机了？
 
 ;0x7B8D517D=010090100
 0x7B8D517D=010090100
@@ -603,7 +603,7 @@
 0x7DE9E9D4=SFX_PAUSE_350
 
 ;0x7EAC5892=~z~I do my best work when I'm three days into a bender. You don't wanna see this shit sober. Believe me.
-0x7EAC5892=~z~磕上几天后再上台节目效果才好，醒过来就没意思了，信我吧。
+0x7EAC5892=~z~大了以后再上台效果才好。清醒了反而演得没意思，相信我。
 
 ;0x80106189=E2Tm7_APA
 0x80106189=E2Tm7_APA
@@ -612,7 +612,7 @@
 0x802C3B64=E2Tm7_WA
 
 ;0x8049D5F2=~z~You start doing weird shit when you get old, bro. Real weird shit.
-0x8049D5F2=~z~你老年痴呆犯糊涂了吧，兄弟。真的搞不懂。
+0x8049D5F2=~z~年纪大了就会做一些奇怪的事，兄弟。真的很怪。
 
 ;0x81575565=E2Tm6_LB
 0x81575565=E2Tm6_LB
@@ -621,7 +621,7 @@
 0x82181A26=SFX_PAUSE_350
 
 ;0x83B12ECA=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
-0x83B12ECA=~z~妈的老大，我手头上这事不太对劲。我得低调点了。咱晚点聊。
+0x83B12ECA=~z~妈的，老板，这事不对劲啊。最近避避风头，咱晚点聊。
 
 ;0x84723540=E2Tm1_FA
 0x84723540=E2Tm1_FA
@@ -630,19 +630,19 @@
 0x870023AE=E2Tm7_AEA
 
 ;0x87991A53=~z~Big Al's a legend, L. Have fun.
-0x87991A53=~z~Al大哥是个传奇，L。嗨起来吧。
+0x87991A53=~z~Al大哥是个传奇，L。玩得开心。
 
 ;0x89BF6F10=~z~Then I'm gonna have to go looking for other sources, L.
-0x89BF6F10=~z~那我得找看看其他的货源了，L。
+0x89BF6F10=~z~那我只能找新的货源了，L。
 
 ;0x8A0AB7F3=~z~Fuck the producers, man. They can stick my "scale" paycheck up their asses.
-0x8A0AB7F3=~z~操他妈的制片人，他们会把我买药的支票贴屁股上。
+0x8A0AB7F3=~z~操他妈的制片人。他们可以把我的底薪支票贴自己屁股上。
 
 ;0x8A76B0F6=SFX_PAUSE_350
 0x8A76B0F6=SFX_PAUSE_350
 
 ;0x8AB1A6FD=~z~I went for tax reasons and stayed for my sanity.
-0x8AB1A6FD=~z~我得交税啊，还得保持清醒。
+0x8AB1A6FD=~z~我因为税务原因过去的，在那儿还能保持清醒。
 
 ;0x8AC00B2C=SFX_PAUSE_190
 0x8AC00B2C=SFX_PAUSE_190
@@ -654,16 +654,16 @@
 0x8B764E56=E2Tm7_TH
 
 ;0x8BF6D842=~z~That's what makes it a spiritual home for degenerates.
-0x8BF6D842=~z~这就是为什么它成为了废物们的精神家园。
+0x8BF6D842=~z~所以那里成为了社会败类的精神家园。
 
 ;0x8D0F7AAD=~z~You were uptown buying some shit and they busted us.
-0x8D0F7AAD=~z~你来城外买点药，然后他们来逮咱们。
+0x8D0F7AAD=~z~你来城外进货，被他们盯上了。
 
 ;0x8D9DF6D4=E2Tm7_AOC
 0x8D9DF6D4=E2Tm7_AOC
 
 ;0x8E08716F=~z~You a characterful dude, Al. You don't need to do that to your face.
-0x8E08716F=~z~你这人挺有个性，Al。没必要当面那样子。
+0x8E08716F=~z~你这人很有特色，Al。没必要在脸上动刀子。
 
 ;0x8E4DEE16=SFX_PAUSE_170
 0x8E4DEE16=SFX_PAUSE_170
@@ -681,13 +681,13 @@
 0x90E23B5A=E2Tm1_GB
 
 ;0x910629B1=~z~Blood suckin' cocksuckers and their eight shows a week. Slaves work less than me.
-0x910629B1=~z~一周演出八次，这帮狗逼玩意真能榨干人。我比奴隶还辛苦。
+0x910629B1=~z~不当人的吸血鬼，一周要演八场戏。我比奴隶还辛苦。
 
 ;0x929D4A32=~z~Day before the day before yesterday I was banging some girl then I'm here and, shit, I don't know.
-0x929D4A32=~z~大前天我在这跟几个女的操逼，然后，妈的，不记得了。
+0x929D4A32=~z~大前天我跟哪个姑娘干了一炮，然后去了夜店，然后...妈的，不记得了。
 
 ;0x92B68909=~z~Can you give me a ride up to Vespucci U, my brother.
-0x92B68909=~z~好兄弟，能送我去Vespucci大学吗？
+0x92B68909=~z~能送我去Vespucci大学吗，好兄弟？
 
 ;0x930E2665=E2Tm7_ANA
 0x930E2665=E2Tm7_ANA
@@ -696,13 +696,13 @@
 0x9510CD1F=E2Tm7_AEC
 
 ;0x9579205A=~z~Five years at the top of my game - any girl, any guy, any cat, any dog, all the drugs I could take.
-0x9579205A=~z~五年前我风光的时候，妹子，兄弟，毒品，杂七杂八的，我啥都有。
+0x9579205A=~z~我在业内风光了五年，妹子、兄弟、阿猫、阿狗，还有各种毒品。
 
 ;0x962EC21E=~z~I heard it was just old retired fraudsters and plastic party people.
-0x962EC21E=~z~我听说来这聚会的只有退休的老诈骗犯和伪君子。
+0x962EC21E=~z~听说那里都是退休的老诈骗犯和伪君子。
 
 ;0x96D58FA9=~z~I've dealt with that Big Al thing. You need me back?
-0x96D58FA9=~z~Al大哥这边忙完了。你要我回去吗？
+0x96D58FA9=~z~Al大哥这边忙完了。需要我回去吗？
 
 ;0x96E13CD2=SFX_PAUSE_210
 0x96E13CD2=SFX_PAUSE_210
@@ -714,13 +714,13 @@
 0x99201285=E2Tm1_IB
 
 ;0x9959DC8E=~z~Alright, L. Let's fucking do it.
-0x9959DC8E=~z~好嘞，L。咱们开始吧。
+0x9959DC8E=~z~好了，L。咱们开始吧。
 
 ;0x999FF709=SFX_PAUSE_170
 0x999FF709=SFX_PAUSE_170
 
 ;0x99F13E30=~z~We got to get out of here. Come on!
-0x99F13E30=~z~咱得走了。快点！
+0x99F13E30=~z~咱们得走了。快点！
 
 ;0x9A09F7D1=SFX_PAUSE_370
 0x9A09F7D1=SFX_PAUSE_370
@@ -729,10 +729,10 @@
 0x9AFE48D4=E2Tm7_AJK
 
 ;0x9EF23354=~z~Yeah, well. I'm amazed you alive then.
-0x9EF23354=~z~对啊，很惊讶看到你们还活着。
+0x9EF23354=~z~是吗，你还活着真是一个奇迹。
 
 ;0xA06E8AA4=~z~Think of this as research, bro. You can use this the next time you play a criminal.
-0xA06E8AA4=~z~今天这出学到了吧，兄弟。下次你演罪犯的话就试试看吧。
+0xA06E8AA4=~z~今天就当是采风了，兄弟。作为以后扮演罪犯的经验。
 
 ;0xA0B1A5A7=010090100
 0xA0B1A5A7=010090100
@@ -747,10 +747,10 @@
 0xA2241F6D=E2Tm7_AAB
 
 ;0xA2BA574B=~z~No one parties like a bunch of homos, L. They've got it down.
-0xA2BA574B=~z~没人要跟一帮基佬聚会，L。他们嗨不起来。
+0xA2BA574B=~z~男同派对可是人间一绝，L。别有情调。
 
 ;0xA3959CCA=~z~Later, bro.
-0xA3959CCA=~z~再见了，兄弟。
+0xA3959CCA=~z~回见，兄弟。
 
 ;0xA692BEF5=E2Tm7_AMJ
 0xA692BEF5=E2Tm7_AMJ
@@ -762,16 +762,16 @@
 0xA6CC24EE=SFX_PAUSE_220
 
 ;0xA768B824=~z~The days of assistants are long gone for me. I'm a fighter, man. I'll die on the streets.
-0xA768B824=~z~有人打下手的日子是历史了。现在我是个战士，哥们。死也要死在街头。
+0xA768B824=~z~我早没有助理了。我现在是战士，哥们。死也要死在街头。
 
 ;0xA8657832=~z~Coño. I knew I shouldn't have gone on that run, bro.
-0xA8657832=~z~妈的，我就知道今天不该跑这趟的，兄弟。
+0xA8657832=~z~妈的，我就知道不该跑这趟的。
 
 ;0xA922C569=E2Tm7_TB
 0xA922C569=E2Tm7_TB
 
 ;0xA96C3366=~z~What's happening? Why are the cops after us?
-0xA96C3366=~z~咋的了？为啥条子追着咱们？
+0xA96C3366=~z~怎么回事？为啥条子追着咱们？
 
 ;0xAA6B8A3F=E2Tm7_XA
 0xAA6B8A3F=E2Tm7_XA
@@ -798,7 +798,7 @@
 0xAF2247C4=E2Tm7_LA
 
 ;0xAF24AC35=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
-0xAF24AC35=~z~事情不太按计划出牌啊，Dess。你懂我意思吧？
+0xAF24AC35=~z~这边事情不太顺利，Dess。懂我意思吧？
 
 ;0xAF50D5A2=SFX_PAUSE_210
 0xAF50D5A2=SFX_PAUSE_210
@@ -828,22 +828,22 @@
 0xB170BCB8=E2Tm7_AJC
 
 ;0xB1C0BC50=~z~No problem, boss.
-0xB1C0BC50=~z~没问题，老大。
+0xB1C0BC50=~z~没问题，老板。
 
 ;0xB1E38D8D=~z~There he is. Let's get the fuck out of here.
-0xB1E38D8D=~z~他在那。咱们快他妈走吧。
+0xB1E38D8D=~z~他来了。咱们赶紧走吧。
 
 ;0xB251BFDC=~z~Thanks a lot, bro. I'll call you in a few days in advance so you can sober up for the performance.
 0xB251BFDC=~z~那多谢了，兄弟。过几天我提前给你打电话，好让你清醒下准备演出。
 
 ;0xB2F92607=~z~Yo. We cool.
-0xB2F92607=~z~Yo. We cool.
+0xB2F92607=~z~哟，没事的。
 
 ;0xB3ABA464=~z~Sounds ominous, bro. I'll check it out.
 0xB3ABA464=~z~感觉没啥好事，兄弟。我去看看吧。
 
 ;0xB44BF3D0=~z~Have a good time at Hercules, boss.
-0xB44BF3D0=~z~祝你在大力神玩得开心，老大。
+0xB44BF3D0=~z~祝你在大力神玩得开心，老板。
 
 ;0xB4B1A927=SFX_PAUSE_310
 0xB4B1A927=SFX_PAUSE_310
@@ -852,7 +852,7 @@
 0xB5736523=020090200090200
 
 ;0xB659190C=~z~Okay, bro. That explains it.
-0xB659190C=~z~好了，兄弟。解释得通了。
+0xB659190C=~z~好的，兄弟。这下明白了。
 
 ;0xB6868334=020090200090200
 0xB6868334=020090200090200
@@ -864,16 +864,16 @@
 0xB774DE0A=E2Tm7_SB
 
 ;0xB79B2F8A=~z~When's the last time you were alowed to buy poppers and a beer at 9am?
-0xB79B2F8A=~z~你上次早上九点出来买催情药和酒是哪天来着？
+0xB79B2F8A=~z~上次能白天九点出来买毒品和酒是多久以前了？
 
 ;0xB891AA2E=~z~Bro, when are you and Tony gonna expand the operation to Vice? We need you down there.
-0xB891AA2E=~z~兄弟，你跟Tony啥时候扩展下业务，干干脏活？咱需要你来干这个。
+0xB891AA2E=~z~兄弟，你跟Tony啥时候到罪城开店？那里需要你们。
 
 ;0xB89A2F71=E2Tm7_RA
 0xB89A2F71=E2Tm7_RA
 
 ;0xB8DCC758=~z~I'll let you know what's happening.
-0xB8DCC758=~z~我让你看看都出了啥事。
+0xB8DCC758=~z~我会告诉你具体情况的。
 
 ;0xB8E8F852=SFX_PAUSE_190
 0xB8E8F852=SFX_PAUSE_190
@@ -885,7 +885,7 @@
 0xBA1C8B70=E2Tm7_OA
 
 ;0xBB37F6DF=~z~You into fighting, L, or is that some bullshit I heard.
-0xBB37F6DF=~z~你是想打架还是咋的，L。
+0xBB37F6DF=~z~你在打架赚钱吗，L，还是说这是谣言？
 
 ;0xBBCE8FBD=SFX_PAUSE_400
 0xBBCE8FBD=SFX_PAUSE_400
@@ -900,10 +900,10 @@
 0xBCC06405=E2Tm7_AAA
 
 ;0xBCCA435B=~z~It ain't the first time I've run from the cops, L. Fuckers been on me forever. Watching me sleep and stuff.
-0xBCCA435B=~z~这也不是头一次跑路了，L。这帮操蛋玩意天天盯着我睡觉干活。
+0xBCCA435B=~z~我也不是头一次被条子追了，L。条子一直都盯着我，睡觉都要监视。
 
 ;0xBD71492B=~z~Kickboxing.
-0xBD71492B=~z~跆拳道。
+0xBD71492B=~z~打拳击。
 
 ;0xBF12A204=SFX_PAUSE_220
 0xBF12A204=SFX_PAUSE_220
@@ -912,7 +912,7 @@
 0xBF1ACC4A=100
 
 ;0xBF4F740E=~z~So am I. But Al Di Napoli he's a street fighter. That's his thing. Fighting the streets.
-0xBF4F740E=~z~我也是啊。但Al Di Napoli是个街头战士。在街头战斗，那是他的事业。
+0xBF4F740E=~z~我也觉得。但Al Di Napoli是个街头战士。在街头战斗，那是他的事业。
 
 ;0xC06C7764=E2Tm7_UA
 0xC06C7764=E2Tm7_UA
@@ -927,19 +927,19 @@
 0xC35764CF=SFX_PAUSE_150
 
 ;0xC43FA1E5=~z~Yeah, well, I can't. We're running.
-0xC43FA1E5=~z~呃，这，不行。跑都跑了。
+0xC43FA1E5=~z~是吗，我介意。先跑再说。
 
 ;0xC46CC92D=~z~The old Liberty City will be dead soon.
 0xC46CC92D=~z~老朽的自由城就要死去了。
 
 ;0xC4806C9C=~z~Yo, man, you got to take me up to Vespucci University.
-0xC4806C9C=~z~哟，哥们。你带我去Vespucci大学就对了。
+0xC4806C9C=~z~哟，哥们。麻烦带我去Vespucci大学。
 
 ;0xC4F46521=~z~Thank you very much, my brother. There's a comp on the door whenever you want it.
-0xC4F46521=~z~太谢谢你了，好兄弟。门边有入场券，啥时想来都行。
+0xC4F46521=~z~太谢谢你了，好兄弟。给你张入场券，随时可以来看。
 
 ;0xC6AD3B37=~z~You ain't gonna shoot no celebrity.
-0xC6AD3B37=~z~我是大明星，别开枪打我。
+0xC6AD3B37=~z~别想着打名人的主意。
 
 ;0xC71A215E=E2Tm7_AHA
 0xC71A215E=E2Tm7_AHA
@@ -960,25 +960,25 @@
 0xCA3B9595=200090020
 
 ;0xCA558A12=~z~He's meant to exercise some self-restraint.
-0xCA558A12=~z~他得锻炼下自制力。
+0xCA558A12=~z~可以去锻炼下自制力。
 
 ;0xCA79DEA1=~z~I didn't even think you were a theater actor, Al.
-0xCA79DEA1=~z~我可没觉得你是戏剧演员，Al。
+0xCA79DEA1=~z~我都不知道你会去演话剧，Al。
 
 ;0xCA838663=020
 0xCA838663=020
 
 ;0xCAFD6637=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
-0xCAFD6637=~z~嘿兄弟，我手头上这事不太对劲。我得低调一阵子了。
+0xCAFD6637=~z~嘿兄弟。这次的事不太对劲。我要避会儿风头了。
 
 ;0xCBC70CAC=~z~Oscar Gomez! That you, motherfucker? Shit, bro, I'd love to stay and catch up, but we need to pick up and go.
-0xCBC70CAC=~z~Oscar Gomez！是你啊？操你妈的。妈的，兄弟，我也想好好呆会寒暄两句，但咱得赶紧拿货走人。
+0xCBC70CAC=~z~Oscar Gomez！是你啊，你妈逼的？妈的，兄弟，我也想跟你多聊几句，但咱得赶紧拿货走人。
 
 ;0xCC0576C3=E2Tm7_ABC
 0xCC0576C3=E2Tm7_ABC
 
 ;0xCC265CB0=~z~How'd you know that dealer, L? You got the hook up?
-0xCC265CB0=~z~你怎么也认识那帮毒贩，L？你们有往来吗？
+0xCC265CB0=~z~你咋认识那个毒贩，L？你俩有往来？
 
 ;0xCC69BB5A=E2Tm7_WB
 0xCC69BB5A=E2Tm7_WB
@@ -990,25 +990,25 @@
 0xCD6037BC=E2Tm7_AIB
 
 ;0xCE10A177=~z~I'd heard you were over here doing a play or something? We thought we might see you at Maisonette.
-0xCE10A177=~z~听说你是来演戏的？咱们应该是在9号豪宅见面才对啊。
+0xCE10A177=~z~听说你是来自由城演戏的？我还以为你会来9号豪宅。
 
 ;0xCEDA8468=~z~No problem, man. Let me handle it.
-0xCEDA8468=~z~没事，哥们。我来接手。
+0xCEDA8468=~z~没问题，哥们。我帮你。
 
 ;0xCF453F1D=SFX_PAUSE_380
 0xCF453F1D=SFX_PAUSE_380
 
 ;0xCFD3EDF0=~z~Yo, where was I?
-0xCFD3EDF0=~z~哟，我这是在哪？
+0xCFD3EDF0=~z~哟，刚才说到哪了？
 
 ;0xD012B1C2=~z~None of the Los Santos bullshit, or the Liberty neuroses. It's fucking pure.
-0xD012B1C2=~z~不是洛圣都的狗逼玩意，也不是自由城的神经病。这他妈纯得很。
+0xD012B1C2=~z~没洛圣都那么扯淡，也没自由城这么神经。巨他妈纯。
 
 ;0xD0E486B0=E2Tm7_ALC
 0xD0E486B0=E2Tm7_ALC
 
 ;0xD3A0752C=~z~Shit, L. Okay. I'll get on damage control.
-0xD3A0752C=~z~妈的，L。好吧。我会及时止损的。
+0xD3A0752C=~z~妈的，L。好吧，止损的事我来。
 
 ;0xD3C1B29B=E2Tm7_SF
 0xD3C1B29B=E2Tm7_SF
@@ -1029,13 +1029,13 @@
 0xD88DCB2E=SFX_PAUSE_130
 
 ;0xD8DA0000=~z~Yeah. It's a good thing that mixed arts martial shit wasn't popular in my time. I woulda gone pro, man. I woulda.
-0xD8DA0000=~z~对。还好我那个时候不流行综合格斗。我会成为职业选手的。我会的。
+0xD8DA0000=~z~对。还好我那个时候不流行综合格斗。否则我就是职业选手了，职业的。
 
 ;0xDA0D61F7=~z~You bad luck, Lopez.
 0xDA0D61F7=~z~你太衰了，Lopez。
 
 ;0xDA72D9DC=~z~Oye, how long you been up for? You seem kind of wired.
-0xDA72D9DC=~z~噢，你嗨了多久啊？人看起来不太妙啊。
+0xDA72D9DC=~z~喂，你嗨了多久啊？看起来有点上头了。
 
 ;0xDB909869=E2Tm1_HB
 0xDB909869=E2Tm1_HB
@@ -1050,7 +1050,7 @@
 0xDD27793A=E2Tm7_ALG
 
 ;0xDE3CBCE8=~z~I can't tell no more what's true and what stuff I made up in my head. Man, I am fried right now.
-0xDE3CBCE8=~z~我现在已经分不清真假了。天哪，我要炸了。
+0xDE3CBCE8=~z~我已经分不清哪些是真的，哪些是臆想的了。天哪，我要炸了。
 
 ;0xDE690941=E2Tm7_UC
 0xDE690941=E2Tm7_UC
@@ -1059,7 +1059,7 @@
 0xDE8AD1C6=E2Tm7_TI
 
 ;0xDF6785AF=~z~Shit. There was a time police wouldn't go above Topaz Street. What's happened to LC?
-0xDF6785AF=~z~妈的，警察这个时候不会来Topez街的啊。自由城怎么了？
+0xDF6785AF=~z~妈的，当年警察不会来Topez街以北的啊。自由城怎么了？
 
 ;0xDFBD9270=E2Tm7_ACA
 0xDFBD9270=E2Tm7_ACA
@@ -1071,7 +1071,7 @@
 0xE072564E=E2Tm7_AHB
 
 ;0xE0D87EBD=~z~I don't know what he's doing. But he wants you to be doing it with him.
-0xE0D87EBD=~z~我也不懂他来干啥，但他就是叫你过去找他。
+0xE0D87EBD=~z~我也不知道他来干啥，但他就是叫你过去找他。
 
 ;0xE1C28DB4=E2Tm7_UB
 0xE1C28DB4=E2Tm7_UB
@@ -1080,7 +1080,7 @@
 0xE2266F72=SFX_PAUSE_270
 
 ;0xE2391F34=~z~It's all part of the passage of life, my brother. You'll see. It's kind of beautiful.
-0xE2391F34=~z~我这辈子就这样了，好兄弟。看到了吧，挺美好的。
+0xE2391F34=~z~这都是人生的一部分，好兄弟。你会懂的。也是一种美。
 
 ;0xE24C2B6F=SFX_PAUSE_220
 0xE24C2B6F=SFX_PAUSE_220
@@ -1092,7 +1092,7 @@
 0xE491B25E=E2Tm7_ALA
 
 ;0xE5590F15=~z~Yo, man, I heard you was from some affluent Jewish neighborhood.
-0xE5590F15=~z~嘿，哥们，我听说你来自富裕的犹太社区。
+0xE5590F15=~z~哟，哥们，你不是来自富裕的犹太社区吗？
 
 ;0xE65D80DB=E2Tm7_TF
 0xE65D80DB=E2Tm7_TF
@@ -1110,7 +1110,7 @@
 0xEAFCBED2=200090020200
 
 ;0xEB157497=~z~You should tell me if you coming down to Herc, bro. I could have you looked after.
-0xEB157497=~z~你来大力神俱乐部咋不跟我说一声呢，兄弟。我可以来关照关照你啊。
+0xEB157497=~z~你来大力神咋不跟我说一声呢，兄弟。我还能过来关照你。
 
 ;0xEB8C3628=SFX_PAUSE_140
 0xEB8C3628=SFX_PAUSE_140
@@ -1119,52 +1119,52 @@
 0xEB945523=SFX_PAUSE_170
 
 ;0xEC20CDA8=~z~Come on, brother. I wouldn't be here if I had self-restraint.
-0xEC20CDA8=~z~来吧，兄弟。但凡我有点自制力，都不会来这种地方。
+0xEC20CDA8=~z~得了吧，兄弟。我要是有自制力就不会有今天。
 
 ;0xED277E31=SFX_PAUSE_240
 0xED277E31=SFX_PAUSE_240
 
 ;0xEE12C577=~z~What's the deal with this shit, Al? Ain't you got an assistant to buy drugs for you?
-0xEE12C577=~z~搞什么啊，Al？你没有助手帮你买药的吗？
+0xEE12C577=~z~搞什么啊，Al？没有帮你拿货的助理吗？
 
 ;0xEE98F5C0=SFX_PAUSE_190
 0xEE98F5C0=SFX_PAUSE_190
 
 ;0xEF6E2F1C=~z~Okay, boss. Anyone asks, I ain't seen you.
-0xEF6E2F1C=~z~好的，老大。有人问起来的话我就说没见过你。
+0xEF6E2F1C=~z~好的，老板。有人问起来我就说没见过你。
 
 ;0xEF9B28E3=~z~I'm sorry, bro. Theater ain't usually my thing. This play any good?
-0xEF9B28E3=~z~不好意思，兄弟。看剧一般不关我事。有啥好看的？
+0xEF9B28E3=~z~不好意思，兄弟。我不怎么去剧院的。这场戏好看吗？
 
 ;0xF1363D98=E2Tm1_HA
 0xF1363D98=E2Tm1_HA
 
 ;0xF1733843=~z~fisting yourself, dammit. Al's done his time in Hotel Batshit Crazy.
-0xF1733843=~z~给自己一拳吧，妈的。Al要在酒店里嗨。
+0xF1733843=~z~甚至给自己一拳，妈的。Al一直都是这种疯疯癫癫的状态。
 
 ;0xF17E5201=020
 0xF17E5201=020
 
 ;0xF25BB9FC=~z~And sometimes, just sometimes,
-0xF25BB9FC=~z~有时候，只是有时候。
+0xF25BB9FC=~z~偶尔，我是说偶尔，
 
 ;0xF3233791=E2Tm7_AJI
 0xF3233791=E2Tm7_AJI
 
 ;0xF3BBEF1B=~z~You gonna be alright.
-0xF3BBEF1B=~z~你会没事的。
+0xF3BBEF1B=~z~你会成功的。
 
 ;0xF3DC1DD7=E2Tm7_TE
 0xF3DC1DD7=E2Tm7_TE
 
 ;0xF409C101=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
-0xF409C101=~z~哟，D，事情有点搞砸了，哥们。你能罩罩我吗？
+0xF409C101=~z~哟，D。事情有点搞砸了，哥们。你能帮我瞒过去吗？
 
 ;0xF4C8856E=020090200090020
 0xF4C8856E=020090200090020
 
 ;0xF526B3F6=~z~Why ain't you come to see me at the theater, yet?
-0xF526B3F6=~z~你怎么还不来剧院看看我呢？
+0xF526B3F6=~z~你咋还不来剧院看我演出？
 
 ;0xF53380AF=SFX_PAUSE_210
 0xF53380AF=SFX_PAUSE_210
@@ -1176,7 +1176,7 @@
 0xF61CB2A2=E2Tm6_LA
 
 ;0xF6429065=~z~I'm a nominee. Al Di Napoli is somebody.
-0xF6429065=~z~我是被提名人。Al Di Napoli是个大人物。
+0xF6429065=~z~我是候选人。Al Di Napoli是个大人物。
 
 ;0xF7BEB84C=SFX_PAUSE_190
 0xF7BEB84C=SFX_PAUSE_190
@@ -1194,16 +1194,16 @@
 0xFA5EB4D1=~z~不好意思，兄弟。我不是故意的。
 
 ;0xFA7999E5=~z~You're the motherfuckers who keep the club open 24. What's a man meant to do if he don't get kicked out a place?
-0xFA7999E5=~z~你他妈得保持俱乐部24小时正常运转。要是不赶出去的话，谁知道他会干出啥来？
+0xFA7999E5=~z~你们夜店24小时不打烊怪我喽。不把我赶出来，我不待在店里还去哪？
 
 ;0xFC3C8B41=E2Tm1_GA
 0xFC3C8B41=E2Tm1_GA
 
 ;0xFC4D46E6=~z~You don't wanna be no cage fighter, Al.
-0xFC4D46E6=~z~你可不想去打地下拳击吧，Al。
+0xFC4D46E6=~z~打地下格斗可不是好事，Al。
 
 ;0xFC933632=~z~What's Al doing at Hercules? He ain't gay.
-0xFC933632=~z~Al在大力神干啥？他可不是基佬啊。
+0xFC933632=~z~Al在大力神干啥？他不是基佬吧。
 
 ;0xFCC23AA3=E2Tm7_ALH
 0xFCC23AA3=E2Tm7_ALH
@@ -1215,16 +1215,16 @@
 0xFCF010C6=E2Tm7_VG
 
 ;0xFD51FB12=~z~It's true. Well, was true, at least. I don't take it too serious now.
-0xFD51FB12=~z~真的啊，真的。至少是这样。我现在不那么上心了。
+0xFD51FB12=~z~是有这事。打过一段时间。现在不那么上心了。
 
 ;0xFDA8D613=~z~you go to a doctor and tell him you'll pay him anything to make you look like you did two decades ago.
-0xFDA8D613=~z~你去找医生，跟他说把你搞成像坐牢了二十年的样子，多少钱都行。
+0xFDA8D613=~z~你还会去找医生，让他把你整成年轻二十岁的脸，多少钱都行。
 
 ;0xFE2900D0=E2Tm7_AOA
 0xFE2900D0=E2Tm7_AOA
 
 ;0xFE4A01F1=~z~No offence, L, but that place ain't my scene no more. Fucking stuck up pieces of shit in there.
-0xFE4A01F1=~z~确实不是故意的，L，但那地方可不是我待的，在那我就像一坨粘在那的狗屎。
+0xFE4A01F1=~z~恕我直言，L，但我已经厌倦豪宅了。净是些自以为是的臭傻逼。
 
 ;0xFFD7A271=SFX_PAUSE_380
 0xFFD7A271=SFX_PAUSE_380
