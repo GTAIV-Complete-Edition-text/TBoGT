@@ -1,124 +1,123 @@
-﻿[FIGHTC]
+[FIGHTC]
 ;0x0388A2F5=Here comes a new Challenger.
-0x0388A2F5=Here comes a new Challenger.
+0x0388A2F5=新的挑战者来了。
 
 ;0x08AB303D=3rd Round
-0x08AB303D=3rd Round
+0x08AB303D=第3轮
 
 ;0x0B0E3945=Here come new Challengers.
-0x0B0E3945=Here come new Challengers.
+0x0B0E3945=新的挑战者来了。
 
 ;0x0C2813D8=If the crowd sides with you, in can help out in a tight spot.
-0x0C2813D8=If the crowd sides with you, in can help out in a tight spot.
+0x0C2813D8=如果观众站在你这边，他们或许能在关键时刻帮到你。
 
 ;0x151E9404=~s~Press ~INPUT_FRONTEND_X~ to compete ~r~-$100~s~.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate.~n~Press ~INPUT_PICKUP~ to quit.
-0x151E9404=~s~Press ~INPUT_FRONTEND_X~ to compete ~r~-$100~s~.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate.~n~Press ~INPUT_PICKUP~ to quit.
+0x151E9404=~s~按下~INPUT_FRONTEND_X~参加比赛~r~-$100~s~.~n~按下~INPUT_FRONTEND_CANCEL~旁观~n~按下~INPUT_PICKUP~退出
 
 ;0x165487E3=~s~Bet costs ~r~$~1~.
-0x165487E3=~s~Bet costs ~r~$~1~.
+0x165487E3=~s~投注~r~$~1~.
 
 ;0x1E3A5B5B=2nd Round
-0x1E3A5B5B=2nd Round
+0x1E3A5B5B=第2轮
 
 ;0x2D1DF922=5th Round
-0x2D1DF922=5th Round
+0x2D1DF922=第5轮
 
 ;0x31697E82=~s~Hope you brought your money.
-0x31697E82=~s~Hope you brought your money.
+0x31697E82=~s~希望你带足了钱。
 
 ;0x3F659DB1=4th Round
-0x3F659DB1=4th Round
+0x3F659DB1=第4轮
 
-;0x40B13F69=~s~Press ~INPUT_FRONTEND_X~ to compete.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.
-0x40B13F69=~s~Press ~INPUT_FRONTEND_X~ to compete.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.
+;0x40B13F69=~s~按下INPUT_FRONTEND_X~ to compete. ~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.
+0x40B13F69=~s~按下~ INPUT_FRONTEND_X~参加比赛~n~按下~ INPUT_FRONTEND_CANCEL~旁观~r~-$50~s~.~n~按下 ~INPUT_PICKUP~退出
 
 ;0x428DCD34=The Crowd goes wild.
-0x428DCD34=The Crowd goes wild.
+0x428DCD34=观众们变得疯狂了。
 
 ;0x44ED15BF=~s~Well done. You are the L.C. Cage Fighter champion.
-0x44ED15BF=~s~Well done. You are the L.C. Cage Fighter champion.
+0x44ED15BF=~s~干得漂亮。你是自由城笼中格斗之王。
 
 ;0x45227017=~s~Your fighter wins.
-0x45227017=~s~Your fighter wins.
+0x45227017=~s~你赌的斗士胜利了。
 
 ;0x53D3468C=Final
-0x53D3468C=Final
+0x53D3468C=最后一轮
 
 ;0x56C9DC6E=~s~Bet costs ~r~$~1~.~s~~n~Press ~INPUT_FRONTEND_CANCEL~ to back the right fighter ~g~+$~1~.~s~~n~Press ~INPUT_FRONTEND_X~ to back the left fighter ~g~+$~1~.~s~
-0x56C9DC6E=~s~Bet costs ~r~$~1~.~s~~n~Press ~INPUT_FRONTEND_CANCEL~ to back the right fighter ~g~+$~1~.~s~~n~Press ~INPUT_FRONTEND_X~ to back the left fighter ~g~+$~1~.~s~
+0x56C9DC6E=~s~下注~r~$~1~.~s~~n~按下~INPUT_FRONTEND_CANCEL~在右边的斗士身上下注~g~+$~1~.~s~~n~按下~INPUT_FRONTEND_X~在左边的斗士身上下注~g~+$~1~.~s~
 
 ;0x5C677277=~s~Press ~INPUT_KB_RIGHT~ to back the right fighter.~s~~n~Press ~INPUT_KB_LEFT~ to back the left fighter.~s~
-0x5C677277=~s~Press ~INPUT_KB_RIGHT~ to back the right fighter.~s~~n~Press ~INPUT_KB_LEFT~ to back the left fighter.~s~
+0x5C677277=~s~按下 ~INPUT_KB_RIGHT~ 在右边的斗士身上下注~s~~n~按下 ~INPUT_KB_LEFT~ 在左边的斗士身上下注~s~
 
 ;0x67ACB233=~s~Your fighter loses.
-0x67ACB233=~s~Your fighter loses.
+0x67ACB233=~s~你赌的斗士输了。
 
 ;0x6E46F7AA=~s~Finished a draw.
-0x6E46F7AA=~s~Finished a draw.
+0x6E46F7AA=~s~打成平局。
 
 ;0x75C1C813=~s~Don't die now.
-0x75C1C813=~s~Don't die now.
+0x75C1C813=~s~现在可别死啊。
 
 ;0x77A247E6=Try showboating by pressing ~INPUT_ZOOM_RADAR~ or perform counters.
-0x77A247E6=Try showboating by pressing ~INPUT_ZOOM_RADAR~ or perform counters.
+0x77A247E6=按下~INPUT_ZOOM_RADAR~来试着炫耀或展示你的筹码。
 
 ;0x802FFB8C=~s~Use ~PAD_LSTICK_UPDOWN~ to adjust your bet.~n~Press ~INPUT_FRONTEND_ACCEPT~ to place bet.~n~Press ~INPUT_PICKUP~ to quit.
-0x802FFB8C=~s~Use ~PAD_LSTICK_UPDOWN~ to adjust your bet.~n~Press ~INPUT_FRONTEND_ACCEPT~ to place bet.~n~Press ~INPUT_PICKUP~ to quit.
+0x802FFB8C=~s~使用~PAD_LSTICK_UPDOWN~来调整你的赌注~n~按下 ~INPUT_FRONTEND_ACCEPT~下注~n~按下 ~INPUT_PICKUP~退出
 
 ;0x84F4BE88=~s~Use ~INPUT_FRONTEND_AXIS_Y~ to adjust your bet.~n~Press ~INPUT_FRONTEND_ACCEPT~ to place bet.~n~Press ~INPUT_PICKUP~ to quit.
-0x84F4BE88=~s~Use ~INPUT_FRONTEND_AXIS_Y~ to adjust your bet.~n~Press ~INPUT_FRONTEND_ACCEPT~ to place bet.~n~Press ~INPUT_PICKUP~ to quit.
+0x84F4BE88=~s~使用 ~INPUT_FRONTEND_AXIS_Y~来调整你的赌注~n~按下 ~INPUT_FRONTEND_ACCEPT~下注~n~按下 ~INPUT_PICKUP~退出
 
 ;0x8B9AFCC8=Try showboating by pressing ~INPUT_COVER~ or perform counters.
-0x8B9AFCC8=Try showboating by pressing ~INPUT_COVER~ or perform counters.
+0x8B9AFCC8=按下~INPUT_COVER~ 来试着炫耀或展示你的筹码。
 
 ;0x8CC1AC1E=~s~Press ~INPUT_PICKUP~ to quit.
-0x8CC1AC1E=~s~Press ~INPUT_PICKUP~ to quit.
+0x8CC1AC1E=~s~按下~INPUT_PICKUP~退出
 
 ;0x9651094A=FIGHT CLUB ~n~ ~n~ There are 7 ranks increasing in difficulty.
-0x9651094A=FIGHT CLUB ~n~ ~n~ There are 7 ranks increasing in difficulty.
+0x9651094A=FIGHT CLUB ~n~ ~n~ 难度增加7个等级。
 
 ;0x9F835B8D=~s~Seven.
-0x9F835B8D=~s~Seven.
+0x9F835B8D=~s~难度达到七级。
 
 ;0xA3350781=~r~You are disqualified for leaving the ring.
-0xA3350781=~r~You are disqualified for leaving the ring.
+0xA3350781=~r~ 你因离开擂台而被取消资格。
 
 ;0xA4E784E7=The fight is over, you are through to the next round.
-0xA4E784E7=The fight is over, you are through to the next round.
+0xA4E784E7=战斗结束，进入下一轮。
 
 ;0xA6F6AB33=~s~Press ~INPUT_FRONTEND_ACCEPT~ to continue fighting.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50.~s~~n~Press ~INPUT_PICKUP~ to quit.
-0xA6F6AB33=~s~Press ~INPUT_FRONTEND_ACCEPT~ to continue fighting.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50.~s~~n~Press ~INPUT_PICKUP~ to quit.
+0xA6F6AB33=~s~按下~INPUT_FRONTEND_ACCEPT~以继续战斗~n~按下 ~INPUT_FRONTEND_CANCEL~旁观~r~-$50.~s~~n~按下~INPUT_PICKUP~退出
 
 ;0xABBD1C10=~s~Press ~INPUT_FRONTEND_CANCEL~ to back the right fighter.~s~~n~Press ~INPUT_FRONTEND_X~ to back the left fighter.~s~
-0xABBD1C10=~s~Press ~INPUT_FRONTEND_CANCEL~ to back the right fighter.~s~~n~Press ~INPUT_FRONTEND_X~ to back the left fighter.~s~
+0xABBD1C10=~s~按下~INPUT_FRONTEND_CANCEL~ 在右边的斗士身上下注 ~s~~n~按下~INPUT_FRONTEND_X~ 在左边的斗士身上下注 ~s~
 
 ;0xB010A2AF=~s~You don't have enough money.
-0xB010A2AF=~s~You don't have enough money.
+0xB010A2AF=~s~你没有足够的钱。
 
 ;0xC6145A07=~s~Press ~INPUT_SPRINT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~If you quit you will lose your entrance fee.
-0xC6145A07=~s~Press ~INPUT_SPRINT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~If you quit you will lose your entrance fee.
+0xC6145A07=~s~按下~INPUT_SPRINT~以继续~n~按下 ~INPUT_PICKUP~退出~n~如果你退出，将会失去已交的入场费。
 
 ;0xC7B65662=~s~Your fighter loses.
-0xC7B65662=~s~Your fighter loses.
+0xC7B65662=~s~ 你赌的斗士输了。
 
 ;0xC921721E=~s~Your fighter wins.
-0xC921721E=~s~Your fighter wins.
+0xC921721E=~s~ 你赌的斗士胜利了。
 
 ;0xC965343E=~s~PLACEHOLDER: Cutscene showing the rewards the player gets~n~for being L.C. Fighters champion. ~n~Currently $4000.
 0xC965343E=~s~PLACEHOLDER: Cutscene showing the rewards the player gets~n~for being L.C. Fighters champion. ~n~Currently $4000.
 
 ;0xD8744FD0=1st Round
-0xD8744FD0=1st Round
+0xD8744FD0=第一轮
 
 ;0xE2048BE6=~s~Press ~INPUT_FRONTEND_X~ to compete ~r~-$100~s~.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.
-0xE2048BE6=~s~Press ~INPUT_FRONTEND_X~ to compete ~r~-$100~s~.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.
+0xE2048BE6=~s~按下 ~INPUT_FRONTEND_X~参加比赛~r~-$100~s~.~n~按下 ~INPUT_FRONTEND_CANCEL~旁观~r~-$50~s~.~n~按下~INPUT_PICKUP~退出
 
 ;0xE3EEE3D5=Elite Fight
-0xE3EEE3D5=Elite Fight
+0xE3EEE3D5=精英战
 
 ;0xE7839A63=~s~Press ~INPUT_FRONTEND_X~ to compete.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate.~n~Press ~INPUT_PICKUP~ to quit.
-0xE7839A63=~s~Press ~INPUT_FRONTEND_X~ to compete.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate.~n~Press ~INPUT_PICKUP~ to quit.
+0xE7839A63=~s~按下~INPUT_FRONTEND_X~参加比赛~n~按下 ~INPUT_FRONTEND_CANCEL~旁观~n~按下 ~INPUT_PICKUP~退出
 
 ;0xEE4606B5=~s~If this is 5. What is this?
-0xEE4606B5=~s~If this is 5. What is this?
-
+0xEE4606B5=~s~如果这是5，那这是什么？
