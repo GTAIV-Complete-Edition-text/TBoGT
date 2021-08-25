@@ -1,24 +1,24 @@
 ﻿[TONY2]
 ;0x01AB80FA=~s~You've left ~b~Tony~s~ behind.
-0x01AB80FA=~s~你把~b~Tony~s~落在后边了。
+0x01AB80FA=~s~你把~b~Tony~s~落下了。
 
 ;0x03C7C4E6=Lose the cops.
 0x03C7C4E6=甩掉警察。
 
 ;0x058C3EE1=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
-0x058C3EE1=~s~使用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~ 来伸缩瞄准倍率。
+0x058C3EE1=~s~用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~在瞄准时放大画面。
 
 ;0x06DF1BCC=~s~Press ~INPUT_COVER~ to enter and exit cover.
-0x06DF1BCC=~s~按~INPUT_COVER~进入或者离开掩护状态。
+0x06DF1BCC=~s~按~INPUT_COVER~进出掩体。
 
 ;0x11B9A4BD=~s~Escape from the building.
-0x11B9A4BD=~s~逃离建筑物。
+0x11B9A4BD=~s~逃离大楼。
 
 ;0x1A94DE81=~s~Take Tony ~y~home.
-0x1A94DE81=~s~带Tony~y~回家。
+0x1A94DE81=~s~送Tony~y~回家。
 
 ;0x2FD2FAE4=Use ~PAD_RSTICK_ALL~ to aim at enemies.
-0x2FD2FAE4=使用~PAD_RSTICK_ALL~来瞄准敌人。
+0x2FD2FAE4=用~PAD_RSTICK_ALL~瞄准敌人。
 
 ;0x313F5624=~s~Protect Tony.
 0x313F5624=~s~保护Tony。
@@ -27,53 +27,53 @@
 0x5A0414C2=~r~你抛弃了Tony。
 
 ;0x5B693158=Crouch to stay out of sight. Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
-0x5B693158=蹲着可以让敌人丢失视野。按~INPUT_DUCK~来下蹲, 蹲着会使你的瞄准目标的时候更加精准。
+0x5B693158=蹲下以不被发现。按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。
 
 ;0x622E1F34=When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.
-0x622E1F34=当锁定敌人时，你可以在目标之间切换~PAD_RSTICK_LEFTRIGHT~。
+0x622E1F34=锁定敌人时，你可以用~PAD_RSTICK_LEFTRIGHT~切换目标。
 
 ;0x66D7727E=~r~Tony is dead.
 0x66D7727E=~r~Tony死了。
 
 ;0x7249EB66=Press ~INPUT_RELOAD~ to reload.
-0x7249EB66=按~INPUT_RELOAD~ 来充填子弹。
+0x7249EB66=按~INPUT_RELOAD~装弹。
 
 ;0x751562E3=Go back and help ~b~Tony.
 0x751562E3=回去帮助~b~Tony。
 
 ;0x755C5D1D=Half hold ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
-0x755C5D1D=半按~INPUT_AIM~来自由瞄准。用~PAD_RSTICK_ALL~来瞄准。
+0x755C5D1D=半按~INPUT_AIM~可以自由瞄准。使用~PAD_RSTICK_ALL~瞄准。
 
 ;0x82A6C350=~r~Tony's car was wrecked.
-0x82A6C350=~r~Tony的车毁了。
+0x82A6C350=~r~Tony的车被毁了。
 
 ;0x86B0619B=Use ~INPUT_FREE_AIM~ to enter aim mode.
-0x86B0619B=用~INPUT_FREE_AIM~进入瞄准模式。
+0x86B0619B=按~INPUT_FREE_AIM~进入瞄准模式。
 
 ;0x8ED099B1=~s~Get in ~b~Tony's car.
 0x8ED099B1=~s~进入~b~Tony的车。
 
 ;0xC7529334=Wait for ~b~Tony~s~ to exit the building.
-0xC7529334=等待~b~Tony~s~离开建筑。
+0xC7529334=等待~b~Tony~s~离开大楼。
 
 ;0xC8ADD301=~s~Press ~INPUT_ATTACK~ to fire your weapon.
-0xC8ADD301=~s~按~INPUT_ATTACK~开枪。
+0xC8ADD301=~s~按~INPUT_ATTACK~开火。
 
 ;0xCA1F059F=~s~Mission Passed.
 0xCA1F059F=~s~任务完成。
 
 ;0xCB28715A=Use ~INPUT_PREV_WEAPON~ and ~INPUT_NEXT_WEAPON~ to cycle through weapons.
-0xCB28715A=使用~INPUT_PREV_WEAPON~和~INPUT_NEXT_WEAPON~来切换武器。
+0xCB28715A=使用~INPUT_PREV_WEAPON~和~INPUT_NEXT_WEAPON~切换武器。
 
 ;0xCD954E5D=~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
-0xCD954E5D=~s~按~PAD_RSTICK_NONE~在瞄准时可以在不同的缩放级别之间切换。
+0xCD954E5D=~s~瞄准时用~PAD_RSTICK_NONE~切换缩放倍率。
 
 ;0xD8A18096=~s~Take Tony to ~y~Dragon Heart Plaza.
-0xD8A18096=~s~带Tony去~y~Dragon Heart Plaza。
+0xD8A18096=~s~带Tony去~y~龙心广场。
 
 ;0xFA4BC22E=~s~Take out the ~r~Triads.
-0xFA4BC22E=~s~干掉~r~三合会。
+0xFA4BC22E=~s~干掉~r~三合会成员。
 
 ;0xFEE0CCE6=Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your weapon.
-0xFEE0CCE6=按住~INPUT_AIM~来锁定敌人。按~INPUT_ATTACK~开枪。
+0xFEE0CCE6=按住~INPUT_AIM~锁定敌人。按下~INPUT_ATTACK~开火。
 
