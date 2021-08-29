@@ -3,13 +3,13 @@
 0x0002A9FE=E2DW_SA
 
 ;0x027FB804=~z~I hear you be stashing the shit for us.
-0x027FB804=~z~我听说你帮我们藏东西啊。
+0x027FB804=~z~听说你给我们留了货。
 
 ;0x0458B6F5=~z~I got the product, yo. Time to roll.
-0x0458B6F5=~z~嘿，我拿到货了。该走了。
+0x0458B6F5=~z~我拿到货了。该走了。
 
 ;0x0591BDE7=~z~Fuck! We can't let the shit get away.
-0x0591BDE7=~z~操！我们不能让那混蛋离开。
+0x0591BDE7=~z~操！不能让货被带走。
 
 ;0x081C468E=E2DW_RA
 0x081C468E=E2DW_RA
@@ -18,10 +18,10 @@
 0x08B69567=202
 
 ;0x09F7E1CA=~z~I got it all. Let's go back.
-0x09F7E1CA=~z~我全拿到了。我们回去吧。
+0x09F7E1CA=~z~都到手了。回去吧。
 
 ;0x0C95B5CD=~z~Look's like A's headed to the emergency ward.
-0x0C95B5CD=~z~看起来A在去急诊室的路上。
+0x0C95B5CD=~z~看来A要去急诊室了。
 
 ;0x0CE88EF8=592
 0x0CE88EF8=592
@@ -33,10 +33,10 @@
 0x0F7EE910=102
 
 ;0x0F91EFF0=~z~No come our deal assholes. Fuck you.
-0x0F91EFF0=~z~混蛋，别来搅我们的交易。操。
+0x0F91EFF0=~z~别搅和我们的交易，混蛋。操你妈的。
 
 ;0x109DCA8E=~z~I see the product, bro.
-0x109DCA8E=~z~兄弟，我看到货了。
+0x109DCA8E=~z~我看到货了，兄弟。
 
 ;0x119B7CE9=692
 0x119B7CE9=692
@@ -45,22 +45,22 @@
 0x11F01F3F=~z~就这样了。
 
 ;0x12795060=~z~Get in. We going!
-0x12795060=~z~快进来。我们要走了！
+0x12795060=~z~快上车。我们走了！
 
 ;0x15215966=~z~Meet me at the dropoff, man.
-0x15215966=~z~兄弟，在下车的地方见我。
+0x15215966=~z~喂，我们卸货点见。
 
 ;0x15BA06C1=~z~Someone stop that motherfucker. He got the shit.
-0x15BA06C1=~z~来人阻止那个狗娘养的。他拿到货了。
+0x15BA06C1=~z~快点阻止那个贱逼。他带着货。
 
 ;0x174C35C9=~z~I got eyes on the money, bro. Go get that shit.
 0x174C35C9=~z~我看到钱了，兄弟。去拿回来。
 
 ;0x1AFC3157=~z~The fates is conspiring. Shit.
-0x1AFC3157=~z~命运都是有预谋的。操。
+0x1AFC3157=~z~全搞砸了。操。
 
 ;0x1B460BB2=~z~I got it.
-0x1B460BB2=~z~知道了。
+0x1B460BB2=~z~拿到了。
 
 ;0x1B94068C=E2DW_WA
 0x1B94068C=E2DW_WA
@@ -69,10 +69,10 @@
 0x1BC3F0A2=E2DW_HA
 
 ;0x1C87DD52=~z~You come too close, motherfucker. You pay bigtime.
-0x1C87DD52=~z~你来的太勤了，天杀的。你付的太多了。
+0x1C87DD52=~z~你离得太近了，臭傻逼。付出代价吧。
 
 ;0x1D98AC7D=~z~Stop right now. You being jacked!
-0x1D98AC7D=~z~快停下来。你被跟踪了！
+0x1D98AC7D=~z~快停下来。你被打劫了！
 
 ;0x1E74BDF2=E2DW_CJA
 0x1E74BDF2=E2DW_CJA
@@ -84,13 +84,13 @@
 0x21390605=202
 
 ;0x235375CA=~z~See you at the drop, homie.
-0x235375CA=~z~在下车的地方等你，兄弟。
+0x235375CA=~z~卸货点见。
 
 ;0x24BF72E8=~z~You a real disappointing motherfucker, L.
-0x24BF72E8=~z~你真是一个让人失望的混蛋，Luis。
+0x24BF72E8=~z~你这混蛋真让人失望，L。
 
 ;0x250DD14C=~z~L, the money's there. Scoop that paper up, bro.
-0x250DD14C=~z~Luis，钱在这。把那钱捡起来，兄弟。
+0x250DD14C=~z~Luis，钱掉了。快去捡起来，兄弟。
 
 ;0x25C97389=E2DW_JA
 0x25C97389=E2DW_JA
@@ -102,28 +102,28 @@
 0x2884EBD5=792
 
 ;0x28D5A27B=~z~This important business-time deal. You fuck off.
-0x28D5A27B=~z~这是重要的准时生意。你给我滚蛋。
+0x28D5A27B=~z~这是重要的正经生意。你给我滚蛋。
 
 ;0x29132EEA=E2DW_ACA
 0x29132EEA=E2DW_ACA
 
 ;0x298D7E08=~z~Oye! Time to go. Get in!
-0x298D7E08=~z~哦耶！该走了。快进来。
+0x298D7E08=~z~喂！该走了。快上来。
 
 ;0x2ABE79BF=~z~No good you be here, fuckheads. We need kill you now.
-0x2ABE79BF=~z~你来这太不幸了，傻逼。我们现在要杀了你。
+0x2ABE79BF=~z~你们来准没好事，傻逼。现在得杀了你们。
 
 ;0x2BB74747=E2DW_MA
 0x2BB74747=E2DW_MA
 
 ;0x2C4649D8=~z~Stop your shit and give it up! We here to rob you.
-0x2C4649D8=~z~快停下来，把枪扔了！我们来这绑你的。
+0x2C4649D8=~z~快停下来，交出货物！我们来抢劫了。
 
 ;0x2C553283=202
 0x2C553283=202
 
 ;0x2E4B8F9F=~z~Give up the merchandise, bitches.
-0x2E4B8F9F=~z~把货放下吧，婊子。
+0x2E4B8F9F=~z~把货交出来，贱人。
 
 ;0x2E9CED4C=E2DW_YA
 0x2E9CED4C=E2DW_YA
@@ -132,10 +132,10 @@
 0x2ED90FE1=102
 
 ;0x3348EF75=~z~Where these boys at? I was looking forward to a fight.
-0x3348EF75=~z~这些小子在哪？我刚才正准备找他们打一架呢。
+0x3348EF75=~z~他们人呢？我还想干一架呢。
 
 ;0x33CB4E7F=~z~Armando, Henrique, you ain't welcome here. Fuck off.
-0x33CB4E7F=~z~Armando, Henrique, 这不欢迎你。快滚。
+0x33CB4E7F=~z~Armando，Henrique，这里不欢迎你们。快滚。
 
 ;0x35C71C8E=E2DW_EA
 0x35C71C8E=E2DW_EA
@@ -156,34 +156,34 @@
 0x3B9A1B84=E2DW_FA
 
 ;0x3E86F86C=~z~That's a bitch.
-0x3E86F86C=~z~那就是个婊子。
+0x3E86F86C=~z~真他妈恶心。
 
 ;0x3F4128A4=E2DW_NA
 0x3F4128A4=E2DW_NA
 
 ;0x3FBCFE13=~z~Someone's gotta stop 'em. They running.
-0x3FBCFE13=~z~快来人阻止他们。他们在逃跑。
+0x3FBCFE13=~z~来人阻止他们。他们要跑了。
 
 ;0x41DAB32D=~z~Look, bro. The guy dropped the cash.
-0x41DAB32D=~z~兄弟，快看。他们在扔钱。
+0x41DAB32D=~z~兄弟，快看。他的钱掉了。
 
 ;0x4321D421=~z~That everything. Let's hit it.
-0x4321D421=~z~那就是全部了。我们走。
+0x4321D421=~z~全部搞定。我们走。
 
 ;0x4362469F=~z~Up ahead. We just about there.
-0x4362469F=~z~抬头，我们快到了。
+0x4362469F=~z~快了，我们快到了。
 
 ;0x437BE244=~z~He trying to make off with our stuff, bro. Get him.
-0x437BE244=~z~他正准备偷我们的货，兄弟，快逮住他。
+0x437BE244=~z~他想带着我们的货逃跑，兄弟。抓住他。
 
 ;0x46C15CCC=~z~You shoulda kept this joint a secret.
-0x46C15CCC=~z~你应该把这大麻当作个秘密。
+0x46C15CCC=~z~你们仓库的保密没做好。
 
 ;0x477FDFCF=~z~What we have Spanish fuck deal for? Go away to hell.
-0x477FDFCF=~z~我们和西班牙人做这该死的交易是为了什么？快滚吧。
+0x477FDFCF=~z~交易的时候要西班牙人干嘛？下地狱吧。
 
 ;0x47C13828=~z~Nice of you to get this ready.
-0x47C13828=~z~你做好了准备，这点很好。
+0x47C13828=~z~打好包了，真不错。
 
 ;0x47E723F5=E2DW_BA
 0x47E723F5=E2DW_BA
@@ -192,49 +192,49 @@
 0x4B23379A=692
 
 ;0x4E669B66=~z~They's making a move with the product. Shit.
-0x4E669B66=~z~他们已经和货一起走了，该死。
+0x4E669B66=~z~他们想带着货逃跑。妈的。
 
 ;0x4E67543D=E2DW_AHA
 0x4E67543D=E2DW_AHA
 
 ;0x4FD44A95=~z~Come on! Now!
-0x4FD44A95=~z~快来！现在！
+0x4FD44A95=~z~快点！快！
 
 ;0x52069558=~z~Yo bitch! We here for your shit.
-0x52069558=~z~你个婊子！我们在这等你呢。
+0x52069558=~z~哟，婊子！我们来抢你了。
 
 ;0x52E54A0C=~z~This important shipment, you fuck off.
-0x52E54A0C=~z~这是重要的运输，你给我滚。
+0x52E54A0C=~z~这批货很重要，你给我滚。
 
 ;0x530F5596=~z~He dropped the cash, bro.
-0x530F5596=~z~他扔掉了钱，兄弟。
+0x530F5596=~z~他掉了钱，兄弟。
 
 ;0x53237590=~z~Give that product here, bro.
-0x53237590=~z~把那货拿过来，兄弟。
+0x53237590=~z~把货交出来，兄弟。
 
 ;0x53640E1B=~z~I see the stash. It's there.
-0x53640E1B=~z~我看到藏的货了。在这。
+0x53640E1B=~z~我看到货了。在那儿。
 
 ;0x53F90FF4=~z~They're done for. Collect the product and we gone.
-0x53F90FF4=~z~他们死完了。把货拿着，我们走了。
+0x53F90FF4=~z~他们完了。把货拿上，我们走了。
 
 ;0x551C6A13=~z~We nearly on them.
-0x551C6A13=~z~我们快找到他们了。
+0x551C6A13=~z~就快到地方了。
 
 ;0x56F815EF=~z~Hey look, over there! We got the product.
-0x56F815EF=~z~嘿，看，在这！我们拿到货了。
+0x56F815EF=~z~看，在那儿！货物找到了。
 
 ;0x5771818B=~z~You being jacked, motherfuckers.
-0x5771818B=~z~你被跟踪了，傻逼玩意。
+0x5771818B=~z~你们被抢了，傻逼玩意。
 
 ;0x57728B56=~z~H should get his ass insured, he's in the ward so much.
-0x57728B56=~z~他应该把他的身后保护好，他去医院太多次了。
+0x57728B56=~z~他他妈买份保险吧，天天进医院。
 
 ;0x5844BBB0=E2DW_ZA
 0x5844BBB0=E2DW_ZA
 
 ;0x5A8ADDBB=~z~We here for the shipment.
-0x5A8ADDBB=~z~我们来这送货的。
+0x5A8ADDBB=~z~我们是来劫货的。
 
 ;0x5B892C14=E2DW_TA
 0x5B892C14=E2DW_TA
@@ -243,25 +243,25 @@
 0x5C594095=090
 
 ;0x5D9A2287=~z~Product's over there, bro.
-0x5D9A2287=~z~货在这，兄弟。
+0x5D9A2287=~z~货在那儿，兄弟。
 
 ;0x5F503382=692
 0x5F503382=692
 
 ;0x5FA601B3=~z~We good, yo. Let's roll outta here.
-0x5FA601B3=~z~我们好了，哟，让我们离开这。
+0x5FA601B3=~z~都好了，哟。让我们离开这。
 
 ;0x603E534F=E2DW_GA
 0x603E534F=E2DW_GA
 
 ;0x60753235=~z~There they be. This gonna be easy.
-0x60753235=~z~他们在这。这会很简单。
+0x60753235=~z~他们在这儿。一定很简单。
 
 ;0x609FDAB0=102
 0x609FDAB0=102
 
 ;0x623C199D=~z~Okay, bro. We halfway there.
-0x623C199D=~z~好的，兄弟。我们到半路了。
+0x623C199D=~z~好了，兄弟。快成功了。
 
 ;0x63513C3F=102
 0x63513C3F=102
@@ -273,22 +273,22 @@
 0x63990A20=E2DW_AFA
 
 ;0x6642942F=~z~Shit, Henrique. I ain't having no halfwit rob me. Damn!
-0x6642942F=~z~操, Henrique. 有傻逼绑架我，操！
+0x6642942F=~z~操，Henrique。智障别想抢走我的货。妈的！
 
 ;0x66815F75=~z~We coming up on them, yo.
-0x66815F75=~z~我们快找到他们了，哟。
+0x66815F75=~z~快找到他们了。
 
 ;0x66AB5FFF=~z~I had a feeling I'd shoot some spics today and look who shows up... Kill 'em.
-0x66AB5FFF=~z~我有种感觉，今天我要射杀一些傻逼，看看谁会出现……杀了他们。
+0x66AB5FFF=~z~我有种今天会杀几个西班牙佬的预感，看看谁来了...杀了他们。
 
 ;0x66E279A9=E2DW_VA
 0x66E279A9=E2DW_VA
 
 ;0x68EE91B7=~z~It's just up here.
-0x68EE91B7=~z~就是这了。
+0x68EE91B7=~z~就是这儿了。
 
 ;0x693A3A73=~z~That guy had the product, bro. Over there!
-0x693A3A73=~z~那些人拿到了货，兄弟。在这！
+0x693A3A73=~z~货在他手里，兄弟。那里！
 
 ;0x69FE43B1=792
 0x69FE43B1=792
@@ -300,49 +300,49 @@
 0x6BD2765B=092
 
 ;0x6C5BA800=~z~Where your stash at?
-0x6C5BA800=~z~你把你东西藏在哪的？
+0x6C5BA800=~z~你们的货藏在哪儿了？
 
 ;0x6CA639CA=092
 0x6CA639CA=092
 
 ;0x6CE6C120=~z~There it is. Go get it.
-0x6CE6C120=~z~就在那了。去把它拿着。
+0x6CE6C120=~z~在那里。去拿上。
 
 ;0x6D3889E8=~z~Grab up that cash, Luis. It's just there.
-0x6D3889E8=~z~把那些钱拿着，Luis. 就在那。
+0x6D3889E8=~z~去把钱拿上，Luis。就在那。
 
 ;0x6D3955D0=~z~There goes the paycheck.
-0x6D3955D0=~z~这些是薪水。
+0x6D3955D0=~z~工资飞走了。
 
 ;0x6E223788=~z~Stop that bitch. He's got the shit.
-0x6E223788=~z~把那个混蛋拦下来。他拿到货了。
+0x6E223788=~z~拦住那个混蛋。货在他手里。
 
 ;0x6F537119=~z~This where they meant to be.
-0x6F537119=~z~这就是他们要来的地方。
+0x6F537119=~z~他们应该在这儿。
 
 ;0x6F876D2A=~z~We got some likely stickup kids here. Take 'em down.
-0x6F876D2A=~z~我们在这发现一些像抢劫的小混混。把他们一网打尽。
+0x6F876D2A=~z~好像有些想抢劫的小朋友在这儿。干死他们。
 
 ;0x703F5F27=~z~We ain't getting paid now, is we?
-0x703F5F27=~z~我们现在还没拿到薪水，对吧？
+0x703F5F27=~z~这下赚不到钱了，对吧？
 
 ;0x73B72766=102
 0x73B72766=102
 
 ;0x74235504=~z~They the bitches moving it.
-0x74235504=~z~他们那群混蛋在移动它。
+0x74235504=~z~就是他们在运货。
 
 ;0x7454FB52=~z~We got company. Clean up the pricks.
-0x7454FB52=~z~兄弟们来了。把那群傻逼杀了。
+0x7454FB52=~z~这下有伴了。杀掉那群傻逼。
 
 ;0x7627C8C0=~z~Fucking H in the hospital again.
-0x7627C8C0=~z~该死的Henrique又进医院了。
+0x7627C8C0=~z~傻逼H又进医院了。
 
 ;0x783519BB=~z~Shit's over there, L. Pick it up.
-0x783519BB=~z~货来了，Lius。把它捡起来。
+0x783519BB=~z~货在那儿，L。快去捡。
 
 ;0x7AB0353A=~z~We meant to go up here.
-0x7AB0353A=~z~我们准备去那的。
+0x7AB0353A=~z~我们要去那里。
 
 ;0x7AD1A284=102
 0x7AD1A284=102
@@ -357,31 +357,31 @@
 0x7C875031=E2DW_ABA
 
 ;0x7CCE3283=~z~I see the shit. I see the shit. Grab it.
-0x7CCE3283=~z~我看到货了。我看到货了。把它拿着。
+0x7CCE3283=~z~我看到货了。我看到货了。快去。
 
 ;0x7D3C118A=E2F2_CPA
 0x7D3C118A=E2F2_CPA
 
 ;0x7D44DDD9=~z~Who got the cash? Who got the merch? Come on.
-0x7D44DDD9=~z~谁拿到钱了？谁找到那些货了？快点说。
+0x7D44DDD9=~z~钱在哪里？货在哪里？交出来吧。
 
 ;0x7D8ED042=~z~I'm carrying.
-0x7D8ED042=~z~我拿着呢。
+0x7D8ED042=~z~货物到手了。
 
 ;0x7D964A75=~z~You guys gonna give this up?
-0x7D964A75=~z~你们准备放弃这个了？
+0x7D964A75=~z~你们能不能交出货物？
 
 ;0x7E1A6D6C=E2DW_KA
 0x7E1A6D6C=E2DW_KA
 
 ;0x7E3E240E=~z~Yo. It's Armando and Henrique at it again. What you think you playing at?
-0x7E3E240E=~z~哟。Armando和Henrique又来啦。你觉得你们在玩什么？
+0x7E3E240E=~z~哟。Armando和Henrique又来啦。你以为我们是好惹的？
 
 ;0x7E70FB8A=~z~You don't have to be no genius to know we fucked that up.
-0x7E70FB8A=~z~你不需要像个天才一样知道我们搞砸了。
+0x7E70FB8A=~z~是个人都知道我们搞砸了。
 
 ;0x7EF02D57=~z~We got the money over here, bro.
-0x7EF02D57=~z~我们在这拿到钱了，兄弟。
+0x7EF02D57=~z~我们的钱在那儿，兄弟。
 
 ;0x7EF25928=~z~That guy's running away with our shit!
 0x7EF25928=~z~那个混蛋拿着我们的货跑了！
@@ -390,16 +390,16 @@
 0x7F421DA6=E2F2_COA
 
 ;0x7F76AD2F=~z~We got the shit on board, man. Let's get out of here.
-0x7F76AD2F=~z~我们把货装好了，兄弟。我们快离开这。
+0x7F76AD2F=~z~货物都到手了，兄弟。快离开这儿。
 
 ;0x7FD68FD9=~z~Both you guys are out? Shit.
-0x7FD68FD9=~z~你们两个都退出了？操。
+0x7FD68FD9=~z~你们俩都挂了？操。
 
 ;0x813A56C2=E2DW_LA
 0x813A56C2=E2DW_LA
 
 ;0x81F5941F=~z~Yo. You fucks got a thing for paramedics, man. Why you leave me?
-0x81F5941F=~z~哟。你跟医生乱搞，兄弟。为什么离开我？
+0x81F5941F=~z~哟。你俩都喜欢去医院是吧。那我咋办？
 
 ;0x830EC884=~z~I got the shit, yo. Let's go.
 0x830EC884=~z~我拿到货了，哟。我们走。
@@ -408,7 +408,7 @@
 0x837C7498=202
 
 ;0x83D55A52=~z~We're here for your stuff.
-0x83D55A52=~z~我们为了你的货来了。
+0x83D55A52=~z~我们要的是货。
 
 ;0x83FD0495=~z~We just gonna take that shit outta here.
 0x83FD0495=~z~我们要把那些货带走。
@@ -420,7 +420,7 @@
 0x87CE2375=E2DW_CA
 
 ;0x87E06C31=~z~Damn, looks like H is gonna need some paramedics.
-0x87E06C31=~z~操。Henrique看起来需要一些医生。
+0x87E06C31=~z~干，看来H需要紧急治疗。
 
 ;0x888919F4=~z~Kind of weird that there's no one here, right?
 0x888919F4=~z~这里一个人都没，是不是有点奇怪？
@@ -429,22 +429,22 @@
 0x88A3B118=E2DW_IA
 
 ;0x892DCB3E=~z~Go get the merchandise, L. It's just there.
-0x892DCB3E=~z~去拿那些货。就在那。
+0x892DCB3E=~z~去把货物拿上，L。就在那儿。
 
 ;0x899C65E0=~z~Give that shit up, yo.
-0x899C65E0=~z~把那货放下来吧，哟。
+0x899C65E0=~z~把货交出来，哟。
 
 ;0x89F1C225=~z~Let's get this shit out of here while we can.
-0x89F1C225=~z~在我们还没死时候，赶紧带着这些货离开。
+0x89F1C225=~z~趁着没闹大赶紧撤吧。
 
 ;0x8AE55D74=~z~Don't come nowhere near our shipment, Armando.
-0x8AE55D74=~z~离我们的货远一点, Armando.
+0x8AE55D74=~z~离我们的货远一点，Armando。
 
 ;0x8C27D136=~z~The stash is right there, bro. Go get it.
-0x8C27D136=~z~藏的货就在那，兄弟。去拿着。
+0x8C27D136=~z~藏的货在那儿，兄弟。去拿上。
 
 ;0x8C7C178C=~z~Dude, I think they running.
-0x8C7C178C=~z~兄弟，我觉得他们跑了。
+0x8C7C178C=~z~兄弟，他们好像想跑。
 
 ;0x8CC94A43=~z~They done. Go get the shit.
 0x8CC94A43=~z~他们死了。快去拿货。
@@ -453,10 +453,10 @@
 0x8E590EBD=202
 
 ;0x8EC7444E=~z~I remember you, you fuck. You ain't ripping us off.
-0x8EC7444E=~z~我记得你，你个混蛋。你会付出代价的。
+0x8EC7444E=~z~我记得你，混蛋。你别想打倒我们。
 
 ;0x8FED74FF=~z~We got half what we came for.
-0x8FED74FF=~z~我们到半路了。
+0x8FED74FF=~z~目标达成一半了。
 
 ;0x90B7AB52=100
 0x90B7AB52=100
@@ -465,52 +465,52 @@
 0x9332B930=202
 
 ;0x9497B963=~z~Am I the only one left here? Damn.
-0x9497B963=~z~我是唯一一个被丢在这的？操。
+0x9497B963=~z~就剩我一个了？操。
 
 ;0x94C23BF2=~z~Get ready for it.
-0x94C23BF2=~z~准备好。
+0x94C23BF2=~z~做好准备。
 
 ;0x95339C51=E2DW_AGA
 0x95339C51=E2DW_AGA
 
 ;0x95586D17=~z~Time to bounce. We got what we came for.
-0x95586D17=~z~该走了。我们拿到我们该拿的了。
+0x95586D17=~z~该撤了。目标到手了。
 
 ;0x97B91C2F=~z~Highjack time, motherfuckers.
 0x97B91C2F=~z~抢劫时间到，傻逼们。
 
 ;0x97D09CA0=~z~Mr. Armando and Henrique. It makes me sad you should be here. You must die now.
-0x97D09CA0=~z~Armando和Henrique先生. 你们来这我很伤心。因为你们现在要死了。
+0x97D09CA0=~z~Armando和Henrique先生。你们来这儿我很伤心。现在你们必须得死。
 
 ;0x9873EB12=792
 0x9873EB12=792
 
 ;0x9A46B321=~z~They trying to run, L.
-0x9A46B321=~z~他们想要跑，Lius。
+0x9A46B321=~z~他们想逃跑，L。
 
 ;0x9C1DB4CA=E2DW_AAA
 0x9C1DB4CA=E2DW_AAA
 
 ;0x9CE506BA=~z~These fools dropped the ball. All the guards are off duty.
-0x9CE506BA=~z~这些傻逼弄砸了。但是所有的守卫都不在岗位。
+0x9CE506BA=~z~这帮傻逼犯大错了。没有一个人在看守。
 
 ;0x9DD95892=~z~A got his self hospitalised. Stupid motherfucker.
-0x9DD95892=~z~A把他自己送进医院去了。傻逼玩意
+0x9DD95892=~z~A把他自己送进医院了。傻逼玩意
 
 ;0x9EE6CBE0=~z~There they are. I know a robber when I see one.
-0x9EE6CBE0=~z~他们在这。我看到一个人就知道他是不是劫匪。
+0x9EE6CBE0=~z~他们来了。我一眼就能认出强盗。
 
 ;0x9EF89E51=E2DW_ADA
 0x9EF89E51=E2DW_ADA
 
 ;0x9F16EEDE=~z~We cool. Get in there and collect, bro.
-0x9F16EEDE=~z~我们完工了。进去把货拿走，兄弟。
+0x9F16EEDE=~z~好了。上车收货吧，兄弟。
 
 ;0x9F20A52C=~z~We ain't working with you, Armando. Fuck off out of here.
-0x9F20A52C=~z~我们不和你一起共事，Armando. 赶紧从这滚。
+0x9F20A52C=~z~我们不跟你合作，Armando。赶紧给我滚。
 
 ;0xA28531C7=~z~That's it! Take them down.
-0xA28531C7=~z~就是那个！把他们杀了。
+0xA28531C7=~z~就在那儿！干掉他们。
 
 ;0xA5386050=092
 0xA5386050=092
@@ -525,10 +525,10 @@
 0xA7623CAB=202
 
 ;0xA7F1AC5B=~z~Looks like I'm paying Rique's doctor's bills again.
-0xA7F1AC5B=~z~看起来我又为Rique的医生的账单付款了。
+0xA7F1AC5B=~z~看来我又要给Rique交医药费了。
 
 ;0xA947E2C3=~z~Oye, I ain't visiting you fools in the hospital.
-0xA947E2C3=~z~哦耶，我不会在医院探访你个傻逼了。
+0xA947E2C3=~z~喂，我不会来医院看你们的。
 
 ;0xA976BEBA=092
 0xA976BEBA=092
@@ -537,25 +537,25 @@
 0xAA47EBAA=E2DW_UA
 
 ;0xAAF7E402=~z~Someone's trying to rip us off. Get 'em.
-0xAAF7E402=~z~有些人想要宰我们。教训他们。
+0xAAF7E402=~z~有些人想要干翻我们。教训他们。
 
 ;0xAB16B97C=~z~We heard you got some fresh notes and some pure shit. You mind sharing with three Dominican guys?
-0xAB16B97C=~z~我们听说你最近又遇到一些破事。你介意和三个多米尼克的兄弟分享么？
+0xAB16B97C=~z~听说你们有钱有货。介意和三个多米尼加兄弟分享么？
 
 ;0xAC3C7558=~z~Damn A's dumb. He got himself shot up.
-0xAC3C7558=~z~操。A真蠢。他把他自己射伤了。
+0xAC3C7558=~z~操。A真蠢。挨了枪子儿了。
 
 ;0xAD394E07=592
 0xAD394E07=592
 
 ;0xAD7209E9=~z~I gotta go. Meet me back at the place.
-0xAD7209E9=~z~我要走了，在老地方见我。
+0xAD7209E9=~z~我要走了，老地方见。
 
 ;0xAD7D47F9=~z~You are not welcome here, my latin friends. Be gone.
-0xAD7D47F9=~z~你在这不受欢迎，我的拉丁朋友。走吧。
+0xAD7D47F9=~z~这里不欢迎你们，我的拉丁朋友。滚吧。
 
 ;0xADFD0F00=~z~We here for your product, motherfuckers.
-0xADFD0F00=~z~我们来这拿货的，笨比。
+0xADFD0F00=~z~我们要的是货，傻逼。
 
 ;0xAF535B41=E2DW_PA
 0xAF535B41=E2DW_PA
@@ -567,28 +567,28 @@
 0xB1C79C72=192
 
 ;0xB3624EC2=~z~Meda! That guy got the shit.
-0xB3624EC2=~z~天哪！他们拿走了货。
+0xB3624EC2=~z~快看！货在他手里。
 
 ;0xB42ED604=100
 0xB42ED604=100
 
 ;0xB5C73E35=~z~Give up your shit. You being robbed.
-0xB5C73E35=~z~把货放下。你们已经被绑架了。
+0xB5C73E35=~z~把货放下。你们被抢劫了。
 
 ;0xB8DE3422=~z~We good. Let's head back.
-0xB8DE3422=~z~我们完工了。回去了。
+0xB8DE3422=~z~完工了。该回去了。
 
 ;0xB9366F07=~z~All that product for us?
-0xB9366F07=~z~货全是给我们的？
+0xB9366F07=~z~货都是给我们的？
 
 ;0xBABAE274=~z~Mr. Armando, you cannot muscle in here. Away.
-0xBABAE274=~z~Armando先生, 你不能进这里。离开吧。
+0xBABAE274=~z~Armando先生，你不能靠近这里。滚。
 
 ;0xBAD99F22=~z~All that careful planning for nothing. Shit.
 0xBAD99F22=~z~精心准备的计划泡汤了。操。
 
 ;0xBB098646=~z~Coño, It's just me then.
-0xBB098646=~z~操，是我啊。
+0xBB098646=~z~操，只剩下我了。
 
 ;0xBBCA9566=E2F2_CRA
 0xBBCA9566=E2F2_CRA
@@ -597,67 +597,67 @@
 0xBE244B70=202
 
 ;0xC158CFA1=~z~Dumb bastards ain't even guarding it.
-0xC158CFA1=~z~蠢货东西根本没有保护它。
+0xC158CFA1=~z~一帮不派人看守的蠢蛋。
 
 ;0xC28DEBE1=090
 0xC28DEBE1=090
 
 ;0xC577D8CB=~z~We cool. I think it's time to turn tail.
-0xC577D8CB=~z~我们完工了。我觉得我们该回去了。
+0xC577D8CB=~z~搞定。该回去了。
 
 ;0xC579B447=~z~Yo L, go grab that product, bro.
-0xC579B447=~z~哟，Luis，去把那货抢了，兄弟。
+0xC579B447=~z~哟，L，去把货拿来，兄弟。
 
 ;0xC5BF737C=~z~You wanna get the shit off that guy?
-0xC5BF737C=~z~你想摆脱那个人么？
+0xC5BF737C=~z~你能抢走他的货吗？
 
 ;0xC60DF8D8=~z~That's it! Let's get these fuckheads.
-0xC60DF8D8=~z~就是这！让我们杀了这群傻逼。
+0xC60DF8D8=~z~找到了！杀了这群傻逼。
 
 ;0xC62FB51F=~z~Give up the shipment, motherfuckers.
-0xC62FB51F=~z~把货放下，混蛋们。
+0xC62FB51F=~z~把货交出来，混蛋。
 
 ;0xC65A0B5B=~z~That ain't cool, bro.
-0xC65A0B5B=~z~那样子不酷，兄弟。
+0xC65A0B5B=~z~这太糟了，兄弟。
 
 ;0xC7B84231=~z~They trying to get away. Let's get 'em.
 0xC7B84231=~z~他们想跑，逮住他们。
 
 ;0xC7F0394F=~z~The plan was flawless. The execution, not so much.
-0xC7F0394F=~z~这个计划完美无瑕，但是，这行动，就没那么好了。
+0xC7F0394F=~z~计划天衣无缝。执行起来水平不够。
 
 ;0xC80E3BA1=E2DW_AA
 0xC80E3BA1=E2DW_AA
 
 ;0xC8D8BD14=~z~We out of here, yo. Come on!
-0xC8D8BD14=~z~我们要走了，哟。快来！
+0xC8D8BD14=~z~我们要走了，哟。快点！
 
 ;0xC924C14E=~z~We heading! I'll see you back.
-0xC924C14E=~z~我们正在路上！等会见。
+0xC924C14E=~z~我先走了！等会儿见。
 
 ;0xCA6CBB68=~z~You dumb spic motherfuckers. You're dead now.
-0xCA6CBB68=~z~你个傻逼混蛋。你已经死了。
+0xCA6CBB68=~z~傻逼西班牙佬。你们死定了。
 
 ;0xCE66463B=~z~I might do better if I wasn't working with morons.
-0xCE66463B=~z~如果我不是和傻逼一起工作，我没准会做的更好。
+0xCE66463B=~z~换个正常的队友，没准会做得更好。
 
 ;0xCE9CA61A=~z~Where they all gone?
 0xCE9CA61A=~z~他们都去哪了？
 
 ;0xCF1E6B2C=~z~I guess we showed during their lunch break.
-0xCF1E6B2C=~z~我猜我们在他们的午休的时候现身。
+0xCF1E6B2C=~z~我猜他们去吃午饭了。
 
 ;0xCFAC3C37=~z~Shit, A's down, bro!
-0xCFAC3C37=~z~操，A倒地了，兄弟！
+0xCFAC3C37=~z~操，A倒了，兄弟！
 
 ;0xD060C750=~z~You coming up here, you two-bit heights hustlers? You're fucking dead.
-0xD060C750=~z~你来这上面，你个矮骗子？你已经死了。
+0xD060C750=~z~你还敢过来，高地的三流骗子？你已经死了。
 
 ;0xD0BE5482=~z~Where that shit at, fool?
 0xD0BE5482=~z~货在哪，傻逼？
 
 ;0xD2006BA9=~z~Henrique, what did I tell you about hanging with this asshole? I'm gonna have to fuck you both up.
-0xD2006BA9=~z~Henrique, 跟这傻逼闲逛，我跟你说了什么？我要把你们两个都教训一顿。
+0xD2006BA9=~z~Henrique，我跟你说过要离这混蛋远点吧？这下得把你俩都教训一顿了。
 
 ;0xD245BCA0=102
 0xD245BCA0=102
@@ -666,21 +666,22 @@
 0xD2FB8945=~z~这是抢劫。钱和货，都交出来！
 
 ;0xD3772E2C=~z~That guy dropped the cash. Pick it up.
-0xD3772E2C=~z~那个家伙把钱丢了。把它捡起来。
+0xD3772E2C=~z~那家伙钱掉了。快去捡。
+
 ;0xD3C050D4=~z~There's the product, L. Go get it.
-0xD3C050D4=~z~这是货，Lius。把它拿着。
+0xD3C050D4=~z~货在那里，L。去拿来。
 
 ;0xD3EEB9B4=~z~Can't come all this way to let a motherfucker run off. Get him.
-0xD3EEB9B4=~z~不要一直让那傻逼逃跑。逮住他。
+0xD3EEB9B4=~z~不能让到嘴边的鸭子飞了。逮住他。
 
 ;0xD56491B3=~z~Fuck off, you guys. You is bad for business.
-0xD56491B3=~z~滚开，你们这群傻逼。你们真是这个交易的毒瘤。
+0xD56491B3=~z~滚开，傻逼。就知道破坏交易。
 
 ;0xD56D0A8D=200
 0xD56D0A8D=200
 
 ;0xD5D7A849=~z~We confiscating your shit, bitches.
-0xD5D7A849=~z~我们没收你的货，傻逼。
+0xD5D7A849=~z~你们的货被收了，傻逼。
 
 ;0xD70A0AB5=202
 0xD70A0AB5=202
@@ -689,43 +690,43 @@
 0xD8B1BBCC=092
 
 ;0xD98D9B1F=~z~They gave the shit up, bro. Go get it.
-0xD98D9B1F=~z~他们把货放下了，兄弟。去拿着。
+0xD98D9B1F=~z~他们把货放下了，兄弟。去拿上。
 
 ;0xDA48E752=~z~Shit. They making a run for it.
-0xDA48E752=~z~操。他们为了它而开始行动。
+0xDA48E752=~z~操。他们想要卷货跑路。
 
 ;0xDAB75CFF=~z~If it ain't the two worst pushers in all the Heights. You ain't getting our package, Armando.
-0xDAB75CFF=~z~如果他们不是整个高地最垃圾的两个销售员，你就拿不到我们的货了，Armando。
+0xDAB75CFF=~z~这不是整个高地最垃圾的两个毒贩吗。别想抢走我们的货，Armando。
 
 ;0xDB1C44DB=092
 0xDB1C44DB=092
 
 ;0xDCFC42D9=~z~This is kind of funky, bro.
-0xDCFC42D9=~z~这有点时髦，兄弟。
+0xDCFC42D9=~z~这有点可疑啊，兄弟。
 
 ;0xDE855FDE=592
 0xDE855FDE=592
 
 ;0xE174D4C0=~z~Damn. That guy is getting away with our shit.
-0xE174D4C0=~z~操。那家伙正拿着我们的货逃跑。
+0xE174D4C0=~z~操。那家伙拿着我们的货跑了。
 
 ;0xE1B5CAA9=~z~He dropped the money! Go get it!
-0xE1B5CAA9=~z~他扔了钱！去拿着！
+0xE1B5CAA9=~z~爆金币了！去拿上！
 
 ;0xE6CDFCA0=~z~I'm outta here, bro. Meet me at the drop.
-0xE6CDFCA0=~z~我要出去了，兄弟，在下车的地方见我。
+0xE6CDFCA0=~z~我先走了，兄弟。卸货点再见。
 
 ;0xE868F862=~z~You better not be trying to rob us again Armando! Motherfucker!
-0xE868F862=~z~Armando，你最好别再想着抢我们！傻逼！
+0xE868F862=~z~你别再想抢我们了，Armando！傻逼！
 
 ;0xEA4B83BB=~z~I'll see you back, bro.
-0xEA4B83BB=~z~回头见，兄弟。
+0xEA4B83BB=~z~我们待会儿见，兄弟。
 
 ;0xEACDEB72=E2DW_XA
 0xEACDEB72=E2DW_XA
 
 ;0xEC2956F9=~z~Fuck, bro. I thought we was gonna be rich.
-0xEC2956F9=~z~操，兄弟。刚才我觉得我们要富了。
+0xEC2956F9=~z~操，兄弟。我还以为我们要发了。
 
 ;0xEC58039E=~z~It's time we was leaving, ladies.
 0xEC58039E=~z~我们该走了，女士们。
@@ -737,16 +738,16 @@
 0xEE3E40E8=102
 
 ;0xF049AD82=~z~This is too easy...
-0xF049AD82=~z~这也太...简单了吧。
+0xF049AD82=~z~这也太容易了...
 
 ;0xF05C728F=~z~Can't let this motherfucker get away with our stuff. Let's get him.
-0xF05C728F=~z~不能让这些傻逼带着我们的货跑了。把他们拦住。
+0xF05C728F=~z~不能让这个傻逼带着我们的货跑了。拦住他。
 
 ;0xF21B127A=~z~These guys is cleared out. Let's bounce.
-0xF21B127A=~z~这些人死了。走了。
+0xF21B127A=~z~这些人死了。撤吧。
 
 ;0xF35A1978=~z~They trying to run, bro. Stop 'em.
-0xF35A1978=~z~他们想要跑，兄弟。把他们拦住。
+0xF35A1978=~z~他们想逃，兄弟。拦住他们。
 
 ;0xF58EFD82=102
 0xF58EFD82=102
@@ -755,32 +756,32 @@
 0xF5A3D078=E2F2_CKA
 
 ;0xF64C9554=~z~You pack this shit up for us?
-0xF64C9554=~z~你就把这烂货打包给我们？
+0xF64C9554=~z~是给我们准备的货吗？
 
 ;0xF69F7FE9=~z~Look who it is! The dumbest dealers in town. You're dead now.
-0xF69F7FE9=~z~看看他是啥！城中最蠢的小贩。你命不久矣。
+0xF69F7FE9=~z~看看谁来了！城里最蠢的毒贩。你完蛋啦。
 
 ;0xF7B9BD4E=~z~We got the complete package, man. Let's go.
-0xF7B9BD4E=~z~我们拿到完整的包裹了，兄弟。我们走。
+0xF7B9BD4E=~z~东西都到手了，兄弟。我们走。
 
 ;0xF8C4D4D7=~z~You bitches ain't leaving here with nothing. Give it up.
-0xF8C4D4D7=~z~你个婊子，不可能空手离开的。放弃吧。
+0xF8C4D4D7=~z~你们别想带着货物跑掉。放弃吧。
 
 ;0xF94404FC=~z~Yo. They just over here.
-0xF94404FC=~z~哟，他们就在这、
+0xF94404FC=~z~哟，他们就在这儿。
 
 ;0xFAD71250=~z~A's down. He's going to the hospital.
-0xFAD71250=~z~A倒地了。他要去医院了。
+0xFAD71250=~z~A倒了。他要去医院了。
 
 ;0xFCB7D263=292
 0xFCB7D263=292
 
 ;0xFD81A5F1=~z~You coming, or what?
-0xFD81A5F1=~z~你来，或者怎样？
+0xFD81A5F1=~z~你还来不来了？
 
 ;0xFDCB8D69=~z~Dude's running with our shit, take him down.
-0xFDCB8D69=~z~这伙计带着我们的货跑了，把他拿下。
+0xFDCB8D69=~z~有人带着我们的货跑了，干掉他。
 
 ;0xFF9F7BDC=~z~Nice to see you guys.
-0xFF9F7BDC=~z~见到你们很高兴，兄弟们。
+0xFF9F7BDC=~z~见到你们很高兴。
 
