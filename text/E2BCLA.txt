@@ -3,199 +3,199 @@
 0x03C38E64=E2BCL_FA
 
 ;0x059506D9=~z~You ready for me, mami?
-0x059506D9=~z~You ready for me, mami?
+0x059506D9=~z~宝贝，你为我准备好了吗？
 
 ;0x060C2355=090
 0x060C2355=090
 
 ;0x061E8B14=~z~Yeah, sounds kind of fun, I'm there.
-0x061E8B14=~z~Yeah, sounds kind of fun, I'm there.
+0x061E8B14=~z~耶，听起来很好玩，我会来。
 
 ;0x0AB38D87=~z~O ye, you been thinking about me as much as I've been thinking about you?
-0x0AB38D87=~z~O ye, you been thinking about me as much as I've been thinking about you?
+0x0AB38D87=~z~哦耶，你像我想你一样想我么？
 
 ;0x0C6C987B=~z~I'd love to, but I've got stuff to handle. Put that shit, on ice for me.
-0x0C6C987B=~z~I'd love to, but I've got stuff to handle. Put that shit, on ice for me.
+0x0C6C987B=~z~我想去，但是我要处理一些事。把那破事给我留着。
 
 ;0x0E489F0C=~z~I'll be over soon, mami.
-0x0E489F0C=~z~I'll be over soon, mami.
+0x0E489F0C=~z~宝贝，我一会就来。
 
 ;0x0F9E3311=~z~Yeah it's probably for the best. See you soon.
-0x0F9E3311=~z~Yeah it's probably for the best. See you soon.
+0x0F9E3311=~z~耶，这可能就是最好的结果了。待会见。
 
 ;0x1349A242=~z~You're gonna open the door, chula?
-0x1349A242=~z~You're gonna open the door, chula?
+0x1349A242=~z~你准备打开那扇门么，性感宝贝？
 
 ;0x144619F8=~z~Oh okay, I guess you're too busy to call.
-0x144619F8=~z~Oh okay, I guess you're too busy to call.
+0x144619F8=~z~噢，好吧，我觉得你太忙了以至于不能打电话。
 
 ;0x165F3A59=~z~Cool! I'll be there soon.
-0x165F3A59=~z~Cool! I'll be there soon.
+0x165F3A59=~z~酷！我一会就来。
 
 ;0x1672AC8B=~z~Sorry, mami. I'm real busy right now.
-0x1672AC8B=~z~Sorry, mami. I'm real busy right now.
+0x1672AC8B=~z~对不起，宝贝。我现在真的很忙。
 
 ;0x1705B086=~z~Put on something sexy.
-0x1705B086=~z~Put on something sexy.
+0x1705B086=~z~穿上些性感的衣服。
 
 ;0x1AFD2E1A=~z~What you doin' right now?
-0x1AFD2E1A=~z~What you doin' right now?
+0x1AFD2E1A=~z~你现在在做什么？
 
 ;0x1D9A2CA0=~z~Saves me the trouble.
-0x1D9A2CA0=~z~Saves me the trouble.
+0x1D9A2CA0=~z~别给我惹麻烦。
 
 ;0x22C037F0=~z~I've been thinking about you mami, you wanna give me another taste of that shit?
-0x22C037F0=~z~I've been thinking about you mami, you wanna give me another taste of that shit?
+0x22C037F0=~z~宝贝，我最近在想你，你想给我换换口味么？
 
 ;0x24CB493C=~z~I got shit going on, mami. I'm sorry.
-0x24CB493C=~z~I got shit going on, mami. I'm sorry.
+0x24CB493C=~z~宝贝，我要去做一些破事。对不起。
 
 ;0x26064D3F=~z~Yo, I was just passing by.
-0x26064D3F=~z~Yo, I was just passing by.
+0x26064D3F=~z~哟，我只是经过而已。
 
 ;0x265584B4=090
 0x265584B4=090
 
 ;0x26D9BB9D=~z~Oye mami, just wanted to give you the heads up that I got a lot going on. And I ain't gonna be able to give you the attention you need.
-0x26D9BB9D=~z~Oye mami, just wanted to give you the heads up that I got a lot going on. And I ain't gonna be able to give you the attention you need.
+0x26D9BB9D=~z~哦耶，宝贝，我只是想提醒你一下，我有很多事要做。我可能给不了你想要的关心。
 
 ;0x2BB5C8D7=~z~Cold man.
-0x2BB5C8D7=~z~Cold man.
+0x2BB5C8D7=~z~高冷的男人。
 
 ;0x2C4B50B6=~z~You remember this voice nena? Why don't we get together.
-0x2C4B50B6=~z~You remember this voice nena? Why don't we get together.
+0x2C4B50B6=~z~宝贝，你还记得这声音嘛？我们为什么不在一起呢？
 
 ;0x2FB8DF13=~z~I'm sorry gorgeaous, I'd love to but I can't.
-0x2FB8DF13=~z~I'm sorry gorgeaous, I'd love to but I can't.
+0x2FB8DF13=~z~美女，很抱歉，我想但是我不能。
 
 ;0x30C85D3F=~z~I'm here minha.
-0x30C85D3F=~z~I'm here minha.
+0x30C85D3F=~z~宝贝，我在这。
 
 ;0x3281DDB8=090
 0x3281DDB8=090
 
 ;0x3B567652=~z~O ye, now ain't good for me, another time, okay?
-0x3B567652=~z~O ye, now ain't good for me, another time, okay?
+0x3B567652=~z~哦耶，现在我没空，换个时间，好么？
 
 ;0x3B81FED6=~z~Whatever you want, baby.
-0x3B81FED6=~z~Whatever you want, baby.
+0x3B81FED6=~z~宝贝，听你的。
 
 ;0x3B91799D=~z~You better be ready for this shit!
-0x3B91799D=~z~You better be ready for this shit!
+0x3B91799D=~z~你最好准备好做那破事。
 
 ;0x3DFDF41B=~z~Hola mami, remember me? I was thinking we could have some fun.
-0x3DFDF41B=~z~Hola mami, remember me? I was thinking we could have some fun.
+0x3DFDF41B=~z~你好啊，宝贝还记得我么？我在想我们可以欢渡春宵。
 
 ;0x41CB9773=~z~And I was just about to call you and tell you I loved you. You broke my poor heart.
-0x41CB9773=~z~And I was just about to call you and tell you I loved you. You broke my poor heart.
+0x41CB9773=~z~我刚才准备打电话告诉你，我爱你，但你伤害了我脆弱的心灵。
 
 ;0x41CD0614=~z~Yo, that could be fun. Put something nice on.
-0x41CD0614=~z~Yo, that could be fun. Put something nice on.
+0x41CD0614=~z~嘿，那应该很好玩，放点棒的东西。
 
 ;0x431EC7F0=090
 0x431EC7F0=090
 
 ;0x43F51588=~z~I'm gonna be there any minute girl.
-0x43F51588=~z~I'm gonna be there any minute girl.
+0x43F51588=~z~宝贝，我随时会到。
 
 ;0x4730DD9F=~z~That's exactly what I was thinking. Thanks for handling this.
-0x4730DD9F=~z~That's exactly what I was thinking. Thanks for handling this.
+0x4730DD9F=~z~那正是我所想的。谢谢你处理这件事。
 
 ;0x499612D1=~z~Sorry babe, I got a lot going on. Another time.
-0x499612D1=~z~Sorry babe, I got a lot going on. Another time.
+0x499612D1=~z~对不起，宝贝，我还有其他事要做。换个时间吧。
 
 ;0x4E4B7F3E=090
 0x4E4B7F3E=090
 
 ;0x4F39075D=~z~Whateve, man.
-0x4F39075D=~z~Whateve, man.
+0x4F39075D=~z~无所谓啊，朋友。
 
 ;0x50D9A42D=~z~Don't go nowhere.
-0x50D9A42D=~z~Don't go nowhere.
+0x50D9A42D=~z~哪都别去。
 
 ;0x514B9402=~z~Hey, win some, lose some.
-0x514B9402=~z~Hey, win some, lose some.
+0x514B9402=~z~嘿，有得有失。
 
 ;0x56599A23=E2BCL_EA
 0x56599A23=E2BCL_EA
 
 ;0x56B19632=~z~Keep your phone on, damn.
-0x56B19632=~z~Keep your phone on, damn.
+0x56B19632=~z~把你的手机一直开着，操。
 
 ;0x5D72A3D0=~z~Ay Dio, you got something more important than this?
-0x5D72A3D0=~z~Ay Dio, you got something more important than this?
+0x5D72A3D0=~z~嘿，老大，你难道还有比这事更重要的事要做？
 
 ;0x5F8F3089=~z~Fair enough.
-0x5F8F3089=~z~Fair enough.
+0x5F8F3089=~z~很公平。
 
 ;0x6554C2C8=~z~Baby, the things I've been thinking about doing to you...
-0x6554C2C8=~z~Baby, the things I've been thinking about doing to you...
+0x6554C2C8=~z~宝贝，我在想我对你做的那些事······
 
 ;0x664ACF0F=~z~You been thinking about me, huh? I'll come around.
-0x664ACF0F=~z~You been thinking about me, huh? I'll come around.
+0x664ACF0F=~z~嗯？你一直在想念我？我会来的。
 
 ;0x66811310=E2BCL_GA
 0x66811310=E2BCL_GA
 
 ;0x6A194FC4=~z~Oye, mami. E Luis.
-0x6A194FC4=~z~Oye, mami. E Luis.
+0x6A194FC4=~z~哦耶，宝贝。和Lius在一起。
 
 ;0x6B324455=~z~Hey sorry, chula, but I've too much going on for a relationship right now.
-0x6B324455=~z~Hey sorry, chula, but I've too much going on for a relationship right now.
+0x6B324455=~z~嘿，对不起，美女，但是我现在为了一段恋情忙的不可开交。
 
 ;0x6E8570E6=~z~Fair enough, you have fun.
-0x6E8570E6=~z~Fair enough, you have fun.
+0x6E8570E6=~z~很公平，玩的愉快。
 
 ;0x719105EA=090
 0x719105EA=090
 
 ;0x754EED17=~z~I think I can help you out with that one, girl. I'll be at your place in a few.
-0x754EED17=~z~I think I can help you out with that one, girl. I'll be at your place in a few.
+0x754EED17=~z~美女，我想我可以帮助你。几分钟之内到你家。
 
 ;0x76075D79=~z~Oh, you one of those, huh?
-0x76075D79=~z~Oh, you one of those, huh?
+0x76075D79=~z~噢，你是其中一个，嗯？
 
 ;0x76B50145=~z~Yo that's cool, it wasn't nothing anyway.
-0x76B50145=~z~Yo that's cool, it wasn't nothing anyway.
+0x76B50145=~z~哟，那很酷，反正它啥也不是。
 
 ;0x777DF592=E2BCL_HA
 0x777DF592=E2BCL_HA
 
 ;0x77AB6775=~z~You better be home, mami. Because I want you. Now!
-0x77AB6775=~z~You better be home, mami. Because I want you. Now!
+0x77AB6775=~z~宝贝，你最好在家。因为我现在，就想要你！
 
 ;0x7B46E47E=~z~Minha, I'm sorry, but I'm afraid this ain't gonna work out.
-0x7B46E47E=~z~Minha, I'm sorry, but I'm afraid this ain't gonna work out.
+0x7B46E47E=~z~宝贝，对不起，但我觉得这样恐怕不行。
 
 ;0x82C78D64=~z~You got a trained seal back there, too?
-0x82C78D64=~z~You got a trained seal back there, too?
+0x82C78D64=~z~你在那也3p？
 
 ;0x8445F9F6=~z~Lovin' the twenty first century.
-0x8445F9F6=~z~Lovin' the twenty first century.
+0x8445F9F6=~z~我爱21世纪。
 
 ;0x8B67AAAA=~z~Hey, that's cool, things weren't gonna work out anyway.
-0x8B67AAAA=~z~Hey, that's cool, things weren't gonna work out anyway.
+0x8B67AAAA=~z~嘿，这很酷，但是不管怎么样，这不会行得通的。
 
 ;0x8FB50D5E=~z~It was fun hanging with you, but I'm afraid this is it.
-0x8FB50D5E=~z~It was fun hanging with you, but I'm afraid this is it.
+0x8FB50D5E=~z~和你闲逛很快乐，但是我害怕这就是我们的全部。
 
 ;0x927F208F=~z~Oye mami, I'm here.
-0x927F208F=~z~Oye mami, I'm here.
+0x927F208F=~z~哦耶，宝贝，我在这。
 
 ;0x931365F6=~z~Diablo, that's cold girl.
-0x931365F6=~z~Diablo, that's cold girl.
+0x931365F6=~z~操，那是个高冷的女生。
 
 ;0x944FB074=~z~I thought it might take two of you.
-0x944FB074=~z~I thought it might take two of you.
+0x944FB074=~z~我觉得可能需要两个你。
 
 ;0x948FAB98=~z~If you want it, you got it! I'll be right over.
-0x948FAB98=~z~If you want it, you got it! I'll be right over.
+0x948FAB98=~z~如果你想要它，那就听你的！我马上到。
 
 ;0x9582AC51=091
 0x9582AC51=091
 
 ;0x9DFEA9F1=~z~Hey, gorgeous, you're gonna have to fogive me, but I ain't the relationship type.
-0x9DFEA9F1=~z~Hey, gorgeous, you're gonna have to fogive me, but I ain't the relationship type.
+0x9DFEA9F1=~z~嘿，真好看，你最好原谅我，我不是那种适合恋爱的类型。
 
 ;0xA1171A7D=090
 0xA1171A7D=090
@@ -204,94 +204,94 @@
 0xA15D9100=090
 
 ;0xA39ABF53=~z~O ye mami, I was thinking we should hook up.
-0xA39ABF53=~z~O ye mami, I was thinking we should hook up.
+0xA39ABF53=~z~哦耶，宝贝，我觉得我们应该约一下。
 
 ;0xA4508870=~z~Okay, no doubt. Maybe some other time.
-0xA4508870=~z~Okay, no doubt. Maybe some other time.
+0xA4508870=~z~好的，毫无疑问。换个时间吧。
 
 ;0xA60653E1=~z~Bringing? Whoever you like.
-0xA60653E1=~z~Bringing? Whoever you like.
+0xA60653E1=~z~带你？你觉得你是谁？
 
 ;0xA77AE2D0=~z~Yeah, no doubt, have a good time okay?
-0xA77AE2D0=~z~Yeah, no doubt, have a good time okay?
+0xA77AE2D0=~z~耶，毫无疑问，玩的愉快。
 
 ;0xA7F03C7C=~z~I ain't gonna be able to hang out with you for a while, sorry! I'm gonna be...out of town.
-0xA7F03C7C=~z~I ain't gonna be able to hang out with you for a while, sorry! I'm gonna be...out of town.
+0xA7F03C7C=~z~我可能不能跟你去外面散会步了，对不起！我要······离开这个地方了。
 
 ;0xB27964AA=E2BCL_IA
 0xB27964AA=E2BCL_IA
 
 ;0xB6872CDD=~z~Aiight, hope things are cool.
-0xB6872CDD=~z~Aiight, hope things are cool.
+0xB6872CDD=~z~好吧，希望那个很酷。
 
 ;0xB7BCF74E=~z~As long as you don't invite a dude, we cool.
-0xB7BCF74E=~z~As long as you don't invite a dude, we cool.
+0xB7BCF74E=~z~只要你不邀请别人，我们之间就没事。
 
 ;0xBA47DD59=~z~That's a shame.
-0xBA47DD59=~z~That's a shame.
+0xBA47DD59=~z~真遗憾。
 
 ;0xBDD6B5A6=E2BCL_DA
 0xBDD6B5A6=E2BCL_DA
 
 ;0xC0C11558=~z~Stay safe, okay?
-0xC0C11558=~z~Stay safe, okay?
+0xC0C11558=~z~好好待着，行么？
 
 ;0xC45A76A8=~z~Yeah, so it's been fun, and that's all it's gonna be. See you around.
-0xC45A76A8=~z~Yeah, so it's been fun, and that's all it's gonna be. See you around.
+0xC45A76A8=~z~耶，玩的很高兴，就这样吧。回头见。
 
 ;0xC51D97D7=~z~Get yourself warmed up, mami.
-0xC51D97D7=~z~Get yourself warmed up, mami.
+0xC51D97D7=~z~宝贝，把你自己热热身。
 
 ;0xC74B800E=E2BCL_JA
 0xC74B800E=E2BCL_JA
 
 ;0xC9057AD4=~z~Cono.
-0xC9057AD4=~z~Cono.
+0xC9057AD4=~z~操。
 
 ;0xCE2017F0=~z~Let me up.
-0xCE2017F0=~z~Let me up.
+0xCE2017F0=~z~让我上来。
 
 ;0xCFF81811=~z~Yo, it's Luis, I was thinking about you. And maybe we could hook up again.
-0xCFF81811=~z~Yo, it's Luis, I was thinking about you. And maybe we could hook up again.
+0xCFF81811=~z~嘿，这是Luis。我在想你呢，没准我们还可以再出来约一次。
 
 ;0xD0C08F70=~z~Hey mami, I'm sorry but things aren't working out. I'm deleting your number.
-0xD0C08F70=~z~Hey mami, I'm sorry but things aren't working out. I'm deleting your number.
+0xD0C08F70=~z~嘿，宝贝，对不起，但我们之间没有可能了。我正在删你的号码。
 
 ;0xD0CE616B=~z~Oh, okay, it's kind of unexpected.
-0xD0CE616B=~z~Oh, okay, it's kind of unexpected.
+0xD0CE616B=~z~噢，好吧，这不是我想要的结果。
 
 ;0xD28738E4=~z~It's okay, we all gotta do our own thing.
-0xD28738E4=~z~It's okay, we all gotta do our own thing.
+0xD28738E4=~z~好吧，我们都有自己的事要做。
 
 ;0xD62A3ED5=E2BCL_AA
 0xD62A3ED5=E2BCL_AA
 
 ;0xDB14B1D9=~z~E mio.
-0xDB14B1D9=~z~E mio.
+0xDB14B1D9=~z~和我。
 
 ;0xE31805FE=~z~Wow, that's cold. Hope you're having a good time.
-0xE31805FE=~z~Wow, that's cold. Hope you're having a good time.
+0xE31805FE=~z~哇，那很酷。希望你玩的愉快。
 
 ;0xE35D4932=~z~I'm on my way.
-0xE35D4932=~z~I'm on my way.
+0xE35D4932=~z~我在路上。
 
 ;0xE3B5BF8C=~z~Hey mami, it's Luis. You wanna do something?
-0xE3B5BF8C=~z~Hey mami, it's Luis. You wanna do something?
+0xE3B5BF8C=~z~嘿，宝贝。这是Luis。你想做些坏事么？
 
 ;0xE8202990=E2BCL_CA
 0xE8202990=E2BCL_CA
 
 ;0xE8985ECC=~z~I'll be there soon, baby.
-0xE8985ECC=~z~I'll be there soon, baby.
+0xE8985ECC=~z~宝贝，我很快就来。
 
 ;0xE98CCEC9=~z~Yo, it's Luis.
-0xE98CCEC9=~z~Yo, it's Luis.
+0xE98CCEC9=~z~哟，这是Luis。
 
 ;0xEF1C6D3D=E2BCL_BA
 0xEF1C6D3D=E2BCL_BA
 
 ;0xEFB75F11=~z~I ain't gonna be able to accommodate you right now. Call me later.
-0xEFB75F11=~z~I ain't gonna be able to accommodate you right now. Call me later.
+0xEFB75F11=~z~我现在不能迁就你了。等会再打给我吧。
 
 ;0xF0DD7470=090
 0xF0DD7470=090
@@ -300,26 +300,26 @@
 0xF28FEE67=E2BCL_KA
 
 ;0xF2DB7352=~z~Oye, pre para te.
-0xF2DB7352=~z~Oye, pre para te.
+0xF2DB7352=~z~哦耶，你准备准备。
 
 ;0xF42D5649=~z~Aye mami, I think we both know this ain't going nowhere. I gotta end it.
-0xF42D5649=~z~Aye mami, I think we both know this ain't going nowhere. I gotta end it.
+0xF42D5649=~z~是的，宝贝。我觉得我们都知道这事一条死胡同。我准备结束了。
 
 ;0xF6546858=~z~Ready for this baby?
-0xF6546858=~z~Ready for this baby?
+0xF6546858=~z~准备好了么，宝贝？
 
 ;0xF67D99BE=090
 0xF67D99BE=090
 
 ;0xFA11658B=~z~Least I don't have to talk to you.
-0xFA11658B=~z~Least I don't have to talk to you.
+0xFA11658B=~z~最起码，我不用和你说话。
 
 ;0xFC4D0C6F=~z~Someone had to make this call. Thanks baby!
-0xFC4D0C6F=~z~Someone had to make this call. Thanks baby!
+0xFC4D0C6F=~z~有人不得不打这个电话。谢谢宝贝！
 
 ;0xFE25FBEE=~z~Cono, shit, um...now? I can't, sorry!
-0xFE25FBEE=~z~Cono, shit, um...now? I can't, sorry!
+0xFE25FBEE=~z~操，卧槽，嗯·······现在？我不行，对不起！
 
 ;0xFF536C95=~z~Hey baby, it's been fun, but I'm gonna have to cut things off. Sorry!
-0xFF536C95=~z~Hey baby, it's been fun, but I'm gonna have to cut things off. Sorry!
+0xFF536C95=~z~嘿，宝贝，我们之间发生的事很有趣，但是我打算结束这段感情了，对不起。
 
