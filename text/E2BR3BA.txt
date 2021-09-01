@@ -3,121 +3,121 @@
 0x015A0EA8=~z~你啥意思？
 
 ;0x06BFFC4A=~z~One thing. Huh?
-0x06BFFC4A=~z~就一件。嗯？
+0x06BFFC4A=~z~有吗，嗯？
 
 ;0x085D7F91=~z~Oh, I'm sorry...
-0x085D7F91=~z~哦，对不起……
+0x085D7F91=~z~对不起...
 
 ;0x092B011C=~z~Fuck me? Fuck me? You can't fuck me, Baby B. Name one thing you have ever been able to fuck me at.
-0x092B011C=~z~操我？操我？你操不了我的，Brucie小宝贝。说出个你能操翻我的事情来，
+0x092B011C=~z~操我？操我？你说你妈呢，小B崽子。你倒是说你能在哪方面操翻我啊。
 
 ;0x0A1A8307=~z~Oh, fuck you Mori.
-0x0A1A8307=~z~哦，Mori我操你妈的。
+0x0A1A8307=~z~噢，操你妈，Mori。
 
 ;0x0DB31D10=~z~Ramp? Just perfect.
-0x0DB31D10=~z~斜坡？不错啊。
+0x0DB31D10=~z~斜坡？真不错。
 
 ;0x101BCFBD=~z~- What the fuck man? What the fuck are you doing? Oh God, you know the rules. ~n~ - I-I-I'm
-0x101BCFBD=~z~—你搞什么鬼哥们？你他妈在干嘛？哦天哪，你知道规矩的。~n~ —我我我，
+0x101BCFBD=~z~－搞毛啊，老弟？你他妈在干嘛？哦天哪，你知道规矩的。~n~－我、我、我
 
 ;0x11C76CF5=~z~Come on!
-0x11C76CF5=~z~来吧！
+0x11C76CF5=~z~走吧！
 
 ;0x128E3110=~z~You got an opportunity here. Look at me, look at me. Watch my lips move.
-0x128E3110=~z~你还有机会，听我说，听我说。看着我的嘴唇。
+0x128E3110=~z~你面前就有一个机会。看着我，看着我。注意我的口型。
 
 ;0x1520DAE7=~z~Okay, j-j-just don't tell Mom, okay?
-0x1520DAE7=~z~好吧，别别别……别告诉老妈，好吗？
+0x1520DAE7=~z~好吧，别、别、别告诉老妈，好吗？
 
 ;0x19D0A267=~z~My bling ain't CZ and my paper ain't a photocopy.
-0x19D0A267=~z~我的首饰不是人造的，我的证书不是影印的。
+0x19D0A267=~z~我的首饰不是假的，证书也不是复印的。
 
 ;0x1B9166A6=010
 0x1B9166A6=010
 
 ;0x1DAFC753=~z~You got your cars now, so now I don't have to sit here and listen to your tiny man bullshit.
-0x1DAFC753=~z~你现在拿到车了，那我现在也没必要在这听你这矮逼瞎扯淡了吧。
+0x1DAFC753=~z~你现在拿到车了，那我也没必要接着听你这矮逼扯淡了吧？
 
 ;0x1DCD6B20=~z~Are you kidding?
-0x1DCD6B20=~z~你在逗我吗？
+0x1DCD6B20=~z~你耍猴呢？
 
 ;0x1FAE8307=~z~I mean, I work in nightclubs, I hang out with gangsters. I meet assholes 24 hours a day, but you, you take the cake, man.
-0x1FAE8307=~z~我在夜店上班，我和黑帮打交道，我一天24小时都能见到混蛋。但是你，哥们，你是真的过分了。
+0x1FAE8307=~z~我在夜店上班，和黑帮打交道，一天24小时都能见到混蛋。但是你，你是真的过分了，老兄。
 
 ;0x1FE06568=~z~Thanks for the intel, genius.
 0x1FE06568=~z~谢谢你的提醒，天才。
 
 ;0x26CF4F48=~z~It's your car, bro. If you want it trashed.
-0x26CF4F48=~z~这是你的车啊，兄弟。你想弄报废吗？
+0x26CF4F48=~z~车是你的，兄弟。坏了别怪我。
 
 ;0x2BFE46C2=~z~I lift more weights, I fly better choppers, I have better cars, I screw better women, hell, I screw women.
-0x2BFE46C2=~z~我力气比你大，我开更好的直升机，我有更好的车，我操更靓的妹，不对，应该是我能操妹。
+0x2BFE46C2=~z~我力气比你大，直升机比你好，车子比你好，操的娘们比你好。天，我操的还是娘们。
 
 ;0x2FECEBCD=~z~Sure, sure Lou, sure sure sure. You could go... if you're as dumb as you look.
-0x2FECEBCD=~z~对对对，Lou，是的是的是的。你可以走了……如果你真的和你看起来一样蠢的话。
+0x2FECEBCD=~z~对对，Lou，对对对。你走吧...如果你真那么蠢的话。
 
 ;0x30A40762=~z~Get to the side of the road, cowboys.
 0x30A40762=~z~牛仔们，到路边去。
 
 ;0x35DE1C61=~z~Never, never in the face. Oh come on.
-0x35DE1C61=~z~别啊，打人别打脸啊。哦别吧，
+0x35DE1C61=~z~别啊，打人别打脸啊。哦别吧。
 
 ;0x3D74444E=~z~You too, B, come on.... stop sulking. Jesus, you're pathetic.
-0x3D74444E=~z~你也来，Brucie，来吧……别怄气了。天哪，你好可怜。
+0x3D74444E=~z~你也来，B，来吧...别生气了。天哪，你好可怜。
 
 ;0x40C03105=~z~sorry Mori, I forgot, man.
-0x40C03105=~z~对不起Mori，我忘了，哥们。
+0x40C03105=~z~对不起Mori，我忘了，哥。
 
 ;0x422C3F4E=E2BR3_ZBA
 0x422C3F4E=E2BR3_ZBA
 
 ;0x43AA3A69=~z~Come on! Think apprentice. Think intern. Minion, yeah! Think squire boy.
-0x43AA3A69=~z~来吧！想想你是不是实习生？是不是打工仔？是不是喽啰？对吧！你就是个跟屁虫。
+0x43AA3A69=~z~来嘛！当个学徒？当实习生？小弟也行！当个侍从？
 
 ;0x495D45CF=~z~You, following me all around, learning to become a business mastermind.
-0x495D45CF=~z~你，来跟我混，带你成为商业领军人物。
+0x495D45CF=~z~你，跟着我四处游历，直到长成商业大师。
 
 ;0x4BE6E133=~z~Jesus, you guys are a couple of pent up queens. I swear. Come on, let's go have some fun, huh?
-0x4BE6E133=~z~天哪，你们是一对憋着的基佬，我发誓。来吧，咱们出去嗨，怎样？
+0x4BE6E133=~z~天哪，你们这对压抑自我的基佬真是。来吧，咱们去找点乐子，嗯？
 
 ;0x4C0CC8BE=~z~Yeah, shit, okay, yeah, shit. Come on, let's go. Okay. Okay. Come on.
-0x4C0CC8BE=~z~好，操了，行行行，操。来吧，咱们走。好了好了，来吧。
+0x4C0CC8BE=~z~好，操了，行行行，操。来吧，咱们走了。好了好了，走了。
 
 ;0x51DD6764=~z~Hey Mori, I've gotta side with your brother on this one, man. I mean, you're fucking annoying.
-0x51DD6764=~z~嘿Mori，在这事上我得和你兄弟站在一边，哥们。我意思是你真他妈讨人厌。
+0x51DD6764=~z~喂，Mori，这次我支持你弟弟。你太他妈烦人了。
 
 ;0x57235DCB=~z~Alright cut it out, M.
 0x57235DCB=~z~行了，别说了，M。
 
 ;0x572DE170=~z~No more clubs. No more Tony Queen.
-0x572DE170=~z~没有俱乐部，没有Tony这基佬了。
+0x572DE170=~z~不用管夜店，不用管Tony那个基佬。
 
 ;0x5A715A89=~z~I can see shit myself, thank you.
-0x5A715A89=~z~我自己能看见这鬼东西，谢了。
+0x5A715A89=~z~我自己有眼睛，谢谢。
 
 ;0x5B635CE0=~z~Alright gearheads, pull over.
 0x5B635CE0=~z~好了傻逼们，靠边停车吧。
 
 ;0x5DB86C15=~z~- Ow ow ow! ~n~ - Yeah yeah yeah, okay.
-0x5DB86C15=~z~—哦哦哦！~n~—耶耶耶，好的。
+0x5DB86C15=~z~－嗷嗷嗷嗷！~n~－走走走，好了。
 
 ;0x5E832BD8=~z~Arrest that shit! Stop!
-0x5E832BD8=~z~抓住那废物！停车！
+0x5E832BD8=~z~逮捕他们！停车！
 
 ;0x6156317D=~z~Thirty-two, thirty-three, thirty-...
-0x6156317D=~z~32，33，3……
+0x6156317D=~z~三十二，三十三，三十...
 
 ;0x64E8F956=~z~This pale piece of turd?
-0x64E8F956=~z~这坨干巴巴的屎？
+0x64E8F956=~z~这坨发白的臭狗屎？
 
 ;0x64F955E5=~z~I can teach you things.
-0x64F955E5=~z~我教你点东西。
+0x64F955E5=~z~我能教你东西。
 
 ;0x660E71C3=~z~I'm surprised you can see shit from your low ass driving position, Mori.
-0x660E71C3=~z~你开车坐得这么低还能看见这鬼东西真是让人惊讶，Mori。
+0x660E71C3=~z~你坐这么低居然还能看见路，Mori。
 
 ;0x665F9068=~z~What's up, Lou.
-0x665F9068=~z~Lou，你好吗？
+0x665F9068=~z~你好啊，Lou。
 
 ;0x689681D5=~z~Okay?
 0x689681D5=~z~好吗？
@@ -132,10 +132,10 @@
 0x7781951C=~z~靠边停车，傻逼们。
 
 ;0x79BD2302=~z~That's it Mori! Cut it out!
-0x79BD2302=~z~到此为止了Mori！消停会！
+0x79BD2302=~z~够了，Mori！闭嘴吧！
 
 ;0x7A49253A=~z~Okay. Okay. You gonna take me home?
-0x7A49253A=~z~行，行。你带我回家好吗？
+0x7A49253A=~z~行，行。你带我回家吧？
 
 ;0x7B28799A=E2BR3_ZDA
 0x7B28799A=E2BR3_ZDA
@@ -144,67 +144,67 @@
 0x7BCF364E=010
 
 ;0x7D0EBDC6=~z~So again... One!..
-0x7D0EBDC6=~z~所以再来！1！……
+0x7D0EBDC6=~z~从头再来！一！...
 
 ;0x7D37AD87=~z~Mori, is this a joke, man?
 0x7D37AD87=~z~Mori，你搞笑呢，哥们？
 
 ;0x82D64955=~z~I mean, I got sent to juvy when I was seventeen years old for shooting a teacher who felt up my sister.
-0x82D64955=~z~我意思是，我17岁的时候因为杀了个骚扰我妹妹的老师被送进少管所。
+0x82D64955=~z~我17岁时开枪打了性骚扰我妹的老师，早就进过少管所了。
 
 ;0x86A9D6B8=~z~are dating such a wonderful guy as Lou here.
-0x86A9D6B8=~z~和像Lou这样好的人有约了。
+0x86A9D6B8=~z~有像Lou这样优秀的男朋友！
 
 ;0x8D831F63=~z~Oh. Thanks, bro.
 0x8D831F63=~z~哦，谢了，兄弟。
 
 ;0x8E6BA8C9=~z~Fucking intense! Woo! Did you see Little Lou here though?
-0x8E6BA8C9=~z~真他妈爽！哇哦！你刚刚看到Lou了吗？
+0x8E6BA8C9=~z~真他妈爽！喔呜！看见Lou刚才的熊样了吗？
 
 ;0x8F974EB6=~z~- The man is nothing but beyond pathetic. ~n~ - Alright!
-0x8F974EB6=~z~—这人除了可怜啥都没有。~n~—行了！
+0x8F974EB6=~z~－除了可悲还是可悲的人。~n~－行了！
 
 ;0x90D154BA=~z~Hey, maybe someone can teach you about the most basic human behavior.
-0x90D154BA=~z~嘿，也许得来个人教你常人该干点啥。
+0x90D154BA=~z~也许得来个人教教你做人最基本的道理。
 
 ;0x94D07305=~z~It's just the truth is I'm... I'm jealous. I am, I'm jealous... Jealous that... that you...
-0x94D07305=~z~也许事实上，我……我其实是嫉妒了。我……我嫉妒了……嫉妒你……
+0x94D07305=~z~其实是我...嫉妒了。我嫉妒了...嫉妒你...
 
 ;0x95205AE8=~z~Ow, it hurts so bad.
-0x95205AE8=~z~噢，下手太狠了。
+0x95205AE8=~z~嗷，真的好痛...
 
 ;0x98AE7505=~z~They tried the tough love thing on me. It didn't fucking work too well. So maybe try a different fucking approach.
-0x98AE7505=~z~局子里的人也对我爱得过火，但这没啥用。所以也许再他妈试试别的方法吧。
+0x98AE7505=~z~我在里面体验了严厉的爱，但这真的没用。你还是换个方法吧。
 
 ;0x9A9271FD=E2BR3_ZZA
 0x9A9271FD=E2BR3_ZZA
 
 ;0x9B6DBB38=~z~Hey, don't go and spend that all in one place, chump.
-0x9B6DBB38=~z~嘿，鸡蛋不要放进同一个篮子，傻逼。
+0x9B6DBB38=~z~喂，别把钱一下子花完了，傻逼。
 
 ;0x9C64E851=~z~Well you're the guy in the family with some manners.
-0x9C64E851=~z~行吧，你看起来还算是这一家子里面正常点的。
+0x9C64E851=~z~你算是家里面最懂事的了。
 
 ;0x9EA9F06B=~z~You, my friend, could be free.
-0x9EA9F06B=~z~你，我的朋友，可以自由了。
+0x9EA9F06B=~z~你，我的朋友，就能自由了。
 
 ;0xA00303BE=~z~Oh jeez I'm sorry. I'm sorry I'm trying to toughen up my little bro here, my little bro who I love more than life itself and you think that you can interfere that?
-0xA00303BE=~z~哦天哪，真抱歉。真抱歉，我在试着让我的小兄弟坚强起来。我爱我的小兄弟胜过爱自己，你以为你能插手得了？
+0xA00303BE=~z~哦天哪，真抱歉。我只是想让我的小老弟坚强起来。我爱我的小兄弟胜过爱自己，然后你告诉我这也归你管？
 
 ;0xA00C0980=~z~I love you, but you're such a pussy.
-0xA00C0980=~z~我爱你，但你太娘们了。
+0xA00C0980=~z~我爱你，但你太懦弱了。
 
 ;0xA2E7B4A0=~z~Put the breaks on, you maniacs!
-0xA2E7B4A0=~z~消停会吧，疯子们！
+0xA2E7B4A0=~z~踩刹车吧，疯子们！
 
 ;0xB46C8E7A=~z~We don't need you help, idiot.
-0xB46C8E7A=~z~不用你帮忙，傻逼。
+0xB46C8E7A=~z~不用你指导，傻逼。
 
 ;0xB54C2E50=~z~I think you've maybe taken the tough love thing a little too far, man.
-0xB54C2E50=~z~我觉得你爱得有点过火了，哥们。
+0xB54C2E50=~z~我觉得你这严厉的爱有点过火了，哥们。
 
 ;0xB5BD9C22=~z~See you ladies later, okay?
-0xB5BD9C22=~z~再见了娘炮，好吗？
+0xB5BD9C22=~z~有缘再见了，好吗？
 
 ;0xB6029BFD=396
 0xB6029BFD=396
@@ -216,7 +216,7 @@
 0xB73F98BF=E2BR3_ZEA
 
 ;0xB7B573C7=~z~Hey buddy, thanks for the tip off. Here you go.
-0xB7B573C7=~z~嘿兄弟，谢谢你的情报，干得漂亮。
+0xB7B573C7=~z~嘿，伙计，感谢你的情报。拿好了。
 
 ;0xBA038B95=~z~I'm coming, don't worry about me.
 0xBA038B95=~z~我来了，别担心我。
@@ -231,19 +231,19 @@
 0xC0A0859D=~z~有钱能使鬼推磨啊。
 
 ;0xC0F6B174=~z~- The marshmallow man? ~n~- Mori.
-0xC0F6B174=~z~—就他这弱鸡样？~n~—Mori。
+0xC0F6B174=~z~－就这个弱鸡？~n~－Mori。
 
 ;0xC21B374D=~z~I mean, you're the guy that needs to learn something. Shit, you're awful, bro.
-0xC21B374D=~z~我意思是，你才是那个得多学习学习的人。操，你好讨厌，
+0xC21B374D=~z~真的，你才是还要学习的那个好吗。操，你好讨厌，老兄。
 
 ;0xC372B78C=~z~Yeah uh- uh, I'll see you at the club or something! Okay.
-0xC372B78C=~z~嗯嗯好，我在俱乐部或者是其他地方见你！好吧！
+0xC372B78C=~z~好，呃...我们夜店再见吧！好吧！
 
 ;0xC6FBD1A3=~z~Come on Baby B. Let's hug it out. Let's hug it out. I love you. I love you, I do. I love you.
-0xC6FBD1A3=~z~来吧Bruice宝贝，抱一抱。来抱一抱啊。我爱你，真的，我爱你。
+0xC6FBD1A3=~z~来吧，小B崽子。抱一抱。来抱抱吧。我爱你，真的，我爱你。爱你。
 
 ;0xC8681CC1=~z~We're done, right? I mean, we're squared?
-0xC8681CC1=~z~咱完事了是吧？我意思是咱们两清了吧？
+0xC8681CC1=~z~完事了吧？这下两清了吧？
 
 ;0xCE8A2170=~z~Let's get this shit on the road!
 0xCE8A2170=~z~咱们把这废物轰出马路！
@@ -255,13 +255,13 @@
 0xD2273BD8=~z~这破事对我不利，我晚点找你吧。
 
 ;0xD67CDC80=~z~You think that I could learn something from little B here?
-0xD67CDC80=~z~你觉得我能从小Brucie身上学到点东西？
+0xD67CDC80=~z~你觉得我能从小B崽子身上学到东西？
 
 ;0xD82E1F30=~z~This race is over!
 0xD82E1F30=~z~比赛结束了！
 
 ;0xD85F63D5=~z~Brucie, please, do this guy a favor.
-0xD85F63D5=~z~Brucie，求求你了，帮下这家伙吧。
+0xD85F63D5=~z~Brucie，拜托了，教育下他吧。
 
 ;0xD9F522BE=~z~Stop your cars now!
 0xD9F522BE=~z~立即停车！
@@ -270,46 +270,46 @@
 0xDB5DDCDB=~z~靠边停车，你这是在肆无忌惮地危害公共安全。
 
 ;0xE036CC5E=~z~He started shitting in his panties when the cops showed up.
-0xE036CC5E=~z~当条子出现的时候他开始拉裤子了。
+0xE036CC5E=~z~警笛一响他就吓得拉裤子了。
 
 ;0xE0F4D973=~z~Don't slow down on my account, assholes.
 0xE0F4D973=~z~别因为我慢下来啊，混蛋。
 
 ;0xE2410DE5=~z~Whatever. I'm only kidding... Come on!
-0xE2410DE5=~z~都行。我逗你呢……来吧！
+0xE2410DE5=~z~都行。我就开个玩笑...拜托！
 
 ;0xE2AE6AFD=~z~Just shut up and drive, bro.
 0xE2AE6AFD=~z~闭嘴开车吧，兄弟。
 
 ;0xE47FB7D6=~z~Oh come on, come on one more, come on.
-0xE47FB7D6=~z~哦加油，加油再来点，加油。
+0xE47FB7D6=~z~下去啊，再来一个，下去啊。
 
 ;0xE91B7856=~z~Would the illegal street racers please pull over?
 0xE91B7856=~z~非法街头赛车手，请靠边停车好吗？
 
 ;0xE9E8D82D=~z~Hey people!
-0xE9E8D82D=~z~嘿，大家让一让！
+0xE9E8D82D=~z~好了，各位！
 
 ;0xF08AAA78=~z~It's Luis!
-0xF08AAA78=~z~是Luis！
+0xF08AAA78=~z~我叫Luis！
 
 ;0xF2D7F1A0=~z~Hey, check it out, Brucie. You know I think Lou here might be even slightly a bigger pussy than you.
-0xF2D7F1A0=~z~嘿，看看吧，Brucie，你知道吗，我觉得Lou在这方面可能比你更娘炮一点点。
+0xF2D7F1A0=~z~喂，听我说，Brucie。我觉得Lou现在似乎比你还要娘炮一点。
 
 ;0xF5C5DA62=~z~Screw you, Mori. Why do you gotta be such a cock?
 0xF5C5DA62=~z~滚你妈的，Mori。你咋这么牛逼呢？
 
 ;0xF82CB404=~z~You know what? I think you might be right.
-0xF82CB404=~z~怎么说？我想也许你是对的。
+0xF82CB404=~z~怎么说呢？你说的或许没错。
 
 ;0xFAE828DA=~z~Me?
-0xFAE828DA=~z~我吗？
+0xFAE828DA=~z~我？
 
 ;0xFB4E7847=~z~Just what I need? A swim in the Humboldt.
-0xFB4E7847=~z~就这？在Humboldt河里游泳吗？
+0xFB4E7847=~z~我可太需要了？在Humboldt河里游泳？
 
 ;0xFBACA7FF=~z~This is - this is top work up here. You know I've got a weakened septum.
-0xFBACA7FF=~z~这是人身上最精密的构造啊。你知道吗，我鼻中隔本来就脆弱的。
+0xFBACA7FF=~z~这是人体最精密的构造啊。你知道我鼻子脆的。
 
 ;0xFF5D9471=010
 0xFF5D9471=010

@@ -6,7 +6,7 @@
 0x012A9E8E=E2BR3_OA
 
 ;0x016F5CC6=~z~Enjoy that shit.
-0x016F5CC6=~z~吃屎吧你。
+0x016F5CC6=~z~好好享用吧。
 
 ;0x031607D3=E2BR3_SD
 0x031607D3=E2BR3_SD
@@ -24,7 +24,7 @@
 0x0694B378=SFX_PAUSE_170
 
 ;0x07445B51=~z~I can always, like, boost another one for you, Mori.
-0x07445B51=~z~Mori，你喜欢的话，我随叫随到帮你偷另一辆。
+0x07445B51=~z~我随时可以帮你再搞一辆，Mori。
 
 ;0x08A9835A=SFX_PAUSE_150
 0x08A9835A=SFX_PAUSE_150
@@ -33,7 +33,7 @@
 0x09C6655D=E2BR3_ARA
 
 ;0x0AA01695=~z~See ya, Luis. Bye! Laters!
-0x0AA01695=~z~再见了，Luis。再见了！
+0x0AA01695=~z~再见了，Luis。拜！回见！
 
 ;0x0AD2BD11=120090210090120090120090210
 0x0AD2BD11=120090210090120090120090210
@@ -42,13 +42,13 @@
 0x0B1363F1=E2BR3_AJA
 
 ;0x0BC282E7=~z~Luis, man, I fucking love your club, bro.
-0x0BC282E7=~z~Luis，哥们，我太他妈爱你的俱乐部了，兄弟。
+0x0BC282E7=~z~Luis，哥们，我爱死你的夜店了，兄弟。
 
 ;0x0BC3815F=~z~I'm just here to work out that deal we got. I do this for you and we square, right?
-0x0BC3815F=~z~我来这里是忙我的生意的，我给你打工然后咱们两清，对吧？
+0x0BC3815F=~z~我只是来履行承诺的。最后帮你一次，然后咱们两清，对吧？
 
 ;0x0BCA9B61=~z~Hey, you guys should start a debtors anonymous circle jerk together.
-0x0BCA9B61=~z~，你们这些欠债的人应该一起开个树洞，
+0x0BCA9B61=~z~嘿，你们这些欠债的人应该开个匿名树洞抱团取暖。
 
 ;0x0C767200=E2BR3_AGK
 0x0C767200=E2BR3_AGK
@@ -69,7 +69,7 @@
 0x0F4001D8=E2BR3_AIA
 
 ;0x0F911256=~z~No excuses for pussying out on this fine piece of road. Do it!
-0x0F911256=~z~这么好的道路没理由不嗨起来。来吧！
+0x0F911256=~z~这么好的路况没理由犯怂。冲啊！
 
 ;0x0F9C3A9D=~z~I don't wanna go to jail, man. Shit.
 0x0F9C3A9D=~z~我不想进局子，哥们。操。
@@ -81,28 +81,28 @@
 0x10E02578=E2BR3_AXA
 
 ;0x10E8FBB9=~z~Here, have fun.
-0x10E8FBB9=~z~就这，嗨起来。
+0x10E8FBB9=~z~来，玩得愉快。
 
 ;0x12517785=~z~I wasn't talking about him, bro.
-0x12517785=~z~我可没说是他，兄弟。
+0x12517785=~z~我说的不是他，兄弟。
 
 ;0x12572032=~z~Good luck with that philosophy, bro. He might have been confused, but he was a good guy. Later, Mori.
-0x12572032=~z~借你吉言，兄弟。也许他很冤，但他是个好人。再见了，Mori。
+0x12572032=~z~祝你的信条成功，兄弟。也许他很糊涂，但他是个好人。回见，Mori。
 
 ;0x139D429F=~z~They're coming down heavy, bro.
-0x139D429F=~z~他们大军压境，兄弟。
+0x139D429F=~z~条子阵仗很大，哥。
 
 ;0x1403FAE7=~z~No, no, I am, bro. I swear it. No, this guy can extend your hose by at least two to three inches.
-0x1403FAE7=~z~不不，我在当好人，兄弟。我发誓。不，这家伙可以帮你壮阳，至少两到三英寸。
+0x1403FAE7=~z~不不，我认真的，兄弟。我发誓。不，他能帮你壮阳，少说增长六七公分。
 
 ;0x14229AD7=~z~Don't lose it on the turn, bitches.
-0x14229AD7=~z~别在转弯这输了，贱逼们。
+0x14229AD7=~z~过弯别翻车了，贱逼。
 
 ;0x14A73789=E2BR3_AGG
 0x14A73789=E2BR3_AGG
 
 ;0x14DFD1EB=~z~I might be slow, Mori. But I can work a baseball bat, man.
-0x14DFD1EB=~z~也许我是慢一点，Mori。但我会用棒球棒，哥们。
+0x14DFD1EB=~z~也许我是慢，Mori。但我很会用棒球棒，哥们。
 
 ;0x150EF159=SFX_PAUSE_300
 0x150EF159=SFX_PAUSE_300
@@ -111,13 +111,13 @@
 0x151970F4=101
 
 ;0x15FB93C3=~z~You hang out with immigrant scumbags and you're wacked out on whale semen.
-0x15FB93C3=~z~你跟移民来的人渣鬼混，你天天乱研究鲸鱼的精液。
+0x15FB93C3=~z~你跟移民人渣鬼混，还天天喝鲸鱼精液。
 
 ;0x16AFBB2F=E2BR3_TE
 0x16AFBB2F=E2BR3_TE
 
 ;0x17C1B0D8=~z~Yeah. We some dumb individuals, 4.0. See you round.
-0x17C1B0D8=~z~是啊，对于你个绩点4.0的高材生来说，我们就是些蠢得不行的傻逼。再见了。
+0x17C1B0D8=~z~对，我们都是傻逼白痴，4.0先生。再见了。
 
 ;0x17CED13E=E2BR3_VB
 0x17CED13E=E2BR3_VB
@@ -126,7 +126,7 @@
 0x17EC860F=E2BR3_AID
 
 ;0x18024623=~z~Me likeee. Nice, bro, nice.
-0x18024623=~z~我也喜欢。不错，兄弟，不错。
+0x18024623=~z~我喜欢。不错，兄弟，不错。
 
 ;0x18A11D0B=E2BR3_AHD
 0x18A11D0B=E2BR3_AHD
@@ -156,10 +156,10 @@
 0x1E8C4D20=SFX_PAUSE_240
 
 ;0x1ED0EA75=~z~Yeah, man. How'd they know what's up?
-0x1ED0EA75=~z~是啊，哥们。他们怎么知道咋回事的？
+0x1ED0EA75=~z~是啊，哥们。他们怎么知道的？
 
 ;0x1EE0109F=~z~The one thing you do got going for you is those 'roid-ravaged beans in your sack.
-0x1EE0109F=~z~你还有个要解决的事情是你裤裆里碎掉的豆子。
+0x1EE0109F=~z~你也确实想过办法，用类固醇摧残自己的蛋。
 
 ;0x1F851C44=E2BR3_RD
 0x1F851C44=E2BR3_RD
@@ -186,7 +186,7 @@
 0x20C30235=E2BR3_BAC
 
 ;0x2134EA1F=~z~Head up to the top of Middle Park, Lou.
-0x2134EA1F=~z~去Middle Park北边，Lou。
+0x2134EA1F=~z~去中央公园北边，Lou。
 
 ;0x214BD009=E2BR3_VF
 0x214BD009=E2BR3_VF
@@ -201,10 +201,10 @@
 0x2416859E=SFX_PAUSE_190
 
 ;0x256FE644=~z~The cops are gonna get us for sure.
-0x256FE644=~z~条子肯定要把咱抓了。
+0x256FE644=~z~要被条子抓住了。
 
 ;0x261D7466=~z~You want me to demonstrate that Dominican trait on the back of your head?
-0x261D7466=~z~你要不要我给你后脑勺尝下来自多米尼加的美味？
+0x261D7466=~z~要不要让你的后脑勺尝下多米尼加的滋味？
 
 ;0x26A55B22=E2BR3_BCA
 0x26A55B22=E2BR3_BCA
@@ -213,10 +213,10 @@
 0x2805C52F=E2BR3_BDD
 
 ;0x2958AE31=~z~No way, Mori, the only thing that gets me excited is images of you being driven over by an 18 wheeler.
-0x2958AE31=~z~不可能，Mori，唯一能让我激动的事情是你被18轮大卡车碾过去的画面。
+0x2958AE31=~z~不会的，Mori。要说有什么能让我激动，那就是你被泥头车创死的场面。
 
 ;0x2AD37248=~z~Shit I can put on my garden. You two ain't go no use.
-0x2AD37248=~z~我不能把垃圾堆在我的花园里。你们两个已经没用了。
+0x2AD37248=~z~屎还能当肥料种花。你们两个屁用没有。
 
 ;0x2BF83E05=101
 0x2BF83E05=101
@@ -237,13 +237,13 @@
 0x2D53601C=SFX_PAUSE_220
 
 ;0x2D5DE8AD=~z~I can't be driving with you on me like that.
-0x2D5DE8AD=~z~我不能那样跟你一起开车。
+0x2D5DE8AD=~z~你别这样跟在我后面。
 
 ;0x2DA85DD4=100
 0x2DA85DD4=100
 
 ;0x2EE75060=~z~Don't fuck the cars on this corner now.
-0x2EE75060=~z~别在这拐角翻车了。
+0x2EE75060=~z~别在急转弯翻车了。
 
 ;0x2F56DBCC=E2BR3_SC1
 0x2F56DBCC=E2BR3_SC1
@@ -261,7 +261,7 @@
 0x31D46FB2=E2BR3_AZC
 
 ;0x32F092B4=~z~Wake up, pansies. I called them. Shit just got intense, huh?
-0x32F092B4=~z~醒醒吧，娘炮们。是我报的警。这波爽不爽？
+0x32F092B4=~z~醒醒吧，娘炮们。我报的警。这波爽不爽？
 
 ;0x333E7404=E2BR3_BAA2
 0x333E7404=E2BR3_BAA2
@@ -273,16 +273,16 @@
 0x36733FD4=~z~那再见了。
 
 ;0x3686D4D9=~z~It's bullshark testosterone and that shit fucking works, man!
-0x3686D4D9=~z~这是牛鲨睾酮，那东西是真他妈有用的，哥们！
+0x3686D4D9=~z~那叫牛鲨睾酮！这玩意真的管用！老哥！
 
 ;0x380575D6=E2BR3_BAB
 0x380575D6=E2BR3_BAB
 
 ;0x39403E0A=~z~Hook me up with a ride, Luis. Push that thing.
-0x39403E0A=~z~送我上车吧，Luis。按那按钮。
+0x39403E0A=~z~给我来辆车，Luis。快按下去。
 
 ;0x3940C56F=~z~Yeah, man, we are. We should do this more often, bro.
-0x3940C56F=~z~是啊，哥们，咱都是。我们应该多整点这些活，兄弟。
+0x3940C56F=~z~对啊，老哥，是这样。这种活动以后多来点，哥。
 
 ;0x3A05600C=SFX_OVERLAP_2670
 0x3A05600C=SFX_OVERLAP_2670
@@ -294,13 +294,13 @@
 0x3B25288E=E2BR3_RE
 
 ;0x3BC59B96=~z~Lopez. What the fuck? Speed that shit up.
-0x3BC59B96=~z~Lopez，你搞什么鬼？快他妈加速啊。
+0x3BC59B96=~z~Lopez，什么情况？快他妈加速啊。
 
 ;0x3BEBEE26=E2BR3_SC2
 0x3BEBEE26=E2BR3_SC2
 
 ;0x3C4779E3=~z~Urgh god I'm hanging out with a group of imbeciles. Can't even pick up the fucking cars."
-0x3C4779E3=~z~呃啊啊天哪，我跟一群连车都提不走的傻逼做事。
+0x3C4779E3=~z~天哪，我的队友怎么都是弱智。提个车都不会。
 
 ;0x3C8E706C=E2BR3_ANA
 0x3C8E706C=E2BR3_ANA
@@ -312,10 +312,10 @@
 0x3CC4A932=E2BR3_UB
 
 ;0x3CFD46C6=~z~What is the point in taking a car if it ain't gonna be in a state to make the shipments?
-0x3CFD46C6=~z~要是在这个州连送一批车都不允许，那我们提走这辆车有啥意义？
+0x3CFD46C6=~z~如果车的状况都没法装箱运输，我还要这辆车干嘛？
 
 ;0x3E1F4F1D=~z~Shut up, Mori.
-0x3E1F4F1D=~z~你闭嘴吧，Mori。
+0x3E1F4F1D=~z~闭嘴吧，Mori。
 
 ;0x3E2E0A0A=~z~Go straight on this first ramp, okay?
 0x3E2E0A0A=~z~第一个斜坡直接冲上去，好吗？
@@ -324,13 +324,13 @@
 0x3F0005AD=SFX_OVERLAP_5300
 
 ;0x3F27F13A=~z~We are stealing some cars, little B. You think you can handle that?
-0x3F27F13A=~z~我们去偷些车，小Brucie。你觉得你能胜任吗？
+0x3F27F13A=~z~我们要去偷车，小B崽子。你觉得你能行吗？
 
 ;0x408FF3E6=~z~You, me and Luis Lopez cruising down Algonquin to boost some motherfucking cars.
-0x408FF3E6=~z~你，我和Luis Lopez去Algonquin逛一逛，再他妈偷些车。
+0x408FF3E6=~z~你、我和Luis Lopez在Algonquin到处浪，开着偷来的车。
 
 ;0x41970A04=~z~Yeah, Mori. You're a real asshole. You might wanna do something about that.
-0x41970A04=~z~确实，Mori。你是真的混蛋。你他妈还想来真的。
+0x41970A04=~z~是啊，Mori。你实在太过分了。还是改一改比较好。
 
 ;0x4279CB03=200090020
 0x4279CB03=200090020
@@ -342,13 +342,13 @@
 0x44911717=~z~别撞到我，哥们。
 
 ;0x44ABFA9A=~z~Now that's how we roll, motherfuckers!
-0x44ABFA9A=~z~咱就是这么玩，操你妈的！
+0x44ABFA9A=~z~这就是我们的风范，傻逼玩意！
 
 ;0x44F7B55A=E2BR3_RH
 0x44F7B55A=E2BR3_RH
 
 ;0x45978360=~z~Speed up, Luis. Where are you, motherfucker?
-0x45978360=~z~加速啊，Luis。操你妈的你在哪呢？
+0x45978360=~z~加速，Luis。你在哪呢，傻逼玩意？
 
 ;0x46437559=E2BR3_QA
 0x46437559=E2BR3_QA
@@ -357,10 +357,10 @@
 0x4726B3BB=E2BR3_AAI
 
 ;0x4842F851=~z~You see? You see what I mean? No one's interested in your pathetic rolling shit. You're a Beta male.
-0x4842F851=~z~看到没？看到我说的没？没人有兴趣和你这可怜虫一起整活。你就是个闷驴，
+0x4842F851=~z~你看，懂我意思了吧？没人在乎你的什么狗屁风范。你就是个二流男性。
 
 ;0x48A47B1C=~z~What does that even mean? 'This is how we roll'. I certainly don't roll with a flabby little bitch like you.
-0x48A47B1C=~z~你又是啥意思？“就是这样玩？”我肯定不会跟像你这样的小弱鸡一起整活的。
+0x48A47B1C=~z~这话什么意思？「这才是我们的风范」。跟你这种弱鸡在一起可不是我的风范。
 
 ;0x48F3DE0D=E2BR3_RB
 0x48F3DE0D=E2BR3_RB
@@ -372,10 +372,10 @@
 0x49BCE657=E2BR3_RA
 
 ;0x4A11E0EF=~z~Shut up, B. These were custom jobs.
-0x4A11E0EF=~z~闭嘴吧，Brucie。这些车都是定做的。
+0x4A11E0EF=~z~闭嘴吧，B。这些可都是改装车。
 
 ;0x4A1FB807=~z~At least we don't owe you shit anymore, Mori. Remember, the debt got erased in that bet. Fuckin' genius.
-0x4A1FB807=~z~至少我不欠你的了，Mori。记住了，咱们赌过的，欠债一笔勾销，你他妈个鬼才。
+0x4A1FB807=~z~至少我们不欠你钱了，Mori。记得吗，我赢了欠债就一笔勾销。你个鬼才。
 
 ;0x4A26E393=SFX_PAUSE_200
 0x4A26E393=SFX_PAUSE_200
@@ -387,28 +387,28 @@
 0x4A41C062=E2BR3_TC
 
 ;0x4B485DC2=~z~And uh a oh oh yeah yeah, what are those properties worth now?!
-0x4B485DC2=~z~那呃……噢噢，对对，那现在那些房产值多少钱？！
+0x4B485DC2=~z~还有...噢噢，对对，现在它们还值多少钱？！
 
 ;0x4BBD14AF=~z~I said I don't want to talk about it, okay?! Shit!
-0x4BBD14AF=~z~操！我都说了不想讲这个了好吗？！
+0x4BBD14AF=~z~我都说了不想聊这个了好吗？！妈的！
 
 ;0x4C39003D=~z~Warning! Warning! 'Roid rage alert. 'Roids in the house. Control yourself, little B.
-0x4C39003D=~z~警报！警报！碎蛋狂暴预警！碎蛋狂暴即将席卷全场！克制点自己，小Brucie。
+0x4C39003D=~z~警报！警报！类固醇狂躁警告！暴躁老哥来啦！你克制点，小B崽子。
 
 ;0x4C470494=~z~Too easy for you, was it, Bruce? Well let me see if I can do something about that. If we're all getting bored.
 0x4C470494=~z~对你来说太简单了，不是吗，Brucie？好，让咱看看你能不能整点活出来，不然的话咱都要无聊了。
 
 ;0x4CB68C37=~z~Shit, yeah, of course, man. I can handle anything you throw at me, bro. This is going to be some slick shit.
-0x4CB68C37=~z~操，那当然啊，哥们。不管你出啥招我都能接住，兄弟。这不就是小菜一碟的事吗。
+0x4CB68C37=~z~操，当然行啊，老哥。就没我干不来的事，哥。这次的活一定超给力。
 
 ;0x4DB28E53=~z~So, Mori, bro, what are we doing?
-0x4DB28E53=~z~那么，Mori，兄弟，咱要干啥？
+0x4DB28E53=~z~那个，Mori，哥。咱们要干啥？
 
 ;0x4E15DADE=100090010010090100
 0x4E15DADE=100090010010090100
 
 ;0x4E2B7972=~z~I'd call your parents, man. Shit, I don't know. I'm sorry, bro. Maybe things might turn out okay. Later.
-0x4E2B7972=~z~打电话给爸妈吧，哥们。操，我也不太懂，真抱歉，兄弟。也许事情会好起来的。再见了。
+0x4E2B7972=~z~打电话给爸妈吧，哥们。操，我也不太懂。真抱歉，兄弟。也许事情会好起来的。回见。
 
 ;0x4E9C094C=E2BR3_AUA
 0x4E9C094C=E2BR3_AUA
@@ -417,13 +417,13 @@
 0x4E9E44BF=SFX_PAUSE_200
 
 ;0x4EEC906A=~z~Whoa, sharp corner ahead.
-0x4EEC906A=~z~哇哦，前方急转弯。
+0x4EEC906A=~z~喔，前方急转弯。
 
 ;0x4F061ED3=~z~They got an air unit on us. Now we really got to turn up the heat.
-0x4F061ED3=~z~他们天上来人了。现在事情真的是进入白热化了。
+0x4F061ED3=~z~他们派直升机追了。这下真的有压力了。
 
 ;0x4FE752E8=~z~Fuck me, bro.
-0x4FE752E8=~z~操了，兄弟。
+0x4FE752E8=~z~我操，兄弟。
 
 ;0x50F055F0=100010090100
 0x50F055F0=100010090100
@@ -432,7 +432,7 @@
 0x5115B50A=SFX_PAUSE_240
 
 ;0x51413F23=~z~What have I got to work with. You guys are worse than shit.
-0x51413F23=~z~我还能跟谁一起干活？你们这帮人比废物还废物。
+0x51413F23=~z~这我生意还怎么做？你们连坨屎都比不上。
 
 ;0x514ACEE0=SFX_PAUSE_150
 0x514ACEE0=SFX_PAUSE_150
@@ -441,19 +441,19 @@
 0x51773A0F=E2BR3_VG1
 
 ;0x52BC10D9=~z~I'm real distracted when I'm in Maisonette, Brucie. It's work for me. Glad you enjoy it though.
-0x52BC10D9=~z~我在9号豪宅的时候真的感到心烦意乱，Brucie。看来灵验了。你在那开心就好。
+0x52BC10D9=~z~我在豪宅的时候其实没啥兴致，Brucie，工作罢了。你玩得开心就好。
 
 ;0x5475A118=~z~Luis is way back. Shit.
-0x5475A118=~z~Luis落后面了，操。
+0x5475A118=~z~Luis还在后面，操。
 
 ;0x54938C1C=~z~And that, gentlemen, is a wrap.
-0x54938C1C=~z~就是这样，先生们，打包带走。
+0x54938C1C=~z~就是这样，先生们，该打包了。
 
 ;0x54A2CAE8=E2BR3_APA
 0x54A2CAE8=E2BR3_APA
 
 ;0x54B001BD=~z~Oh, hey! Anyone for a beef frank?
-0x54B001BD=~z~噢！有人想来份牛肉片吗？
+0x54B001BD=~z~噢，喂！有人想来根牛肉肠吗？
 
 ;0x556488A6=E2BR3_XF2
 0x556488A6=E2BR3_XF2
@@ -465,7 +465,7 @@
 0x56DCF5FC=E2BR3_AAH1
 
 ;0x56EF260F=~z~We can't wait for you, Luis. Come on.
-0x56EF260F=~z~咱不能等你，Luis。快点的。
+0x56EF260F=~z~我们没空等你，Luis。快点。
 
 ;0x56F6979F=E2BR3_AMA
 0x56F6979F=E2BR3_AMA
@@ -474,10 +474,10 @@
 0x574CCD28=E2BR3_XC
 
 ;0x575152AD=~z~Hurry it up, Lou.
-0x575152AD=~z~搞快点，Lou。
+0x575152AD=~z~开快点，Lou。
 
 ;0x5774A02F=~z~Whoo! Intense!
-0x5774A02F=~z~哇哦！太猛了！
+0x5774A02F=~z~哇哦！爽啊！
 
 ;0x57A208F1=200090200090020090120090210210210090210
 0x57A208F1=200090200090020090120090210210210090210
@@ -486,10 +486,10 @@
 0x57F055E4=SFX_PAUSE_210
 
 ;0x585E5D8F=~z~Are you Alpha or Omega? You think you can handle it?
-0x585E5D8F=~z~你是爷们还是废物？你以为你能掌控得了这些？
+0x585E5D8F=~z~你是一流，还是末流？你觉得有把握吗？
 
 ;0x58D18EBE=~z~My brother, man. He's gone. I don't know what to do.
-0x58D18EBE=~z~哥们，我兄弟没了。我不懂该咋办。
+0x58D18EBE=~z~天哪，我哥没了。这该咋办啊。
 
 ;0x59675B22=E2BR3_VC
 0x59675B22=E2BR3_VC
@@ -498,7 +498,7 @@
 0x5A0709F1=~z~我不懂你，但是我觉得比在干旱的土地上舒服多了。
 
 ;0x5ABBD51A=~z~Ahh, come on, I only do this 'cause I love him. Look, fucking shoot me, but what can I say?
-0x5ABBD51A=~z~啊哈哈，别吧。因为我爱你，所以我这么做。听着，你他妈的给我一枪啊，我能说啥？
+0x5ABBD51A=~z~啊，别吧。我这么做都是出于对他的爱。听着，一枪打死我都行，我能说什么呢？
 
 ;0x5BA15DD9=E2BR3_RF
 0x5BA15DD9=E2BR3_RF
@@ -510,7 +510,7 @@
 0x5CDD26EA=E2BR3_ZAA
 
 ;0x5D32BB2C=~z~You think you can handle a chopper, ladies? 'Cause it's on us!
-0x5D32BB2C=~z~你以为你们能对付得了一架直升机，娘炮们？因为他就是来对付咱们的！
+0x5D32BB2C=~z~对付得了直升机吗，娘炮们？它已经来啦！
 
 ;0x5D85FD5E=E2BR3_AFA
 0x5D85FD5E=E2BR3_AFA
@@ -528,22 +528,22 @@
 0x60A0AE8A=120090210090120090120010090120090010090100090210
 
 ;0x611D3DBD=~z~Uhh yeah, sometimes nature takes the weakest of us so the herd can move faster.
-0x611D3DBD=~z~啊，是啊。但是优胜劣汰，适者生存啊。
+0x611D3DBD=~z~哎，是啊。但是优胜劣汰，适者生存啊。
 
 ;0x611F2E5C=~z~Shit, man, you're a prize asshole.
 0x611F2E5C=~z~操，哥们，你是真的混蛋啊。
 
 ;0x612A34E5=~z~Keep it together on this turn.
-0x612A34E5=~z~在转弯这咱们别散了。
+0x612A34E5=~z~过个弯可别散了。
 
 ;0x61910FED=~z~I don't know. Maybe you shoulda planned for some fuckups.
-0x61910FED=~z~我不知道。也许你应该未雨绸缪的。
+0x61910FED=~z~我不知道。你早该想到会有次品的。
 
 ;0x61F92FF8=~z~Don't do nothing, Mori. This is just fine.
 0x61F92FF8=~z~别啥都不干，Mori。这才刚刚好。
 
 ;0x6208D1BF=~z~Okay, now hit this ramp at a good angle. Don't fuck it up.
-0x6208D1BF=~z~好了，找好角度冲上斜坡，别搞砸了。
+0x6208D1BF=~z~好了，找好角度冲上斜坡。别搞砸了。
 
 ;0x65513F9F=101
 0x65513F9F=101
@@ -555,25 +555,25 @@
 0x669DD46A=~z~第二个斜坡别玩脱了，混蛋们。
 
 ;0x66B8459D=~z~Where's Luis, bro.
-0x66B8459D=~z~Luis在哪呢，兄弟。
+0x66B8459D=~z~Luis去哪了，弟弟。
 
 ;0x66D87178=~z~Yeah you could sit around crying and hugging and talking about how you lost it all.
-0x66D87178=~z~然后你们就可以一起坐下来抱头痛哭，诉苦自己是怎样失去这一切的。
+0x66D87178=~z~大家聚在一起哭哭抱抱，哭诉自己是怎样失去一切的。
 
 ;0x673429D3=E2BR3_WA
 0x673429D3=E2BR3_WA
 
 ;0x68F27187=~z~You fucking guys, man. Would you give it a rest?
-0x68F27187=~z~你个操蛋玩意，哥们。你能消停会？
+0x68F27187=~z~你俩是一家人，哥们。能不能消停会儿？
 
 ;0x6912A523=E2BR3_WE
 0x6912A523=E2BR3_WE
 
 ;0x6912F630=~z~Come on, Lopez. We're waiting.
-0x6912F630=~z~快点吧，Lopez，咱等着呢。
+0x6912F630=~z~快点，Lopez，我们等着呢。
 
 ;0x69354A9B=~z~You alright there, Luis?
-0x69354A9B=~z~你还好吧，Luis？
+0x69354A9B=~z~你还好吗，Luis？
 
 ;0x698C3A23=~z~Because the car's fucked, Kibbutz.
 0x698C3A23=~z~因为车子被动过了，Kibbutz。
@@ -591,7 +591,7 @@
 0x6BB7B3FE=SFX_PAUSE_180
 
 ;0x6C43CB18=~z~See how you take this corner.
-0x6C43CB18=~z~看看你们怎样过弯。
+0x6C43CB18=~z~看看你们怎么过弯。
 
 ;0x6C69EEF6=SFX_PAUSE_280
 0x6C69EEF6=SFX_PAUSE_280
@@ -603,7 +603,7 @@
 0x6E235EB1=E2BR3_BDB
 
 ;0x6E2ACD9B=~z~Oh, you see that, bitches! You punks.
-0x6E2ACD9B=~z~哦，你看看吧，小逼崽子们！你们这帮小废物。
+0x6E2ACD9B=~z~哦，看见了吗，贱人们！一群废物。
 
 ;0x6E6172DC=~z~Sweet, bro.
 0x6E6172DC=~z~不错啊，兄弟。
@@ -621,46 +621,46 @@
 0x70A0EE1C=E2BR3_BCC
 
 ;0x71811B3D=~z~Oh yeah? What's that?
-0x71811B3D=~z~哦是吗？写的啥？
+0x71811B3D=~z~是吗？啥邮件？
 
 ;0x719121BD=SFX_PAUSE_270
 0x719121BD=SFX_PAUSE_270
 
 ;0x71CF0765=~z~G-string on too tight, is it? You guys should lighten the fuck up. Come on!
-0x71CF0765=~z~裤裆太紧了是不？你们他妈的放松点吧。来吧！
+0x71CF0765=~z~裤裆太紧了是不？你们他妈放松点吧。拜托！
 
 ;0x73C27532=~z~Don't fuck up the jump. You gotta be in line.
-0x73C27532=~z~别跳过头了。你们得排成一队。
+0x73C27532=~z~跳台别玩脱了。一个一个来。
 
 ;0x74331B7F=~z~Whoa.
 0x74331B7F=~z~哇哦。
 
 ;0x74402FB1=~z~Remind me again what you paid for that place in Broker, Brucie.
-0x74402FB1=~z~你又提醒了我。在Broker的那地方你付了多少钱，Brucie。
+0x74402FB1=~z~你在Broker买的房子花了多少钱来着，Brucie？
 
 ;0x74DF0103=~z~I just turned up the heat, bitches! Deal with it!
 0x74DF0103=~z~我刚刚搞了波事情，小逼崽子们！来玩吧！
 
 ;0x756C78CD=~z~Shit! Can you stay off my tail.
-0x756C78CD=~z~操！你能离我车屁股远点吗？
+0x756C78CD=~z~操！能离我远点吗？
 
 ;0x75837235=~z~Now go easy on this one. You don't wanna overshoot the third.
-0x75837235=~z~这波放松点。你可不想直接冲到第三个斜坡去吧。
+0x75837235=~z~这波悠着点。你也不想直接冲到第三个坡上吧。
 
 ;0x75ED7BCD=E2BR3_AAC2
 0x75ED7BCD=E2BR3_AAC2
 
 ;0x76493164=~z~Here's our guy with the cars. You chumps could learn a thing or two here.
-0x76493164=~z~这就是带着车的人了。你们几个傻逼还是可以在这学到一两点东西的。
+0x76493164=~z~人和车子都在这儿。我让你们两个傻逼长长见识。
 
 ;0x76A454FA=200
 0x76A454FA=200
 
 ;0x7762DA26=~z~I think Brucie is talking about Hercules. That's where you pick up, ain't it?
-0x7762DA26=~z~我觉得Brucie说的是大力士俱乐部。你是在那搞事的对吧？
+0x7762DA26=~z~我觉得，Brucie说的是大力神。你就是在那儿交友的，对吧？
 
 ;0x7844C8E6=~z~I could stop for a frank and still crush you bitches. Yeah!
-0x7844C8E6=~z~我能一边停下来吃牛肉片一边跟你们这帮臭逼干架。
+0x7844C8E6=~z~我停车吃根肠都比你们俩贱逼快。耶！
 
 ;0x786557D5=~z~Why you calling me, Lopez?
 0x786557D5=~z~你为啥叫我，Lopez？
@@ -675,7 +675,7 @@
 0x78A86F99=101
 
 ;0x798984BF=~z~Stick a seahorse up your ass, whatever nautical shit you like to calm yourself down with.
-0x798984BF=~z~拿个海马粘你屁股上吧，或者用点啥你喜欢的海里的鬼东西给自己镇静下。
+0x798984BF=~z~找个海马粘屁股上吧。只要你能冷静下来，随便什么水产都行。
 
 ;0x7ABFBF83=E2BR3_YD
 0x7ABFBF83=E2BR3_YD
@@ -702,10 +702,10 @@
 0x7F024471=E2BR3_ABA
 
 ;0x7F729661=~z~Like fucking clockwork, bro. We should boost cars more often.
-0x7F729661=~z~兄弟，咱就他妈像上紧的发条一样，应该多经常偷点车。
+0x7F729661=~z~就他妈像上紧的发条一样，兄弟。应该多偷点车。
 
 ;0x7F995213=~z~Yeah, you hear that, Brucie, he called you a little cunt.
-0x7F995213=~z~是啊，你听到没，Brucie，他说你是娘们。
+0x7F995213=~z~是啊，听到没，Brucie，他说你是贱逼。
 
 ;0x8039835F=E2BR3_ZC
 0x8039835F=E2BR3_ZC
@@ -717,7 +717,7 @@
 0x819DA281=~z~你说真的，兄弟？
 
 ;0x8201CB34=~z~Huh?
-0x8201CB34=~z~哈？
+0x8201CB34=~z~啥？
 
 ;0x82B3FA5E=120120090120090210090120090120
 0x82B3FA5E=120120090120090210090120090120
@@ -744,19 +744,19 @@
 0x861B425F=010100090100090010
 
 ;0x866B6FCB=~z~Bring her home, bitches.
-0x866B6FCB=~z~送她们回家吧，贱逼们。
+0x866B6FCB=~z~送她回家，贱逼们。
 
 ;0x87D19371=~z~You see? What did I tell you, Lopez? Overexposed like a stripper in Fleet Week.
-0x87D19371=~z~看到没？我咋跟你说的来着，Lopez。装逼过头得像个在舰队周期间的脱衣舞小妹。
+0x87D19371=~z~看到没？我咋跟你说的来着，Lopez。随便说两句就让他破防了。
 
 ;0x87E05B49=~z~Yo, bro, uh-hum, get me a car, will you? Push the button.
-0x87E05B49=~z~哟，兄弟，嗯哼，可以给我辆车吗？按下那按钮就成。
+0x87E05B49=~z~哟，兄弟。呃，给我辆车，好吗？按个按钮就成。
 
 ;0x8807CBD7=SFX_PAUSE_160
 0x8807CBD7=SFX_PAUSE_160
 
 ;0x886F17B3=~z~It's called America.
-0x886F17B3=~z~这就是美国风格。
+0x886F17B3=~z~这就是美利坚。
 
 ;0x88F24D1A=100
 0x88F24D1A=100
@@ -768,7 +768,7 @@
 0x8B72DC0E=101
 
 ;0x8BF7B3FD=~z~About to do untold damage to this motherfucker! That is how we roll!
-0x8BF7B3FD=~z~接着大概就是对这些混蛋玩意偷偷搞破坏了！就是这么玩！
+0x8BF7B3FD=~z~然后给他们来一发大的！这才是我们的风范！
 
 ;0x8C711757=SFX_PAUSE_170
 0x8C711757=SFX_PAUSE_170
@@ -777,7 +777,7 @@
 0x8DB9D292=E2BR3_RG
 
 ;0x8DCC6E76=~z~Anything would look big hanging next to those peanuts. Right? Yeah, am I right?
-0x8DCC6E76=~z~不管是啥东西挂在那几颗花生米旁边都会看起来很大，对吧？怎样，我说的对吧？
+0x8DCC6E76=~z~啥东西挂在花生米旁边看着都大，对吧？没错吧？
 
 ;0x8DE9280C=E2BR3_BAA1
 0x8DE9280C=E2BR3_BAA1
@@ -795,22 +795,22 @@
 0x8F3BC741=E2BR3_TA
 
 ;0x8F8D2B06=~z~Mori, bro, are you... uhhh... fucking with me?
-0x8F8D2B06=~z~Mori，兄弟，你……啊哈哈……你在逗我吗？
+0x8F8D2B06=~z~Mori，哥，你是在...拿我开涮吗？
 
 ;0x8FBCE6AA=~z~Oh, and the garage, too. How much did you pay?
-0x8FBCE6AA=~z~哦，还有车库。你付了多少钱？
+0x8FBCE6AA=~z~哦，还有车库。花了多少钱？
 
 ;0x9008E475=SFX_PAUSE_130
 0x9008E475=SFX_PAUSE_130
 
 ;0x9174CB13=~z~Mellow out, bitch. I'll talk to you soon.
-0x9174CB13=~z~别激动，小逼崽子。晚点我再找你聊吧。
+0x9174CB13=~z~别激动，贱人。晚点再联系。
 
 ;0x92C65DC7=~z~Well, you see, it's this doctor, he's a fucking genius.
-0x92C65DC7=~z~好，看着哈，这是封医生的信，他真他妈的是个天才。
+0x92C65DC7=~z~听我说，是一位医生，他他妈的是个天才。
 
 ;0x92EB41E4=~z~Three mad cats on the prowl for some autos. Scoping some joints.
-0x92EB41E4=~z~三个疯子在一起找几辆车。划定搜索范围，
+0x92EB41E4=~z~三个疯哥们在一起狩猎跑车。划定狩猎范围，
 
 ;0x939057EC=SFX_PAUSE_100
 0x939057EC=SFX_PAUSE_100
@@ -819,7 +819,7 @@
 0x93C571DD=E2BR3_ASA
 
 ;0x93C81A59=~z~Ahh no, don't say cruising, Brucie. It'll get Lewis all excited.
-0x93C81A59=~z~啊不不，别说这只是逛一逛。这会让Luis整个人都激动起来的。
+0x93C81A59=~z~啊不，别说「浪」字，Brucie。会让Luis兴奋起来的。
 
 ;0x9487AFE0=E2BR3_AAA
 0x9487AFE0=E2BR3_AAA
@@ -831,10 +831,10 @@
 0x968E3062=SFX_PAUSE_180
 
 ;0x970F87F4=~z~There you go, bro.
-0x970F87F4=~z~兄弟，走你。
+0x970F87F4=~z~你的车，兄弟。
 
 ;0x9754BA00=~z~Stick to me, bitches. We're moving.
-0x9754BA00=~z~跟紧我了，臭逼们。咱走了。
+0x9754BA00=~z~跟紧我，臭逼们。出发了。
 
 ;0x9821B6AB=E2BR3_AZA
 0x9821B6AB=E2BR3_AZA
@@ -855,13 +855,13 @@
 0x9BF154C3=201090101011090101090011090101
 
 ;0x9C47A261=~z~I said, 'this is how we roll.' Yeah! Suck it up, bitches!
-0x9C47A261=~z~我说的是“就是这么玩”，对吧！佩服吧，你个贱逼。
+0x9C47A261=~z~我说「这才是我们的风范」，耶！臣服吧，这帮贱逼。
 
 ;0x9C612281=E2BR3_AHC
 0x9C612281=E2BR3_AHC
 
 ;0x9CBFD8C5=~z~I love this pasty, podgy, no-cock, dumb-as-shit, in-debt-up-to-his-eyeballs lunatic
-0x9CBFD8C5=~z~我爱这个发白的，微胖的，没鸡巴的，傻得一逼，还一看就是欠钱的疯子。
+0x9CBFD8C5=~z~我爱这个发白、微胖、阳痿、傻得一逼、一看就欠别人钱的疯子。
 
 ;0x9D0CBEC7=E2BR3_BDA
 0x9D0CBEC7=E2BR3_BDA
@@ -870,10 +870,10 @@
 0x9D1FF6E7=E2BR3_UH
 
 ;0x9D93A68B=~z~Awesome that we can hang like this. Fucking crazy, right?
-0x9D93A68B=~z~更惊奇的是咱还可以像这样聚在一起。真他妈疯了，对吧？
+0x9D93A68B=~z~咱们能这样聚在一起太棒了。真他妈疯了，对吧？
 
 ;0x9E1B430B=~z~I'm a rich asshole with a big cock. Ain't nothing wrong with that, you pansies.
-0x9E1B430B=~z~但我是个又有钱又有鸡巴的混蛋，没毛病吧。你个娘炮。
+0x9E1B430B=~z~我是个有钱的混蛋，还有一根大屌。没毛病吧，两位娘炮。
 
 ;0x9E3AF274=SFX_PAUSE_240
 0x9E3AF274=SFX_PAUSE_240
@@ -900,16 +900,16 @@
 0xA005D557=E2BR3_VG2
 
 ;0xA08D0DF0=~z~Catch you boys later.
-0xA08D0DF0=~z~伙计们，我晚点找你们。
+0xA08D0DF0=~z~晚点再找你们。
 
 ;0xA151878C=~z~Ahh, here he is. Let's go talk to the bitch.
-0xA151878C=~z~啊，就这了。咱们进去跟贱逼们聊聊。
+0xA151878C=~z~啊，他在这儿。我们去跟那个贱逼聊聊。
 
 ;0xA188526A=SFX_PAUSE_250
 0xA188526A=SFX_PAUSE_250
 
 ;0xA2ABC621=~z~Smile for the chopper, ladies.
-0xA2ABC621=~z~笑对直升机吧，娘炮们。
+0xA2ABC621=~z~对直升机笑一个，娘炮们。
 
 ;0xA36AFFE8=E2BR3_AIC2
 0xA36AFFE8=E2BR3_AIC2
@@ -921,13 +921,13 @@
 0xA3C6AF7F=SFX_PAUSE_180
 
 ;0xA41F4C0C=~z~Only thing more useless than that little pecker of his is his portfolio. Ain't that right, Brucie?
-0xA41F4C0C=~z~唯一比他那没用的小鸡巴还要废物的，是他投资的一整套东西。对不对啊，Brucie？
+0xA41F4C0C=~z~比他的小鸡巴还要废物的就只有是他的资产投资了。对不对啊，Brucie？
 
 ;0xA42B1B42=~z~Glad you can admit it. Now, repeat after me. "I am a complete fucking loser."
-0xA42B1B42=~z~很高兴你能承认这点。现在跟我重复说：“我他妈是个十足的失败者”。
+0xA42B1B42=~z~很高兴你能承认这点。现在跟我重复说：「我他妈是个十足的失败者」。
 
 ;0xA50CF72F=~z~I fucking hate you, bro, you tiny orange turd.
-0xA50CF72F=~z~我真他妈讨厌你，兄弟，你个黄皮臭狗屎矮逼。
+0xA50CF72F=~z~我真他妈讨厌你，兄弟。黄皮臭矮逼。
 
 ;0xA5101511=E2BR3_AAH2
 0xA5101511=E2BR3_AAH2
@@ -936,10 +936,10 @@
 0xA5B4A923=E2BR3_WB
 
 ;0xA605FF24=~z~Holy shit.
-0xA605FF24=~z~太操蛋了。
+0xA605FF24=~z~操他妈的。
 
 ;0xA66C0512=~z~Yeah, he says he's made this pill that is gonna sort out that penis problem you got.
-0xA66C0512=~z~对，他说他开发了一种药可以治好你鸡巴的毛病。
+0xA66C0512=~z~没错，他研发了一种药片，可以治好你鸡巴的毛病。
 
 ;0xA67B682A=100090010120210120090210120090210
 0xA67B682A=100090010120210120090210120090210
@@ -975,19 +975,19 @@
 0xAC3BEC73=SFX_PAUSE_100
 
 ;0xADE6E7B9=~z~Hey Brucie, bro, it's good to hang with you. I'm really happy you're along on this ride.
-0xADE6E7B9=~z~嘿Brucie，兄弟，你能跟我出来真好，今天你能陪我出这趟门我真高兴。
+0xADE6E7B9=~z~嘿，Brucie，弟弟，跟你一起出门真好。今天你能陪着我出来我很高兴。
 
 ;0xAE997C78=~z~and I want what's best for him.
-0xAE997C78=~z~我还寻思啥东西对他效果最好。
+0xAE997C78=~z~而且我也是为了他好。
 
 ;0xAEF322CF=~z~There's my boy. The loser.
-0xAEF322CF=~z~废物们，这就是咱要找的人了。
+0xAEF322CF=~z~我的手下在那儿。那个失败者。
 
 ;0xAF5B5A38=~z~Fuck! Your brother man. Yo, I'm sorry.
-0xAF5B5A38=~z~操！你兄弟没了。我很抱歉。
+0xAF5B5A38=~z~操！你弟弟没了。我很抱歉。
 
 ;0xAF86E5E2=~z~You're such a dick.
-0xAF86E5E2=~z~你是真的屌啊。
+0xAF86E5E2=~z~你这个混蛋。
 
 ;0xAF87A530=E2BR3_AAG
 0xAF87A530=E2BR3_AAG
@@ -1038,13 +1038,13 @@
 0xB72D0C0F=SFX_PAUSE_270
 
 ;0xB7D11759=~z~Hey, we're picking these cars up on the North side of Middle Park.
-0xB7D11759=~z~嘿，我们要去Middle Park北边提些车。
+0xB7D11759=~z~嘿，我们要去中央公园北边提些车。
 
 ;0xB80E3043=SFX_PAUSE_270
 0xB80E3043=SFX_PAUSE_270
 
 ;0xB8A1996C=~z~Well if it ain't the slowest Dominican in the Western Hemisphere. You're an embarrassment to your kind, bro.
-0xB8A1996C=~z~你不会是西半球跑得最慢的多米尼加人吧？你真是同族里的败类啊，兄弟。
+0xB8A1996C=~z~这不是西半球最慢的多米尼加人吗？你真是对不起自己的血统啊，兄弟。
 
 ;0xB8B0DC3D=E2BR3_AGF
 0xB8B0DC3D=E2BR3_AGF
@@ -1068,40 +1068,40 @@
 0xC10E2531=E2BR3_XA2
 
 ;0xC17D06C7=~z~Leave him alone, Mori. You're even more annoying than usual.
-0xC17D06C7=~z~放过他吧，Mori。你现在甚至比平常还要讨人厌了。
+0xC17D06C7=~z~放过他吧，Mori。你现在比之前还要讨厌。
 
 ;0xC28F431C=E2BR3_TF
 0xC28F431C=E2BR3_TF
 
 ;0xC4B114BC=~z~Okay, moving out, ladies! Follow me.
-0xC4B114BC=~z~好了，娘炮们，该走了！跟着我。
+0xC4B114BC=~z~好了，该走了，姑娘们！跟着我。
 
 ;0xC506A6EC=~z~Bye, Luis. Ahh, see ya, man. Do I have your number, man? Uh uh See ya.
-0xC506A6EC=~z~再见了，Luis。啊哈哈，再见了，哥们。我有你电话号码吗，哥们？呃呃，再见了。
+0xC506A6EC=~z~拜，Luis。啊，再见，哥们。我有你电话号码吗，哥们？呃，再见了。
 
 ;0xC66119EC=~z~Here, take these headsets. Excuse me if I don't trust the pair of yous to think for yourselves.
-0xC66119EC=~z~这，拿上这些耳机。要是你们觉得我对你们独立思考的能力不放心的话，那不好意思了哈。
+0xC66119EC=~z~给，戴好耳机。恕我对你们的独立思考能力不太放心。
 
 ;0xC6905A34=SFX_PAUSE_190
 0xC6905A34=SFX_PAUSE_190
 
 ;0xC6AB65AA=~z~Whoa, them dogs better be kosher. Yeah!
-0xC6AB65AA=~z~哇哦，热狗不错啊。
+0xC6AB65AA=~z~喔，热狗最好是清真的。耶！
 
 ;0xC834FD6D=SFX_PAUSE_240
 0xC834FD6D=SFX_PAUSE_240
 
 ;0xC9571E95=~z~Or two men and a little cunt.
-0xC9571E95=~z~或者是两个爷们跟一个小娘们。
+0xC9571E95=~z~或者是俩爷们一贱逼。
 
 ;0xC9E2AF2B=~z~The cops are all over us, man.
-0xC9E2AF2B=~z~条子哪里都是，哥们。
+0xC9E2AF2B=~z~条子紧追不舍，哥们。
 
 ;0xCA5B387C=~z~Oooo. Little Lopez got his panties in a twist.
-0xCA5B387C=~z~哦哦哦哦。小Lopez你的内裤扯着蛋了？
+0xCA5B387C=~z~喔哦。小Lopez被气到跳脚了。
 
 ;0xCA9C2262=~z~Take these headsets so I can be in your ear all the way, bitches.
-0xCA9C2262=~z~拿着这些耳机，然后我就可以全程在你们耳边逼逼了。
+0xCA9C2262=~z~拿好耳机，这样我就能全程指导你们了。
 
 ;0xCAD47E47=E2BR3_AHB
 0xCAD47E47=E2BR3_AHB
@@ -1110,10 +1110,10 @@
 0xCAD6397E=E2BR3_VA
 
 ;0xCBC7CFC9=~z~Fuck off, Mori. I thought you were being cool, bro.
-0xCBC7CFC9=~z~滚你妈的，Mori。我还以为你当好人了，兄弟。
+0xCBC7CFC9=~z~滚你妈的，Mori。我还以为是什么正经事，兄弟。
 
 ;0xCD34E19D=~z~Ah, pathetic. You see this guy, Lopez? What did I tell you?
-0xCD34E19D=~z~哎，真可怜。你看到这人没，Lopez。我怎么跟你说的来着？
+0xCD34E19D=~z~哈哈哈哈。真可怜。看看这家伙，Lopez。我怎么跟你说的来着？
 
 ;0xCE9900F5=201
 0xCE9900F5=201
@@ -1149,10 +1149,10 @@
 0xD4D76A9D=E2BR3_AHE
 
 ;0xD5656314=~z~Ah, B, shit, before I forget, there's this email that I got that I thought you'd be interested in.
-0xD5656314=~z~啊，Brucie，操，趁我还没忘，我这有封邮件，你应该感兴趣。
+0xD5656314=~z~啊，B，操，差点忘了。我这有封邮件，你应该会感兴趣。
 
 ;0xD5B6F2AD=~z~I don't know, bro. I tend to stop listening when you open your mouth.
-0xD5B6F2AD=~z~我不懂，兄弟。你一开口我就不想去听。
+0xD5B6F2AD=~z~不知道，兄弟。你一张嘴我就不想听了。
 
 ;0xD654DBE6=100
 0xD654DBE6=100
@@ -1161,7 +1161,7 @@
 0xD67C2FB8=E2BR3_ALA
 
 ;0xD983DFD8=~z~Shit, bro, why are the cops all over us?
-0xD983DFD8=~z~操，兄弟，怎么哪都是警察的？
+0xD983DFD8=~z~操，哥，条子怎么在追我们？
 
 ;0xD9B4645B=E2BR3_YE
 0xD9B4645B=E2BR3_YE
@@ -1170,7 +1170,7 @@
 0xDA017697=E2BR3_BBA
 
 ;0xDBDBDF6E=~z~Yo, we got some cars waiting at the top of Middle Park, bro.
-0xDBDBDF6E=~z~哟，有几辆车在Middle Park最北边等着咱呢。
+0xDBDBDF6E=~z~哟，有几辆车在中央公园北边等着咱们。
 
 ;0xDC99919B=SFX_OVERLAP_5100
 0xDC99919B=SFX_OVERLAP_5100
@@ -1185,10 +1185,10 @@
 0xDF81B53C=SFX_PAUSE_360
 
 ;0xDF8F0AB5=~z~Press the button. Bring down my car, man.
-0xDF8F0AB5=~z~摁下按钮把我的车放下来，哥们。
+0xDF8F0AB5=~z~去按按钮，把我的车放下来，哥们。
 
 ;0xDFD0DBAE=~z~Scoping some bitches.
-0xDFD0DBAE=~z~然后确定要找的破车。
+0xDFD0DBAE=~z~确定狩猎目标。
 
 ;0xE02BAC5F=~z~This is easy as shit, bro. They practically gave these cars away.
 0xE02BAC5F=~z~这跟拉屎一样简单，兄弟。他们几乎把这些车都送出去了。
@@ -1200,7 +1200,7 @@
 0xE0A019B7=E2BR3_XE
 
 ;0xE221E78D=~z~Not cool.
-0xE221E78D=~z~这不好玩。
+0xE221E78D=~z~太糟了。
 
 ;0xE2AF29CE=100090120090010100090100090100090010100090100
 0xE2AF29CE=100090120090010100090100090100090010100090100
@@ -1218,16 +1218,16 @@
 0xE3CF061F=120090210090120090120090010
 
 ;0xE3F9DF6E=~z~Shut up for a second. I got a call to make. Nine. One. One.
-0xE3F9DF6E=~z~安静一下，我打个电话。9,1,1。
+0xE3F9DF6E=~z~安静一下，我打个电话。911。
 
 ;0xE40331D7=~z~This is a one-off. Do you roll like this, Luis?
-0xE40331D7=~z~这是不可能的。你会跟这种人一起整活吗，Luis？
+0xE40331D7=~z~只有这次破例。这是你的风范吗，Luis？
 
 ;0xE464342F=~z~I do some serious damage in there, don't I? Tell Mori, bro. Tell him, tell him.
-0xE464342F=~z~我在那里搞了点破坏，不是吗？告诉他Mori，兄弟。告诉他，告诉他。
+0xE464342F=~z~我在店里大杀特杀，不是吗？告诉Mori，兄弟。告诉他，告诉他。
 
 ;0xE508D0E5=~z~Ay Dios Mio. You ain't got a clue, bro.
-0xE508D0E5=~z~哦天哪。兄弟，你瞎说啥呢。
+0xE508D0E5=~z~我的天哪。跟你讲不通道理，老兄。
 
 ;0xE58BBCE6=100090010100090010
 0xE58BBCE6=100090010100090010
@@ -1242,7 +1242,7 @@
 0xE828E32C=E2BR3_ZD
 
 ;0xE86923B2=~z~Hey, call me an asshole, but I'd be really psyched if my bro was packing a four inch punch. How's that for cool?
-0xE86923B2=~z~嘿，叫我混蛋吧，但要是我的兄弟有着四英寸打的鸡巴的话，我真的会很激动的。这样算是做好事了吧？
+0xE86923B2=~z~喂，混蛋就混蛋吧。但我弟弟的鸡巴要是有十公分，我真的会很激动的。这样够正经了吧？
 
 ;0xE960DE1B=~z~Go. Go. Go. Last one there's a little bitch.
 0xE960DE1B=~z~冲冲冲，排最后的就是小臭逼。
@@ -1269,13 +1269,13 @@
 0xECEF84FF=E2BR3_TB
 
 ;0xEE61CFF4=~z~Let's see what you bitches can do on a straight.
-0xEE61CFF4=~z~让我看看你们这帮贱逼能在直路上整什么活。
+0xEE61CFF4=~z~看看你们在直道上有啥本事。
 
 ;0xEEBFA9E1=E2BR3_YA
 0xEEBFA9E1=E2BR3_YA
 
 ;0xEF4FE26C=~z~He's a bit like you and Big Tone actually.
-0xEF4FE26C=~z~事实上他有点像你和Tone大哥。
+0xEF4FE26C=~z~他其实有点像你和大佬Tone。
 
 ;0xEFCBBC0D=201090101090011090101090011101011090201101
 0xEFCBBC0D=201090101090011090101090011101011090201101
@@ -1293,31 +1293,31 @@
 0xF2BC9F2F=E2BR3_PA
 
 ;0xF32FB942=~z~Don't bring down the positive energy, Lopez. Me and my brother are having fun today.
-0xF32FB942=~z~别打击士气啊，Lopez。我和我兄弟今天是出来嗨的。
+0xF32FB942=~z~别搞坏我们的兴致啊，Lopez。我和我弟弟是出来嗨的。
 
 ;0xF3C10ACB=~z~I don't like this.
 0xF3C10ACB=~z~我不喜欢这样。
 
 ;0xF3D674D6=~z~Hey, I got a gift for you bitches. Some headsets. So I can tell you what to do later.
-0xF3D674D6=~z~嘿，我有个礼物给你们这帮小逼崽子。一些耳机。这样待会我可以告诉你们该干啥。
+0xF3D674D6=~z~喂，我给你俩准备了礼物。一对耳机。这样待会儿我就能指点你们了。
 
 ;0xF412740F=~z~Come on, little B. Hey, what do you take me for?
-0xF412740F=~z~别闹了，小Bruice。嘿，你把我当成什么了？
+0xF412740F=~z~得了吧，小B崽子。你把我当什么人了？
 
 ;0xF4870DE3=E2BR3_VD2
 0xF4870DE3=E2BR3_VD2
 
 ;0xF517097A=~z~Well, I meant the part about you having no cock, you fucking loser. Toughen up!
-0xF517097A=~z~行吧，没鸡巴那句是真的，你他妈个废物。加油啊！
+0xF517097A=~z~行吧，阳痿那句是真的，你个废物。坚强点啊！
 
 ;0xF714FA10=~z~It's good to have Lopez along too, right? Hey, the three amigos.
-0xF714FA10=~z~有Lopez一起也很好啊，对吧？嘿，咱是三个好朋友。
+0xF714FA10=~z~有Lopez一起也很好啊，对吧？嘿，三个大兄弟。
 
 ;0xF8285AFA=SFX_OVERLAP_1920
 0xF8285AFA=SFX_OVERLAP_1920
 
 ;0xF8DBFFA6=~z~Dude, you're putting me off. Come on.
-0xF8DBFFA6=~z~老哥，你在耽误我时间。快点吧。
+0xF8DBFFA6=~z~老兄，你在拖累我。拜托。
 
 ;0xF9286B11=SFX_PAUSE_230
 0xF9286B11=SFX_PAUSE_230
@@ -1338,13 +1338,13 @@
 0xFB2A0DCA=~z~哦天哪。
 
 ;0xFB4769BF=~z~Okay, we got a straight here. Open 'em up.
-0xFB4769BF=~z~好了，咱们上直路了。嗨起来！
+0xFB4769BF=~z~好了，前面是直道。加速吧！
 
 ;0xFB5B6A1E=E2BR3_AGJ
 0xFB5B6A1E=E2BR3_AGJ
 
 ;0xFB7C8D18=~z~Cool, man. Thanks.
-0xFB7C8D18=~z~不错哦，哥们。谢了。
+0xFB7C8D18=~z~好啊，哥们。谢了。
 
 ;0xFBCD0E26=SFX_PAUSE_310
 0xFBCD0E26=SFX_PAUSE_310
@@ -1353,10 +1353,10 @@
 0xFCAC874B=~z~操，Luis。别擦到我，兄弟。
 
 ;0xFCAD95FD=~z~Yeah, well maybe you should keep to pruning roses and stay out this game then. I'm out bro.
-0xFCAD95FD=~z~是啊，也许你该去继续剪你的玫瑰，别玩这游戏了。我走了，兄弟。
+0xFCAD95FD=~z~好，你还是老老实实修剪玫瑰吧，别违法乱纪了。我走了，兄弟。
 
 ;0xFDBD654B=~z~What did you just say?
-0xFDBD654B=~z~你刚说啥呢？
+0xFDBD654B=~z~你说什么？
 
 ;0xFEB6EE50=SFX_PAUSE_220
 0xFEB6EE50=SFX_PAUSE_220
@@ -1365,5 +1365,5 @@
 0xFEDE9922=~z~我要被逮住了，我懂的。
 
 ;0xFF23660B=~z~ Fuck it. Beta. Gamma. You're the Omega man. Bottom of the food chain. You're a bitch's bitch.
-0xFF23660B=~z~ 操。闷驴，莽夫。你应该是个废物，食物链的最底层。你比婊子还婊子，
+0xFF23660B=~z~算了。二流、三流，你压根就不入流。食物链的最底层，贱逼中的贱逼。
 
