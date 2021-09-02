@@ -3,19 +3,19 @@
 0x01E89135=E2BG1_ZCC
 
 ;0x03DB8C40=~z~Maybe I'll make you man with one leg, but I make you rich man with one leg.
-0x03DB8C40=~z~也许我会让你变成一条腿的人，但是我会让你变成一条腿的有钱人。
+0x03DB8C40=~z~哪怕成了只剩一条腿的瘸子，那也是有头有脸的富瘸子。
 
 ;0x0545B632=~z~Them clubs is leveraged to the max already, man. I don't know if there's anything left to sell.
-0x0545B632=~z~那些俱乐部早就债台高筑了，哥们。我不懂那里还剩什么值得卖的。
+0x0545B632=~z~夜店已经债台高筑了，哥们。都不知道还有没有能卖的。
 
 ;0x05588B55=~z~Yeah, great. Thanks. But if you need more cops taken out, crooked or otherwise, you ain't choosing me.
-0x05588B55=~z~是啊是啊，真好。谢谢您嘞。但是如果你要干掉更多条子，坏蛋，或者是其他的，别选我了。
+0x05588B55=~z~真好，谢谢您嘞。要是你要干掉更多条子，不管他坏不坏，别选我了。
 
 ;0x05D18BFD=~z~Why would I pay someone to have all the fun?
-0x05D18BFD=~z~那我又凭啥要去讨好别人呢？
+0x05D18BFD=~z~为什么要花钱请别人享受这种乐趣？
 
 ;0x06120DAD=~z~There is a particular unit that has a "hard-on" for me. And why? Because Marki Ashvilli won't sell me The Rampage.
-0x06120DAD=~z~这个特别的部门跟我杠上了。为啥啊？因为Marki Ashvilli没把Rampage卖给我。
+0x06120DAD=~z~有那么一个小队，跟我杠上了。至于原因？因为Marki Ashvilli不肯把暴怒队卖给我。
 
 ;0x06271EE3=SFX_PAUSE_300
 0x06271EE3=SFX_PAUSE_300
@@ -36,13 +36,13 @@
 0x0810D625=E2BG1_CLA2
 
 ;0x0BCEA7A7=~z~Double it! Offer twenty million and then we see if it is not for sale.
-0x0BCEA7A7=~z~翻双倍！加两千万看看有没有人买。
+0x0BCEA7A7=~z~那就加倍！开价两千万，再看它卖不卖。
 
 ;0x0D1E672A=E2BG1_CHF
 0x0D1E672A=E2BG1_CHF
 
 ;0x0D212225=~z~Later, bro.
-0x0D212225=~z~再见了，兄弟。
+0x0D212225=~z~回见，兄弟。
 
 ;0x0DBADE80=E2BG1_CGD2
 0x0DBADE80=E2BG1_CGD2
@@ -81,31 +81,31 @@
 0x18411878=E2BG1_CEA
 
 ;0x18442CC9=~z~I just want you to think about it. Do that for me.
-0x18442CC9=~z~我只是叫你思考思考。求求你了。
+0x18442CC9=~z~我只是叫你思考思考。给个面子吧。
 
 ;0x1930CCE1=~z~You mind my asking why a man of your means still gets his hands dirty like this?
-0x1930CCE1=~z~你介意我问一句为什么你这样的人还是愿意干这些脏活呢？
+0x1930CCE1=~z~我能问一句为什么你这样的人还要亲自动手吗？
 
 ;0x1AC15D3E=E2BG1_CJD
 0x1AC15D3E=E2BG1_CJD
 
 ;0x1ACB3EC9=~z~I have opportunities for you. Think about them.
-0x1ACB3EC9=~z~那我给你机会啊。考虑考虑吧。
+0x1ACB3EC9=~z~我这儿有你的机会。考虑考虑吧。
 
 ;0x1AD15851=~z~Human graffiti.
-0x1AD15851=~z~糊在墙上的一片狼藉。
+0x1AD15851=~z~人体涂鸦。
 
 ;0x1C39C056=~z~Yo, Ray. Shit man, something else came up. I hope you could take care of that thing without me.
-0x1C39C056=~z~哟，Ray。你个傻逼有麻烦了。我不在的话希望你自个小心点。
+0x1C39C056=~z~哟，Ray。妈的，哥们，我突然有急事。希望没有我你们也能搞定。
 
 ;0x1C816375=E2BG1_CMD
 0x1C816375=E2BG1_CMD
 
 ;0x1CA9A283=~z~Fuck, man, what's wrong with you?
-0x1CA9A283=~z~操，你他妈有病吧？
+0x1CA9A283=~z~操了，伙计，你他妈有病吧？
 
 ;0x1CECBC6A=~z~Ha! You don't have any friends. You don't even have a business here. You are nothing in this country. - My sister,
-0x1CECBC6A=~z~嚯！你没有朋友。你甚至在这一笔生意都没有。在这国家你什么都不是。——我妹妹，
+0x1CECBC6A=~z~－哈！你哪来的朋友。你在这儿都没有事业。在美国你屁都不是。 －我妹妹。
 
 ;0x1CEE866F=~z~~x~
 0x1CEE866F=~z~~x~
@@ -120,28 +120,28 @@
 0x1DE30D1B=SFX_PAUSE_130
 
 ;0x1F2BBBC1=~z~I'm cracking up here, Luis. Hurry the fuck up. How long are you going to be?
-0x1F2BBBC1=~z~我要忙裂开了，Luis。你他妈搞快点。多久你能到？
+0x1F2BBBC1=~z~我要忙裂开了，Luis。你他妈快点。多久你能到？
 
 ;0x1F612141=SFX_PAUSE_260
 0x1F612141=SFX_PAUSE_260
 
 ;0x1FD5404E=~z~I picked you out because I see potential in you. You are lucky to be here.
-0x1FD5404E=~z~我之所以挑你是因为我看到了你的潜力。你在这里是幸运的。
+0x1FD5404E=~z~我看到了你的潜力，相中了你。这是你的福气。
 
 ;0x201F876A=SFX_PAUSE_150
 0x201F876A=SFX_PAUSE_150
 
 ;0x20D86D57=~z~Perhaps I will buy clubs off you as well. You sell them to me?
-0x20D86D57=~z~也许我们会买走你的俱乐部。你要卖给我吗？
+0x20D86D57=~z~也许我还会收购你的夜店。你卖给我吗？
 
 ;0x22E3B58C=~z~Some of these investors aren't the type to go away. They aren't the type to pay off either.
-0x22E3B58C=~z~有几个投资人可是钉子户，他们也不是那种能随便打发得了的货色。
+0x22E3B58C=~z~有几个投资人可是钉子户，不是把钱还清就能打发走的。
 
 ;0x233F2FA6=~z~You think you run the club, but you are still just security.
-0x233F2FA6=~z~你以为你经营着俱乐部，但其实你就是个保安。
+0x233F2FA6=~z~你当自己是夜店老板，其实就是个保安。
 
 ;0x23D885F7=~z~Stick in formation. Eyes out for anything suspicious.
-0x23D885F7=~z~保持队型。有风吹草动盯着点。
+0x23D885F7=~z~保持队型。警惕任何可疑情况。
 
 ;0x255F44F0=E2BG1_COB
 0x255F44F0=E2BG1_COB
@@ -153,7 +153,7 @@
 0x26E14F4B=~z~钱掌控一切，这就是美国的风格。
 
 ;0x27E55024=~z~Is that it then, you just too paranoid to let someone else get nasty?
-0x27E55024=~z~这话说的，像你这样太偏执了，是不是容易让人讨厌？
+0x27E55024=~z~也就是说，你多疑到不肯让别人动手？
 
 ;0x293CA072=SFX_PAUSE_130
 0x293CA072=SFX_PAUSE_130
@@ -165,7 +165,7 @@
 0x2C9CD2F0=100090100090010090100090100090100010090100
 
 ;0x2CA26982=~z~Not yet - I think there is always a price in this city.
-0x2CA26982=~z~急。我觉得这城里总会有人开得起价的。
+0x2CA26982=~z~先不急。我觉得自由城的一切都有价格。
 
 ;0x2D5043CF=E2BG1_CFB2
 0x2D5043CF=E2BG1_CFB2
@@ -177,16 +177,16 @@
 0x2FC94531=SFX_PAUSE_400
 
 ;0x3084F113=~z~Okay? Think about that.
-0x3084F113=~z~懂？再考虑下。
+0x3084F113=~z~懂了？考虑考虑。
 
 ;0x30AF62E7=~z~Because the money is better than a fucking leg.
-0x30AF62E7=~z~因为钱比一条狗腿好用。
+0x30AF62E7=~z~因为钱比一条狗腿有用。
 
 ;0x318EFD60=SFX_PAUSE_100
 0x318EFD60=SFX_PAUSE_100
 
 ;0x31ABEB3A=~z~Your pathetic camp master has taught you to fail.
-0x31ABEB3A=~z~你那可怜的老板对你算是教育失败了，
+0x31ABEB3A=~z~你那可悲的老板只教会了你失败，
 
 ;0x32DC9098=SFX_PAUSE_160
 0x32DC9098=SFX_PAUSE_160
@@ -201,10 +201,10 @@
 0x34B62A4B=~z~哟。Bulgarin先生在吗？
 
 ;0x34B8E5B2=~z~Yeah, Maybe, man.
-0x34B8E5B2=~z~好，也许吧，哥们。
+0x34B8E5B2=~z~我尽量，哥们。
 
 ;0x35C0BFA9=~z~It is easy. You come on board with us. You leave your fag master.
-0x35C0BFA9=~z~这很简单。放弃你的基佬老板，过来跟我们一起干。
+0x35C0BFA9=~z~很简单。放弃你的基佬主子，过来跟我们混。
 
 ;0x35E23668=E2BG1_ZFD
 0x35E23668=E2BG1_ZFD
@@ -213,7 +213,7 @@
 0x38185E72=SFX_OVERLAP_1590
 
 ;0x3840985F=~z~I appreciate that, but I'll use my own hardware.
-0x3840985F=~z~谢谢了，但是我想用自己的家伙。
+0x3840985F=~z~谢谢了，我用自己的存货就行。
 
 ;0x390B3CB7=E2BG1_CIC
 0x390B3CB7=E2BG1_CIC
@@ -228,22 +228,22 @@
 0x3CB54840=E2BG1_CGB
 
 ;0x3CF19C8D=~z~At least you don't have to clean up the mess.
-0x3CF19C8D=~z~至少你不会得处理一堆破事。
+0x3CF19C8D=~z~至少不用你来打扫战场。
 
 ;0x3EA6A8B4=~z~Look at this. The sensitive modern American male.
-0x3EA6A8B4=~z~听我说，你这个敏感的当代美国佬。
+0x3EA6A8B4=~z~看看他，多愁善感的当代美国男性。
 
 ;0x40E39204=~z~You want I should pay visit to his children at their school?
-0x40E39204=~z~你想让我去拜访他们学校里的小孩了吗？
+0x40E39204=~z~需要我去问候他在上学的子女吗？
 
 ;0x428225FB=E2BG1_CJA
 0x428225FB=E2BG1_CJA
 
 ;0x428C06A0=~z~If the money tells you to cut your fucking legs off, you will do it.
-0x428C06A0=~z~如果钱告诉你，砍掉你的狗腿，那就照办。
+0x428C06A0=~z~如果钱告诉你，砍掉你的狗腿。你会照办的。
 
 ;0x42D695B6=~z~If this painting is not hanging on my wall, your head will be.
-0x42D695B6=~z~要不是这幅画挂在这里的话，取而代之的就会是你的狗头了。
+0x42D695B6=~z~要是画没挂到我家墙上，就挂你的项上人头。
 
 ;0x43524EF3=~z~Now he is a pill popping joke.
 0x43524EF3=~z~现在他沦落成嗑药的小丑了。
@@ -252,22 +252,22 @@
 0x43DCD2B7=010100100010
 
 ;0x4518218E=~z~It's that simple, is it?
-0x4518218E=~z~就这么简单？
+0x4518218E=~z~真有这么容易？
 
 ;0x45A40DF8=~z~Yes! Yes!
-0x45A40DF8=~z~对对对！是是是！
+0x45A40DF8=~z~对！对！
 
 ;0x46C08966=SFX_PAUSE_220
 0x46C08966=SFX_PAUSE_220
 
 ;0x474E17CE=~z~No, but seriously, bro.
-0x474E17CE=~z~说真的，也不是，兄弟。
+0x474E17CE=~z~不。我认真的，兄弟。
 
 ;0x48D2DC40=~z~Ashvilli will see what happened to these men.
-0x48D2DC40=~z~Ashvilli会看到他的人身上都发生了什么。
+0x48D2DC40=~z~Ashvilli会看到他们的下场的。
 
 ;0x4929021E=~z~Of course. Tony pulls the string and the little puppet man dance for him.
-0x4929021E=~z~确实。Tony演木偶戏，你们是等着听他发号施令的木偶。
+0x4929021E=~z~哈哈，当然了。Tony一拉绳子，木偶小人就手舞足蹈了。
 
 ;0x4A65E089=SFX_PAUSE_230
 0x4A65E089=SFX_PAUSE_230
@@ -276,19 +276,19 @@
 0x4ADEF996=010
 
 ;0x4C8419AB=~z~You didn't get yourself into this. I choose you.
-0x4C8419AB=~z~你没掺和进来，是我选的你。
+0x4C8419AB=~z~不是你自己摊上的，是我选择了你。
 
 ;0x4F9B35C5=SFX_PAUSE_090
 0x4F9B35C5=SFX_PAUSE_090
 
 ;0x50A11DEF=~z~And if that don't work?
-0x50A11DEF=~z~要是没用的话呢？
+0x50A11DEF=~z~万一不管用呢？
 
 ;0x5265275E=~z~Okay, man. Good for you. You got a nice place here, Mr. B.
-0x5265275E=~z~好吧，哥们。你喜欢就好。这地方不错啊，Bulgarin先生。
+0x5265275E=~z~好吧，哥们。你喜欢就好。这地方不错啊，B先生。
 
 ;0x5319366F=~z~Don't worry about it, man. I like the set up here.
-0x5319366F=~z~没事，哥们。这里布置的还不错。
+0x5319366F=~z~没关系，哥们。这里布置得还不错。
 
 ;0x545D51D8=SFX_PAUSE_100
 0x545D51D8=SFX_PAUSE_100
@@ -303,13 +303,13 @@
 0x57DC4417=SFX_PAUSE_240
 
 ;0x582C8480=~z~He is an embarrassment.
-0x582C8480=~z~他现在混得很尴尬。
+0x582C8480=~z~他就是个笑话。
 
 ;0x59765596=~z~They will be scraping them off the wall for weeks.
-0x59765596=~z~他们得花上几个星期才能刮干净
+0x59765596=~z~得花几个星期才能把墙刮干净
 
 ;0x59CB3043=~z~I am trying to buy him out of every position he holds.
-0x59CB3043=~z~我在试着买断他掌握着的职位。
+0x59CB3043=~z~我要试着买走他的所有地位。
 
 ;0x5A04FB76=E2BG1_CKA
 0x5A04FB76=E2BG1_CKA
@@ -318,10 +318,10 @@
 0x5A4E3299=E2BG1_CFF
 
 ;0x5AF1DDC1=~z~Thanks, bro, but I'm the kind of degenerate who carries his own bombs.
-0x5AF1DDC1=~z~谢了兄弟，但我是那种人肉自爆的疯子。
+0x5AF1DDC1=~z~谢了兄弟，但我是那种随身携带炸弹的败类。
 
 ;0x5B2EBAE5=~z~Go. Roll the bitch!
-0x5B2EBAE5=~z~去吧，干翻这帮贱人！
+0x5B2EBAE5=~z~去吧。闪亮登场！
 
 ;0x5CB51AA4=SFX_PAUSE_290
 0x5CB51AA4=SFX_PAUSE_290
@@ -342,10 +342,10 @@
 0x611C81F0=E2BG1_ZCA
 
 ;0x628B70B8=~z~I don't care about other investors. They will forget about debts if I am involved.
-0x628B70B8=~z~我才不在意那些投资人呢。我来管事的话他们就不敢来讨债了。
+0x628B70B8=~z~我不在乎其他投资人。只要我一出手，债务就烟消云散了。
 
 ;0x6342C332=~z~We will do what we did in the garage. Boom boom. Bye bye.
-0x6342C332=~z~车库里发生的就是我们能做的。嘭嘭嘭，再见。
+0x6342C332=~z~我们就重现车库里的那一幕。嘭嘭。拜拜。
 
 ;0x644ED8E9=SFX_PAUSE_200
 0x644ED8E9=SFX_PAUSE_200
@@ -360,7 +360,7 @@
 0x6610CA0E=SFX_PAUSE_090
 
 ;0x66219485=~z~This is what the world sees. This is what they think of when they see you.
-0x66219485=~z~老天有眼，事实如此。其他人看到，也是这么想的。
+0x66219485=~z~这就是别人对他的印象。这就是别人看见你之后的想法。
 
 ;0x6698AD5F=SFX_PAUSE_290
 0x6698AD5F=SFX_PAUSE_290
@@ -378,25 +378,25 @@
 0x6B10CE73=010090100010090100
 
 ;0x6B69A155=~z~He is a traitor of his country - a worm.
-0x6B69A155=~z~他是祖国的叛徒，是祖国的蛀虫。
+0x6B69A155=~z~他是祖国的叛徒，是蛀虫。
 
 ;0x6C87833B=SFX_PAUSE_160
 0x6C87833B=SFX_PAUSE_160
 
 ;0x6D9ACB01=~z~Anyway, it's not my place to sell them. I have a stake, but Tony's got the controlling share.
-0x6D9ACB01=~z~不管怎么说，卖不卖不是我说了算，我也投资了，但是Tony控制着股份。
+0x6D9ACB01=~z~再说了，卖不卖我说了不算。我是有股份，但决定权还是Tony的。
 
 ;0x6E577408=~z~You think he will sell?
-0x6E577408=~z~你觉得他会卖给我们了吗？
+0x6E577408=~z~你觉得他肯卖了？
 
 ;0x6EAC5600=E2BG1_CMF
 0x6EAC5600=E2BG1_CMF
 
 ;0x6F075EB1=~z~How'd I get myself into this shit, man?
-0x6F075EB1=~z~我又有多想来掺和这些破事呢？哥们？
+0x6F075EB1=~z~我怎么就摊上这种事了，哥们？
 
 ;0x6FEC1E1D=~z~On me. Stay vigilant.
-0x6FEC1E1D=~z~我带头，保持警惕。
+0x6FEC1E1D=~z~跟我来，保持警惕。
 
 ;0x7013DC52=100090100090010090010100090100010090100090200
 0x7013DC52=100090100090010090010100090100010090100090200
@@ -408,7 +408,7 @@
 0x714D5378=100090010090100
 
 ;0x71D1BCA9=~z~But he has been here for a long time, so he has bought connections
-0x71D1BCA9=~z~但正是他待的够久，他建立起了
+0x71D1BCA9=~z~但他待得够久，有了自己的人脉，
 
 ;0x72C12522=SFX_PAUSE_260
 0x72C12522=SFX_PAUSE_260
@@ -435,7 +435,7 @@
 0x7A90065D=E2BG1_CGD1
 
 ;0x7BCAFF77=~z~This is not acceptable.
-0x7BCAFF77=~z~让人难以接受啊。
+0x7BCAFF77=~z~这我无法接受啊。
 
 ;0x7C5E1352=SFX_PAUSE_400
 0x7C5E1352=SFX_PAUSE_400
@@ -444,7 +444,7 @@
 0x7C83E1D1=E2BG1_CDD1
 
 ;0x7CAC379D=~z~Let's keep this quick, people.
-0x7CAC379D=~z~伙计们，咱们搞快点。
+0x7CAC379D=~z~咱们速战速决，各位。
 
 ;0x7E391A1F=SFX_PAUSE_120
 0x7E391A1F=SFX_PAUSE_120
@@ -456,7 +456,7 @@
 0x7F3FF994=SFX_PAUSE_330
 
 ;0x7F750075=~z~A difficult situation. It seems I am being investigated by the National Office of Security Enforcement.
-0x7F750075=~z~形势严峻啊。看起来NOOSE在调查我。
+0x7F750075=~z~形势严峻啊。我似乎被国家安全办公室调查了。
 
 ;0x82B47B79=E2BG1_CEB
 0x82B47B79=E2BG1_CEB
@@ -465,13 +465,13 @@
 0x8311933E=E2BG1_CCD1
 
 ;0x832208D7=~z~Shut up, bitch. Take your pills. A friend of mine is here.
-0x832208D7=~z~闭嘴吧，婊子。磕你的药去吧。我朋友在这呢。
+0x832208D7=~z~闭嘴吧，婊子。嗑你的药去吧。我朋友在这呢。
 
 ;0x84301FBD=~z~He lives here in exile, like all cowards.
-0x84301FBD=~z~像其他懦夫一样，他流亡在这里很久了。
+0x84301FBD=~z~他流亡到这里，一如其他懦夫。
 
 ;0x84CD05DD=~z~You have an opportunity here.
-0x84CD05DD=~z~这有机会给你。
+0x84CD05DD=~z~眼前就是机会。
 
 ;0x8576A05E=010090100090200090120090120090210
 0x8576A05E=010090100090200090120090120090210
@@ -483,22 +483,22 @@
 0x866EF3CB=E2BG1_CDC
 
 ;0x86B04BA5=~z~We don't want to be here any longer than we have to be, come on.
-0x86B04BA5=~z~咱们可不想在这待到超时，赶紧的。
+0x86B04BA5=~z~咱们不能在这儿待太久，快点。
 
 ;0x86F4ACEA=~z~Okay!
-0x86F4ACEA=~z~好嘞。
+0x86F4ACEA=~z~好嘞！
 
 ;0x875DA228=E2BG1_CGC
 0x875DA228=E2BG1_CGC
 
 ;0x87CC3AFA=~z~What the fuck is this? I don't like killing government agents so I ain't got no balls? Gimme a break.
-0x87CC3AFA=~z~你他妈说啥呢？我没有卵蛋只是因为不想杀政府的人？得了吧你。
+0x87CC3AFA=~z~你他妈说啥呢？我不想杀政府的人，所以我没种？饶了我吧。
 
 ;0x893C188B=010090010090100090100
 0x893C188B=010090010090100090100
 
 ;0x8975EBF1=~z~that others of us have not been able to acquire.
-0x8975EBF1=~z~别人搞不来的关系网。
+0x8975EBF1=~z~我们其他人望之莫及。
 
 ;0x89AB760A=E2BG1_CDE2
 0x89AB760A=E2BG1_CDE2
@@ -510,28 +510,28 @@
 0x89EA5E68=E2BG1_CHG
 
 ;0x8A9A5D7E=~z~True, true.
-0x8A9A5D7E=~z~太真实了。
+0x8A9A5D7E=~z~对，对。
 
 ;0x8ACC5DDA=~z~Hey, don't say that about Tony, man. I can't have you talking shit about him.
-0x8ACC5DDA=~z~嘿，别这么说Tony。哥们。我不能让你对他大放厥词。
+0x8ACC5DDA=~z~喂，不许这么说Tony。哥们。我不允许你抹黑他。
 
 ;0x8C76AB85=~z~Then maybe you a fag. I thought you were heterosexual one in a partnership.
-0x8C76AB85=~z~那也许你是个基佬。我以为你是异性恋的。
+0x8C76AB85=~z~可能你是基佬吧。我还以为你是合伙人里的攻。
 
 ;0x8DAF0484=~z~You are Tony's gimp and you won't admit it.
-0x8DAF0484=~z~你是Tony的狗腿子，你也不会承认的。
+0x8DAF0484=~z~你是Tony的性奴，自己还不承认。
 
 ;0x8E697807=E2BG1_CDE1
 0x8E697807=E2BG1_CDE1
 
 ;0x8E721A00=~z~Hey man, what's up?
-0x8E721A00=~z~嘿哥们，咋地了？
+0x8E721A00=~z~嘿哥们，咋的了？
 
 ;0x8F3C4816=432
 0x8F3C4816=432
 
 ;0x90B80135=~z~Excellent! Excellent! Marki's cocksuckers burned!
-0x90B80135=~z~好极了！棒极了！Marki的走狗们都被烤焦了！
+0x90B80135=~z~好极了！好极了！Marki的走狗都烤焦了！
 
 ;0x9137B480=SFX_PAUSE_130
 0x9137B480=SFX_PAUSE_130
@@ -543,10 +543,10 @@
 0x91C0ED23=E2BG1_CLD1
 
 ;0x93452811=~z~Thank you. I like you. I make you rich. I make you man.
-0x93452811=~z~谢谢。我看好你。我让你发财，我让你更爷们。
+0x93452811=~z~谢谢。我看好你。我带你发，我带你达。
 
 ;0x96D5782C=~z~He uses his position here to keep back all those who are still involved in the East.
-0x96D5782C=~z~他利用他在这的职位来阻止那些还在东欧管事的人。
+0x96D5782C=~z~他利用在美国的地位妨碍那些东欧幸存者。
 
 ;0x98BF42E1=E2BG1_CCB
 0x98BF42E1=E2BG1_CCB
@@ -561,7 +561,7 @@
 0x9C7CA7F1=E2BG1_COA
 
 ;0x9D80E663=~z~You need to go home and exfoliate your balls? May as well cut them off.
-0x9D80E663=~z~你得回家把你卵蛋上的死皮洗一洗。可以的话直接砍掉也行。
+0x9D80E663=~z~你要回家洗洗卵蛋上的死皮吗？要么直接切了吧。
 
 ;0x9DFDFC21=SFX_PAUSE_200
 0x9DFDFC21=SFX_PAUSE_200
@@ -573,7 +573,7 @@
 0x9E69BDF6=100090100090010090100090010090100
 
 ;0x9ECEC030=~z~Hey! You bring me to this fucking country and you keep me in an ugly cage. No one on TV lives in fucking Dukes.
-0x9ECEC030=~z~嘿！你他妈把我带到这国家来然后把我关在这个丑不拉几的笼子里。电视里的大牌们谁他妈住在Dukes？
+0x9ECEC030=~z~喂！你把我送到这个傻逼国家，关在这个破笼子里。电视上的大牌哪会住Dukes区啊？
 
 ;0x9F5FA4BE=~z~This don't feel right. The door is open.
 0x9F5FA4BE=~z~这不对劲。门是开着的。
@@ -585,7 +585,7 @@
 0x9FC2D6E2=~z~应该是的。Marki是个懦夫。
 
 ;0x9FE16B14=~z~For now. Those were the only guys Marki had on us.
-0x9FE16B14=~z~Marki拿来对付我们的人也就这些。
+0x9FE16B14=~z~暂时没了。Marki拿来对付我们的人也就这些。
 
 ;0xA2F1104D=E2BG1_CKD
 0xA2F1104D=E2BG1_CKD
@@ -597,13 +597,13 @@
 0xA3B7CD9F=E2BG1_CFG
 
 ;0xA3EB6A7F=~z~I can't believe we just took out a whole NOOSE team.
-0xA3EB6A7F=~z~真不敢相信，我们干翻了一整队NOOSE的人。
+0xA3EB6A7F=~z~我们居然干翻了一整支NOOSE小队。
 
 ;0xA44A1C7A=~z~Okay. Give them here. I'll need that Advanced MG too if I'm going to take on the NOOSE.
-0xA44A1C7A=~z~好嘞。拿到这来。要是真的和NOOSE打起来了，那把改装过的机枪我也要。
+0xA44A1C7A=~z~好的。都拿来吧。既然要跟NOOSE打架，那把高级机枪我也要了。
 
 ;0xA5DA9FD7=~z~Ran things. He's still relevant.
-0xA5DA9FD7=~z~时过境迁，他依然很牛。
+0xA5DA9FD7=~z~呼风唤雨。现在也很牛啊。
 
 ;0xA67576E4=E2BG1_CJE
 0xA67576E4=E2BG1_CJE
@@ -615,7 +615,7 @@
 0xA6F0BE21=010100010100010
 
 ;0xA70075DD=~z~Don't worry, bro. I'm already packing some of my own.
-0xA70075DD=~z~别担心，兄弟。我用的东西自己早就收拾好了。
+0xA70075DD=~z~不必了，兄弟。我自己身上就有。
 
 ;0xA88B5DA5=010
 0xA88B5DA5=010
@@ -624,7 +624,7 @@
 0xA9BA1479=E2BG1_CLE
 
 ;0xACEBB2DC=~z~This little trip should have severed a good deals of those connections,
-0xACEBB2DC=~z~今天这一遭应该是能切断他的一些关系网的，
+0xACEBB2DC=~z~今天这一趟应该能敲打敲打他的人脉，
 
 ;0xADA38216=SFX_PAUSE_170
 0xADA38216=SFX_PAUSE_170
@@ -648,19 +648,19 @@
 0xB46FF83A=E2BG1_CCC
 
 ;0xB476C8B2=~z~I still have smell of meat in nose.
-0xB476C8B2=~z~我还能闻到香味呢。
+0xB476C8B2=~z~我还能闻到烤肉味呢。
 
 ;0xB4D83255=E2BG1_CLC
 0xB4D83255=E2BG1_CLC
 
 ;0xB4DFEC52=~z~Then you come and move all my stuff into hallway and fill place with fucking guitars.
-0xB4DFEC52=~z~然后你来了，把我的东西全挪到门厅里，腾出位置来堆这些破吉他。
+0xB4DFEC52=~z~然后你来了，把我的东西全部搬到门厅，腾出位置堆这些破吉他。
 
 ;0xB4F659B7=~z~Let me know when Tony next has hand up your ass and ventriloquist's dummy can talk.
-0xB4F659B7=~z~让我看看Tony下次什么时候拿你来上台表演。
+0xB4F659B7=~z~哪天Tony把手插你屁眼里，拿你表演腹语术了，记得通知我。
 
 ;0xB5B33F88=~z~Yes. "Once upon a time." Is an ancient memory.
-0xB5B33F88=~z~是啊，“很久以前”了。这都是历史了。
+0xB5B33F88=~z~是啊，「很久很久以前...」这都是老黄历了。
 
 ;0xB675236D=010
 0xB675236D=010
@@ -669,7 +669,7 @@
 0xB6C7097F=E2BG1_ZCD
 
 ;0xB9E87428=~z~I'm gonna be honest, I kind of prefer a hot girl and a bottle of wine to a gun fight with the terror squad.
-0xB9E87428=~z~我是认真的。比起和一帮坏人枪战，我还是喜欢喝酒操辣妹。
+0xB9E87428=~z~我是认真的。比起陪恐怖分子枪战，我更喜欢喝酒和辣妹。
 
 ;0xBBBD2197=SFX_PAUSE_290
 0xBBBD2197=SFX_PAUSE_290
@@ -684,7 +684,7 @@
 0xBCC8D271=E2BG1_CDG
 
 ;0xBDE79648=~z~It is important to keep an eye on your people.
-0xBDE79648=~z~盯着点身边的人是很重要的。
+0xBDE79648=~z~盯着手下的人很重要。
 
 ;0xBDF1AD9A=E2BG1_CKC
 0xBDF1AD9A=E2BG1_CKC
@@ -693,19 +693,19 @@
 0xBE062B1B=E2BG1_ZGA
 
 ;0xBF33D24D=~z~The NOOSE, bro? I'll need more than bombs. GImme that machine gun you got there and I might just be ready.
-0xBF33D24D=~z~兄弟，NOOSE？只有炸弹还不够的。给我你那把机枪吧，这样稳一点。
+0xBF33D24D=~z~国安办，兄弟？只有炸弹还不够。给我你那把机枪吧，这样稳一点。
 
 ;0xC0322314=~z~The city will be safer place without their corruption.
-0xC0322314=~z~没有他们的腐败滋事，这座城市会变得更加安全。
+0xC0322314=~z~没有腐败的他们，这座城市会更加安全。
 
 ;0xC05B053C=~z~You bright guy, Luis. I still like you.
-0xC05B053C=~z~Luis，你是个聪明人，我还是很看好你。
+0xC05B053C=~z~你是聪明人，Luis。我还是很看好你。
 
 ;0xC0780382=~z~Fuck you, Ray. You have ruined my life!
-0xC0780382=~z~操你妈的，Ray。你把我日子毁了！
+0xC0780382=~z~操你妈，Ray。你把我的生活毁了！
 
 ;0xC1035628=~z~Tony has some tough times, but he ain't no embarrassment. He used to be the coolest guy in this city.
-0xC1035628=~z~Tony是有遇到困难的时候，但还不至于进退两难。他曾经是城里最靓的仔，
+0xC1035628=~z~Tony是陷入了窘境，但绝对不会是笑话。他曾经是城里最酷的人，
 
 ;0xC1CD7F56=E2BG1_CFE
 0xC1CD7F56=E2BG1_CFE
@@ -726,10 +726,10 @@
 0xC6607D99=SFX_PAUSE_230
 
 ;0xC6B50614=~z~Fuck that. I got explosives already. Hand over that MG of yours and I'm ready to go.
-0xC6B50614=~z~算了吧。黏弹我早就备好了。拿你那把机枪过来，我准备要用。
+0xC6B50614=~z~算了吧。黏弹我早有好了。那把机枪给我，我就准备好了。
 
 ;0xC8008D6C=~z~Look, I'm, ahh, taking care of some personal business. I'll come see you later, okay?
-0xC8008D6C=~z~听我说，我，我在弄些私事。晚点找你好吗？
+0xC8008D6C=~z~听我说，我、我在忙个人事务。晚点找你好吗？
 
 ;0xC9842EA1=E2BG1_CAE
 0xC9842EA1=E2BG1_CAE
@@ -753,13 +753,13 @@
 0xCF00C492=E2BG1_CAB
 
 ;0xCF817807=~z~and will give others involved a pause before they continue their association.
-0xCF817807=~z~并且也可以让其他跟他来往的人消停会了。
+0xCF817807=~z~让相关人士重新考虑要不要继续与他合作。
 
 ;0xD08CEB9A=~z~Okay, man, you sent your message. Who is this guy?
-0xD08CEB9A=~z~好吧哥们。按你说的，这帮人是谁？
+0xD08CEB9A=~z~好吧哥们。消息已经传达了。这人是谁？
 
 ;0xD111A4B5=~z~It is piece of shit. I bought it for my sister.
-0xD111A4B5=~z~这都是垃圾。我买给我妹妹的。
+0xD111A4B5=~z~这里是个屁。我买给我妹妹的。
 
 ;0xD1CB5691=SFX_PAUSE_150
 0xD1CB5691=SFX_PAUSE_150
@@ -777,43 +777,43 @@
 0xD26B9428=432
 
 ;0xD2EE3873=~z~Maybe they will.
-0xD2EE3873=~z~但愿吧。
+0xD2EE3873=~z~可以过去。
 
 ;0xD469217C=~z~I don't need no bombs, bro, but I will need one of them Mgs if I'm gonna take on the NOOSE.
-0xD469217C=~z~跟NOOSE干不用什么炸弹，兄弟，但是得来把机枪给我。
+0xD469217C=~z~炸弹不需要，兄弟。但跟NOOSE干还是给我杆机枪吧。
 
 ;0xD4EA77D4=SFX_PAUSE_130
 0xD4EA77D4=SFX_PAUSE_130
 
 ;0xD6AD0676=~z~Okay.
-0xD6AD0676=~z~Okay.
+0xD6AD0676=~z~好吧。
 
 ;0xD6AF1683=~z~Your stake is bullshit.
-0xD6AF1683=~z~你的投资就是放屁。
+0xD6AF1683=~z~你的股份就是狗屁。
 
 ;0xD71E0E18=~z~Bro.
-0xD71E0E18=~z~是啊，兄弟。
+0xD71E0E18=~z~老兄...
 
 ;0xD8B2B2EF=~z~Leave the strategizing to me.
-0xD8B2B2EF=~z~思考战略的事情留给我。
+0xD8B2B2EF=~z~思考战略的事交给我。
 
 ;0xD95AFF4B=E2BG1_ZFA
 0xD95AFF4B=E2BG1_ZFA
 
 ;0xD9B7B3C6=~z~You don't get a kick out of it? It does not get your dick hard?
-0xD9B7B3C6=~z~你怎么还不滚？惹我你很爽是吧？
+0xD9B7B3C6=~z~你没有得到快感吗？你没有变得鸡儿梆硬吗？
 
 ;0xDAF21998=SFX_PAUSE_240
 0xDAF21998=SFX_PAUSE_240
 
 ;0xDB163AB2=~z~You made good choice coming here. Fag man no good.
-0xDB163AB2=~z~来这里见我是明智的选择，基佬可不聪明。
+0xDB163AB2=~z~来这里见我是明智的选择。基佬，不行。
 
 ;0xDB5A5A47=E2BG1_CHC
 0xDB5A5A47=E2BG1_CHC
 
 ;0xDB9296ED=~z~Is true. You are one who blew them up.
-0xDB9296ED=~z~是的呀。干翻他们你也出了一份力。
+0xDB9296ED=~z~实话呀。还是你把他们炸飞的。
 
 ;0xDDDB89C1=SFX_PAUSE_200
 0xDDDB89C1=SFX_PAUSE_200
@@ -831,10 +831,10 @@
 0xE1033AD1=SFX_PAUSE_170
 
 ;0xE15FC31A=~z~If this is what you call fun, then fair enough.
-0xE15FC31A=~z~如果这就算是讨好的话，那就是吧。
+0xE15FC31A=~z~如果这也算是乐趣的话，那好吧。
 
 ;0xE16D3F1C=~z~ I would like you to think about what you can become without this weight around your neck.
-0xE16D3F1C=~z~ 我希望你好好思考思考，周围没有这些负担，你会变得怎样。
+0xE16D3F1C=~z~希望你好好思考思考，没有这个累赘，你能成就多少。
 
 ;0xE1887AE9=010090100090010090100090010
 0xE1887AE9=010090100090010090100090010
@@ -843,19 +843,19 @@
 0xE3B83180=SFX_PAUSE_320
 
 ;0xE3D0CC27=~z~There is this team are tracing a car of mine. Take out the whole team. No exceptions.
-0xE3D0CC27=~z~这有一支小队一直在跟踪我的一辆车，得把他们都干掉了。不接受反驳。
+0xE3D0CC27=~z~这支小队盯上了我的一辆车。干掉整支小队。斩草除根。
 
 ;0xE41A7395=~z~Okay. Calm down. We got no more law enforcement to expunge.
-0xE41A7395=~z~好吧，冷静点。从现在开始，也没有什么执法者可杀的了。
+0xE41A7395=~z~好啦，冷静点。以后就不用杀什么执法人员了。
 
 ;0xE4864677=~z~I dunno, man. I gotta go.
-0xE4864677=~z~我咋知道啊，哥们。我我我，我要挂了。
+0xE4864677=~z~不知道啊，哥们。我、我要挂了。
 
 ;0xE53D9517=~z~It is a lesson to all those who have welcomed him here.
-0xE53D9517=~z~这可给他的哈巴狗们上了一堂课。
+0xE53D9517=~z~这是给他的哈巴狗们上的一堂公开课。
 
 ;0xE68FC5C9=~z~I ain't gonna take you up on the bomb offer 'cause I got my own, but I will take that Advanced MG you got there.
-0xE68FC5C9=~z~不用你们的黏弹了，我自己有。但是这把改装的机枪我要了。
+0xE68FC5C9=~z~不用你们的黏弹了，我自己有。但是这把高级机枪我要了。
 
 ;0xE6E6176C=SFX_PAUSE_180
 0xE6E6176C=SFX_PAUSE_180
@@ -864,22 +864,22 @@
 0xE7213161=SFX_PAUSE_280
 
 ;0xEA7D5684=~z~Hey, the problem ain't just gonna disappear over here if we kill some crooked cops.
-0xEA7D5684=~z~嘿，这不是干掉几个黑条子就能解决的问题。
+0xEA7D5684=~z~嘿，光是干掉几个黑警也不能解决问题吧。
 
 ;0xEB36D8FF=~z~she is still getting adjusted. We all are.
-0xEB36D8FF=~z~她水土不服还在适应。我们也是。
+0xEB36D8FF=~z~她还在适应环境。我们也是。
 
 ;0xEC3A72ED=~z~But you trust Timur, right?
-0xEC3A72ED=~z~你不也信任Timur吗？
+0xEC3A72ED=~z~但你信任Timur，对吧？
 
 ;0xEC7E3EFA=~z~I don't like this. They left the car door open.
-0xEC7E3EFA=~z~我不觉得。他们没关车门就走了。
+0xEC7E3EFA=~z~感觉不太对。他们车门都没关。
 
 ;0xEC87490A=E2BG1_CFB1
 0xEC87490A=E2BG1_CFB1
 
 ;0xED202E25=~z~Gimme that Advanced MG you got there as well. I ain't taking no chances with the NOOSE.
-0xED202E25=~z~把你改装过的那把机枪给我。不拿这东西跟NOOSE刚占不了上风。
+0xED202E25=~z~你那挺高级机枪也给我吧。我可不想跟国安办赌运气。
 
 ;0xEDE3AE00=E2BG1_ZFB
 0xEDE3AE00=E2BG1_ZFB
@@ -888,7 +888,7 @@
 0xEE523C43=E2BG1_CDF
 
 ;0xEE92E1AB=~z~Okay, man, if that's what the money wants...
-0xEE92E1AB=~z~好吧，哥们，如果这就是钱的旨意……
+0xEE92E1AB=~z~好吧，哥们，既然这就是钱的旨意...
 
 ;0xEE96C32B=~z~Something's wrong. The door is open.
 0xEE96C32B=~z~情况不对。门是开着的。
@@ -900,13 +900,13 @@
 0xF0AAFBD2=~z~我谁都不信。
 
 ;0xF23AE707=~z~So, how can I help you?
-0xF23AE707=~z~所以我能帮你点什么？
+0xF23AE707=~z~所以我能帮你什么？
 
 ;0xF292C885=E2BG1_CBC
 0xF292C885=E2BG1_CBC
 
 ;0xF2BEE2E8=~z~What do you mean, "what's up"? Where are you?
-0xF2BEE2E8=~z~你几个意思？还问我“咋地了”？你在哪呢？
+0xF2BEE2E8=~z~「咋地了」是什么意思？你在哪呢？
 
 ;0xF2DB07DD=SFX_PAUSE_130
 0xF2DB07DD=SFX_PAUSE_130
@@ -915,7 +915,7 @@
 0xF3E490AD=E2BG1_CAC
 
 ;0xF3E8695A=~z~You will get rid of them. I will own this fucking team.
-0xF3E8695A=~z~你们得帮我摆脱他们。我他妈会买下这队人马的。
+0xF3E8695A=~z~你们要除掉他们。这支球队老子志在必得。
 
 ;0xF4387456=SFX_PAUSE_190
 0xF4387456=SFX_PAUSE_190
@@ -924,7 +924,7 @@
 0xF5DF38A1=E2BG1_CGA
 
 ;0xF6397F09=~z~These gay jokes ain't gonna stop, are they?
-0xF6397F09=~z~这些基情的笑话就不能消停一下？
+0xF6397F09=~z~基佬笑话就过不去了是吧？
 
 ;0xF6A93B5B=E2BG1_ZFC
 0xF6A93B5B=E2BG1_ZFC
@@ -957,7 +957,7 @@
 0xFDF4A152=E2BG1_CCA
 
 ;0xFE375C36=~z~That you did, Luis. A serviceable job. Most competent.
-0xFE375C36=~z~这就是你要干的，Luis。给别人尝尝苦头，你最擅长了。
+0xFE375C36=~z~就是你干的，Luis。手到擒来的活，你最擅长了。
 
 ;0xFE71F956=E2BG1_COC
 0xFE71F956=E2BG1_COC

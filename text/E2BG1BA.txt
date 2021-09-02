@@ -1,9 +1,9 @@
 ﻿[E2BG1BA]
 ;0x02BE3803=~z~I'd probably be in for life by now. Tony's given me every opportunity I ever got.
-0x02BE3803=~z~可能一辈子都是这样。但是Tony给过我错过的机会。
+0x02BE3803=~z~可能早就终身监禁了。是Tony给了我一切机会。
 
 ;0x0337CC81=~z~Perhaps. For now... perhaps. But do you think you are achieving everything you could?
-0x0337CC81=~z~也许吧。也许现在是这样。但是你觉得你捞到了自己能力所及的一切了吗？
+0x0337CC81=~z~也许吧。也许现在是这样。难道这就是你能力所及的一切了吗？
 
 ;0x043D6A2A=E2BG1_BKF
 0x043D6A2A=E2BG1_BKF
@@ -15,10 +15,10 @@
 0x0670C9B3=SFX_PAUSE_240
 
 ;0x067760BA=~z~Luis, you could be much more than that. Unless you enjoy working for such a man? 'Partner', or whatever you call it.
-0x067760BA=~z~Luis，你能捞到的还有更多，除非你觉得给这种人打工很爽。“合伙人”？你爱咋说就咋说吧。
+0x067760BA=~z~Luis，我看你大有可为。除非你只想给这种人打工，这位「合伙人」什么的。
 
 ;0x06FA32B8=~z~I dunno, man. I-I-I gotta go.
-0x06FA32B8=~z~我咋知道啊，哥们。我我我，我要挂了。
+0x06FA32B8=~z~不知道啊，哥们。我、我要挂了。
 
 ;0x072D7AEA=SFX_PAUSE_240
 0x072D7AEA=SFX_PAUSE_240
@@ -27,19 +27,19 @@
 0x07EC01AB=E2BG1_BNC2
 
 ;0x0873F414=~z~Of course. But what is he? He is a drug addict, a madman.
-0x0873F414=~z~当然。可他是什么人？一个吸毒佬，疯子。
+0x0873F414=~z~当然。可他是什么人？是一个瘾君子，是个疯子。
 
 ;0x0891B57F=SFX_PAUSE_140
 0x0891B57F=SFX_PAUSE_140
 
 ;0x08CA2DDB=~z~I don't know what you're implying, bro. Tony and me are partners. I got a stake in the enterprise.
-0x08CA2DDB=~z~你几个意思，兄弟？我和Tony是合伙的。我可是投资给他生意的了。
+0x08CA2DDB=~z~我不太懂你意思，兄弟。我和Tony是合伙人。我可是有股份的。
 
 ;0x097C7865=~z~I used to wrestle. I was in academy as a boy.
-0x097C7865=~z~我曾经是。我以前是个学生仔。
+0x097C7865=~z~我当过摔跤手，当年在学校学的。
 
 ;0x09BE802A=~z~As a businessman. I am looking for someone here in Liberty City
-0x09BE802A=~z~做商人的潜力。我正在Liberty City找一个
+0x09BE802A=~z~做商人的潜力。我正在自由城寻找一个
 
 ;0x0AC85E49=E2BG1_BWE
 0x0AC85E49=E2BG1_BWE
@@ -48,7 +48,7 @@
 0x0B2CDB2B=SFX_PAUSE_300
 
 ;0x0FB144D2=~z~I can handle myself. But you can only fight for so long until you run into the wrong guy, and then it ain't pretty.
-0x0FB144D2=~z~我能控制得了自己。但是你发现你误入歧途之后，就不会那么张狂了。这可不是什么好事。
+0x0FB144D2=~z~我是有两下子。但遇上硬茬后，你的格斗生涯就结束了。下场可不好看。
 
 ;0x10212796=E2BG1_BMA
 0x10212796=E2BG1_BMA
@@ -72,7 +72,7 @@
 0x1AAA49B2=SFX_OVERLAP_5690
 
 ;0x1B0A786A=~z~That is why you are the person I need with me, but you must be loyal to me alone.
-0x1B0A786A=~z~这就是为什么我要选你了，但是你只能效忠于我。
+0x1B0A786A=~z~这就是我相中你的原因，但你只能效忠于我。
 
 ;0x1CC08FF0=SFX_PAUSE_230
 0x1CC08FF0=SFX_PAUSE_230
@@ -87,13 +87,13 @@
 0x1E86FCFB=E2BG1_BPE
 
 ;0x1FF4231C=~z~I already got one employer. Like I said, he's been good to me.
-0x1FF4231C=~z~我早就有主了。像我刚说过的，他对我很好。
+0x1FF4231C=~z~我早就有雇主了。刚才也说了，他对我很好。
 
 ;0x1FFB4ABF=SFX_PAUSE_430
 0x1FFB4ABF=SFX_PAUSE_430
 
 ;0x2048F318=~z~I tell you where it's got me, it's got me off the street. Before I met Tony, I was a no hoper.
-0x2048F318=~z~我告诉你我在那捞到了什么吧。在那里我不用流落街头。遇见Tony之前，我一点希望都没有。
+0x2048F318=~z~告诉你我的收获吧，我不用再流落街头。遇见Tony之前，我苟且偷生。
 
 ;0x214E5E25=E2BG1_BTF2
 0x214E5E25=E2BG1_BTF2
@@ -102,13 +102,13 @@
 0x2173B494=SFX_PAUSE_470
 
 ;0x22590707=~z~I know people and people know me. I can get things done in this town.
-0x22590707=~z~我知道人人都认识我，我可以把城里的事情都解决了。
+0x22590707=~z~我认识别人，别人也认识我。可以在城里解决问题。
 
 ;0x2260E146=SFX_PAUSE_340
 0x2260E146=SFX_PAUSE_340
 
 ;0x244CE4E0=~z~Yes. It must be nice for you to get out from the under big Tony.
-0x244CE4E0=~z~是啊。要是你不帮Tony大哥做事的话，那是极好的。
+0x244CE4E0=~z~是啊。能从Tony大哥的手底下解脱也是你的幸事吧。
 
 ;0x26FDD66C=SFX_PAUSE_370
 0x26FDD66C=SFX_PAUSE_370
@@ -132,13 +132,13 @@
 0x2914EB6E=E2BG1_BWD
 
 ;0x2D758D91=~z~The money I have can open those legs more readily than your bottle service can.
-0x2D758D91=~z~能让这些婊子对你门户大开的东西，我的钱比你在那打工的身份容易多了。
+0x2D758D91=~z~想让她们张开双腿，用我手上的钱可比你在那端茶倒水容易多了。
 
 ;0x2DA204C1=~z~Okay.
-0x2DA204C1=~z~Okay.
+0x2DA204C1=~z~好吧。
 
 ;0x2EC8825C=~z~I'm cracking up here, Luis. Hurry the fuck up. How long are you going to be?
-0x2EC8825C=~z~我要忙裂开了，Luis。你他妈搞快点。多久你能到？
+0x2EC8825C=~z~我要忙裂开了，Luis。你他妈快点。多久你能到？
 
 ;0x30332962=SFX_PAUSE_270
 0x30332962=SFX_PAUSE_270
@@ -168,16 +168,16 @@
 0x37D90E8A=SFX_PAUSE_340
 
 ;0x3C051D6D=~z~I don't wanna be no rock star like you guys seem to. That what you asking?
-0x3C051D6D=~z~我可不想变成像你们这样的疯子。你问的都啥呢？
+0x3C051D6D=~z~反正我对你俩的摇滚明星梦不感兴趣。这样可以吗？
 
 ;0x3C8C411D=E2BG1_BZD
 0x3C8C411D=E2BG1_BZD
 
 ;0x4032C2BA=~z~Tony's my business partner, bro. I ain't just leaving when a better offer comes along.
-0x4032C2BA=~z~Tony是我的生意伙伴，当有利益诱惑的时候，我不会一走了之。
+0x4032C2BA=~z~Tony是我的生意伙伴，兄弟。我不会因为一点利益就抛弃他。
 
 ;0x407716C1=~z~Shit, bro, just 'cause I got a gay boss, don't mean I'm gonna get intimate with you.
-0x407716C1=~z~操，兄弟。我有个基佬老板不意味着我跟你也搞基。
+0x407716C1=~z~操，兄弟。我有个基佬老板，不代表会跟你亲密接触啊。
 
 ;0x411ACB77=E2BG1_BTD1
 0x411ACB77=E2BG1_BTD1
@@ -186,7 +186,7 @@
 0x42108D25=SFX_PAUSE_330
 
 ;0x42FFEB73=~z~You diss my boss for being gay and yours went to wrestling school? Gimme a break, man.
-0x42FFEB73=~z~先拿我的基佬老板开涮，然后又说去什么摔跤学院？消停会吧，哥们。
+0x42FFEB73=~z~你看不起我的基佬老板，结果自家老板去过摔跤学校？放过我吧，哥们。
 
 ;0x43AA8AF8=E2BG1_BTC
 0x43AA8AF8=E2BG1_BTC
@@ -201,7 +201,7 @@
 0x48B8A162=SFX_PAUSE_290
 
 ;0x48F2448A=~z~And where has that got you? Apart from up a few models' skirt, I mean.
-0x48F2448A=~z~我的意思是，你在那里除了可以操几个穿得体面的婊子，你还能捞到什么？
+0x48F2448A=~z~搭伙了又怎样呢？除了模特的裙底还有收获吗？
 
 ;0x48F7B43F=E2BG1_BTF1
 0x48F7B43F=E2BG1_BTF1
@@ -210,7 +210,7 @@
 0x4A41DD6D=SFX_PAUSE_310
 
 ;0x4A4ADAA6=~z~I didn't get to where I am without being able to see the worth of men.
-0x4A4ADAA6=~z~我看人不准的话就混不到今天了。
+0x4A4ADAA6=~z~我看人不准的话，就不会有今天的地位了。
 
 ;0x4BDB9527=E2BG1_BLD
 0x4BDB9527=E2BG1_BLD
@@ -219,7 +219,7 @@
 0x4DF186A5=SFX_PAUSE_230
 
 ;0x4F10B9E4=~z~There is a point where you will not be able to gain anything from him, understand?
-0x4F10B9E4=~z~这就是你以后不能从他那捞到什么的问题所在了，懂？
+0x4F10B9E4=~z~总有一天，你将无法从他身上得到任何东西，懂吗？
 
 ;0x4FC28AC2=E2BG1_BQC
 0x4FC28AC2=E2BG1_BQC
@@ -228,7 +228,7 @@
 0x512311B6=SFX_PAUSE_430
 
 ;0x523C4943=~z~Look, man I-I'm, taking care of some personal business. I'll come see you later, okay?
-0x523C4943=~z~听我说，哥们，我，我在弄些私事。晚点找你好吗？
+0x523C4943=~z~听我说，我、我在忙个人事务。晚点找你好吗？
 
 ;0x5297B7B1=E2BG1_BQB2
 0x5297B7B1=E2BG1_BQB2
@@ -255,10 +255,10 @@
 0x5B654127=E2BG1_BZE
 
 ;0x5D59A735=~z~You are helping me with my business.
-0x5D59A735=~z~你在帮我打理生意呢。
+0x5D59A735=~z~你在协助我的生意。
 
 ;0x5ECF4D15=~z~Interesting.
-0x5ECF4D15=~z~有点意思了。
+0x5ECF4D15=~z~有意思。
 
 ;0x60240823=E2BG1_BRE
 0x60240823=E2BG1_BRE
@@ -270,16 +270,16 @@
 0x61FCE75C=~z~你太天真了。真可悲。
 
 ;0x64BE8BD1=~z~That's a bit of a problem, bro. I ain't fresh off the boat, this is my town. I don't come alone.
-0x64BE8BD1=~z~兄弟，这有点问题。我可不是刚从哪里偷渡来的，我本来就在这，不是孤身一人。
+0x64BE8BD1=~z~这就是问题了。我可不是刚偷渡下船，这是我老家。我不单干的。
 
 ;0x64F1DFB6=~z~I am glad we have this opportunity to get to know each other, Luis.
-0x64F1DFB6=~z~我真高兴咱们能互相认识，Luis。
+0x64F1DFB6=~z~很高兴能有这个互相了解对方的机会，Luis。
 
 ;0x6627D1A1=010090010090010090100090010
 0x6627D1A1=010090010090010090100090010
 
 ;0x6652957B=~z~I AM NOT A FUCKING FAGGOT.
-0x6652957B=~z~我他妈才不是基佬。
+0x6652957B=~z~老子可不是基佬。
 
 ;0x66E2C1CD=010090100090100090100090100
 0x66E2C1CD=010090100090100090100090100
@@ -306,22 +306,22 @@
 0x71573DAD=SFX_PAUSE_150
 
 ;0x71E6F712=~z~I guess so.
-0x71E6F712=~z~也许是吧。
+0x71E6F712=~z~也许吧。
 
 ;0x721436C3=~z~Very funny but,
-0x721436C3=~z~太搞笑了，但是，
+0x721436C3=~z~很好笑，但是，
 
 ;0x728F80E1=~z~Maybe.
-0x728F80E1=~z~也许是。
+0x728F80E1=~z~也许吧。
 
 ;0x72BF009C=~z~Where you will outgrow him and he will begin to hold you back.
-0x72BF009C=~z~当你风头要盖过他的时候，他就得把你摁下去。
+0x72BF009C=~z~等你比他强大了，他就会成为你的阻碍。
 
 ;0x74CF931F=~z~Sometimes a price is more effective if paid out of lead, not gold.
-0x74CF931F=~z~有时候用炸弹把他们炸上天比用金子还靠谱。
+0x74CF931F=~z~要想买通别人，有时子弹比黄金更管用。
 
 ;0x75C0104A=~z~What do you mean, "what's up"? Where are you?
-0x75C0104A=~z~你几个意思？还问我“咋地了”？你在哪呢？
+0x75C0104A=~z~「咋地了」是什么意思？你在哪呢？
 
 ;0x760F0C2D=E2BG1_BTE
 0x760F0C2D=E2BG1_BTE
@@ -330,16 +330,16 @@
 0x7628ED43=SFX_PAUSE_160
 
 ;0x76651F6F=~z~Alright. Rewind a second. What you mean, "employ"? I'm already in business with Tony.
-0x76651F6F=~z~好吧。当我没说。“雇佣”？啥意思？我已经和Tony一起合伙了。
+0x76651F6F=~z~好吧。话说回来，「雇佣」是啥意思？我已经和Tony搭伙了。
 
 ;0x76735900=E2BG1_BKE
 0x76735900=E2BG1_BKE
 
 ;0x76F983C5=~z~And if I was, it would not be on our first date either.
-0x76F983C5=~z~如果我是这种人的话，今天也不会是第一次见到你了。
+0x76F983C5=~z~就算会，也不可能第一次出门就亲密接触啊。
 
 ;0x78700D29=~z~It's good to have you with us, Luis.
-0x78700D29=~z~有你带着我们真好啊，Luis。
+0x78700D29=~z~有你加入我们真好啊，Luis。
 
 ;0x7A3D3D08=E2BG1_BRF1
 0x7A3D3D08=E2BG1_BRF1
@@ -354,16 +354,16 @@
 0x7DE84F96=E2BG1_BKA
 
 ;0x7E896998=~z~Nothing can be achieved here in Liberty City with Ashvilli's pigs rooting through my affairs.
-0x7E896998=~z~Ashvilli的猪猡缠着我办事，搞得我在Liberty City混不出名堂。
+0x7E896998=~z~只要Ashvilli的走狗还在妨碍我，我在自由城就什么都做不成。
 
 ;0x7F50F95C=E2BG1_BYB
 0x7F50F95C=E2BG1_BYB
 
 ;0x80406D02=~z~Whatever, bro. Can we talk about something else? What am I doing here?
-0x80406D02=~z~随你吧，兄弟。能聊点别的吗？我们这是要干啥呢？
+0x80406D02=~z~随你吧，兄弟。能聊点别的吗？我现在在干嘛？
 
 ;0x848475B8=~z~I was saying that I may be interested in investing in your potential.
-0x848475B8=~z~我意思是我有兴趣发展你的潜力。
+0x848475B8=~z~我意思是我有兴趣投资你的潜力。
 
 ;0x84B2B7CC=SFX_PAUSE_200
 0x84B2B7CC=SFX_PAUSE_200
@@ -372,7 +372,7 @@
 0x854620C9=E2BG1_BOC
 
 ;0x858AAE77=~z~I don't think so, bro. Not yet. Tony and I are partners. I'm gonna bring him with me wherever I go.
-0x858AAE77=~z~我不这么认为，兄弟。还不是这样的。Tony和我是合伙人。不管我到哪都得带着他。
+0x858AAE77=~z~我不同意，兄弟。还早呢。Tony和我是合伙人。走到哪里我都会带着他。
 
 ;0x85E7B7E6=SFX_PAUSE_520
 0x85E7B7E6=SFX_PAUSE_520
@@ -393,22 +393,22 @@
 0x8D7AD089=SFX_PAUSE_240
 
 ;0x8F31E483=~z~A man with your talents, in your condition, you could have anything you want.
-0x8F31E483=~z~跟你一样聪明的人，在同样条件下，早就赚的盆满钵满的了。
+0x8F31E483=~z~你是一个天才。以你的资质，做什么都能成功。
 
 ;0x8F5B4418=~z~What are your dreams, Luis? What do you want to be?
-0x8F5B4418=~z~Luis，你的梦想是啥？你想变得咋样？
+0x8F5B4418=~z~你有什么梦想，Luis？想做怎样的人？
 
 ;0x90E66AA2=~z~Whatever you say, bro. But what are you talking about?
-0x90E66AA2=~z~随你说吧，兄弟。话说回来你到底是几个意思？
+0x90E66AA2=~z~随你说吧，兄弟。但你是啥意思？
 
 ;0x91F1767D=~z~I don't think you realize the magnitude of your insults, so I will let them slide.
-0x91F1767D=~z~你还没意识到拿我来开涮下场有多惨，所以刚才那一出我放你一马。
+0x91F1767D=~z~你好像没意识到拿我开涮的严重性，所以这次放你一马。
 
 ;0x91F5211C=E2BG1_BYA
 0x91F5211C=E2BG1_BYA
 
 ;0x92061091=~z~This don't seem like legitimate business to me, man.
-0x92061091=~z~这看起来对我来说可是脏活啊，哥们。
+0x92061091=~z~好像不太像合法生意啊，哥们。
 
 ;0x958733A7=E2BG1_BOA
 0x958733A7=E2BG1_BOA
@@ -417,7 +417,7 @@
 0x97DDF19D=E2BG1_BXF
 
 ;0x97F58291=~z~I am not a man to be mocked.
-0x97F58291=~z~我可不是软柿子。
+0x97F58291=~z~我不是能开玩笑的人。
 
 ;0x982883CF=E2BG1_BRD
 0x982883CF=E2BG1_BRD
@@ -432,7 +432,7 @@
 0x9A9829F9=SFX_PAUSE_290
 
 ;0x9AC898C3=~z~and your precious stake in the Tony Prince empire.
-0x9AC898C3=~z~还有你在他商业帝国里的投资。
+0x9AC898C3=~z~你的宝贵股份也就成了废纸。
 
 ;0x9ACC071A=SFX_PAUSE_270
 0x9ACC071A=SFX_PAUSE_270
@@ -441,7 +441,7 @@
 0x9C15CED7=SFX_PAUSE_390
 
 ;0x9C30A538=~z~with the correct relationship.
-0x9C30A538=~z~靠谱的合伙人。
+0x9C30A538=~z~人脉合适的人。
 
 ;0x9CA10601=SFX_PAUSE_360
 0x9CA10601=SFX_PAUSE_360
@@ -450,10 +450,10 @@
 0x9CE3C853=E2BG1_BSB
 
 ;0x9D2ED02B=~z~Yes. It is important that one knows those he employ intimately.
-0x9D2ED02B=~z~是啊。了解自己雇佣的基佬很重要。
+0x9D2ED02B=~z~是啊。与雇佣的手下亲密接触很重要。
 
 ;0x9D465F56=~z~Hey man, what's up?
-0x9D465F56=~z~嘿哥们，咋地了？
+0x9D465F56=~z~嘿哥们，咋的了？
 
 ;0x9D5978B2=E2BG1_BPB
 0x9D5978B2=E2BG1_BPB
@@ -468,7 +468,7 @@
 0x9DEF3A80=010090100090010090010090100090200
 
 ;0x9F1B0707=~z~That's real flattering, Mr. Bulgarin, but whatever it is you're offering, I'm gonna have to decline.
-0x9F1B0707=~z~真是溢美之词，Bulgarin先生。不管你开什么条件我都会拒绝的。
+0x9F1B0707=~z~您过誉了，Bulgarin先生。但无论条件如何，我都会拒绝的。
 
 ;0x9F400755=~z~Me and Tony's is a business relationship.
 0x9F400755=~z~我和Tony是生意关系。
@@ -504,13 +504,13 @@
 0xA558CD32=SFX_PAUSE_430
 
 ;0xA5CE310A=~z~Timur, man, check this out.
-0xA5CE310A=~z~Timur，哥们，看看这说的都什么鬼。
+0xA5CE310A=~z~Timur，哥们，你看看你。
 
 ;0xA7ABCF4C=E2BG1_BOE
 0xA7ABCF4C=E2BG1_BOE
 
 ;0xA830DFDB=~z~I see. And does he know that you are here with us?
-0xA830DFDB=~z~懂了。他知道你跟我们在一起吗？
+0xA830DFDB=~z~懂了。那他知道你跟我们在一起吗？
 
 ;0xA8B848B5=SFX_PAUSE_350
 0xA8B848B5=SFX_PAUSE_350
@@ -528,13 +528,13 @@
 0xADCCA960=E2BG1_BLC
 
 ;0xAFFA4326=~z~When some new muscle-bound pretty boy comes along, he will forget about you,
-0xAFFA4326=~z~要是有更得力的人出现的话，他就把你忘了，
+0xAFFA4326=~z~哪天来了个新的肌肉靓仔，他就会把你忘了。
 
 ;0xB192852E=SFX_PAUSE_140
 0xB192852E=SFX_PAUSE_140
 
 ;0xB3D7CD21=~z~Pro fighting's a joke, bro. May as well be a wrestler if you want to join the circus.
-0xB3D7CD21=~z~专业打手就是来搞笑的，兄弟。进了马戏团也可以变成摔跤手啊。
+0xB3D7CD21=~z~职业格斗就是个笑话，兄弟。想进马戏团也可以当摔跤手啊。
 
 ;0xB422E1C6=SFX_PAUSE_620
 0xB422E1C6=SFX_PAUSE_620
@@ -558,13 +558,13 @@
 0xB77C1C3A=E2BG1_BMD
 
 ;0xBA721845=~z~This is not possible, and I think you know it.
-0xBA721845=~z~这不可能的。我觉得你是明白的。
+0xBA721845=~z~不可能一直这样，你应该明白吧。
 
 ;0xBC0EC87F=E2BG1_BRB
 0xBC0EC87F=E2BG1_BRB
 
 ;0xBC291DBB=~z~You don't want to go pro?
-0xBC291DBB=~z~你不想专精这门吗？
+0xBC291DBB=~z~你不想打职业吗？
 
 ;0xBC50FEFE=E2BG1_BOB
 0xBC50FEFE=E2BG1_BOB
@@ -579,7 +579,7 @@
 0xC31AF1CA=E2BG1_BXD
 
 ;0xC3A996CC=~z~No.
-0xC3A996CC=~z~不懂。
+0xC3A996CC=~z~不。
 
 ;0xC3DC0C98=SFX_PAUSE_420
 0xC3DC0C98=SFX_PAUSE_420
@@ -594,19 +594,19 @@
 0xC71FEC95=E2BG1_BYC
 
 ;0xC875A060=~z~Your master calls?
-0xC875A060=~z~老板的电话？
+0xC875A060=~z~你主子找你？
 
 ;0xC926CAAF=E2BG1_BME
 0xC926CAAF=E2BG1_BME
 
 ;0xC99DDC10=~z~He gets his kicks elsewhere, but he's been a good boss to me, and a good guide. Helped me out.
-0xC99DDC10=~z~虽然他天天出去鬼混，但他是我的好大哥，带我混，帮我上位。
+0xC99DDC10=~z~虽然他天天出去鬼混，但他是我的好老板，好大哥。他救了我。
 
 ;0xCA1C69E2=SFX_PAUSE_390
 0xCA1C69E2=SFX_PAUSE_390
 
 ;0xCAFF8287=~z~For anything to happen, they must be eliminated.
-0xCAFF8287=~z~以防万一，必须把他们除掉。
+0xCAFF8287=~z~不惜一切手段，一定要消灭他们、
 
 ;0xCC03AB66=E2BG1_BZA
 0xCC03AB66=E2BG1_BZA
@@ -621,10 +621,10 @@
 0xD2CB146C=SFX_PAUSE_340
 
 ;0xD36E0A0D=~z~You are useful to him, but you think that is all he wants from you? Hah!
-0xD36E0A0D=~z~你对他有用，但你以为他就对你要求这么多？嚯！
+0xD36E0A0D=~z~你对他有用，但他可能只有这点要求吗？哈！
 
 ;0xD39F6D51=~z~Really, bro? I don't know. When I was left to my own devices, I got locked up.
-0xD39F6D51=~z~是吗，兄弟？我不清楚。我自己单干的时候，就挨进了局子。
+0xD39F6D51=~z~是吗，兄弟？我不清楚。我之前单干结果进了局子。
 
 ;0xD3AD72D5=E2BG1_BPD
 0xD3AD72D5=E2BG1_BPD
@@ -639,7 +639,7 @@
 0xD5DC9A13=E2BG1_BUB
 
 ;0xD61747EF=~z~Until now?
-0xD61747EF=~z~直到现在？
+0xD61747EF=~z~现在也是？
 
 ;0xD8E0786C=SFX_PAUSE_230
 0xD8E0786C=SFX_PAUSE_230
@@ -675,13 +675,13 @@
 0xDF2BA3C4=~z~我不懂笑点何在。
 
 ;0xE01C5B55=~z~Perhaps this time has already came.
-0xE01C5B55=~z~也许这个时候早就到来了。
+0xE01C5B55=~z~这一天也许已经到来了。
 
 ;0xE06A6BD6=E2BG1_BMC
 0xE06A6BD6=E2BG1_BMC
 
 ;0xE6D313B8=~z~At least with Tony's guidance, I ain't doing time.
-0xE6D313B8=~z~至少Tony带着我，我还没进去过。
+0xE6D313B8=~z~至少有Tony带着，我还没进去过。
 
 ;0xE71155F8=E2BG1_BUE1
 0xE71155F8=E2BG1_BUE1
@@ -696,13 +696,13 @@
 0xE7C620AD=E2BG1_BRA
 
 ;0xEA36C06F=~z~With the money behind you, no one would dare to beat you.
-0xEA36C06F=~z~有钱给你撑腰你，没人敢来收拾你的。
+0xEA36C06F=~z~有钱给你撑腰，没人敢打败你的。
 
 ;0xEB88A899=E2BG1_BKB
 0xEB88A899=E2BG1_BKB
 
 ;0xEC3FF4C7=~z~A stake. Sure. You still take orders from him, don't you? You clean up his shit?
-0xEC3FF4C7=~z~确实，是有投资。可是你不也还得听他发号施令？帮他擦屁股？
+0xEC3FF4C7=~z~哼哼，股份。那是，可你不照样被他差遣使唤？帮他擦屁股？
 
 ;0xECF5A451=SFX_PAUSE_330
 0xECF5A451=SFX_PAUSE_330
@@ -714,16 +714,16 @@
 0xF4FF7DFE=E2BG1_BOD
 
 ;0xF51E8FAD=~z~No, it is not. I am informed that you used to have a reputation as a fighter.
-0xF51E8FAD=~z~不是的。我知道你曾经是个有名的斗士。
+0xF51E8FAD=~z~不，不可以。我知道你曾经是个有名的斗士。
 
 ;0xF56A314D=~z~Is not funny joke. What is problem with wrestling academy?
-0xF56A314D=~z~这笑话有啥好笑的。摔跤学院又是什么鬼？
+0xF56A314D=~z~没什么好笑的。摔跤学校有问题吗？
 
 ;0xF57F713F=E2BG1_BYE
 0xF57F713F=E2BG1_BYE
 
 ;0xF65AD963=~z~Potential as what?
-0xF65AD963=~z~什么潜力？
+0xF65AD963=~z~哪方面的潜力？
 
 ;0xF7D47F1D=~z~Yeah, man.
 0xF7D47F1D=~z~是啊，哥们。
@@ -744,7 +744,7 @@
 0xFA608A07=E2BG1_BSC
 
 ;0xFA7AB747=~z~Shit, look man. I don't wanna be no wrestler. This hospitality shit, this is my thing now.
-0xFA7AB747=~z~操，听我说哥们。我不想当什么摔跤手。我现在要忙的是收拾这一大盘烂摊子。
+0xFA7AB747=~z~妈的，听我说哥们。我不想当什么摔跤手。我现在想做的，就是夜店经理。
 
 ;0xFB860CF9=SFX_PAUSE_430
 0xFB860CF9=SFX_PAUSE_430
