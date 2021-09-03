@@ -1,19 +1,18 @@
-﻿[E2T9AUD（已完成）]
-
+﻿[E2T9AUD]
 ;0x00608DED=~z~At least you'll have a nice message on your gravestone. Mine will just say "Here lies unpopular fag."
-0x00608DED=~z~至少你的墓碑上还能写的漂亮点。不像我的，可能就只写一个“讨厌的臭基佬”。
+0x00608DED=~z~至少你的墓碑上还能写得漂亮点。我的可能只有一句「讨人厌的死基佬安眠于此」。
 
 ;0x01E8B9F9=E2T9_OA
 0x01E8B9F9=E2T9_OA
 
 ;0x02794995=~z~Motherfucking guido hejo cabrone.
-0x02794995=~z~操他妈的臭傻逼。
+0x02794995=~z~操他妈的意大利臭傻逼。
 
 ;0x03F9C28A=SFX_PAUSE_160
 0x03F9C28A=SFX_PAUSE_160
 
 ;0x03FD5463=~z~If we could throw every fucking blogger out a chopper, bro. Keep them fools in line.
-0x03FD5463=~z~前提是我们能把所有的傻逼博主都从飞机上扔下去，兄弟。让他们排着队的来。
+0x03FD5463=~z~真希望能把这些臭写博客的都扔下去，兄弟。让他们不乱说话。
 
 ;0x041E353F=SFX_PAUSE_250
 0x041E353F=SFX_PAUSE_250
@@ -22,22 +21,22 @@
 0x0473B334=SFX_PAUSE_380
 
 ;0x04BF9065=~z~He's got every reason to believe some of the most unpleasant cats on the Eastern Seaboard.
-0x04BF9065=~z~现在完全清楚整个【the Eastern Seaboard】上的最生气的冷面杀手们随时会炸翻他家的门
+0x04BF9065=~z~完全有理由怀疑东海岸最难缠的家伙
 
 ;0x04C1D4BA=~z~You're right. That could be the smart bet.
-0x04C1D4BA=~z~你是对的。【Dukes】是个聪明的猜想。
+0x04C1D4BA=~z~你说得对。很明智的选择。
 
 ;0x06CFDCD3=E2T9_DD
 0x06CFDCD3=E2T9_DD
 
 ;0x06FB60D0=~z~What about that fucking greasy cabrone Rocco? he should be taking the shit for this, it aint us T.
-0x06FB60D0=~z~那【Rocco】那个臭傻逼呢？他才是该接稳这个屎盆子的人。而不是我们，【T】。
+0x06FB60D0=~z~那那个臭傻逼Rocco呢？他才该背上这口大锅，不是我们，T。
 
 ;0x072972C4=SFX_PAUSE_440
 0x072972C4=SFX_PAUSE_440
 
 ;0x07AD3775=~z~Who cares about us? Gracie's safety has got to be our priority; she's an innocent.
-0x07AD3775=~z~谁会在乎我们啊？【Gracie】的安全是我们的首要任务；她可是无辜的。
+0x07AD3775=~z~谁在乎我们啊？Gracie的安全是我们的首要任务。她是无辜的。
 
 ;0x07C33837=SFX_PAUSE_310
 0x07C33837=SFX_PAUSE_310
@@ -55,7 +54,7 @@
 0x099B5BF9=SFX_PAUSE_310
 
 ;0x09D7F493=~z~What do you think we're doing on this outing? We're looking for Gracie.
-0x09D7F493=~z~那你觉得我们出来干什么？我们要去找【Gracie】。
+0x09D7F493=~z~那你觉得我们出来干什么？我们要去找Gracie。
 
 ;0x0AE13706=E2T9_XA
 0x0AE13706=E2T9_XA
@@ -67,7 +66,7 @@
 0x1005C5C0=E2T9_WC
 
 ;0x10922E50=~z~What the fuck's gotten into you?
-0x10922E50=~z~你他娘的想什么呢？
+0x10922E50=~z~你他妈有什么毛病？
 
 ;0x10C30B80=SFX_PAUSE_200
 0x10C30B80=SFX_PAUSE_200
@@ -79,25 +78,25 @@
 0x11F09E48=E2T9_CF2
 
 ;0x120EF08A=~z~Strangely enough, that's exactly what we need to be.
-0x120EF08A=~z~扯够了，挣大钱才是我们要做的。
+0x120EF08A=~z~不得不说，我们现在就需要暴富。
 
 ;0x1247F0F8=~z~We could start an outsourcing company. We'd be rich overnight.
-0x1247F0F8=~z~我们可以成立一个外包公司专门干这事。我们会一夜暴富。
+0x1247F0F8=~z~我们开个公司接这种活。一夜之间就能暴富。
 
 ;0x1584DCAD=100090010
 0x1584DCAD=100090010
 
 ;0x15E15D94=~z~She gets a coup de grace after some half-cocked rescue attempt, and we're well and truly assfucked.
-0x15E15D94=~z~万一她要是因为你个莽夫而一命呜呼的话，我们的小菊花都得变成向日葵。
+0x15E15D94=~z~万一她因为你个莽夫而一命呜呼，我们就等着菊花盛开吧。
 
 ;0x1612E371=E2T9_NA
 0x1612E371=E2T9_NA
 
 ;0x16BFDF77=~z~If he thinks he's paranoid now, it's nothing in comparison to the heat he'd feel if you ordered the death of a bosses girl.
-0x16BFDF77=~z~如果他是个偏执狂的话，那什么都比不上他绑别人女儿而被全城追杀这事。
+0x16BFDF77=~z~如果他是个多疑的人，那什么威胁都比不上绑架黑道千金而被全城追杀。
 
 ;0x18235020=~z~No amount of pills would prepare you for that.
-0x18235020=~z~我这可没有多余的药让你做这种事。
+0x18235020=~z~那种情况嗑多少药片都不管用。
 
 ;0x188B27B1=E2T9_QB
 0x188B27B1=E2T9_QB
@@ -112,16 +111,16 @@
 0x19FEA9C7=E2T9_ZC
 
 ;0x1A08449B=~z~This is where they keep the chopper.
-0x1A08449B=~z~【【这就是他们放直升机的地方。】】
+0x1A08449B=~z~这就是他们停直升机的地方。
 
 ;0x1A2C7897=E2T9_ADA
 0x1A2C7897=E2T9_ADA
 
 ;0x1A65FE07=~z~So, T, hypothetically, what would happen if we did find Gracie? We going to storm in there and make these kidnappers pay?
-0x1A65FE07=~z~所以，【T】，假如我们找到了【Gracie】，接下来会发生什么？我们就直接开进去，然后教训那个小逼崽子一顿？
+0x1A65FE07=~z~那个，T，问个问题，找到Gracie以后要干什么？直接冲进去，教训一顿绑匪吗？
 
 ;0x1A6D6E50=~z~We just got to follow them. See if they take us anywhere interesting.
-0x1A6D6E50=~z~我们要去跟踪他们。看看他们会不会把我们带到什么值得注意的地方去。
+0x1A6D6E50=~z~我们要去跟踪他们。看看他们会不会带我们去什么有趣的地方。
 
 ;0x1B6E30D9=E2T9_YB
 0x1B6E30D9=E2T9_YB
@@ -139,7 +138,7 @@
 0x1DB941EA=100
 
 ;0x1DFA9AFF=~z~Fuck, might just be heading down the block for a slice of pie.
-0x1DFA9AFF=~z~操，他可能就是去街角买块苹果派。
+0x1DFA9AFF=~z~操，甚至只是去哪个区买水果派吃。
 
 ;0x1F67849D=E2T9_FE
 0x1F67849D=E2T9_FE
@@ -157,7 +156,7 @@
 0x214CD534=100090100090010090010
 
 ;0x219F0FAA=~z~Public relations at its finest.
-0x219F0FAA=~z~完美公关。
+0x219F0FAA=~z~一次完美的公关。
 
 ;0x21B92C00=E2T9_GA
 0x21B92C00=E2T9_GA
@@ -175,7 +174,7 @@
 0x268B625B=E2T9_BD
 
 ;0x268FB7D1=~z~You're the one who wants to start some armed offensive on the kidnappers of a mob skipper's daughter.
-0x268FB7D1=~z~直接和敢绑黑老大女儿的人刚正面真是你的作风。
+0x268FB7D1=~z~是你说要跟绑架黑帮千金的犯人正面冲突的。
 
 ;0x269677EF=E2T9_CD
 0x269677EF=E2T9_CD
@@ -187,13 +186,13 @@
 0x285C5D27=E2T9_KD
 
 ;0x2864322E=~z~Great.
-0x2864322E=~z~Great.
+0x2864322E=~z~好。
 
 ;0x28A91C59=E2T9_FC
 0x28A91C59=E2T9_FC
 
 ;0x292C593E=~z~are about to knock down his door and rip out his tongue. If he ain't fucking paranoid then he's fucking stupid.
-0x292C593E=~z~后把他的舌头都割下来。他要不是他娘的偏执狂，那他绝对是脑子进水了。
+0x292C593E=~z~会冲进他的家门，割掉他的舌头。这都不怀疑一下，那他就是脑子进水了。
 
 ;0x29B2D50B=E2T9_IA
 0x29B2D50B=E2T9_IA
@@ -205,16 +204,16 @@
 0x2B2B8D66=E2T9_HC
 
 ;0x2B63FEE2=~z~An innocent? Come on T. Her dad's one of the biggest mobsters in the city. He runs a family, can't he handle this?
-0x2B63FEE2=~z~无辜？别傻了，【T】。她老爸是全城最大的黑手党头子。她家可是玩黑的，他家里能摆平这事吗？
+0x2B63FEE2=~z~无辜？别傻了，T。她老爸是全城最大的黑帮头子之一，搞黑道家族的，摆平不了吗？
 
 ;0x2C3FC331=~z~Aint we being held responsible for this shit anyway?
-0x2C3FC331=~z~不管怎么样，我们不都要收拾这个烂摊子？
+0x2C3FC331=~z~我们不是横竖都要背上这口黑锅吗？
 
 ;0x2C93D1EC=SFX_PAUSE_250
 0x2C93D1EC=SFX_PAUSE_250
 
 ;0x2CAE63AE=~z~There's some lowlifes in Dukes who might be involved. Losers even by current mob standards, which is saying something.
-0x2CAE63AE=~z~【Dukes】那边有一些穷鬼可能和这事有关系。一些比混帮派的还失败的穷鬼，这可能意味着什么。
+0x2CAE63AE=~z~这事可能和Dukes那边的穷鬼有关系。几个以黑帮标准都算失败的穷鬼，这就能说明问题了。
 
 ;0x2D8EF3AD=SFX_PAUSE_290
 0x2D8EF3AD=SFX_PAUSE_290
@@ -226,7 +225,7 @@
 0x2E59A05A=E2T9_ACB
 
 ;0x2E5F5822=~z~I don't know where he's going, you idiot. That's why we're following him.
-0x2E5F5822=~z~我怎么知道他要去哪？你个傻瓜。所以我们才会跟着他。
+0x2E5F5822=~z~我哪知道他去哪，你个傻瓜。所以我们才跟着他。
 
 ;0x2E8E5A56=SFX_PAUSE_170
 0x2E8E5A56=SFX_PAUSE_170
@@ -235,7 +234,7 @@
 0x30F42E02=SFX_PAUSE_260
 
 ;0x3149A92A=~z~Nothing as stupid as ordering a hit on poor little Gracie Ancelotti.
-0x3149A92A=~z~再蠢也蠢不过袭击可怜的小【Gracie Ancelotti】这件事。
+0x3149A92A=~z~再蠢也蠢不过袭击可怜的Gracie Ancelotti。
 
 ;0x317FDE04=SFX_PAUSE_250
 0x317FDE04=SFX_PAUSE_250
@@ -250,7 +249,7 @@
 0x33712825=SFX_PAUSE_150
 
 ;0x34D49B7A=~z~She comes back with ten fingers, ten toes, a smile on her face and a curse on her lips then we'll be fine.
-0x34D49B7A=~z~到时候她胳膊腿儿都在的完好回来，除了她嘴上飙点垃圾话以外，我们最起码都没什么事。
+0x34D49B7A=~z~只要她没有缺胳膊少腿，活着回来还能骂上两句脏话，我们就不会有事。
 
 ;0x34F14FA0=SFX_PAUSE_250
 0x34F14FA0=SFX_PAUSE_250
@@ -259,7 +258,7 @@
 0x3592C702=010090010090010090100010090100
 
 ;0x35F3FC72=~z~Here's the Ancelotti chopper. Let's not screw it up as well.
-0x35F3FC72=~z~这就是【Ancelotti】的直升机了。别撞坏了。
+0x35F3FC72=~z~这就是Ancelotti的直升机。别把它撞坏了。
 
 ;0x371BF946=E2T9_KE
 0x371BF946=E2T9_KE
@@ -289,7 +288,7 @@
 0x3A0DAB47=SFX_PAUSE_310
 
 ;0x3A6D53E4=~z~Shit. Okay. Okay. I take your point. If you see him stopping let me know.
-0x3A6D53E4=~z~操，好吧，好吧。我听你的。你要是看到他要停下来了，就跟我说。
+0x3A6D53E4=~z~操，好吧，好吧。你说的都对。他停下来了你跟我说一声。
 
 ;0x3A9A1F53=E2T9_XE
 0x3A9A1F53=E2T9_XE
@@ -304,19 +303,19 @@
 0x3D03AA3A=E2T9_ND
 
 ;0x3D0919EB=~z~You should have shared your anti-anxiety pills with the Celebinator.
-0x3D0919EB=~z~你就应该给之前你扔下去的那个博主分点你的抗压药。
+0x3D0919EB=~z~当时你咋不给名人终结者分两粒抗焦虑药啊。
 
 ;0x3D8632D5=E2T9_ZE
 0x3D8632D5=E2T9_ZE
 
 ;0x3DA18228=~z~I hope he's not paranoid.
-0x3DA18228=~z~我希望他不是个偏执狂。
+0x3DA18228=~z~希望他不是多疑的人。
 
 ;0x3E2B0CE2=SFX_PAUSE_270
 0x3E2B0CE2=SFX_PAUSE_270
 
 ;0x4050B272=~z~Thank you for sharing that image with me.
-0x4050B272=~z~画面感很强，真谢谢你啊。
+0x4050B272=~z~谢谢你跟我分享经验啊。
 
 ;0x41630B0B=SFX_PAUSE_260
 0x41630B0B=SFX_PAUSE_260
@@ -328,10 +327,10 @@
 0x41D6CDDC=E2T9_FD
 
 ;0x4226BDAE=~z~Who knows what they could have done to that girl? She could be dead at the bottom of the West River now.
-0x4226BDAE=~z~谁知道他们会对她做什么？她现在没准已经被沉尸 【the West River】 河底了。
+0x4226BDAE=~z~谁知道他们会对她做什么？没准她已经被沉尸西河了。
 
 ;0x4279805A=~z~I can see he's going west. Where west?
-0x4279805A=~z~我看得到他是在往西边走。西边什么地方？
+0x4279805A=~z~我看得到他在往西走。西边什么地方？
 
 ;0x43561CB4=E2T9_JB
 0x43561CB4=E2T9_JB
@@ -352,10 +351,10 @@
 0x476FE121=E2T9_AAE
 
 ;0x478FCE2A=~z~What do you mean? If we're going to get Gracie back?
-0x478FCE2A=~z~你指的是什么？是去救【Gracie】回来？
+0x478FCE2A=~z~你什么意思？我们不是要去救Gracie吗？
 
 ;0x4884579B=~z~Okay, bro. He might suspect we're chasing him. Let's hope he starts panicking and does something stupid.
-0x4884579B=~z~好吧，兄弟。他可能怀疑了我们在追他。咱们现在就希望他已经开始恐慌了，然后还做了一些蠢事情。
+0x4884579B=~z~好吧，兄弟。他可能会怀疑我们在追他。希望他已经慌了，然后再干点蠢事吧。
 
 ;0x49903D50=E2T9_VC
 0x49903D50=E2T9_VC
@@ -367,25 +366,25 @@
 0x4AABFCF9=SFX_PAUSE_230
 
 ;0x4B631DDB=~z~Then he's probably going to see us, isn't he? The first thing a paranoid man looks for is a chopper.
-0x4B631DDB=~z~那他不就要看到我们了吗？偏执狂首先要找的东西就是直升机。
+0x4B631DDB=~z~那他不就要看到我们了吗？多疑的人肯定会注意到直升机的。
 
 ;0x4B70A5C6=~z~Okay. It's a shot in the dark, but it might work.
-0x4B70A5C6=~z~好。悄咪咪的，可能很有用。
+0x4B70A5C6=~z~好吧。跟摸瞎差不多，说不定就成了。
 
 ;0x4BC94989=~z~So let's hope he ain't as stupid as we've been lead to believe.
-0x4BC94989=~z~那我们只能希望他没有像我们想的那么傻。
+0x4BC94989=~z~只能希望他没有我们想的那么傻了。
 
 ;0x4C02D8F3=SFX_PAUSE_280
 0x4C02D8F3=SFX_PAUSE_280
 
 ;0x4EA4CF1A=~z~My pleasure. Now no hero shit, Lou. Promise me. This is just a reconnaissance mission.
-0x4EA4CF1A=~z~不客气。现在，别搞什么逞英雄的行为，【Lou】。答应我。这只是个侦察行动。
+0x4EA4CF1A=~z~不客气。现在不要逞英雄，Lou。答应我。这只是个侦察行动。
 
 ;0x4EBB6E04=010090100090010090100
 0x4EBB6E04=010090100090010090100
 
 ;0x4FED593B=~z~Or she could be driving some son of a bitch kidnapper crazy.
-0x4FED593B=~z~或者她已经把那个绑架她的王八蛋闹腾疯了。
+0x4FED593B=~z~也可能她已经把那个王八蛋绑匪气疯了。
 
 ;0x5044B5B9=E2T9_JD
 0x5044B5B9=E2T9_JD
@@ -394,19 +393,19 @@
 0x5434A552=E2T9_EH
 
 ;0x54C78898=~z~You'll see him stopping too, bro. You ain't going to sleep on me are you.
-0x54C78898=~z~你也能看到他停车啊，老哥。你是打算睡一觉吗？
+0x54C78898=~z~你也能看到他停车啊，兄弟。你不会是想睡觉吧？
 
 ;0x555FA509=E2T9_PF
 0x555FA509=E2T9_PF
 
 ;0x55770BD0=~z~I may be semi-suicidal, but I'm not completely stupid, Luis.
-0x55770BD0=~z~我可能是有点自杀倾向，但是我还没完全傻掉，【Luis】。
+0x55770BD0=~z~我是有点自杀倾向，但是我还没那么傻，Luis。
 
 ;0x560C5528=E2T9_VE
 0x560C5528=E2T9_VE
 
 ;0x56266B57=~z~Good. Because we're going to need to really hold shit together for a while if we want to survive this shit.
-0x56266B57=~z~很好。因为我们要活命的话，就要把接下来的恶心事情做了。
+0x56266B57=~z~很好。如果我们还想活命，接下来最好团结起来。
 
 ;0x59A0CFC4=E2T9_HA
 0x59A0CFC4=E2T9_HA
@@ -415,13 +414,13 @@
 0x5A136A32=E2T9_WB
 
 ;0x5A206F4E=~z~He ain't trying to lose us, Tone. We're in a chopper.
-0x5A206F4E=~z~他不是在试着甩掉我们，【Tone】。我们在直升机里。
+0x5A206F4E=~z~他别想甩掉我们，Tone。我们在直升机上。
 
 ;0x5AB687C2=010090100090010090010090100
 0x5AB687C2=010090100090010090010090100
 
 ;0x5BAD692B=~z~And not in a good way - prison style! Not gang-bang with a boy band style.
-0x5BAD692B=~z~而且是监狱澡堂里的那种向日葵！
+0x5BAD692B=~z~而且会很粗暴，监狱里那种！不是和男子乐队开淫趴那种。
 
 ;0x5C5D3188=E2T9_QA
 0x5C5D3188=E2T9_QA
@@ -433,10 +432,10 @@
 0x5FBF7ABD=SFX_PAUSE_200
 
 ;0x60DD0CEF=~z~Gracie's got my backing over some chump hood from Dukes.
-0x60DD0CEF=~z~【Gracie】在【Dukes】那边认识我几个傻逼朋友。
+0x60DD0CEF=~z~有我从Dukes的三脚猫暴徒手里保护Gracie。
 
 ;0x62794BD7=~z~He's just kidnapped a mob boss' daughter.
-0x62794BD7=~z~他刚刚绑架了一个黑手党老大的女儿。
+0x62794BD7=~z~他才刚绑架了黑帮老大的女儿。
 
 ;0x62D05BF8=SFX_PAUSE_240
 0x62D05BF8=SFX_PAUSE_240
@@ -448,22 +447,22 @@
 0x64DC7617=E2T9_XD
 
 ;0x6588732E=~z~He's doing what?!
-0x6588732E=~z~你说她爸怎么了？
+0x6588732E=~z~他怎么了？
 
 ;0x658E2C81=~z~Yes. This is a purely selfish act. Are you happy now?
-0x658E2C81=~z~是的。这完全是一个自私的行为。你现在高兴了？
+0x658E2C81=~z~是的，完全是出于自私。你现在高兴了？
 
 ;0x673DF22F=010090100010090100
 0x673DF22F=010090100010090100
 
 ;0x6835CB9A=~z~Okay. I need your help, Luis. You're all I've got left. You happy now? I said it.
-0x6835CB9A=~z~好吧。我是需要你的帮助，【Luis】。你是唯一我所剩的一切了。你高兴了？我承认了。
+0x6835CB9A=~z~好吧。我需要你的帮助，Luis。你是我所剩的一切了。你满意了？我承认了。
 
 ;0x697BBAB6=~z~You think I could go to sleep at a moment like this?
-0x697BBAB6=~z~你觉得我再这时候睡得着吗？
+0x697BBAB6=~z~这种时候我可能睡得着吗？
 
 ;0x6A9AD2F7=~z~How are we going to get out of this, Tone?
-0x6A9AD2F7=~z~那我们怎么从解决这些事呢，【Tone】？
+0x6A9AD2F7=~z~我们怎么解决这些事呢，Tone？
 
 ;0x6B890127=100
 0x6B890127=100
@@ -478,34 +477,34 @@
 0x7006AB42=~z~我可不想听她用那个哼唧哼唧的鼻音骂人。
 
 ;0x704B335E=~z~The diamonds. He says it's got something to do with the diamonds and Gracie hanging out with us.
-0x704B335E=~z~那些钻石。他说是因为和钻石有什么关系，而且【Gracie】是和我们一块出去玩的。
+0x704B335E=~z~那些钻石。他说事情和钻石有关，而且Gracie经常和我们一块出去。
 
 ;0x71C08BAC=~z~Of course I'm calm. I'm really calm. Why wouldn't I be calm?
 0x71C08BAC=~z~我当然很冷静。我超冷静的。我有什么理由不冷静吗？
 
 ;0x72179A92=~z~Take us over to Cerveza Heights. Their house is over there.
-0x72179A92=~z~我们去【Cerveza Heights】。他们的房子就在那。
+0x72179A92=~z~我们去Cerveza Heights。他们的房子在那儿。
 
 ;0x728C7DC4=SFX_PAUSE_160
 0x728C7DC4=SFX_PAUSE_160
 
 ;0x7357C814=~z~So, this isn't about Gracie, it's about saving our own asses?
-0x7357C814=~z~所以，你说这不光是【Gracie】的事，而是为了救我们自己的小命？
+0x7357C814=~z~所以，这不是为了Gracie，而是为了救我们自己的小命？
 
 ;0x735B6D68=SFX_PAUSE_150
 0x735B6D68=SFX_PAUSE_150
 
 ;0x7365570F=~z~He's blaming us for this whole thing. Either we get her back or we're dead.
-0x7365570F=~z~不管我们去真的救了他闺女，还是我们都死了。他只会把锅都甩在我们头上。
+0x7365570F=~z~他把这一切都怪到我们头上了。救不回他女儿，我们就没命了。
 
 ;0x74B41F1E=E2T9_HB
 0x74B41F1E=E2T9_HB
 
 ;0x75144941=~z~There's a lot of shit west of Dukes. Could be Algonquin. Could head all the way over to Alderney.
-0x75144941=~z~Dukes西边的东西可太多了。也许是Algonquin。也没准他一路开到Alderney去。
+0x75144941=~z~Dukes西边的东西可太多了。也许是Algonquin，也没准他一路开到了Alderney。
 
 ;0x75E3B832=~z~Don't fuck with the Tony Prince empire baby. That's what's up!
-0x75E3B832=~z~别和Tony Prince帝国做对，渣渣。这才是重点！
+0x75E3B832=~z~别和Tony Prince帝国做对，宝贝。那就是你的下场！
 
 ;0x7763DF2C=SFX_PAUSE_220
 0x7763DF2C=SFX_PAUSE_220
@@ -514,10 +513,10 @@
 0x7779A55D=E2T9_NC
 
 ;0x77AAED17=~z~What?
-0x77AAED17=~z~什么？
+0x77AAED17=~z~啥事？
 
 ;0x788CA73B=~z~It's cool, bro. I got him.
-0x788CA73B=~z~【【真棒，兄弟。我找到他了。】】
+0x788CA73B=~z~没事的，兄弟。我跟着呢。
 
 ;0x796EE4D6=E2T9_FF
 0x796EE4D6=E2T9_FF
@@ -526,16 +525,16 @@
 0x7CBDC7D0=SFX_PAUSE_110
 
 ;0x7CCD6DD6=~z~You could marry a billionairess. That might get us out of our problems.
-0x7CCD6DD6=~z~要么你就去傍一个富大姐。那也能把我们的问题都解决了。
+0x7CCD6DD6=~z~要么你去傍个富婆，这样我们的问题就都解决了。
 
 ;0x7DA33518=E2T9_SB
 0x7DA33518=E2T9_SB
 
 ;0x7DACD84A=~z~We should go and get the Ancelottis' chopper. It's just on the other side of the Booth Tunnel.
-0x7DACD84A=~z~【【我们应该去开【Ancelotti】家族的直升机。他就在【the Booth Tunnel】的另一边。
+0x7DACD84A=~z~我们去开Ancelotti家族的直升机。它在Booth隧道的另一边。
 
 ;0x7DB36DC3=~z~Even after half a nostril full of blow I'm hearing rotor blades and squinting at the sky.
-0x7DB36DC3=~z~就算是我在吸了一大堆白粉之后，也还是能听到螺旋桨的声音，让我想要抬头看。
+0x7DB36DC3=~z~就算是吸了一鼻子白粉，我也能听到螺旋桨的声音，然后抬头看天。
 
 ;0x7E0BE2DF=E2T9_JF
 0x7E0BE2DF=E2T9_JF
@@ -550,13 +549,13 @@
 0x8017BBFD=E2T9_SE
 
 ;0x813D1162=~z~There are some punks in Dukes that might have a link to this thing. We're going to follow them and see if they lead us to our girl.
-0x813D1162=~z~在【Dukes】的一些小逼崽子可能和这个事有关系。我们要去跟踪他们，看他们能不能带我们找到她。
+0x813D1162=~z~有几个在Dukes小逼崽子可能和绑架有关。我们要跟踪他们，看看能不能找到Gracie。
 
 ;0x815F8002=E2T9_YD
 0x815F8002=E2T9_YD
 
 ;0x81A7F394=~z~That's definitely interesting. How the fuck did he get that in his head? I barely know the girl.
-0x81A7F394=~z~那还真挺有意思的。他到底是他妈怎么想的？我都不怎么认识他女儿。
+0x81A7F394=~z~那还挺有意思的。他他妈是怎么想的？我跟他女儿又不熟。
 
 ;0x81C127DA=E2T9_RA
 0x81C127DA=E2T9_RA
@@ -577,16 +576,16 @@
 0x82D1A84F=100090010090100090010090100100010090100010
 
 ;0x83732F11=~z~I dont know, you did just point a gun at me. You nearly just shot yourself.
-0x83732F11=~z~我还真不确定，你刚才拿着还在拿枪指着我。而且你还差点就开枪自杀。
+0x83732F11=~z~不知道，你刚才还拿枪指我。还差点开枪自杀。
 
 ;0x8514910D=SFX_PAUSE_200
 0x8514910D=SFX_PAUSE_200
 
 ;0x852B6BBB=~z~Yeah, strangely I am. Now that I've realized I'm being blackmailed into doing this, it's become a lot clearer.
-0x852B6BBB=~z~是的，我本来还不太清楚。原来我只知道我是被迫被卷进来的，现在我算是清楚一些了。
+0x852B6BBB=~z~是，这样是高兴了。现在我知道自己是被逼着做这种事的，一下子清楚多了。
 
 ;0x85B4DE49=~z~They look after their own.
-0x85B4DE49=~z~他们只关心他们自己了。
+0x85B4DE49=~z~他们自己会处理的。
 
 ;0x85CDBF1C=E2T9_AFA
 0x85CDBF1C=E2T9_AFA
@@ -598,13 +597,13 @@
 0x869EB2D9=SFX_PAUSE_310
 
 ;0x86B5AD47=~z~What? You ain't got your pills?
-0x86B5AD47=~z~什么？你没带着你的药吗？
+0x86B5AD47=~z~怎么？身上没带药吗？
 
 ;0x87A7183F=SFX_PAUSE_220
 0x87A7183F=SFX_PAUSE_220
 
 ;0x8873E3C7=~z~Fuuuuuuuuck!
-0x8873E3C7=~z~我操他大爷！
+0x8873E3C7=~z~操操操操操！
 
 ;0x891AFCE5=SFX_PAUSE_200
 0x891AFCE5=SFX_PAUSE_200
@@ -619,7 +618,7 @@
 0x89C10CE7=SFX_PAUSE_250
 
 ;0x8A14FEDA=~z~What's the first thing they're gonna do? You've seen the movies. They'll cap her.
-0x8A14FEDA=~z~他们会怎么做？你看过电影的。他们会直接杀了她的。
+0x8A14FEDA=~z~他们会怎么做？你看过电影的，当然是撕票了。
 
 ;0x8A524D2E=100
 0x8A524D2E=100
@@ -637,10 +636,10 @@
 0x8DBDC8D9=010090100090010
 
 ;0x8E643E8E=~z~That's the house up there.
-0x8E643E8E=~z~【【这就是那个在这里的房子了】】
+0x8E643E8E=~z~就是前面那栋房子。
 
 ;0x8E995C3C=~z~What? We've got to get her back, alright.
-0x8E995C3C=~z~什么？我们就是去救她回来的好吧。
+0x8E995C3C=~z~什么？我们一定要救她回来的，好吧。
 
 ;0x8EAF1191=~z~I wish I had your principles, genius.
 0x8EAF1191=~z~我倒是希望我能像你那么有原则，聪明鬼。
@@ -649,7 +648,7 @@
 0x8FB2803C=E2T9_AEB
 
 ;0x9085002A=~z~He might not be going west at all, might be heading over to the East Borough Bridge so he can get himself up to Bohan.
-0x9085002A=~z~或者他压根就不打算去西边，也许他要去【the East Borough Bridge】， 然后再转去【Bohan】。
+0x9085002A=~z~也可能根本不是西边，说不定是去East Borough大桥，要去的地方在Bohan。
 
 ;0x91A4B8B3=E2T9_PE1
 0x91A4B8B3=E2T9_PE1
@@ -661,7 +660,7 @@
 0x9337346F=E2T9_KA
 
 ;0x945550D5=~z~You calmed down now, T?
-0x945550D5=~z~你现在冷静下来了没，【T】？
+0x945550D5=~z~你现在冷静了没，T？
 
 ;0x95D0A9F9=E2T9_ID
 0x95D0A9F9=E2T9_ID
@@ -676,7 +675,7 @@
 0x96F57976=E2T9_RC2
 
 ;0x98FD2D28=~z~"Self-indulgent cry for help", you mean.
-0x98FD2D28=~z~你的意思是“超大声的哭着求救”
+0x98FD2D28=~z~你的意思是「超大声地哭着求救」。
 
 ;0x99FCE1C7=SFX_PAUSE_360
 0x99FCE1C7=SFX_PAUSE_360
@@ -694,16 +693,16 @@
 0x9B6E5D3F=SFX_PAUSE_400
 
 ;0x9BA568F5=~z~He's just going for a drive, T.
-0x9BA568F5=~z~他只是在正常地开车而已，【T】。
+0x9BA568F5=~z~他就开个车而已，T。
 
 ;0x9C81C0E4=E2T9_KB
 0x9C81C0E4=E2T9_KB
 
 ;0x9D1EB7FE=~z~All this shit piling down on top of us. How are we going to get out? Have we got a plan?
-0x9D1EB7FE=~z~这么多破事全都压在我们头上。我们怎么解决啊？我们手头有什么计划吗？
+0x9D1EB7FE=~z~压在我们头上的这么多破事。这要怎么解决？有什么计划吗？
 
 ;0x9D58F421=~z~Okay, bro. Let's hope for the best.
-0x9D58F421=~z~行，兄弟。希望顺利吧。
+0x9D58F421=~z~好的，兄弟。希望一切顺利吧。
 
 ;0x9D82B66B=~z~West.
 0x9D82B66B=~z~西边吧。
@@ -712,7 +711,7 @@
 0x9DC0F0A3=E2T9_OB
 
 ;0x9E65B7FD=~z~You ain't even semi-suicidal, T. You're just over-dramatic. I wouldn't be surprised if that gun was just a movie prop.
-0x9E65B7FD=~z~你不是“有点”自杀倾向，【T】。你是完全入戏了。如果刚才的枪是电影道具的话，我都完全不惊讶。
+0x9E65B7FD=~z~你都不是有自杀倾向，T。你是太过浮夸了。你说刚才那把枪是电影道具我都信。
 
 ;0x9F0C0BC5=SFX_PAUSE_230
 0x9F0C0BC5=SFX_PAUSE_230
@@ -724,7 +723,7 @@
 0xA099ACC8=E2T9_QC
 
 ;0xA192C0E6=~z~I don't know. We could play the lottery, start a little ponzi scheme,
-0xA192C0E6=~z~我不知道啊。那我们现在就去买彩票，搞一个理财诈骗什么的，
+0xA192C0E6=~z~我不知道啊。我们可以去买彩票、搞一个庞氏骗局、
 
 ;0xA22E59EA=SFX_PAUSE_310
 0xA22E59EA=SFX_PAUSE_310
@@ -739,7 +738,7 @@
 0xA51B862F=E2T9_CF1
 
 ;0xA55BBAFF=~z~It's the diamonds, Lou. Rocco's had a word with him.
-0xA55BBAFF=~z~是因为钻石，【Lou】。【Rocco】和他说好的。
+0xA55BBAFF=~z~是因为钻石，Lou。Rocco跟他汇报的。
 
 ;0xA70189E4=E2T9_OC
 0xA70189E4=E2T9_OC
@@ -769,19 +768,19 @@
 0xACE2738F=E2T9_BB
 
 ;0xAD2ACE88=~z~Cause I ain't like that.
-0xAD2ACE88=~z~因为我不喜欢这种类型的。
+0xAD2ACE88=~z~这样我不喜欢。
 
 ;0xAD43FD22=SFX_PAUSE_130
 0xAD43FD22=SFX_PAUSE_130
 
 ;0xAD610C70=~z~What he going back through the park for? He onto us?
-0xAD610C70=~z~他又调头穿进公园是什么意思？他发现我们了？
+0xAD610C70=~z~他怎么开回中央公园了？被他发现了？
 
 ;0xAE0AA54E=~z~God no. Are you crazy?
 0xAE0AA54E=~z~天哪，不是。你疯了吗？
 
 ;0xAE349B72=~z~I wasn't talking about that. I mean, I really want to get Gracie back, but at the end of the day that ain't our main problem.
-0xAE349B72=~z~我指的不是这个。我的意思是，我是挺想把【Gracie】救回来的，但是对于今天来说，那个还不是我们的主要目标。
+0xAE349B72=~z~我说的不是这个。我是说，我也想把Gracie救回来，但是说到底，那不是我们的主要问题。
 
 ;0xAEDA53A9=010010090100090010090100
 0xAEDA53A9=010010090100090010090100
@@ -793,13 +792,13 @@
 0xAF8080B5=100090010010090010090100090100
 
 ;0xB0535BD4=~z~You'd think you'd know enough with all the shit we been in to take the safety off a gun before you use it.
-0xB0535BD4=~z~你觉得你自己弄懂了这些破事都是哪来的，就可以随便拉开枪的保险吗？
+0xB0535BD4=~z~经历了这么多你觉得你行了，结果开枪之前还是没关保险？
 
 ;0xB133A5B3=~z~Well done. You win, jackass.
-0xB133A5B3=~z~很好。你赢了，傻逼。
+0xB133A5B3=~z~很好。你赢了，混蛋。
 
 ;0xB14CBF91=~z~The Ancelottis said I should use their chopper. It's at the heliport on top of the entrance of the Booth Tunnel.
-0xB14CBF91=~z~Ancelottis家族说我们应该用他们的直升机。飞机就在【the Booth Tunnel】出口的正头顶上。
+0xB14CBF91=~z~Ancelotti家族的人让我们用直升机，就停在Booth隧道出口的正上方。
 
 ;0xB1B1A6B3=E2T9_CA
 0xB1B1A6B3=E2T9_CA
@@ -826,7 +825,7 @@
 0xB8240AEA=E2T9_VD
 
 ;0xB93D9440=~z~I think that's the place we're looking for.
-0xB93D9440=~z~我觉得那里就是我们要找的地方。
+0xB93D9440=~z~那里就是我们要找的地方。
 
 ;0xB9DE0CE0=010090010100090010090100010
 0xB9DE0CE0=010090010100090010090100010
@@ -844,7 +843,7 @@
 0xBB1F3E19=E2T9_TA
 
 ;0xBB3F9E9B=~z~All I'm saying is there are bigger problems we got to deal with. If Gracie came back tomorrow, we'd still be looking down the gun.
-0xBB3F9E9B=~z~我要说的是，我们还有更大的问题要解决。如果她明天回来了，我们还是别人的眼中钉。
+0xBB3F9E9B=~z~总而言之，我们还有更大的问题要解决。就算Gracie明天回来了，我们的危机依然存在。
 
 ;0xBB9D698A=E2T9_ZA
 0xBB9D698A=E2T9_ZA
@@ -853,25 +852,25 @@
 0xBE9033B8=SFX_PAUSE_200
 
 ;0xBF2E6EA4=~z~Her old man said something interesting to me, by the way.
-0xBF2E6EA4=~z~对了，他家老头给我说了一些有意思的东西。
+0xBF2E6EA4=~z~她老爹还跟我说了一些有意思的东西。
 
 ;0xC07732CD=~z~Being tangentially blamed for an abduction I can just about handle.
-0xC07732CD=~z~如果只是一个绑架，那我们都还摆得平。
+0xC07732CD=~z~如果只是一个绑架，那我还能够摆平。
 
 ;0xC139028F=~z~He's cutting back on himself. I thought he was heading west.
-0xC139028F=~z~他调头了。我还以为他要去西边。
+0xC139028F=~z~他怎么往回开了。我还以为他要去西边。
 
 ;0xC1991F10=SFX_PAUSE_170
 0xC1991F10=SFX_PAUSE_170
 
 ;0xC1D57F10=~z~Okay, alright. But which way do you think he's heading?
-0xC1D57F10=~z~好吧，行。那你觉得他是要去哪个方向？
+0xC1D57F10=~z~好吧，行。但你觉得他可能去哪儿？
 
 ;0xC303016B=~z~Where's he going?
 0xC303016B=~z~他这是要去哪儿？
 
 ;0xC35E910C=~z~I try to forget about that.
-0xC35E910C=~z~我在试着忘掉这些东西。
+0xC35E910C=~z~我不太想记起这件事。
 
 ;0xC4EC9370=E2T9_IC
 0xC4EC9370=E2T9_IC
@@ -880,13 +879,13 @@
 0xC4EF26A4=E2T9_ABA
 
 ;0xC526882D=~z~buy some cheap diamonds and try to sell them on at a profit. Oh wait, we've tried that and it's not going so well.
-0xC526882D=~z~买点便宜钻石去投机倒把。噢，等下，这些东西我们早都玩过了，而且都没什么卵用。
+0xC526882D=~z~买点便宜钻石去投机倒把。噢，等下，钻石买过了，结果不太顺利。
 
 ;0xC6A517D5=SFX_PAUSE_190
 0xC6A517D5=SFX_PAUSE_190
 
 ;0xC6D388D8=~z~We've been in enough shit recently for me to carry something a little bit more dangerous than a prop gun.
-0xC6D388D8=~z~我们最近经历的屁事这么多，我总得带点比道具枪有用的真家伙吧。
+0xC6D388D8=~z~最近经历了这么多屁事，我总得带点比道具枪有用的真家伙吧。
 
 ;0xC7059B34=~z~I don't know. I'm sorry. I'm stressed alright.
 0xC7059B34=~z~我也不知道。对不起。我现在压力很大，好吧？
@@ -895,10 +894,10 @@
 0xC74A0E9B=E2T9_EF
 
 ;0xC80E13DA=~z~I think that's their car, Lou. The red one. Let's follow it.
-0xC80E13DA=~z~【【我觉得那个是他们的车，【Lou】。红色的那个。咱们跟上。】】
+0xC80E13DA=~z~应该就是那辆车，Lou。红色的那辆。咱们跟上去。
 
 ;0xC9101C63=~z~Okay, bro. Where we looking for this girl then?
-0xC9101C63=~z~好吧，兄弟。我们一会去哪找她？
+0xC9101C63=~z~好了，兄弟。我们一会儿去哪找她？
 
 ;0xCACCB4BB=E2T9_VB
 0xCACCB4BB=E2T9_VB
@@ -913,7 +912,7 @@
 0xCF0585B2=SFX_PAUSE_200
 
 ;0xCF60A910=~z~You from Dukes, ain't you?
-0xCF60A910=~z~你之前不就是从【Dukes】来的吗？
+0xCF60A910=~z~你好像也是Dukes来的吧？
 
 ;0xCF6ECD41=E2T9_CC
 0xCF6ECD41=E2T9_CC
@@ -922,7 +921,7 @@
 0xD01717E2=010100090010090100
 
 ;0xD18DC2F6=~z~You'll throw a guy out a chopper but you won't go for a ride in one?
-0xD18DC2F6=~z~你能把别人直接从直升机上扔下去，但自己坐不了飞机？
+0xD18DC2F6=~z~你能把人从直升机上扔下去，自己却不敢坐飞机？
 
 ;0xD2075343=E2T9_XC
 0xD2075343=E2T9_XC
@@ -931,7 +930,7 @@
 0xD23DDE1C=E2T9_OD
 
 ;0xD2586DE9=~z~Me fucking crazy? Thats a bit rich coming from you.
-0xD2586DE9=~z~【【#我疯了？这赎金对你来说可不便宜。#】】
+0xD2586DE9=~z~我疯了？你还好意思说我啊。
 
 ;0xD2F94168=100010
 0xD2F94168=100010
@@ -952,16 +951,16 @@
 0xD6E2377E=E2T9_YA
 
 ;0xD754E09E=~z~The heat would be on us as well, Lou.
-0xD754E09E=~z~然后我们也要被全城追杀了，【Lou】。
+0xD754E09E=~z~然而我们也要被全城追杀了，Lou。
 
 ;0xD78099B8=~z~Oh, they'll "cap" her will they, Mr Streetwise Dangerous Motherfucker?
-0xD78099B8=~z~噢，他们要“撕票”她，是叫撕票吗？“街头卧龙先生”？
+0xD78099B8=~z~噢，他们会「撕票」是吧，街头卧龙先生？
 
 ;0xD7B2A39B=~z~I'm serious Lou, most of the girls in this city have fallen in love with you at least once, how come you can't manage to find a rich one.
-0xD7B2A39B=~z~我是认真的，【Lou】，你在可是全城范围内的闺房杀手，哪怕一次也行，去把一个有钱的难不倒你吧？
+0xD7B2A39B=~z~我认真的，Lou。城里有几个姑娘没被你迷住过，怎么会找不到富婆呢？
 
 ;0xD8473DB7=~z~Aren't we all.
-0xD8473DB7=~z~我们都这样好吗？
+0xD8473DB7=~z~我们也是啊。
 
 ;0xD860107F=E2T9_AAC
 0xD860107F=E2T9_AAC
@@ -973,22 +972,22 @@
 0xDC37C4E4=E2T9_PA
 
 ;0xDC95A972=~z~Oh yeah, what did he say?
-0xDC95A972=~z~噢，真的？他说什么了？
+0xDC95A972=~z~是吗，他说什么了？
 
 ;0xDD04621E=~z~That? Oh yeah. I'm cool. Mellow.
-0xDD04621E=~z~刚才那个？噢，是的。我挺好的，自在的很。
+0xDD04621E=~z~那个啊？噢，是的。我挺好的，自在得很。
 
 ;0xDD5C91F1=E2T9_DB
 0xDD5C91F1=E2T9_DB
 
 ;0xDDCF71BF=~z~Is he going faster. I think he's going faster. He's trying to lose us.
-0xDDCF71BF=~z~【【他在加速吗？我认为他是在加速。他在试着甩掉我们。】】
+0xDDCF71BF=~z~他是在加速吗？他好像在加速。他想甩掉我们。
 
 ;0xDE8792EF=SFX_PAUSE_180
 0xDE8792EF=SFX_PAUSE_180
 
 ;0xDEC565A6=~z~We got debts, who knows how many people want us dead. At some point we're gonna have to start getting selfish...
-0xDEC565A6=~z~我们还有负债要换，谁知道有多少人想让我们死。从某个角度来说，我们必须开始变得自私了…
+0xDEC565A6=~z~我们欠了债，谁知道有多少人想让我们死。某种意义上，我们必须要自私一点...
 
 ;0xDEF52061=E2T9_AAB
 0xDEF52061=E2T9_AAB
@@ -1006,7 +1005,7 @@
 0xE1093A8E=E2T9_PG
 
 ;0xE16DF941=~z~The place we're checking out is over in Cerveza Heights.
-0xE16DF941=~z~【【我们要去的房子就在【Cerveza Heights】。】】
+0xE16DF941=~z~我们要去的地方是Cerveza Heights。
 
 ;0xE337D175=E2T9_BA
 0xE337D175=E2T9_BA
@@ -1015,7 +1014,7 @@
 0xE33B87B2=SFX_PAUSE_270
 
 ;0xE356FCBA=~z~Fair enough.
-0xE356FCBA=~z~Fair enough.
+0xE356FCBA=~z~那好吧。
 
 ;0xE3BEB846=100
 0xE3BEB846=100
@@ -1027,28 +1026,28 @@
 0xE511AE36=E2T9_GC
 
 ;0xE565CAE8=~z~Well, now he's heading east. We won't lose him, man. We're cool.
-0xE565CAE8=~z~那么，现在他是往东边去了。我们不能让他丢了。我们可以的。
+0xE565CAE8=~z~现在他往东边去了。我们不会跟丢的，没问题的。
 
 ;0xE74049AD=~z~Fair point. I'll get a post-it note for the next time. "Disengage before suicide attempt."
-0xE74049AD=~z~你说的没错。我下次就应该先留个便条说“我在尝试自杀，别过来”。
+0xE74049AD=~z~有道理。下次我就先贴个便签：「自杀之前关掉保险」。
 
 ;0xE9979C5B=100090010
 0xE9979C5B=100090010
 
 ;0xEB58A98B=~z~He's holding us responsible for the whole fucking mess.
-0xEB58A98B=~z~他现在就是铁了心要把前后所有的屎盆子都扣咱们身上。
+0xEB58A98B=~z~整件事他都怪罪到我们头上了。
 
 ;0xEC2E1EF0=~z~Don't doubt the imagination of a man on the brink.
-0xEC2E1EF0=~z~不要质疑狗急跳墙的人的想象力。
+0xEC2E1EF0=~z~不要怀疑狗急跳墙的人的想象力。
 
 ;0xEC4A13A3=~z~He's speeding up. He's trying to lose us.
-0xEC4A13A3=~z~【【他正在加速。他在试着甩掉我们。】】
+0xEC4A13A3=~z~他在加速了，他想甩掉我们。
 
 ;0xEC85EF1B=SFX_PAUSE_200
 0xEC85EF1B=SFX_PAUSE_200
 
 ;0xEE523D88=~z~You got any ideas where we might start doing that? It's a big city, Tone.
-0xEE523D88=~z~那你想好我们要从哪里开始找了吗？这城市可大了去了，【Tone】。
+0xEE523D88=~z~那你想好要从哪里开始找了吗？自由城很大的，Tone。
 
 ;0xEE57CA52=SFX_PAUSE_130
 0xEE57CA52=SFX_PAUSE_130
@@ -1084,7 +1083,7 @@
 0xF1D65238=010100090010090100
 
 ;0xF23858A6=~z~Oh yeah, I've already been pimped off once, T, and I nearly got killed because of it.
-0xF23858A6=~z~噢，是的，我上次不就被卖出去了，【T】，而且我那次还差点就死在这事上了。
+0xF23858A6=~z~是吗，上次你就让我出卖色相了，T。我差点还因此出事。
 
 ;0xF47CCF8C=010090100090010090100010090010010090100
 0xF47CCF8C=010090100090010090100010090010010090100
@@ -1093,7 +1092,7 @@
 0xF5C5977F=SFX_PAUSE_240
 
 ;0xF5E18B9D=~z~No. I don't actually. I didn't even take an anti-anxiety and you know how I feel about flying.
-0xF5E18B9D=~z~没，实际上，我没带着。我甚至都没带着我的抗焦虑药，你知道我坐飞机的时候是什么感觉。
+0xF5E18B9D=~z~没，我真没带。我连抗焦虑药都没带，你也知道我坐飞机很慌的。
 
 ;0xF60053C9=E2T9_WA
 0xF60053C9=E2T9_WA
@@ -1102,10 +1101,10 @@
 0xF68784AF=E2T9_PB
 
 ;0xF738A7E7=~z~Okay. So we head over there and do what? Land on the roof and ask them where they got Gracie?
-0xF738A7E7=~z~行吧。我们直接过去，然后干什么？我们就直接把飞机停他们房顶上，然后问他们你们在哪捡到【Gracie】的？
+0xF738A7E7=~z~好吧。那我们去了以后干什么？降落到屋顶，然后问他们Gracie被关在哪儿了？
 
 ;0xF745169D=~z~He's blaming us, Lou.
-0xF745169D=~z~她爸把锅甩到我们头上了，【Lou】。
+0xF745169D=~z~他怪罪的是我们，Lou。
 
 ;0xF913D55E=SFX_PAUSE_190
 0xF913D55E=SFX_PAUSE_190
@@ -1114,7 +1113,7 @@
 0xF94F1D2A=SFX_PAUSE_200
 
 ;0xF9DFF77D=~z~That red car is leaving. Follow it.
-0xF9DFF77D=~z~那个红色的车要走了，跟着它。
+0xF9DFF77D=~z~那辆红车要走了，跟着它。
 
 ;0xFAA926CA=E2T9_XB
 0xFAA926CA=E2T9_XB
@@ -1123,7 +1122,7 @@
 0xFAD2376B=E2T9_ADB
 
 ;0xFC1BBECB=~z~This is Liberty City man. There must be twenty helicopters in this airspace at any given time.
-0xFC1BBECB=~z~这可是【Liberty City】，兄弟。这地方的上空永远都会有二十架以上的直升机来回转。
+0xFC1BBECB=~z~这可是自由城啊。任何时候都会有二十多架直升机在天上盘旋。
 
 ;0xFE518D21=E2T9_ZF
 0xFE518D21=E2T9_ZF
@@ -1132,5 +1131,5 @@
 0xFEA51DAE=SFX_PAUSE_140
 
 ;0xFF8CC5AD=~z~He ain't gonna think this chopper's got anything to do with him.
-0xFF8CC5AD=~z~他不可能注意到我们的直升机可能和这个他有什么关系。
+0xFF8CC5AD=~z~他不会认为我们的直升机是冲着他来的。
 
