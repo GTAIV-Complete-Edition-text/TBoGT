@@ -147,7 +147,7 @@
 0xFAC80E8E=~r~Armando被杀了。
 
 ;0xFB879931=~s~Get to the ~b~helicopter.
-0xFB879931=~s~前往~b~直升机所在地。
+0xFB879931=~s~前往~b~直升机~s~所在地。
 
 ;0xFE715CF6=~s~Get to your ~b~buddies.~s~
 0xFE715CF6=~s~去找你的~b~同伴。~s~
