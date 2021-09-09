@@ -3,10 +3,10 @@
 0x04B50799=~s~自由城铁笼格斗中的战斗通常是一对一的赤手肉搏。
 
 ;0x0C8A53CE=~s~Lose the cops.
-0x0C8A53CE=~s~Lose the cops.
+0x0C8A53CE=~s~甩掉警察。
 
 ;0x0EFA9AD7=~s~Out.
-0x0EFA9AD7=~s~Out.
+0x0EFA9AD7=~s~出局。
 
 ;0x10F2B4FB=MOCAP PLACEHOLDER ~n~~n~Santo is pissed Luis didn't fall in the 3rd, he threatens to burn Luis mum's house down.~n~Luis says he'll kill him first.
 0x10F2B4FB=MOCAP PLACEHOLDER ~n~~n~Santo is pissed Luis didn't fall in the 3rd, he threatens to burn Luis mum's house down.~n~Luis says he'll kill him first.
@@ -15,31 +15,31 @@
 0x1272A314=~s~利用观众拉住对手。
 
 ;0x239F139F=~s~Wait for ~b~Santo.
-0x239F139F=~s~Wait for ~b~Santo.
+0x239F139F=~s~等待~b~Santo。
 
 ;0x28176037=~s~Hold ~INPUT_AIM~ to lock onto your opponent.
 0x28176037=~s~按住~INPUT_AIM~锁定对手。
 
 ;0x33FA81C6=~s~Go to the ~y~L.C. Cage Fighters.
-0x33FA81C6=~s~Go to the ~y~L.C. Cage Fighters.
+0x33FA81C6=~s~前往~y~自由城铁笼格斗。
 
 ;0x3A430492=~s~Press ~INPUT_MELEE_ATTACK1~ to punch.~n~Press ~INPUT_MELEE_ATTACK2~ for alternative punch.~n~~s~Press ~INPUT_MELEE_KICK~ to kick.
 0x3A430492=~s~按~INPUT_MELEE_ATTACK1~拳击。~n~按~INPUT_MELEE_ATTACK2~也是拳击。~n~~s~按~INPUT_MELEE_KICK~踢击。
 
 ;0x4AF182DE=~r~You are disqualified for stepping off the mat.
-0x4AF182DE=~r~You are disqualified for stepping off the mat.
+0x4AF182DE=~r~你因走出界出局。
 
 ;0x55BFC5B4=~s~Out in 2 seconds.
-0x55BFC5B4=~s~Out in 2 seconds.
+0x55BFC5B4=~s~2秒后出局。
 
 ;0x5F20CE4D=~s~Hold ~INPUT_MELEE_BLOCK~ to block.
 0x5F20CE4D=~s~按住~INPUT_MELEE_BLOCK~格挡。
 
 ;0x5F928639=~s~Get in the ~b~car.
-0x5F928639=~s~Get in the ~b~car.
+0x5F928639=~s~上~b~车。
 
 ;0x62F8086B=~s~Out in 1 second.
-0x62F8086B=~s~Out in 1 second.
+0x62F8086B=~s~1秒后出局，
 
 ;0x63FD339A=~s~Tap ~INPUT_MELEE_BLOCK~ as your opponent attacks to dodge. Press ~INPUT_MELEE_ATTACK1~ or ~INPUT_MELEE_ATTACK2~ after dodging to perform a powerful counter move or take their weapon.
 0x63FD339A=~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后可按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~反击或缴械。
@@ -51,7 +51,7 @@
 0x6C7632AD=~s~跟着~b~Santo。
 
 ;0x762A5345=~s~You won.
-0x762A5345=~s~You won.
+0x762A5345=~s~你赢了。
 
 ;0x79B62BC2=~s~Stay close to ~b~Santo.
 0x79B62BC2=~s~靠近~b~Santo。
@@ -60,44 +60,44 @@
 0x7B492513=你可以回来下注赌钱，也可以来争夺自由城铁笼格斗的冠军。
 
 ;0x85FAB7EA=~s~Kill ~r~Santo.
-0x85FAB7EA=~s~Kill ~r~Santo.
+0x85FAB7EA=~s~杀了~r~Santo。
 
 ;0xA109575D=~s~Press ~INPUT_PICKUP~ to take a dive.
 0xA109575D=~s~按~INPUT_PICKUP~故意打输。
 
 ;0xA2212A61=~s~Out in 3 seconds.
-0xA2212A61=~s~Out in 3 seconds.
+0xA2212A61=~s~3秒后出局。
 
 ;0xB2DC93D3=~r~You are no longer welcome into L.C. Cage Fighters.
-0xB2DC93D3=~r~You are no longer welcome into L.C. Cage Fighters.
+0xB2DC93D3=~r~自由城铁笼格斗将你拒之门外了。
 
 ;0xB3610313=~s~This is the third round. Get your health to below half and take a dive.
 0xB3610313=~s~现在是第三轮。使你的生命值降至一半一下，故意打输。
 
 ;0xC7CA05CF=~r~Santo was killed.
-0xC7CA05CF=~r~Santo was killed.
+0xC7CA05CF=~r~Santo被杀了。
 
 ;0xD3A267F0=~r~You lost Santo.
-0xD3A267F0=~r~You lost Santo.
+0xD3A267F0=~r~你跟丢了Santo。
 
 ;0xD9E56817=~r~The car was wrecked.
-0xD9E56817=~r~The car was wrecked.
+0xD9E56817=~r~车坏了。
 
 ;0xDED9B88B=Let your opponent hit you to dive.
 0xDED9B88B=老实挨打，准备躺倒。
 
 ;0xE466B14E=~s~Press ~INPUT_PICKUP~ to get up again.~n~Do nothing to stay down.
-0xE466B14E=~s~Press ~INPUT_PICKUP~ to get up again.~n~Do nothing to stay down.
+0xE466B14E=~s~按~INPUT_PICKUP~起身。~n~不操作即为躺倒。
 
 ;0xE8234E76=~s~Do not leave the ring when fighting.
-0xE8234E76=~s~Do not leave the ring when fighting.
+0xE8234E76=~s~战斗时不要离开规定区域。
 
 ;0xF7E5EDFB=~s~Bets are cancelled if you step off the mat, and contenders lose their entry fee.
-0xF7E5EDFB=~s~Bets are cancelled if you step off the mat, and contenders lose their entry fee.
+0xF7E5EDFB=~s~出界后就会停止下注，选手会失去他的入场费。
 
 ;0xF9B8444D=~s~You lost.
-0xF9B8444D=~s~You lost.
+0xF9B8444D=~s~你输了。
 
 ;0xFAF6F7CB=The Crowd goes wild.
-0xFAF6F7CB=The Crowd goes wild.
+0xFAF6F7CB=观众狂欢。
 
