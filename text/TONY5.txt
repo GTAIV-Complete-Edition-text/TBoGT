@@ -12,7 +12,7 @@
 0x2F11D853=~s~按~INPUT_DETONATE~引爆黏弹。
 
 ;0x4B16A415=~s~You are out of sticky bombs, call Armando to buy some more.
-0x4B16A415=~s~你的黏弹用完了，打电话给Armando购买。
+0x4B16A415=~s~你的黏弹用完了，打电话向Armando购买。
 
 ;0x4B8DBB27=~s~Now detonate the bombs to destroy the crane.
 0x4B8DBB27=~s~引爆黏弹，炸毁塔吊。

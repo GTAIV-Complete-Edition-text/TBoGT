@@ -1,21 +1,21 @@
 ﻿[TONY7]
 ;0x0E6EA76D=A sticky bomb will attach itself to any moving vehicle.
-0x0E6EA76D=粘弹会附着在车辆上。
+0x0E6EA76D=粘弹会吸附在任何载具上。
 
 ;0x11B86254=Go to the ~y~docks.~s~
 0x11B86254=前往~y~码头。~s~
 
 ;0x268DBA40=~r~The car was wrecked.
-0x268DBA40=~r~这辆车坏了。
+0x268DBA40=~r~车坏了。
 
 ;0x35A02A23=Drive Tony back to the ~y~club.
-0x35A02A23=载Tony回~y~俱乐部。
+0x35A02A23=送Tony回~y~夜店。
 
 ;0x432B737B=~r~You abandoned Tony.
 0x432B737B=~r~你抛弃了Tony。
 
 ;0x4852CF88=Use sticky bombs to take out the ~r~bikers.~s~
-0x4852CF88=用粘弹干掉~r~骑手。~s~
+0x4852CF88=用黏弹干掉~r~飞车党。~s~
 
 ;0x5DD8A8D9=~r~Tony is dead.
 0x5DD8A8D9=~r~Tony死了。
@@ -24,10 +24,10 @@
 0x6A858B3D=甩掉警察。
 
 ;0x74AECFEC=Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~PAD_DPAD_DOWN~ to detonate.
-0x74AECFEC=用~PAD_RSTICK_ALL~瞄准。按~INPUT_ATTACK~抛出炸弹并~PAD_DPAD_DOWN~引爆。
+0x74AECFEC=用~PAD_RSTICK_ALL~瞄准。按~INPUT_ATTACK~投掷黏弹，按~PAD_DPAD_DOWN~引爆。
 
 ;0x8A4A25F4=Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~INPUT_DETONATE~ to detonate.
-0x8A4A25F4=用~PAD_RSTICK_ALL~瞄准。按~INPUT_ATTACK~抛出炸弹并~INPUT_DETONATE~引爆。
+0x8A4A25F4=用~PAD_RSTICK_ALL~瞄准。按~INPUT_ATTACK~投掷黏弹，按~INPUT_DETONATE~引爆。
 
 ;0xA65FB593=You pick Gay Tony up and you have to drive him to the docks to go buy some diamonds
 0xA65FB593=接基佬Tony并开车送他去码头买钻石。

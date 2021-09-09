@@ -1,12 +1,12 @@
 ﻿[TONY10]
 ;0x0161796B=Go back to ~y~Pier 45.
-0x0161796B=前往~y~Pier 45.
+0x0161796B=前往~y~45号码头.
 
 ;0x01C5FFE0=~r~You went too far away from the meet.
 0x01C5FFE0=~r~你离见面地点太远了。
 
 ;0x064688E1=~r~You beached the boat.
-0x064688E1=~r~你的船只搁浅了。
+0x064688E1=~r~你的船搁浅了。
 
 ;0x0AF18C8F=~r~You hurt Tony.
 0x0AF18C8F=~r~你伤害了Tony。
@@ -18,25 +18,25 @@
 0x174D0A4A=~r~Gracie死了。
 
 ;0x1C0DB46F=~s~Get in ~b~Tony's car.
-0x1C0DB46F=~s~上~b~Tony的车。
+0x1C0DB46F=~s~进入~b~Tony的车。
 
 ;0x2A42CB31=You left ~b~Gracie~s~ and ~b~Tony~s~ behind.
-0x2A42CB31=你把~b~Gracie~s~和~b~Tony~s~落在后边了。
+0x2A42CB31=你把~b~Gracie~s~和~b~Tony~s~落下了。
 
 ;0x2D433636=~r~The boat was wrecked.
-0x2D433636=~r~船只失事了。
+0x2D433636=~r~船被毁了。
 
 ;0x38916D76=~r~You destroyed Tony's car.
 0x38916D76=~r~你毁了Tony的车。
 
 ;0x3D0E7788=~r~The boat got stuck.
-0x3D0E7788=~r~船不能移动了。
+0x3D0E7788=~r~船坏了。
 
 ;0x3F5CDA69=~r~Gracie was injured.
 0x3F5CDA69=~r~Gracie受伤了。
 
 ;0x47670C39=Get back on the ~b~boat.
-0x47670C39=回到~b~船上。
+0x47670C39=回到~b~船~s~上。
 
 ;0x5657AA1A=Shake the gang member off the back of the boat.
 0x5657AA1A=甩掉船后的帮派成员。
@@ -48,28 +48,28 @@
 0x6446243B=甩掉警察。
 
 ;0x71A160AD=You've left ~b~Tony ~s~behind.
-0x71A160AD=你把~b~Tony~s~落在后边了。
+0x71A160AD=你把~b~Tony~s~落下了。
 
 ;0x7A6A5083=~r~You put Gracie and Tony at risk.
 0x7A6A5083=~r~你把Gracie和Tony置于危险之中。
 
 ;0x91B21A0E=Get back in the ~b~boat.
-0x91B21A0E=回到~b~船里。
+0x91B21A0E=回到~b~船~s~上。
 
 ;0x92157FD9=~r~The deal is off.
-0x92157FD9=~r~交易取消了。
+0x92157FD9=~r~交易吹了。
 
 ;0x94DC2062=Go to ~y~Pier 45.
-0x94DC2062=前往~y~Pier 45。
+0x94DC2062=前往~y~45号码头。
 
 ;0xABA64DF6=Go to the ~y~Charge Island Sewage Works.
-0xABA64DF6=前往~y~Charge Island的污水处理厂。
+0xABA64DF6=前往~y~Charge岛污水处理厂。
 
 ;0xCEED1483=~r~You abandoned Tony.
 0xCEED1483=~r~你抛弃了Tony。
 
 ;0xDDB9B21C=You've left ~b~Tony~s~ behind.
-0xDDB9B21C=你把~b~Tony~s~落在后边了。
+0xDDB9B21C=你把~b~Tony~s~落下了。
 
 ;0xE0C31D2F=~r~You abandoned Gracie.
 0xE0C31D2F=~r~你抛弃了Gracie。
@@ -81,7 +81,7 @@
 0xF1D4BF52=~r~你伤害了Gracie。
 
 ;0xF477DF98=You left ~b~Gracie~s~ behind.
-0xF477DF98=你把~b~Gracie~s~落在后边了。
+0xF477DF98=你把~b~Gracie~s~落下了。
 
 ;0xF72749F7=~r~Tony was injured.
 0xF72749F7=~r~Tony受伤了。

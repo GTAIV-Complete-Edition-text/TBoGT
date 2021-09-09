@@ -3,61 +3,61 @@
 0x0591869B=~s~甩掉警察。
 
 ;0x0A854E36=~s~Go and get the ~b~chopper.
-0x0A854E36=~s~上~b~直升机。
+0x0A854E36=~s~前往~b~直升机~s~所在地。
 
 ;0x12729558=~r~The suspected kidnapper was killed.
-0x12729558=~r~绑架犯被击毙。
+0x12729558=~r~绑匪被杀了。
 
 ;0x15B3E8F1=~s~You have left ~b~Tony ~s~behind.
-0x15B3E8F1=~s~你把~b~Tony~s~落在后边了。
+0x15B3E8F1=~s~你把~b~Tony~s~落下了。
 
 ;0x204C310B=~r~You lost the suspected kidnapper.
-0x204C310B=~r~你跟丢了绑架犯。
+0x204C310B=~r~你跟丢了绑匪。
 
 ;0x680D4D16=~s~The suspected kidnapper is driving a red Comet, keep them in sight.
-0x680D4D16=~s~绑架犯驾驶着一辆赤色彗星，让他们保持在视线范围内。
+0x680D4D16=~s~绑匪驾驶着一辆红色Comet，让他们保持在视线范围内。
 
 ;0x6B9036AA=~s~The suspected kidnapper has just left the tunnel, get close and keep him in sight.
-0x6B9036AA=~s~绑架犯刚离开隧道，靠近他，让他在视线范围内。
+0x6B9036AA=~s~绑匪刚离开隧道，跟上去，让他在视线范围内。
 
 ;0x78A422BB=~s~Get back in the ~b~chopper.
-0x78A422BB=~s~回到~b~直升机。
+0x78A422BB=~s~回到~b~直升机~s~上。
 
 ;0xA6213CB3=~r~Tony died.
 0xA6213CB3=~r~Tony死了。
 
 ;0xA68D3D97=~r~You alerted the suspected kidnapper to your presence.
-0xA68D3D97=~r~绑架犯注意到了你的存在。
+0xA68D3D97=~r~绑匪注意到了你的存在。
 
 ;0xAE2516CE=~s~The suspected kidnapper is in the carpark, keep watch on the exit.
-0xAE2516CE=~s~绑架犯现在在停车场，盯紧出口。
+0xAE2516CE=~s~绑匪现在在停车场，盯紧出口。
 
 ;0xB3E1D834=~r~The chopper got stuck.
-0xB3E1D834=~r~直升机不能动了。
+0xB3E1D834=~r~直升机坏了。
 
 ;0xBA6277CE=~s~The suspected kidnapper has entered Booth Tunnel, the exit is across the West River.
-0xBA6277CE=~s~绑架犯已经进入了Turnnel隧道，出口在West River对岸。
+0xBA6277CE=~s~绑匪进入了Booth隧道，出口在西河对岸。
 
 ;0xC58C7B89=~r~You abandoned Tony.
 0xC58C7B89=~r~你抛弃了Tony。
 
 ;0xDB44A6FD=~r~You tampered with the suspected kidnapper's car.
-0xDB44A6FD=~r~你弄坏了绑架犯的车。
+0xDB44A6FD=~r~你弄坏了绑匪的车。
 
 ;0xE2427A1A=~s~The suspected kidnapper is near ~y~Meadows Park.
-0xE2427A1A=~s~绑架嫌疑犯在~y~Meadows Park~s~附近。
+0xE2427A1A=~s~绑匪在~y~Meadows Park~s~附近。
 
 ;0xF701BCE3=~s~Now take the chopper back to the ~y~helipad.
-0xF701BCE3=~s~现在把直升机开回~y~停机坪。
+0xF701BCE3=~s~将直升机开回~y~停机坪。
 
 ;0xFCDD6A2E=~r~The chopper was destroyed.
-0xFCDD6A2E=~r~直升机坏了。
+0xFCDD6A2E=~r~直升机被毁了。
 
 ;0xFD4588EF=~s~They are too far away, hurry or you will lose them.
 0xFD4588EF=~s~你离他们太远了，快点跟上，不然就跟丢了。
 
 ;0xFD69396B=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the suspected kidnapper. Press ~INPUT_VEH_CIN_CAM~ to toggle this view.
-0xFD69396B=~s~按~INPUT_VEH_CIN_CAM~把镜头对准绑架犯。按~INPUT_VEH_CIN_CAM~切换视角。
+0xFD69396B=~s~按住~INPUT_VEH_CIN_CAM~将镜头对准绑匪。~n~按~INPUT_VEH_CIN_CAM~切换至跟随视角。
 
 ;0xFD988118=~s~There he is, keep on him.
 0xFD988118=~s~他在那，跟上他。
