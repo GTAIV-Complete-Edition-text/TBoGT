@@ -1,18 +1,18 @@
 ﻿[E2MF1AU]
 ;0x00B8FB3C=~z~Hey if Tony gave you my number, then it's okay bro.
-0x00B8FB3C=~z~Hey if Tony gave you my number, then it's okay bro.
+0x00B8FB3C=~z~嘿，既然Tony给了你我的电话，那就没有问题，兄弟。
 
 ;0x00FA60A5=E2MF1_MA
 0x00FA60A5=E2MF1_MA
 
 ;0x010E0DF3=~z~Ray, hey man, I hate to disappoint you.
-0x010E0DF3=~z~Ray, hey man, I hate to disappoint you.
+0x010E0DF3=~z~Ray，嘿伙计，我不想让你失望。
 
 ;0x02C7981A=SFX_PAUSE_250
 0x02C7981A=SFX_PAUSE_250
 
 ;0x0353DFEC=~z~Sometimes I dream about being a rich playboy who everyone loves.
-0x0353DFEC=~z~Sometimes I dream about being a rich playboy who everyone loves.
+0x0353DFEC=~z~有时我会幻想自己是个人见人爱的花心公子哥。
 
 ;0x039B12C9=E2MF1_FH
 0x039B12C9=E2MF1_FH
@@ -21,7 +21,7 @@
 0x03A53328=E2MF1_GE2
 
 ;0x03FF3DE8=~z~Now I do something and it ain't good enough because I ain't hanging out around the neighborhood with them.
-0x03FF3DE8=~z~Now I do something and it ain't good enough because I ain't hanging out around the neighborhood with them.
+0x03FF3DE8=~z~现在我做了什么了，你又嫌弃我没跟他们混在一起。
 
 ;0x0412D70B=010090100100090010
 0x0412D70B=010090100100090010
@@ -45,22 +45,22 @@
 0x068E5C51=E2MF1_NF
 
 ;0x07D985C9=~z~Yusuf. You staying out of trouble, man?
-0x07D985C9=~z~Yusuf. You staying out of trouble, man?
+0x07D985C9=~z~Yusuf。你没遇上麻烦吧，哥们？
 
 ;0x0863C6B1=~z~They aren't as bright as you and you have disrespected them. Laughed at them with your rich friends
-0x0863C6B1=~z~They aren't as bright as you and you have disrespected them. Laughed at them with your rich friends
+0x0863C6B1=~z~他们没你那么有活力。你还对他们不尊重，和阔佬朋友一起嘲笑他们。
 
 ;0x08BA27B6=100090100090100
 0x08BA27B6=100090100090100
 
 ;0x091F2EE9=~z~Hello?
-0x091F2EE9=~z~Hello?
+0x091F2EE9=~z~你好？
 
 ;0x09654373=~z~and I know it takes a lot to put up with you and keep you on the path.
-0x09654373=~z~and I know it takes a lot to put up with you and keep you on the path.
+0x09654373=~z~我还知道跟你长期相处、让你不误入歧途很难。
 
 ;0x0A218D5F=~z~Nice man? Mami, he's a loan shark! You didn't borrow no money did you?
-0x0A218D5F=~z~Nice man? Mami, he's a loan shark! You didn't borrow no money did you?
+0x0A218D5F=~z~大好人？老妈，他放高利贷的！你没问他借钱吧？
 
 ;0x0A2F0B90=E2MF1_XJ
 0x0A2F0B90=E2MF1_XJ
@@ -78,7 +78,7 @@
 0x0DC618A7=SFX_PAUSE_240
 
 ;0x0E637730=~z~Luis. Hello, my friend. Did you like the car. Did you like the other gift?
-0x0E637730=~z~Luis. Hello, my friend. Did you like the car. Did you like the other gift?
+0x0E637730=~z~Luis。你好啊，朋友。喜欢这辆车吗？喜欢车上的小礼物吗？
 
 ;0x0E89DD6E=SFX_PAUSE_160
 0x0E89DD6E=SFX_PAUSE_160
@@ -87,7 +87,7 @@
 0x0EBCD02A=E2MF1_VB
 
 ;0x0EDAD397=~z~Listen to me on this, son.
-0x0EDAD397=~z~Listen to me on this, son.
+0x0EDAD397=~z~听我一句劝吧，儿子。
 
 ;0x101BD9D9=E2MF1_KE
 0x101BD9D9=E2MF1_KE
@@ -108,10 +108,10 @@
 0x13AE2240=SFX_PAUSE_280
 
 ;0x13C2E9D8=~z~This is not an opportunity you want to miss out on,
-0x13C2E9D8=~z~This is not an opportunity you want to miss out on,
+0x13C2E9D8=~z~你不可能放过这个机会的，
 
 ;0x13CA5B24=~z~Homie! What's happening, man?
-0x13CA5B24=~z~Homie! What's happening, man?
+0x13CA5B24=~z~哥们儿！你好吗，兄弟？
 
 ;0x147CEB62=E2MF1_JB
 0x147CEB62=E2MF1_JB
@@ -123,22 +123,22 @@
 0x1560C460=SFX_PAUSE_150
 
 ;0x15AA216A=~z~You better believe it, bro. Totally guilt free. It's business, business, business with me.
-0x15AA216A=~z~You better believe it, bro. Totally guilt free. It's business, business, business with me.
+0x15AA216A=~z~你一定要相信我，兄弟。完全无罪。我一直在工作、工作、工作。
 
 ;0x1614BE7F=SFX_PAUSE_260
 0x1614BE7F=SFX_PAUSE_260
 
 ;0x161A621E=~z~You have left them behind
-0x161A621E=~z~You have left them behind
+0x161A621E=~z~你已经抛弃他们了。
 
 ;0x168FEA0C=~z~Mami.
-0x168FEA0C=~z~Mami.
+0x168FEA0C=~z~老妈。
 
 ;0x175944CD=~z~Hey Ray, what's up?
-0x175944CD=~z~Hey Ray, what's up?
+0x175944CD=~z~喂，Ray。怎么了？
 
 ;0x180F2635=~z~Listen, I thought you should know that things is cool with Tony now. It looks like we might be okay.
-0x180F2635=~z~Listen, I thought you should know that things is cool with Tony now. It looks like we might be okay.
+0x180F2635=~z~听着，现在Tony这边没事了，我跟你说一声。我们应该不会有事了。
 
 ;0x1824E14A=010090100090010100090010090100010100100010010090100
 0x1824E14A=010090100090010100090010090100010100100010010090100
@@ -147,7 +147,7 @@
 0x185CE957=E2MF1_KC
 
 ;0x192F24D2=~z~Shit. If he even half liked pussy, you know how many bitches he'd fuck?
-0x192F24D2=~z~Shit. If he even half liked pussy, you know how many bitches he'd fuck?
+0x192F24D2=~z~妈的，但凡他对女人有点兴趣，你知道他会日多少逼吗？
 
 ;0x1963B12A=E2MF1_UA
 0x1963B12A=E2MF1_UA
@@ -162,16 +162,16 @@
 0x1AB57445=E2MF1_IB
 
 ;0x1ACFAC4B=~z~You can respect him from a college library, not just the bandstand of his nightclub.
-0x1ACFAC4B=~z~You can respect him from a college library, not just the bandstand of his nightclub.
+0x1ACFAC4B=~z~你可以在大学的图书馆尊重他，而不是夜店的舞台上。
 
 ;0x1B5FD272=~z~Heh heh, yeah. Kibbutz on a motherfucking kibbutz, huh! Yeah but I've taken this shit over.
-0x1B5FD272=~z~Heh heh, yeah. Kibbutz on a motherfucking kibbutz, huh! Yeah but I've taken this shit over.
+0x1B5FD272=~z~嘿嘿，没错。Kibbutz现在在一个基布兹，哈！但这里已经归我管了。
 
 ;0x1C1F7027=~z~Luis.
-0x1C1F7027=~z~Luis.
+0x1C1F7027=~z~Luis。
 
 ;0x1C28C428=~z~Then do not.
-0x1C28C428=~z~Then do not.
+0x1C28C428=~z~那就别辜负我。
 
 ;0x1C451C21=E2MF1_VG
 0x1C451C21=E2MF1_VG
@@ -192,7 +192,7 @@
 0x25C29347=E2MF1_JG
 
 ;0x2602C21C=~z~My wayward son, I hope you ain't brought no curses on the family.
-0x2602C21C=~z~My wayward son, I hope you ain't brought no curses on the family.
+0x2602C21C=~z~我任性的儿子，希望你没有给家族招来诅咒。
 
 ;0x2712D2F5=010100090010090100010100090100090010100090100090100090100010
 0x2712D2F5=010100090010090100010100090100090010100090100090100090100010
@@ -210,19 +210,19 @@
 0x28E0FAAE=SFX_PAUSE_280
 
 ;0x29081462=~z~Yeah I don't know where you heard that...
-0x29081462=~z~Yeah I don't know where you heard that...
+0x29081462=~z~是啊，你从哪里听说的...
 
 ;0x290D9B6D=E2MF1_PB
 0x290D9B6D=E2MF1_PB
 
 ;0x29A39A90=~z~Thank you.
-0x29A39A90=~z~Thank you.
+0x29A39A90=~z~谢谢。
 
 ;0x29E8FE8F=E2MF1_GF1
 0x29E8FE8F=E2MF1_GF1
 
 ;0x29ECAD15=~z~Anyway, it changes. Give him a break, for me okay?
-0x29ECAD15=~z~Anyway, it changes. Give him a break, for me okay?
+0x29ECAD15=~z~总之，经常变的。别逼他太紧，看在我的面子上。
 
 ;0x2A2937DC=SFX_PAUSE_440
 0x2A2937DC=SFX_PAUSE_440
@@ -240,19 +240,19 @@
 0x2CC38BBC=E2MF1_KA
 
 ;0x2D00D31D=~z~No. He helped me with my shopping. He is a real gentleman.
-0x2D00D31D=~z~No. He helped me with my shopping. He is a real gentleman.
+0x2D00D31D=~z~没。买东西的时候他帮了我。他真是个绅士。
 
 ;0x2E83C529=~z~It's just usually you start throwing stuff at me and telling me I'm wasting my life.
-0x2E83C529=~z~It's just usually you start throwing stuff at me and telling me I'm wasting my life.
+0x2E83C529=~z~只是每次你都会朝我扔东西，说我在浪费人生。
 
 ;0x2E9871C6=SFX_PAUSE_290
 0x2E9871C6=SFX_PAUSE_290
 
 ;0x2EB637C5=~z~Look, I just wanted to apologize to you. I was an asshole.
-0x2EB637C5=~z~Look, I just wanted to apologize to you. I was an asshole.
+0x2EB637C5=~z~听着，我想跟你道个歉。之前是我不对。
 
 ;0x2F1C0AC0=~z~What's up, Luis? Things is good?
-0x2F1C0AC0=~z~What's up, Luis? Things is good?
+0x2F1C0AC0=~z~怎么了，Luis？最近顺利吗？
 
 ;0x30EEE34E=SFX_PAUSE_180
 0x30EEE34E=SFX_PAUSE_180
@@ -264,13 +264,13 @@
 0x3155E72F=010090100090010100090010100090100090100010090100090010100
 
 ;0x31B4FF1C=~z~Oh yeah?
-0x31B4FF1C=~z~Oh yeah?
+0x31B4FF1C=~z~是吗？
 
 ;0x31B8D5E5=~z~Yeah, sure.
-0x31B8D5E5=~z~Yeah, sure.
+0x31B8D5E5=~z~是啊，确实。
 
 ;0x322C52A6=~z~You are though to the M. Kibbutz Holding Company, Tanya's away from her desk.
-0x322C52A6=~z~You are though to the M. Kibbutz Holding Company, Tanya's away from her desk.
+0x322C52A6=~z~感谢联系M. Kibbutz控股公司，Tanya现在不在。
 
 ;0x329F1AAD=E2MF1_DA
 0x329F1AAD=E2MF1_DA
@@ -291,13 +291,13 @@
 0x36E91378=SFX_PAUSE_280
 
 ;0x371709BC=~z~Yeah but, but it's a commune?
-0x371709BC=~z~Yeah but, but it's a commune?
+0x371709BC=~z~是啊，不过你这是公社？
 
 ;0x372AFF7B=E2MF1_RH
 0x372AFF7B=E2MF1_RH
 
 ;0x375DB10D=~z~especially as I hear that "Gay" Tony Prince's ship is sinking.
-0x375DB10D=~z~especially as I hear that "Gay" Tony Prince's ship is sinking.
+0x375DB10D=~z~听说「基佬」Tony Prince的船就要沉了吧。
 
 ;0x386A6F05=E2MF1_RM
 0x386A6F05=E2MF1_RM
@@ -306,22 +306,22 @@
 0x38873F12=E2MF1_NE
 
 ;0x38BBEB45=~z~It's right on the Middle Park, prime location, one of the most exclusive in the city.
-0x38BBEB45=~z~It's right on the Middle Park, prime location, one of the most exclusive in the city.
+0x38BBEB45=~z~就在中央公园，黄金地段，自由城最高档的地段之一。
 
 ;0x3A1B311A=~z~And you haven't got any time for your old friends.
-0x3A1B311A=~z~And you haven't got any time for your old friends.
+0x3A1B311A=~z~忙到没空见老朋友了是吧。
 
 ;0x3A20B56B=E2MF1_IC
 0x3A20B56B=E2MF1_IC
 
 ;0x3AFAE869=~z~Give him some slack. He's Tony fucking Prince! He's a legend
-0x3AFAE869=~z~Give him some slack. He's Tony fucking Prince! He's a legend
+0x3AFAE869=~z~放宽心吧。他可是Tony Prince！传奇人物！
 
 ;0x3CB200C4=~z~But listen, can you come and meet me at the construction site? I have something to discuss.
-0x3CB200C4=~z~But listen, can you come and meet me at the construction site? I have something to discuss.
+0x3CB200C4=~z~但是听着，你能来建筑工地找我吗？我有事和你商量。
 
 ;0x3CDAAF9E=~z~I love those guys, Mami. I do what I can to help them.
-0x3CDAAF9E=~z~I love those guys, Mami. I do what I can to help them.
+0x3CDAAF9E=~z~我对他们有感情的，老妈。我会尽力帮助他们的。
 
 ;0x3D2CE6F3=SFX_PAUSE_090
 0x3D2CE6F3=SFX_PAUSE_090
@@ -345,7 +345,7 @@
 0x3F050EF5=E2MF1_GJ
 
 ;0x3FC659E5=~z~Hey, Mori?
-0x3FC659E5=~z~Hey, Mori?
+0x3FC659E5=~z~喂，Mori？
 
 ;0x3FF49AFA=E2MF1_GG
 0x3FF49AFA=E2MF1_GG
@@ -357,7 +357,7 @@
 0x4092C52F=SFX_OVERLAP_5150
 
 ;0x40CBAE1F=~z~No, man, they a long way from good.
-0x40CBAE1F=~z~No, man, they a long way from good.
+0x40CBAE1F=~z~不，兄弟。离顺利远着呢。
 
 ;0x410CE7F0=E2MF1_VF2
 0x410CE7F0=E2MF1_VF2
@@ -372,10 +372,10 @@
 0x421D3BAB=E2MF1_KD
 
 ;0x42217A58=~z~Yeah, why's that make me think you're about to ask me to do some dumb shit?
-0x42217A58=~z~Yeah, why's that make me think you're about to ask me to do some dumb shit?
+0x42217A58=~z~是吗，我怎么觉得你又要找我搞什么事情了。
 
 ;0x42A838DF=~z~Who's this?
-0x42A838DF=~z~Who's this?
+0x42A838DF=~z~你哪位？
 
 ;0x4403852E=E2MF1_MD
 0x4403852E=E2MF1_MD
@@ -393,13 +393,13 @@
 0x476E47BC=E2MF1_VF1
 
 ;0x4773AA75=~z~Hey, hey, Iike, hey do some fucking work. Huh?
-0x4773AA75=~z~Hey, hey, Iike, hey do some fucking work. Huh?
+0x4773AA75=~z~喂，喂，Iike。喂，你他妈干点活，好吗？
 
 ;0x47E3A330=E2MF1_GC
 0x47E3A330=E2MF1_GC
 
 ;0x481509F7=~z~Hey, those conversations are usually Tony's department.
-0x481509F7=~z~Hey, those conversations are usually Tony's department.
+0x481509F7=~z~嘿，这种话题一般得找Tony聊。
 
 ;0x49AE893F=E2MF1_AH1
 0x49AE893F=E2MF1_AH1
@@ -423,13 +423,13 @@
 0x4E497FA5=E2MF1_EB
 
 ;0x4E6C1383=~z~I love you, hijo.
-0x4E6C1383=~z~I love you, hijo.
+0x4E6C1383=~z~我也爱你，儿子。
 
 ;0x4E74A449=~z~Yeah, okay, man, I'll try to come by.
-0x4E74A449=~z~Yeah, okay, man, I'll try to come by.
+0x4E74A449=~z~好的，兄弟。我尽快过来。
 
 ;0x4F129740=~z~Stay away from him, Mami. Listen to me on this.
-0x4F129740=~z~Stay away from him, Mami. Listen to me on this.
+0x4F129740=~z~离他远点，老妈。听我一句劝。
 
 ;0x4F8A1D41=010090100090010010090100010
 0x4F8A1D41=010090100090010010090100010
@@ -441,7 +441,7 @@
 0x500511BB=E2MF1_MI
 
 ;0x50755479=~z~Who?
-0x50755479=~z~Who?
+0x50755479=~z~谁？
 
 ;0x509121BF=E2MF1_HE
 0x509121BF=E2MF1_HE
@@ -450,19 +450,19 @@
 0x5140D923=E2MF1_AE2
 
 ;0x51A9F4E7=~z~Yeah. Thanks for the sensible advice. I'll try. See you soon, okay.
-0x51A9F4E7=~z~Yeah. Thanks for the sensible advice. I'll try. See you soon, okay.
+0x51A9F4E7=~z~好。多谢你的建议，我试试吧。再见啦。
 
 ;0x51B9595B=~z~No, Mami, it ain't like that at all. You wanted me to do something.
-0x51B9595B=~z~No, Mami, it ain't like that at all. You wanted me to do something.
+0x51B9595B=~z~不，老妈，不是这样的。之前你想让我做些什么，
 
 ;0x523CBA8F=~z~This is not like thing in your American supermarket. It has sell by date.
-0x523CBA8F=~z~This is not like thing in your American supermarket. It has sell by date.
+0x523CBA8F=~z~这可不是你们美国超市的商品。是有保质期的。
 
 ;0x527C9647=E2MF1_EE
 0x527C9647=E2MF1_EE
 
 ;0x52E595F3=~z~Shit, man, I already killed for it. I'm thinking, alright?
-0x52E595F3=~z~Shit, man, I already killed for it. I'm thinking, alright?
+0x52E595F3=~z~妈的，伙计，我已经杀红眼了。我在考虑，好吗？
 
 ;0x535C8752=E2MF1_HF
 0x535C8752=E2MF1_HF
@@ -474,10 +474,10 @@
 0x53D1D531=E2MF1_HK2
 
 ;0x546F10BB=~z~Luis, why do you never come to see your mama?
-0x546F10BB=~z~Luis, why do you never come to see your mama?
+0x546F10BB=~z~Luis，你怎么一直不来看看妈妈？
 
 ;0x54F108B1=~z~Hey, this ain't going, man, and there's nothing you can do. Me and Tony got to find some way to dig ourselves out.
-0x54F108B1=~z~Hey, this ain't going, man, and there's nothing you can do. Me and Tony got to find some way to dig ourselves out.
+0x54F108B1=~z~嘿，这不现实，哥们。你也帮不了我们什么。我和Tony只能靠自己找条出路。
 
 ;0x54F88BEA=SFX_PAUSE_220
 0x54F88BEA=SFX_PAUSE_220
@@ -486,22 +486,22 @@
 0x556147BC=SFX_PAUSE_160
 
 ;0x55913208=~z~Don't you "Yo" me. You think I'm one of your little nightclub putas?
-0x55913208=~z~Don't you "Yo" me. You think I'm one of your little nightclub putas?
+0x55913208=~z~别跟我「哟」。你当我是夜店里的婊子吗？
 
 ;0x5762F117=~z~Just come to my house, we will talk.
-0x5762F117=~z~Just come to my house, we will talk.
+0x5762F117=~z~来我家一趟吧，我们聊聊。
 
 ;0x57D82D5E=E2MF1_RD
 0x57D82D5E=E2MF1_RD
 
 ;0x57EDB727=~z~How's things bro?
-0x57EDB727=~z~How's things bro?
+0x57EDB727=~z~你好吗，兄弟？
 
 ;0x58E48C29=~z~Luis, man, how goes it, huh?
-0x58E48C29=~z~Luis, man, how goes it, huh?
+0x58E48C29=~z~Luis，伙计，你还好吗？
 
 ;0x591A5A97=~z~You wish to accept. Of course. No one refuses Ray Bulgarin.
-0x591A5A97=~z~You wish to accept. Of course. No one refuses Ray Bulgarin.
+0x591A5A97=~z~你会选择接受，意料之中。没人能拒绝Ray Bulgarin。
 
 ;0x59B895CE=E2MF1_WD
 0x59B895CE=E2MF1_WD
@@ -519,7 +519,7 @@
 0x5D3DF85D=E2MF1_IA
 
 ;0x5D94F80D=~z~Que?
-0x5D94F80D=~z~Que?
+0x5D94F80D=~z~啥？
 
 ;0x5DA3A904=E2MF1_WE
 0x5DA3A904=E2MF1_WE
@@ -531,13 +531,13 @@
 0x5E3DB41E=SFX_PAUSE_360
 
 ;0x5EBAF104=~z~This is Yusuf Amir, man.
-0x5EBAF104=~z~This is Yusuf Amir, man.
+0x5EBAF104=~z~我是Yusuf Amir，兄弟。
 
 ;0x5F27F370=E2MF1_KB
 0x5F27F370=E2MF1_KB
 
 ;0x5F9CB1AC=~z~Yeah, not good, bro. Sometimes it's hard with that guy.
-0x5F9CB1AC=~z~Yeah, not good, bro. Sometimes it's hard with that guy.
+0x5F9CB1AC=~z~不太好，兄弟。他有时候也很艰难。
 
 ;0x603DD1CD=SFX_PAUSE_190
 0x603DD1CD=SFX_PAUSE_190
@@ -552,16 +552,16 @@
 0x61FE6C01=E2MF1_RJ
 
 ;0x63980CFF=~z~No, I did. There is a little bit of fun for you in the glove compartment. I think you will enjoy it.
-0x63980CFF=~z~No, I did. There is a little bit of fun for you in the glove compartment. I think you will enjoy it.
+0x63980CFF=~z~不，有必要。我在车的储物柜里给你准备了小惊喜，你会喜欢的。
 
 ;0x6490724D=E2MF1_RK1
 0x6490724D=E2MF1_RK1
 
 ;0x64CA0677=~z~How are you, son?
-0x64CA0677=~z~How are you, son?
+0x64CA0677=~z~你好吗，儿子？
 
 ;0x6532563E=~z~Luis.
-0x6532563E=~z~Luis.
+0x6532563E=~z~Luis。
 
 ;0x6619E1E8=E2MF1_NI1
 0x6619E1E8=E2MF1_NI1
@@ -576,10 +576,10 @@
 0x68473D55=SFX_PAUSE_270
 
 ;0x68D0ED2F=~z~Was. Now it's more of a umm, how do I say this - dictatorship you know. Hah ha.
-0x68D0ED2F=~z~Was. Now it's more of a umm, how do I say this - dictatorship you know. Hah ha.
+0x68D0ED2F=~z~之前是。现在更像是...怎么说呢，独裁制度。哈哈。
 
 ;0x697548BC=~z~Mami.
-0x697548BC=~z~Mami.
+0x697548BC=~z~老妈。
 
 ;0x69B38869=100090010090100010090100090100090010
 0x69B38869=100090010090100010090100090100090010
@@ -609,7 +609,7 @@
 0x6DA55786=SFX_PAUSE_180
 
 ;0x6DBD7190=~z~I told you where I stand.
-0x6DBD7190=~z~I told you where I stand.
+0x6DBD7190=~z~我说过我的想法了吧。
 
 ;0x6E72D1AE=SFX_PAUSE_440
 0x6E72D1AE=SFX_PAUSE_440
@@ -636,43 +636,43 @@
 0x7256F942=E2MF1_NH
 
 ;0x728A83D0=~z~Hello, Shalom. This is Mori. I'm getting spiritual with nature and shit in the Promised Land.
-0x728A83D0=~z~Hello, Shalom. This is Mori. I'm getting spiritual with nature and shit in the Promised Land.
+0x728A83D0=~z~你好，贵安。我是Mori。我正在应许之地修炼自然之道。
 
 ;0x73281E3B=~z~You understand?
-0x73281E3B=~z~You understand?
+0x73281E3B=~z~听懂了吗？
 
 ;0x73C8DE3C=~z~Bandstand? Huh, Dios Mio. Look, I can't ever win with you. I love you, Mami.
-0x73C8DE3C=~z~Bandstand? Huh, Dios Mio. Look, I can't ever win with you. I love you, Mami.
+0x73C8DE3C=~z~舞台？我的天哪。行吧，我说不过你。我爱你，老妈。
 
 ;0x745DBD99=SFX_PAUSE_160
 0x745DBD99=SFX_PAUSE_160
 
 ;0x74C1AF52=~z~Thanks a lot, bro. You didn't need to do that though.
-0x74C1AF52=~z~Thanks a lot, bro. You didn't need to do that though.
+0x74C1AF52=~z~多谢了，兄弟。你没必要这么客气。
 
 ;0x7529DAB3=E2MF1_FA
 0x7529DAB3=E2MF1_FA
 
 ;0x76405CA8=~z~Then think harder. Goodbye.
-0x76405CA8=~z~Then think harder. Goodbye.
+0x76405CA8=~z~再多想想。再见。
 
 ;0x77D8578D=~z~I do come see you, Mami.
-0x77D8578D=~z~I do come see you, Mami.
+0x77D8578D=~z~我经常来看你的，老妈。
 
 ;0x7869CB33=~z~It's okay, bro.
-0x7869CB33=~z~It's okay, bro.
+0x7869CB33=~z~挺好的，兄弟。
 
 ;0x788A6182=E2MF1_AF
 0x788A6182=E2MF1_AF
 
 ;0x796B5AF7=~z~Ay Dios mio, Mami. I'll come by soon.
-0x796B5AF7=~z~Ay Dios mio, Mami. I'll come by soon.
+0x796B5AF7=~z~我的天哪，老妈。我有空就来。
 
 ;0x7A228571=~z~Cunt!
-0x7A228571=~z~Cunt!
+0x7A228571=~z~贱人！
 
 ;0x7A48FB77=~z~Yo.
-0x7A48FB77=~z~Yo.
+0x7A48FB77=~z~哟。
 
 ;0x7B277506=E2MF1_BB
 0x7B277506=E2MF1_BB
@@ -696,28 +696,28 @@
 0x7F89F214=SFX_PAUSE_120
 
 ;0x7F91F196=~z~Luis, dog, how's things? How's Tony?
-0x7F91F196=~z~Luis, dog, how's things? How's Tony?
+0x7F91F196=~z~Luis，伙计，你还好吗？Tony好吗？
 
 ;0x7FA5FB00=E2MF1_XF
 0x7FA5FB00=E2MF1_XF
 
 ;0x80159CD0=~z~ I am spending some time here while I catch up with some old friends
-0x80159CD0=~z~ I am spending some time here while I catch up with some old friends
+0x80159CD0=~z~我要在自由城见见老朋友，
 
 ;0x80AA9CE2=~z~I brought some real modern world shit into this joint. It's a much better use of my time.
-0x80AA9CE2=~z~I brought some real modern world shit into this joint. It's a much better use of my time.
+0x80AA9CE2=~z~我给这里带来了现代社会，这样才对得起我宝贵的时间。
 
 ;0x8197A8FB=SFX_PAUSE_240
 0x8197A8FB=SFX_PAUSE_240
 
 ;0x846D3561=~z~Yusuf. Hey, man.
-0x846D3561=~z~Yusuf. Hey, man.
+0x846D3561=~z~Yusuf。嘿，兄弟。
 
 ;0x8571E41E=~z~Then I realise I am!
-0x8571E41E=~z~Then I realise I am!
+0x8571E41E=~z~然后就发现这是真的！
 
 ;0x85AEFEA9=~z~That's cute, man. I might be in touch.
-0x85AEFEA9=~z~That's cute, man. I might be in touch.
+0x85AEFEA9=~z~那好吧，伙计。有空再联系。
 
 ;0x85F8A829=E2MF1_GF2
 0x85F8A829=E2MF1_GF2
@@ -735,16 +735,16 @@
 0x8681C740=SFX_PAUSE_100
 
 ;0x86B74559=~z~No, could you say it again, please?
-0x86B74559=~z~No, could you say it again, please?
+0x86B74559=~z~不，能再重复一遍吗？
 
 ;0x87A989DB=E2MF1_XI
 0x87A989DB=E2MF1_XI
 
 ;0x87F1210A=~z~Bye!
-0x87F1210A=~z~Bye!
+0x87F1210A=~z~拜！
 
 ;0x87F205F8=~z~It's a special machine, but what you have done for me recently is more special.
-0x87F205F8=~z~It's a special machine, but what you have done for me recently is more special.
+0x87F205F8=~z~这是辆特别的车，但你之前为我做的事，更加特别。
 
 ;0x880FB180=E2MF1_HJ
 0x880FB180=E2MF1_HJ
@@ -753,13 +753,13 @@
 0x884347ED=SFX_PAUSE_310
 
 ;0x8868CD07=~z~Laters.
-0x8868CD07=~z~Laters.
+0x8868CD07=~z~回见。
 
 ;0x8946959C=SFX_PAUSE_240
 0x8946959C=SFX_PAUSE_240
 
 ;0x89A68962=~z~What you doing with that man? Why don't you go to college like a good boy.
-0x89A68962=~z~What you doing with that man? Why don't you go to college like a good boy.
+0x89A68962=~z~你跟他在一起干嘛？为什么不能做个上大学的好孩子？
 
 ;0x89DA10B8=SFX_PAUSE_200
 0x89DA10B8=SFX_PAUSE_200
@@ -771,16 +771,16 @@
 0x8A7A1BC8=SFX_PAUSE_300
 
 ;0x8AB4CB55=~z~For Armando, for Henrique. Old friends are the best friends, Luis.
-0x8AB4CB55=~z~For Armando, for Henrique. Old friends are the best friends, Luis.
+0x8AB4CB55=~z~见Armando，见Henrique。老朋友才是最好的朋友，Luis。
 
 ;0x8AC7DA76=100010100010100100100100010100010100010
 0x8AC7DA76=100010100010100100100100010100010100010
 
 ;0x8AEA5BA3=~z~Alright, man. I'll check that out. Yo, and thank you again.
-0x8AEA5BA3=~z~Alright, man. I'll check that out. Yo, and thank you again.
+0x8AEA5BA3=~z~好吧，哥们。我会去看看的。哟，多谢了。
 
 ;0x8B25FE6C=~z~Hijo. I need you to come home. There is a little complication.
-0x8B25FE6C=~z~Hijo. I need you to come home. There is a little complication.
+0x8B25FE6C=~z~儿子，你快回家一趟吧。情况有点复杂。
 
 ;0x8B375047=E2MF1_PA
 0x8B375047=E2MF1_PA
@@ -789,16 +789,16 @@
 0x8BBFCCA6=E2MF1_VC
 
 ;0x8C78AA1D=~z~I'm still not getting it, what about a third time?
-0x8C78AA1D=~z~I'm still not getting it, what about a third time?
+0x8C78AA1D=~z~我还是没听懂，要么再说一次？
 
 ;0x8D661498=~z~Great! Come hang out at my apartment.
-0x8D661498=~z~Great! Come hang out at my apartment.
+0x8D661498=~z~好！来我的公寓一趟。
 
 ;0x8D751E53=E2MF1_RB
 0x8D751E53=E2MF1_RB
 
 ;0x8D8D21FF=~z~Don't you disrespect that man.
-0x8D8D21FF=~z~Don't you disrespect that man.
+0x8D8D21FF=~z~我不许你不尊重他。
 
 ;0x8E5D65DB=E2MF1_JF
 0x8E5D65DB=E2MF1_JF
@@ -810,13 +810,13 @@
 0x8F4F596E=SFX_PAUSE_320
 
 ;0x9269CD41=~z~Ah, Mr. Lopez.
-0x9269CD41=~z~Ah, Mr. Lopez.
+0x9269CD41=~z~啊，Lopez先生。
 
 ;0x93B76883=SFX_PAUSE_240
 0x93B76883=SFX_PAUSE_240
 
 ;0x95396BC2=~z~Shit, I think the signal's dropping, man. Later, bro.
-0x95396BC2=~z~Shit, I think the signal's dropping, man. Later, bro.
+0x95396BC2=~z~妈的，好像信号不太好，伙计。回见，兄弟。
 
 ;0x98C584DC=E2MF1_EA
 0x98C584DC=E2MF1_EA
@@ -825,10 +825,10 @@
 0x9931588C=100100100090100
 
 ;0x99C3502B=~z~I did not take you for the sensitive type.
-0x99C3502B=~z~I did not take you for the sensitive type.
+0x99C3502B=~z~我以为你不是个感性的人。
 
 ;0x9B7A679F=~z~ Don't speak back to me, son.
-0x9B7A679F=~z~ Don't speak back to me, son.
+0x9B7A679F=~z~别跟我顶嘴，儿子。
 
 ;0x9BE6BC16=SFX_PAUSE_240
 0x9BE6BC16=SFX_PAUSE_240
@@ -843,19 +843,19 @@
 0x9DCDB543=E2MF1_XH
 
 ;0x9E1D1B08=~z~The Mafia? I've had problems with some union fucks on the site. Sometimes that shit just goes away.
-0x9E1D1B08=~z~The Mafia? I've had problems with some union fucks on the site. Sometimes that shit just goes away.
+0x9E1D1B08=~z~黑手党？我的工地之前也被傻逼工会占领过。有时候他们自己就散了。
 
 ;0x9F2F4F8A=~z~Fuck you.
-0x9F2F4F8A=~z~Fuck you.
+0x9F2F4F8A=~z~操你妈！
 
 ;0x9F2FC544=~z~Mami, I didn't mean anything like that. I'm stressed at the moment. Tony's putting me through hell.
-0x9F2FC544=~z~Mami, I didn't mean anything like that. I'm stressed at the moment. Tony's putting me through hell.
+0x9F2FC544=~z~老妈，我没有那个意思。我现在压力很大，都是Tony害的。
 
 ;0x9F3B1BB3=SFX_PAUSE_290
 0x9F3B1BB3=SFX_PAUSE_290
 
 ;0x9F57991A=~z~Solid gold! Only the best for you, Luis. It makes a statement, doesn't it?
-0x9F57991A=~z~Solid gold! Only the best for you, Luis. It makes a statement, doesn't it?
+0x9F57991A=~z~纯金打造！只为你准备最好的。倍儿有面子，对吧？
 
 ;0x9F7139F2=SFX_PAUSE_220
 0x9F7139F2=SFX_PAUSE_220
@@ -876,7 +876,7 @@
 0xA3126CA9=SFX_PAUSE_310
 
 ;0xA41B846C=~z~bad boy and lover, so leave me a fucking message.
-0xA41B846C=~z~bad boy and lover, so leave me a fucking message.
+0xA41B846C=~z~坏小子兼情人，有事就留言吧。
 
 ;0xA59C7F33=E2MF1_VD
 0xA59C7F33=E2MF1_VD
@@ -903,7 +903,7 @@
 0xA9341950=SFX_PAUSE_230
 
 ;0xA9A35A91=~z~Yusuf.
-0xA9A35A91=~z~Yusuf.
+0xA9A35A91=~z~Yusuf。
 
 ;0xAB1087B3=SFX_PAUSE_320
 0xAB1087B3=SFX_PAUSE_320
@@ -930,10 +930,10 @@
 0xAFB1E7D4=E2MF1_FF
 
 ;0xAFD31790=~z~Ray, listen...
-0xAFD31790=~z~Ray, listen...
+0xAFD31790=~z~Ray，听着...
 
 ;0xB07C3B63=~z~We are brothers. It is nothing. I've got three more myself. See you soon, my friend.
-0xB07C3B63=~z~We are brothers. It is nothing. I've got three more myself. See you soon, my friend.
+0xB07C3B63=~z~我们是兄弟，不算什么。我自己还有三把呢。再见了，朋友。
 
 ;0xB082F08F=E2MF1_GI
 0xB082F08F=E2MF1_GI
@@ -945,7 +945,7 @@
 0xB2396070=E2MF1_ME
 
 ;0xB2D1ED02=~z~Not that great. My father, he is a very passionate and angry and very disrespectful man.
-0xB2D1ED02=~z~Not that great. My father, he is a very passionate and angry and very disrespectful man.
+0xB2D1ED02=~z~不太好。我父亲，他是一个很热情、很暴躁、很无礼的人。
 
 ;0xB35005EA=010090100010090100100090010100010090100
 0xB35005EA=010090100010090100100090010100010090100
@@ -963,16 +963,16 @@
 0xB4CEDA26=SFX_PAUSE_220
 
 ;0xB507C47A=~z~Shit, it sure does. Thanks a lot, Yusuf.
-0xB507C47A=~z~Shit, it sure does. Thanks a lot, Yusuf.
+0xB507C47A=~z~妈的，肯定的啊。多谢了，Yusuf。
 
 ;0xB53566AF=E2MF1_RC
 0xB53566AF=E2MF1_RC
 
 ;0xB58D87C7=~z~Oh yeah. You're the Russian who was asking about coke, hookers, and corpses. Yeah, I'm sorry we couldn't accommodate.
-0xB58D87C7=~z~Oh yeah. You're the Russian who was asking about coke, hookers, and corpses. Yeah, I'm sorry we couldn't accommodate.
+0xB58D87C7=~z~哦对，你就是那个咨询毒品、妓女、杀手的俄国人。恕我们没有这些服务。
 
 ;0xB659194C=~z~Cash ain't going to fix this problem, okay. We got a crazy Russian after us and we in some deep shit with some Cosa Nostra morons.
-0xB659194C=~z~Cash ain't going to fix this problem, okay. We got a crazy Russian after us and we in some deep shit with some Cosa Nostra morons.
+0xB659194C=~z~靠钱解决不了我的问题，好吧。我们被一个俄国疯子追杀，还跟几个科萨诺斯特拉蠢蛋有矛盾。
 
 ;0xB66D4620=E2MF1_NA
 0xB66D4620=E2MF1_NA
@@ -981,19 +981,19 @@
 0xB699C97D=E2MF1_MB
 
 ;0xB71D308E=~z~and I need help with some things.
-0xB71D308E=~z~and I need help with some things.
+0xB71D308E=~z~同时有事要人帮忙。
 
 ;0xB76FE92C=E2MF1_AJ
 0xB76FE92C=E2MF1_AJ
 
 ;0xB773E7CB=~z~This is Ray Bulgarin Liberty City phone. I call you back.
-0xB773E7CB=~z~This is Ray Bulgarin Liberty City phone. I call you back.
+0xB773E7CB=~z~这是Ray Bulgarin在自由城的号码。我会联系你的。
 
 ;0xB7909782=~z~Come to my house and we will discuss it.
-0xB7909782=~z~Come to my house and we will discuss it.
+0xB7909782=~z~来我家一趟，我们慢慢聊。
 
 ;0xB85BE32D=~z~Yo.
-0xB85BE32D=~z~Yo.
+0xB85BE32D=~z~哟。
 
 ;0xB8787FF1=SFX_PAUSE_210
 0xB8787FF1=SFX_PAUSE_210
@@ -1002,52 +1002,52 @@
 0xB9BBA72B=SFX_PAUSE_280
 
 ;0xBA28B133=~z~I'm okay. Busy, you know. Shit's hectic. Tony's in trouble.
-0xBA28B133=~z~I'm okay. Busy, you know. Shit's hectic. Tony's in trouble.
+0xBA28B133=~z~还行吧。就是有点忙，事情很多。Tony遇到麻烦了。
 
 ;0xBB87BE86=~z~Please leave a brief message and it may be returned.
-0xBB87BE86=~z~Please leave a brief message and it may be returned.
+0xBB87BE86=~z~在你留言之后我可能会回拨答复。
 
 ;0xBB90FE6C=~z~Luis, my man.
-0xBB90FE6C=~z~Luis, my man.
+0xBB90FE6C=~z~Luis，好兄弟。
 
 ;0xBC60977B=~z~We need people, so pack your bags and come out here. That material shit, it don't matter anymore.
-0xBC60977B=~z~We need people, so pack your bags and come out here. That material shit, it don't matter anymore.
+0xBC60977B=~z~我们很缺人手，背上行李加入我们吧。物质之类的，不必为此烦恼。
 
 ;0xBCD754EC=E2MF1_MC
 0xBCD754EC=E2MF1_MC
 
 ;0xBD6EF3F7=~z~You could learn so much from him.
-0xBD6EF3F7=~z~You could learn so much from him.
+0xBD6EF3F7=~z~你真该好好学学人家。
 
 ;0xBDEAB3C3=~z~You fucked with me,
-0xBDEAB3C3=~z~You fucked with me,
+0xBDEAB3C3=~z~你居然敢搞我。
 
 ;0xBE7B5630=~z~ I come to this city, I want to be the straight Tony Prince. That's my fucking dream, motherfucker.
-0xBE7B5630=~z~ I come to this city, I want to be the straight Tony Prince. That's my fucking dream, motherfucker.
+0xBE7B5630=~z~我来自由城，就是为了当直男版Tony Prince的。这就是我的梦想，妈个逼的。
 
 ;0xC01DDA96=~z~I've been out tilling the land and it really put shit in perspective for me, you know?
-0xC01DDA96=~z~I've been out tilling the land and it really put shit in perspective for me, you know?
+0xC01DDA96=~z~我最近一直在种地，让我有了不同的想法。
 
 ;0xC079C4A9=E2MF1_JC
 0xC079C4A9=E2MF1_JC
 
 ;0xC12B9873=~z~Luis Lopez.
-0xC12B9873=~z~Luis Lopez.
+0xC12B9873=~z~Luis Lopez。
 
 ;0xC1913B0C=~z~You fucked with me, Luis.
-0xC1913B0C=~z~You fucked with me, Luis.
+0xC1913B0C=~z~你居然敢搞我，Luis。
 
 ;0xC1D3C967=E2MF1_JH
 0xC1D3C967=E2MF1_JH
 
 ;0xC2B6643A=~z~Don't be too proud, Luis. You ever need something, you call Yusuf, okay? See you round, bro.
-0xC2B6643A=~z~Don't be too proud, Luis. You ever need something, you call Yusuf, okay? See you round, bro.
+0xC2B6643A=~z~别太自信了，Luis。需要什么了就联系Yusuf，好吗？再见了，兄弟。
 
 ;0xC3BEEBA8=100100
 0xC3BEEBA8=100100
 
 ;0xC52C9635=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
-0xC52C9635=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
+0xC52C9635=~z~我现在就很尴尬，伙计。我不能说事情已经处理好了，因为真没办好。
 
 ;0xC62002DA=SFX_PAUSE_150
 0xC62002DA=SFX_PAUSE_150
@@ -1056,7 +1056,7 @@
 0xC7341032=E2MF1_BD
 
 ;0xC7A38916=~z~Top dollar shit. You'll love it!
-0xC7A38916=~z~Top dollar shit. You'll love it!
+0xC7A38916=~z~贵到上天。你会爱上它的！
 
 ;0xC7D78311=E2MF1_FB
 0xC7D78311=E2MF1_FB
@@ -1068,7 +1068,7 @@
 0xC8A6CB96=E2MF1_OC
 
 ;0xC8CC52E7=~z~You and your faggot boss will be killed for this. I will do everything in my power to...
-0xC8CC52E7=~z~You and your faggot boss will be killed for this. I will do everything in my power to...
+0xC8CC52E7=~z~你和你的基佬主子都要为此丧命。我会尽我所能...
 
 ;0xCC4065D6=E2MF1_JE2
 0xCC4065D6=E2MF1_JE2
@@ -1077,55 +1077,55 @@
 0xCCB80BBC=E2MF1_AG
 
 ;0xCF6356B4=~z~And now I am going to fuck with you, you little cunt.
-0xCF6356B4=~z~And now I am going to fuck with you, you little cunt.
+0xCF6356B4=~z~现在轮到我搞死你了，小贱逼。
 
 ;0xCF66F79A=E2MF1_OB1
 0xCF66F79A=E2MF1_OB1
 
 ;0xCFE19311=~z~This could be your chance to achieve something without the Princess Tony.
-0xCFE19311=~z~This could be your chance to achieve something without the Princess Tony.
+0xCFE19311=~z~把握住这个机会，没有基佬Tony你也可以成事。
 
 ;0xD0315110=~z~You should remember that yourself, Ma.
-0xD0315110=~z~You should remember that yourself, Ma.
+0xD0315110=~z~你也记住这句话比较好，妈。
 
 ;0xD03CE94F=E2MF1_JD
 0xD03CE94F=E2MF1_JD
 
 ;0xD05C5162=~z~Treat him with respect, you hear me, son. Look after those who have looked after you.
-0xD05C5162=~z~Treat him with respect, you hear me, son. Look after those who have looked after you.
+0xD05C5162=~z~对他放尊重点，听见了吗，儿子。不要忘记照顾过你的人的恩情。
 
 ;0xD09D974E=~z~What do you take me for? I'm a giver, not a taker. I don't need anything from you.
-0xD09D974E=~z~What do you take me for? I'm a giver, not a taker. I don't need anything from you.
+0xD09D974E=~z~你把我当什么了？我是给予者，不是索取者。我不需要你帮我了。
 
 ;0xD0ED4E74=~z~Yusuf don't like his main dude unhappy.
-0xD0ED4E74=~z~Yusuf don't like his main dude unhappy.
+0xD0ED4E74=~z~Yusuf不想让他的好哥们愁眉苦脸。
 
 ;0xD2709E8A=E2MF1_MF
 0xD2709E8A=E2MF1_MF
 
 ;0xD281152C=~z~There are others in this city who would kill for opportunity.
-0xD281152C=~z~There are others in this city who would kill for opportunity.
+0xD281152C=~z~自由城有的是人愿意为这个机会杀红眼。
 
 ;0xD31E727A=E2MF1_ND
 0xD31E727A=E2MF1_ND
 
 ;0xD31EDE27=~z~No. Not at all. That's how things seem, but trust me, that wasn't my intention.
-0xD31EDE27=~z~No. Not at all. That's how things seem, but trust me, that wasn't my intention.
+0xD31EDE27=~z~不不不，哪有的事。看起来是这样，但相信我，我不是那个意思。
 
 ;0xD44DA26A=~z~Alright. I'll be by sometime. Just don't wait up.
-0xD44DA26A=~z~Alright. I'll be by sometime. Just don't wait up.
+0xD44DA26A=~z~好的，我有空就来。你别一直等我。
 
 ;0xD46E5240=010090100010090100090100090100090100090010100090100010100
 0xD46E5240=010090100010090100090100090100090100090010100090100010100
 
 ;0xD4B21F7C=~z~Hah, you don't need to sacrifice no frogs for me.
-0xD4B21F7C=~z~Hah, you don't need to sacrifice no frogs for me.
+0xD4B21F7C=~z~哈，你没必要为我做法的。
 
 ;0xD4EBD24A=E2MF1_GE1
 0xD4EBD24A=E2MF1_GE1
 
 ;0xD54652ED=~z~Hey I don't even know what it is yet.
-0xD54652ED=~z~Hey I don't even know what it is yet.
+0xD54652ED=~z~喂，我都不知道具体内容。
 
 ;0xD5A3A77F=E2MF1_UB
 0xD5A3A77F=E2MF1_UB
@@ -1143,10 +1143,10 @@
 0xD7D2B798=E2MF1_NJ1
 
 ;0xD7D6BB89=~z~Pathetic. Why did I have faith in this loser?
-0xD7D6BB89=~z~Pathetic. Why did I have faith in this loser?
+0xD7D6BB89=~z~太可悲了，我怎么会相信这个失败者？
 
 ;0xD8117799=~z~This is Adriana Yanira Lopez.
-0xD8117799=~z~This is Adriana Yanira Lopez.
+0xD8117799=~z~我是Adriana Yanira Lopez。
 
 ;0xD82C0FEC=SFX_PAUSE_250
 0xD82C0FEC=SFX_PAUSE_250
@@ -1164,10 +1164,10 @@
 0xDB08574C=E2MF1_WI
 
 ;0xDB75537E=~z~I don't care if you're 78. You wanna eat? Work. Oh uh, sorry, Lou. Yeah, now where were we?
-0xDB75537E=~z~I don't care if you're 78. You wanna eat? Work. Oh uh, sorry, Lou. Yeah, now where were we?
+0xDB75537E=~z~78岁又怎么样？想吃饭吗？干活。哦呃，抱歉，Lou。聊到哪了来着？
 
 ;0xDBBEF9D1=~z~I am told you are the man to talk to.
-0xDBBEF9D1=~z~I am told you are the man to talk to.
+0xDBBEF9D1=~z~有人告诉我找你就对了。
 
 ;0xDC2A06DD=SFX_PAUSE_240
 0xDC2A06DD=SFX_PAUSE_240
@@ -1179,10 +1179,10 @@
 0xDE35F252=E2MF1_XA
 
 ;0xDEC916D7=~z~Sometimes, man. Sometimes I dream about working in Burger Shot.
-0xDEC916D7=~z~Sometimes, man. Sometimes I dream about working in Burger Shot.
+0xDEC916D7=~z~我有想过，老兄。有时，我也会幻想自己在汉堡店工作。
 
 ;0xDF167F7B=~z~Then maybe you should have asked! Instead you run around this city making a fool of me.
-0xDF167F7B=~z~Then maybe you should have asked! Instead you run around this city making a fool of me.
+0xDF167F7B=~z~不知道你不会问吗！结果你当我是白痴，到处乱跑。
 
 ;0xDF72286F=E2MF1_WC
 0xDF72286F=E2MF1_WC
@@ -1191,19 +1191,19 @@
 0xDFA7B2C9=E2MF1_BA
 
 ;0xDFC42DD7=~z~Please leave a message and we will get back to you.
-0xDFC42DD7=~z~Please leave a message and we will get back to you.
+0xDFC42DD7=~z~有事请留言，之后我们会进行答复。
 
 ;0xE07FF8EF=E2MF1_HL
 0xE07FF8EF=E2MF1_HL
 
 ;0xE0EA37EC=~z~Mami, I thought you wanted me to respect him.
-0xE0EA37EC=~z~Mami, I thought you wanted me to respect him.
+0xE0EA37EC=~z~老妈，你不是要我尊重他吗。
 
 ;0xE1157A18=~z~You are dead. Dead. Dead. Dead.
-0xE1157A18=~z~You are dead. Dead. Dead. Dead.
+0xE1157A18=~z~你死定了。死吧！死吧！死吧！
 
 ;0xE1183B4D=~z~Hey Mami.
-0xE1183B4D=~z~Hey Mami.
+0xE1183B4D=~z~嘿，老妈。
 
 ;0xE2BF4160=E2MF1_RL
 0xE2BF4160=E2MF1_RL
@@ -1212,16 +1212,16 @@
 0xE4DD7BE2=E2MF1_AE1
 
 ;0xE58B67C2=~z~We met at your club. I am Ray Bulgarin.
-0xE58B67C2=~z~We met at your club. I am Ray Bulgarin.
+0xE58B67C2=~z~我们在你的夜店见过。我是Ray Bulgarin。
 
 ;0xE5A7E703=~z~These people were fucking backwards. Sharing and shit? Come on, I mean, what, communism?
-0xE5A7E703=~z~These people were fucking backwards. Sharing and shit? Come on, I mean, what, communism?
+0xE5A7E703=~z~这群人太落后了。分享互助？我去，这啥啊？共产主义吗？
 
 ;0xE6350EBD=~z~Listen, man, I got a real busy schedule.
-0xE6350EBD=~z~Listen, man, I got a real busy schedule.
+0xE6350EBD=~z~听着，伙计，我真的很忙。
 
 ;0xE6F7B612=~z~Mami.
-0xE6F7B612=~z~Mami.
+0xE6F7B612=~z~老妈。
 
 ;0xE80308FD=010090100010090010090100010090100010090100
 0xE80308FD=010090100010090010090100010090100010090100
@@ -1230,10 +1230,10 @@
 0xE91CCBD4=E2MF1_HA
 
 ;0xE95048B3=~z~I wanted to make a gift of my car to you.
-0xE95048B3=~z~I wanted to make a gift of my car to you.
+0xE95048B3=~z~我还要把我的车送你。
 
 ;0xE9A5ADB5=~z~The gun? Fuck me, bro.
-0xE9A5ADB5=~z~The gun? Fuck me, bro.
+0xE9A5ADB5=~z~那把枪？惊到我了，兄弟。
 
 ;0xEA445413=E2MF1_TE
 0xEA445413=E2MF1_TE
@@ -1245,19 +1245,19 @@
 0xEAEED228=E2MF1_TC
 
 ;0xEC73DFCB=~z~I know you, hijo, and I know your bog ego
-0xEC73DFCB=~z~I know you, hijo, and I know your bog ego
+0xEC73DFCB=~z~我了解你的，儿子，还知道你很自大。
 
 ;0xEC7AB23A=~z~Really?
-0xEC7AB23A=~z~Really?
+0xEC7AB23A=~z~是吗？
 
 ;0xEC9F7DE1=E2MF1_XB
 0xEC9F7DE1=E2MF1_XB
 
 ;0xECD18A4C=~z~Mr. Tony, for all his faults, has been just about able to do that.
-0xECD18A4C=~z~Mr. Tony, for all his faults, has been just about able to do that.
+0xECD18A4C=~z~Tony先生，虽然他也有错，但他做到了这些。
 
 ;0xECF29619=~z~Unfortunately, I'm busy being a rich, successful and very popular international superhero,
-0xECF29619=~z~Unfortunately, I'm busy being a rich, successful and very popular international superhero,
+0xECF29619=~z~很不幸，我正忙着当有钱、成功而且备受欢迎的国际大英雄、
 
 ;0xEE24D481=E2MF1_AH2
 0xEE24D481=E2MF1_AH2
@@ -1278,7 +1278,7 @@
 0xF0F4DCEC=E2MF1_ID
 
 ;0xF1225C0F=~z~Mr. Tony gave me your number, there are some other matters I need to discuss before we get down to the real shit.
-0xF1225C0F=~z~Mr. Tony gave me your number, there are some other matters I need to discuss before we get down to the real shit.
+0xF1225C0F=~z~Tony先生给了我你的电话，干正事之前我还有些别的事要找你聊。
 
 ;0xF13F57F6=E2MF1_UE
 0xF13F57F6=E2MF1_UE
@@ -1299,10 +1299,10 @@
 0xF410E3FC=E2MF1_HB
 
 ;0xF479E210=~z~Luis. I saw that nice man Mr. Santo again.
-0xF479E210=~z~Luis. I saw that nice man Mr. Santo again.
+0xF479E210=~z~Luis，我又遇到那个大好人Santo先生了。
 
 ;0xF744A219=~z~Hello?
-0xF744A219=~z~Hello?
+0xF744A219=~z~你好？
 
 ;0xF8E16822=E2MF1_UD2
 0xF8E16822=E2MF1_UD2
@@ -1311,7 +1311,7 @@
 0xF96432C7=E2MF1_AC
 
 ;0xF9D97A96=~z~I thought you hated Tony.
-0xF9D97A96=~z~I thought you hated Tony.
+0xF9D97A96=~z~我还以为你很讨厌Tony。
 
 ;0xFA292A9F=E2MF1_VE
 0xFA292A9F=E2MF1_VE
@@ -1326,35 +1326,35 @@
 0xFB32F90E=010090100090010100090100010
 
 ;0xFBC4AB29=~z~The guy who wants to talk about franchising your clubs.
-0xFBC4AB29=~z~The guy who wants to talk about franchising your clubs.
+0xFBC4AB29=~z~就那个想加盟你们家夜店的人。
 
 ;0xFBDD8DD6=~z~You have thought about my offer?
-0xFBDD8DD6=~z~You have thought about my offer?
+0xFBDD8DD6=~z~你有考虑过我的建议吗？
 
 ;0xFC0D207E=~z~Hey, Mr. Bulgarin. About this offer, man.
-0xFC0D207E=~z~Hey, Mr. Bulgarin. About this offer, man.
+0xFC0D207E=~z~嘿，Bulgarin先生。关于你的提议，伙计...
 
 ;0xFC65DAAB=E2MF1_QB
 0xFC65DAAB=E2MF1_QB
 
 ;0xFC77BA3D=~z~Listen, man, I told you. I didn't know shit about who owned them diamonds.
-0xFC77BA3D=~z~Listen, man, I told you. I didn't know shit about who owned them diamonds.
+0xFC77BA3D=~z~听着，伙计，我都说了。我压根就不知道钻石是谁的。
 
 ;0xFCA529F3=~z~Yeah, Tony's kept me on a path alright. I don't know if it's the right one though. I love you, Mami.
-0xFCA529F3=~z~Yeah, Tony's kept me on a path alright. I don't know if it's the right one though. I love you, Mami.
+0xFCA529F3=~z~是，Tony没让我误入歧途，但有没有走上正途就不知道了。我爱你，老妈。
 
 ;0xFE0422E7=SFX_PAUSE_190
 0xFE0422E7=SFX_PAUSE_190
 
 ;0xFEE11A55=~z~Yeah, we were saying good bye, Mori.
-0xFEE11A55=~z~Yeah, we were saying good bye, Mori.
+0xFEE11A55=~z~我们聊到告别了，Mori。
 
 ;0xFF2B8479=100
 0xFF2B8479=100
 
 ;0xFF7C2B91=~z~Well how much you need? How much money you want me to throw at this problem for you?
-0xFF7C2B91=~z~Well how much you need? How much money you want me to throw at this problem for you?
+0xFF7C2B91=~z~需要几个子？需要我掏多少钱帮你解决问题？
 
 ;0xFFB0BB95=~z~This is your man, Yusuf.
-0xFFB0BB95=~z~This is your man, Yusuf.
+0xFFB0BB95=~z~我是你的朋友，Yusuf。
 

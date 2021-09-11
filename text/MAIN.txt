@@ -1,6 +1,6 @@
 ﻿[MAIN]
 ;0xAD0EBC11=The autosave pause menu option is used by The Ballad of Gay Tony. It is currently switched off. Switch it on again to re-enable autosaving for The Ballad of Gay Tony.
-0xAD0EBC11=The autosave pause menu option is used by The Ballad of Gay Tony. It is currently switched off. Switch it on again to re-enable autosaving for The Ballad of Gay Tony.
+0xAD0EBC11=暂停菜单中的自动存档选项由夜生活之曲使用。目前已被关闭。开启后可以启用夜生活之曲的自动存档功能。
 
 ;0x2189D250=APC
 0x2189D250=APC
@@ -96,7 +96,7 @@
 0x13242FC0=Mori
 
 ;0xEE96E6A2=Tony (available)
-0xEE96E6A2=Tony (available)
+0xEE96E6A2=Tony (可进行)
 
 ;0x7C508217=Henrique
 0x7C508217=Henrique
@@ -111,10 +111,10 @@
 0x1B191133=MP Group
 
 ;0x783CCB81=Mom's House
-0x783CCB81=Mom's House
+0x783CCB81=母亲家
 
 ;0x8589E61B=Tony (absent)
-0x8589E61B=Tony (absent)
+0x8589E61B=Tony (不可进行)
 
 ;0x9ED718CD=(unused)
 0x9ED718CD=(unused)
@@ -123,679 +123,679 @@
 0xAD4A35B3=Armando
 
 ;0x0A51EFC1=Base Jumping
-0x0A51EFC1=Base Jumping
+0x0A51EFC1=低空跳伞
 
 ;0xD8960C4A=Booty Call
-0xD8960C4A=Booty Call
+0xD8960C4A=约炮
 
 ;0xE5BC2696=Drug Wars
-0xE5BC2696=Drug Wars
+0xE5BC2696=毒品战争
 
 ;0x32F24101=Golf
-0x32F24101=Golf
+0x32F24101=高尔夫
 
 ;0xDAADAE4D=L.C. Cage Fighter
-0xDAADAE4D=L.C. Cage Fighter
+0xDAADAE4D=自由城铁笼格斗
 
 ;0x99BE2CEB=Air Hockey
-0x99BE2CEB=Air Hockey
+0x99BE2CEB=桌上冰球
 
 ;0xE6A4A796=Triathlon
-0xE6A4A796=Triathlon
+0xE6A4A796=铁人三项
 
 ;0xE307BF7D=Grenade Launcher
-0xE307BF7D=Grenade Launcher
+0xE307BF7D=榴弹发射器
 
 ;0xE8F24AD6=Club Management
-0xE8F24AD6=Club Management
+0xE8F24AD6=夜店经营
 
 ;0xF744677A=Base Jumping
-0xF744677A=Base Jumping
+0xF744677A=低空跳伞
 
 ;0x2304BE56=Sticky Bombs
-0x2304BE56=Sticky Bombs
+0x2304BE56=黏弹
 
 ;0xF308879D=Game Progress
-0xF308879D=Game Progress
+0xF308879D=游戏进度
 
 ;0x1C3EDA09=Tony progress
-0x1C3EDA09=Tony progress
+0x1C3EDA09=Tony任务进度
 
 ;0x042FA8A7=Yusuf progress
-0x042FA8A7=Yusuf progress
+0x042FA8A7=Yusuf任务进度
 
 ;0xF5F90C3A=Mori progress
-0xF5F90C3A=Mori progress
+0xF5F90C3A=Mori任务进度
 
 ;0xC14822D1=Henrique like
-0xC14822D1=Henrique like
+0xC14822D1=Henrique好感度
 
 ;0xB39D877C=Henrique respect
-0xB39D877C=Henrique respect
+0xB39D877C=Henrique尊敬度
 
 ;0xE5D4EBEA=Armando progress
-0xE5D4EBEA=Armando progress
+0xE5D4EBEA=Armando任务进度
 
 ;0xCFE2C006=Armando like
-0xCFE2C006=Armando like
+0xCFE2C006=Armando好感度
 
 ;0x5684CD58=Armando respect
-0x5684CD58=Armando respect
+0x5684CD58=Armando尊敬度
 
 ;0x4FBD0872=Ray Bulgarin progress
-0x4FBD0872=Ray Bulgarin progress
+0x4FBD0872=Ray Bulgarin任务进度
 
 ;0xC2006CF7=Rocco progress
-0xC2006CF7=Rocco progress
+0xC2006CF7=Rocco任务进度
 
 ;0x1669A322=I luv L.C.
-0x1669A322=I luv L.C.
+0x1669A322=我爱自由城
 
 ;0x281C4687=Time
-0x281C4687=Time
+0x281C4687=任务用时
 
 ;0xD1C999E3=Player Damage
-0xD1C999E3=Player Damage
+0xD1C999E3=玩家受伤
 
 ;0xE37F3D4E=Car Damage
-0xE37F3D4E=Car Damage
+0xE37F3D4E=车辆受损
 
 ;0xED4450D8=Chinese Takeout
-0xED4450D8=Chinese Takeout
+0xED4450D8=中国外卖
 
 ;0xFEF2F435=Time
-0xFEF2F435=Time
+0xFEF2F435=任务用时
 
 ;0x90B097AE=Player Damage
-0x90B097AE=Player Damage
+0x90B097AE=玩家受伤
 
 ;0x280B46FD=Accuracy
-0x280B46FD=Accuracy
+0x280B46FD=命中率
 
 ;0x240A3EFB=100% Headshots
-0x240A3EFB=100% Headshots
+0x240A3EFB=统统爆头
 
 ;0x124E9B84=Practice Swing
-0x124E9B84=Practice Swing
+0x124E9B84=挥杆练习
 
 ;0x808377F0=Time
-0x808377F0=Time
+0x808377F0=任务用时
 
 ;0x6CC0D06B=Player Damage
-0x6CC0D06B=Player Damage
+0x6CC0D06B=玩家受伤
 
 ;0x2B1FCB96=Headshots
-0x2B1FCB96=Headshots
+0x2B1FCB96=爆头数
 
 ;0xDCECAF31=Accuracy
-0xDCECAF31=Accuracy
+0xDCECAF31=命中率
 
 ;0xC6B282BD=100% Golf Accuracy
-0xC6B282BD=100% Golf Accuracy
+0xC6B282BD=精准制导
 
 ;0xF86F6636=Blog This!...
-0xF86F6636=Blog This!...
+0xF86F6636=写篇博客！...
 
 ;0xE869C62B=Time
-0xE869C62B=Time
+0xE869C62B=任务用时
 
 ;0xAC58514D=Car Damage
-0xAC58514D=Car Damage
+0xAC58514D=车辆受损
 
 ;0x491F8ADD=Boulevard Baby
-0x491F8ADD=Boulevard Baby
+0x491F8ADD=绿荫红颜
 
 ;0x8FFC9896=Time
-0x8FFC9896=Time
+0x8FFC9896=任务用时
 
 ;0xA1C03C1D=Player Damage
-0xA1C03C1D=Player Damage
+0xA1C03C1D=玩家受伤
 
 ;0xE57FC39B=Good Guy
-0xE57FC39B=Good Guy
+0xE57FC39B=好人
 
 ;0xF73C6714=Groove On
-0xF73C6714=Groove On
+0xF73C6714=舞力全开
 
 ;0x3E62755F=...Blog This!
-0x3E62755F=...Blog This!
+0x3E62755F=...写篇博客！
 
 ;0xDB13AEC3=Time
-0xDB13AEC3=Time
+0xDB13AEC3=任务用时
 
 ;0x21BEBC18=Player Damage
-0x21BEBC18=Player Damage
+0x21BEBC18=玩家受伤
 
 ;0x2CA9D1EE=Time to Catch Blogger
-0x2CA9D1EE=Time to Catch Blogger
+0x2CA9D1EE=抓住博主用时
 
 ;0x39198529=Bang Bang
-0x39198529=Bang Bang
+0x39198529=砰砰
 
 ;0x688463FE=Time
-0x688463FE=Time
+0x688463FE=任务用时
 
 ;0x64AD5C50=Player Damage
-0x64AD5C50=Player Damage
+0x64AD5C50=玩家受伤
 
 ;0xD8C8448C=No Bombs Wasted
-0xD8C8448C=No Bombs Wasted
+0xD8C8448C=精准爆破
 
 ;0xEA926820=Frosting On The Cake
-0xEA926820=Frosting On The Cake
+0xEA926820=蛋糕上的糖霜
 
 ;0xBDBD8E77=Time
-0xBDBD8E77=Time
+0xBDBD8E77=任务用时
 
 ;0xA0165325=Player Damage
-0xA0165325=Player Damage
+0xA0165325=玩家受伤
 
 ;0x23845A03=Bomb Accuracy
-0x23845A03=Bomb Accuracy
+0x23845A03=黏弹命中率
 
 ;0x3341F97E=Escape Cops Time
-0x3341F97E=Escape Cops Time
+0x3341F97E=摆脱警察用时
 
 ;0x056F1DD9=Not So Fast
-0x056F1DD9=Not So Fast
+0x056F1DD9=欲速则不达
 
 ;0x5C65CF39=Time
-0x5C65CF39=Time
+0x5C65CF39=任务用时
 
 ;0x4AB72BDC=Player Damage
-0x4AB72BDC=Player Damage
+0x4AB72BDC=玩家受伤
 
 ;0x3CEB1044=Rocket Accuracy
-0x3CEB1044=Rocket Accuracy
+0x3CEB1044=火箭筒命中率
 
 ;0xC27C1B0C=Helicopter Damage
-0xC27C1B0C=Helicopter Damage
+0xC27C1B0C=直升机受损
 
 ;0x344C7EAB=Ladies Half Price
-0x344C7EAB=Ladies Half Price
+0x344C7EAB=女士半价
 
 ;0x05FB2209=Time
-0x05FB2209=Time
+0x05FB2209=任务用时
 
 ;0x13B9BD86=Player Damage
-0x13B9BD86=Player Damage
+0x13B9BD86=玩家受伤
 
 ;0x79940939=Hanger On Time
-0x79940939=Hanger On Time
+0x79940939=拖行时长
 
 ;0xEBBD6D8E=Departure Time
-0xEBBD6D8E=Departure Time
+0xEBBD6D8E=离港时间
 
 ;0xDE0E5230=Time
-0xDE0E5230=Time
+0xDE0E5230=任务用时
 
 ;0xAE82F20A=Player Damage
-0xAE82F20A=Player Damage
+0xAE82F20A=玩家受伤
 
 ;0x7E3A1179=Headshots
-0x7E3A1179=Headshots
+0x7E3A1179=爆头数
 
 ;0x9067B5D4=Accuracy
-0x9067B5D4=Accuracy
+0x9067B5D4=命中率
 
 ;0x11D1B8AE=Kibbutz Number One
-0x11D1B8AE=Kibbutz Number One
+0x11D1B8AE=Kibbutz大哥
 
 ;0x63DADCBB=Time
-0x63DADCBB=Time
+0x63DADCBB=任务用时
 
 ;0x677AE3FB=Player Damage
-0x677AE3FB=Player Damage
+0x677AE3FB=玩家受伤
 
 ;0x37C4048E=Boat Damage
-0x37C4048E=Boat Damage
+0x37C4048E=船只受损
 
 ;0xCEFBB303=Headshots
-0xCEFBB303=Headshots
+0xCEFBB303=爆头数
 
 ;0x213DD786=Accuracy
-0x213DD786=Accuracy
+0x213DD786=命中率
 
 ;0x32B0FA6C=Quickdraw the RPG
-0x32B0FA6C=Quickdraw the RPG
+0x32B0FA6C=禁放窜天猴
 
 ;0x92E73E3F=Top Boat Speed
-0x92E73E3F=Top Boat Speed
+0x92E73E3F=最高航速
 
 ;0x7D911393=This Ain't Checkers
-0x7D911393=This Ain't Checkers
+0x7D911393=落子无悔
 
 ;0xEF6E7754=Time
-0xEF6E7754=Time
+0xEF6E7754=任务用时
 
 ;0x4DEFB455=Player Damage
-0x4DEFB455=Player Damage
+0x4DEFB455=玩家受伤
 
 ;0x38778965=Perfect Landing
-0x38778965=Perfect Landing
+0x38778965=完美着陆
 
 ;0xAB55EF20=Always First
-0xAB55EF20=Always First
+0xAB55EF20=一骑绝尘
 
 ;0x959CC3AE=No. 3
-0x959CC3AE=No. 3
+0x959CC3AE=第三
 
 ;0x17004677=Time
-0x17004677=Time
+0x17004677=任务用时
 
 ;0x011E1AB3=Player Damage
-0x011E1AB3=Player Damage
+0x011E1AB3=玩家受伤
 
 ;0x70707956=Top Speed
-0x70707956=Top Speed
+0x70707956=最高车速
 
 ;0xFA598C2E=Car Damage
-0xFA598C2E=Car Damage
+0xFA598C2E=车辆受损
 
 ;0x31807A7B=Followed Close
-0x31807A7B=Followed Close
+0x31807A7B=紧随其后
 
 ;0x183D47F5=Sexy Time
-0x183D47F5=Sexy Time
+0x183D47F5=纵情时刻
 
 ;0x5D9B52B0=Time
-0x5D9B52B0=Time
+0x5D9B52B0=任务用时
 
 ;0x512539C4=Player Damage
-0x512539C4=Player Damage
+0x512539C4=玩家受伤
 
 ;0xFE4D941A=Accuracy
-0xFE4D941A=Accuracy
+0xFE4D941A=命中率
 
 ;0x6CC2F0FF=Helicopter Damage
-0x6CC2F0FF=Helicopter Damage
+0x6CC2F0FF=直升机受损
 
 ;0x9BE74F47=Boats Destroyed
-0x9BE74F47=Boats Destroyed
+0x9BE74F47=船只击沉
 
 ;0x8A3CABF2=High Dive
-0x8A3CABF2=High Dive
+0x8A3CABF2=高空跳台
 
 ;0x3749060C=Time
-0x3749060C=Time
+0x3749060C=任务用时
 
 ;0x371888E7=Player Damage
-0x371888E7=Player Damage
+0x371888E7=玩家受伤
 
 ;0x9CE05475=Headshots
-0x9CE05475=Headshots
+0x9CE05475=爆头数
 
 ;0xB264FF7E=Accuracy
-0xB264FF7E=Accuracy
+0xB264FF7E=命中率
 
 ;0x32487F47=Helicopters Destroyed
-0x32487F47=Helicopters Destroyed
+0x32487F47=直升机击落
 
 ;0x00849BC0=Free Fall Time
-0x00849BC0=Free Fall Time
+0x00849BC0=自由落体时长
 
 ;0x04E3A47E=Caught With Your Pants Down
-0x04E3A47E=Caught With Your Pants Down
+0x04E3A47E=原形毕露
 
 ;0x52EBC08D=Time
-0x52EBC08D=Time
+0x52EBC08D=任务用时
 
 ;0x913F3D0B=Player Damage
-0x913F3D0B=Player Damage
+0x913F3D0B=玩家受伤
 
 ;0xE0645B7C=Cop Cars Destroyed
-0xE0645B7C=Cop Cars Destroyed
+0xE0645B7C=警车击毁
 
 ;0xE4A76402=Tank Damage
-0xE4A76402=Tank Damage
+0xE4A76402=战车受损
 
 ;0xFA990EE1=Sharpshooter
-0xFA990EE1=Sharpshooter
+0xFA990EE1=百步穿杨
 
 ;0x681E69EA=For The Man Who Has Everything
-0x681E69EA=For The Man Who Has Everything
+0x681E69EA=拥有一切的男人
 
 ;0x5E735694=Time
-0x5E735694=Time
+0x5E735694=任务用时
 
 ;0xDDD7D55F=Player Damage
-0xDDD7D55F=Player Damage
+0xDDD7D55F=玩家受伤
 
 ;0xCC0D31CA=Duck Chopper
-0xCC0D31CA=Duck Chopper
+0xCC0D31CA=给爷趴
 
 ;0xC1381C20=Helicopters Destroyed
-0xC1381C20=Helicopters Destroyed
+0xC1381C20=直升机击落
 
 ;0x2F6B7885=Corner Kids
-0x2F6B7885=Corner Kids
+0x2F6B7885=街角男孩
 
 ;0x7DEB1583=Time
-0x7DEB1583=Time
+0x7DEB1583=任务用时
 
 ;0xF2497DE6=Player Damage
-0xF2497DE6=Player Damage
+0xF2497DE6=玩家受伤
 
 ;0xDD4053D4=Headshots
-0xDD4053D4=Headshots
+0xDD4053D4=爆头数
 
 ;0xF8B40E03=Accuracy
-0xF8B40E03=Accuracy
+0xF8B40E03=命中率
 
 ;0x39D79049=Clocking Off
-0x39D79049=Clocking Off
+0x39D79049=收工
 
 ;0x4C463526=Time
-0x4C463526=Time
+0x4C463526=任务用时
 
 ;0x3AEE92BB=Player Damage
-0x3AEE92BB=Player Damage
+0x3AEE92BB=玩家受伤
 
 ;0x6CBD7658=Headshots
-0x6CBD7658=Headshots
+0x6CBD7658=爆头数
 
 ;0x2679E9D2=Accuracy
-0x2679E9D2=Accuracy
+0x2679E9D2=命中率
 
 ;0x184F4D7D=Momma's Boy
-0x184F4D7D=Momma's Boy
+0x184F4D7D=妈妈的崽
 
 ;0x03E524A9=Time
-0x03E524A9=Time
+0x03E524A9=任务用时
 
 ;0xF656098B=Player Damage
-0xF656098B=Player Damage
+0xF656098B=玩家受伤
 
 ;0xEF4E7B7C=Crowd Helped
-0xEF4E7B7C=Crowd Helped
+0xEF4E7B7C=场外援助
 
 ;0xF5DD0775=Counter Finish
-0xF5DD0775=Counter Finish
+0xF5DD0775=反击终结
 
 ;0x66A4E903=Going Deep
-0x66A4E903=Going Deep
+0x66A4E903=诱敌深入
 
 ;0x59024DBE=Time
-0x59024DBE=Time
+0x59024DBE=任务用时
 
 ;0x1240C040=Player Damage
-0x1240C040=Player Damage
+0x1240C040=玩家受伤
 
 ;0xC482A4C5=Headshots
-0xC482A4C5=Headshots
+0xC482A4C5=爆头数
 
 ;0xF6AE091B=Accuracy
-0xF6AE091B=Accuracy
+0xF6AE091B=命中率
 
 ;0x2917EDEE=Vehicles Destroyed
-0x2917EDEE=Vehicles Destroyed
+0x2917EDEE=载具摧毁
 
 ;0x91E53F83=Bomb Hidden
-0x91E53F83=Bomb Hidden
+0x91E53F83=隐形诡雷
 
 ;0x7B2B120F=Sticky Bomb Carnage
-0x7B2B120F=Sticky Bomb Carnage
+0x7B2B120F=黏弹大屠杀
 
 ;0xB47304A6=Dropping In
-0xB47304A6=Dropping In
+0xB47304A6=不速之客
 
 ;0xAE957BFB=Time
-0xAE957BFB=Time
+0xAE957BFB=任务用时
 
 ;0xD49E4814=Player Damage
-0xD49E4814=Player Damage
+0xD49E4814=玩家受伤
 
 ;0xC30F24F6=Headshots
-0xC30F24F6=Headshots
+0xC30F24F6=爆头数
 
 ;0x79541179=Accuracy
-0x79541179=Accuracy
+0x79541179=命中率
 
 ;0x577BCDC9=Landing Distance
-0x577BCDC9=Landing Distance
+0x577BCDC9=着陆距离
 
 ;0x9DB8DA42=Ashvilli Plummet
-0x9DB8DA42=Ashvilli Plummet
+0x9DB8DA42=老板速降
 
 ;0x8C4BB768=Truck Landing
-0x8C4BB768=Truck Landing
+0x8C4BB768=卡车落点
 
 ;0x425EA393=In The Crosshairs
-0x425EA393=In The Crosshairs
+0x425EA393=危机四伏
 
 ;0x310B00EC=Time
-0x310B00EC=Time
+0x310B00EC=任务用时
 
 ;0x67396D48=Player Damage
-0x67396D48=Player Damage
+0x67396D48=玩家受伤
 
 ;0x0B8C9595=Headshots
-0x0B8C9595=Headshots
+0x0B8C9595=爆头数
 
 ;0x882F8EDD=Accuracy
-0x882F8EDD=Accuracy
+0x882F8EDD=命中率
 
 ;0x9291A3A1=4 shots, 4 snipers
-0x9291A3A1=4 shots, 4 snipers
+0x9291A3A1=一枪一个狙击手
 
 ;0xA4A247C2=Party's Over
-0xA4A247C2=Party's Over
+0xA4A247C2=派对结束
 
 ;0xCEE19C40=Time
-0xCEE19C40=Time
+0xCEE19C40=任务用时
 
 ;0x4F061C8B=Player Damage
-0x4F061C8B=Player Damage
+0x4F061C8B=玩家受伤
 
 ;0x595C3137=Headshots
-0x595C3137=Headshots
+0x595C3137=爆头数
 
 ;0x6C1ED6BC=Accuracy
-0x6C1ED6BC=Accuracy
+0x6C1ED6BC=命中率
 
 ;0x75C9EA12=Enemy Cars Destroyed
-0x75C9EA12=Enemy Cars Destroyed
+0x75C9EA12=摧毁敌方车辆
 
 ;0x9681AB71=Ladies' Night
-0x9681AB71=Ladies' Night
+0x9681AB71=淑女之夜
 
 ;0xE0B8BED6=Time
-0xE0B8BED6=Time
+0xE0B8BED6=任务用时
 
 ;0x5CB3B6CE=Helicopter Damage
-0x5CB3B6CE=Helicopter Damage
+0x5CB3B6CE=直升机受损
 
 ;0x76F3EB4E=Low Fly
-0x76F3EB4E=Low Fly
+0x76F3EB4E=低空飞行
 
 ;0x69364FD3=Close Pursuit
-0x69364FD3=Close Pursuit
+0x69364FD3=紧追不舍
 
 ;0x68D4B861=Kills with Grenade Launcher
-0x68D4B861=Kills with Grenade Launcher
+0x68D4B861=榴弹发射器击杀数
 
 ;0x761B244B=Kills with 44
-0x761B244B=Kills with 44
+0x761B244B=.44手枪击杀数
 
 ;0x8A4C4CAD=Kills with Shotgun Ex
-0x8A4C4CAD=Kills with Shotgun Ex
+0x8A4C4CAD=全自动爆炸霰弹击杀数
 
 ;0x9C7F7113=Kills with Auto Shotgun
-0x9C7F7113=Kills with Auto Shotgun
+0x9C7F7113=全自动标准霰弹击杀数
 
 ;0x2EE515E0=Kills with Assault SMG
-0x2EE515E0=Kills with Assault SMG
+0x2EE515E0=突击冲锋枪击杀数
 
 ;0x41333A7C=Kills with Gold SMG
-0x41333A7C=Kills with Gold SMG
+0x41333A7C=黄金冲锋枪击杀数
 
 ;0x51A2DB5B=Kills with Advanced MG
-0x51A2DB5B=Kills with Advanced MG
+0x51A2DB5B=高级机枪击杀数
 
 ;0x60087826=Kills with Advanced Sniper
-0x60087826=Kills with Advanced Sniper
+0x60087826=高级狙击枪击杀数
 
 ;0x1B09EF8E=Kills with Sticky Bombs
-0x1B09EF8E=Kills with Sticky Bombs
+0x1B09EF8E=黏弹击杀数
 
 ;0xCBADD0D7=Kills with Buzzard Rockets
-0xCBADD0D7=Kills with Buzzard Rockets
+0xCBADD0D7=秃鹰飞弹击杀数
 
 ;0xE2EEFF59=Kills with Buzzard Minigun
-0xE2EEFF59=Kills with Buzzard Minigun
+0xE2EEFF59=秃鹰机枪击杀数
 
 ;0x703F99FC=Kills with APC cannon
-0x703F99FC=Kills with APC cannon
+0x703F99FC=APC火炮击杀数
 
 ;0x754AFD05=Drug wars completed
-0x754AFD05=Drug wars completed
+0x754AFD05=毒品战争完成
 
 ;0x1C6FCB4C=Nightclub missions complete
-0x1C6FCB4C=Nightclub missions complete
+0x1C6FCB4C=夜店任务完成
 
 ;0x52C537FA=Times played golf
-0x52C537FA=Times played golf
+0x52C537FA=高尔夫游玩
 
 ;0xF7F50257=Times won golf
-0xF7F50257=Times won golf
+0xF7F50257=高尔夫获胜
 
 ;0x2E336ED3=Champagne corks popped
-0x2E336ED3=Champagne corks popped
+0x2E336ED3=开香槟次数
 
 ;0xB9445B83=Champagne downed
-0xB9445B83=Champagne downed
+0xB9445B83=一口闷次数
 
 ;0xAAB6BE68=Times thrown up
-0xAAB6BE68=Times thrown up
+0xAAB6BE68=喝吐了次数
 
 ;0x8CF582E6=Number of drinking wins
-0x8CF582E6=Number of drinking wins
+0x8CF582E6=香槟对吹获胜次数
 
 ;0xFF45E781=People impressed with dancing
-0xFF45E781=People impressed with dancing
+0xFF45E781=舞姿征服人数
 
 ;0xF10BCB0D=Number of base jumps completed
-0xF10BCB0D=Number of base jumps completed
+0xF10BCB0D=低空跳伞完成数
 
 ;0xE2442D7E=Dist from ground before opening chute
-0xE2442D7E=Dist from ground before opening chute
+0xE2442D7E=最低开伞高度
 
 ;0x43FBF0EC=Number of L.C. Cage Fights won
-0x43FBF0EC=Number of L.C. Cage Fights won
+0x43FBF0EC=铁笼格斗获胜次数
 
 ;0x554D1276=Races won
-0x554D1276=Races won
+0x554D1276=竞速获胜
 
 ;0x677EB6D9=Seagulls exterminated
-0x677EB6D9=Seagulls exterminated
+0x677EB6D9=消灭海鸥
 
 ;0x7658548C=Flags hit with a golf ball
-0x7658548C=Flags hit with a golf ball
+0x7658548C=高尔夫球击中旗杆次数
 
 ;0xAA7E659E=Times played air hockey
-0xAA7E659E=Times played air hockey
+0xAA7E659E=桌上冰球游玩
 
 ;0xBB420725=Times won air hockey
-0xBB420725=Times won air hockey
+0xBB420725=桌上冰球获胜
 
 ;0x2B5C7844=I luv L.C.
-0x2B5C7844=I luv L.C.
+0x2B5C7844=我爱自由城
 
 ;0x461AAC78=Chinese Takeout
-0x461AAC78=Chinese Takeout
+0x461AAC78=中国外卖
 
 ;0x2FBBFFBF=Practice Swing
-0x2FBBFFBF=Practice Swing
+0x2FBBFFBF=挥杆练习
 
 ;0x193DD2C3=Blog This!...
-0x193DD2C3=Blog This!...
+0x193DD2C3=写篇博客！...
 
 ;0xC70276FF=Momma's Boy
-0xC70276FF=Momma's Boy
+0xC70276FF=妈妈的崽
 
 ;0x8BC97F6E=Sexy Time
-0x8BC97F6E=Sexy Time
+0x8BC97F6E=纵情时刻
 
 ;0x1A931CFB=High Dive
-0x1A931CFB=High Dive
+0x1A931CFB=高空跳台
 
 ;0x2C5B408B=Caught With Your Pants Down
-0x2C5B408B=Caught With Your Pants Down
+0x2C5B408B=原形毕露
 
 ;0x3F08E5E6=Kibbutz Number One
-0x3F08E5E6=Kibbutz Number One
+0x3F08E5E6=Kibbutz大哥
 
 ;0xD1470A64=This Ain't Checkers
-0xD1470A64=This Ain't Checkers
+0xD1470A64=落子无悔
 
 ;0x584F986F=Corner Kids
-0x584F986F=Corner Kids
+0x584F986F=街角男孩
 
 ;0xC7FD77C9=Clocking Off
-0xC7FD77C9=Clocking Off
+0xC7FD77C9=收工
 
 ;0x95A211EF=Bang Bang
-0x95A211EF=Bang Bang
+0x95A211EF=砰砰
 
 ;0x070074AA=...Blog This!
-0x070074AA=...Blog This!
+0x070074AA=...写篇博客！
 
 ;0xBB245CF3=Boulevard Baby
-0xBB245CF3=Boulevard Baby
+0xBB245CF3=绿荫红颜
 
 ;0xA5563157=Not So Fast
-0xA5563157=Not So Fast
+0xA5563157=欲速则不达
 
 ;0x4F9705DA=Ladies' Night
-0x4F9705DA=Ladies' Night
+0x4F9705DA=淑女之夜
 
 ;0xC9C0FA2C=No. 3
-0xC9C0FA2C=No. 3
+0xC9C0FA2C=第三
 
 ;0x284CB73A=Going Deep
-0x284CB73A=Going Deep
+0x284CB73A=诱敌深入
 
 ;0x16DB1457=Dropping In
-0x16DB1457=Dropping In
+0x16DB1457=不速之客
 
 ;0xC8BE7707=In The Crosshairs
-0xC8BE7707=In The Crosshairs
+0xC8BE7707=危机四伏
 
 ;0x933A0BFF=For The Man Who Has Everything
-0x933A0BFF=For The Man Who Has Everything
+0x933A0BFF=拥有一切的男人
 
 ;0x6BCA3D20=Ladies Half Price
-0x6BCA3D20=Ladies Half Price
+0x6BCA3D20=女士半价
 
 ;0xB59DD0C6=Party's Over
-0xB59DD0C6=Party's Over
+0xB59DD0C6=派对结束
 
 ;0x64E02F50=Departure Time
-0x64E02F50=Departure Time
+0x64E02F50=离港时间
 
 ;0xAEA1C2D2=Money made from base jumps
-0xAEA1C2D2=Money made from base jumps
+0xAEA1C2D2=低空跳伞赚取
 
 ;0x877EF48D=Money spent on L.C. Cage Fighter
-0x877EF48D=Money spent on L.C. Cage Fighter
+0x877EF48D=自由城铁笼格斗支出
 
 ;0x51548839=Frosting On The Cake
-0x51548839=Frosting On The Cake
+0x51548839=蛋糕上的糖霜
 
 ;0x499079C1=Money spent on champagne
-0x499079C1=Money spent on champagne
+0x499079C1=香槟支出
 
 ;0x3B65DD6C=Money won on L.C. Cage Fighter
-0x3B65DD6C=Money won on L.C. Cage Fighter
+0x3B65DD6C=自由城铁笼格斗赚取
 
 ;0x5DA40924=Dancing
-0x5DA40924=Dancing
+0x5DA40924=跳舞
 
 ;0x9053763E=Golf
-0x9053763E=Golf
+0x9053763E=高尔夫
 
 ;0xC24DC3FA=Air Hockey
-0xC24DC3FA=Air Hockey
+0xC24DC3FA=桌上冰球
 
 ;0x352EB58C=Cop
 0x352EB58C=Cop
@@ -837,145 +837,145 @@
 0x3E67E3BB=KILL STREAK
 
 ;0x07A2DF96=I luv LC...
-0x07A2DF96=I luv LC...
+0x07A2DF96=我爱自由城...
 
 ;0xD7A4D7E6=TBoGT Complete
-0xD7A4D7E6=TBoGT Complete
+0xD7A4D7E6=TBoGT完成
 
 ;0x4F3C3F29=THIS LABEL NEEDS TO BE HERE !!!
 0x4F3C3F29=THIS LABEL NEEDS TO BE HERE !!!
 
 ;0xC1DB9B98=You need a vehicle with more passenger seats.
-0xC1DB9B98=You need a vehicle with more passenger seats.
+0xC1DB9B98=你需要一辆能够容纳更多人的载具。
 
 ;0x796A5AF5=You cannot enter the club with a wanted level.
-0x796A5AF5=You cannot enter the club with a wanted level.
+0x796A5AF5=你无法在被通缉时进入夜店。
 
 ;0x0ACAE920=You are barred from the club for causing trouble.
-0x0ACAE920=You are barred from the club for causing trouble.
+0x0ACAE920=你太会惹是生非，已被夜店禁入。
 
 ;0x9D3D0108=The club is currently closed.
-0x9D3D0108=The club is currently closed.
+0x9D3D0108=夜店尚未开门。
 
 ;0x5CDFFBEB=Press ~INPUT_PICKUP~ to manage the club.
-0x5CDFFBEB=Press ~INPUT_PICKUP~ to manage the club.
+0x5CDFFBEB=按~INPUT_PICKUP~开始管理夜店。 
 
 ;0x7FC46265=Club management is not available at this time.
-0x7FC46265=Club management is not available at this time.
+0x7FC46265=目前无法进行夜店管理。
 
 ;0xD8E7E8FE=Bowling costs $10.
-0xD8E7E8FE=Bowling costs $10.
+0xD8E7E8FE=玩保龄球需要$10。
 
 ;0x3ABF1E4F=Find an empty lane to play a game in.
-0x3ABF1E4F=Find an empty lane to play a game in.
+0x3ABF1E4F=找一条空的球道来玩一局。
 
 ;0x9D19E403=Press ~INPUT_PICKUP~ to play a half game.~n~Press ~ACCEPT~ to play a full game.
-0x9D19E403=Press ~INPUT_PICKUP~ to play a half game.~n~Press ~ACCEPT~ to play a full game.
+0x9D19E403=按~INPUT_PICKUP~玩半局。~n~按~ACCEPT~玩整局。
 
 ;0xD77758BD=Press ~INPUT_PICKUP~ if you want to bowl.
-0xD77758BD=Press ~INPUT_PICKUP~ if you want to bowl.
+0xD77758BD=按~INPUT_PICKUP~打保龄球。
 
 ;0x7425121A=You don't have enough cash to play.
-0x7425121A=You don't have enough cash to play.
+0x7425121A=你的钱不够，无法打保龄球。
 
 ;0xE65F768D=Walk up to the desk to start bowling.
-0xE65F768D=Walk up to the desk to start bowling.
+0xE65F768D=走到柜台前开始保龄球。
 
 ;0x033433B6=This 5 frame game with Michelle is free.
-0x033433B6=This 5 frame game with Michelle is free.
+0x033433B6=此次与Michelle的半局免费。
 
 ;0x56B65AB9=You can't bowl with the cops after you.
-0x56B65AB9=You can't bowl with the cops after you.
+0x56B65AB9=你被通缉了，无法打保龄球。
 
 ;0xBDDD8D08=Press ~INPUT_PICKUP~ to play air hockey.
-0xBDDD8D08=Press ~INPUT_PICKUP~ to play air hockey.
+0xBDDD8D08=按~INPUT_PICKUP~玩桌上冰球。
 
 ;0x623F55D1=Who do you want to play at air hockey?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
-0x623F55D1=Who do you want to play at air hockey?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
+0x623F55D1=你想和谁玩桌上冰球？~n~按~PAD_A~和Armando玩。~n~按~PAD_B~和Henrique玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x65785A90=Who do you want to play at air hockey?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
-0x65785A90=Who do you want to play at air hockey?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
+0x65785A90=你想和谁玩桌上冰球？~n~按~INPUT_FRONTEND_MINIGAME_1~和Armando玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和Henrique玩。~n~按~INPUT_PICKUP~退出。
 
 ;0xE3B758C7=Press ~INPUT_PICKUP~ to play Armando at air hockey.
-0xE3B758C7=Press ~INPUT_PICKUP~ to play Armando at air hockey.
+0xE3B758C7=按~INPUT_PICKUP~和Armando玩桌上冰球。
 
 ;0x0F152F86=Press ~INPUT_PICKUP~ to play Henrique at air hockey.
-0x0F152F86=Press ~INPUT_PICKUP~ to play Henrique at air hockey.
+0x0F152F86=按~INPUT_PICKUP~和Henrique玩桌上冰球。
 
 ;0xB07DA5FE=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
-0xB07DA5FE=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
+0xB07DA5FE=按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~再来一局。
 
 ;0x38073BEE=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
-0x38073BEE=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.
+0x38073BEE=按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~继续。
 
 ;0x2528B61A=Press ~INPUT_PICKUP~ to start dancing.
-0x2528B61A=Press ~INPUT_PICKUP~ to start dancing.
+0x2528B61A=按~INPUT_PICKUP~开始跳舞。
 
 ;0xD897B9E6='Call me sometime big boy'~n~(Booty call placeholder dialogue)
 0xD897B9E6='Call me sometime big boy'~n~(Booty call placeholder dialogue)
 
 ;0x21A98EB4=Press ~INPUT_PICKUP~ to purchase weapons from Armando.
-0x21A98EB4=Press ~INPUT_PICKUP~ to purchase weapons from Armando.
+0x21A98EB4=按~INPUT_PICKUP~向Armando购买武器。
 
 ;0x6145036C=Armando got bored and left.
-0x6145036C=Armando got bored and left.
+0x6145036C=Terry无聊了，走了。
 
 ;0xAF6A39BE=Armando will sell you weapons at discounted prices. Meet Armando at the ~BLIP_105~ icon to purchase weapons.
-0xAF6A39BE=Armando will sell you weapons at discounted prices. Meet Armando at the ~BLIP_105~ icon to purchase weapons.
+0xAF6A39BE=Armando会向你低价出售武器。去~BLIP_105~向Terry购买武器。
 
 ;0xB87E173D=You have ~1~ second to get into a vehicle.
-0xB87E173D=You have ~1~ second to get into a vehicle.
+0xB87E173D=在~1~秒内进入任意载具。
 
 ;0x1E9C5202=You have ~1~ second to get into your ~b~vehicle.
-0x1E9C5202=You have ~1~ second to get into your ~b~vehicle.
+0x1E9C5202=在~1~秒内进入你的~b~载具。
 
 ;0x41509C74=You have ~1~ seconds to get into a vehicle.
-0x41509C74=You have ~1~ seconds to get into a vehicle.
+0x41509C74=在~1~秒内进入任意载具。
 
 ;0xC2A52BFC=You have ~1~ seconds to get into your ~b~vehicle.
-0xC2A52BFC=You have ~1~ seconds to get into your ~b~vehicle.
+0xC2A52BFC=在~1~秒内进入你的~b~载具。
 
 ;0xE880AE62=Tops~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change tops.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
-0xE880AE62=Tops~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change tops.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
+0xE880AE62=上装~n~用~PAD_LEFT~~PAD_RIGHT~更换上装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
 
 ;0x4678002F=Pants~n~Press ~PAD_UP~ to view tops.~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change pants.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
-0x4678002F=Pants~n~Press ~PAD_UP~ to view tops.~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change pants.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
+0x4678002F=下装~n~按~PAD_UP~查看上装。~n~用~PAD_LEFT~~PAD_RIGHT~更换下装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
 
 ;0x227B8FD4=Outfits~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change outfit.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
-0x227B8FD4=Outfits~n~Use ~PAD_LEFT~ and ~PAD_RIGHT~ to change outfit.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
+0x227B8FD4=套装~n~用~PAD_LEFT~~PAD_RIGHT~更换套装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
 
 ;0x43CF90F7=Tops~n~Press ~PAD_DOWN~ to view pants.~n~You don't own any other tops.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
-0x43CF90F7=Tops~n~Press ~PAD_DOWN~ to view pants.~n~You don't own any other tops.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
+0x43CF90F7=上装~n~按~PAD_DOWN~查看下装。~n~你没有其他上装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
 
 ;0xF185D9F6=Pants~n~Press ~PAD_UP~ to view tops.~n~You don't own any other pants~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
-0xF185D9F6=Pants~n~Press ~PAD_UP~ to view tops.~n~You don't own any other pants~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
+0xF185D9F6=下装~n~按~PAD_UP~查看上装。~n~你没有其他下装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
 
 ;0x1DD4B630=Outfits~n~You don't own any other outfits.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
-0x1DD4B630=Outfits~n~You don't own any other outfits.~n~Press ~INPUT_FRONTEND_ACCEPT~ to accept.~n~Press ~INPUT_PICKUP~ to decline.
+0x1DD4B630=套装~n~你没有其他套装。~n~按~INPUT_FRONTEND_ACCEPT~保存。~n~按~INPUT_PICKUP~退出。
 
 ;0x25B49343=Henrique can't reach your current location.
-0x25B49343=Henrique can't reach your current location.
+0x25B49343=Henrique无法到达你当前的位置。
 
 ;0xB529847F=Headshots
-0xB529847F=Headshots
+0xB529847F=爆头数
 
 ;0x9C6C5C99=Time
-0x9C6C5C99=Time
+0x9C6C5C99=任务用时
 
 ;0xCA9ECB77=Top Speed
-0xCA9ECB77=Top Speed
+0xCA9ECB77=最高车速
 
 ;0xC9902AE7=Car Damage
-0xC9902AE7=Car Damage
+0xC9902AE7=车辆受损
 
 ;0x44D80EB9=Ammo Used
-0x44D80EB9=Ammo Used
+0x44D80EB9=子弹用量
 
 ;0xAD8ADB00=Flair
 0xAD8ADB00=Flair
 
 ;0x12F6FD40=Accuracy
-0x12F6FD40=Accuracy
+0x12F6FD40=命中率
 
 ;0xF725F22E=~1~%
 0xF725F22E=~1~%
@@ -987,10 +987,10 @@
 0x27B1F4A7=%
 
 ;0x5D762697=Tank Damage
-0x5D762697=Tank Damage
+0x5D762697=坦克受损
 
 ;0xD8563F40=Player Damage
-0xD8563F40=Player Damage
+0xD8563F40=玩家受伤
 
 ;0x4FFAC3A3=~1~:~1~:~1~
 0x4FFAC3A3=~1~:~1~:~1~
@@ -1026,205 +1026,205 @@
 0x44473EC0=/~1~mph
 
 ;0xE99B1068=Sharpshooter
-0xE99B1068=Sharpshooter
+0xE99B1068=百步穿杨
 
 ;0xF252A64A=Enemy Cars Destroyed
-0xF252A64A=Enemy Cars Destroyed
+0xF252A64A=摧毁敌方车辆
 
 ;0x890B4C27=Top Boat Speed
-0x890B4C27=Top Boat Speed
+0x890B4C27=最高航速
 
 ;0x9FA9D8F1=Quickdraw the RPG
-0x9FA9D8F1=Quickdraw the RPG
+0x9FA9D8F1=禁放窜天猴
 
 ;0x6E8B921B=Boat Damage
-0x6E8B921B=Boat Damage
+0x6E8B921B=船只受损
 
 ;0xE669C0C9=Vehicles Destroyed
-0xE669C0C9=Vehicles Destroyed
+0xE669C0C9=载具摧毁
 
 ;0x94D88AF2=Perfect Landing
-0x94D88AF2=Perfect Landing
+0x94D88AF2=完美着陆
 
 ;0x41F07FE2=Ashvilli Plummet
-0x41F07FE2=Ashvilli Plummet
+0x41F07FE2=老板速降
 
 ;0xAB342725=Truck Landing
-0xAB342725=Truck Landing
+0xAB342725=卡车落点
 
 ;0x28B5055C=100% Golf Accuracy
-0x28B5055C=100% Golf Accuracy
+0x28B5055C=精准制导
 
 ;0xC2D2DB3B=Time To Catch Blogger
-0xC2D2DB3B=Time To Catch Blogger
+0xC2D2DB3B=抓住博主用时
 
 ;0x83756115=100% Headshots
-0x83756115=100% Headshots
+0x83756115=统统爆头
 
 ;0x4C7B8A18=Helicopter Damage
-0x4C7B8A18=Helicopter Damage
+0x4C7B8A18=直升机受损
 
 ;0xFBB2AF99=Boats Destroyed
-0xFBB2AF99=Boats Destroyed
+0xFBB2AF99=船只击沉
 
 ;0x74EC01AF=4 shots, 4 snipers
-0x74EC01AF=4 shots, 4 snipers
+0x74EC01AF=一枪一个狙击手
 
 ;0xA91E13EF=No Bombs Wasted
-0xA91E13EF=No Bombs Wasted
+0xA91E13EF=精准爆破
 
 ;0x97454374=Helicopter Damage
-0x97454374=Helicopter Damage
+0x97454374=直升机受损
 
 ;0x45D2C07C=Close Pursuit
-0x45D2C07C=Close Pursuit
+0x45D2C07C=紧追不舍
 
 ;0xF9078094=Low Fly
-0xF9078094=Low Fly
+0xF9078094=低空飞行
 
 ;0x16526094=Spare Ahmed
-0x16526094=Spare Ahmed
+0x16526094=放过Ahmed
 
 ;0x0565EB37=Helicopters Destroyed
-0x0565EB37=Helicopters Destroyed
+0x0565EB37=直升机击落
 
 ;0xE565E209=Freefall Time
-0xE565E209=Freefall Time
+0xE565E209=自由落体时长
 
 ;0xCB4565BD=Cop Cars Destroyed
-0xCB4565BD=Cop Cars Destroyed
+0xCB4565BD=警车击毁
 
 ;0x55A829FE=Duck Chopper
-0x55A829FE=Duck Chopper
+0x55A829FE=给爷趴
 
 ;0x70FB4260=Helicopters Destroyed
-0x70FB4260=Helicopters Destroyed
+0x70FB4260=直升机击落
 
 ;0x854BACED=Cars Carnage
 0x854BACED=Cars Carnage
 
 ;0x82F11D0C=Landed in Boat
-0x82F11D0C=Landed in Boat
+0x82F11D0C=空降上船
 
 ;0xD5097FA1=Always First
-0xD5097FA1=Always First
+0xD5097FA1=一骑绝尘
 
 ;0x5213AFC4=Bomb Accuracy
-0x5213AFC4=Bomb Accuracy
+0x5213AFC4=炸弹命中率
 
 ;0x194C8554=Escape Cops Time
-0x194C8554=Escape Cops Time
+0x194C8554=摆脱警察用时
 
 ;0x03E3BE58=Hanger On Time
-0x03E3BE58=Hanger On Time
+0x03E3BE58=拖行时长
 
 ;0xA7DCADAF=Groove On
-0xA7DCADAF=Groove On
+0xA7DCADAF=舞力全开
 
 ;0xEB1800E0=Good Guy
-0xEB1800E0=Good Guy
+0xEB1800E0=好人
 
 ;0x3C065648=Rocket Accuracy
-0x3C065648=Rocket Accuracy
+0x3C065648=火箭筒命中率
 
 ;0x49492781=Helicopter Damage
-0x49492781=Helicopter Damage
+0x49492781=直升机受损
 
 ;0x1264F270=Vehicle Carnage
 0x1264F270=Vehicle Carnage
 
 ;0xFFDFDE45=Bomb Hidden
-0xFFDFDE45=Bomb Hidden
+0xFFDFDE45=隐形诡雷
 
 ;0xED747EB4=Sticky Bomb Carnage
-0xED747EB4=Sticky Bomb Carnage
+0xED747EB4=黏弹大屠杀
 
 ;0xE72C3E52=Followed Close
-0xE72C3E52=Followed Close
+0xE72C3E52=紧随其后
 
 ;0xA1ED4089=Crowd Helped
-0xA1ED4089=Crowd Helped
+0xA1ED4089=场外援助
 
 ;0x63F7CE25=Counter Finish
-0x63F7CE25=Counter Finish
+0x63F7CE25=反击终结
 
 ;0x676645E5=~s~On completion of a job a mission passed screen will be displayed.
-0x676645E5=~s~On completion of a job a mission passed screen will be displayed.
+0x676645E5=~s~完成任务后会显示结算画面。
 
 ;0x225DBBC5=This will show your score and whether you have achieved any secondary objectives.
-0x225DBBC5=This will show your score and whether you have achieved any secondary objectives.
+0x225DBBC5=结算画面中会显示你的评分，以及次要目标的达成状况。
 
 ;0x142F1F68=Once you complete all missions in the game you will be able to repeat missions and improve your score.
-0x142F1F68=Once you complete all missions in the game you will be able to repeat missions and improve your score.
+0x142F1F68=完成所有主线任务后，你可以重玩这些任务，提升评分。
 
 ;0x3DDA72BE=Press ~INPUT_FRONTEND_ACCEPT~ to view the target score.~n~Press ~INPUT_FRONTEND_CANCEL~ to quit the mission passed screen.
-0x3DDA72BE=Press ~INPUT_FRONTEND_ACCEPT~ to view the target score.~n~Press ~INPUT_FRONTEND_CANCEL~ to quit the mission passed screen.
+0x3DDA72BE=按~INPUT_FRONTEND_ACCEPT~查看目标成绩。~n~按~INPUT_FRONTEND_CANCEL~退出结算画面。
 
 ;0x12ED7B37=BASE JUMP
-0x12ED7B37=BASE JUMP
+0x12ED7B37=低空跳伞
 
 ;0x206465FB=Target Jumps
-0x206465FB=Target Jumps
+0x206465FB=定点跳伞
 
 ;0x6940EBCA=~1~/5
 0x6940EBCA=~1~/5
 
 ;0x78FC52FB=Vehicle Jumps
-0x78FC52FB=Vehicle Jumps
+0x78FC52FB=载具跳伞
 
 ;0xC66B1EB3=~1~/5
 0xC66B1EB3=~1~/5
 
 ;0xC3EF9233=Heli Jumps
-0xC3EF9233=Heli Jumps
+0xC3EF9233=检查点跳伞
 
 ;0x30741A9D=~1~/5
 0x30741A9D=~1~/5
 
 ;0xC905E942=Overall
-0xC905E942=Overall
+0xC905E942=合计
 
 ;0x3572D049=~1~/15
 0x3572D049=~1~/15
 
 ;0xE678F7C8=~s~Completed
-0xE678F7C8=~s~Completed
+0xE678F7C8=~s~已完成
 
 ;0xE0F98CB6=You are the Liberty City Champion
-0xE0F98CB6=You are the Liberty City Champion
+0xE0F98CB6=你就是自由城拳王
 
 ;0xD6296CDA=~s~CHEAT!
-0xD6296CDA=~s~CHEAT!
+0xD6296CDA=~s~作弊耍赖！
 
 ;0x8F10E038=~r~Used Health Cheat
-0x8F10E038=~r~Used Health Cheat
+0x8F10E038=~r~使用回血秘籍
 
 ;0xA2196B06=~r~Used Weapons Cheat
-0xA2196B06=~r~Used Weapons Cheat
+0xA2196B06=~r~使用武器秘籍
 
 ;0x3A531636=~r~Used Wanted Level Cheat
-0x3A531636=~r~Used Wanted Level Cheat
+0x3A531636=~r~使用通缉秘籍
 
 ;0x34D38117=~r~Used a Trip Skip
-0x34D38117=~r~Used a Trip Skip
+0x34D38117=~r~使用跳过旅程
 
 ;0xCE43DF3F=~s~As a cheat was used during this mission, your results cannot be saved or uploaded to the Rockstar Social Club.
-0xCE43DF3F=~s~As a cheat was used during this mission, your results cannot be saved or uploaded to the Rockstar Social Club.
+0xCE43DF3F=~s~由于在任务中使用了秘籍，你的任务评分将不被保留，也无法上传至 Rockstar Social Club。
 
 ;0x1A05AFDC=~s~Mission results cannot be saved or uploaded to Rockstar Social Club if a replay is used. Once you've completed all the story missions in The Ballad of Gay Tony, play the mission again using the mission repeat option on the cellphone to get usable results.
-0x1A05AFDC=~s~Mission results cannot be saved or uploaded to Rockstar Social Club if a replay is used. Once you've completed all the story missions in The Ballad of Gay Tony, play the mission again using the mission repeat option on the cellphone to get usable results.
+0x1A05AFDC=~s~由于使用了续关功能，任务评分将不被保留，也无法上传至 Rockstar Social Club。完成夜生活之曲的所有主线任务后，再通过手机中的任务重玩功能刷分吧。
 
 ;0x3E3ED395=~s~MISSION REPLAY
-0x3E3ED395=~s~MISSION REPLAY
+0x3E3ED395=~s~续关不算
 
 ;0x140F1BBC=TAXI TRIP
-0x140F1BBC=TAXI TRIP
+0x140F1BBC=打的不算
 
 ;0x22333FFC=~s~Mission results cannot be saved or uploaded to Rockstar Social Club if a taxi is used. Once you've completed all the story missions in The Ballad of Gay Tony, play the mission again using the mission repeat option on the cellphone to get usable results.
-0x22333FFC=~s~Mission results cannot be saved or uploaded to Rockstar Social Club if a taxi is used. Once you've completed all the story missions in The Ballad of Gay Tony, play the mission again using the mission repeat option on the cellphone to get usable results.
+0x22333FFC=~s~由于使用了打的移动，任务评分将不被保留，也无法上传至 Rockstar Social Club。完成夜生活之曲的所有主线任务后，再通过手机中的任务重玩功能刷分吧。
 
 ;0x16310261=NR
-0x16310261=NR
+0x16310261=新纪录
 
 ;0x963781DC=~INPUT_FRONTEND_ACCEPT~
 0x963781DC=~INPUT_FRONTEND_ACCEPT~
@@ -1233,58 +1233,58 @@
 0x93055AA3=~INPUT_FRONTEND_CANCEL~
 
 ;0x4567EBFD=TARGETS
-0x4567EBFD=TARGETS
+0x4567EBFD=目标
 
 ;0x8A2A7581=MY RESULTS
-0x8A2A7581=MY RESULTS
+0x8A2A7581=我的成绩
 
 ;0x78E7D2FC=EXIT
-0x78E7D2FC=EXIT
+0x78E7D2FC=退出
 
 ;0x7027B774=All seagulls killed. LC is a quieter place.
-0x7027B774=All seagulls killed. LC is a quieter place.
+0x7027B774=已消灭所有海鸥。自由城更干净了。
 
 ;0x16301136=~1~ seagulls left in Liberty City.
-0x16301136=~1~ seagulls left in Liberty City.
+0x16301136=自由城内还有 ~1~ 只海鸥。
 
 ;0x63F77074=Just one seagull left in Liberty City.
-0x63F77074=Just one seagull left in Liberty City.
+0x63F77074=自由城内还剩最后一只海鸥。
 
 ;0x2AB42A5A=Doors open
-0x2AB42A5A=Doors open
+0x2AB42A5A=开门大吉
 
 ;0x1D6A8FC7=Pretox
-0x1D6A8FC7=Pretox
+0x1D6A8FC7=酒前准备
 
 ;0x4D176F20=Happy Hour
-0x4D176F20=Happy Hour
+0x4D176F20=狂饮大促
 
 ;0xEDF5B0E2=Shots at the Bar
-0xEDF5B0E2=Shots at the Bar
+0xEDF5B0E2=吧台烈酒
 
 ;0xDF891409=Hit the VIP
-0xDF891409=Hit the VIP
+0xDF891409=贵宾待遇
 
 ;0x1253799D=Bottle Service
-0x1253799D=Bottle Service
+0x1253799D=存酒服务
 
 ;0x4A5F6984=One More Tune
-0x4A5F6984=One More Tune
+0x4A5F6984=再来一曲
 
 ;0x181504F0=After Party
-0x181504F0=After Party
+0x181504F0=余兴派对
 
 ;0xDDA51045=After the After Party
-0xDDA51045=After the After Party
+0xDDA51045=曲终人未散
 
 ;0x3BC8CC57=Up All Night
-0x3BC8CC57=Up All Night
+0x3BC8CC57=今夜无眠
 
 ;0x71CD55D9=Daylight Breaks
-0x71CD55D9=Daylight Breaks
+0x71CD55D9=直到天明
 
 ;0xF129D490=24hr Party Person
-0xF129D490=24hr Party Person
+0xF129D490=三天三夜
 
 ;0xED07189F=Luis
 0xED07189F=Luis
@@ -1296,217 +1296,217 @@
 0xD1565471=Hen
 
 ;0xBAE254B6=The ~BLIP_108~ icon represents the meeting point for a Drug War. Help Armando and Henrique build a drugs empire and you will be rewarded.
-0xBAE254B6=The ~BLIP_108~ icon represents the meeting point for a Drug War. Help Armando and Henrique build a drugs empire and you will be rewarded.
+0xBAE254B6=~BLIP_108~图标表示毒品战争的集合地点。帮助Armando和Henrique建立毒品帝国，你也能得到奖励。
 
 ;0xBE604B51=Drug Wars become more challenging as you progress but will unlock new weaponry in your safehouse.
-0xBE604B51=Drug Wars become more challenging as you progress but will unlock new weaponry in your safehouse.
+0xBE604B51=随着进度推进，毒品战争会变得更富挑战性，但同时也会在你的安全屋中解锁新的武器装备。
 
 ;0xB673C25B=Lose the cops before starting a Drug War.
-0xB673C25B=Lose the cops before starting a Drug War.
+0xB673C25B=摆脱通缉才能开始毒品战争。
 
 ;0xF4D0CCAC=Henrique is currently busy.
-0xF4D0CCAC=Henrique is currently busy.
+0xF4D0CCAC=Henrique现在没空。
 
 ;0x34EC75FA=Drug wars are currently unavailable, try again later.
-0x34EC75FA=Drug wars are currently unavailable, try again later.
+0x34EC75FA=毒品战争暂不可用，稍后再试。
 
 ;0x89916F8B=Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
-0x89916F8B=Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x89916F8B=你想和谁打台球？~n~按~PAD_A~和Armando打。~n~按~PAD_B~和Henrique打。~n~按~PAD_X~和Clay打。~n~按~INPUT_PICKUP~退出。
 
 ;0xCBD3F3C7=Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
-0xCBD3F3C7=Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
+0xCBD3F3C7=你想和谁打台球？~n~按~PAD_A~和Armando打。~n~按~PAD_B~和Henrique打。~n~按~INPUT_PICKUP~退出。
 
 ;0xE550EDE3=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
-0xE550EDE3=Who do you want to play pool with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
+0xE550EDE3=你想和谁打台球？~n~按~INPUT_FRONTEND_MINIGAME_1~和Armando打。~n~按~INPUT_FRONTEND_MINIGAME_2~和Henrique打。~n~按~INPUT_PICKUP~退出。
 
 ;0xB994CF49=Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
-0xB994CF49=Who do you want to play pool with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0xB994CF49=你想和谁打台球？~n~按~PAD_A~和Armando打。~n~按~PAD_B~和Clay打。~n~按~INPUT_PICKUP~退出。
 
 ;0xAC5EB4DD=Who do you want to play pool with?~n~Press ~PAD_A~ to play Henrique.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
-0xAC5EB4DD=Who do you want to play pool with?~n~Press ~PAD_A~ to play Henrique.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0xAC5EB4DD=你想和谁打台球？~n~按~PAD_A~和Henrique打。~n~按~PAD_B~和Clay打。~n~按~INPUT_PICKUP~退出。
 
 ;0x9A181050=Press ~INPUT_PICKUP~ to play pool with Armando.
-0x9A181050=Press ~INPUT_PICKUP~ to play pool with Armando.
+0x9A181050=按~INPUT_PICKUP~和Armando打台球。
 
 ;0x90A0FD5A=Press ~INPUT_PICKUP~ to play pool with Henrique.
-0x90A0FD5A=Press ~INPUT_PICKUP~ to play pool with Henrique.
+0x90A0FD5A=按~INPUT_PICKUP~和Henrique打台球。
 
 ;0x7E6758E7=Press ~INPUT_PICKUP~ to play pool with Clay.
-0x7E6758E7=Press ~INPUT_PICKUP~ to play pool with Clay.
+0x7E6758E7=按~INPUT_PICKUP~和Clay打台球。
 
 ;0x98F2472A=Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
-0x98F2472A=Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~PAD_X~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x98F2472A=你想和谁玩飞镖？~n~按~PAD_A~和Armando玩。~n~按~PAD_B~和Henrique玩。~n~按~PAD_X~和Clay玩。~n~按~INPUT_PICKUP~退出。
 
 ;0xA6C0E2C7=Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
-0xA6C0E2C7=Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
+0xA6C0E2C7=你想和谁玩飞镖？~n~按~PAD_A~和Armando玩。~n~按~PAD_B~和Henrique玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x4ED2289F=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
-0x4ED2289F=Who do you want to play darts with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
+0x4ED2289F=你想和谁玩飞镖？~n~按~INPUT_FRONTEND_MINIGAME_1~和Armando玩。~n~按~INPUT_FRONTEND_MINIGAME_2~和Henrique玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x75650010=Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
-0x75650010=Who do you want to play darts with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x75650010=你想和谁玩飞镖？~n~按~PAD_A~和Armando玩。~n~按~PAD_B~和Clay玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x8B3B2BBC=Who do you want to play darts with?~n~Press ~PAD_A~ to play Henrique.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
-0x8B3B2BBC=Who do you want to play darts with?~n~Press ~PAD_A~ to play Henrique.~n~Press ~PAD_B~ to play Clay.~n~Press ~INPUT_PICKUP~ to exit.
+0x8B3B2BBC=你想和谁玩飞镖？~n~按~PAD_A~和Henrique玩。~n~按~PAD_B~和Clay玩。~n~按~INPUT_PICKUP~退出。
 
 ;0x5F98D47C=Press ~INPUT_PICKUP~ to play darts with Armando.
-0x5F98D47C=Press ~INPUT_PICKUP~ to play darts with Armando.
+0x5F98D47C=按~INPUT_PICKUP~和Armando玩飞镖。
 
 ;0x6DC370D1=Press ~INPUT_PICKUP~ to play darts with Henrique.
-0x6DC370D1=Press ~INPUT_PICKUP~ to play darts with Henrique.
+0x6DC370D1=按~INPUT_PICKUP~和Henrique玩飞镖。
 
 ;0x449E1E87=Press ~INPUT_PICKUP~ to play darts with Clay.
-0x449E1E87=Press ~INPUT_PICKUP~ to play darts with Clay.
+0x449E1E87=按~INPUT_PICKUP~和Clay玩飞镖。
 
 ;0xA077D66F=Drug Wars
-0xA077D66F=Drug Wars
+0xA077D66F=毒品战争
 
 ;0xA1BAE969=Base Jumping
-0xA1BAE969=Base Jumping
+0xA1BAE969=低空跳伞
 
 ;0x8B372640=L.C. Cage Fighter
-0x8B372640=L.C. Cage Fighter
+0x8B372640=自由城铁笼格斗
 
 ;0x5331FFC2=THIS LABEL NEEDS TO BE HERE !!!
 0x5331FFC2=THIS LABEL NEEDS TO BE HERE !!!
 
 ;0x2D2C8430=LEAVE COMMENT
-0x2D2C8430=LEAVE COMMENT
+0x2D2C8430=发表评论
 
 ;0x48FBDF3C=COMMENTS ARE CLOSED FOR THIS POST
-0x48FBDF3C=COMMENTS ARE CLOSED FOR THIS POST
+0x48FBDF3C=本文已关闭评论功能
 
 ;0xA86C8794=YOU'VE ALREADY COMMENTED ON THIS POST
-0xA86C8794=YOU'VE ALREADY COMMENTED ON THIS POST
+0xA86C8794=您已评论过这篇文章
 
 ;0xCF0D3B37=SUBMIT
-0xCF0D3B37=SUBMIT
+0xCF0D3B37=提交
 
 ;0x3B6332A9=Club Kid Death
-0x3B6332A9=Club Kid Death
+0x3B6332A9=夜店小子死了
 
 ;0xE7C63377=Exploitation
-0xE7C63377=Exploitation
+0xE7C63377=剥削压榨
 
 ;0xD0EF0194=Marijuana
-0xD0EF0194=Marijuana
+0xD0EF0194=大麻诉状
 
 ;0xBAB62D32=Pirates
-0xBAB62D32=Pirates
+0xBAB62D32=海盗
 
 ;0x419260A3=Lawton Promises Action!
-0x419260A3=Lawton Promises Action!
+0x419260A3=Lawton扬言采取行动！
 
 ;0xAEF6CCAB=Tired of Terror
-0xAEF6CCAB=Tired of Terror
+0xAEF6CCAB=累觉不怕
 
 ;0xE8C0895A=Bank Heist
-0xE8C0895A=Bank Heist
+0xE8C0895A=银行劫案
 
 ;0xC65DB531=Nightclub Shootout
-0xC65DB531=Nightclub Shootout
+0xC65DB531=夜店枪战
 
 ;0x2B27B6A6=Air Guitar Death
-0x2B27B6A6=Air Guitar Death
+0x2B27B6A6=空气吉他手遇害
 
 ;0x7A936501=Reality Star
-0x7A936501=Reality Star
+0x7A936501=真人秀明星
 
 ;0x13AE4FD1=Bloody Rampage
-0x13AE4FD1=Bloody Rampage
+0x13AE4FD1=血洗暴怒
 
 ;0x5CE11A18=Recession
-0x5CE11A18=Recession
+0x5CE11A18=经济衰退
 
 ;0xB35C568E=Drug Resurgence
-0xB35C568E=Drug Resurgence
+0xB35C568E=毒品复燃
 
 ;0xEF0A868A=Explosions!
-0xEF0A868A=Explosions!
+0xEF0A868A=连环爆炸！
 
 ;0x9E1E9C96=RAMPAGE Rumors
-0x9E1E9C96=RAMPAGE Rumors
+0x9E1E9C96=暴怒队传言
 
 ;0xD5281A25=Dirty Dentist
-0xD5281A25=Dirty Dentist
+0xD5281A25=肮脏牙医
 
 ;0xDA46DD0B=Rotterdam Rocked
-0xDA46DD0B=Rotterdam Rocked
+0xDA46DD0B=Rotterdam震颤
 
 ;0x040F687E=Hipster Death
-0x040F687E=Hipster Death
+0x040F687E=嬉皮士之死
 
 ;0xCDBC0B5D=Metro Movies
-0xCDBC0B5D=Metro Movies
+0xCDBC0B5D=美男电影
 
 ;0x35639233=Yacht Explodes
-0x35639233=Yacht Explodes
+0x35639233=游艇爆炸
 
 ;0x4085DC4A=And in Recession News
-0x4085DC4A=And in Recession News
+0x4085DC4A=再谈经济衰退
 
 ;0x48BE0283=Boy Band Scandal
-0x48BE0283=Boy Band Scandal
+0x48BE0283=男团丑闻
 
 ;0xA4FAF160=Gravelli Dead
-0xA4FAF160=Gravelli Dead
+0xA4FAF160=Gravelli死了
 
 ;0x4F5B79F5=Bum Diamonds
-0x4F5B79F5=Bum Diamonds
+0x4F5B79F5=乞丐与钻石
 
 ;0x5B03A70E=Immigrant Crime
-0x5B03A70E=Immigrant Crime
+0x5B03A70E=移民犯罪
 
 ;0xB16AE2C1=Homosexual Homicide
-0xB16AE2C1=Homosexual Homicide
+0xB16AE2C1=同性恋遇害
 
 ;0x7F110B83=Lazy
-0x7F110B83=Lazy
+0x7F110B83=懒散一代
 
 ;0xDC00A1BD=Grassroots Democracy
-0xDC00A1BD=Grassroots Democracy
+0xDC00A1BD=草根民主
 
 ;0xEDC9454E=Arms Dealer
-0xEDC9454E=Arms Dealer
+0xEDC9454E=军火商人
 
 ;0x8BD5FBC5=Recession is over!
-0x8BD5FBC5=Recession is over!
+0x8BD5FBC5=经济不再衰退！
 
 ;0xAE05C024=Explosions
-0xAE05C024=Explosions
+0xAE05C024=连环爆炸
 
 ;0xFC46DCA9=Rotterdam Rocked
-0xFC46DCA9=Rotterdam Rocked
+0xFC46DCA9=Rotterdam震颤
 
 ;0x863FE732=Manhood
-0x863FE732=Manhood
+0x863FE732=男子气概
 
 ;0x155C126B=Recession
-0x155C126B=Recession
+0x155C126B=经济衰退
 
 ;0x8FF5CD22=Boy Band Blooper
-0x8FF5CD22=Boy Band Blooper
+0x8FF5CD22=男孩乐队大出洋相
 
 ;0x19FB27EE=Graduates
-0x19FB27EE=Graduates
+0x19FB27EE=应届生
 
 ;0x5C258482=MyRoom Controversy
-0x5C258482=MyRoom Controversy
+0x5C258482=MyRoom争议
 
 ;0x78503BB3=Flower Power
-0x78503BB3=Flower Power
+0x78503BB3=阴柔之力
 
 ;0xA3159141=Dirty Dentist
-0xA3159141=Dirty Dentist
+0xA3159141=龌龊牙医
 
 ;0x61F68F04=Artist Killed
-0x61F68F04=Artist Killed
+0x61F68F04=艺术家遇害
 
 ;0x2B442500=DEATH OF AN ARMS SALESMAN
-0x2B442500=DEATH OF AN ARMS SALESMAN
+0x2B442500=军火商人之死
 
 ;0x56057A82=Eunux Troubles
-0x56057A82=Eunux Troubles
+0x56057A82=Eunux问题
 
 ;0x8987F72A=www.youvebeencelebinated.com
 0x8987F72A=www.youvebeencelebinated.com
@@ -1539,10 +1539,10 @@
 0xC9EACF80=www.herculeslibertycity.com
 
 ;0x55AE4C13=BAHAMA MAMAS
-0x55AE4C13=BAHAMA MAMAS
+0x55AE4C13=巴哈马妈妈
 
 ;0xF81B4620=Where evolution stops and the party starts!
-0xF81B4620=Where evolution stops and the party starts!
+0xF81B4620=进化于此停止，狂欢在此开始！
 
 ;0xEB403288=www.bahamamamasclub.com
 0xEB403288=www.bahamamamasclub.com
@@ -1560,61 +1560,61 @@
 0x5314C6DC=FUGGIE
 
 ;0xF6E243B2=The blanket with glory holes!!!
-0xF6E243B2=The blanket with glory holes!!!
+0xF6E243B2=自带开孔的毯子！！！
 
 ;0xB1153E2F=www.fuggie.com
 0xB1153E2F=www.fuggie.com
 
 ;0x88E3B279=HERCULES
-0x88E3B279=HERCULES
+0x88E3B279=大力神
 
 ;0x4114D816=A slice of Olympus here on Earth.
-0x4114D816=A slice of Olympus here on Earth.
+0x4114D816=奥林匹斯的人间一角。
 
 ;0x9F5D9AC0=www.herculeslibertycity.com
 0x9F5D9AC0=www.herculeslibertycity.com
 
 ;0x7F919FD5=MAISONETTE 9
-0x7F919FD5=MAISONETTE 9
+0x7F919FD5=9号豪宅
 
 ;0xF2D2BB93=Liberty City's most exclusive club. We're not expecting you.
-0xF2D2BB93=Liberty City's most exclusive club. We're not expecting you.
+0xF2D2BB93=自由城最高档的夜店。不欢迎闲杂人等。
 
 ;0xCCA7F554=www.maisonette9.com
 0xCCA7F554=www.maisonette9.com
 
 ;0xB5638B78=PRINCESS ROBOT BUBBLEGUM
-0xB5638B78=PRINCESS ROBOT BUBBLEGUM
+0xB5638B78=机械泡泡糖公主
 
 ;0x1BB08D4E=The world's greatest anime ever, online!
-0x1BB08D4E=The world's greatest anime ever, online!
+0x1BB08D4E=全球最棒的动漫，官方网站！
 
 ;0x4A99F13A=www.princessrobotbubblegum.com
 0x4A99F13A=www.princessrobotbubblegum.com
 
 ;0xA40DE8CD=WOMEN ARE IDIOTS
-0xA40DE8CD=WOMEN ARE IDIOTS
+0xA40DE8CD=女人都是白痴
 
 ;0x4D85F0F8=Nick Lancaster explains how he's slept with over 500 different girls.
-0x4D85F0F8=Nick Lancaster explains how he's slept with over 500 different girls.
+0x4D85F0F8=Nick Lancaster为你解释他是怎样把500多个姑娘骗到自己床上的。
 
 ;0x3956CEB4=www.womenareidiots.net
 0x3956CEB4=www.womenareidiots.net
 
 ;0xD1C94443=THE CELEBINATOR
-0xD1C94443=THE CELEBINATOR
+0xD1C94443=名人终结者
 
 ;0x7808C601=The best and worst gossip in Liberty City.
-0x7808C601=The best and worst gossip in Liberty City.
+0x7808C601=遍览自由城最棒与最糟的八卦新闻。
 
 ;0x6706AA13=www.youvebeencelebinated.com
 0x6706AA13=www.youvebeencelebinated.com
 
 ;0xC03AA126=GOLD FOR LIFE
-0xC03AA126=GOLD FOR LIFE
+0xC03AA126=黄金永恒
 
 ;0x29DC29A5=Your investments are in tatters, you should invest in gold!
-0x29DC29A5=Your investments are in tatters, you should invest in gold!
+0x29DC29A5=你的投资一文不值，速来投资黄金！
 
 ;0x55CC879F=www.goldforlife.biz
 0x55CC879F=www.goldforlife.biz
@@ -1626,7 +1626,7 @@
 0x5020E957=Tony
 
 ;0xAF08D5FA=Could do with some help at Maisonette. Come by during opening hours or I'll see you at the loft. T xx
-0xAF08D5FA=Could do with some help at Maisonette. Come by during opening hours or I'll see you at the loft. T xx
+0xAF08D5FA=你可以来豪宅给我打下手。营业的时候我在店里，其他时间来公寓找我。 T么么哒
 
 ;0xFB446E74=PLACEHOLDER
 0xFB446E74=PLACEHOLDER
@@ -1656,10 +1656,10 @@
 0x61920C39=Yusuf
 
 ;0x62F4C1EF=My dude! The Buzzard is on the West River for you whenever you want it. What's mine is yours, bro! Let's do this! - Yu$uf
-0x62F4C1EF=My dude! The Buzzard is on the West River for you whenever you want it. What's mine is yours, bro! Let's do this! - Yu$uf
+0x62F4C1EF=好哥们儿！秃鹰直升机在西河的停机坪，你随时可以去用。我的就是你的，兄弟！一起嗨吧！ - Yu$uf
 
 ;0xA1643EC9=That APC motherfucking NOOSE tank thing is available at the building site, dog. Try shooting up some shit other than seagulls, you crazy motherfucker! - Yu$uf
-0xA1643EC9=That APC motherfucking NOOSE tank thing is available at the building site, dog. Try shooting up some shit other than seagulls, you crazy motherfucker! - Yu$uf
+0xA1643EC9=NOOSE的牛逼APC坦克现在停在建筑工地，伙计。拿去打海鸥以外的东西吧，你这疯子！ - Yu$uf
 
 ;0x729DE13D=PLACEHOLDER
 0x729DE13D=PLACEHOLDER
@@ -1671,52 +1671,52 @@
 0xD259EDCB=Armando
 
 ;0xB4A5015D=I need you to help one of my boys, you available?
-0xB4A5015D=I need you to help one of my boys, you available?
+0xB4A5015D=我这儿需要你帮忙，有空吗？
 
 ;0x8EDF35D2=There's some people messing with my business, can you help sort this problem out?
-0x8EDF35D2=There's some people messing with my business, can you help sort this problem out?
+0x8EDF35D2=有人在妨碍我的生意，你能帮我解决吗？
 
 ;0xA0205854=Next time your daddy wants his dick sucked and you need to run off, give us the heads up. Puta!
-0xA0205854=Next time your daddy wants his dick sucked and you need to run off, give us the heads up. Puta!
+0xA0205854=下次你爹要你舔屌，搞得你想跑出来的时候，跟我们说一声。贱人！
 
 ;0xEA746CFB=Fuck, bro. I spent about a g in that joint and I didn't get nothing. WTF! Next time I'll close that shit.
-0xEA746CFB=Fuck, bro. I spent about a g in that joint and I didn't get nothing. WTF! Next time I'll close that shit.
+0xEA746CFB=操了，兄弟。我进货就花了一千多，结果什么都没捞到。操！下次我就要倒闭了。
 
 ;0x59EA4BE1=The contract has be terminated. Be quicker next time.
-0x59EA4BE1=The contract has be terminated. Be quicker next time.
+0x59EA4BE1=契约终止了，下次再快点吧。
 
 ;0x6B48EE9E=Put down the cock and pick up the phone. When we gonna hang, bro?
-0x6B48EE9E=Put down the cock and pick up the phone. When we gonna hang, bro?
+0x6B48EE9E=让鸡儿歇一歇，接个电话。我们什么时候出去玩，兄弟？
 
 ;0x346680DA=The Heights ain't had no love from you in a long time, bro. When we doing something.
-0x346680DA=The Heights ain't had no love from you in a long time, bro. When we doing something.
+0x346680DA=高地好久没有得到你的临幸了，兄弟。有空出来玩吧。
 
 ;0x47BA2781=Yo man. Fuck! I know you don't give a shit about me, but H would really appreciate seeing you. Dumb motherfucker gets lonely.
-0x47BA2781=Yo man. Fuck! I know you don't give a shit about me, but H would really appreciate seeing you. Dumb motherfucker gets lonely.
+0x47BA2781=哟，老兄。操！我知道你不在乎我，但H见到你会很高兴的。这个白痴很容易寂寞。
 
 ;0x5073BF9C=You still got our numbers in your phone, Downtown? Or it filled up with celebrities and homos' digits? Call us and we'll hang.
-0x5073BF9C=You still got our numbers in your phone, Downtown? Or it filled up with celebrities and homos' digits? Call us and we'll hang.
+0x5073BF9C=你手机里还有我们的号码吗，城里人？还是说只剩名人跟基佬的号码了？有空了就找我们出去玩吧。
 
 ;0x5DAA5A09=Where werer you, bro? H got real upset.
-0x5DAA5A09=Where werer you, bro? H got real upset.
+0x5DAA5A09=你人呢，兄弟？H被你弄得很伤心。
 
 ;0x2AEEF493=I told H you weren't gonna show. Dumb motherfucker actually got excited.
-0x2AEEF493=I told H you weren't gonna show. Dumb motherfucker actually got excited.
+0x2AEEF493=我告诉H你不来了的时候，这个白痴其实很兴奋。
 
 ;0x3AA093F6=We were waiting for you for a while, bro. It's nice to know where we stand in your list of priorities, bro. Big T's cock must taste real good.
-0x3AA093F6=We were waiting for you for a while, bro. It's nice to know where we stand in your list of priorities, bro. Big T's cock must taste real good.
+0x3AA093F6=我们等了你很久，兄弟。很高兴能知道我们在你心中的地位有多低。大佬T的鸡巴一定很好吃吧。
 
 ;0x87472D4A=Me and Rique was thinking of trying to get on TV coz it seems you only like hanging with famous people now. Asshole.
-0x87472D4A=Me and Rique was thinking of trying to get on TV coz it seems you only like hanging with famous people now. Asshole.
+0x87472D4A=我和Rique在考虑上电视了，因为你现在好像只和名人来往了。混蛋。
 
 ;0x9511C8DF=Shit, bro. You need any hardware gimme a shout. I got a van all loaded up with the shit and I can sell it to you cheap.
-0x9511C8DF=Shit, bro. You need any hardware gimme a shout. I got a van all loaded up with the shit and I can sell it to you cheap.
+0x9511C8DF=妈的，兄弟。需要什么家伙了就打个电话，我有一车的货，可以便宜卖给你。
 
 ;0x6DF4FA9E=Yo, L. I got hold of some parachutes. You need one of them or any other hardware, call me and I'll come by in the van. Later.
-0x6DF4FA9E=Yo, L. I got hold of some parachutes. You need one of them or any other hardware, call me and I'll come by in the van. Later.
+0x6DF4FA9E=哟，L。我进了一些降落伞。需要降落伞或者其他装备，就给我打个电话。我会开车过来的。回见。
 
 ;0x9825F960=Mom
-0x9825F960=Mom
+0x9825F960=妈
 
 ;0xC79B3480=PLACEHOLDER
 0xC79B3480=PLACEHOLDER
@@ -1797,271 +1797,274 @@
 0x9ECA86AD=Rocco
 
 ;0x7740645B=I need you to help one of my boys, you available?
-0x7740645B=I need you to help one of my boys, you available?
+0x7740645B=我这儿需要你帮忙，有空吗？
 
 ;0x312FD83B=There's some people messing with my business, can you help sort this problem out?
-0x312FD83B=There's some people messing with my business, can you help sort this problem out?
+0x312FD83B=有人在妨碍我的生意，你能帮我解决吗？
 
 ;0x0D73E3FE=Henrique
 0x0D73E3FE=Henrique
 
 ;0x3C3D1A16=Yo bro where wer u? We waited. Hen
-0x3C3D1A16=Yo bro where wer u? We waited. Hen
+0x3C3D1A16=哟，兄弟，你人呢？我们等了好久。 Hen
 
 ;0x6A50763C=you forget about us bro?? We waz ment to meet. Hen
-0x6A50763C=you forget about us bro?? We waz ment to meet. Hen
+0x6A50763C=你忘记我们了吗，兄弟？？我们约好了的。 Hen
 
 ;0x588AD2B1=we waz supozed 2 meet muthafucka! Show up next time. Dam! Hen
-0x588AD2B1=we waz supozed 2 meet muthafucka! Show up next time. Dam! Hen
+0x588AD2B1=我们不是约好了吗，混蛋！下次记得来。妈的！ Hen
 
 ;0x6152642C=fukk bro. U didn't show and I had to hang with that moody muthafucka A all day. Gimme the heads up nxt time. Hen
-0x6152642C=fukk bro. U didn't show and I had to hang with that moody muthafucka A all day. Gimme the heads up nxt time. Hen
+0x6152642C=操了，兄弟。你不来，我就只能跟那个暴脾气混蛋处一天了。下次先说一声。 Hen
 
 ;0x500CC1A1=u ok bro? Ain't heard nuthing in a while. Hen
-0x500CC1A1=u ok bro? Ain't heard nuthing in a while. Hen
+0x500CC1A1=你好吗，兄弟？好久没你消息了。 Hen
 
 ;0x9EA35ECD=U in town bro. I aint hear nuthing in a time. A aint neither. We shuld hang
-0x9EA35ECD=U in town bro. I aint hear nuthing in a time. A aint neither. We shuld hang
+0x9EA35ECD=你在城里吧，兄弟。我和A好久没你消息了。有空一起玩吧。
 
 ;0x8C60BA48=where u be bro. Mando says u full gay in Westminster now. That tru?????? Hen
-0x8C60BA48=where u be bro. Mando says u full gay in Westminster now. That tru?????? Hen
+0x8C60BA48=你在哪呢，兄弟。Mando说你现在在Westminster区，彻底成了基佬。真的吗？？？？？？？ Hen
 
 ;0xB8501226=don't work too hard L. Specially if ur work is suckin dick. Me you and A shuld hang. Hen
-0xB8501226=don't work too hard L. Specially if ur work is suckin dick. Me you and A shuld hang. Hen
+0xB8501226=别光顾着工作，L。何况你的工作还是舔屌。我们找个机会出去玩吧。 Hen
 
 ;0xAF05FF92=where u go homie? We waz lookin. Hen
-0xAF05FF92=where u go homie? We waz lookin. Hen
+0xAF05FF92=你去哪了，哥们？我们在找你。 Hen
 
 ;0xAEBF40F0=yo bro. U eva need a car or sumthin gimme a call. I'll get it. Hen
-0xAEBF40F0=yo bro. U eva need a car or sumthin gimme a call. I'll get it. Hen
+0xAEBF40F0=哟，兄弟。需要车子就打电话给我，我会弄来的。 Hen
 
 ;0xE3F2AB56=yo L! I found where they store some F620s and Bullets. You need them or some other cars call me. Hen
-0xE3F2AB56=yo L! I found where they store some F620s and Bullets. You need them or some other cars call me. Hen
+0xE3F2AB56=哟，L！找到他们存放F620和Bullet的地方了。需要这两种车或者其他车就联系我吧。 Hen
 
 ;0xD315099B=u never believe this homie. NOOSE got these fuking tank things. Call me if you need me to boost one. Hen
-0xD315099B=u never believe this homie. NOOSE got these fuking tank things. Call me if you need me to boost one. Hen
+0xD315099B=你肯定不会相信的，哥们儿。NOOSE居然他妈有坦克。需要了就找我送一辆过来。 Hen
 
 ;0xF84F540F=yo man. Shit is borin on this corner. You ever in trouble I can come by in my pickup and bring you outta there. Just call me. Hen
-0xF84F540F=yo man. Shit is borin on this corner. You ever in trouble I can come by in my pickup and bring you outta there. Just call me. Hen
+0xF84F540F=哟，哥们。在这里卖货好无聊。你要是有麻烦，我可以开车过来带你脱困。打个电话就行。 Hen
 
 ;0x7779D266=you shoulda stayed at the club bro. Them ladys grinded the shit out me. Best day this week! Hen
-0x7779D266=you shoulda stayed at the club bro. Them ladys grinded the shit out me. Best day this week! Hen
+0x7779D266=你就不该离开俱乐部的，兄弟，那些娘们把我给榨干了。真是这周最棒的一天！ Hen
 
 ;0x29956997=Jojo
 0x29956997=Jojo
 
 ;0x59A02582=Come over and you'll get all this. JJ
-0x59A02582=Come over and you'll get all this. JJ
+0x59A02582=来找我，你就能得到了。 JJ
 
 ;0x4FD6920B=I'm feeling the burn, Luis. Come over and put it out. JJ
-0x4FD6920B=I'm feeling the burn, Luis. Come over and put it out. JJ
+0x4FD6920B=我现在欲火焚身，Luis。快来帮我灭火。 JJ
 
 ;0x624C36F6=Hard day and I need my Luis fix. Promise you won't have to do a thing. Come over ASAP. JJ
-0x624C36F6=Hard day and I need my Luis fix. Promise you won't have to do a thing. Come over ASAP. JJ
+0x624C36F6=忙了一天，我要跟Luis亲热。跟我保证你现在有空，快点过来。 JJ
 
 ;0x74695B30=Where were you? I thought you were going to be here. Let me know next time and I'll schedule someone else! JJ
-0x74695B30=Where were you? I thought you were going to be here. Let me know next time and I'll schedule someone else! JJ
+0x74695B30=你人呢？我还以为你会出现的。下次提前说，我好约别人！ JJ
 
 ;0x86A7FFAD=Sorry Luis. This just isn't fun anymore. Would have called but real busy. Take care. JJ
-0x86A7FFAD=Sorry Luis. This just isn't fun anymore. Would have called but real busy. Take care. JJ
+0x86A7FFAD=抱歉，Luis。我对你失去兴趣了。本来想打电话，但我真的太忙了。保重 JJ
 
 ;0xD586C17B=Taylor
 0xD586C17B=Taylor
 
 ;0x4FE4BEBD=How's Mommy look? Come see her in the flesh. T xx
-0x4FE4BEBD=How's Mommy look? Come see her in the flesh. T xx
+0x4FE4BEBD=娘子好看吗？亲自过来找她吧。 T xx
 
 ;0x3D9E1A30=Mommy wants some rough. Come round and give it to her. T xx
-0x3D9E1A30=Mommy wants some rough. Come round and give it to her. T xx
+0x3D9E1A30=娘子想被你粗暴对待。过来找她吧。 T xx
 
 ;0x88E530D9=I'm all alone at home. Come around. BTW - remember to use the staff entrance. T xx
-0x88E530D9=I'm all alone at home. Come around. BTW - remember to use the staff entrance. T xx
+0x88E530D9=我在家里好寂寞啊，快过来。顺便，记得走员工通道。 T xx
 
 ;0x7B229554=Where were you? I kept my boyf out the house forever thinking you were coming. Thanks a lot. T
-0x7B229554=Where were you? I kept my boyf out the house forever thinking you were coming. Thanks a lot. T
+0x7B229554=你人呢？我以为你会来，一直不让男友回来。多谢啊。 T
 
 ;0x6C61F7D3=Opps! Boyf found out about you. Mommy's a bad girl. No more treats if she keeps doing you. Sorry. T xx
-0x6C61F7D3=Opps! Boyf found out about you. Mommy's a bad girl. No more treats if she keeps doing you. Sorry. T xx
+0x6C61F7D3=糟了！男友发现你的事了，娘子是个坏姑娘。再跟你做她就要分手了。 T xx
 
 ;0xCB25ACB9=Vikky
 0xCB25ACB9=Vikky
 
 ;0x7604903E=Sneak peak of what u'll b getting if u come round right now! Vik xx
-0x7604903E=Sneak peak of what u'll b getting if u come round right now! Vik xx
+0x7604903E=图透一下，现在过来你你就能得到啦！ Vik xx
 
 ;0xA5B9EFA8=u must b tired running threw my head all day. :) come round. Vik xx
-0xA5B9EFA8=u must b tired running threw my head all day. :) come round. Vik xx
+0xA5B9EFA8=你在我的脑海里跑了一天，一定很累吧。 :) 来找我。 Vik xx
 
 ;0x93774B23=Get here now stud. Been thinkin about u! Need those hands on me! Vik xx
-0x93774B23=Get here now stud. Been thinkin about u! Need those hands on me! Vik xx
+0x93774B23=快过来，风流小子。我一直在想你！需要你温暖的大手抚摸！ Vik xx
 
 ;0xEDBA7FAC=thought u were coming over. Poo! Poo! Poo! Soon pls! Vik xx
-0xEDBA7FAC=thought u were coming over. Poo! Poo! Poo! Soon pls! Vik xx
+0xEDBA7FAC=我还以为你会来。大错特错了！拜托来一次吧！ Vik xx
 
 ;0xDB75DB23=umm... Hard 2 do, but things not working out... Need to call us off. Soz! Vik xxx
-0xDB75DB23=umm... Hard 2 do, but things not working out... Need to call us off. Soz! Vik xxx
+0xDB75DB23=呃...很难受，但不可能继续了...只能这样散了。抱歉！ Vik xxx
 
 ;0x92BFBBD2=Ana
 0x92BFBBD2=Ana
 
 ;0xDD7EF39A=Te gusta? Come around now, my matador! Besos
-0xDD7EF39A=Te gusta? Come around now, my matador! Besos
+0xDD7EF39A=中意吗？快来吧，我的斗牛士！ Besos
 
 ;0xD01B58D3=Mamma wants to gobble down your little croqueta. Come to me. Besos
-0xD01B58D3=Mamma wants to gobble down your little croqueta. Come to me. Besos
+0xD01B58D3=老娘想要吞下你的小可乐饼。来找我。 亲亲
 
 ;0xB5D42445=My day has been so bland. I need some spice to give it excitement. Please come around. Besos
-0xB5D42445=My day has been so bland. I need some spice to give it excitement. Please come around. Besos
+0xB5D42445=我的生活如此乏味，需要一些香辛料才能得到色彩。你快来吧。 亲亲
 
 ;0xA59683CA=My bed stayed cold. You do not need to apologize. The matador is meant to have many mistresses. Just do not forget our heat together. Besos.
-0xA59683CA=My bed stayed cold. You do not need to apologize. The matador is meant to have many mistresses. Just do not forget our heat together. Besos.
+0xA59683CA=我的床还是那么冰冷。你没必要道歉的，斗牛士确实会有很多女主人。只是别忘了我们在一起时的干柴烈火。 亲亲
 
 ;0x1B196ECE=Matador, our brief, turbulent affair is over. I wish you heat and love on the rest of your journey. Besos
-0x1B196ECE=Matador, our brief, turbulent affair is over. I wish you heat and love on the rest of your journey. Besos
+0x1B196ECE=斗牛士，长话短说吧，儿女情长该结束了。希望你在接下来的旅途中也会遇到热情的爱。
 
 ;0xC01E941B=Dana
 0xC01E941B=Dana
 
 ;0xAACFC901=Hey look - no airbrushing. Come around 2 mine for the full catwalk show. ;)
-0xAACFC901=Hey look - no airbrushing. Come around 2 mine for the full catwalk show. ;)
+0xAACFC901=嘿，快看，无修的图。快来我家看完整的时装秀。 ;)
 
 ;0xD04913F3=Hey Dude, I need a work out. Come by and give me 1. ;)
-0xD04913F3=Hey Dude, I need a work out. Come by and give me 1. ;)
+0xD04913F3=嘿，老兄，我想跟你来一发。快来满足我吧。 ;)
 
 ;0x049C7C99=I just got waxed like a baby for this shoot. Stop by and enjoy it. :-o
-0x049C7C99=I just got waxed like a baby for this shoot. Stop by and enjoy it. :-o
+0x049C7C99=为了拍这张照，我特意做了个蜜蜡脱毛。快来享用吧。 :-o
 
 ;0xF3B1DAC4=ummm. :-/ where were you? Time is $, motherfucker!! :(
-0xF3B1DAC4=ummm. :-/ where were you? Time is $, motherfucker!! :(
+0xF3B1DAC4=呃... :-/ 你去哪了？时间就是$，混蛋！！ :(
 
 ;0x19F62750=Sorry, dude. Upgrading 2 a better model. Don't get 2 :(
-0x19F62750=Sorry, dude. Upgrading 2 a better model. Don't get 2 :(
+0x19F62750=抱歉，老兄，我要成为更好的模特。别太 :(
 
 ;0x5D73CEAB=Cindy
 0x5D73CEAB=Cindy
 
 ;0x878FFA0F=Hey Sugar, I've got a craving for somehting sweet. U free? xx
-0x878FFA0F=Hey Sugar, I've got a craving for somehting sweet. U free? xx
+0x878FFA0F=嘿，甜心，我现在很渴望快感。你有空吗？ xx
 
 ;0x41DCEEA6=A girl gets kind of lonely in this city. If only someone would come around and keep her entertained...
-0x41DCEEA6=A girl gets kind of lonely in this city. If only someone would come around and keep her entertained...
+0x41DCEEA6=在这座城市，我一个女孩子还是有点寂寞。真希望能有人给我带来乐趣啊...
 
 ;0x241BB324=What's a girl got to do to get some action in this town?! I'll be at my apartment for a bit if you wanna come by.xx
-0x241BB324=What's a girl got to do to get some action in this town?! I'll be at my apartment for a bit if you wanna come by.xx
+0x241BB324=女孩子要怎么做，才能在自由城得到鱼水之欢？！我现在在公寓里，你想来就来吧。 xx
 
 ;0xAC6343B5=I guess something came up, Sugar. I got to get used to people in LC not calling to cancel. I'll learn one day!
-0xAC6343B5=I guess something came up, Sugar. I got to get used to people in LC not calling to cancel. I'll learn one day!
+0xAC6343B5=你一定是有急事吧，甜心。我会慢慢适应自由城不说一声就不来的习俗的。我会适应这里的！
 
 ;0xBEA56839=Hey Sugar, hate to do this by txt, but seems like the LC way. Stuff ain't working out. Take care. xx
-0xBEA56839=Hey Sugar, hate to do this by txt, but seems like the LC way. Stuff ain't working out. Take care. xx
+0xBEA56839=嘿，甜心，我也不想发短信说这种事，但这似乎是自由城的作派。我们不可能了，保重。 xx
 
 ;0x6EC0F145=Tania
 0x6EC0F145=Tania
 
 ;0x8DAF88D1=Oi! Get ur arse around here and sort me out! I'm gagging for it!
-0x8DAF88D1=Oi! Get ur arse around here and sort me out! I'm gagging for it!
+0x8DAF88D1=喂！快他妈过来满足我！我要忍不住了！
 
 ;0x732F53D5=Woteva, stop being a nonce and come round here! I'm gagging.
-0x732F53D5=Woteva, stop being a nonce and come round here! I'm gagging.
+0x732F53D5=算了，别那么混蛋，过来找我！我忍不住了！
 
 ;0x88717E59=Are you going to be a poof or are you coming round here to smash my back doors down. I'm waiting!
-0x88717E59=Are you going to be a poof or are you coming round here to smash my back doors down. I'm waiting!
+0x88717E59=你是要做一个娘炮，还是过来轰入我的后门？我等着你！
 
 ;0x0878FE62=Oi, you vain twat. Where the fuck were you? Wotevz, bruv.
-0x0878FE62=Oi, you vain twat. Where the fuck were you? Wotevz, bruv.
+0x0878FE62=喂，你这个自大狂，你他妈人呢？算了，兄弟。
 
 ;0xD6BB1AE7=Listen bruv, can't keep doing this. I'm an independent woman, innit. Latz.
-0xD6BB1AE7=Listen bruv, can't keep doing this. I'm an independent woman, innit. Latz.
+0xD6BB1AE7=听着，兄弟，不能再这样了。我是一个独立女性，懂吧。再见。
 
 ;0x7A1C87FC=Lily
 0x7A1C87FC=Lily
 
 ;0xB8034C4D=I'm bored enough to take photos of myself. Want to find out what else I'm bored enough to do?
-0xB8034C4D=I'm bored enough to take photos of myself. Want to find out what else I'm bored enough to do?
+0xB8034C4D=我已经玩自拍玩腻了。想知道还有什么是我玩腻了的吗？
 
 ;0xE369A319=Right. I'm bored. Get round here.
-0xE369A319=Right. I'm bored. Get round here.
+0xE369A319=我好无聊啊。快来找我。
+;我好无聊啊。快来找我。【这条超过8个字会在短信列表中换行(显示两行)，导致手机画面卡死且收不回去。】
+;【她的其他短信不会出现这个问题，只有这一条会】
+;【其他女友的短信未测试】
 
 ;0xD5A00786=Not here for much longer. Want to remind me why I love soming bak to Liberty City?
-0xD5A00786=Not here for much longer. Want to remind me why I love soming bak to Liberty City?
+0xD5A00786=你好久没来了。可以来让我想起我爱来自由城的原因吗？
 
 ;0xFEEF5A24=Really not here for long enough to get messed round like this. Please don't stand me up again.
-0xFEEF5A24=Really not here for long enough to get messed round like this. Please don't stand me up again.
+0xFEEF5A24=好久没有一起做过了。别再放我鸽子了。
 
 ;0x114EFEDF=I'm off! Give me a shout if you're ever over my way. Big kiss.
-0x114EFEDF=I'm off! Give me a shout if you're ever over my way. Big kiss.
+0x114EFEDF=我不玩了！你要是对我有过感情，就跟我说一声。爱你。
 
 ;0x8BCEAB60=Tami
 0x8BCEAB60=Tami
 
 ;0x904706E0=Hey papi. Where u at? This shit's waiting for you!
-0x904706E0=Hey papi. Where u at? This shit's waiting for you!
+0x904706E0=嘿，汉子。你在哪儿呢？我现在正等着你！
 
 ;0x9F94A57B=Diga me, papi? Where u be? I need ur ass!
-0x9F94A57B=Diga me, papi? Where u be? I need ur ass!
+0x9F94A57B=告诉我，汉子，你在哪里？我需要你！
 
 ;0xCCB3FFB9=Oh papi! Papi! I'm getting muy caliente just thinking 'bout you. Get here pronto!
-0xCCB3FFB9=Oh papi! Papi! I'm getting muy caliente just thinking 'bout you. Get here pronto!
+0xCCB3FFB9=噢，汉子！汉子！光是想到你就让我浑身燥热。快过来啊！
 
 ;0x55F6123F=You turn stupid all of a sudden, papi? Where the fuck was u?
-0x55F6123F=You turn stupid all of a sudden, papi? Where the fuck was u?
+0x55F6123F=你是一下子变傻了吗，汉子？你他妈去哪了？
 
 ;0x670FB472=Yo, papi. I'm done with your ass. You gonna have to stick that thing of yours somewhere else. Sorry.
-0x670FB472=Yo, papi. I'm done with your ass. You gonna have to stick that thing of yours somewhere else. Sorry.
+0x670FB472=哟，汉子，我和你结束了。你还是换个地方插你那玩意吧。抱歉。
 
 ;0x476D22BA=Domino
 0x476D22BA=Domino
 
 ;0xCCC395A1=Time for the second act, sweetheart. Come on down.
-0xCCC395A1=Time for the second act, sweetheart. Come on down.
+0xCCC395A1=该上演第二幕了，甜心。快来吧。
 
 ;0x498F8F3B=I've got a feeling I'm about to give my best performance. Get here.
-0x498F8F3B=I've got a feeling I'm about to give my best performance. Get here.
+0x498F8F3B=我现在的状态很好，可以带来最好的表现。速来。
 
 ;0x78506CBC=Call time, baby. Come around and impress me!
-0x78506CBC=Call time, baby. Come around and impress me!
+0x78506CBC=到点了，宝贝。快来满足我吧！
 
 ;0x656246E0=Think we must have got some crossed wires, I thought we were meant to meet up? Ummmm....
-0x656246E0=Think we must have got some crossed wires, I thought we were meant to meet up? Ummmm....
+0x656246E0=我们是不是误会了什么，好像说好了要见面的吧？呃...
 
 ;0x93CC23B3=Please don't call me again. Could get awkward. Later on, loser.
-0x93CC23B3=Please don't call me again. Could get awkward. Later on, loser.
+0x93CC23B3=请不要再联系我了，会很尴尬的。再见，失败者。
 
 ;0x16B1413F=Heidi
 0x16B1413F=Heidi
 
 ;0x24E01D6D=Come by soon, darling. I've got something to show you that isn't in the pic... H xx
-0x24E01D6D=Come by soon, darling. I've got something to show you that isn't in the pic... H xx
+0x24E01D6D=快来啊，亲爱的。我要给你看看照片里没拍到的东西... H xx
 
 ;0x3321B9F0=Come on over, darling. Just bought a new toy. H xx
-0x3321B9F0=Come on over, darling. Just bought a new toy. H xx
+0x3321B9F0=快来啊，亲爱的。我刚买了个新玩具。 H xx
 
 ;0x09596660=Come by, babes. Feeling toned post yoga, and need you to unwind me. H xx
-0x09596660=Come by, babes. Feeling toned post yoga, and need you to unwind me. H xx
+0x09596660=快来，宝贝。做完瑜伽感觉有点累，需要你来帮我放松。 H xx
 
 ;0x7A36C7FD=Hold up, babes. Think you got the power balance confused just now I'm the one who's meant to stand you up. Don't do it again. H xx
-0x7A36C7FD=Hold up, babes. Think you got the power balance confused just now I'm the one who's meant to stand you up. Don't do it again. H xx
+0x7A36C7FD=等一下，宝贝，你好像搞错了我俩的关系，我才是有权放鸽子的人。别再鸽我了。 H xx
 
 ;0xA26D1869=Moving on, moving up, love. Don't forget me. Toodles! H xx
-0xA26D1869=Moving on, moving up, love. Don't forget me. Toodles! H xx
+0xA26D1869=向前进，向上走，亲爱的。勿忘我。拜拜啦！ H xx
 
 ;0x60F155C2=Simone
 0x60F155C2=Simone
 
 ;0xF0DED1E8=Me want snuggles. Come see me soon. xoxo
-0xF0DED1E8=Me want snuggles. Come see me soon. xoxo
+0xF0DED1E8=我想要你的怀抱，快来找我。么么
 
 ;0xDE1EAC68=Smooches and snugs soon pls. Waiting now... xoxo
-0xDE1EAC68=Smooches and snugs soon pls. Waiting now... xoxo
+0xDE1EAC68=要亲亲，要抱抱。我等着你...么么
 
 ;0x5B51A6D0=baby needs her blankee. Me suck suck all night long. You know where to come. xoxo
-0x5B51A6D0=baby needs her blankee. Me suck suck all night long. You know where to come. xoxo
+0x5B51A6D0=宝宝需要她的毯子，我一整晚都要吸吸。你知道我在哪儿的。么么
 
 ;0x4899015F=Didn't get those snuggles you promised! Made me really sad. xoxo
-0x4899015F=Didn't get those snuggles you promised! Made me really sad. xoxo
+0x4899015F=没有得到说好的抱抱！宝宝哭哭。么么
 
 ;0x37E7DFFD=I don't think you're taking this seriously enough. Please don't call again. Been through this before sadly. xoxoxoxox
-0x37E7DFFD=I don't think you're taking this seriously enough. Please don't call again. Been through this before sadly. xoxoxoxox
+0x37E7DFFD=我觉得你对这份感情不够认真，别再联系我了。之前就经历过这种事了。么么么么
 
 ;0xED416C3C=Secret
 0xED416C3C=Secret
@@ -2103,478 +2106,478 @@
 0x4FE4B898=THIS LABEL NEEDS TO BE HERE !!!
 
 ;0xE2C1DD00=~s~Tony is not here during the day. Go to his apartment.
-0xE2C1DD00=~s~Tony is not here during the day. Go to his apartment.
+0xE2C1DD00=~s~Tony白天不在这儿。去他的公寓找他。
 
 ;0xB44DFB2A=~s~Tony is not here during the day. Try again between 7pm and 7am.
-0xB44DFB2A=~s~Tony is not here during the day. Try again between 7pm and 7am.
+0xB44DFB2A=~s~Tony白天不在这儿。晚七点到早七点间再来吧。
 
 ;0xFD21F166=~s~Tony is not at home at night. He is working in the clubs.
-0xFD21F166=~s~Tony is not at home at night. He is working in the clubs.
+0xFD21F166=~s~Tony晚上不在家。他现在在夜店上班。
 
 ;0x82651A2B=~s~Tony is not at home at night. Try again between 7am and 7pm.
-0x82651A2B=~s~Tony is not at home at night. Try again between 7am and 7pm.
+0x82651A2B=~s~Tony晚上不在家。早七点到晚七点间再来吧。
 
 ;0x37328BD3=~s~Press ~INPUT_PICKUP~ to enter L.C. Cage Fighters.
-0x37328BD3=~s~Press ~INPUT_PICKUP~ to enter L.C. Cage Fighters.
+0x37328BD3=~s~按~INPUT_PICKUP~进入自由城铁笼格斗。
 
 ;0x664C8571=~s~Come back when you're not on a mission.
-0x664C8571=~s~Come back when you're not on a mission.
+0x664C8571=~s~请在非任务期间再来。
 
 ;0x0CB34E6F=~s~Another fight will be on soon, come back in a while.
-0x0CB34E6F=~s~Another fight will be on soon, come back in a while.
+0x0CB34E6F=~s~下一场比赛还在准备，过会儿再来吧。
 
 ;0x24C0D9B2=~s~Repeatedly hit ~INPUT_SPRINT~ to escape the crowd.
-0x24C0D9B2=~s~Repeatedly hit ~INPUT_SPRINT~ to escape the crowd.
+0x24C0D9B2=~s~连按~INPUT_SPRINT~挣脱人群。
 
 ;0x91C65553=Press ~INPUT_PICKUP~ to play golf.
-0x91C65553=Press ~INPUT_PICKUP~ to play golf.
+0x91C65553=按~INPUT_PICKUP~打高尔夫。
 
 ;0xA3D9B6D4=Who do you want to play golf with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
-0xA3D9B6D4=Who do you want to play golf with?~n~Press ~PAD_A~ to play Armando.~n~Press ~PAD_B~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
+0xA3D9B6D4=你想和谁打高尔夫？~n~按~PAD_A~和Armando打。~n~按~PAD_B~和Henrique打。~n~按~INPUT_PICKUP~退出。
 
 ;0x8AD9788C=Who do you want to play golf with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
-0x8AD9788C=Who do you want to play golf with?~n~Press ~INPUT_FRONTEND_MINIGAME_1~ to play Armando.~n~Press ~INPUT_FRONTEND_MINIGAME_2~ to play Henrique.~n~Press ~INPUT_PICKUP~ to exit.
+0x8AD9788C=你想和谁打高尔夫？~n~按~INPUT_FRONTEND_MINIGAME_1~和Armando打。~n~按~INPUT_FRONTEND_MINIGAME_2~和Henrique打。~n~按~INPUT_PICKUP~退出。
 
 ;0xC608EDD6=The driving range is temporarily closed.
-0xC608EDD6=The driving range is temporarily closed.
+0xC608EDD6=练球场暂时关门了。
 
 ;0x137E7BC0=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
-0x137E7BC0=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0x137E7BC0=用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。
 
 ;0xEA215F01=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_MOUSE_RMB~ to view different cameras.
-0xEA215F01=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_MOUSE_RMB~ to view different cameras.
+0xEA215F01=用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按住~INPUT_MOUSE_RMB~查看不同视角。
 
 ;0x8554CA44=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~PAD_LT~ and ~PAD_RT~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
-0x8554CA44=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~PAD_LT~ and ~PAD_RT~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0x8554CA44=用~PAD_LSTICK_ALL~控制身体重心。~n~按~PAD_LT~或~PAD_RT~进行急转。~n~按~INPUT_ENTER~抛弃降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。
 
 ;0x6AC25A30=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
-0x6AC25A30=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+0x6AC25A30=用~PAD_LSTICK_ALL~控制身体重心。~n~按~INPUT_MOUSE_LMB~或~INPUT_MOUSE_RMB~进行急转。~n~按~INPUT_ENTER~抛弃降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。
 
 ;0xE8032E81=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~PAD_LB~ and ~PAD_RB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
-0xE8032E81=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~PAD_LB~ and ~PAD_RB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0xE8032E81=用~PAD_LSTICK_ALL~控制身体重心。~n~按~PAD_LB~或~PAD_RB~进行急转。~n~按~INPUT_ENTER~脱离降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。
 
 ;0x416E3A2D=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
-0x416E3A2D=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+0x416E3A2D=用~PAD_LSTICK_ALL~控制身体重心。~n~按~INPUT_MOUSE_LMB~或~INPUT_MOUSE_RMB~进行急转。~n~按~INPUT_ENTER~脱离降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。
 
 ;0xB6738845=Open your parachute.
-0xB6738845=Open your parachute.
+0xB6738845=打开降落伞。
 
 ;0xCCD84A8A=Press ~INPUT_ATTACK~ to put on the parachute.
-0xCCD84A8A=Press ~INPUT_ATTACK~ to put on the parachute.
+0xCCD84A8A=按~INPUT_ATTACK~装备降落伞。
 
 ;0xA5FF24CC=Press ~INPUT_PICKUP~ to jump from this building.
-0xA5FF24CC=Press ~INPUT_PICKUP~ to jump from this building.
+0xA5FF24CC=按~INPUT_PICKUP~在这栋大楼跳伞。
 
 ;0xF71372A1=Press ~INPUT_PICKUP~ to be airlifted for a base jump.
-0xF71372A1=Press ~INPUT_PICKUP~ to be airlifted for a base jump.
+0xF71372A1=按~INPUT_PICKUP~乘坐直升机跳伞。
 
 ;0x25BA7F09=Move ~INPUT_LOOK_UP~ up and down to shake the bottle. Press ~INPUT_FRONTEND_ACCEPT~ to pop the cork. Press ~INPUT_PICKUP~ to quit at any time.
-0x25BA7F09=Move ~INPUT_LOOK_UP~ up and down to shake the bottle. Press ~INPUT_FRONTEND_ACCEPT~ to pop the cork. Press ~INPUT_PICKUP~ to quit at any time.
+0x25BA7F09=上下移动~INPUT_LOOK_UP~晃动酒瓶。按~INPUT_FRONTEND_ACCEPT~开瓶。按~INPUT_PICKUP~可随时退出。
 
 ;0xDD607F9F=Move ~PAD_RSTICK_ALL~ up and down to shake the bottle. Press ~INPUT_MOUSE_LMB~ to pop the cork. Press ~INPUT_PICKUP~ to quit at any time.
-0xDD607F9F=Move ~PAD_RSTICK_ALL~ up and down to shake the bottle. Press ~INPUT_MOUSE_LMB~ to pop the cork. Press ~INPUT_PICKUP~ to quit at any time.
+0xDD607F9F=上下移动~PAD_RSTICK_ALL~晃动酒瓶。按~INPUT_MOUSE_LMB~开瓶。按~INPUT_PICKUP~可随时退出。
 
 ;0x0F785285=Rotate ~PAD_RSTICK_ROTATE~ at a steady speed to take a drink. Press ~INPUT_PICKUP~ to quit.
-0x0F785285=Rotate ~PAD_RSTICK_ROTATE~ at a steady speed to take a drink. Press ~INPUT_PICKUP~ to quit.
+0x0F785285=匀速转动~PAD_RSTICK_ROTATE~喝酒。按~INPUT_PICKUP~退出。
 
 ;0xA605D81B=Rotate ~PAD_RSTICK_ALL~ at a steady speed to take a drink. Press ~INPUT_PICKUP~ to quit.
-0xA605D81B=Rotate ~PAD_RSTICK_ALL~ at a steady speed to take a drink. Press ~INPUT_PICKUP~ to quit.
+0xA605D81B=匀速转动~PAD_RSTICK_ALL~喝酒。按~INPUT_PICKUP~退出。
 
 ;0x56BBE10F=~s~Move ~PAD_RSTICK_LEFTRIGHT~ to spray the champagne.
-0x56BBE10F=~s~Move ~PAD_RSTICK_LEFTRIGHT~ to spray the champagne.
+0x56BBE10F=~s~移动~PAD_RSTICK_LEFTRIGHT~喷洒香槟。
 
 ;0x01A0C819=~s~Move ~PAD_RSTICK_ALL~ left or right to spray the champagne.
-0x01A0C819=~s~Move ~PAD_RSTICK_ALL~ left or right to spray the champagne.
+0x01A0C819=~s~移动~PAD_RSTICK_ALL~喷洒香槟。
 
 ;0xD523AB40=Press ~INPUT_PICKUP~ to drink a shot. Drinks are on the house.
-0xD523AB40=Press ~INPUT_PICKUP~ to drink a shot. Drinks are on the house.
+0xD523AB40=按~INPUT_PICKUP~喝一杯。酒水不收费。
 
 ;0x1675D483=Press ~INPUT_PICKUP~ to start a champagne drink off.
-0x1675D483=Press ~INPUT_PICKUP~ to start a champagne drink off.
+0x1675D483=按~INPUT_PICKUP~进行香槟对吹。
 
 ;0xFFF9DD7A=Press ~INPUT_PICKUP~ to quit.
-0xFFF9DD7A=Press ~INPUT_PICKUP~ to quit.
+0xFFF9DD7A=按~INPUT_PICKUP~退出。
 
 ;0xD959F47E=Go to the ~BLIP_106~ icon to take part in different base jumping activites.
-0xD959F47E=Go to the ~BLIP_106~ icon to take part in different base jumping activites.
+0xD959F47E=前往~BLIP_106~图标可以进行低空跳伞。
 
 ;0xBBD35EC1=Go to the ~BLIP_120~ icon to take part in L.C. Cage Fighters and become Liberty City's top brawler.
-0xBBD35EC1=Go to the ~BLIP_120~ icon to take part in L.C. Cage Fighters and become Liberty City's top brawler.
+0xBBD35EC1=前往~BLIP_120~图标参加自由城铁笼格斗，成为自由城拳王。
 
 ;0x2A69778C=Go to the ~BLIP_108~ icon to help out Armando and Henrique in drug wars.
-0x2A69778C=Go to the ~BLIP_108~ icon to help out Armando and Henrique in drug wars.
+0x2A69778C=前往~BLIP_108~图标协助Armando和Henrique的毒品战争。
 
 ;0xD332694A=Go to the ~BLIP_65~ icon to take part in multiple vehicle races.
-0xD332694A=Go to the ~BLIP_65~ icon to take part in multiple vehicle races.
+0xD332694A=前往~BLIP_65~图标参加铁人三项。
 
 ;0x079DAA64=The main story has now been completed. You can repeat missions via the phone. Go to 'missions' then choose the mission you want to repeat. You can repeat missions as many times as you wish.
-0x079DAA64=The main story has now been completed. You can repeat missions via the phone. Go to 'missions' then choose the mission you want to repeat. You can repeat missions as many times as you wish.
+0x079DAA64=主线剧情已完成，你可以通过手机重玩之前的任务。在「任务」中进行选择，就可以无限制地重玩所有任务。
 
 ;0xF3D5DAC2=Go to the ~BLIP_121~ icon in Maisonette 9 during its opening times of 9pm-5am to partake in the club management job.
-0xF3D5DAC2=Go to the ~BLIP_121~ icon in Maisonette 9 during its opening times of 9pm-5am to partake in the club management job.
+0xF3D5DAC2=晚上九点到早上五点之间，你可以前往9号豪宅内的~BLIP_121~图标参与夜店经营。
 
 ;0x7CF390FF=Yusuf's Buzzard will be available here at the helipad whenever you need it.
-0x7CF390FF=Yusuf's Buzzard will be available here at the helipad whenever you need it.
+0x7CF390FF=你随时可以在停机坪找到Yusuf的秃鹰直升机。
 
 ;0xE6E52966=Yusuf's NOOSE Tank will be available here at the Building Site whenever you need it.
-0xE6E52966=Yusuf's NOOSE Tank will be available here at the Building Site whenever you need it.
+0xE6E52966=你随时可以在建筑工地找到Yusuf的NOOSE坦克。
 
 ;0xD777B90E=Yusuf's Super Drop Diamond will be available here at his apartment whenever you need it.
-0xD777B90E=Yusuf's Super Drop Diamond will be available here at his apartment whenever you need it.
+0xD777B90E=你随时可以在Yusuf的公寓门口找到他的Super Drop Diamond。
 
 ;0x7BCEC81F=Yusuf's Tank
-0x7BCEC81F=Yusuf's Tank
+0x7BCEC81F=Yusuf的坦克
 
 ;0x74BD25DC=Yusuf's Buzzard
-0x74BD25DC=Yusuf's Buzzard
+0x74BD25DC=Yusuf的秃鹰
 
 ;0xA45C1783=Yusuf's SuperDD
-0xA45C1783=Yusuf's SuperDD
+0xA45C1783=Yusuf的SuperDD
 
 ;0x956B30EF=You are leaving ~b~Armando~s~ and ~b~Henrique~s~ behind.
-0x956B30EF=You are leaving ~b~Armando~s~ and ~b~Henrique~s~ behind.
+0x956B30EF=你把~b~Armando~s~和~b~Henrique~s~落下了。
 
 ;0x769A3880=You are leaving ~b~Armando~s~ behind.
-0x769A3880=You are leaving ~b~Armando~s~ behind.
+0x769A3880=你把~b~Armando~s~落下了。
 
 ;0xAC2263F6=You are leaving ~b~Henrique~s~ behind.
-0xAC2263F6=You are leaving ~b~Henrique~s~ behind.
+0xAC2263F6=你把~b~Henrique~s~落下了。
 
 ;0xFF5A3E11=You have arranged to hang out with your friends. Meet them by going towards the ~BLIP_105~ on the radar.
-0xFF5A3E11=You have arranged to hang out with your friends. Meet them by going towards the ~BLIP_105~ on the radar.
+0xFF5A3E11=你已和你的朋友安排了活动。去小地图上的~BLIP_105~接他们。
 
 ;0x44987252=You have arranged to hang out with your friends. Meet them by going towards the ~BLIP_98~ on the radar.
-0x44987252=You have arranged to hang out with your friends. Meet them by going towards the ~BLIP_98~ on the radar.
+0x44987252=你已和你的朋友安排了活动。去小地图上的~BLIP_98~接他们。
 
 ;0x86FED73B=You can cancel an activity after it has been arranged. Use the option on the phone under your friend's name. They will prefer to be warned than stood up.
-0x86FED73B=You can cancel an activity after it has been arranged. Use the option on the phone under your friend's name. They will prefer to be warned than stood up.
+0x86FED73B=在安排活动后你仍然可以取消它。使用手机中对应朋友下的选项取消。比起被放鸽子，他们更乐意事先得到通知。
 
 ;0x878BBB68=You can take Armando and Henrique to the location of any activity marked on the radar. As you drive other nearby activities will appear on the radar.
-0x878BBB68=You can take Armando and Henrique to the location of any activity marked on the radar. As you drive other nearby activities will appear on the radar.
+0x878BBB68=你可以带Armando和Henrique去小地图上标记的任何地点。驾驶途中，小地图上还会显示附近的其它活动地点。
 
 ;0xE4C99E21=You have completed an activity with Armando and Henrique. You can drop them off or go on another activity. You can take them on up to 4 activities.
-0xE4C99E21=You have completed an activity with Armando and Henrique. You can drop them off or go on another activity. You can take them on up to 4 activities.
+0xE4C99E21=你已与Armando和Henrique完成了一项活动。送他们回家或再进行一项其他活动。一次约会最多进行四项活动。
 
 ;0x8CED0910=Armando and Henrique are ready to be dropped off now.
 0x8CED0910=Armando and Henrique are ready to be dropped off now.
 
 ;0xB257D22C=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance. You'll sober up soon.
-0xB257D22C=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance. You'll sober up soon.
+0xB257D22C=你醉了。你会视线模糊，行走与驾驶都十分困难。尽量保持平衡。很快你就会清醒的。
 
 ;0x4A69685C=Stop near Armando and Henrique or toot the horn to attract their attention.
-0x4A69685C=Stop near Armando and Henrique or toot the horn to attract their attention.
+0x4A69685C=停到Armando和Henrique附近，或鸣笛引起他们的注意。
 
 ;0x67663398=Stop near Armando and Henrique or toot the horn to attract their attention.
-0x67663398=Stop near Armando and Henrique or toot the horn to attract their attention.
+0x67663398=停到Armando和Henrique附近，或鸣笛引起他们的注意。
 
 ;0xBB7EDD10=Land close to Armando and Henrique to attract their attention.
-0xBB7EDD10=Land close to Armando and Henrique to attract their attention.
+0xBB7EDD10=降落到Armando和Henrique附近，引起他们的注意。
 
 ;0x6337B54E=~r~You left your friends behind.
-0x6337B54E=~r~You left your friends behind.
+0x6337B54E=~r~你丢下了你的朋友。
 
 ;0x73D488F5=~r~You left Armando behind.
-0x73D488F5=~r~You left Armando behind.
+0x73D488F5=~r~你丢下了Armando。
 
 ;0x85022B50=~r~You left Henrique behind.
-0x85022B50=~r~You left Henrique behind.
+0x85022B50=~r~你丢下了Henrique。
 
 ;0x0FA4886E=~r~You injured Armando and Henrique.
-0x0FA4886E=~r~You injured Armando and Henrique.
+0x0FA4886E=~r~你伤害了Armando和Henrique。
 
 ;0xD0B3BB9F=~r~Armando and Henrique are injured.
-0xD0B3BB9F=~r~Armando and Henrique are injured.
+0xD0B3BB9F=~r~Armando和Henrique受伤了。
 
 ;0xF5D19942=~r~You injured Armando.
-0xF5D19942=~r~You injured Armando.
+0xF5D19942=~r~你伤害了Armando。
 
 ;0x6DA3BD9C=~r~Armando is injured.
-0x6DA3BD9C=~r~Armando is injured.
+0x6DA3BD9C=~r~Armando受伤了。
 
 ;0xBAAB22F6=~r~You injured Henrique.
-0xBAAB22F6=~r~You injured Henrique.
+0xBAAB22F6=~r~你伤害了Henrique。
 
 ;0xED193C8D=~r~Henrique is injured.
-0xED193C8D=~r~Henrique is injured.
+0xED193C8D=~r~Henrique受伤了。
 
 ;0x9051DDE0=Tony
 0x9051DDE0=Tony
 
 ;0x28635590=Target
-0x28635590=Target
+0x28635590=目标
 
 ;0x8F31EE01=Train
-0x8F31EE01=Train
+0x8F31EE01=列车
 
 ;0xA60A632C=Plane
-0xA60A632C=Plane
+0xA60A632C=飞机
 
 ;0xA72F50CA=Ahmed
 0xA72F50CA=Ahmed
 
 ;0x8333ED67=Ahmed and Tahir
-0x8333ED67=Ahmed and Tahir
+0x8333ED67=Ahmed和Tahir
 
 ;0x36275B99=Front Carriage
-0x36275B99=Front Carriage
+0x36275B99=车头
 
 ;0xA581DDD1=Lose the cops.
-0xA581DDD1=Lose the cops.
+0xA581DDD1=甩掉警察。
 
 ;0x400C26AB=THIS LABEL NEEDS TO BE HERE !!!
 0x400C26AB=THIS LABEL NEEDS TO BE HERE !!!
 
 ;0x4D809984=I luv LC
-0x4D809984=I luv LC
+0x4D809984=我爱自由城
 
 ;0x3F46FD11=Chinese Takeout
-0x3F46FD11=Chinese Takeout
+0x3F46FD11=中国外卖
 
 ;0x2B25D4CF=Practice Swing
-0x2B25D4CF=Practice Swing
+0x2B25D4CF=挥杆练习
 
 ;0x04E4884D=Blog This!...
-0x04E4884D=Blog This!...
+0x04E4884D=写篇博客！...
 
 ;0xF680EB86=Boulevard Baby
-0xF680EB86=Boulevard Baby
+0xF680EB86=绿荫红颜
 
 ;0xE0CAC01A=...Blog This!
-0xE0CAC01A=...Blog This!
+0xE0CAC01A=...写篇博客！
 
 ;0xD7EBAE5C=Bang Bang
-0xD7EBAE5C=Bang Bang
+0xD7EBAE5C=砰砰
 
 ;0xC22D82E0=Frosting On The Cake
-0xC22D82E0=Frosting On The Cake
+0xC22D82E0=蛋糕上的糖霜
 
 ;0xB316E4B3=Not So Fast
-0xB316E4B3=Not So Fast
+0xB316E4B3=欲速则不达
 
 ;0xCF07C178=Ladies' Night
-0xCF07C178=Ladies' Night
+0xCF07C178=淑女之夜
 
 ;0xE14765F7=Ladies Half Price
-0xE14765F7=Ladies Half Price
+0xE14765F7=女士半价
 
 ;0x6D6F7E4D=Departure Time
-0x6D6F7E4D=Departure Time
+0x6D6F7E4D=离港时间
 
 ;0x36C410F7=Kibbutz Number One
-0x36C410F7=Kibbutz Number One
+0x36C410F7=Kibbutz大哥
 
 ;0x4955B61A=This Ain't Checkers
-0x4955B61A=This Ain't Checkers
+0x4955B61A=落子无悔
 
 ;0x24456BFA=No. 3
-0x24456BFA=No. 3
+0x24456BFA=第三
 
 ;0x9FA262B2=Chop Chop (Heli Courier) - OBSOLETE
 0x9FA262B2=Chop Chop (Heli Courier) - OBSOLETE
 
 ;0x71B986E1=Sexy Time
-0x71B986E1=Sexy Time
+0x71B986E1=纵情时刻
 
 ;0x806F244C=High Dive
-0x806F244C=High Dive
+0x806F244C=高空跳台
 
 ;0x5B2CD9C8=Caught With Your Pants Down
-0x5B2CD9C8=Caught With Your Pants Down
+0x5B2CD9C8=原形毕露
 
 ;0xAF8B0367=For The Man Who Has Everything
-0xAF8B0367=For The Man Who Has Everything
+0xAF8B0367=拥有一切的男人
 
 ;0xE1D0E7F2=Corner Kids
-0xE1D0E7F2=Corner Kids
+0xE1D0E7F2=街角男孩
 
 ;0x89F83842=Clocking Off
-0x89F83842=Clocking Off
+0x89F83842=收工
 
 ;0x7C569CFF=Momma's Boy
-0x7C569CFF=Momma's Boy
+0x7C569CFF=妈妈的崽
 
 ;0xF8089469=Going Deep
-0xF8089469=Going Deep
+0xF8089469=诱敌深入
 
 ;0x22CBE9EF=Dropping In
-0x22CBE9EF=Dropping In
+0x22CBE9EF=不速之客
 
 ;0x148C4D70=In The Crosshairs
-0x148C4D70=In The Crosshairs
+0x148C4D70=危机四伏
 
 ;0xC51A2E85=Party's Over
-0xC51A2E85=Party's Over
+0xC51A2E85=派对结束
 
 ;0x4102265B=Club Management
-0x4102265B=Club Management
+0x4102265B=夜店经营
 
 ;0x3C0D1B21=I luv LC
-0x3C0D1B21=I luv LC
+0x3C0D1B21=我爱自由城
 
 ;0x4CFCBE60=Chinese Take...
-0x4CFCBE60=Chinese Take...
+0x4CFCBE60=中国外卖
 
 ;0xD6A720CF=Practice Swing
-0xD6A720CF=Practice Swing
+0xD6A720CF=挥杆练习
 
 ;0x8C288CF3=Blog This!...
-0x8C288CF3=Blog This!...
+0x8C288CF3=写篇博客！...
 
 ;0xD0901271=Boulevard Baby
-0xD0901271=Boulevard Baby
+0xD0901271=绿荫红颜
 
 ;0x8094F380=...Blog This!
-0x8094F380=...Blog This!
+0x8094F380=...写篇博客！
 
 ;0x310B5A5E=Bang Bang
-0x310B5A5E=Bang Bang
+0x310B5A5E=砰砰
 
 ;0x52AE1EBB=Frosting On...
-0x52AE1EBB=Frosting On...
+0x52AE1EBB=蛋糕上的糖霜
 
 ;0xDECF3393=Not So Fast
-0xDECF3393=Not So Fast
+0xDECF3393=欲速则不达
 
 ;0xD6EEB54F=Ladies' Night
-0xD6EEB54F=Ladies' Night
+0xD6EEB54F=淑女之夜
 
 ;0x1C0942E3=Ladies Half...
-0x1C0942E3=Ladies Half...
+0x1C0942E3=女士半价
 
 ;0x0FBFA024=Departure Time
-0x0FBFA024=Departure Time
+0x0FBFA024=离港时间
 
 ;0x78C7F59F=Kibbutz No. One
-0x78C7F59F=Kibbutz No. One
+0x78C7F59F=Kibbutz老大
 
 ;0x1743B148=This Ain't...
-0x1743B148=This Ain't...
+0x1743B148=落子无悔
 
 ;0xAB835D55=No. 3
-0xAB835D55=No. 3
+0xAB835D55=第三
 
 ;0xB2FEE5E0=Chop Chop - OLD
 0xB2FEE5E0=Chop Chop - OLD
 
 ;0x40CD805F=Sexy Time
-0x40CD805F=Sexy Time
+0x40CD805F=纵情时刻
 
 ;0x1CBFB7DC=High Dive
-0x1CBFB7DC=High Dive
+0x1CBFB7DC=高空跳台
 
 ;0xA696CE34=Caught With...
-0xA696CE34=Caught With...
+0xA696CE34=原形毕露
 
 ;0x88C8E20C=For The Man...
-0x88C8E20C=For The Man...
+0x88C8E20C=拥有一切的男人
 
 ;0x788B407D=Corner Kids
-0x788B407D=Corner Kids
+0x788B407D=街角男孩
 
 ;0x96F300DC=Clocking Off
-0x96F300DC=Clocking Off
+0x96F300DC=收工
 
 ;0x788542CD=Momma's Boy
-0x788542CD=Momma's Boy
+0x788542CD=妈妈的崽
 
 ;0x8E76E960=Going Deep
-0x8E76E960=Going Deep
+0x8E76E960=诱敌深入
 
 ;0xE7DF9A98=Dropping In
-0xE7DF9A98=Dropping In
+0xE7DF9A98=不速之客
 
 ;0x18707F2D=In The Cross...
-0x18707F2D=In The Cross...
+0x18707F2D=危机四伏
 
 ;0xAFE02CF6=Party's Over
-0xAFE02CF6=Party's Over
+0xAFE02CF6=派对结束
 
 ;0x2833BBE7=GTp
 0x2833BBE7=GTp
 
 ;0x97FDD301=I luv L.C.
-0x97FDD301=I luv L.C.
+0x97FDD301=我爱自由城
 
 ;0x51DF4825=Chinese Takeout
-0x51DF4825=Chinese Takeout
+0x51DF4825=中国外卖
 
 ;0x5B83AA86=Practice Swing
-0x5B83AA86=Practice Swing
+0x5B83AA86=挥杆练习
 
 ;0x9DED307C=Blog This!...
-0x9DED307C=Blog This!...
+0x9DED307C=写篇博客！...
 
 ;0x51A29498=Boulevard Baby
-0x51A29498=Boulevard Baby
+0x51A29498=绿荫红颜
 
 ;0x7663DF1E=...Blog This!
-0x7663DF1E=...Blog This!
+0x7663DF1E=...写篇博客！
 
 ;0xE52DC2A4=Bang Bang
-0xE52DC2A4=Bang Bang
+0xE52DC2A4=砰砰
 
 ;0x79B5ECCA=Frosting On The Cake
-0x79B5ECCA=Frosting On The Cake
+0x79B5ECCA=蛋糕上的糖霜
 
 ;0x2B66CCC5=Not So Fast
-0x2B66CCC5=Not So Fast
+0x2B66CCC5=欲速则不达
 
 ;0xF0ADE8CD=Ladies' Night
-0xF0ADE8CD=Ladies' Night
+0xF0ADE8CD=淑女之夜
 
 ;0x2E73E7B8=Ladies Half Price
-0x2E73E7B8=Ladies Half Price
+0x2E73E7B8=女士半价
 
 ;0x06818DA8=Departure Time
-0x06818DA8=Departure Time
+0x06818DA8=离港时间
 
 ;0x4B149A39=Kibbutz Number One
-0x4B149A39=Kibbutz Number One
+0x4B149A39=Kibbutz大哥
 
 ;0xE985D5CD=This Ain't Checkers
-0xE985D5CD=This Ain't Checkers
+0xE985D5CD=落子无悔
 
 ;0x9BB43DB7=No. 3
-0x9BB43DB7=No. 3
+0x9BB43DB7=第三
 
 ;0xC4390854=Chop Chop (Heli Courier) - OBSOLETE
 0xC4390854=Chop Chop (Heli Courier) - OBSOLETE
 
 ;0x530624D0=Sexy Time
-0x530624D0=Sexy Time
+0x530624D0=纵情时刻
 
 ;0x09F21241=High Dive
-0x09F21241=High Dive
+0x09F21241=高空跳台
 
 ;0x95482B97=Caught With Your Pants Down
-0x95482B97=Caught With Your Pants Down
+0x95482B97=原形毕露
 
 ;0xC475D971=For The Man Who Has Everything
-0xC475D971=For The Man Who Has Everything
+0xC475D971=拥有一切的男人
 
 ;0xC24853F6=Corner Kids
-0xC24853F6=Corner Kids
+0xC24853F6=街角男孩
 
 ;0xEFD832A5=Clocking Off
-0xEFD832A5=Clocking Off
+0xEFD832A5=收工
 
 ;0x32B3372A=Momma's Boy
-0x32B3372A=Momma's Boy
+0x32B3372A=妈妈的崽
 
 ;0x81664F3F=Going Deep
-0x81664F3F=Going Deep
+0x81664F3F=诱敌深入
 
 ;0x8348D178=Dropping In
-0x8348D178=Dropping In
+0x8348D178=不速之客
 
 ;0x05BD59C7=In The Crosshairs
-0x05BD59C7=In The Crosshairs
+0x05BD59C7=危机四伏
 
 ;0x2FCBACCF=Party's Over
-0x2FCBACCF=Party's Over
+0x2FCBACCF=派对结束
 
 ;0x731951B1=Club Management
-0x731951B1=Club Management
+0x731951B1=夜店经营
 
 ;0x85B91AB8=THIS LABEL NEEDS TO BE HERE !!!
 0x85B91AB8=THIS LABEL NEEDS TO BE HERE !!!
@@ -2592,7 +2595,7 @@
 0xF678B811=Armando
 
 ;0x7124569C=Mom
-0x7124569C=Mom
+0x7124569C=妈
 
 ;0xEF7A1F6C=Bulgarin
 0xEF7A1F6C=Bulgarin
@@ -2646,499 +2649,499 @@
 0x3C0FD60A=Simone
 
 ;0x6CFB40D9=Job
-0x6CFB40D9=Job
+0x6CFB40D9=差事
 
 ;0x6B4E3D7F=Air Hockey
-0x6B4E3D7F=Air Hockey
+0x6B4E3D7F=桌上冰球
 
 ;0x5954998C=Arm Wrestling
-0x5954998C=Arm Wrestling
+0x5954998C=扳手腕
 
 ;0xC7237528=Boating
-0xC7237528=Boating
+0xC7237528=快艇
 
 ;0xA3D32E88=Bowling
-0xA3D32E88=Bowling
+0xA3D32E88=保龄球
 
 ;0x91A98A35=Dancing
-0x91A98A35=Dancing
+0x91A98A35=跳舞
 
 ;0x007367C7=Darts
-0x007367C7=Darts
+0x007367C7=飞镖
 
 ;0xEE3CC35A=Drinking
-0xEE3CC35A=Drinking
+0xEE3CC35A=喝酒
 
 ;0x008C67F5=Eating
-0x008C67F5=Eating
+0x008C67F5=吃饭
 
 ;0xECD5C088=Gang War
-0xECD5C088=Gang War
+0xECD5C088=帮派战争
 
 ;0x7DF6F395=Golf
-0x7DF6F395=Golf
+0x7DF6F395=高尔夫
 
 ;0x13961ED1=Hang Out
-0x13961ED1=Hang Out
+0x13961ED1=约会
 
 ;0x58E02968=Heli Ride
-0x58E02968=Heli Ride
+0x58E02968=直升机兜风
 
 ;0x6F2B55FE=HiLo Cards
-0x6F2B55FE=HiLo Cards
+0x6F2B55FE=猜大小
 
 ;0xB45E6063=Lift
-0xB45E6063=Lift
+0xB45E6063=搭车
 
 ;0x4A8F8CC7=Pool
-0x4A8F8CC7=Pool
+0x4A8F8CC7=台球
 
 ;0x980BA7BE=Race
-0x980BA7BE=Race
+0x980BA7BE=赛车
 
 ;0xA5DA435B=Show
-0xA5DA435B=Show
+0xA5DA435B=演出
 
 ;0x8FF3978A=Strip Club
-0x8FF3978A=Strip Club
+0x8FF3978A=脱衣舞俱乐部
 
 ;0xED186B7D=Hang Out?
-0xED186B7D=Hang Out?
+0xED186B7D=约吗？
 
 ;0xF9678674=Visit girl?
-0xF9678674=Visit girl?
+0xF9678674=看女人吗？
 
 ;0x6DA02312=Cancel Plans
-0x6DA02312=Cancel Plans
+0x6DA02312=取消计划
 
 ;0x23468E60=Gun Van
-0x23468E60=Gun Van
+0x23468E60=军火车
 
 ;0x054043E0=Cancel Plans
-0x054043E0=Cancel Plans
+0x054043E0=取消计划
 
 ;0xEFBC98D9=Vehicles
-0xEFBC98D9=Vehicles
+0xEFBC98D9=车辆
 
 ;0xBF362D0B=Billy
 0xBF362D0B=Billy
 
 ;0xBB3CFB49=Pistol
-0xBB3CFB49=Pistol
+0xBB3CFB49=手枪
 
 ;0x31C604CD=Player List
-0x31C604CD=Player List
+0x31C604CD=玩家列表
 
 ;0xC7DA2A4D=Your player list is empty.
-0xC7DA2A4D=Your player list is empty.
+0xC7DA2A4D=玩家列表为空
 
 ;0x2CF4049D=Vehicles
-0x2CF4049D=Vehicles
+0x2CF4049D=载具
 
 ;0x29E393ED=Missions
-0x29E393ED=Missions
+0x29E393ED=任务
 
 ;0xF1B8E753=Quit Mission
-0xF1B8E753=Quit Mission
+0xF1B8E753=退出任务
 
 ;0x7BF48BDD=GUN - Advanced
-0x7BF48BDD=GUN - Advanced
+0x7BF48BDD=械 - 高级武器
 
 ;0xFE4C9087=WET - FLOATER
-0xFE4C9087=WET - FLOATER
+0xFE4C9087=海 - FLOATER
 
 ;0x107B34E4=MBK - AKUMA
-0x107B34E4=MBK - AKUMA
+0x107B34E4=摩 - AKUMA
 
 ;0xE26ED8D0=MBK - VADER
-0xE26ED8D0=MBK - VADER
+0xE26ED8D0=摩 - VADER
 
 ;0xF41E7C2F=APC - APC
 0xF41E7C2F=APC - APC
 
 ;0x526EB8CE=FLY - BUZZARD
-0x526EB8CE=FLY - BUZZARD
+0x526EB8CE=空 - 秃鹰
 
 ;0x242DDC4D=CAR - BULLET GT
-0x242DDC4D=CAR - BULLET GT
+0x242DDC4D=车 - BULLET GT
 
 ;0xF0E3F90E=FLY - PARACHUTE
-0xF0E3F90E=FLY - PARACHUTE
+0xF0E3F90E=空 - 降落伞
 
 ;0x83219D8B=ARM - Super Punch
-0x83219D8B=ARM - Super Punch
+0x83219D8B=武 - 爆裂拳
 
 ;0xEAC3ECDA=GUN - Explosive Sniper
-0xEAC3ECDA=GUN - Explosive Sniper
+0xEAC3ECDA=械 - 爆炸狙击枪
 
 ;0x48C61021=Club
-0x48C61021=Club
+0x48C61021=俱乐部Club
 
 ;0x9B7E3C86=THIS LABEL NEEDS TO BE HERE !!!
 0x9B7E3C86=THIS LABEL NEEDS TO BE HERE !!!
 
 ;0x5FAA72F5=~z~Looks like Beachgate to me.
-0x5FAA72F5=~z~Looks like Beachgate to me.
+0x5FAA72F5=~z~应该是Beachgate吧。
 
 ;0x52E83A4F=~z~Yo. Umm... Boulevard, I think.
-0x52E83A4F=~z~Yo. Umm... Boulevard, I think.
+0x52E83A4F=~z~哟。呃... Boulevard吧。
 
 ;0xAF003C85=~z~Little Bay.
-0xAF003C85=~z~Little Bay.
+0xAF003C85=~z~Little Bay。
 
 ;0x120B70F1=~z~Like, Northern Gardens.
-0x120B70F1=~z~Like, Northern Gardens.
+0x120B70F1=~z~好像是Northern Gardens。
 
 ;0x74813646=~z~Fortside.
-0x74813646=~z~Fortside.
+0x74813646=~z~Fortside。
 
 ;0x1B705D28=~z~Industrial.
-0x1B705D28=~z~Industrial.
+0x1B705D28=~z~工业区。
 
 ;0xC21523CE=~z~South Bohan, yo.
-0xC21523CE=~z~South Bohan, yo.
+0xC21523CE=~z~South Bohan，哟。
 
 ;0xC579273C=~z~Like, Chase Point.
-0xC579273C=~z~Like, Chase Point.
+0xC579273C=~z~好像是Chase Point。
 
 ;0xF8B9CFD1=~z~Charge Island.
-0xF8B9CFD1=~z~Charge Island.
+0xF8B9CFD1=~z~Charge岛。
 
 ;0x57D5F27A=~z~Colony Island.
-0x57D5F27A=~z~Colony Island.
+0x57D5F27A=~z~Colony岛。
 
 ;0x22932F85=~z~Rotterdam Hill.
-0x22932F85=~z~Rotterdam Hill.
+0x22932F85=~z~Rotterdam Hill。
 
 ;0x07ADE7CA=~z~Yo. Umm... Steinway.
-0x07ADE7CA=~z~Yo. Umm... Steinway.
+0x07ADE7CA=~z~哟。呃... Steinway.
 
 ;0xBD9E4099=~z~East Island City.
-0xBD9E4099=~z~East Island City.
+0xBD9E4099=~z~东岛城。
 
 ;0xBCB0782A=~z~Meadows Park.
-0xBCB0782A=~z~Meadows Park.
+0xBCB0782A=~z~Meadows Park。
 
 ;0x6CBF44E2=~z~Like, Meadow Hills
-0x6CBF44E2=~z~Like, Meadow Hills
+0x6CBF44E2=~z~好像是Meadow Hills。
 
 ;0x8C7FB270=~z~Looks like Cerveza Heights.
-0x8C7FB270=~z~Looks like Cerveza Heights.
+0x8C7FB270=~z~应该是Cerveza Heights。
 
 ;0x91B72BE4=~z~Willis, yo.
-0x91B72BE4=~z~Willis, yo.
+0x91B72BE4=~z~Willis，哟。
 
 ;0x3BE26EDD=~z~Schottler.
-0x3BE26EDD=~z~Schottler.
+0x3BE26EDD=~z~Schottler。
 
 ;0x19D229B5=~z~Beechwood City.
-0x19D229B5=~z~Beechwood City.
+0x19D229B5=~z~Beechwood City。
 
 ;0xD92C9D0D=~z~Looks like downtown to me.
-0xD92C9D0D=~z~Looks like downtown to me.
+0xD92C9D0D=~z~应该是Downtown吧。
 
 ;0x6D1407F2=~z~East Hook.
-0x6D1407F2=~z~East Hook.
+0x6D1407F2=~z~East Hook。
 
 ;0x1F9CE4FA=~z~Like, BOABO
-0x1F9CE4FA=~z~Like, BOABO
+0x1F9CE4FA=~z~好像是BOABO。
 
 ;0xB803EE13=~z~Francis International Airport.
-0xB803EE13=~z~Francis International Airport.
+0xB803EE13=~z~Francis国际机场。
 
 ;0x13BA5E63=~z~South Slopes.
-0x13BA5E63=~z~South Slopes.
+0x13BA5E63=~z~South Slopes。
 
 ;0x7FAE36C9=~z~Yo. Umm... Hove Beach.
-0x7FAE36C9=~z~Yo. Umm... Hove Beach.
+0x7FAE36C9=~z~哟，呃... Hove Beach。
 
 ;0x758C9FC7=~z~Firefly Island.
-0x758C9FC7=~z~Firefly Island.
+0x758C9FC7=~z~Firefly Island。
 
 ;0x6DEA6DA8=~z~Outlook, yo.
-0x6DEA6DA8=~z~Outlook, yo.
+0x6DEA6DA8=~z~Outlook，哟。
 
 ;0xB3C47498=~z~Anger Bay.
-0xB3C47498=~z~Anger Bay.
+0xB3C47498=~z~Anger Bay。
 
 ;0xAE2BEAA1=~z~Castle Gardens.
-0xAE2BEAA1=~z~Castle Gardens.
+0xAE2BEAA1=~z~Castle Gardens。
 
 ;0x2CECAABF=~z~Yo. Umm... The Exchange.
-0x2CECAABF=~z~Yo. Umm... The Exchange.
+0x2CECAABF=~z~哟，呃... 证交区。
 
 ;0x219B552C=~z~Looks like Chinatown.
-0x219B552C=~z~Looks like Chinatown.
+0x219B552C=~z~应该是唐人街。
 
 ;0xBC9688DC=~z~Little Italy.
-0xBC9688DC=~z~Little Italy.
+0xBC9688DC=~z~Little Italy。
 
 ;0x9F5CDF4A=~z~Fishmarket North.
-0x9F5CDF4A=~z~Fishmarket North.
+0x9F5CDF4A=~z~鱼市北。
 
 ;0xCCB3CB5D=~z~Fishmarket South.
-0xCCB3CB5D=~z~Fishmarket South.
+0xCCB3CB5D=~z~鱼市南。
 
 ;0x8E08412F=~z~Like, Castle Garden City.
-0x8E08412F=~z~Like, Castle Garden City.
+0x8E08412F=~z~好像是Castle Garden City。
 
 ;0x85BBD475=~z~Norfolk.
-0x85BBD475=~z~Norfolk.
+0x85BBD475=~z~Norfolk。
 
 ;0x2BA15465=~z~Suffolk.
-0x2BA15465=~z~Suffolk.
+0x2BA15465=~z~Suffolk。
 
 ;0x8632C90B=~z~Yo. Umm... Lower Easton.
-0x8632C90B=~z~Yo. Umm... Lower Easton.
+0x8632C90B=~z~哟，呃... Lower Easton。
 
 ;0x4D66B7BA=~z~Easton, yo.
-0x4D66B7BA=~z~Easton, yo.
+0x4D66B7BA=~z~Easton，哟。
 
 ;0xB9CC7DD1=~z~The Triangle.
-0xB9CC7DD1=~z~The Triangle.
+0xB9CC7DD1=~z~The Triangle。
 
 ;0x311132BD=~z~The Meat Quarter.
-0x311132BD=~z~The Meat Quarter.
+0x311132BD=~z~The Meat Quarter。
 
 ;0xBAA4383E=~z~Like, Presidents City.
-0xBAA4383E=~z~Like, Presidents City.
+0xBAA4383E=~z~好像是Presidents City。
 
 ;0x967EBC66=~z~Lancet.
-0x967EBC66=~z~Lancet.
+0x967EBC66=~z~Lancet。
 
 ;0x40403C36=~z~Westminster.
-0x40403C36=~z~Westminster.
+0x40403C36=~z~Westminster。
 
 ;0xC4CEF625=~z~Looks like Purgatory to me.
-0xC4CEF625=~z~Looks like Purgatory to me.
+0xC4CEF625=~z~应该是Purgatory吧。
 
 ;0xFCECF601=~z~Star Junction, yo.
-0xFCECF601=~z~Star Junction, yo.
+0xFCECF601=~z~Star Junction，哟。
 
 ;0x30FB8CBC=~z~Hatton Gardens.
-0x30FB8CBC=~z~Hatton Gardens.
+0x30FB8CBC=~z~Hatton Gardens。
 
 ;0x362FC1B0=~z~Middle Park East.
-0x362FC1B0=~z~Middle Park East.
+0x362FC1B0=~z~中央公园东。
 
 ;0x65942BF2=~z~Lancaster.
-0x65942BF2=~z~Lancaster.
+0x65942BF2=~z~Lancaster。
 
 ;0x0DD8A187=~z~Yo. Umm... Middle Park.
-0x0DD8A187=~z~Yo. Umm... Middle Park.
+0x0DD8A187=~z~哟，呃...中央公园。
 
 ;0xCD2EEEAA=~z~Yeah, Varsity Heights.
-0xCD2EEEAA=~z~Yeah, Varsity Heights.
+0xCD2EEEAA=~z~好，Varsity Heights。
 
 ;0x6E7444CB=~z~Middle Park West.
-0x6E7444CB=~z~Middle Park West.
+0x6E7444CB=~z~中央公园西。
 
 ;0x46005691=~z~North Holland.
-0x46005691=~z~North Holland.
+0x46005691=~z~North Holland。
 
 ;0xC07E826C=~z~East Holland, yo.
-0xC07E826C=~z~East Holland, yo.
+0xC07E826C=~z~East Holland，哟。
 
 ;0x3D061A58=~z~Jefferson Heights.
-0x3D061A58=~z~Jefferson Heights.
+0x3D061A58=~z~Jefferson Heights。
 
 ;0xA13DD3AF=~z~Northwood.
-0xA13DD3AF=~z~Northwood.
+0xA13DD3AF=~z~Northwood。
 
 ;0xA76549B3=~z~Westdyke.
-0xA76549B3=~z~Westdyke.
+0xA76549B3=~z~Westdyke。
 
 ;0x964B4B75=~z~Yeah, Leftwood.
-0x964B4B75=~z~Yeah, Leftwood.
+0x964B4B75=~z~好，Leftwood。
 
 ;0x7A0C981C=~z~Alderney City.
-0x7A0C981C=~z~Alderney City.
+0x7A0C981C=~z~Alderney City。
 
 ;0x6A5ECE10=~z~Berchem.
-0x6A5ECE10=~z~Berchem.
+0x6A5ECE10=~z~Berchem。
 
 ;0x31D2697B=~z~Like, Normandy.
-0x31D2697B=~z~Like, Normandy.
+0x31D2697B=~z~好像是Normandy。
 
 ;0xD2B32A09=~z~Acter.
-0xD2B32A09=~z~Acter.
+0xD2B32A09=~z~Acter。
 
 ;0xBAD7C9BA=~z~Acter Bay.
-0xBAD7C9BA=~z~Acter Bay.
+0xBAD7C9BA=~z~Acter Bay。
 
 ;0x9F3FB689=~z~Port Tudor.
-0x9F3FB689=~z~Port Tudor.
+0x9F3FB689=~z~Port Tudor。
 
 ;0xF07D4F3A=~z~Tudor.
-0xF07D4F3A=~z~Tudor.
+0xF07D4F3A=~z~Tudor。
 
 ;0xB80CD93C=~z~Acter Industrial Park.
-0xB80CD93C=~z~Acter Industrial Park.
+0xB80CD93C=~z~Acter工业园。
 
 ;0xA9D4D1FD=~z~Richmond, yo.
-0xA9D4D1FD=~z~Richmond, yo.
+0xA9D4D1FD=~z~Richmond，哟。
 
 ;0x7AC589E6=~z~Looks like Frogtown to me.
-0x7AC589E6=~z~Looks like Frogtown to me.
+0x7AC589E6=~z~应该是Frogtown吧。
 
 ;0xC32E52C2=~z~Happiness Island.
-0xC32E52C2=~z~Happiness Island.
+0xC32E52C2=~z~幸福岛。
 
 ;0x4193962E=~z~City Hall.
-0x4193962E=~z~City Hall.
+0x4193962E=~z~市政厅。
 
 ;0x9A6B36AF=~z~The Golfcourse.
-0x9A6B36AF=~z~The Golfcourse.
+0x9A6B36AF=~z~高尔夫球场。
 
 ;0x910E4539=~z~The Airport.
-0x910E4539=~z~The Airport.
+0x910E4539=~z~机场。
 
 ;0x479646E5=~z~Firefly Projects.
-0x479646E5=~z~Firefly Projects.
+0x479646E5=~z~Firefly公屋社区。
 
 ;0xE81B81F8=~z~Broker Bridge, yo.
-0xE81B81F8=~z~Broker Bridge, yo.
+0xE81B81F8=~z~Broker大桥，哟。
 
 ;0x83D292F6=~z~Algonquin Bridge.
-0x83D292F6=~z~Algonquin Bridge.
+0x83D292F6=~z~Algonquin大桥。
 
 ;0x40CE317A=~z~East Borough Bridge.
-0x40CE317A=~z~East Borough Bridge.
+0x40CE317A=~z~East Borough大桥。
 
 ;0x277D5A1B=~z~Dukes Bay Bridge.
-0x277D5A1B=~z~Dukes Bay Bridge.
+0x277D5A1B=~z~Dukes Bay大桥。
 
 ;0x040FC338=~z~Hickey Bridge.
-0x040FC338=~z~Hickey Bridge.
+0x040FC338=~z~Hickey大桥。
 
 ;0xBED6D322=~z~Northwood Heights Bridge.
-0xBED6D322=~z~Northwood Heights Bridge.
+0xBED6D322=~z~Northwood Heights大桥。
 
 ;0x99C03624=~z~The Booth Tunnel, yo.
-0x99C03624=~z~The Booth Tunnel, yo.
+0x99C03624=~z~Booth隧道，哟。
 
 ;0xE7ABF3E6=~z~Like, Leaper's Bridge.
-0xE7ABF3E6=~z~Like, Leaper's Bridge.
+0xE7ABF3E6=~z~应该是Leaper大桥吧。
 
 ;0x331C4EA9=~z~~x~Shit. I ain't actually sure about that. I'll have to call you back.
-0x331C4EA9=~z~~x~Shit. I ain't actually sure about that. I'll have to call you back.
+0x331C4EA9=~z~~x~妈的，我也不太清楚。待会儿再联系你。
 
 ;0x40DAEA26=~z~~x~Damn, you know what, I don't know. I'll hit you back in a minute.
-0x40DAEA26=~z~~x~Damn, you know what, I don't know. I'll hit you back in a minute.
+0x40DAEA26=~z~~x~妈的，太难了，我不知道。过会儿我再打给你。
 
 ;0xD49B1180=~z~~x~Dios. You'd think I'd know this shit. I'm gonna have to call you later.
-0xD49B1180=~z~~x~Dios. You'd think I'd know this shit. I'm gonna have to call you later.
+0xD49B1180=~z~~x~操，我还真不知道在哪儿。待会儿打给你。
 
 ;0xD39242BC=~z~~x~Hello, this is the LCPD, where would you like us to send an officer?
-0xD39242BC=~z~~x~Hello, this is the LCPD, where would you like us to send an officer?
+0xD39242BC=~z~~x~您好，这里是LCPD，请问您想让我们向哪里出警？
 
 ;0x3BAAB27B=~z~~x~Hello, you're through to the MS Paramedics. In which area is your medical emergency?
-0x3BAAB27B=~z~~x~Hello, you're through to the MS Paramedics. In which area is your medical emergency?
+0x3BAAB27B=~z~~x~您好，您呼叫的是医疗服务中心，您需要在哪里的医疗应急？
 
 ;0x9AE3DE5A=~z~~x~Hello, this is the FDLC. Where do you need assistance?
-0x9AE3DE5A=~z~~x~Hello, this is the FDLC. Where do you need assistance?
+0x9AE3DE5A=~z~~x~您好，这里是FDLC，您需要在哪里的帮助？
 
 ;0x01682959=~z~~x~Hello, you're through to the Liberty City Emergency Services.
-0x01682959=~z~~x~Hello, you're through to the Liberty City Emergency Services.
+0x01682959=~z~~x~您好，您呼叫的是自由城应急服务。
 
 ;0x27A975DB=~z~~x~Please use your touchtone keypad to select which specific service you require.
-0x27A975DB=~z~~x~Please use your touchtone keypad to select which specific service you require.
+0x27A975DB=~z~~x~请使用您的拨号按键选择您需要的特定服务。
 
 ;0xBC4F1F28=~z~~x~Press 1 for Police, press 2 for Paramedics, press 3 for the Fire Department.
-0xBC4F1F28=~z~~x~Press 1 for Police, press 2 for Paramedics, press 3 for the Fire Department.
+0xBC4F1F28=~z~~x~报警请按1，急救请按2，消防请按3。
 
 ;0x9E796D1D=~z~~x~An LCPD peacekeeper will be there as soon as possible, sir.
-0x9E796D1D=~z~~x~An LCPD peacekeeper will be there as soon as possible, sir.
+0x9E796D1D=~z~~x~很快将有一名LCPD干员到达，先生。
 
 ;0x4C991F96=~z~~x~We'll send a basically trained paramedic as soon as we can, sir.
-0x4C991F96=~z~~x~We'll send a basically trained paramedic as soon as we can, sir.
+0x4C991F96=~z~~x~我们会尽快派出一支训练有素的医疗小组，先生。
 
 ;0x7DC381EA=~z~~x~Don't move and please have your insurance documentation or credit card ready.
-0x7DC381EA=~z~~x~Don't move and please have your insurance documentation or credit card ready.
+0x7DC381EA=~z~~x~请不要离开，并准备好您的保险单证或信用卡。
 
 ;0xE31F139F=~z~~x~We'll get a fire truck out to you right away.
-0xE31F139F=~z~~x~We'll get a fire truck out to you right away.
+0xE31F139F=~z~~x~我们马上就派消防车过来。
 
 ;0x14ECF73A=~z~~x~Hold tight and please be advised that the FDLC takes no responsibility for damage to property.
-0x14ECF73A=~z~~x~Hold tight and please be advised that the FDLC takes no responsibility for damage to property.
+0x14ECF73A=~z~~x~请坚持住。注意，FDLC不对过程中造成的财产损失负任何责任。
 
 ;0xF4F129A8=~z~~x~We look forward to hearing from you again. Please stay safe in the meantime.
-0xF4F129A8=~z~~x~We look forward to hearing from you again. Please stay safe in the meantime.
+0xF4F129A8=~z~~x~我们期待您的下次来电。同时请您注意安全。
 
 ;0xEE586A51=~z~~x~I'm sorry, but all our peacekeepers are currently busy filling quotas and dealing with paper work.
-0xEE586A51=~z~~x~I'm sorry, but all our peacekeepers are currently busy filling quotas and dealing with paper work.
+0xEE586A51=~z~~x~很抱歉，但目前我们的干员都忙于完成指标以及书面工作。
 
 ;0x9C48C633=~z~~x~Please call back later.
-0x9C48C633=~z~~x~Please call back later.
+0x9C48C633=~z~~x~请稍后再拨。
 
 ;0xBE68DA95=~z~~x~All our lines are busy at the moment, please call again later. Your emergency is important to us.
-0xBE68DA95=~z~~x~All our lines are busy at the moment, please call again later. Your emergency is important to us.
+0xBE68DA95=~z~~x~目前我们的电话全部占线，请稍后再拨。您的紧急状况对我们十分重要。
 
 ;0x59E6A989=~z~~x~Oye, there's something to be said for this place.
-0x59E6A989=~z~~x~Oye, there's something to be said for this place.
+0x59E6A989=~z~~x~喂，这地方还真不错啊。
 
 ;0xABB0CD1C=~z~~x~I should be working one of these clubs.
-0xABB0CD1C=~z~~x~I should be working one of these clubs.
+0xABB0CD1C=~z~~x~这家店才是我该工作的地方。
 
 ;0xB579E0AE=~z~~x~This place is actually a lot more honest than where I work.
-0xB579E0AE=~z~~x~This place is actually a lot more honest than where I work.
+0xB579E0AE=~z~~x~这里可比我工作的地方实诚多了。
 
 ;0x8730041B=~z~~x~Damn mami, we could have some fun later on.
-0x8730041B=~z~~x~Damn mami, we could have some fun later on.
+0x8730041B=~z~~x~妈的，姑娘，待会儿我们找点乐子吧。
 
 ;0x22EF3B97=~z~~x~ ~c~Pop that little booty. Yeah.
-0x22EF3B97=~z~~x~ ~c~Pop that little booty. Yeah.
+0x22EF3B97=~z~~x~ ~c~我他妈射爆。耶。
 
 ;0x74BB5F32=~z~~x~Ayo. Work that shit, baby.
-0x74BB5F32=~z~~x~Ayo. Work that shit, baby.
+0x74BB5F32=~z~~x~诶哟，太棒了，宝贝。
 
 ;0x9F214C4B=~z~~x~Diablo, girl. You way too fine to be working here.
-0x9F214C4B=~z~~x~Diablo, girl. You way too fine to be working here.
+0x9F214C4B=~z~~x~妈的，姑娘。你在这儿上班可惜了。
 
 ;0x755578B4=~z~~x~You should come to work for me, mami.
-0x755578B4=~z~~x~You should come to work for me, mami.
+0x755578B4=~z~~x~你应该去我的店工作，姑娘。
 
 ;0x83B69576=~z~~x~I could watch that ass all day.
-0x83B69576=~z~~x~I could watch that ass all day.
+0x83B69576=~z~~x~这屁股我可以看一整天。
 
 ;0x39E181CD=~z~~x~Damn, you real fine.
-0x39E181CD=~z~~x~Damn, you real fine.
+0x39E181CD=~z~~x~妈的，你太会了。
 
 ;0x4A142232=~z~~x~Ay Dios mio, the things I would do to you...
-0x4A142232=~z~~x~Ay Dios mio, the things I would do to you...
+0x4A142232=~z~~x~我的天哪，我好想对你...
 
 ;0x202FCE66=~z~~x~Okay, baby. You got it.
-0x202FCE66=~z~~x~Okay, baby. You got it.
+0x202FCE66=~z~~x~好吧，宝贝，你真会。
 
 ;0x7D4569F1=~z~~x~Who the luckiest guy in L.C.?
-0x7D4569F1=~z~~x~Who the luckiest guy in L.C.?
+0x7D4569F1=~z~~x~谁是自由城最幸运的人啊？
 
 ;0x8D890A74=~z~~x~Los dos? Ay Dios mio.
-0x8D890A74=~z~~x~Los dos? Ay Dios mio.
+0x8D890A74=~z~~x~两个人？我的天哪。
 
 ;0x9FBEAEDF=~z~~x~I knew it would take two of you to handle me.
-0x9FBEAEDF=~z~~x~I knew it would take two of you to handle me.
+0x9FBEAEDF=~z~~x~我就知道你们要两个人才能服侍我。
 
 ;0x3A05E36F=~z~~x~Oye, you girls are gonna have to fight over me later.
-0x3A05E36F=~z~~x~Oye, you girls are gonna have to fight over me later.
+0x3A05E36F=~z~~x~喂，你们待会儿再为了我吵架吧。
 
 ;0x4A5A8418=~z~~x~Where's the third one? Two ain't enough.
-0x4A5A8418=~z~~x~Where's the third one? Two ain't enough.
+0x4A5A8418=~z~~x~没第三个了吗？两个还不太够。
 
 ;0x64A1B8A6=~z~~x~Dios mio. This is the shit.
-0x64A1B8A6=~z~~x~Dios mio. This is the shit.
+0x64A1B8A6=~z~~x~我的天哪，太棒了。
 
 ;0xAF404DB0=~z~~x~It was a pleasure meeting you.
-0xAF404DB0=~z~~x~It was a pleasure meeting you.
+0xAF404DB0=~z~~x~ ~c~很高兴见到你。
 
 ;0xD86AA004=~z~~x~This cold, mami. You ain't even giving up your number.
-0xD86AA004=~z~~x~This cold, mami. You ain't even giving up your number.
+0xD86AA004=~z~~x~太糟了，姑娘。你都不肯给我电话号码。
 
 ;0xCAD804DF=~z~~x~Thank you, baby. I think I'm gonna have to sit down for a minute.
-0xCAD804DF=~z~~x~Thank you, baby. I think I'm gonna have to sit down for a minute.
+0xCAD804DF=~z~~x~谢谢你，宝贝。我还想再坐一会儿。
 
 ;0x68B8C09E=~z~~x~You got something special, baby. Gracias.
-0x68B8C09E=~z~~x~You got something special, baby. Gracias.
+0x68B8C09E=~z~~x~你真的很特别，宝贝。谢谢。
 
 ;0xDF02BB77=Dummy label.
 0xDF02BB77=Dummy label.
