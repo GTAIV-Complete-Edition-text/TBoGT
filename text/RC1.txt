@@ -1,13 +1,13 @@
 ﻿[RC1]
 ;0x955E5B04=Go back for ~b~ex-girlfriend.
-0x955E5B04=Go back for ~b~ex-girlfriend.
+0x955E5B04=回去找~b~前女友。
 
 ;0xA695FDA7=Take ex-girlfriend ~y~home.
-0xA695FDA7=Take ex-girlfriend ~y~home.
+0xA695FDA7=送前女友~y~回家。
 
 ;0xE3B99525=PLACEHOLDER: Ex-girlfriend's brothers don't like Luis and express that physically.
-0xE3B99525=PLACEHOLDER: Ex-girlfriend's brothers don't like Luis and express that physically.
+0xE3B99525=PLACEHOLDER: 前女友的兄弟们不喜欢Luis并表现在了肢体上。
 
 ;0xFE074863=MOCAP: Luis bumps into an ex while she shops, gives her a lift home.
-0xFE074863=MOCAP: Luis bumps into an ex while she shops, gives her a lift home.
+0xFE074863=MOCAP: Luis在前任购物时撞见了她，载她一程回了家。
 

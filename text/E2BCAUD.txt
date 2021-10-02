@@ -1,30 +1,30 @@
 ﻿[E2BCAUD]
 ;0x00D9BF28=~z~Hey, playa!
-0x00D9BF28=~z~Hey, playa!
+0x00D9BF28=~z~嘿，赢家！
 
 ;0x01358365=~z~Oh, fine.
-0x01358365=~z~Oh, fine.
+0x01358365=~z~哦，好啊。
 
 ;0x02AB695A=~z~I can't wait 'til I see you, Luis.
-0x02AB695A=~z~I can't wait 'til I see you, Luis.
+0x02AB695A=~z~我等不及见你了，Luis。
 
 ;0x033DCFD9=500
 0x033DCFD9=500
 
 ;0x03C0621A=~z~Come on up!
-0x03C0621A=~z~Come on up!
+0x03C0621A=~z~上来吧！
 
 ;0x052D5775=~z~I could not wait any longer.
-0x052D5775=~z~I could not wait any longer.
+0x052D5775=~z~我已经等不及了。
 
 ;0x05AA975B=~z~Whatever.
-0x05AA975B=~z~Whatever.
+0x05AA975B=~z~随你便。
 
 ;0x066763B6=E2BC_AYA
 0x066763B6=E2BC_AYA
 
 ;0x06CCB13A=~z~Baby, the things I've been thinking about doing to you...
-0x06CCB13A=~z~Baby, the things I've been thinking about doing to you...
+0x06CCB13A=~z~宝贝，我想对你做这样那样的事...
 
 ;0x07E2306B=E2BCL_EA
 0x07E2306B=E2BCL_EA
@@ -39,79 +39,79 @@
 0x098E9B6D=190
 
 ;0x099CBD23=~z~I was thinking my girlfriend, could erh, join us?
-0x099CBD23=~z~I was thinking my girlfriend, could erh, join us?
+0x099CBD23=~z~能让我的女友她...加入我们吗？
 
 ;0x0A189F9D=E2BC_BFA
 0x0A189F9D=E2BC_BFA
 
 ;0x0A7461EF=~z~Whatever.
-0x0A7461EF=~z~Whatever.
+0x0A7461EF=~z~随你。
 
 ;0x0BE72700=100
 0x0BE72700=100
 
 ;0x0BFB3645=~z~This guy can't handle me alone, come on!
-0x0BFB3645=~z~This guy can't handle me alone, come on!
+0x0BFB3645=~z~这家伙不能让我一个人抗啊，拜托！
 
 ;0x0CD3AE66=~z~You better be ready for this shit!
-0x0CD3AE66=~z~You better be ready for this shit!
+0x0CD3AE66=~z~你最好准备好！
 
 ;0x0D452C78=~z~Okay, I got a minute for you.
-0x0D452C78=~z~Okay, I got a minute for you.
+0x0D452C78=~z~好的，我也刚好有空。
 
 ;0x0E014941=~z~Stud, I want you, now!
-0x0E014941=~z~Stud, I want you, now!
+0x0E014941=~z~帅哥，我现在就要你！
 
 ;0x0E1F5DF0=~z~Hey, win some, lose some.
-0x0E1F5DF0=~z~Hey, win some, lose some.
+0x0E1F5DF0=~z~嗨，有得有失。
 
 ;0x0F31D8DB=E2BC_AOA
 0x0F31D8DB=E2BC_AOA
 
 ;0x0FA3B6CE=~z~Hey sugar!
-0x0FA3B6CE=~z~Hey sugar!
+0x0FA3B6CE=~z~嘿，甜心！
 
 ;0x11977BE3=~z~What are you doing later? My boyfriend is out!
-0x11977BE3=~z~What are you doing later? My boyfriend is out!
+0x11977BE3=~z~你待会儿有事吗？我男友不在家！
 
 ;0x11F0A7FF=~z~It's just not working out sugar. We're from different worlds. I'm sorry.
-0x11F0A7FF=~z~It's just not working out sugar. We're from different worlds. I'm sorry.
+0x11F0A7FF=~z~这样不会有结果的，甜心。我们来自不同的世界。我很抱歉。
 
 ;0x128343CE=100
 0x128343CE=100
 
 ;0x12EBBA7A=~z~Put on something sexy.
-0x12EBBA7A=~z~Put on something sexy.
+0x12EBBA7A=~z~换身性感的。
 
 ;0x137C89C3=~z~Sorry, mami. I'm real busy right now.
-0x137C89C3=~z~Sorry, mami. I'm real busy right now.
+0x137C89C3=~z~抱歉，姑娘。我现在真的很忙。
 
 ;0x14E9C59E=E2BC_AEA
 0x14E9C59E=E2BC_AEA
 
 ;0x16101292=~z~I'm so lonely in this city. I need someone to be close to me.
-0x16101292=~z~I'm so lonely in this city. I need someone to be close to me.
+0x16101292=~z~我在自由城孤身一人，真的需要有个依靠。
 
 ;0x16F68513=090
 0x16F68513=090
 
 ;0x17E559B4=~z~So I've always wanted to try with another girl as well, would you mind?
-0x17E559B4=~z~So I've always wanted to try with another girl as well, would you mind?
+0x17E559B4=~z~我一直想带个其他女生试试，你介意吗？
 
 ;0x19124BAE=E2BC_CA
 0x19124BAE=E2BC_CA
 
 ;0x19B34729=~z~Hello! My bullfighter of love!
-0x19B34729=~z~Hello! My bullfighter of love!
+0x19B34729=~z~你好！我的爱之斗牛士！
 
 ;0x1A335813=~z~You remember this voice nena? Why don't we get together.
-0x1A335813=~z~You remember this voice nena? Why don't we get together.
+0x1A335813=~z~还记得我的声音吗，宝贝？我们聚一聚吧。
 
 ;0x1A800099=~z~No! Don't take away your macho love!
-0x1A800099=~z~No! Don't take away your macho love!
+0x1A800099=~z~不！我离不开你男子汉的爱！
 
 ;0x1A97471C=~z~Get some potassium. Eat a banana or something. You're going to be put to work.
-0x1A97471C=~z~Get some potassium. Eat a banana or something. You're going to be put to work.
+0x1A97471C=~z~补点营养。吃根香蕉啥的。你就要上阵了。
 
 ;0x1B2821BB=100
 0x1B2821BB=100
@@ -120,28 +120,28 @@
 0x1BCC74CE=100
 
 ;0x1C8B5963=~z~Yo, I was just passing by.
-0x1C8B5963=~z~Yo, I was just passing by.
+0x1C8B5963=~z~哟，我刚好路过。
 
 ;0x1DB3813C=~z~Hey Luis, it's me? We met at the club. You wanna hang out?
-0x1DB3813C=~z~Hey Luis, it's me? We met at the club. You wanna hang out?
+0x1DB3813C=~z~嘿，Luis，是我。我们在夜店见过。你想约一下吗？
 
 ;0x1DE28C25=~z~Oi, Luis. I don't think I wanna see you no more. Just got a bit bored you know.
-0x1DE28C25=~z~Oi, Luis. I don't think I wanna see you no more. Just got a bit bored you know.
+0x1DE28C25=~z~喂，Luis。我不想再见到你了。就是有点厌烦了。
 
 ;0x1E08568E=~z~Yeah, so it's been fun, and that's all it's gonna be. See you around.
-0x1E08568E=~z~Yeah, so it's been fun, and that's all it's gonna be. See you around.
+0x1E08568E=~z~那个，玩得很高兴，那就到此为止吧。再见。
 
 ;0x1EA89BAE=100
 0x1EA89BAE=100
 
 ;0x1FCDD9DD=~z~Hey, gorgeous, you're gonna have to fogive me, but I ain't the relationship type.
-0x1FCDD9DD=~z~Hey, gorgeous, you're gonna have to fogive me, but I ain't the relationship type.
+0x1FCDD9DD=~z~喂，美人，希望你能原谅我，但我不适合长久的恋爱。
 
 ;0x205EFA23=100
 0x205EFA23=100
 
 ;0x21EF573D=~z~Yeah, sounds kind of fun, I'm there.
-0x21EF573D=~z~Yeah, sounds kind of fun, I'm there.
+0x21EF573D=~z~好啊，听起来很好玩，我来了。
 
 ;0x22B144AA=E2BC_BHA
 0x22B144AA=E2BC_BHA
@@ -150,49 +150,49 @@
 0x22BAF80A=100
 
 ;0x22F1DD6A=~z~Luis!
-0x22F1DD6A=~z~Luis!
+0x22F1DD6A=~z~Luis！
 
 ;0x23AED4D0=~z~Señor Luis! Remember my erotic smile?
-0x23AED4D0=~z~Señor Luis! Remember my erotic smile?
+0x23AED4D0=~z~Luis先生！还记得我淫荡的笑容吗？
 
 ;0x23D3418A=100
 0x23D3418A=100
 
 ;0x2424EDDB=~z~What? Are you kinding me? Little dick moron.
-0x2424EDDB=~z~What? Are you kinding me? Little dick moron.
+0x2424EDDB=~z~什么？你在开玩笑吗？小屌子白痴。
 
 ;0x2502A960=~z~Can I see you soon?
-0x2502A960=~z~Can I see you soon?
+0x2502A960=~z~待会儿能见到你吗？
 
 ;0x2588CF5C=090
 0x2588CF5C=090
 
 ;0x25977F8E=~z~Sorry sugar, tonight can't work for me. Maybe some other time.
-0x25977F8E=~z~Sorry sugar, tonight can't work for me. Maybe some other time.
+0x25977F8E=~z~对不起，甜心，我今天晚上没空。改天再约吧。
 
 ;0x2735BC7A=~z~Hi gorgeous.
-0x2735BC7A=~z~Hi gorgeous.
+0x2735BC7A=~z~嗨，帅哥。
 
 ;0x27B20831=~z~Sorry honey, I can't make it now.
-0x27B20831=~z~Sorry honey, I can't make it now.
+0x27B20831=~z~对不起，宝贝，我现在没空。
 
 ;0x27FDB66D=~z~You wouldn't mind keeping me company would you?
-0x27FDB66D=~z~You wouldn't mind keeping me company would you?
+0x27FDB66D=~z~你不介意来陪着我，对吧？
 
 ;0x2850504F=E2BC_WA
 0x2850504F=E2BC_WA
 
 ;0x28596B30=~z~It was fun hanging with you, but I'm afraid this is it.
-0x28596B30=~z~It was fun hanging with you, but I'm afraid this is it.
+0x28596B30=~z~和你相处很快乐，但也到此为止了。
 
 ;0x289170AF=100
 0x289170AF=100
 
 ;0x29464D58=~z~Cool! Did I tell you I'm a model? It's great.
-0x29464D58=~z~Cool! Did I tell you I'm a model? It's great.
+0x29464D58=~z~行啊！我告诉过你我是模特吗？太棒了。
 
 ;0x297A2E25=~z~Bye, big player.
-0x297A2E25=~z~Bye, big player.
+0x297A2E25=~z~再见，大玩家。
 
 ;0x2995FFB5=E2BC_APA
 0x2995FFB5=E2BC_APA
@@ -204,7 +204,7 @@
 0x2B720D44=E2BC_IA
 
 ;0x2B9BD65A=~z~Hey! I was wondering if you'd call.
-0x2B9BD65A=~z~Hey! I was wondering if you'd call.
+0x2B9BD65A=~z~嘿！正好在想你会不会打给我。
 
 ;0x2C7AB0E9=E2BC_AFA
 0x2C7AB0E9=E2BC_AFA
@@ -219,13 +219,13 @@
 0x2D9468E1=100
 
 ;0x2EC9F156=~z~Hello! My sexy macho Señor!
-0x2EC9F156=~z~Hello! My sexy macho Señor!
+0x2EC9F156=~z~你好！我性感的男子汉！
 
 ;0x2F27DBDE=~z~I hope it's cool if my friend wants to join?
-0x2F27DBDE=~z~I hope it's cool if my friend wants to join?
+0x2F27DBDE=~z~我带个朋友一起没事吧？
 
 ;0x317F7D40=~z~Hey sorry, chula, but I've too much going on for a relationship right now.
-0x317F7D40=~z~Hey sorry, chula, but I've too much going on for a relationship right now.
+0x317F7D40=~z~喂，对不起，美女，但我现在没空维持这段感情了。
 
 ;0x31874C27=E2BC_AIA
 0x31874C27=E2BC_AIA
@@ -234,13 +234,13 @@
 0x32069B0C=E2BC_ARA
 
 ;0x33F373EC=~z~Good bye then.
-0x33F373EC=~z~Good bye then.
+0x33F373EC=~z~再见。
 
 ;0x34A6EF2D=091
 0x34A6EF2D=091
 
 ;0x34EAF3F9=~z~You still on the fucking line?
-0x34EAF3F9=~z~You still on the fucking line?
+0x34EAF3F9=~z~你他妈还在忙？
 
 ;0x34FB90C3=E2BC_AJA
 0x34FB90C3=E2BC_AJA
@@ -249,31 +249,31 @@
 0x35A5C49D=E2BC_XA
 
 ;0x35CD4AF5=~z~Hey Luis, I miss you! What are you up to?
-0x35CD4AF5=~z~Hey Luis, I miss you! What are you up to?
+0x35CD4AF5=~z~嘿，Luis，我很想你！你有空吗？
 
 ;0x362A2A93=~z~Hey, I'm not around. Now it's your turn to talk.
-0x362A2A93=~z~Hey, I'm not around. Now it's your turn to talk.
+0x362A2A93=~z~嘿，我不在家。现在该你说话了。
 
 ;0x3741274F=~z~Hmm, now's not really good for me.
-0x3741274F=~z~Hmm, now's not really good for me.
+0x3741274F=~z~嗯...我现在不太方便。
 
 ;0x38AAB29C=100
 0x38AAB29C=100
 
 ;0x3B0A7537=~z~Well, look who it is.
-0x3B0A7537=~z~Well, look who it is.
+0x3B0A7537=~z~好吧，看看这是谁。
 
 ;0x3B88B09D=300
 0x3B88B09D=300
 
 ;0x3C365124=~z~You ready to go to work between these new thighs? I just got the fat sucked out of them.
-0x3C365124=~z~You ready to go to work between these new thighs? I just got the fat sucked out of them.
+0x3C365124=~z~准备好迎接我全新的大腿了吗？我刚做完抽脂。
 
 ;0x3C541F69=E2BC_BEA
 0x3C541F69=E2BC_BEA
 
 ;0x3D679F9F=~z~I've been thinking about you mami, you wanna give me another taste of that shit?
-0x3D679F9F=~z~I've been thinking about you mami, you wanna give me another taste of that shit?
+0x3D679F9F=~z~我一直在想你，姑娘。我能再尝尝你的滋味吗？
 
 ;0x3E1CBE46=100
 0x3E1CBE46=100
@@ -282,7 +282,7 @@
 0x3EC8F1A5=500
 
 ;0x3ECB0B0C=~z~Is this Luis? Master of sexy ramba salsa?
-0x3ECB0B0C=~z~Is this Luis? Master of sexy ramba salsa?
+0x3ECB0B0C=~z~是Luis吗？性感伦巴萨尔萨舞王？
 
 ;0x400B0AA2=E2BC_ALA
 0x400B0AA2=E2BC_ALA
@@ -291,25 +291,25 @@
 0x4038D4FD=090
 
 ;0x409BDE87=~z~Get your sword ready for stabbing Señor.
-0x409BDE87=~z~Get your sword ready for stabbing Señor.
+0x409BDE87=~z~准备好你的宝剑，先生。
 
 ;0x40D27F33=~z~I told my friend she could come with us, that's cool right?
-0x40D27F33=~z~I told my friend she could come with us, that's cool right?
+0x40D27F33=~z~我找了个朋友和我们一起，应该没事吧？
 
 ;0x41E51E5A=~z~Yo, it's Luis.
-0x41E51E5A=~z~Yo, it's Luis.
+0x41E51E5A=~z~哟，我是Luis。
 
 ;0x42CEB50E=100
 0x42CEB50E=100
 
 ;0x42FEA467=~z~Alright, why not?
-0x42FEA467=~z~Alright, why not?
+0x42FEA467=~z~好吧，何不呢？
 
 ;0x43F3E635=E2BC_BRA
 0x43F3E635=E2BC_BRA
 
 ;0x4424A1B8=~z~Don't be such a baby, Luis.
-0x4424A1B8=~z~Don't be such a baby, Luis.
+0x4424A1B8=~z~别这么孩子气，Luis。
 
 ;0x444A9666=100
 0x444A9666=100
@@ -324,40 +324,40 @@
 0x485BE167=E2BC_PA
 
 ;0x491F5608=~z~No, Luis. I'm sick of this shit.
-0x491F5608=~z~No, Luis. I'm sick of this shit.
+0x491F5608=~z~不， Luis。我已经受够了。
 
 ;0x49371190=~z~You back for more huh?
-0x49371190=~z~You back for more huh?
+0x49371190=~z~你又想要了啊？
 
 ;0x4A2BA915=~z~I think I can help you out with that one, girl. I'll be at your place in a few.
-0x4A2BA915=~z~I think I can help you out with that one, girl. I'll be at your place in a few.
+0x4A2BA915=~z~我应该能帮你解决，姑娘。我马上来你家。
 
 ;0x4A8A335E=~z~Get in here bitch!
-0x4A8A335E=~z~Get in here bitch!
+0x4A8A335E=~z~滚进来，贱人！
 
 ;0x4AA5E553=~z~I don't mind being objectived for the evening. Ok.
-0x4AA5E553=~z~I don't mind being objectived for the evening. Ok.
+0x4AA5E553=~z~我不介意晚上有活动。可以。
 
 ;0x4C603C64=~z~Hola mami, remember me? I was thinking we could have some fun.
-0x4C603C64=~z~Hola mami, remember me? I was thinking we could have some fun.
+0x4C603C64=~z~你好，妹子，还记得我吗？我们可以欢度春宵。
 
 ;0x4D13C0B7=~z~Luis, you're full of yourself.
-0x4D13C0B7=~z~Luis, you're full of yourself.
+0x4D13C0B7=~z~Luis，你太自负了。
 
 ;0x4D8CE95F=E2BC_BSA
 0x4D8CE95F=E2BC_BSA
 
 ;0x4F757514=~z~I can't believe I got dumped by a bouncer. I really do need some major lipo.
-0x4F757514=~z~I can't believe I got dumped by a bouncer. I really do need some major lipo.
+0x4F757514=~z~我居然被一个门卫甩了。看来真得去做个抽脂了。
 
 ;0x4F87F3DB=E2BC_AUA
 0x4F87F3DB=E2BC_AUA
 
 ;0x4FF265B9=~z~Hey Luis, you get my text? You up for a little something?
-0x4FF265B9=~z~Hey Luis, you get my text? You up for a little something?
+0x4FF265B9=~z~嘿，Luis，收到我短信了吗？你准备找点乐子吗？
 
 ;0x5018BAC1=~z~You ready for me, mami?
-0x5018BAC1=~z~You ready for me, mami?
+0x5018BAC1=~z~为我准备好了吗，宝贝？
 
 ;0x50FD1E34=100
 0x50FD1E34=100
@@ -369,13 +369,13 @@
 0x511E1589=E2BC_QA
 
 ;0x514CFB9D=~z~Hey, this is me, I'm lost somewhere in the big city. Leave me a message and I'll call ya!
-0x514CFB9D=~z~Hey, this is me, I'm lost somewhere in the big city. Leave me a message and I'll call ya!
+0x514CFB9D=~z~嘿，是我，我在这个大城市迷路了。给我留个言，我会联系你的！
 
 ;0x525D28D0=~z~Hey, that's cool, things weren't gonna work out anyway.
-0x525D28D0=~z~Hey, that's cool, things weren't gonna work out anyway.
+0x525D28D0=~z~嘿，也行吧，反正怎样都不会有结果。
 
 ;0x5272043E=~z~When can we meet up?
-0x5272043E=~z~When can we meet up?
+0x5272043E=~z~我们什么时候能见面?
 
 ;0x54642068=100
 0x54642068=100
@@ -384,10 +384,10 @@
 0x592CB795=200
 
 ;0x594FCC0E=~z~This isn't fun anymore, I have to go Luis.
-0x594FCC0E=~z~This isn't fun anymore, I have to go Luis.
+0x594FCC0E=~z~我已经失去兴趣了，我先挂了，Luis。
 
 ;0x5967EFEB=~z~Hi, there. It's me, you know what to do yeah?
-0x5967EFEB=~z~Hi, there. It's me, you know what to do yeah?
+0x5967EFEB=~z~嗨，你还。是我，你知道该干嘛，对吧？
 
 ;0x5B410805=100
 0x5B410805=100
@@ -396,7 +396,7 @@
 0x5B4339C5=100
 
 ;0x5B507A6A=~z~No, it's not all about you, Luis.
-0x5B507A6A=~z~No, it's not all about you, Luis.
+0x5B507A6A=~z~不，我不会围着你转，Luis。
 
 ;0x5C58C9E4=E2BC_BXA
 0x5C58C9E4=E2BC_BXA
@@ -405,19 +405,19 @@
 0x5C85FF62=E2BC_AMA
 
 ;0x5E279F10=~z~I'm sorry gorgeaous, I'd love to but I can't.
-0x5E279F10=~z~I'm sorry gorgeaous, I'd love to but I can't.
+0x5E279F10=~z~很抱歉，美女。我也想啊，真没空。
 
 ;0x5E6C8EB0=700
 0x5E6C8EB0=700
 
 ;0x5E88D7A1=~z~Let me up.
-0x5E88D7A1=~z~Let me up.
+0x5E88D7A1=~z~让我进去。
 
 ;0x5EE2B4B8=~z~I'm hanging up now. You cruel man!
-0x5EE2B4B8=~z~I'm hanging up now. You cruel man!
+0x5EE2B4B8=~z~我要挂电话了，冷酷无情的家伙！
 
 ;0x5F174D66=~z~I'll just phone someone else then, innit.
-0x5F174D66=~z~I'll just phone someone else then, innit.
+0x5F174D66=~z~那我找别人吧，好吗？
 
 ;0x5F671C77=700
 0x5F671C77=700
@@ -435,10 +435,10 @@
 0x6395EF02=E2BC_AGA
 
 ;0x64B7DE2D=~z~If you want it, you got it! I'll be right over.
-0x64B7DE2D=~z~If you want it, you got it! I'll be right over.
+0x64B7DE2D=~z~既然你想要，满足你！我马上到。
 
 ;0x6743013D=~z~You gonna come over and sort me out?
-0x6743013D=~z~You gonna come over and sort me out?
+0x6743013D=~z~你准备过来调教我了吗？
 
 ;0x67CD738D=E2BC_BMA
 0x67CD738D=E2BC_BMA
@@ -447,7 +447,7 @@
 0x68736B0C=E2BCL_DA
 
 ;0x68B63D0A=~z~I need assistance in this bullfight Señor.
-0x68B63D0A=~z~I need assistance in this bullfight Señor.
+0x68B63D0A=~z~对付这个强壮的先生，我需要帮助。
 
 ;0x68F4270E=400
 0x68F4270E=400
@@ -456,13 +456,13 @@
 0x6C566907=E2BC_YA
 
 ;0x6C587D2A=~z~I figured. Everyone I've met here has been a condescending asshole so why d'you be any different?
-0x6C587D2A=~z~I figured. Everyone I've met here has been a condescending asshole so why d'you be any different?
+0x6C587D2A=~z~我懂了。我在这儿认识的都是自以为是的混蛋，你怎么可能不一样呢？
 
 ;0x6C6CC21E=100
 0x6C6CC21E=100
 
 ;0x6CC7741E=~z~Oye mami, I'm here.
-0x6CC7741E=~z~Oye mami, I'm here.
+0x6CC7741E=~z~喂，宝贝，我来了。
 
 ;0x6CFE9C97=E2BC_EA
 0x6CFE9C97=E2BC_EA
@@ -474,34 +474,34 @@
 0x6E4229E3=E2BC_BKA
 
 ;0x6EE729E6=~z~Hello, leave a nice smile. I will respond.
-0x6EE729E6=~z~Hello, leave a nice smile. I will respond.
+0x6EE729E6=~z~你好，留一个甜美的笑容。我会回复的。
 
 ;0x6EF9F2B1=~z~You been thinking about me, huh? I'll come around.
-0x6EF9F2B1=~z~You been thinking about me, huh? I'll come around.
+0x6EF9F2B1=~z~你一直在想我吧？我会来的。
 
 ;0x6F0B4D2C=E2BC_AXA
 0x6F0B4D2C=E2BC_AXA
 
 ;0x6FAEA0BE=~z~I can't do this anymore, Luis.
-0x6FAEA0BE=~z~I can't do this anymore, Luis.
+0x6FAEA0BE=~z~我不能再这样了，Luis。
 
 ;0x6FAEE7E0=E2BC_BPA
 0x6FAEE7E0=E2BC_BPA
 
 ;0x70C5FFF5=~z~Ok, got nothing better to do.
-0x70C5FFF5=~z~Ok, got nothing better to do.
+0x70C5FFF5=~z~好吧，反正也没事做。
 
 ;0x7119EFA9=~z~Luis? Would you like to see my cha-cha-cha panties?
-0x7119EFA9=~z~Luis? Would you like to see my cha-cha-cha panties?
+0x7119EFA9=~z~Luis？你想看看我跳恰恰舞的裤子吗？
 
 ;0x7139465A=~z~Get the fuck in here.
-0x7139465A=~z~Get the fuck in here.
+0x7139465A=~z~快他妈滚进来。
 
 ;0x716E894B=E2BC_OA
 0x716E894B=E2BC_OA
 
 ;0x7174D9DC=~z~Do not bother me, with hurtful feelings.
-0x7174D9DC=~z~Do not bother me, with hurtful feelings.
+0x7174D9DC=~z~别给我带来痛苦的回忆。
 
 ;0x72DE855E=E2BCL_BA
 0x72DE855E=E2BCL_BA
@@ -513,10 +513,10 @@
 0x7534263F=600
 
 ;0x75360E0F=~z~O ye, you been thinking about me as much as I've been thinking about you?
-0x75360E0F=~z~O ye, you been thinking about me as much as I've been thinking about you?
+0x75360E0F=~z~喂，你有像我想你一样想我吗？
 
 ;0x7563EA46=~z~Come on in.
-0x7563EA46=~z~Come on in.
+0x7563EA46=~z~进来吧。
 
 ;0x756FBABF=E2BC_ATA
 0x756FBABF=E2BC_ATA
@@ -525,25 +525,25 @@
 0x770ADC91=200
 
 ;0x77C34ABE=~z~Later, baby.
-0x77C34ABE=~z~Later, baby.
+0x77C34ABE=~z~回见，宝贝。
 
 ;0x77C90AD4=E2BC_UA
 0x77C90AD4=E2BC_UA
 
 ;0x788AAC10=~z~H-Hi!
-0x788AAC10=~z~H-Hi!
+0x788AAC10=~z~嗨、嗨！
 
 ;0x789D81B8=E2BCL_CA
 0x789D81B8=E2BCL_CA
 
 ;0x78CE8C2C=~z~I'm here minha.
-0x78CE8C2C=~z~I'm here minha.
+0x78CE8C2C=~z~我来了，宝贝。
 
 ;0x799E97C9=E2BC_BOA
 0x799E97C9=E2BC_BOA
 
 ;0x7B96D9EE=~z~Cono, shit, um...now? I can't, sorry!
-0x7B96D9EE=~z~Cono, shit, um...now? I can't, sorry!
+0x7B96D9EE=~z~妈的，呃...现在吗？那不行，我很抱歉！
 
 ;0x7BEA930E=E2BC_NA
 0x7BEA930E=E2BC_NA
@@ -552,13 +552,13 @@
 0x7CB4DD8D=400
 
 ;0x7CD82C67=~z~Hello, I'm feeling horny. You about?
-0x7CD82C67=~z~Hello, I'm feeling horny. You about?
+0x7CD82C67=~z~你好，我现在很想要。你呢？
 
 ;0x7D8DF12C=E2BCL_FA
 0x7D8DF12C=E2BCL_FA
 
 ;0x7DD46E34=~z~Hey baby, let me show you something amazing.
-0x7DD46E34=~z~Hey baby, let me show you something amazing.
+0x7DD46E34=~z~嘿，宝贝，我给你准备了一份惊喜。
 
 ;0x7E74F876=E2BC_ASA
 0x7E74F876=E2BC_ASA
@@ -567,94 +567,94 @@
 0x7EDF3B73=100
 
 ;0x81310C84=~z~Whatever. Bye.
-0x81310C84=~z~Whatever. Bye.
+0x81310C84=~z~随你吧，再见。
 
 ;0x82F96692=100
 0x82F96692=100
 
 ;0x8317C12A=~z~Hey!
-0x8317C12A=~z~Hey!
+0x8317C12A=~z~嘿！
 
 ;0x8367C4BA=~z~Nah, I'm knackered from last night.
-0x8367C4BA=~z~Nah, I'm knackered from last night.
+0x8367C4BA=~z~不了，昨晚我累坏了。
 
 ;0x83A76B36=~z~Bout time too. Hurry up.
-0x83A76B36=~z~Bout time too. Hurry up.
+0x83A76B36=~z~是该到了，快点。
 
 ;0x86978709=~z~Get up here.
-0x86978709=~z~Get up here.
+0x86978709=~z~到这来。
 
 ;0x8727A67A=100
 0x8727A67A=100
 
 ;0x8780298F=~z~Oye, mami. E Luis.
-0x8780298F=~z~Oye, mami. E Luis.
+0x8780298F=~z~喂，妹子。我是Luis。
 
 ;0x87AA8ED3=~z~Finally. Get that monster in here!
-0x87AA8ED3=~z~Finally. Get that monster in here!
+0x87AA8ED3=~z~终于来了，让你的怪兽进来吧！	
 
 ;0x893DEBBE=~z~Hey, hey! I must be at a model shoot or something, so leave me a message!
-0x893DEBBE=~z~Hey, hey! I must be at a model shoot or something, so leave me a message!
+0x893DEBBE=~z~嘿，嘿！我一定是在忙模特拍摄之类的，给我留言吧!
 
 ;0x89470580=100
 0x89470580=100
 
 ;0x8954A1E0=~z~Whatever mate.
-0x8954A1E0=~z~Whatever mate.
+0x8954A1E0=~z~随你吧，朋友。
 
 ;0x8AABD488=~z~Can't wait to see you.
-0x8AABD488=~z~Can't wait to see you.
+0x8AABD488=~z~等不及见到你了。
 
 ;0x8AF765F1=~z~Alright then!
-0x8AF765F1=~z~Alright then!
+0x8AF765F1=~z~那好啊！
 
 ;0x8B67E83F=E2BC_BWA
 0x8B67E83F=E2BC_BWA
 
 ;0x8BECB642=~z~Yeah, I'm bored anyway.
-0x8BECB642=~z~Yeah, I'm bored anyway.
+0x8BECB642=~z~好啊，刚好我也无聊了。
 
 ;0x8C501597=~z~Fine, but you have to be extra nice.
-0x8C501597=~z~Fine, but you have to be extra nice.
+0x8C501597=~z~好吧，但你必须听我的话。
 
 ;0x8D3DCD9D=100
 0x8D3DCD9D=100
 
 ;0x8E1F27F4=~z~Maybe you'd like Angela to help us?
-0x8E1F27F4=~z~Maybe you'd like Angela to help us?
+0x8E1F27F4=~z~可以让Angela来帮我们吗？
 
 ;0x8E920BDA=100
 0x8E920BDA=100
 
 ;0x8F2178E2=~z~You know the way, baby.
-0x8F2178E2=~z~You know the way, baby.
+0x8F2178E2=~z~你认识路的，宝贝。
 
 ;0x9075C58D=~z~Hey babies, leave me a message, because I can't come to the phone.
-0x9075C58D=~z~Hey babies, leave me a message, because I can't come to the phone.
+0x9075C58D=~z~嘿，宝贝们。给我留言吧，我现在接不了电话。
 
 ;0x91956115=~z~Nah mate, I'm on a shoot.
-0x91956115=~z~Nah mate, I'm on a shoot.
+0x91956115=~z~不了，兄弟。我很忙。
 
 ;0x91CAC738=~z~O ye mami, I was thinking we should hook up.
-0x91CAC738=~z~O ye mami, I was thinking we should hook up.
+0x91CAC738=~z~喂，妹子。我们要不要来一发？
 
 ;0x91EC835F=~z~Adiós my sexy Señor.
-0x91EC835F=~z~Adiós my sexy Señor.
+0x91EC835F=~z~再见，我的性感先生。
 
 ;0x93C1308E=~z~Bye bye.
-0x93C1308E=~z~Bye bye.
+0x93C1308E=~z~拜拜。
 
 ;0x943949EA=190
 0x943949EA=190
 
 ;0x95444517=~z~You're gonna open the door, chula?
-0x95444517=~z~You're gonna open the door, chula?
+0x95444517=~z~你能开下门吗？
 
 ;0x955665A7=~z~Hello?
-0x955665A7=~z~Hello?
+0x955665A7=~z~你好？
 
 ;0x9727C043=~z~Okay, but you better shave, I don't want no rashes or nothing.
-0x9727C043=~z~Okay, but you better shave, I don't want no rashes or nothing.
+0x9727C043=~z~好吧，但你最好先刮干净，我不想得皮疹啥的。
 
 ;0x9771C201=E2BC_BCA
 0x9771C201=E2BC_BCA
@@ -666,31 +666,31 @@
 0x995706C8=E2BC_BUA
 
 ;0x9982F476=~z~Oh yes, please!
-0x9982F476=~z~Oh yes, please!
+0x9982F476=~z~噢，好，来吧！
 
 ;0x9A11B11A=~z~Okay, but I'm in charge.
-0x9A11B11A=~z~Okay, but I'm in charge.
+0x9A11B11A=~z~好吧，但得我主动。
 
 ;0x9A931B9A=~z~Hey sugar, I'm sitting in my room feeling all lonely. Wanna fill that void?
-0x9A931B9A=~z~Hey sugar, I'm sitting in my room feeling all lonely. Wanna fill that void?
+0x9A931B9A=~z~嘿，甜心，我在房间里好寂寞啊。想来填补空虚吗？
 
 ;0x9AB93D34=190
 0x9AB93D34=190
 
 ;0x9B87145C=~z~For your spicy love, I'll be there.
-0x9B87145C=~z~For your spicy love, I'll be there.
+0x9B87145C=~z~为了你那火热的爱，我等着。
 
 ;0x9C0C55D0=E2BC_VA
 0x9C0C55D0=E2BC_VA
 
 ;0x9C338875=~z~I got nothin' else going on.
-0x9C338875=~z~I got nothin' else going on.
+0x9C338875=~z~刚好我也没安排。
 
 ;0x9C3E1267=100
 0x9C3E1267=100
 
 ;0x9C79CDB0=~z~Yo, that could be fun. Put something nice on.
-0x9C79CDB0=~z~Yo, that could be fun. Put something nice on.
+0x9C79CDB0=~z~哟，会很快乐的。换身好看的。
 
 ;0x9D53733A=100
 0x9D53733A=100
@@ -702,28 +702,28 @@
 0x9F65DDA0=100
 
 ;0x9FF96395=~z~What you doin' right now?
-0x9FF96395=~z~What you doin' right now?
+0x9FF96395=~z~你现在在干嘛？
 
 ;0xA0485F6A=~z~You better be ready for this shit.
-0xA0485F6A=~z~You better be ready for this shit.
+0xA0485F6A=~z~你最好是准备好了。
 
 ;0xA1057F89=~z~Hey, honey!
-0xA1057F89=~z~Hey, honey!
+0xA1057F89=~z~嘿，甜心！
 
 ;0xA228632A=~z~I've been waiting.
-0xA228632A=~z~I've been waiting.
+0xA228632A=~z~我等你好久了。
 
 ;0xA35F1F74=~z~Mommy's hungry, and she wants to eat. Are you coming around?
-0xA35F1F74=~z~Mommy's hungry, and she wants to eat. Are you coming around?
+0xA35F1F74=~z~妈咪饿饿，想要吃吃。你能来吗？
 
 ;0xA3ACE1E8=~z~E mio.
-0xA3ACE1E8=~z~E mio.
+0xA3ACE1E8=~z~是我。
 
 ;0xA4627B7B=~z~Oi, it's me, I wanna fuck. You up for it?
-0xA4627B7B=~z~Oi, it's me, I wanna fuck. You up for it?
+0xA4627B7B=~z~喂，是我，我想要了。你准备好了吗？
 
 ;0xA4C8DAC4=~z~Hello Luis, guess who?
-0xA4C8DAC4=~z~Hello Luis, guess who?
+0xA4C8DAC4=~z~你好，Luis，猜猜我是谁？
 
 ;0xA5930636=100
 0xA5930636=100
@@ -732,13 +732,13 @@
 0xA6EC77CF=E2BC_BJA
 
 ;0xA70FD72B=~z~I'll be thinking of you.
-0xA70FD72B=~z~I'll be thinking of you.
+0xA70FD72B=~z~我会想你的。
 
 ;0xA7B1322A=~z~I'd love to, but I've got stuff to handle. Put that shit, on ice for me.
-0xA7B1322A=~z~I'd love to, but I've got stuff to handle. Put that shit, on ice for me.
+0xA7B1322A=~z~我也想啊，但我有事要处理。约会先缓缓吧。
 
 ;0xA81C1EF3=~z~Wicked. See you in a minute.
-0xA81C1EF3=~z~Wicked. See you in a minute.
+0xA81C1EF3=~z~赞诶。待会儿见。
 
 ;0xA864B5C0=E2BC_AHA
 0xA864B5C0=E2BC_AHA
@@ -750,19 +750,19 @@
 0xA937EE83=E2BC_AKA
 
 ;0xA9A9B0A1=~z~I put on cha-cha-cha panties right away.
-0xA9A9B0A1=~z~I put on cha-cha-cha panties right away.
+0xA9A9B0A1=~z~我这就把跳恰恰舞的裤子穿上。
 
 ;0xA9C362F7=200
 0xA9C362F7=200
 
 ;0xAAB196E3=~z~I'd absolutely love to!
-0xAAB196E3=~z~I'd absolutely love to!
+0xAAB196E3=~z~我当然乐意！
 
 ;0xABE41E6F=100
 0xABE41E6F=100
 
 ;0xAC857F99=~z~Jesus, don't be an asshole.
-0xAC857F99=~z~Jesus, don't be an asshole.
+0xAC857F99=~z~天哪，别这么混蛋。
 
 ;0xACCC1961=E2BC_AZA
 0xACCC1961=E2BC_AZA
@@ -777,16 +777,16 @@
 0xADBF5C16=100
 
 ;0xAE6CFB38=~z~So listen, you're not really my, erh, type. It's over, bye.
-0xAE6CFB38=~z~So listen, you're not really my, erh, type. It's over, bye.
+0xAE6CFB38=~z~听着，你真不是我的...菜。就这样吧，拜拜。
 
 ;0xB0EF762C=100
 0xB0EF762C=100
 
 ;0xB11B9E6E=~z~Whatever! I wasn't feeling it either.
-0xB11B9E6E=~z~Whatever! I wasn't feeling it either.
+0xB11B9E6E=~z~随你吧！刚好我也没欲望。
 
 ;0xB2F07002=~z~This is why I don't fuck with the help.
-0xB2F07002=~z~This is why I don't fuck with the help.
+0xB2F07002=~z~所以我才不打慈善炮。
 
 ;0xB33354D7=E2BC_ZBA
 0xB33354D7=E2BC_ZBA
@@ -801,31 +801,31 @@
 0xB463A177=100
 
 ;0xB5B0BA1C=~z~Hurry up then.
-0xB5B0BA1C=~z~Hurry up then.
+0xB5B0BA1C=~z~那你快点。
 
 ;0xB5F75E79=~z~There's too much in here for just one little girl to handle. Come on.
-0xB5F75E79=~z~There's too much in here for just one little girl to handle. Come on.
+0xB5F75E79=~z~光我一个小姑娘不可能顶得住的。来吧。
 
 ;0xB6208FDF=100
 0xB6208FDF=100
 
 ;0xB6837E39=~z~Hi babe.
-0xB6837E39=~z~Hi babe.
+0xB6837E39=~z~嗨，宝贝。
 
 ;0xB75523A5=100
 0xB75523A5=100
 
 ;0xB8507C56=~z~She thinks you're hot as shit too, do you mind?
-0xB8507C56=~z~She thinks you're hot as shit too, do you mind?
+0xB8507C56=~z~她也觉得你超性感，你介意吗？
 
 ;0xB86E325C=~z~I'll be right there.
-0xB86E325C=~z~I'll be right there.
+0xB86E325C=~z~我等着你。
 
 ;0xBC405B4C=~z~Sorry babe, I got a lot going on. Another time.
-0xBC405B4C=~z~Sorry babe, I got a lot going on. Another time.
+0xBC405B4C=~z~不好意思，宝贝。我有其他事要忙。改天吧。
 
 ;0xBD977825=~z~Okay, but you better be good.
-0xBD977825=~z~Okay, but you better be good.
+0xBD977825=~z~好吧，但你要乖哦。
 
 ;0xBF0754D0=E2BC_MA
 0xBF0754D0=E2BC_MA
@@ -834,25 +834,25 @@
 0xBF971ECA=300
 
 ;0xBFFDCD7B=~z~I'll just change into something, more suitable.
-0xBFFDCD7B=~z~I'll just change into something, more suitable.
+0xBFFDCD7B=~z~我会换一套更合适的衣服。
 
 ;0xC047AA37=~z~What? Are you joking? You're dumping me? Bye then!
-0xC047AA37=~z~What? Are you joking? You're dumping me? Bye then!
+0xC047AA37=~z~什么？你在开玩笑吗？你把我甩了？再见！
 
 ;0xC2212B06=100
 0xC2212B06=100
 
 ;0xC232C618=~z~Lovin' the twenty first century.
-0xC232C618=~z~Lovin' the twenty first century.
+0xC232C618=~z~这就是二十一世纪。
 
 ;0xC24908A6=~z~Fair enough, you have fun.
-0xC24908A6=~z~Fair enough, you have fun.
+0xC24908A6=~z~有道理，祝你开心。
 
 ;0xC39FF8E1=~z~You can't see me like this, I'm all bloated. Sorry!
-0xC39FF8E1=~z~You can't see me like this, I'm all bloated. Sorry!
+0xC39FF8E1=~z~你现在还不能见我，我全身都肿了。对不起！
 
 ;0xC3F0C721=~z~God damn. You are so hot!
-0xC3F0C721=~z~God damn. You are so hot!
+0xC3F0C721=~z~天哪。你真性感！
 
 ;0xC4B9687F=E2BC_AVA
 0xC4B9687F=E2BC_AVA
@@ -861,13 +861,13 @@
 0xC4C48144=100
 
 ;0xC4D50477=~z~Sure. I'd love to get together.
-0xC4D50477=~z~Sure. I'd love to get together.
+0xC4D50477=~z~好啊，我也想聚一聚。
 
 ;0xC5C6F0C5=E2BC_BIA
 0xC5C6F0C5=E2BC_BIA
 
 ;0xC63E9F70=~z~This is my mate, she's well dirty, you'll like her.
-0xC63E9F70=~z~This is my mate, she's well dirty, you'll like her.
+0xC63E9F70=~z~这是我朋友。她很下流，你会喜欢的。
 
 ;0xC658EAE0=E2BCL_AA
 0xC658EAE0=E2BCL_AA
@@ -882,7 +882,7 @@
 0xC89FB858=E2BC_ACA
 
 ;0xC8C322D4=~z~Oi, you alright?
-0xC8C322D4=~z~Oi, you alright?
+0xC8C322D4=~z~喂，你还好吗？
 
 ;0xC9A165BC=100
 0xC9A165BC=100
@@ -891,10 +891,10 @@
 0xC9C86DC9=100
 
 ;0xCB1A75BA=~z~Good bye spicy lover.
-0xCB1A75BA=~z~Good bye spicy lover.
+0xCB1A75BA=~z~再见，火热的情人。
 
 ;0xCC862055=~z~Whatever dude, I must have been drunk.
-0xCC862055=~z~Whatever dude, I must have been drunk.
+0xCC862055=~z~随便吧，老兄。我肯定是喝多了。
 
 ;0xCC89D117=100
 0xCC89D117=100
@@ -906,31 +906,31 @@
 0xCEE5CC04=600
 
 ;0xCFB7342E=~z~I'm on my way.
-0xCFB7342E=~z~I'm on my way.
+0xCFB7342E=~z~我这就来。
 
 ;0xCFDA8C9E=~z~You ate your last salsa. Do not call me.
-0xCFDA8C9E=~z~You ate your last salsa. Do not call me.
+0xCFDA8C9E=~z~这是你的最后一份辣番茄酱。别再找我了。
 
 ;0xD27CD239=~z~I need to feel your hands on me again. Are you free?
-0xD27CD239=~z~I need to feel your hands on me again. Are you free?
+0xD27CD239=~z~我又想被你抚摸了，你有空吗？
 
 ;0xD40AAC29=~z~And I was just about to call you and tell you I loved you. You broke my poor heart.
-0xD40AAC29=~z~And I was just about to call you and tell you I loved you. You broke my poor heart.
+0xD40AAC29=~z~我刚想打电话告诉你我爱你。你伤害了我脆弱的心。
 
 ;0xD4B66F3F=~z~I'm so horny, what are you doing?
-0xD4B66F3F=~z~I'm so horny, what are you doing?
+0xD4B66F3F=~z~我想要了，你在干嘛？
 
 ;0xD4E219B7=E2BC_TA
 0xD4E219B7=E2BC_TA
 
 ;0xD5519C44=~z~You're going to have to put that penis somewhere else, I'm sorry!
-0xD5519C44=~z~You're going to have to put that penis somewhere else, I'm sorry!
+0xD5519C44=~z~你得换个地方插你的鸡巴了，抱歉！
 
 ;0xD5D58FAF=~z~Luis, I'm already excited.
-0xD5D58FAF=~z~Luis, I'm already excited.
+0xD5D58FAF=~z~Luis，我现在就很兴奋。
 
 ;0xD6C7D974=~z~Come on up.
-0xD6C7D974=~z~Come on up.
+0xD6C7D974=~z~上来吧。
 
 ;0xD6E6FA0E=E2BC_BLA
 0xD6E6FA0E=E2BC_BLA
@@ -939,7 +939,7 @@
 0xD72E7D34=E2BC_ADA
 
 ;0xD7D0126B=~z~I got shit going on, mami. I'm sorry.
-0xD7D0126B=~z~I got shit going on, mami. I'm sorry.
+0xD7D0126B=~z~我有事情要忙，妹子。对不起。
 
 ;0xD9E0C038=090
 0xD9E0C038=090
@@ -951,10 +951,10 @@
 0xDB45CFB8=100
 
 ;0xDBEE855C=~z~Great, I'll be ready for you.
-0xDBEE855C=~z~Great, I'll be ready for you.
+0xDBEE855C=~z~好，我会准备好的。
 
 ;0xDC5E5C5E=~z~Hey mami, it's Luis. You wanna do something?
-0xDC5E5C5E=~z~Hey mami, it's Luis. You wanna do something?
+0xDC5E5C5E=~z~嘿，妹子。我是Luis。你想做点啥吗？
 
 ;0xDC6C836D=E2BC_DA
 0xDC6C836D=E2BC_DA
@@ -975,58 +975,58 @@
 0xDE77BBCC=E2BC_JA
 
 ;0xDEE2C1D9=~z~Stay safe, okay?
-0xDEE2C1D9=~z~Stay safe, okay?
+0xDEE2C1D9=~z~注意安全，好吗？
 
 ;0xDF54C5F2=~z~Ah, sorry, I barely remember you.
-0xDF54C5F2=~z~Ah, sorry, I barely remember you.
+0xDF54C5F2=~z~啊，抱歉，我对你没啥印象。
 
 ;0xE051AEB3=~z~Hiya.
-0xE051AEB3=~z~Hiya.
+0xE051AEB3=~z~嗨。
 
 ;0xE06AC852=~z~You only want a sexy time! What of love?
-0xE06AC852=~z~You only want a sexy time! What of love?
+0xE06AC852=~z~你只想要春宵一刻！那爱呢？
 
 ;0xE0842DF5=~z~No more bull fights. Good bye forever!
-0xE0842DF5=~z~No more bull fights. Good bye forever!
+0xE0842DF5=~z~你没机会了。再也不见！
 
 ;0xE2C278C7=E2BC_LA
 0xE2C278C7=E2BC_LA
 
 ;0xE32975FD=~z~Some guys would kill for this number. Call me.
-0xE32975FD=~z~Some guys would kill for this number. Call me.
+0xE32975FD=~z~有人为了我的号码费尽心思。常联系。
 
 ;0xE39F4D97=E2BC_BTA
 0xE39F4D97=E2BC_BTA
 
 ;0xE66CE71C=~z~Minha, I'm sorry, but I'm afraid this ain't gonna work out.
-0xE66CE71C=~z~Minha, I'm sorry, but I'm afraid this ain't gonna work out.
+0xE66CE71C=~z~宝贝，对不起，但这样不会有结果的。
 
 ;0xE756BA31=~z~You are too macho. I need a sexy helper!
-0xE756BA31=~z~You are too macho. I need a sexy helper!
+0xE756BA31=~z~你太男子汉了。我需要一个性爱助手！
 
 ;0xE8897CF7=~z~I'm dying. Get up here!
-0xE8897CF7=~z~I'm dying. Get up here!
+0xE8897CF7=~z~忍不住了。快上来！
 
 ;0xE8A166F4=E2BC_ZA
 0xE8A166F4=E2BC_ZA
 
 ;0xE8FEB4C8=~z~I ain't gonna be able to accommodate you right now. Call me later.
-0xE8FEB4C8=~z~I ain't gonna be able to accommodate you right now. Call me later.
+0xE8FEB4C8=~z~我现在没法迁就你。有空再联系。
 
 ;0xE94F085E=100
 0xE94F085E=100
 
 ;0xEA3821EF=~z~Can't wait, mwah!
-0xEA3821EF=~z~Can't wait, mwah!
+0xEA3821EF=~z~等不及了，么！
 
 ;0xEA3BA192=~z~Finally you bring me joy and life! Come in.
-0xEA3BA192=~z~Finally you bring me joy and life! Come in.
+0xEA3BA192=~z~你终于给我带来生的喜悦了！进来吧。
 
 ;0xEA99F8D5=~z~Yo, it's Luis, I was thinking about you. And maybe we could hook up again.
-0xEA99F8D5=~z~Yo, it's Luis, I was thinking about you. And maybe we could hook up again.
+0xEA99F8D5=~z~哟，我是Luis，正在想你呢。要么我们再约一次吧？
 
 ;0xEB109396=~z~Hey, you!
-0xEB109396=~z~Hey, you!
+0xEB109396=~z~嘿，你好！
 
 ;0xEC7ABB9C=090
 0xEC7ABB9C=090
@@ -1035,22 +1035,22 @@
 0xECAB9E0A=100
 
 ;0xECBCAFE3=~z~Leave us a message, innit?
-0xECBCAFE3=~z~Leave us a message, innit?
+0xECBCAFE3=~z~给我们留言吧，好吗？
 
 ;0xEE37E3EC=~z~I'm I just one of your many Señoritas? Adiós!
-0xEE37E3EC=~z~I'm I just one of your many Señoritas? Adiós!
+0xEE37E3EC=~z~我只是你众多女人中的一个？再也不见！
 
 ;0xEE5AEECC=100
 0xEE5AEECC=100
 
 ;0xEE934B36=~z~Hey you.
-0xEE934B36=~z~Hey you.
+0xEE934B36=~z~嘿，你好。
 
 ;0xF07F6512=~z~It's okay, we all gotta do our own thing.
-0xF07F6512=~z~It's okay, we all gotta do our own thing.
+0xF07F6512=~z~没事，我们都有自己的生活。
 
 ;0xF12E0F9B=~z~I've been thinking about you again. I want to see you.
-0xF12E0F9B=~z~I've been thinking about you again. I want to see you.
+0xF12E0F9B=~z~我又在想你了。我想见你。
 
 ;0xF14D29F8=200
 0xF14D29F8=200
@@ -1062,34 +1062,34 @@
 0xF24E2420=E2BC_BAA
 
 ;0xF292E620=~z~Poo, ok then.
-0xF292E620=~z~Poo, ok then.
+0xF292E620=~z~切，好吧。
 
 ;0xF2F978E5=~z~Get in here and get to work on me girl.
-0xF2F978E5=~z~Get in here and get to work on me girl.
+0xF2F978E5=~z~快进来，干我的小姑娘吧。
 
 ;0xF30AE0E2=~z~If you're as good as last time, I'm there.
-0xF30AE0E2=~z~If you're as good as last time, I'm there.
+0xF30AE0E2=~z~希望你的活和上次一样好，我等你。
 
 ;0xF3549B09=~z~Sorry I need to be fresh for tomorrow.
-0xF3549B09=~z~Sorry I need to be fresh for tomorrow.
+0xF3549B09=~z~对不起，我要为明天保存精力。
 
 ;0xF37BEA52=100
 0xF37BEA52=100
 
 ;0xF38A8AB6=~z~You better be home, mami. Because I want you. Now!
-0xF38A8AB6=~z~You better be home, mami. Because I want you. Now!
+0xF38A8AB6=~z~你最好在家，妹子。因为我现在就想要你！
 
 ;0xF3D9C8CC=E2BC_RA
 0xF3D9C8CC=E2BC_RA
 
 ;0xF41ADDAF=~z~Don't call or text me anymore!
-0xF41ADDAF=~z~Don't call or text me anymore!
+0xF41ADDAF=~z~别给我打电话发短信了！
 
 ;0xF4ACF508=100
 0xF4ACF508=100
 
 ;0xF60F4EE9=~z~O ye, now ain't good for me, another time, okay?
-0xF60F4EE9=~z~O ye, now ain't good for me, another time, okay?
+0xF60F4EE9=~z~那个，现在我没空，改天吧，好吗？
 
 ;0xF7C8E86B=100
 0xF7C8E86B=100
@@ -1098,25 +1098,25 @@
 0xF81D326D=100
 
 ;0xF8308504=~z~I'll be over soon, mami.
-0xF8308504=~z~I'll be over soon, mami.
+0xF8308504=~z~我马上就到，妹子。
 
 ;0xF8726ABD=~z~Come on up.
-0xF8726ABD=~z~Come on up.
+0xF8726ABD=~z~进来吧。
 
 ;0xF884947A=E2BC_SA
 0xF884947A=E2BC_SA
 
 ;0xF9450D13=~z~Ready for this baby?
-0xF9450D13=~z~Ready for this baby?
+0xF9450D13=~z~准备好了吗，宝贝？
 
 ;0xF9DC69C1=E2BC_FA
 0xF9DC69C1=E2BC_FA
 
 ;0xFB060ACB=~z~Don't go nowhere.
-0xFB060ACB=~z~Don't go nowhere.
+0xFB060ACB=~z~你可别走啊。
 
 ;0xFBE1B975=~z~Fair enough.
-0xFBE1B975=~z~Fair enough.
+0xFBE1B975=~z~有道理。
 
 ;0xFC1A4073=E2BC_KA
 0xFC1A4073=E2BC_KA
@@ -1125,11 +1125,12 @@
 0xFD35B98B=E2BC_ABA
 
 ;0xFE571435=~z~It's you!
-0xFE571435=~z~It's you!
+0xFE571435=~z~是你啊！
 
 ;0xFE665998=E2BC_AWA
 0xFE665998=E2BC_AWA
 
 ;0xFF1D993C=~z~My boyfriend told me to stop fucking the help, so I have to cut you off. Sorry!
-0xFF1D993C=~z~My boyfriend told me to stop fucking the help, so I have to cut you off. Sorry!
+0xFF1D993C=~z~我男友让我别打慈善炮了，所以不能再联系你了。对不起！
+
 

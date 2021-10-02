@@ -6,7 +6,7 @@
 0x88DFF129=~r~Arnaud受伤了。
 
 ;0x98198F88=Take Arnaud to the ~y~Massage Spa.
-0x98198F88=带Arnaud去~y~水疗按摩店。
+0x98198F88=送Arnaud去~y~水疗按摩店。
 
 ;0xA06AA02A=~r~Arnaud is dead.
 0xA06AA02A=~r~Arnaud死了。

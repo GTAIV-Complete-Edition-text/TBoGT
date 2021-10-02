@@ -1,124 +1,124 @@
 ﻿[E2LAAUD]
 ;0x006B91D1=~z~I wish I didn't need to keep coming here, but I'm that kind of degenerate.
-0x006B91D1=~z~I wish I didn't need to keep coming here, but I'm that kind of degenerate.
+0x006B91D1=~z~希望我不用一直来这儿，但我就是那种败类。
 
 ;0x087E7D2F=~z~I'm gonna make love not war, man. Later.
-0x087E7D2F=~z~I'm gonna make love not war, man. Later.
+0x087E7D2F=~z~我要爱，不要战争，兄弟。回见。
 
 ;0x1822CC8F=~z~~x~Okay.
-0x1822CC8F=~z~~x~Okay.
+0x1822CC8F=~z~~x~好的。
 
 ;0x1E24CD43=~z~Nice one, bro.
-0x1E24CD43=~z~Nice one, bro.
+0x1E24CD43=~z~真棒，兄弟。
 
 ;0x204ADCDB=~z~~x~When we going by my house?
-0x204ADCDB=~z~~x~When we going by my house?
+0x204ADCDB=~z~~x~什么时候经过我家？
 
 ;0x25E36810=~z~~x~Okey doke.
-0x25E36810=~z~~x~Okey doke.
+0x25E36810=~z~~x~完全可以。
 
 ;0x292C594C=E2LA_EA
 0x292C594C=E2LA_EA
 
 ;0x2B99682C=~z~~c~ Fight the power, dog.
-0x2B99682C=~z~~c~ Fight the power, dog.
+0x2B99682C=~z~~c~不畏强权，老哥。
 
 ;0x31F2FA77=~z~~x~Show me the real shit.
-0x31F2FA77=~z~~x~Show me the real shit.
+0x31F2FA77=~z~~x~喂，来点干货。
 
 ;0x3B478788=~z~Keep doing what you do, bro.
-0x3B478788=~z~Keep doing what you do, bro.
+0x3B478788=~z~再接再厉，伙计。
 
 ;0x3DD597F0=~z~~x~Oh really?
-0x3DD597F0=~z~~x~Oh really?
+0x3DD597F0=~z~~x~噢，是吗？
 
 ;0x4379233B=~z~~x~Damn.
-0x4379233B=~z~~x~Damn.
+0x4379233B=~z~~x~该死。
 
 ;0x4A15306F=~z~~x~I lived here my whole life, bro.
-0x4A15306F=~z~~x~I lived here my whole life, bro.
+0x4A15306F=~z~~x~我这辈子都住在这儿，兄弟。
 
 ;0x4A19252B=~z~Later on, bro. Don't blow yourself up or nothing.
-0x4A19252B=~z~Later on, bro. Don't blow yourself up or nothing.
+0x4A19252B=~z~回见，兄弟。别把自己炸上天。
 
 ;0x651ADFAE=~z~~x~This shit's interesting. For real.
-0x651ADFAE=~z~~x~This shit's interesting. For real.
+0x651ADFAE=~z~~x~这还挺有意思。真的。
 
 ;0x66AA5E4D=~z~You my goto guy, bro. Thanks.
-0x66AA5E4D=~z~You my goto guy, bro. Thanks.
+0x66AA5E4D=~z~你真是我的好哥们，兄弟。谢了。
 
 ;0x6728EA96=~z~~x~For real.
-0x6728EA96=~z~~x~For real.
+0x6728EA96=~z~~x~真的？
 
 ;0x7423D478=~z~Sorry for being a prick tease, bro. I'll buy next time.
-0x7423D478=~z~Sorry for being a prick tease, bro. I'll buy next time.
+0x7423D478=~z~这么缺德我很抱歉，兄弟。下次一定买。
 
 ;0x74ECFAD2=~z~This where I'm coming when the zombie apocalypse hits. Thanks, bro.
-0x74ECFAD2=~z~This where I'm coming when the zombie apocalypse hits. Thanks, bro.
+0x74ECFAD2=~z~哪天生化危机了我就来你这儿。谢了，兄弟
 
 ;0x752B97EE=010
 0x752B97EE=010
 
 ;0x7971097A=~z~~x~This some tourist shit.
-0x7971097A=~z~~x~This some tourist shit.
+0x7971097A=~z~~x~忽悠游客的吧。
 
 ;0x7FE793F7=~z~You ever need someone to work promotions for your ass, gimme a call.
-0x7FE793F7=~z~You ever need someone to work promotions for your ass, gimme a call.
+0x7FE793F7=~z~如果你需要有人帮你冲业绩，记得找我。
 
 ;0x83251746=~z~Consider me armed and dangerous, motherfucker.
-0x83251746=~z~Consider me armed and dangerous, motherfucker.
+0x83251746=~z~我现在可是全副武装，王八蛋。
 
 ;0x864AF8C6=~z~Shit, bro. I was spoilt for choice. Another time.
-0x864AF8C6=~z~Shit, bro. I was spoilt for choice. Another time.
+0x864AF8C6=~z~操，兄弟。我现在很难选择。下次吧。
 
 ;0x91B08F95=~z~I ain't bought this time, but I know what I want for Christmas.
-0x91B08F95=~z~I ain't bought this time, but I know what I want for Christmas.
+0x91B08F95=~z~这次就不买了，但我想好圣诞节要买什么了。
 
 ;0x96A78ED3=E2LA_GA
 0x96A78ED3=E2LA_GA
 
 ;0x98024698=~z~~x~That a fact.
-0x98024698=~z~~x~That a fact.
+0x98024698=~z~~x~那确实。
 
 ;0xA01856C8=~z~~x~You don't need tell me. I'm a native.
-0xA01856C8=~z~~x~You don't need tell me. I'm a native.
+0xA01856C8=~z~~x~还用你告诉我？我是本地人。
 
 ;0xA16E53D8=~z~Remind me to ask about your loyalty program when I'm back here.
-0xA16E53D8=~z~Remind me to ask about your loyalty program when I'm back here.
+0xA16E53D8=~z~下次来的时候，记得让我问你这儿的会员优惠。
 
 ;0xA2ECB20D=~z~I'm gonna hold onto these dollars. God knows I need 'em.
-0xA2ECB20D=~z~I'm gonna hold onto these dollars. God knows I need 'em.
+0xA2ECB20D=~z~我先把钱存着了。老天知道我需要它。
 
 ;0xA44AF835=010
 0xA44AF835=010
 
 ;0xADD7F247=~z~~x~Yo.
-0xADD7F247=~z~~x~Yo.
+0xADD7F247=~z~~x~哟，挺好的。
 
 ;0xB8800797=~z~~x~Where they bury the bodies, bro?
-0xB8800797=~z~~x~Where they bury the bodies, bro?
+0xB8800797=~z~~x~这儿是埋尸体的，兄弟？
 
 ;0xC5927C92=E2LA_FA
 0xC5927C92=E2LA_FA
 
 ;0xC671A37A=~z~~x~Bro, come on.
-0xC671A37A=~z~~x~Bro, come on.
+0xC671A37A=~z~~x~兄弟，拜托。
 
 ;0xCFA4439A=010
 0xCFA4439A=010
 
 ;0xD4FB408D=~z~~x~Yeah. Yeah.
-0xD4FB408D=~z~~x~Yeah. Yeah.
+0xD4FB408D=~z~~x~好。好。
 
 ;0xE1435ED1=~z~~x~Mmm.
-0xE1435ED1=~z~~x~Mmm.
+0xE1435ED1=~z~~x~嗯。
 
 ;0xEAE56C61=~z~~x~Uh huh.
-0xEAE56C61=~z~~x~Uh huh.
+0xEAE56C61=~z~~x~嗯哼。
 
 ;0xFCD615F6=~z~~x~I heard these things was dangerous.
-0xFCD615F6=~z~~x~I heard these things was dangerous.
+0xFCD615F6=~z~~x~听说这些东西很危险。
 
 ;0xFFC29613=~z~~x~This the same as a bus tour only we higher up.
-0xFFC29613=~z~~x~This the same as a bus tour only we higher up.
+0xFFC29613=~z~~x~妈的，这不就是天上的观光巴士。
 

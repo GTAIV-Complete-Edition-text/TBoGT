@@ -1,4 +1,4 @@
-[EMAILE1]
+﻿[EMAILE1]
 ;0x0EDF1296=B.H. xxxxx
 0x0EDF1296=B.H. xxxxx
 
@@ -9,7 +9,7 @@
 0x16D53171=谢谢
 
 ;0x1CC9FFCA=Your smile
-0x1CC9FFCA=你笑眯眯的
+0x1CC9FFCA=你的微笑
 
 ;0x201FD031=Roman.
 0x201FD031=Roman.
@@ -24,13 +24,13 @@
 0x21F0C105=星期二
 
 ;0x22AD9F4A=Greetings
-0x22AD9F4A=您好
+0x22AD9F4A=你好
 
 ;0x231E1D1A=Captain Velvet
 0x231E1D1A=Velvet船长
 
 ;0x255C2196=Tony Prince
-0x255C2196=Tony小公主
+0x255C2196=Tony Prince
 
 ;0x25E940AA=Leta
 0x25E940AA=Leta
@@ -42,7 +42,7 @@
 0x2D39A4FD=Capt.Vel8712@eyefind.info
 
 ;0x31960666=Do you enjoy being poor and miserable? Can I trust you?
-0x31960666=你是安贫乐道的人吗？我可以信任你不？
+0x31960666=你是安贫乐道的人吗？我可以信任你吗？
 
 ;0x326D74CC=Wedding bells?
 0x326D74CC=婚礼的钟声？
@@ -51,7 +51,7 @@
 0x35126748=星期一
 
 ;0x36921D77=In her face!
-0x36921D77=骂扁她！（非常不确定）
+0x36921D77=射她一脸！
 
 ;0x3792C603=Daisy
 0x3792C603=Daisy
@@ -99,10 +99,10 @@
 0x6A8EC9F4=Dennis Babayoko
 
 ;0x6CC5B068=Friends With Benefits Healthcare
-0x6CC5B068=拥有福利医疗的朋友们
+0x6CC5B068=好利友医保
 
 ;0x6D1653B7=EMAILS
-0x6D1653B7=电子邮件
+0x6D1653B7=邮件
 
 ;0x70CF7BDF=Vinne.Marino.1dfg7@eyefind.info
 0x70CF7BDF=Vinne.Marino.1dfg7@eyefind.info
@@ -111,19 +111,19 @@
 0x73957717=见字如面。
 
 ;0x77C1E45A=Captain Velvet
-0x77C1E45A=Velvet船长
+0x77C1E45A=天鹅绒队长
 
 ;0x7AD6C036=D.Babayoko@grype.org
 0x7AD6C036=D.Babayoko@grype.org
 
 ;0x7D66F7E4=Sunday
-0x7D66F7E4=Sunday
+0x7D66F7E4=星期日
 
 ;0x7EF854CD=Buster Higgins
 0x7EF854CD=Buster Higgins
 
 ;0x8188E4A6=Ma
-0x8188E4A6=妈妈
+0x8188E4A6=妈
 
 ;0x85D305D9=Cheap, cheap health insurance!
 0x85D305D9=医保跳楼价！
@@ -141,7 +141,7 @@
 0x90F178BF=Dennis Babayoko
 
 ;0x9751097D=site
-0x9751097D=位置
+0x9751097D=网址
 
 ;0xA5DF3149=Vinnie Marino
 0xA5DF3149=Vinnie Marino
@@ -150,7 +150,7 @@
 0xA9136216=我很想你。
 
 ;0xB735E62C=Are you looking for a babysitter?
-0xB735E62C=您在找保姆吗
+0xB735E62C=您在找保姆吗？
 
 ;0xBAB7055D=Thank you.
 0xBAB7055D=谢谢。
@@ -168,10 +168,10 @@
 0xCA7609C1=Daisy xxx
 
 ;0xCF814EB4=UNREAD
-0xCF814EB4=未读邮件
+0xCF814EB4=未读
 
 ;0xD5DE508B=INBOX FULL
-0xD5DE508B=邮箱已满
+0xD5DE508B=收件箱已满
 
 ;0xD7BD064D=Leta Lopez-Wilkinson
 0xD7BD064D=Leta Lopez-Wilkinson
@@ -198,5 +198,5 @@
 0xEF8F29A1=margs1983@eyefind.info
 
 ;0xEF9AC0D0=News
-0xEF9AC0D0=新闻
+0xEF9AC0D0=新情况
 

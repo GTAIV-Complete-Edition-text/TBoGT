@@ -1,43 +1,43 @@
 ﻿[LBTR230]
 ;0x0D6E3EC4=B & T Crowd Get Violent
-0x0D6E3EC4=B & T Crowd Get Violent
+0x0D6E3EC4=变得狂暴的城郊刁民
 
 ;0x20907FAA=Oh Mamma!
-0x20907FAA=Oh Mamma!
+0x20907FAA=噢，妈呀！
 
 ;0x27095501=The Rule of the Mob
-0x27095501=The Rule of the Mob
+0x27095501=暴民统治
 
 ;0x420B59E1=Mary Williamson
 0x420B59E1=Mary Williamson
 
 ;0x42197965=Star's Desperate Scrape for Ratings
-0x42197965=Star's Desperate Scrape for Ratings
+0x42197965=众明星为争抢收视率使尽浑身解数
 
 ;0x462CE244=A man was killed on the subway when an angry mob took exception to his refusal to stop playing air guitar while he listened to his mp3 player. After repeated requests to stop annoying everybody, the man was turned on by a mob and ripped apart. Passersby cheered as both locals and tourists ripped the man into shreds and scattered bloody remains all over the carriage. Witnesses spoke of a happy, festive atmosphere amongst the mob which is thought to have included three nuns, two teachers and a mother of six. Such was the state of the victim that police where unable to identify him and are asking for help.
-0x462CE244=A man was killed on the subway when an angry mob took exception to his refusal to stop playing air guitar while he listened to his mp3 player. After repeated requests to stop annoying everybody, the man was turned on by a mob and ripped apart. Passersby cheered as both locals and tourists ripped the man into shreds and scattered bloody remains all over the carriage. Witnesses spoke of a happy, festive atmosphere amongst the mob which is thought to have included three nuns, two teachers and a mother of six. Such was the state of the victim that police where unable to identify him and are asking for help.
+0x462CE244=一男子在地铁车厢内边听MP3边弹空气吉他，引起其他乘客不满，并因拒绝停止其扰民行为被杀。多次请求该男子停止扰民无果后，该男子被暴民群起而攻，随后分尸。当地居民与外来旅客都参与了分尸，车厢内血肉横飞，其他乘客则拍手称快。谈及此事时，目击者们都以欢快愉悦的口吻陈述，作案者包括三名修女、两名教师以及一位六个孩子的母亲。鉴于被害者已血肉模糊，警方无法确认他的身份，正在向社会大众寻求帮助。
 
 ;0x533C9700=Mafia Shootout in Algonquin Nightspot
-0x533C9700=Mafia Shootout in Algonquin Nightspot
+0x533C9700=Algonquin夜店发生帮派火并
 
 ;0x59C5C089=Staff Writer
-0x59C5C089=Staff Writer
+0x59C5C089=特约记者
 
 ;0x923CE0B7=Staff Writer
-0x923CE0B7=Staff Writer
+0x923CE0B7=特约记者
 
 ;0xB4E5AEA5=As if Algonquin residents didn't have enough reasons to resent the hordes of outer borough residents who stream into the center of the city every night, they're now putting them at the risk of being shot. Notorious bridge and tunnel mecca, dance club Bahama Mamma's, was recently the site of a violent shootout that left several dead including club owner Vic Manzano.
-0xB4E5AEA5=As if Algonquin residents didn't have enough reasons to resent the hordes of outer borough residents who stream into the center of the city every night, they're now putting them at the risk of being shot. Notorious bridge and tunnel mecca, dance club Bahama Mamma's, was recently the site of a violent shootout that left several dead including club owner Vic Manzano.
+0xB4E5AEA5=远郊的居民每晚都会涌入市中心，令Algonquin的居民叫苦连天。然而现在，前者还给后者带来了被枪击的风险。臭名昭著的城郊野人圣地——巴哈马妈妈夜店发生了一起枪击事件，造成包括夜店老板Vic Manzano在内的数人死亡。
 
 ;0xC459D452=Howitzer to the face
-0xC459D452=Howitzer to the face
+0xC459D452=冲击公众视野的Howitzer
 
 ;0xD73EF357=Manzano was being investigated by the FIB for his links with organised crime in Liberty City and Las Venturas. He was also thought to be in a spat with members of the Ancellotti Crime Syndicate. Authorities are investigating these leads as possible motivations for the mass shooting. Meanwhile a group of Algonquin residents is lobbying the Civic Citadel to reclose the bridges to keep the bridge and tunnel menace out.
-0xD73EF357=Manzano was being investigated by the FIB for his links with organised crime in Liberty City and Las Venturas. He was also thought to be in a spat with members of the Ancellotti Crime Syndicate. Authorities are investigating these leads as possible motivations for the mass shooting. Meanwhile a group of Algonquin residents is lobbying the Civic Citadel to reclose the bridges to keep the bridge and tunnel menace out.
+0xD73EF357=此前，Manzano因与自由城和拉斯云祖华两地的有组织犯罪存在联系，受到了FIB的调查。他也被认为曾与Ancelloti犯罪家族的成员发生口角。有关部门已将这些线索作为可能的犯案动机调查。与此同时，一群Algonquin居民正在市政厅前游行，要求重新封锁大桥，以杜绝城郊野人的威胁。
 
 ;0xDF78E108=Is there any celebrity with a shred of dignity left? Another middle aged has-been has decided to humiliate himself. Jack Howitzer's recently launched reality show is a ratings disaster, which has the writers and producers scrambling for some unplanned drama to unfold. Rumors abound that a reunion of Howitzer and Ho Chi is in the works, in which Howitzer breaks down and cries after apologizing for the sexual advances that broke up the duo. Desperate, but it might just work.
-0xDF78E108=Is there any celebrity with a shred of dignity left? Another middle aged has-been has decided to humiliate himself. Jack Howitzer's recently launched reality show is a ratings disaster, which has the writers and producers scrambling for some unplanned drama to unfold. Rumors abound that a reunion of Howitzer and Ho Chi is in the works, in which Howitzer breaks down and cries after apologizing for the sexual advances that broke up the duo. Desperate, but it might just work.
+0xDF78E108=还有哪一位名人保留着一丝尊严吗？现在，又有一位已至中年的过气名人决定自取其辱了。Jack Howitzer最近推出的真人秀简直是一场收视率灾难，节目中总会出现一些即兴情节，扰乱编剧和制片人的安排。众多小道消息称Howitzer与Ho Chi的复合正在进行中，此前两人因性骚扰关系破裂，Howitzer为此道歉后失声痛哭。为了收视率使出浑身解数，总归会有点作用吧。
 
 ;0xF13408A9=Subway Shock as Air Guitar Man Mauled
-0xF13408A9=Subway Shock as Air Guitar Man Mauled
+0xF13408A9=地铁惨案：空气吉他手惨遭分尸
 

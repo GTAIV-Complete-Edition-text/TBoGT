@@ -6,22 +6,22 @@
 0x01726F2A=E2Tm8_TD
 
 ;0x02A31009=~z~No problem, boss.
-0x02A31009=~z~No problem, boss.
+0x02A31009=~z~没问题，老板。
 
 ;0x05E3804F=~z~Go lower! That's an order, pal.
-0x05E3804F=~z~Go lower! That's an order, pal.
+0x05E3804F=~z~飞低点！这是命令，朋友。
 
 ;0x0672C181=~z~Coño. I knew I shouldn't have gone on that run, bro.
-0x0672C181=~z~Coño. I knew I shouldn't have gone on that run, bro.
+0x0672C181=~z~妈的，我就知道不该跑这趟的。
 
 ;0x0760FA41=~z~I don't know, man. It looks like we guzzling some major gas, but I ain't running the A.C. or nothing.
-0x0760FA41=~z~I don't know, man. It looks like we guzzling some major gas, but I ain't running the A.C. or nothing.
+0x0760FA41=~z~我不好说，哥们。油耗应该挺大的，不过空调啥的我没开。
 
 ;0x07F67E72=E2Tm8_TE
 0x07F67E72=E2Tm8_TE
 
 ;0x08595CB2=~z~I hope it's nothing serious, boss. You take care.
-0x08595CB2=~z~I hope it's nothing serious, boss. You take care.
+0x08595CB2=~z~希望没出大事，老板。你多保重。
 
 ;0x0A150612=020
 0x0A150612=020
@@ -30,10 +30,10 @@
 0x10F01B19=SFX_PAUSE_290
 
 ;0x113414DD=~z~Here we are. Enjoy your night.
-0x113414DD=~z~Here we are. Enjoy your night.
+0x113414DD=~z~到了。祝你玩得开心。
 
 ;0x11BF949E=~z~You're pushing it now. I cannot be this far off the ground.
-0x11BF949E=~z~You're pushing it now. I cannot be this far off the ground.
+0x11BF949E=~z~这样太过了。这么高我不行的。
 
 ;0x123C1380=200
 0x123C1380=200
@@ -42,19 +42,19 @@
 0x131B8D5E=200
 
 ;0x182524D2=~z~I can't look!
-0x182524D2=~z~I can't look!
+0x182524D2=~z~我不敢看了！
 
 ;0x1AE09F8C=010090100
 0x1AE09F8C=010090100
 
 ;0x1BDD4C8B=~z~Fuck off, D.
-0x1BDD4C8B=~z~Fuck off, D.
+0x1BDD4C8B=~z~滚你妈的，D。
 
 ;0x1C9E2BB1=~z~If we all keep doing our part, the world's gonna become a better place.
-0x1C9E2BB1=~z~If we all keep doing our part, the world's gonna become a better place.
+0x1C9E2BB1=~z~要是人人都出一份力，世界将会更美好。
 
 ;0x1D147DE2=~z~I'd re-think your wording, bro. People might construe you as a racist.
-0x1D147DE2=~z~I'd re-think your wording, bro. People might construe you as a racist.
+0x1D147DE2=~z~你再好好考虑下措辞吧，兄弟。别人会把你当成种族主义者的。
 
 ;0x1F16F659=E2Tm1_FA
 0x1F16F659=E2Tm1_FA
@@ -69,7 +69,7 @@
 0x2389C980=SFX_PAUSE_310
 
 ;0x2512BB44=~z~I cannot abide heights, I told you that. You're going to have to take this thing down a bit.
-0x2512BB44=~z~I cannot abide heights, I told you that. You're going to have to take this thing down a bit.
+0x2512BB44=~z~我都说了我恐高的。麻烦你把直升机飞低点。
 
 ;0x264DF4BA=E2Tm8_UF
 0x264DF4BA=E2Tm8_UF
@@ -87,7 +87,7 @@
 0x2C0D8837=SFX_PAUSE_230
 
 ;0x2CB9EE44=~z~Okay. Okay.
-0x2CB9EE44=~z~Okay. Okay.
+0x2CB9EE44=~z~好的，好的。
 
 ;0x2CDC29FB=020
 0x2CDC29FB=020
@@ -99,58 +99,58 @@
 0x2E365C0C=E2Tm8_OA
 
 ;0x2F5EA26E=~z~And some education, and health care, and getting past society's systematic neglect.
-0x2F5EA26E=~z~And some education, and health care, and getting past society's systematic neglect.
+0x2F5EA26E=~z~还有教育问题，医疗问题，以及社会上普遍忽视的问题。
 
 ;0x308F4936=E2Tm8_UB2
 0x308F4936=E2Tm8_UB2
 
 ;0x31D42C65=~z~Maisonette's a total oasis from the camera's glare. Shelter from the media maelstrom.
-0x31D42C65=~z~Maisonette's a total oasis from the camera's glare. Shelter from the media maelstrom.
+0x31D42C65=~z~豪宅是远离闪光灯的净土，媒体漩涡外的庇护所。
 
 ;0x323F8256=SFX_PAUSE_140
 0x323F8256=SFX_PAUSE_140
 
 ;0x34DAC7BE=~z~Isn't this more comfortable?
-0x34DAC7BE=~z~Isn't this more comfortable?
+0x34DAC7BE=~z~这不更舒服吗？
 
 ;0x35C641F6=E2Tm8_ZC
 0x35C641F6=E2Tm8_ZC
 
 ;0x36D83169=~z~I'm going to call it Spade Joints. It's really going to change things.
-0x36D83169=~z~I'm going to call it Spade Joints. It's really going to change things.
+0x36D83169=~z~我打算给它起名「Spade大本营」。这样一定能改变社会风气。
 
 ;0x36FEA5F3=~z~I've been working on a credit card commercial.
-0x36FEA5F3=~z~I've been working on a credit card commercial.
+0x36FEA5F3=~z~我在拍一个信用卡的广告。
 
 ;0x37615FE1=~z~This wasn't the deal. I thought you were flying low.
-0x37615FE1=~z~This wasn't the deal. I thought you were flying low.
+0x37615FE1=~z~跟说好的不一样啊。你不是要飞低点吗。
 
 ;0x389F625D=~z~Can you please lower your altitude. I'm getting a little dizzy.
-0x389F625D=~z~Can you please lower your altitude. I'm getting a little dizzy.
+0x389F625D=~z~能不能降点高度。我有点晕了。
 
 ;0x3A4F59C5=010
 0x3A4F59C5=010
 
 ;0x3A751B93=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
-0x3A751B93=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+0x3A751B93=~z~嘿兄弟。这次的事不太对劲。我要避会儿风头了。
 
 ;0x3EEE35A6=~z~There's this amazing young director shooting it. He's truly one of our greatest talents.
-0x3EEE35A6=~z~There's this amazing young director shooting it. He's truly one of our greatest talents.
+0x3EEE35A6=~z~是一位很有想法的年轻导演负责拍摄的，他老厉害了。
 
 ;0x41156033=~z~This is more like it.
-0x41156033=~z~This is more like it.
+0x41156033=~z~这才对嘛。
 
 ;0x41B95804=~z~Tony wants to send the helicopter 'cause Spade's such a big shot.
-0x41B95804=~z~Tony wants to send the helicopter 'cause Spade's such a big shot.
+0x41B95804=~z~Tony想派直升机去接，因为他觉得Spade够大牌。
 
 ;0x42FEBBF8=E2Tm1_FB
 0x42FEBBF8=E2Tm1_FB
 
 ;0x445AF434=~z~All the toilet paper on my private jet is totally organic and part-recycled.
-0x445AF434=~z~All the toilet paper on my private jet is totally organic and part-recycled.
+0x445AF434=~z~我私人飞机上所有的卫生纸，都是完全有机可以回收的。
 
 ;0x45443B15=~z~If you got a problem with heights, don't worry, I'll stay close to the ground.
-0x45443B15=~z~If you got a problem with heights, don't worry, I'll stay close to the ground.
+0x45443B15=~z~没事，你要真的恐高，我就飞低点。
 
 ;0x47E6C4B8=E2Tm8_RB
 0x47E6C4B8=E2Tm8_RB
@@ -159,7 +159,7 @@
 0x4ADD680F=E2Tm8_TB
 
 ;0x4BB30ACD=~z~Help me! Help me!
-0x4BB30ACD=~z~Help me! Help me!
+0x4BB30ACD=~z~救命啊！救命啊！
 
 ;0x4E4904EE=E2Tm8_KE
 0x4E4904EE=E2Tm8_KE
@@ -168,10 +168,10 @@
 0x4ED660E7=E2Tm8_PA
 
 ;0x4F77B45A=~z~That's a shame, bro. I'm sure your grand-standing could make a real difference here.
-0x4F77B45A=~z~That's a shame, bro. I'm sure your grand-standing could make a real difference here.
+0x4F77B45A=~z~可惜啊，兄弟。我觉得你的行动一定能带来正面影响。
 
 ;0x5006148F=~z~I'm freaking out!
-0x5006148F=~z~I'm freaking out!
+0x5006148F=~z~我要吓死了！
 
 ;0x5015E029=E2Tm8_QA
 0x5015E029=E2Tm8_QA
@@ -183,10 +183,10 @@
 0x5057CADD=E2Tm8_UE
 
 ;0x506FE490=~z~We'd make movies that are, like, gritty and real. This violence wouldn't exist if people had a voice.
-0x506FE490=~z~We'd make movies that are, like, gritty and real. This violence wouldn't exist if people had a voice.
+0x506FE490=~z~我们可以拍一些勇敢真实的电影。只要人们发声，暴力将不复存在。
 
 ;0x509B5900=~z~So you're making commercials, but you're not selling out?
-0x509B5900=~z~So you're making commercials, but you're not selling out?
+0x509B5900=~z~那你拍了广告，又不卖出去？
 
 ;0x52C58971=SFX_PAUSE_350
 0x52C58971=SFX_PAUSE_350
@@ -198,13 +198,13 @@
 0x538F417A=SFX_PAUSE_330
 
 ;0x55BE6F35=~z~Yo, I'm sure the shingle is the answer to all their problems.
-0x55BE6F35=~z~Yo, I'm sure the shingle is the answer to all their problems.
+0x55BE6F35=~z~哟，你的理想国一定能解决所有问题。
 
 ;0x577DA017=E2Tm8_KA
 0x577DA017=E2Tm8_KA
 
 ;0x5781DF90=~z~If Bruce Spade's scared of heights, I'll keep us nice and low. Don't worry about it.
-0x5781DF90=~z~If Bruce Spade's scared of heights, I'll keep us nice and low. Don't worry about it.
+0x5781DF90=~z~既然Bruce Spade恐高，那我就飞得又稳又低吧。不用担心。
 
 ;0x57A08700=010090100
 0x57A08700=010090100
@@ -222,10 +222,10 @@
 0x5F17672C=SFX_PAUSE_350
 
 ;0x5F471C9A=~z~That's better.
-0x5F471C9A=~z~That's better.
+0x5F471C9A=~z~噢，好多了。
 
 ;0x657B13B6=~z~Ignore the others and find meaning.
-0x657B13B6=~z~Ignore the others and find meaning.
+0x657B13B6=~z~忽略其他人，找寻人生意义。
 
 ;0x666A6C48=E2Tm8_SE
 0x666A6C48=E2Tm8_SE
@@ -234,13 +234,13 @@
 0x668EA393=020
 
 ;0x67205906=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
-0x67205906=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+0x67205906=~z~哟，D。事情有点搞砸了，哥们。你能帮我瞒过去吗？
 
 ;0x67917DAE=~z~Chill out, bro.
-0x67917DAE=~z~Chill out, bro.
+0x67917DAE=~z~淡定点，兄弟。
 
 ;0x693946F9=~z~Bruce Spade demands to be taken down.
-0x693946F9=~z~Bruce Spade demands to be taken down.
+0x693946F9=~z~Bruce Spade要求飞低点。
 
 ;0x6986C589=SFX_PAUSE_230
 0x6986C589=SFX_PAUSE_230
@@ -264,22 +264,22 @@
 0x6F5F882E=SFX_PAUSE_310
 
 ;0x6F63BCD7=~z~So much better, thank you.
-0x6F63BCD7=~z~So much better, thank you.
+0x6F63BCD7=~z~好太多了，谢了。
 
 ;0x718BCE91=~z~That's fine. I'm sure that's great. I really care about the environment. It's my passion.
-0x718BCE91=~z~That's fine. I'm sure that's great. I really care about the environment. It's my passion.
+0x718BCE91=~z~那就好。那没事了。我很注重环保的，志向所在。
 
 ;0x728DC2E9=100
 0x728DC2E9=100
 
 ;0x7352540B=~z~Mr. Spade, I'm here to take you to Maisonette 9. Get in!
-0x7352540B=~z~Mr. Spade, I'm here to take you to Maisonette 9. Get in!
+0x7352540B=~z~Spade先生，我是来接你去9号豪宅的。上来吧！
 
 ;0x7473FFCB=E2Tm8_SA
 0x7473FFCB=E2Tm8_SA
 
 ;0x74B6DDF0=~z~Chill out with the height.
-0x74B6DDF0=~z~Chill out with the height.
+0x74B6DDF0=~z~高度拉低点。
 
 ;0x761E1AD0=200090020090020
 0x761E1AD0=200090020090020
@@ -291,7 +291,7 @@
 0x7A1957C9=E2Tm8_UD
 
 ;0x7AC81D6F=~z~Be careful, man. He's the biggest movie star in the country.
-0x7AC81D6F=~z~Be careful, man. He's the biggest movie star in the country.
+0x7AC81D6F=~z~注意点，哥们。他可是最有排面的国民影星。
 
 ;0x7B27CF3A=020090200200090020
 0x7B27CF3A=020090200200090020
@@ -300,7 +300,7 @@
 0x7BF8F7A5=SFX_PAUSE_250
 
 ;0x7C1C26C3=~z~You in good hands. It's cool.
-0x7C1C26C3=~z~You in good hands. It's cool.
+0x7C1C26C3=~z~我技术很好，没事的。
 
 ;0x7CCC12BB=E2Tm8_SD
 0x7CCC12BB=E2Tm8_SD
@@ -318,13 +318,13 @@
 0x7E039C28=E2Tm1_GA
 
 ;0x7E40AB10=~z~Don't annoy the pilot, bro.
-0x7E40AB10=~z~Don't annoy the pilot, bro.
+0x7E40AB10=~z~别惹飞行员，兄弟。
 
 ;0x7E7DDF72=SFX_PAUSE_330
 0x7E7DDF72=SFX_PAUSE_330
 
 ;0x7EF4F26C=~z~Whoa! Whoa! Whoa!
-0x7EF4F26C=~z~Whoa! Whoa! Whoa!
+0x7EF4F26C=~z~哇哦！哇哦！哇哦！
 
 ;0x81CD99BD=E2Tm1_IA
 0x81CD99BD=E2Tm1_IA
@@ -339,7 +339,7 @@
 0x871508A5=200200090200090020090200090200090020
 
 ;0x87345728=~z~Yeah? It must be great to be surrounded by those with similar levels of self obsession.
-0x87345728=~z~Yeah? It must be great to be surrounded by those with similar levels of self obsession.
+0x87345728=~z~是嘛？被那些一样自我陶醉的人包围一定很不错吧。
 
 ;0x874638AE=SFX_PAUSE_210
 0x874638AE=SFX_PAUSE_210
@@ -351,16 +351,16 @@
 0x8866CD94=E2Tm8_WA
 
 ;0x89DDC246=~z~We're gonna be there soon, man.
-0x89DDC246=~z~We're gonna be there soon, man.
+0x89DDC246=~z~马上就到了，哥们。
 
 ;0x8B92EBB6=~z~I knew they'd come around and bite me in the ass one day.
-0x8B92EBB6=~z~I knew they'd come around and bite me in the ass one day.
+0x8B92EBB6=~z~就知道这张驾驶证不是白拿的。
 
 ;0x8CF34A3C=SFX_PAUSE_330
 0x8CF34A3C=SFX_PAUSE_330
 
 ;0x8EBA8AD7=~z~Yo! Mr. Spade. I'm from Maisonette 9. Jump in.
-0x8EBA8AD7=~z~Yo! Mr. Spade. I'm from Maisonette 9. Jump in.
+0x8EBA8AD7=~z~哟！Spade先生，我是9号豪宅的人，上来吧。
 
 ;0x901E34E6=SFX_PAUSE_350
 0x901E34E6=SFX_PAUSE_350
@@ -378,19 +378,19 @@
 0x928190B8=E2Tm8_AAC
 
 ;0x928BF1F7=~z~That was the most unpleasant ride of my life. Someone needs to take your helicopter licence, pal.
-0x928BF1F7=~z~That was the most unpleasant ride of my life. Someone needs to take your helicopter licence, pal.
+0x928BF1F7=~z~今天真是我最难受的一次旅途。你这飞机驾照得吊销了，朋友。
 
 ;0x94D7DDF8=E2Tm1_GB
 0x94D7DDF8=E2Tm1_GB
 
 ;0x958262F9=~z~You mind my asking what you doing up in the middle of nowhere?
-0x958262F9=~z~You mind my asking what you doing up in the middle of nowhere?
+0x958262F9=~z~介意我问一下你在这鸟不拉屎的空地上干嘛吗？
 
 ;0x95A5A366=E2Tm8_KD
 0x95A5A366=E2Tm8_KD
 
 ;0x96CBA21D=~z~We're going to die. We're going to crash and die.
-0x96CBA21D=~z~We're going to die. We're going to crash and die.
+0x96CBA21D=~z~要死了，要坠机死翘翘了。
 
 ;0x97C3C1D8=E2Tm8_LA
 0x97C3C1D8=E2Tm8_LA
@@ -402,82 +402,82 @@
 0x99F28C95=SFX_PAUSE_410
 
 ;0x9BE6DE7D=~z~Okay, boss. Anyone asks, I ain't seen you.
-0x9BE6DE7D=~z~Okay, boss. Anyone asks, I ain't seen you.
+0x9BE6DE7D=~z~好的，老板。有人问起来我就说没见过你。
 
 ;0x9DE4CA5A=SFX_PAUSE_130
 0x9DE4CA5A=SFX_PAUSE_130
 
 ;0x9E1DA9DD=~z~I can talk to people about real issues and my art. People really listen there.
-0x9E1DA9DD=~z~I can talk to people about real issues and my art. People really listen there.
+0x9E1DA9DD=~z~我可以跟大家聊干货和我的作品。大家都在听我说话。
 
 ;0xA018A74A=E2Tm8_AAA
 0xA018A74A=E2Tm8_AAA
 
 ;0xA109A950=~z~I never asked for a helicopter. I seriously cannot abide heights.
-0xA109A950=~z~I never asked for a helicopter. I seriously cannot abide heights.
+0xA109A950=~z~我没说要直升机接送啊。我非常恐高。
 
 ;0xA2FAB29F=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
-0xA2FAB29F=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+0xA2FAB29F=~z~这边事情不太顺利，Dess。懂我意思吧？
 
 ;0xA401F692=~z~Freaking out ain't gonna help nothing.
-0xA401F692=~z~Freaking out ain't gonna help nothing.
+0xA401F692=~z~吓死了也没有用。
 
 ;0xA5DEF67E=E2Tm8_RE2
 0xA5DEF67E=E2Tm8_RE2
 
 ;0xA9A98181=~z~Cheer up, BS. You getting special treatment. It ain't often we get to land these things outside the club.
-0xA9A98181=~z~Cheer up, BS. You getting special treatment. It ain't often we get to land these things outside the club.
+0xA9A98181=~z~欢呼吧，BS。这是你的特殊待遇。夜店门口很少有机会停直升机的。
 
 ;0xA9CA6501=E2Tm8_XA
 0xA9CA6501=E2Tm8_XA
 
 ;0xAA43C90D=~z~This is not cool. Not cool at all.
-0xAA43C90D=~z~This is not cool. Not cool at all.
+0xAA43C90D=~z~这样没意思，真的没意思。
 
 ;0xAA4CE48A=E2Tm1_JA
 0xAA4CE48A=E2Tm1_JA
 
 ;0xAAE1C13C=~z~Utilize completeness and all that stuff.
-0xAAE1C13C=~z~Utilize completeness and all that stuff.
+0xAAE1C13C=~z~所有东西都要物尽其用。
 
 ;0xAB67C28A=SFX_PAUSE_290
 0xAB67C28A=SFX_PAUSE_290
 
 ;0xAD0647AE=~z~Coked up models love that world peace shit, bro. It's what they live for.
-0xAD0647AE=~z~Coked up models love that world peace shit, bro. It's what they live for.
+0xAD0647AE=~z~嗑了药的模特都喜欢听见世界和平，兄弟。不和平没饭吃。
 
 ;0xAE857270=~z~Totally. Maybe I'll set up an urban shingle through my Canyon deal.
-0xAE857270=~z~Totally. Maybe I'll set up an urban shingle through my Canyon deal.
+0xAE857270=~z~肯定会。也许可以利用我的电影公司打造一个理想国。
 
 ;0xAEF326A5=~z~I really love what Tony's done at Maisonette.
-0xAEF326A5=~z~I really love what Tony's done at Maisonette.
+0xAEF326A5=~z~我很喜欢Tony经营的豪宅。
 
 ;0xAF56C91A=SFX_PAUSE_290
 0xAF56C91A=SFX_PAUSE_290
 
 ;0xAFCCC6D6=~z~I appreciate Tony's gesture, but I have a real problem with heights. My people should have told you that.
-0xAFCCC6D6=~z~I appreciate Tony's gesture, but I have a real problem with heights. My people should have told you that.
+0xAFCCC6D6=~z~Tony的心意我领了，但我真的恐高。我的人跟你们交代过吧。
 
 ;0xB0404EA0=E2Tm8_ZB
 0xB0404EA0=E2Tm8_ZB
 
 ;0xB126B6E5=~z~Luis, man, we got a celebrity pick up. It's Bruce Spade. He's up in Northern Algonquin.
-0xB126B6E5=~z~Luis, man, we got a celebrity pick up. It's Bruce Spade. He's up in Northern Algonquin.
+0xB126B6E5=~z~Luis，哥们，有个大明星需要你接。是Bruce Spade，他在Algonquin北部。
 
 ;0xB31DD2ED=~z~Shit, L. Okay. I'll get on damage control.
-0xB31DD2ED=~z~Shit, L. Okay. I'll get on damage control.
+0xB31DD2ED=~z~妈的，L。好吧，止损的事我来。
 
 ;0xB31F94C9=~z~It's actually safer to be up away from things we could hit.
-0xB31F94C9=~z~It's actually safer to be up away from things we could hit.
+0xB31F94C9=~z~飞高点撞不到东西反而更安全。
 
 ;0xB94F2016=200
 0xB94F2016=200
 
 ;0xBA6022EE=~z~It looks like they cordoned off the street for you, man. Life ain't all bad.
-0xBA6022EE=~z~It looks like they cordoned off the street for you, man. Life ain't all bad.
+0xBA6022EE=~z~看来他们为你把路封了，哥们。人生也会有惊喜啊。
 
 ;0xBBC68CFE=~z~There's so much crime here in Liberty City. I really wish I had more time to raise awareness,
-0xBBC68CFE=~z~There's so much crime here in Liberty City. I really wish I had more time to raise awareness,
+0xBBC68CFE=~z~自由城的犯罪率太高了。我真想找时间劝勉大家，
 
 ;0xBD4297C2=E2Tm1_IB
 0xBD4297C2=E2Tm1_IB
@@ -486,7 +486,7 @@
 0xBF276991=SFX_PAUSE_290
 
 ;0xC0E53054=~z~It ain't that much further, Mr. Spade.
-0xC0E53054=~z~It ain't that much further, Mr. Spade.
+0xC0E53054=~z~也没多高啊，Spade先生。
 
 ;0xC2E7F922=E2Tm8_KB
 0xC2E7F922=E2Tm8_KB
@@ -495,16 +495,16 @@
 0xC4DBDEBF=E2Tm8_ZA
 
 ;0xC60F4F6A=~z~Mr. Spade. It's a great honor to have you here. Enjoy your night.
-0xC60F4F6A=~z~Mr. Spade. It's a great honor to have you here. Enjoy your night.
+0xC60F4F6A=~z~Spade先生，很高兴您能来。祝您晚上玩得开心。
 
 ;0xC8EF5A9D=~z~It's so precious for people like me to have somewhere they can feel normal.
-0xC8EF5A9D=~z~It's so precious for people like me to have somewhere they can feel normal.
+0xC8EF5A9D=~z~能有这种让我体验常人生活的地方真是太难得了。
 
 ;0xCAFCF69B=E2Tm8_YA
 0xCAFCF69B=E2Tm8_YA
 
 ;0xCB8D63F9=~z~If someone can make a difference, it's you. Have a good time.
-0xCB8D63F9=~z~If someone can make a difference, it's you. Have a good time.
+0xCB8D63F9=~z~要是有谁能改变规则的话，那就是你了。祝你开心。
 
 ;0xCB9EFC17=SFX_PAUSE_410
 0xCB9EFC17=SFX_PAUSE_410
@@ -513,7 +513,7 @@
 0xCC20833C=100090010090100090100090010
 
 ;0xCC932E97=~z~Man, people just need faith. Not be normal cynics.
-0xCC932E97=~z~Man, people just need faith. Not be normal cynics.
+0xCC932E97=~z~天哪，大家都要有信仰，不应该愤世嫉俗的。
 
 ;0xCCEA0766=SFX_PAUSE_330
 0xCCEA0766=SFX_PAUSE_330
@@ -528,13 +528,13 @@
 0xD3BD5E73=SFX_PAUSE_500
 
 ;0xD50D7EB2=~z~Fuck D, why can't we just send a driver?
-0xD50D7EB2=~z~Fuck D, why can't we just send a driver?
+0xD50D7EB2=~z~我操，D，派个司机不就好了？
 
 ;0xD5D84A78=SFX_PAUSE_120
 0xD5D84A78=SFX_PAUSE_120
 
 ;0xD62CDEF2=~z~and integrity. A lot of integrity.
-0xD62CDEF2=~z~and integrity. A lot of integrity.
+0xD62CDEF2=~z~还有完成度。完成度极高。
 
 ;0xD64CC737=E2Tm8_SC
 0xD64CC737=E2Tm8_SC
@@ -543,25 +543,25 @@
 0xD64F3F50=E2Tm1_HB
 
 ;0xD6659DEB=~z~We're too high, I'm feeling somewhat uncomfortable.
-0xD6659DEB=~z~We're too high, I'm feeling somewhat uncomfortable.
+0xD6659DEB=~z~太高了，我有点不舒服。
 
 ;0xD81E22AE=~z~Sure it will.
-0xD81E22AE=~z~Sure it will.
+0xD81E22AE=~z~那必须的。
 
 ;0xD862767F=SFX_PAUSE_450
 0xD862767F=SFX_PAUSE_450
 
 ;0xD9390709=~z~And he said that you were the only one he got flying lessons for.
-0xD9390709=~z~And he said that you were the only one he got flying lessons for.
+0xD9390709=~z~而且他说学过开飞机的就你一个人。
 
 ;0xDACF1EF7=SFX_PAUSE_270
 0xDACF1EF7=SFX_PAUSE_270
 
 ;0xDB2164CC=~z~Just shut up and we'll get there.
-0xDB2164CC=~z~Just shut up and we'll get there.
+0xDB2164CC=~z~快到了，你闭嘴吧。
 
 ;0xE3CD331A=~z~This is a green chopper, right? I only travel in carbon neutral vehicles now.
-0xE3CD331A=~z~This is a green chopper, right? I only travel in carbon neutral vehicles now.
+0xE3CD331A=~z~这直升机够环保吧？我现在只通过绿色方式出行。
 
 ;0xE3F4DD72=E2Tm8_TH
 0xE3F4DD72=E2Tm8_TH
@@ -573,34 +573,34 @@
 0xE4B3DDB3=E2Tm8_MA
 
 ;0xE919C6B8=~z~I'm going to faint.
-0xE919C6B8=~z~I'm going to faint.
+0xE919C6B8=~z~我要昏倒了。
 
 ;0xE91DE7AC=~z~but I'm so busy with peace in the Middle East, and world hunger.
-0xE91DE7AC=~z~but I'm so busy with peace in the Middle East, and world hunger.
+0xE91DE7AC=~z~但我忙着关注中东和平以及世界饥饿。
 
 ;0xEA39C208=E2Tm8_UA
 0xEA39C208=E2Tm8_UA
 
 ;0xEB8E7EFA=~z~I'd go if I was a qualified pilot. You know that, man.
-0xEB8E7EFA=~z~I'd go if I was a qualified pilot. You know that, man.
+0xEB8E7EFA=~z~我要是有飞行驾照的话就去了。你也知道，哥们。
 
 ;0xEBEEA4AF=~z~Maybe you should campaign for stricter regulation, bro.
-0xEBEEA4AF=~z~Maybe you should campaign for stricter regulation, bro.
+0xEBEEA4AF=~z~那你去争取更严格的监管吧，兄弟。
 
 ;0xEC63CEA1=E2Tm8_KC
 0xEC63CEA1=E2Tm8_KC
 
 ;0xEE4F4F14=~z~It's been a real pleasure to meet you, pal.
-0xEE4F4F14=~z~It's been a real pleasure to meet you, pal.
+0xEE4F4F14=~z~认识你真开心，朋友。
 
 ;0xEF372A6E=~z~This thing ain't happening, D . We ran into an issue.
-0xEF372A6E=~z~This thing ain't happening, D . We ran into an issue.
+0xEF372A6E=~z~事情解决不了了，D。这里出问题了。
 
 ;0xF3DB9FAE=~z~Exactly. Not at all. It's all about the work and the art,
-0xF3DB9FAE=~z~Exactly. Not at all. It's all about the work and the art,
+0xF3DB9FAE=~z~对。这有啥，都是为了工作和艺术嘛，
 
 ;0xF52E1EF8=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
-0xF52E1EF8=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+0xF52E1EF8=~z~妈的，老板，这事不对劲啊。最近避避风头，咱晚点聊。
 
 ;0xF56F1E6A=SFX_PAUSE_290
 0xF56F1E6A=SFX_PAUSE_290

@@ -48,5 +48,5 @@
 0xF993E4B4=~r~Arnaud受伤了。
 
 ;0xFB1BE8D8=Take Arnaud to ~y~Fortside.
-0xFB1BE8D8=带Arnaud去~y~Fortside。
+0xFB1BE8D8=送Arnaud去~y~Fortside。
 

@@ -1,154 +1,154 @@
 ﻿[YUSUF3]
 ;0x00B2207B=~r~The sky crane driver is dead.~s~
-0x00B2207B=~r~The sky crane driver is dead.~s~
+0x00B2207B=~r~吊挂直升机的驾驶员死了。~s~
 
 ;0x01C323F9=~r~You abandoned Yusuf.
-0x01C323F9=~r~You abandoned Yusuf.
+0x01C323F9=~r~你抛弃了Yusuf。
 
 ;0x01D6C671=Pickup the ~b~Swift.
-0x01D6C671=Pickup the ~b~Swift.
+0x01D6C671=登上~b~Swift。
 
 ;0x0566A58F=Get back in the ~b~APC.
-0x0566A58F=Get back in the ~b~APC.
+0x0566A58F=回到~b~APC~s~上。
 
 ;0x0B8BAC59=~s~Take out as many cops as you can until they back down.~s~
-0x0B8BAC59=~s~Take out as many cops as you can until they back down.~s~
+0x0B8BAC59=~s~干掉尽可能多的警察，直到他们撤退。~s~
 
 ;0x0B964BBF=Lose the cops.
-0x0B964BBF=Lose the cops.
+0x0B964BBF=甩掉警察。
 
 ;0x0C5F6AF4=~r~You Swift is stuck.
-0x0C5F6AF4=~r~You Swift is stuck.
+0x0C5F6AF4=~r~你的Swift坏了。
 
 ;0x0FD119E4=MISSION PASSED
-0x0FD119E4=MISSION PASSED
+0x0FD119E4=任务通过
 
 ;0x1273C3FE=~r~You abandoned the APC.~s~
-0x1273C3FE=~r~You abandoned the APC.~s~
+0x1273C3FE=~r~你抛弃了APC。~s~
 
 ;0x1368C15F=Align Yusuf's chopper into ~y~position.
-0x1368C15F=Align Yusuf's chopper into ~y~position.
+0x1368C15F=将Yusuf的直升机对准~y~位置。
 
 ;0x149CEBFD=Get back in the ~b~APC.
-0x149CEBFD=Get back in the ~b~APC.
+0x149CEBFD=回到~b~APC~s~上。
 
 ;0x16064C7F=~r~Yusuf died.
-0x16064C7F=~r~Yusuf died.
+0x16064C7F=~r~Yusuf死了。
 
 ;0x1C45E918=Lose the cops.
-0x1C45E918=Lose the cops.
+0x1C45E918=甩掉警察。
 
 ;0x1DAB1814=~s~Shoot the yellow bolts on the cables to release the tank.~s~
-0x1DAB1814=~s~Shoot the yellow bolts on the cables to release the tank.~s~
+0x1DAB1814=~s~射击钢缆上的黄色卡扣，放下坦克。~s~
 
 ;0x2427E8C2=~r~Yusuf's chopper was destroyed.
-0x2427E8C2=~r~Yusuf's chopper was destroyed.
+0x2427E8C2=~r~Yusuf的直升机被毁了。
 
 ;0x2AFC750F=~r~You never answered Yusuf's call.~s~
-0x2AFC750F=~r~You never answered Yusuf's call.~s~
+0x2AFC750F=~r~你没接Yusuf的电话。~s~
 
 ;0x303DA242=Get to the ~b~APC.
-0x303DA242=Get to the ~b~APC.
+0x303DA242=登上~b~APC。
 
 ;0x38CA10AA=~r~There is too much of a police presence near the APC.~s~
-0x38CA10AA=~r~There is too much of a police presence near the APC.~s~
+0x38CA10AA=~r~APC附近的警察太多了。~s~
 
 ;0x3ABC15EA=~r~Yusuf's car was destroyed.
-0x3ABC15EA=~r~Yusuf's car was destroyed.
+0x3ABC15EA=~r~Yusuf的车被毁了。
 
 ;0x410B9758=Get back in ~b~Yusuf's helicopter.
-0x410B9758=Get back in ~b~Yusuf's helicopter.
+0x410B9758=回到~b~Yusuf的直升机~s~上。
 
 ;0x444869CF=Press LB to fire rockets.
-0x444869CF=Press LB to fire rockets.
+0x444869CF=按LB键发射火箭弹。
 
 ;0x457A67B2=~s~Press ~INPUT_VEH_ATTACK~ to fire the APC cannon.~s~
-0x457A67B2=~s~Press ~INPUT_VEH_ATTACK~ to fire the APC cannon.~s~
+0x457A67B2=~s~按~INPUT_VEH_ATTACK~发射APC的火炮。~s~
 
 ;0x4EBA3DE6=~r~The APC was delivered.
-0x4EBA3DE6=~r~The APC was delivered.
+0x4EBA3DE6=~r~APC已送达目的地。
 
 ;0x50BA8169=Press ~PAD_B~ to jump onto the tank.
-0x50BA8169=Press ~PAD_B~ to jump onto the tank.
+0x50BA8169=按~PAD_B~跳上坦克。
 
 ;0x5B5DCBFC=Go to ~y~Star Junction.
-0x5B5DCBFC=Go to ~y~Star Junction.
+0x5B5DCBFC=前往~y~Star Junction.
 
 ;0x5ECFDE11=~r~The APC was destroyed.
-0x5ECFDE11=~r~The APC was destroyed.
+0x5ECFDE11=~r~APC被毁了。
 
 ;0x6540E997=~r~The Skylift has been destroyed.~s~
-0x6540E997=~r~The Skylift has been destroyed.~s~
+0x6540E997=~r~吊挂直升机被毁了。~s~
 
 ;0x78845246=Press Y to jump across to the tank.
-0x78845246=Press Y to jump across to the tank.
+0x78845246=按Y越过坦克。
 
 ;0x7AAC0E52=Don't leave ~b~Yusuf~s~ behind.
-0x7AAC0E52=Don't leave ~b~Yusuf~s~ behind.
+0x7AAC0E52=别把~b~Yusuf~s~落下。
 
 ;0x7D074C1A=~r~The tank was destroyed.
-0x7D074C1A=~r~The tank was destroyed.
+0x7D074C1A=~r~坦克被毁了。
 
 ;0x7DAB95E7=Get in ~b~Yusuf's car~s~.
-0x7DAB95E7=Get in ~b~Yusuf's car~s~.
+0x7DAB95E7=进入~b~Yusuf的车。~s~
 
 ;0x8A73F625=Until the real tank is in game it is best to either swap to the in car view and shoot rockets or to get out and use the RPG.
-0x8A73F625=Until the real tank is in game it is best to either swap to the in car view and shoot rockets or to get out and use the RPG.
+0x8A73F625=在真正的坦克出现在游戏中之前，最好切换到车内视角并发射火箭弹，或者出去使用火箭筒。
 
 ;0x8B5AE8C1=~r~You abandoned the tank.
-0x8B5AE8C1=~r~You abandoned the tank.
+0x8B5AE8C1=~r~你抛弃了坦克。
 
 ;0x8C7E338C=Get in ~b~Yusuf's chopper.
-0x8C7E338C=Get in ~b~Yusuf's chopper.
+0x8C7E338C=进入~b~Yusuf的直升机。
 
 ;0x96E2C855=Fly near the ~r~APC.
-0x96E2C855=Fly near the ~r~APC.
+0x96E2C855=飞到~r~APC~s~附近。
 
 ;0xA24A711E=The airport is overrun with police. The pickup location needs to be changed.
-0xA24A711E=The airport is overrun with police. The pickup location needs to be changed.
+0xA24A711E=机场被死条子给包围了。交接点得变更一下。
 
 ;0xA2861717=~r~The tank is stuck.
-0xA2861717=~r~The tank is stuck.
+0xA2861717=~r~坦克坏了。
 
 ;0xAA48B490=Press ~INPUT_VEH_ATTACK~ to shoot the APC gun.
-0xAA48B490=Press ~INPUT_VEH_ATTACK~ to shoot the APC gun.
+0xAA48B490=按~INPUT_VEH_ATTACK~用APC的车载武器射击。
 
 ;0xB0CEB3A8=~r~The transport was destroyed.
-0xB0CEB3A8=~r~The transport was destroyed.
+0xB0CEB3A8=~r~这趟运输黄了。
 
 ;0xB69D07C9=Shoot the cable to release the APC. Be careful, dropping from too high will destroy the APC.
-0xB69D07C9=Shoot the cable to release the APC. Be careful, dropping from too high will destroy the APC.
+0xB69D07C9=射击绳索以放下APC。小心点，APC从太高的地方掉下来会摔坏。
 
 ;0xB7731B6F=The transport won't be able to escape with so many helicopters about.
-0xB7731B6F=The transport won't be able to escape with so many helicopters about.
+0xB7731B6F=有这么多直升机在，这趟运输肯定要黄。
 
 ;0xBEAD12A1=Shoot the bolts on the APC to release it before it reaches the police station.
-0xBEAD12A1=Shoot the bolts on the APC to release it before it reaches the police station.
+0xBEAD12A1=射击APC上的卡扣，赶在运达警察局前放下APC。
 
 ;0xC5B5A5FA=Line up to be perpendicular with the APC.
-0xC5B5A5FA=Line up to be perpendicular with the APC.
+0xC5B5A5FA=和APC保持垂直。
 
 ;0xC8C83204=~r~The Swift is stuck.~s~
-0xC8C83204=~r~The Swift is stuck.~s~
+0xC8C83204=~r~Swift坏了。~s~
 
 ;0xD5CA7D9F=~r~You abandoned the Swift.
-0xD5CA7D9F=~r~You abandoned the Swift.
+0xD5CA7D9F=~r~你抛弃了Swift。
 
 ;0xDF7E5F70=~r~The APC is stuck.~s~
-0xDF7E5F70=~r~The APC is stuck.~s~
+0xDF7E5F70=~r~APC坏了。~s~
 
 ;0xE23CDF08=Go with Yusuf to ~y~Westminster~s~ to pick up his Swift.
-0xE23CDF08=Go with Yusuf to ~y~Westminster~s~ to pick up his Swift.
+0xE23CDF08=和Yusuf一起去~y~Westminster~s~登上他的Swift。
 
 ;0xE7CC6EB0=~r~The Skylift got too close to the police compound.~s~
-0xE7CC6EB0=~r~The Skylift got too close to the police compound.~s~
+0xE7CC6EB0=~r~吊挂直升机离警察局太近了。~s~
 
 ;0xE7EEA213=~r~The Swift was destroyed.
-0xE7EEA213=~r~The Swift was destroyed.
+0xE7EEA213=~r~Swift被毁了。
 
 ;0xEDC3FBFB=~r~You abandoned the Swift.
-0xEDC3FBFB=~r~You abandoned the Swift.
+0xEDC3FBFB=~r~你抛弃了Swift。
 
 ;0xF0107AAF=Deliver the APC to the ~y~building site.
-0xF0107AAF=Deliver the APC to the ~y~building site.
+0xF0107AAF=把APC送到~y~建筑工地。
 
