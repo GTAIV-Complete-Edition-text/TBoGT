@@ -6,28 +6,28 @@
 0x00B2B177=E2T8_HA
 
 ;0x012C8BAF=~z~This does not look good.
-0x012C8BAF=~z~This does not look good.
+0x012C8BAF=~z~情况有点不妙。
 
 ;0x035A5EF9=~z~Gold, Yusuf? That ain't conspicuous at all.
-0x035A5EF9=~z~Gold, Yusuf? That ain't conspicuous at all.
+0x035A5EF9=~z~土豪金，Yusuf？真是有够低调。
 
 ;0x0584FCE8=~z~Which one, man? I got a fleet.
-0x0584FCE8=~z~Which one, man? I got a fleet.
+0x0584FCE8=~z~哪一架，兄弟？有一整支舰队呢。
 
 ;0x0626CCBA=~z~Bail outta there, bitch.
-0x0626CCBA=~z~Bail outta there, bitch.
+0x0626CCBA=~z~赶紧跳伞吧，贱人。
 
 ;0x064B6233=~z~Nah, it'll just take a minute, man. I really need you to speak to Tony.
-0x064B6233=~z~Nah, it'll just take a minute, man. I really need you to speak to Tony.
+0x064B6233=~z~别吧，就一小会儿，哥。我真的需要你去跟Tony谈谈。
 
 ;0x071FB015=~z~I'm a cobra. I'm a cobra in the sky, flying with my cobra wings.
-0x071FB015=~z~I'm a cobra. I'm a cobra in the sky, flying with my cobra wings.
+0x071FB015=~z~我是眼镜蛇。我是会飞的眼镜蛇，张开眼镜蛇翅膀驰骋八方。
 
 ;0x0878DDFD=~z~I know. We'll try to get you another one. Later on, bro.
-0x0878DDFD=~z~I know. We'll try to get you another one. Later on, bro.
+0x0878DDFD=~z~我知道，兄弟。我再帮你去弄一架吧。回见。
 
 ;0x0B1864F9=~z~Come on!
-0x0B1864F9=~z~Come on!
+0x0B1864F9=~z~快点！
 
 ;0x0B1FCF91=392
 0x0B1FCF91=392
@@ -36,79 +36,79 @@
 0x0BA66B7B=100010090010090100010
 
 ;0x0BF08A03=~z~The Buzzard? Of course, bro. It's practically yours anyway.
-0x0BF08A03=~z~The Buzzard? Of course, bro. It's practically yours anyway.
+0x0BF08A03=~z~秃鹰吗？没问题，兄弟。它基本上算你的了。
 
 ;0x0D8510ED=~z~Okay.
-0x0D8510ED=~z~Okay.
+0x0D8510ED=~z~好的。
 
 ;0x0E029D5F=E2T8_CE
 0x0E029D5F=E2T8_CE
 
 ;0x0E09691E=~z~Luis, man, how's she fly?
-0x0E09691E=~z~Luis, man, how's she fly?
+0x0E09691E=~z~Luis，哥们，飞得还爽吗？
 
 ;0x0EECD70D=E2T8_EE1
 0x0EECD70D=E2T8_EE1
 
 ;0x102381F6=~z~Alright. I'll try and sober up.
-0x102381F6=~z~Alright. I'll try and sober up.
+0x102381F6=~z~好的。我清醒一下就过去。
 
 ;0x1116FA72=~z~I thought I was borrowing some stealth shit.
-0x1116FA72=~z~I thought I was borrowing some stealth shit.
+0x1116FA72=~z~我以为会是迷彩涂装。
 
 ;0x1148188B=~z~You know how things are?
-0x1148188B=~z~You know how things are?
+0x1148188B=~z~这年头不安全啊。
 
 ;0x120FB9E5=090
 0x120FB9E5=090
 
 ;0x128B19F9=~z~Not quite. You gonna have to write that shit off as a loss,
-0x128B19F9=~z~Not quite. You gonna have to write that shit off as a loss,
+0x128B19F9=~z~并没有，你恐怕要失望了，
 
 ;0x13C0D7D4=E2T8_MA
 0x13C0D7D4=E2T8_MA
 
 ;0x13E56837=~z~You shoulda backed down.
-0x13E56837=~z~You shoulda backed down.
+0x13E56837=~z~你就应该缩回去。
 
 ;0x14449F4C=~z~Ok, if you could excuse me also!
-0x14449F4C=~z~Ok, if you could excuse me also!
+0x14449F4C=~z~好啊，介意再放一个人吗！
 
 ;0x14D0A064=~z~It's very stressful, man. But it's got it all. Think about it. Drama, action, sex, love, it's got everything...
-0x14D0A064=~z~It's very stressful, man. But it's got it all. Think about it. Drama, action, sex, love, it's got everything...
+0x14D0A064=~z~压力是很大，哥。不过该有的都有。想想看，冲突、情节、性爱、感情，什么都有了...
 
 ;0x1636CE43=~z~I'm the executive flying cobra.
-0x1636CE43=~z~I'm the executive flying cobra.
+0x1636CE43=~z~简直是飞行眼镜蛇中的豪杰。
 
 ;0x16D31E9A=~z~I'll cut off your fucking head.
-0x16D31E9A=~z~I'll cut off your fucking head.
+0x16D31E9A=~z~老子剁了你的狗头。
 
 ;0x18CDFF30=~z~Like condensed money.
-0x18CDFF30=~z~Like condensed money.
+0x18CDFF30=~z~这是浓缩的钱啊。
 
 ;0x19381EF1=~z~Wait, wait, wait, wait listen...If you get me out of here, I promise I'll split this with you.
-0x19381EF1=~z~Wait, wait, wait, wait listen...If you get me out of here, I promise I'll split this with you.
+0x19381EF1=~z~等下，等下，等下。听着...带我活着出去，我保证把钻石分给你。
 
 ;0x19E1956A=~z~Luis. How'd it go?
-0x19E1956A=~z~Luis. How'd it go?
+0x19E1956A=~z~Luis。情况如何？
 
 ;0x1A140BE7=~z~I know. I know.
-0x1A140BE7=~z~I know. I know.
+0x1A140BE7=~z~知道了。
 
 ;0x1A23A669=~z~You'll love what I've done with her. She's over at my pad on the West River.
-0x1A23A669=~z~You'll love what I've done with her. She's over at my pad on the West River.
+0x1A23A669=~z~你会喜欢我的改装的。她就在我西河的停机坪上。
 
 ;0x1A8BEE3C=E2T8_NC
 0x1A8BEE3C=E2T8_NC
 
 ;0x1A9282DD=~z~Rest of you motherfuckers wanna die, do something stupid okay?
-0x1A9282DD=~z~Rest of you motherfuckers wanna die, do something stupid okay?
+0x1A9282DD=~z~哪个狗逼不想活命，就给我动一下试试！
 
 ;0x1ADC684B=E2T8_MB
 0x1ADC684B=E2T8_MB
 
 ;0x1CB82F53=~z~Let's do this.
-0x1CB82F53=~z~Let's do this.
+0x1CB82F53=~z~快开始吧。
 
 ;0x1EC46AB3=SFX_PAUSE_240
 0x1EC46AB3=SFX_PAUSE_240
@@ -117,7 +117,7 @@
 0x1ED2F5AA=E2T8_NB
 
 ;0x1F649469=~z~Yo, hey man.
-0x1F649469=~z~Yo, hey man.
+0x1F649469=~z~哟，嘿哥们。
 
 ;0x1FDE694A=E2T8_PA
 0x1FDE694A=E2T8_PA
@@ -126,64 +126,64 @@
 0x208BFCB0=E2T8_ND
 
 ;0x2346330D=~z~Can you do me a favor and not take this too personally?
-0x2346330D=~z~Can you do me a favor and not take this too personally?
+0x2346330D=~z~你能不能别太计较这事？
 
 ;0x239D6910=~z~When I stick my tongue in you, you've know you've been poisoned.
-0x239D6910=~z~When I stick my tongue in you, you've know you've been poisoned.
+0x239D6910=~z~舌头触碰到你的那一刻，你就知道自己中毒了。
 
 ;0x242C2929=406
 0x242C2929=406
 
 ;0x2491BA17=~z~Enjoying yourself?
-0x2491BA17=~z~Enjoying yourself?
+0x2491BA17=~z~玩得开心吗？
 
 ;0x266BD62D=~z~What the fuck is that thing?
-0x266BD62D=~z~What the fuck is that thing?
+0x266BD62D=~z~那是什么鬼东西？
 
 ;0x26974329=~z~No problem.
-0x26974329=~z~No problem.
+0x26974329=~z~可以理解。
 
 ;0x270744D1=~z~- they're all going to shoot it through the eyes of - of a tough guy with a heart. ~n~ - Excuse me, can I get through? Hey man, can I get through here?
-0x270744D1=~z~- they're all going to shoot it through the eyes of - of a tough guy with a heart. ~n~ - Excuse me, can I get through? Hey man, can I get through here?
+0x270744D1=~z~－全都会通过我这个柔情铁汉的视角来拍摄。~n~－不好意思，我能过去吗？嘿，哥们，能让我过去吗？
 
 ;0x2ACD47BC=~z~Thanks, bro.
-0x2ACD47BC=~z~Thanks, bro.
+0x2ACD47BC=~z~谢了，兄弟。
 
 ;0x2D327A97=~z~So, who do you want me to kill boss?
-0x2D327A97=~z~So, who do you want me to kill boss?
+0x2D327A97=~z~这次要我杀谁，老板？
 
 ;0x2DF3FBBE=~z~Now they're all in relationships, learning how to cook. Man, therapy has got a lot to answer for, huh?
-0x2DF3FBBE=~z~Now they're all in relationships, learning how to cook. Man, therapy has got a lot to answer for, huh?
+0x2DF3FBBE=~z~现在，他们都有伴了，学会了调情。天，心理医生有得忙了，嗯？
 
 ;0x313813EF=E2T8_ZAA
 0x313813EF=E2T8_ZAA
 
 ;0x3209D9F6=~z~Mori, come over here.
-0x3209D9F6=~z~Mori, come over here.
+0x3209D9F6=~z~Mori，你过来。
 
 ;0x322FEA1D=E2T8_CA
 0x322FEA1D=E2T8_CA
 
 ;0x32435661=~z~You expecting this shit?
-0x32435661=~z~You expecting this shit?
+0x32435661=~z~没想到吧？
 
 ;0x328EC6CC=~z~Yeah great. Try and do that for me.
-0x328EC6CC=~z~Yeah great. Try and do that for me.
+0x328EC6CC=~z~好。尽量清醒一点吧。
 
 ;0x32B78744=~z~Errr, I'm glad I could be of assistance, anyway.
-0x32B78744=~z~Errr, I'm glad I could be of assistance, anyway.
+0x32B78744=~z~呃，很高兴能帮上忙，总之。
 
 ;0x3378D7E5=~z~You should not have fucked with me.
-0x3378D7E5=~z~You should not have fucked with me.
+0x3378D7E5=~z~你就不该招惹我。
 
 ;0x34007156=~z~We've got a situation here.
-0x34007156=~z~We've got a situation here.
+0x34007156=~z~我们遇上麻烦了。
 
 ;0x35364C13=~z~Pretty good, bro. Meet me at the helipad on the West River. I'll be there soon.
-0x35364C13=~z~Pretty good, bro. Meet me at the helipad on the West River. I'll be there soon.
+0x35364C13=~z~还不错，兄弟。西河的停机坪上碰头。我很快就到。
 
 ;0x3607B91A=~z~Luis! After I got that custom paint job and everything?
-0x3607B91A=~z~Luis! After I got that custom paint job and everything?
+0x3607B91A=~z~Luis！亏我定制了涂装和那么多改造！
 
 ;0x38961F7C=E2T8_IA
 0x38961F7C=E2T8_IA
@@ -192,7 +192,7 @@
 0x393FA22D=E2T8_LD
 
 ;0x395E697F=~z~Now, they're going to make a show about me.
-0x395E697F=~z~Now, they're going to make a show about me.
+0x395E697F=~z~现在，他们就要来拍我了。
 
 ;0x39C93046=E2T8_NE
 0x39C93046=E2T8_NE
@@ -201,28 +201,28 @@
 0x3D003DA8=E2T8_KA
 
 ;0x3DF549A2=~z~Just get the shit man.
-0x3DF549A2=~z~Just get the shit man.
+0x3DF549A2=~z~赶紧拿上货，兄弟，快！
 
 ;0x3EE5B010=~z~Thanks. They'll go straight in the safe.
-0x3EE5B010=~z~Thanks. They'll go straight in the safe.
+0x3EE5B010=~z~谢了。我会直接锁进保险箱的。
 
 ;0x3EE81E02=~z~Oh, ha! A lot of people. A lot of people. And where the fuck is Gracie? Huh?
-0x3EE81E02=~z~Oh, ha! A lot of people. A lot of people. And where the fuck is Gracie? Huh?
+0x3EE81E02=~z~噢，哈！一大堆人，一大堆人。Gracie他妈哪去了？嗯？
 
 ;0x3F43F46A=~z~Let's see the stuff gentlemen.
-0x3F43F46A=~z~Let's see the stuff gentlemen.
+0x3F43F46A=~z~先验一下货吧，先生们。
 
 ;0x3FAA9F2B=~z~Where's all the self loathing gone, huh?
-0x3FAA9F2B=~z~Where's all the self loathing gone, huh?
+0x3FAA9F2B=~z~以前的自我否认去哪了，啊？
 
 ;0x411323FB=~z~Well, exactly. Thanks. I appreciate it.
-0x411323FB=~z~Well, exactly. Thanks. I appreciate it.
+0x411323FB=~z~确实。谢了。我很感激。
 
 ;0x413A7368=~z~You're going to die friend.
-0x413A7368=~z~You're going to die friend.
+0x413A7368=~z~你要死了，朋友。
 
 ;0x43D7FC92=~z~even if it means we're properly fucked now. Go to bed, T.
-0x43D7FC92=~z~even if it means we're properly fucked now. Go to bed, T.
+0x43D7FC92=~z~意味着我们可能要完了。睡一觉吧，T。
 
 ;0x4433B6B5=SFX_PAUSE_180
 0x4433B6B5=SFX_PAUSE_180
@@ -237,13 +237,13 @@
 0x4EE7BF09=E2T8_LA
 
 ;0x4FC8ED49=~z~Issac, these are great.
-0x4FC8ED49=~z~Issac, these are great.
+0x4FC8ED49=~z~Isaac，成色真棒。
 
 ;0x52B04592=~z~She's supposed to meet me here.. fuck her, man...fuck, oh shit. We've got to go make ourselves rich, because,
-0x52B04592=~z~She's supposed to meet me here.. fuck her, man...fuck, oh shit. We've got to go make ourselves rich, because,
+0x52B04592=~z~她不是要来找我吗。去她的，老兄...操，妈的。得让自己再富起来，因为...
 
 ;0x52D2C57B=~z~Oh, we're getting rich here - look at this place - so many rich, happy queens spending their hard earned money, huh?
-0x52D2C57B=~z~Oh, we're getting rich here - look at this place - so many rich, happy queens spending their hard earned money, huh?
+0x52D2C57B=~z~啊，我们要发财了。看看这里，多少有钱又幸福的基佬在挥霍血汗钱，嗯？
 
 ;0x53072E0B=E2T8_CC
 0x53072E0B=E2T8_CC
@@ -264,37 +264,37 @@
 0x5DE471C7=E2T8_EE2
 
 ;0x5E7633B2=~z~Hey hey hey. Did I say next?
-0x5E7633B2=~z~Hey hey hey. Did I say next?
+0x5E7633B2=~z~喂喂喂。我有说下一位吗？
 
 ;0x5ED9844B=~z~You will not win this dogfight. We're highly trained.
-0x5ED9844B=~z~You will not win this dogfight. We're highly trained.
+0x5ED9844B=~z~你是赢不了的，我们都经过了训练。
 
 ;0x61768959=~z~Heat seeking missiles engaged.
-0x61768959=~z~Heat seeking missiles engaged.
+0x61768959=~z~跟踪导弹已启动。
 
 ;0x63A91F0C=~z~I'm not on drugs, man.
-0x63A91F0C=~z~I'm not on drugs, man.
+0x63A91F0C=~z~我没嗑药，老弟。
 
 ;0x63D43C81=~z~If you can't run, you going to have to fight.
-0x63D43C81=~z~If you can't run, you going to have to fight.
+0x63D43C81=~z~既然跑不掉，那就战到底。
 
 ;0x6420E817=~z~Man, what went wrong? In my day, gay guys used to be lonely, needy and lost.
-0x6420E817=~z~Man, what went wrong? In my day, gay guys used to be lonely, needy and lost.
+0x6420E817=~z~天，怎么搞的？想当年，同性恋都还是孤独、缺爱又迷茫。
 
 ;0x64A6697E=~z~after all, the nightclub trade is not what it used to be.
-0x64A6697E=~z~after all, the nightclub trade is not what it used to be.
+0x64A6697E=~z~时至今日，夜店这行已经没那么景气了。
 
 ;0x66920A35=090
 0x66920A35=090
 
 ;0x66EB2375=~z~I did and you can't move to Maisonette.
-0x66EB2375=~z~I did and you can't move to Maisonette.
+0x66EB2375=~z~谈过了，没法给你转岗豪宅。
 
 ;0x6731C8D5=~z~You're dead men.
-0x6731C8D5=~z~You're dead men.
+0x6731C8D5=~z~你死定了。
 
 ;0x69FD0642=~z~Yeah, man, I learnt the ancient art of understatement from you.
-0x69FD0642=~z~Yeah, man, I learnt the ancient art of understatement from you.
+0x69FD0642=~z~是啊，老兄，跟你学的朴实无华的古老智慧。
 
 ;0x6A00EE94=E2T8_EA
 0x6A00EE94=E2T8_EA
@@ -306,82 +306,82 @@
 0x6C7C1B64=100010010100100100100100010
 
 ;0x6DB05035=~z~I might not be able to hide in this gold monstrosity, but I can sure as shit fight.
-0x6DB05035=~z~I might not be able to hide in this gold monstrosity, but I can sure as shit fight.
+0x6DB05035=~z~这架金色的怪兽虽然躲不了，但是打就能赢。
 
 ;0x7000D6C7=~z~Yeah you said I was next, man.
-0x7000D6C7=~z~Yeah you said I was next, man.
+0x7000D6C7=~z~你不是说过了吗，老兄。
 
 ;0x70F656D2=~z~Oh yeah. Mission accomplished?
-0x70F656D2=~z~Oh yeah. Mission accomplished?
+0x70F656D2=~z~哦对。任务完成了没？
 
 ;0x71E4BB83=~z~Yeah maybe uh - maybe I should handle this one on my own, T. Okay. You just sit tight, wait for Gracie, and um, I'll give you a shout when I get back.
-0x71E4BB83=~z~Yeah maybe uh - maybe I should handle this one on my own, T. Okay. You just sit tight, wait for Gracie, and um, I'll give you a shout when I get back.
+0x71E4BB83=~z~要么...要么还是我一个人去吧，T。好不。你就坐好，在这儿等Gracie，然后...我回来了喊你。
 
 ;0x73452CF6=~z~It's not often we get to bring out the heat seekers.
-0x73452CF6=~z~It's not often we get to bring out the heat seekers.
+0x73452CF6=~z~平常很少用到跟踪导弹。
 
 ;0x7346B444=~z~Fuck you!
-0x7346B444=~z~Fuck you!
+0x7346B444=~z~操你妈！
 
 ;0x73CDACD8=090
 0x73CDACD8=090
 
 ;0x7908EC8F=~z~Take it.
-0x7908EC8F=~z~Take it.
+0x7908EC8F=~z~接招。
 
 ;0x7949A4DB=~z~Yeah, sure. Right next to the emergency eight ball. I'll see you soon, T.
-0x7949A4DB=~z~Yeah, sure. Right next to the emergency eight ball. I'll see you soon, T.
+0x7949A4DB=~z~是，当然。就在备用可卡因旁边。再见了，T。
 
 ;0x7954A9FB=~z~This ain't no fight you gonna win, motherfuckers.
-0x7954A9FB=~z~This ain't no fight you gonna win, motherfuckers.
+0x7954A9FB=~z~这一仗你们压根没胜算，王八蛋们。
 
 ;0x79836D78=~z~You push me.
-0x79836D78=~z~You push me.
+0x79836D78=~z~你逼我的。
 
 ;0x7D208395=~z~I do believe we are out gunned.
-0x7D208395=~z~I do believe we are out gunned.
+0x7D208395=~z~我们的装备被完爆了。
 
 ;0x7EB069E4=~z~They was stolen from us first, bro.
-0x7EB069E4=~z~They was stolen from us first, bro.
+0x7EB069E4=~z~本来就是从我们手里抢走的，兄弟。
 
 ;0x7F6CF3BF=~z~I was supposed to be at the Libertonian getting them diamonds back. Remember?
-0x7F6CF3BF=~z~I was supposed to be at the Libertonian getting them diamonds back. Remember?
+0x7F6CF3BF=~z~在博物馆帮你拿回钻石。记得不？
 
 ;0x80D8787B=090
 0x80D8787B=090
 
 ;0x82F1FCA9=~z~I'm sure, and it sounds all like fantastic entertainment. Now, if you'll excuse me, I've got to get back down to earth.
-0x82F1FCA9=~z~I'm sure, and it sounds all like fantastic entertainment. Now, if you'll excuse me, I've got to get back down to earth.
+0x82F1FCA9=~z~对对对，听上去就很有节目效果。那个，不介意的话，我要回归现实了。
 
 ;0x83E395B7=E2T8_CB
 0x83E395B7=E2T8_CB
 
 ;0x848DE0D5=~z~I'm not on drugs.
-0x848DE0D5=~z~I'm not on drugs.
+0x848DE0D5=~z~我没嗑药。
 
 ;0x889EB112=~z~What's up, T?
-0x889EB112=~z~What's up, T?
+0x889EB112=~z~还好吗，T？
 
 ;0x89A54A9C=~z~You'd be advised to back off, bitches.
-0x89A54A9C=~z~You'd be advised to back off, bitches.
+0x89A54A9C=~z~早让你们缩回去了，贱人。
 
 ;0x8AD352CB=~z~This chopper's a motherfucking get outta jail free card.
-0x8AD352CB=~z~This chopper's a motherfucking get outta jail free card.
+0x8AD352CB=~z~这玩意就他妈是免罚出狱卡啊，哈哈哈哈。
 
 ;0x8C3F92FC=~z~My back's against the wall.
-0x8C3F92FC=~z~My back's against the wall.
+0x8C3F92FC=~z~我已经没有退路了。
 
 ;0x8EB23D60=~z~Get that weird-ass chopper on the ground now.
-0x8EB23D60=~z~Get that weird-ass chopper on the ground now.
+0x8EB23D60=~z~怪胎飞机立刻给我降落。
 
 ;0x8EBACFBD=~z~Here are those rocks. Try to hold onto them this time.
-0x8EBACFBD=~z~Here are those rocks. Try to hold onto them this time.
+0x8EBACFBD=~z~钻石都在这了。这次再别弄丢了。
 
 ;0x949CF858=506
 0x949CF858=506
 
 ;0x94C760E0=~z~You sending more of them in here?
-0x94C760E0=~z~You sending more of them in here?
+0x94C760E0=~z~又派炮灰来了？
 
 ;0x9575B407=E2T8_CF
 0x9575B407=E2T8_CF
@@ -390,34 +390,34 @@
 0x95B73F3B=E2T8_MC
 
 ;0x9AE48D82=~z~I thought we could go down there, put in a low ball bid and take them for ourselves, huh?
-0x9AE48D82=~z~I thought we could go down there, put in a low ball bid and take them for ourselves, huh?
+0x9AE48D82=~z~我们可以过去蹲点，恶意压价把货带走，嗯？
 
 ;0x9B2A03EA=~z~Unmarked bills.
-0x9B2A03EA=~z~Unmarked bills.
+0x9B2A03EA=~z~干净的钱！
 
 ;0x9D6BCB7C=SFX_PAUSE_340
 0x9D6BCB7C=SFX_PAUSE_340
 
 ;0x9DBE6DC4=~z~Hey, Lou, you're riding in style.
-0x9DBE6DC4=~z~Hey, Lou, you're riding in style.
+0x9DBE6DC4=~z~嘿，Lou，座驾太有范了吧。
 
 ;0x9DCA3611=~z~Yeah. Is that what you're after?
-0x9DCA3611=~z~Yeah. Is that what you're after?
+0x9DCA3611=~z~对，找的是这箱子吗？
 
 ;0xA037F756=SFX_PAUSE_210
 0xA037F756=SFX_PAUSE_210
 
 ;0xA0F41786=~z~Hey man, Tony inside?
-0xA0F41786=~z~Hey man, Tony inside?
+0xA0F41786=~z~嘿，Tony在吗？
 
 ;0xA0F861EC=~z~I don't know what that thing is, but I need you to land it.
-0xA0F861EC=~z~I don't know what that thing is, but I need you to land it.
+0xA0F861EC=~z~不知道你开的是什么，但请立刻降落。
 
 ;0xA15416D7=E2T8_DA
 0xA15416D7=E2T8_DA
 
 ;0xA15B1850=~z~So?
-0xA15B1850=~z~So?
+0xA15B1850=~z~然后呢？
 
 ;0xA36CB1EE=E2T8_OA
 0xA36CB1EE=E2T8_OA
@@ -426,34 +426,34 @@
 0xA72CEF14=406
 
 ;0xA842283D=~z~Those diamonds, I heard they're being sold soon. At the Libertonian, of all places.
-0xA842283D=~z~Those diamonds, I heard they're being sold soon. At the Libertonian, of all places.
+0xA842283D=~z~那些钻石，马上就要被转手了。自由城博物馆，在那儿交易。
 
 ;0xA8828E29=~z~Lesson learned: the guy in the golden chopper ain't fucking around.
-0xA8828E29=~z~Lesson learned: the guy in the golden chopper ain't fucking around.
+0xA8828E29=~z~一个教训：开金色直升机的人你们惹不起。
 
 ;0xAABD2B18=~z~Ah yeah, but can I speak to you for a minute?
-0xAABD2B18=~z~Ah yeah, but can I speak to you for a minute?
+0xAABD2B18=~z~呃...在，但我能跟你讲两句不？
 
 ;0xAB3CCB5E=~z~What's happening, Lou? Where were you again?
-0xAB3CCB5E=~z~What's happening, Lou? Where were you again?
+0xAB3CCB5E=~z~怎么了，Lou？你在哪儿来着？
 
 ;0xAC7ACFBA=~z~- Hey listen, man, get back in line. ~n~ -You said I was next. ~n~ -Yeah, you know what? We're full.
-0xAC7ACFBA=~z~- Hey listen, man, get back in line. ~n~ -You said I was next. ~n~ -Yeah, you know what? We're full.
+0xAC7ACFBA=~z~－听好了，哥们，先退回去。~n~－你都放我过去了。~n~－是，现在客满了。
 
 ;0xAD2E556B=100090010100090010
 0xAD2E556B=100090010100090010
 
 ;0xB1270249=~z~Man in the weird chopper. Please proceed to the ground.
-0xB1270249=~z~Man in the weird chopper. Please proceed to the ground.
+0xB1270249=~z~奇怪直升机里的家伙，请你立刻降落。
 
 ;0xB28B59F2=~z~I ain't gonna lose them in this golden goose, I better rain shit on their ass.
-0xB28B59F2=~z~I ain't gonna lose them in this golden goose, I better rain shit on their ass.
+0xB28B59F2=~z~开着大金鹅肯定甩不掉他们，最好还是火力全开。
 
 ;0xB2F1D7C0=~z~If I were you, I'd chase down some less heavily armed criminals.
-0xB2F1D7C0=~z~If I were you, I'd chase down some less heavily armed criminals.
+0xB2F1D7C0=~z~换做是我，就会去找好捏的柿子了。
 
 ;0xB3A1BCDD=~z~So? So? Are you insane, man? What else matters? The production company here, man... belongs to one of the guys.
-0xB3A1BCDD=~z~So? So? Are you insane, man? What else matters? The production company here, man... belongs to one of the guys.
+0xB3A1BCDD=~z~然后？然后？你是不是傻，哥？还有什么比这重要？节目组都来过了，哥...能成为电视名人。
 
 ;0xB3A2218A=SFX_PAUSE_230
 0xB3A2218A=SFX_PAUSE_230
@@ -465,25 +465,25 @@
 0xB5181C95=E2T8_EC
 
 ;0xB869B141=~z~You ain't fucking this golden bitch.
-0xB869B141=~z~You ain't fucking this golden bitch.
+0xB869B141=~z~你干不过金闪闪的。
 
 ;0xB8F34780=~z~No, no, no, no, man not that. Not that. Guess what? I'm going to be famous. Seriously.
-0xB8F34780=~z~No, no, no, no, man not that. Not that. Guess what? I'm going to be famous. Seriously.
+0xB8F34780=~z~不不不不，哥们。不是这事，不是这事。想不到吧，我要出名了。真的。
 
 ;0xBAA16722=~z~Yusuf, bro, I can't chat right now. You mind if I borrow your chopper?
-0xBAA16722=~z~Yusuf, bro, I can't chat right now. You mind if I borrow your chopper?
+0xBAA16722=~z~喂，Yusuf，现在没空聊天。直升机能借我用下吗？
 
 ;0xBAC64DD2=~z~Ain't no one gonna expect a golden chopper to shoot them to shit.
-0xBAC64DD2=~z~Ain't no one gonna expect a golden chopper to shoot them to shit.
+0xBAC64DD2=~z~谁能想到自己会被金闪闪的直升机打爆呢。
 
 ;0xBBA91982=E2T8_LB
 0xBBA91982=E2T8_LB
 
 ;0xBDADC8F1=~z~Good. Niko, show him the stuff.
-0xBDADC8F1=~z~Good. Niko, show him the stuff.
+0xBDADC8F1=~z~好。Niko，给他验货。
 
 ;0xBF575667=~z~Exactly! Ok.
-0xBF575667=~z~Exactly! Ok.
+0xBF575667=~z~好啊！么。
 
 ;0xBF78A008=E2T8_GA
 0xBF78A008=E2T8_GA
@@ -492,34 +492,34 @@
 0xC02BB73C=E2T8_EF
 
 ;0xC624D2B4=~z~Please do not make us do this.
-0xC624D2B4=~z~Please do not make us do this.
+0xC624D2B4=~z~别逼我们动手。
 
 ;0xC6CF6C07=100090010100090010010
 0xC6CF6C07=100090010100090010010
 
 ;0xC8DD0399=~z~My favorite dude. Luis, what's up?
-0xC8DD0399=~z~My favorite dude. Luis, what's up?
+0xC8DD0399=~z~我最爱的兄弟。Luis，咋了？
 
 ;0xCA279DA2=~z~You're going down.
-0xCA279DA2=~z~You're going down.
+0xCA279DA2=~z~你要完蛋了。
 
 ;0xCB9B0DFA=~z~Bro, you spend every night standing here in the exact same spot.
-0xCB9B0DFA=~z~Bro, you spend every night standing here in the exact same spot.
+0xCB9B0DFA=~z~兄弟，但你每晚都在这个位置站岗啊。
 
 ;0xCCB5F124=~z~Nice, let's go.
-0xCCB5F124=~z~Nice, let's go.
+0xCCB5F124=~z~不错，走吧。
 
 ;0xCD2BDAC5=~z~There you go!
-0xCD2BDAC5=~z~There you go!
+0xCD2BDAC5=~z~吃我一炮！
 
 ;0xCD418B74=~z~Don't fuck with me.
-0xCD418B74=~z~Don't fuck with me.
+0xCD418B74=~z~别跟老子作对。
 
 ;0xCD5D8C97=~z~Get outta here.
-0xCD5D8C97=~z~Get outta here.
+0xCD5D8C97=~z~滚蛋吧。
 
 ;0xCD728CC5=~z~I'm a kick you ass, motherfucker.
-0xCD728CC5=~z~I'm a kick you ass, motherfucker.
+0xCD728CC5=~z~我干你妈，王八蛋。
 
 ;0xCDAFEDA6=E2T8_DC
 0xCDAFEDA6=E2T8_DC
@@ -528,19 +528,19 @@
 0xCDC4D8B6=E2T8_EG
 
 ;0xCFA59617=~z~They're going to make a show about me. Me! I mean, they were making one about this Puerto Rican guy in Bohan, but he disappeared.
-0xCFA59617=~z~They're going to make a show about me. Me! I mean, they were making one about this Puerto Rican guy in Bohan, but he disappeared.
+0xCFA59617=~z~他们要拍一期我的节目。我啊！本来是要拍Bohan的一个波多黎各人的，但他失踪了。
 
 ;0xD06C6E6E=~z~No history, no need to launder.
-0xD06C6E6E=~z~No history, no need to launder.
+0xD06C6E6E=~z~没有案底，不需要洗。
 
 ;0xD0CE9F25=E2T8_RA
 0xD0CE9F25=E2T8_RA
 
 ;0xD734A048=~z~The special one. The one with all that military shit.
-0xD734A048=~z~The special one. The one with all that military shit.
+0xD734A048=~z~要那架。搭载军用武器的那架。
 
 ;0xD7BA75DF=~z~Land that thing now, or you will be obliterated.
-0xD7BA75DF=~z~Land that thing now, or you will be obliterated.
+0xD7BA75DF=~z~立刻降落，否则当场击落。
 
 ;0xD9070376=E2T8_QA
 0xD9070376=E2T8_QA
@@ -552,43 +552,43 @@
 0xDAE82204=100010100010
 
 ;0xDB1F281A=~z~Take some of this.
-0xDB1F281A=~z~Take some of this.
+0xDB1F281A=~z~尝尝这个。
 
 ;0xDB342848=~z~If I can hit you, I can fuck you up.
-0xDB342848=~z~If I can hit you, I can fuck you up.
+0xDB342848=~z~只要能打着，我就能干爆你。
 
 ;0xDBD6781A=~z~Go back to flight school.
-0xDBD6781A=~z~Go back to flight school.
+0xDBD6781A=~z~回飞行驾校去吧。
 
 ;0xDD3F5C55=~z~Hey bro. Thanks for lending me the Buzzard.
-0xDD3F5C55=~z~Hey bro. Thanks for lending me the Buzzard.
+0xDD3F5C55=~z~嘿，兄弟。谢谢你把秃鹰借我。
 
 ;0xE05C8DC5=~z~Shit, Yusuf, that's the thing. She don't fly no more. The Buzzard had an accident.
-0xE05C8DC5=~z~Shit, Yusuf, that's the thing. She don't fly no more. The Buzzard had an accident.
+0xE05C8DC5=~z~妈的，Yusuf，问题就在这儿。飞不起来了。秃鹰坠落了。
 
 ;0xE143C36C=~z~Fuck you, you said I was...
-0xE143C36C=~z~Fuck you, you said I was...
+0xE143C36C=~z~操你妈，你说过我能...
 
 ;0xE2F79384=~z~- Isaac, look at them. ~n~ - Gorgeous, huh?
-0xE2F79384=~z~- Isaac, look at them. ~n~ - Gorgeous, huh?
+0xE2F79384=~z~－Isaac，你看看。~n~－很耀眼吧？
 
 ;0xE3A0BD25=~z~Whoa, whoa, whoa, whoa, since we're having a little show and tell let's see some money.
-0xE3A0BD25=~z~Whoa, whoa, whoa, whoa, since we're having a little show and tell let's see some money.
+0xE3A0BD25=~z~喔，喔，喔，喔。要我们给你验货可以，先把钱拿出来。
 
 ;0xE88ECB99=~z~Screw you.
-0xE88ECB99=~z~Screw you.
+0xE88ECB99=~z~去你妈的。
 
 ;0xEA0645E8=~z~You seen one of these bitches before?
-0xEA0645E8=~z~You seen one of these bitches before?
+0xEA0645E8=~z~见过这样的家伙吗？
 
 ;0xEA8145F3=~z~That's enough.
-0xEA8145F3=~z~That's enough.
+0xEA8145F3=~z~够了。
 
 ;0xEA9DD76E=E2T8_CG
 0xEA9DD76E=E2T8_CG
 
 ;0xEAFACBD9=~z~There it is, beautiful, huh?
-0xEAFACBD9=~z~There it is, beautiful, huh?
+0xEAFACBD9=~z~都在这儿了。很漂亮吧？
 
 ;0xEBDDFB33=E2T8_LE
 0xEBDDFB33=E2T8_LE
@@ -597,43 +597,43 @@
 0xED4DB045=E2T8_DB
 
 ;0xEEB3FF3E=~z~Love what you done with the paintwork. Real subtle. Stealth attack shit.
-0xEEB3FF3E=~z~Love what you done with the paintwork. Real subtle. Stealth attack shit.
+0xEEB3FF3E=~z~我喜欢你弄的涂装。非常低调，便于偷袭。
 
 ;0xEF8480B7=~z~Luis!
-0xEF8480B7=~z~Luis!
+0xEF8480B7=~z~Luis！
 
 ;0xF2399CB3=E2T8_ED
 0xF2399CB3=E2T8_ED
 
 ;0xF28DA588=~z~You were out gunned.
-0xF28DA588=~z~You were out gunned.
+0xF28DA588=~z~你们火力不足啊。
 
 ;0xF4E93767=~z~Get in there Mori.
-0xF4E93767=~z~Get in there Mori.
+0xF4E93767=~z~过去吧，Mori。
 
 ;0xF58C579A=~z~What?
-0xF58C579A=~z~What?
+0xF58C579A=~z~啥？
 
 ;0xF676C4A9=~z~What's going down?
-0xF676C4A9=~z~What's going down?
+0xF676C4A9=~z~要怎么做？
 
 ;0xF7C4E165=~z~You ain't going anywhere.
-0xF7C4E165=~z~You ain't going anywhere.
+0xF7C4E165=~z~你哪都别想去。
 
 ;0xF80E8C57=E2T8_MD
 0xF80E8C57=E2T8_MD
 
 ;0xF839E657=~z~Of course, no problem.
-0xF839E657=~z~Of course, no problem.
+0xF839E657=~z~可以，没问题。
 
 ;0xF846E17E=~z~Fuck off.
-0xF846E17E=~z~Fuck off.
+0xF846E17E=~z~滚开。
 
 ;0xF9D2157A=~z~That's what I do, motherfucker. Sneak up on them bitches. Hide in the fucking sand, then pow!
-0xF9D2157A=~z~That's what I do, motherfucker. Sneak up on them bitches. Hide in the fucking sand, then pow!
+0xF9D2157A=~z~这就是爷的风格，妈个逼的。尾随那帮婊子，潜行在沙漠中，然后啪！
 
 ;0xF9D46E24=~z~Fuck you.
-0xF9D46E24=~z~Fuck you.
+0xF9D46E24=~z~操你妈。
 
 ;0xFAADCAEC=292
 0xFAADCAEC=292
@@ -642,7 +642,7 @@
 0xFB07B3A7=E2T8_EH
 
 ;0xFC794E8F=~z~No, not really.
-0xFC794E8F=~z~No, not really.
+0xFC794E8F=~z~不，不能。
 
 ;0xFF6C49BB=100010100010100100010
 0xFF6C49BB=100010100010100100010
