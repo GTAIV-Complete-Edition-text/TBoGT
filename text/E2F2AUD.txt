@@ -48,7 +48,7 @@
 0x11FDF229=~z~这里需要支援。
 
 ;0x141B0907=~z~Yo. We got us an issue here. I think they robbing us!
-0x141B0907=~z~哟，上面出问题了。他们要抢我们！
+0x141B0907=~z~哟，上面出问题了。有人要抢我们！
 
 ;0x1658AE18=SFX_PAUSE_290
 0x1658AE18=SFX_PAUSE_290
@@ -96,7 +96,7 @@
 0x249829CB=E2F2_CVD
 
 ;0x25C45B36=~z~Yo, we doing some contract work - getting paid to escort a shipment for some people.
-0x25C45B36=~z~哟，这次是签了合同的，收钱保护别人的货。
+0x25C45B36=~z~哟，这次是收钱办事，有人雇我们护送货物。
 
 ;0x27215D5C=E2F2_DOA
 0x27215D5C=E2F2_DOA
@@ -210,7 +210,7 @@
 0x48F56017=~z~一群混蛋。操。
 
 ;0x4AE4DA86=~z~Who these boys you got working for you?
-0x4AE4DA86=~z~替你干活的这些都谁啊？
+0x4AE4DA86=~z~替你干活的这些人是谁？
 
 ;0x4B0D1073=~z~Ah, hello baby.
 0x4B0D1073=~z~啊，宝贝崽。
@@ -243,7 +243,7 @@
 0x54FDCB61=~z~你俩，盯着从船上卸货的人。我盯上面这些。
 
 ;0x55949463=~z~And, considering your experience as a man manager, we thought...
-0x55949463=~z~再考虑到你是管人事的，我们觉得...
+0x55949463=~z~再考虑到你平常就在管人，我们觉得...
 
 ;0x56623AB6=E2F2_CSA
 0x56623AB6=E2F2_CSA
@@ -504,13 +504,13 @@
 0xB7977734=~z~Rique的老妈还想让这崽子上大学。
 
 ;0xB7A7EA34=~z~It would be a serious bad idea to show the law this shipment. We better lose them before we head there.
-0xB7A7EA34=~z~带着执法大队去卸货可不是个好主意。到之前最好甩了他们。
+0xB7A7EA34=~z~带着执法大队卸货可不是个好主意。到之前最好甩了他们。
 
 ;0xB852D829=E2F2_CZB
 0xB852D829=E2F2_CZB
 
 ;0xB8A7B004=~z~I guess there's nothing you can do for now, if you're so interested in being a drug dealer. But you got to try to get out of this petty hand to mouth shit.
-0xB8A7B004=~z~要是你们想一条路走到黑，那确实没什么办法。可你俩不能一辈子靠这个吃饭啊。
+0xB8A7B004=~z~要是你们一条路走到黑，那确实没什么办法。可你俩不能一辈子靠这个吃饭啊。
 
 ;0xBAFF802E=010090100090200
 0xBAFF802E=010090100090200
@@ -558,7 +558,7 @@
 0xCB3D90D2=~z~行吧。现在你的孩子和亲儿子有正事要做，所以二位，该出发了。
 
 ;0xCDBF5022=~z~We being paid to oversee the movement of a shipment, bro. Just got to get it back to the Heights and we get paid.
-0xCDBF5022=~z~有人雇我们去监督卸货，兄弟。只要把货运到高地那边就有钱拿了。
+0xCDBF5022=~z~有人雇我们去监督卸货，兄弟。把货运到高地那边就有钱拿了。
 
 ;0xCE041768=E2F2_CTA
 0xCE041768=E2F2_CTA
@@ -579,7 +579,7 @@
 0xD127841A=~z~希望这波不亏。
 
 ;0xD7C6B040=~z~That sound like someone in a hurry.
-0xD7C6B040=~z~好像有人很急。
+0xD7C6B040=~z~好像有人过来了。
 
 ;0xD7E2E779=E2F2_CYD
 0xD7E2E779=E2F2_CYD
@@ -648,7 +648,7 @@
 0xE341A9D9=102
 
 ;0xE4D5C73D=~z~We gonna bring it up here to get in these cars, then all we got to do is get them back to the Heights.
-0xE4D5C73D=~z~我们把货搬上去再装车，然后把货拉回高地就行。
+0xE4D5C73D=~z~我们把货搬上去装车，然后拉回高地就行。
 
 ;0xE517985D=~z~Fuck! Fuck! Fuck!
 0xE517985D=~z~操！操！操！

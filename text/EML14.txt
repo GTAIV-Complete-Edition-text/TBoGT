@@ -9,7 +9,7 @@
 0x364E8554=谢了，
 
 ;0x6C534F5F=No drama
-0x6C534F5F=好把
+0x6C534F5F=好吧
 
 ;0x7A7BEBB0=Thanks
 0x7A7BEBB0=谢了
@@ -36,7 +36,7 @@
 0xC2AD9BFF=嘿，
 
 ;0xC4B5BAD3=Here's that link. <a href="www.youvebeencelebinated.com">www.youvebeencelebinated.com</a>. Reel him in coz I've got something planned.
-0xC4B5BAD3=那链接在这。<a href="www.youvebeencelebinated.com">www.youvebeencelebinated.com</a>. 把他卷进来，因为我计划了些东西。
+0xC4B5BAD3=给你链接。 <a href="www.youvebeencelebinated.com">www.youvebeencelebinated.com</a> 把他引出来，我想了一个计划。
 
 ;0xD19539CE=Hey,
 0xD19539CE=嘿，
@@ -55,3 +55,4 @@
 
 ;0xFC708F84=Hey,
 0xFC708F84=嘿，
+

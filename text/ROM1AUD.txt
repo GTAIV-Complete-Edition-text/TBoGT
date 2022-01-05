@@ -105,7 +105,7 @@
 0x1E12972B=010010010
 
 ;0x1E56A402=~z~No, mon ami, I hate to tell you my friend,
-0x1E56A402=~z~不，我的朋友，我很不想这么说哈，
+0x1E56A402=~z~不，我的朋友，我很不想这么说哈。
 
 ;0x1F0AA0EF=SFX_PAUSE_140
 0x1F0AA0EF=SFX_PAUSE_140
@@ -270,7 +270,7 @@
 0x4CB18028=SFX_PAUSE_200
 
 ;0x4E18CF50=~z~Hey, compared to the shit I've dealt with today, okay, that doesn't sound so shady,
-0x4E18CF50=~z~嘿，比起我今天遇到的事，听起来还挺正能量的，
+0x4E18CF50=~z~嘿，比起我今天遇到的事，听起来还挺正能量的。
 
 ;0x4E783116=~z~That will be another experience, my friend. It shall be worth remembering, too.
 0x4E783116=~z~那又是另一种经历，朋友。也值得铭记。
@@ -453,7 +453,7 @@
 0x86CA8103=~z~我不想听到隔壁房间传来警察的呻吟。
 
 ;0x86D9D0F7=~z~This morning, a delicious twenty two year old girl left her parents' apartment in Middle Park East.
-0x86D9D0F7=~z~今早，一个22岁的诱人妹子从中央公园东的父母家出来，
+0x86D9D0F7=~z~今早，一个22岁的诱人妹子从中心公园东的父母家出来，
 
 ;0x86E0916B=SFX_PAUSE_140
 0x86E0916B=SFX_PAUSE_140
@@ -780,7 +780,7 @@
 0xDC85F186=~z~呜啦啦。
 
 ;0xDCB0A0BB=~z~nothing matters in this world apart from getting your rocks off,
-0xDCB0A0BB=~z~在这世上，没有什么比射爆更重要的了，
+0xDCB0A0BB=~z~在这世上，没有什么比射爆更重要的了。
 
 ;0xDCC73201=ROM1_LA
 0xDCC73201=ROM1_LA
@@ -792,7 +792,7 @@
 0xDD90B398=~z~咱们想法子拿回来吧。希望不会沾上多少皮条客的血。
 
 ;0xDE2D6E97=~z~You're a guy who just enjoyed an opium laden threesome with some light bondage...
-0xDE2D6E97=~z~你这人，喜欢磕了药玩3P，还沾了点SM...
+0xDE2D6E97=~z~你这人，喜欢嗑了药玩3P，还沾了点SM...
 
 ;0xDF57C78E=~z~This is not a matter I care to report to the police.
 0xDF57C78E=~z~这件事我不想报警。

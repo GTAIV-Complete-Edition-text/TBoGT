@@ -27,7 +27,7 @@
 0x1311EFEE=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x 黄金SMG子弹 $60
 
 ;0x134259A1=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG purchased.
-0x134259A1=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买微型SMG。
+0x134259A1=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买微型冲锋枪。
 
 ;0x16A4F03A=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Knife $100
 0x16A4F03A=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~匕首 $100
@@ -39,16 +39,16 @@
 0x1E75C30B=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~SMG $1750
 
 ;0x1F9C8119=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~50 x Micro SMG rounds $20
-0x1F9C8119=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~50 x 微型SMG子弹 $20
+0x1F9C8119=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~50 x 微型冲锋枪子弹 $20
 
 ;0x204FF4EC=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Assault Rifle purchased.
 0x204FF4EC=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买突击步枪。
 
 ;0x2108752D=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Micro SMG ammo.
-0x2108752D=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发微型SMG子弹。
+0x2108752D=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发微型冲锋枪子弹。
 
 ;0x235B89B7=You already have a weapon in this slot.~n~Press ~INPUT_FRONTEND_ACCEPT~ to replace your current weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.~n~Press ~INPUT_PICKUP~ to quit.~n~~g~Micro SMG $840
-0x235B89B7=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~微型SMG $840
+0x235B89B7=你已拥有此类武器。~n~按~INPUT_FRONTEND_ACCEPT~替换你现有的武器。~n~按~INPUT_FRONTEND_CANCEL~返回。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪 $840
 
 ;0x24AF060A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Rocket Launcher purchased.
 0x24AF060A=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买火箭筒。
@@ -222,7 +222,7 @@
 0x81693E61=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~8 x 突击霰弹枪子弹 $25
 
 ;0x83080D7E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Micro SMG $840
-0x83080D7E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~微型SMG $840
+0x83080D7E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~微型冲锋枪 $840
 
 ;0x83B6441B=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~~1~ x Rockets purchased.
 0x83B6441B=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~枚火箭弹。

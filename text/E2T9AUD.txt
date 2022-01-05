@@ -120,7 +120,7 @@
 0x1A65FE07=~z~那个，T，问个问题，找到Gracie以后要干什么？直接冲进去，教训一顿绑匪吗？
 
 ;0x1A6D6E50=~z~We just got to follow them. See if they take us anywhere interesting.
-0x1A6D6E50=~z~我们要去跟踪他们。看看他们会不会带我们去什么有趣的地方。
+0x1A6D6E50=~z~我们要跟踪他们。看看会不会找到什么有趣的地方。
 
 ;0x1B6E30D9=E2T9_YB
 0x1B6E30D9=E2T9_YB
@@ -366,7 +366,7 @@
 0x4AABFCF9=SFX_PAUSE_230
 
 ;0x4B631DDB=~z~Then he's probably going to see us, isn't he? The first thing a paranoid man looks for is a chopper.
-0x4B631DDB=~z~那他不就要看到我们了吗？多疑的人肯定会注意到直升机的。
+0x4B631DDB=~z~那不就要被他发现了吗？多疑的人肯定会注意到直升机的。
 
 ;0x4B70A5C6=~z~Okay. It's a shot in the dark, but it might work.
 0x4B70A5C6=~z~好吧。跟摸瞎差不多，说不定就成了。
@@ -456,7 +456,7 @@
 0x673DF22F=010090100010090100
 
 ;0x6835CB9A=~z~Okay. I need your help, Luis. You're all I've got left. You happy now? I said it.
-0x6835CB9A=~z~好吧。我需要你的帮助，Luis。你是我所剩的一切了。你满意了？我承认了。
+0x6835CB9A=~z~好吧。我需要你的帮助，Luis。你是我所剩的一切了。满意了吧？我承认了。
 
 ;0x697BBAB6=~z~You think I could go to sleep at a moment like this?
 0x697BBAB6=~z~这种时候我可能睡得着吗？
@@ -480,7 +480,7 @@
 0x704B335E=~z~那些钻石。他说事情和钻石有关，而且Gracie经常和我们一块出去。
 
 ;0x71C08BAC=~z~Of course I'm calm. I'm really calm. Why wouldn't I be calm?
-0x71C08BAC=~z~我当然很冷静。我超冷静的。我有什么理由不冷静吗？
+0x71C08BAC=~z~我当然很冷静。我超冷静的。有什么理由不冷静吗？
 
 ;0x72179A92=~z~Take us over to Cerveza Heights. Their house is over there.
 0x72179A92=~z~我们去Cerveza Heights。他们的房子在那儿。
@@ -495,7 +495,7 @@
 0x735B6D68=SFX_PAUSE_150
 
 ;0x7365570F=~z~He's blaming us for this whole thing. Either we get her back or we're dead.
-0x7365570F=~z~他把这一切都怪到我们头上了。救不回他女儿，我们就没命了。
+0x7365570F=~z~他认为这件事我们全责。救不回他女儿，我们就没命了。
 
 ;0x74B41F1E=E2T9_HB
 0x74B41F1E=E2T9_HB
@@ -549,7 +549,7 @@
 0x8017BBFD=E2T9_SE
 
 ;0x813D1162=~z~There are some punks in Dukes that might have a link to this thing. We're going to follow them and see if they lead us to our girl.
-0x813D1162=~z~有几个在Dukes小逼崽子可能和绑架有关。我们要跟踪他们，看看能不能找到Gracie。
+0x813D1162=~z~有几个在Dukes的逼崽子可能和绑架有关。我们要跟踪他们，看看能不能找到Gracie。
 
 ;0x815F8002=E2T9_YD
 0x815F8002=E2T9_YD
@@ -699,7 +699,7 @@
 0x9C81C0E4=E2T9_KB
 
 ;0x9D1EB7FE=~z~All this shit piling down on top of us. How are we going to get out? Have we got a plan?
-0x9D1EB7FE=~z~压在我们头上的这么多破事。这要怎么解决？有什么计划吗？
+0x9D1EB7FE=~z~压在我们头上的这么多破事。要怎么解决？有什么计划吗？
 
 ;0x9D58F421=~z~Okay, bro. Let's hope for the best.
 0x9D58F421=~z~好的，兄弟。希望一切顺利吧。
@@ -774,7 +774,7 @@
 0xAD43FD22=SFX_PAUSE_130
 
 ;0xAD610C70=~z~What he going back through the park for? He onto us?
-0xAD610C70=~z~他怎么开回中央公园了？被他发现了？
+0xAD610C70=~z~他怎么开回中心公园了？被他发现了？
 
 ;0xAE0AA54E=~z~God no. Are you crazy?
 0xAE0AA54E=~z~天哪，不是。你疯了吗？
@@ -885,7 +885,7 @@
 0xC6A517D5=SFX_PAUSE_190
 
 ;0xC6D388D8=~z~We've been in enough shit recently for me to carry something a little bit more dangerous than a prop gun.
-0xC6D388D8=~z~最近经历了这么多屁事，我总得带点比道具枪有用的真家伙吧。
+0xC6D388D8=~z~最近经历了这么多事，总得带点比道具枪有用的真家伙吧。
 
 ;0xC7059B34=~z~I don't know. I'm sorry. I'm stressed alright.
 0xC7059B34=~z~我也不知道。对不起。我现在压力很大，好吧？
@@ -960,7 +960,7 @@
 0xD7B2A39B=~z~我认真的，Lou。城里有几个姑娘没被你迷住过，怎么会找不到富婆呢？
 
 ;0xD8473DB7=~z~Aren't we all.
-0xD8473DB7=~z~我们也是啊。
+0xD8473DB7=~z~我也是啊。
 
 ;0xD860107F=E2T9_AAC
 0xD860107F=E2T9_AAC
@@ -1047,7 +1047,7 @@
 0xEC85EF1B=SFX_PAUSE_200
 
 ;0xEE523D88=~z~You got any ideas where we might start doing that? It's a big city, Tone.
-0xEE523D88=~z~那你想好要从哪里开始找了吗？自由城很大的，Tone。
+0xEE523D88=~z~想好从里哪开始找了吗？自由城很大的，Tone。
 
 ;0xEE57CA52=SFX_PAUSE_130
 0xEE57CA52=SFX_PAUSE_130
@@ -1122,7 +1122,7 @@
 0xFAD2376B=E2T9_ADB
 
 ;0xFC1BBECB=~z~This is Liberty City man. There must be twenty helicopters in this airspace at any given time.
-0xFC1BBECB=~z~这可是自由城啊。任何时候都会有二十多架直升机在天上盘旋。
+0xFC1BBECB=~z~这可是自由城啊。随时都有二十多架直升机在天上盘旋。
 
 ;0xFE518D21=E2T9_ZF
 0xFE518D21=E2T9_ZF

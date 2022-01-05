@@ -189,7 +189,7 @@
 0x9EA9F06B=~z~你，我的朋友，就能自由了。
 
 ;0xA00303BE=~z~Oh jeez I'm sorry. I'm sorry I'm trying to toughen up my little bro here, my little bro who I love more than life itself and you think that you can interfere that?
-0xA00303BE=~z~哦天哪，真抱歉。我只是想让我的小老弟坚强起来。我爱我的小兄弟胜过爱自己，然后你告诉我这也归你管？
+0xA00303BE=~z~哦天哪，真抱歉。我只是想锻炼一下我的小老弟。~n~我爱我的小兄弟胜过爱自己，然后你告诉我这也归你管？
 
 ;0xA00C0980=~z~I love you, but you're such a pussy.
 0xA00C0980=~z~我爱你，但你太懦弱了。
@@ -306,7 +306,7 @@
 0xFAE828DA=~z~我？
 
 ;0xFB4E7847=~z~Just what I need? A swim in the Humboldt.
-0xFB4E7847=~z~我可太需要了？在Humboldt河里游泳？
+0xFB4E7847=~z~我可太需要了，在Humboldt河里游泳。
 
 ;0xFBACA7FF=~z~This is - this is top work up here. You know I've got a weakened septum.
 0xFBACA7FF=~z~这是人体最精密的构造啊。你知道我鼻子脆的。

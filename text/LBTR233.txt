@@ -27,7 +27,7 @@
 0x792BFF55=特约记者
 
 ;0x846A57B0="Mr. Ashvilli is committed to the Rampage. He's a life long hockey fan and he has settled happily in Liberty City. He believes that the constant rumors about his finances, his immigration status, his wife, his experiences back in Russia and every other aspect of his life have been spread by people wanting to take over his business interests in both Russia and the US and in particular take control of the rampage. Mr. Ashvilli is 100% focused on the season ahead." League officials are still trying to discover is Mr. Ashvilli passes their test of being a person fit for owning a franchise, while formal investigations into Mr. Ashvilli's finances are on going.
-0x846A57B0=「Ashvilli先生致力于建设暴怒队。他是曲棍球运动的忠实粉丝，迁居自由城后的生活也幸福美满。他认为，长期流传的关于其经济状况、移民状态、家庭、在俄罗斯时的经历等生活状态的谣言，都是由美俄两国觊觎其商业利益的小人散布的，尤其是那些觊觎暴怒队的家伙。Ashvilli先生正全心全意地关注着即将到来的新赛季。」曲棍球联盟仍在尝试调查Ashvilli能否通过球队经营者的资质审查。同时，此前关于Ashvilli经济状况的调查也还在进行当中。
+0x846A57B0=「Ashvilli先生致力于建设暴怒队。他是冰球运动的忠实粉丝，迁居自由城后的生活也幸福美满。他认为，长期流传的关于其经济状况、移民状态、家庭、在俄罗斯时的经历等生活状态的谣言，都是由美俄两国觊觎其商业利益的小人散布的，尤其是那些觊觎暴怒队的家伙。Ashvilli先生正全心全意地关注着即将到来的新赛季。」冰球联盟仍在尝试调查Ashvilli能否通过球队经营者的资质审查。同时，此前关于Ashvilli经济状况的调查也还在进行当中。
 
 ;0x9A6A8A9E=Tony J Smith
 0x9A6A8A9E=Tony J Smith

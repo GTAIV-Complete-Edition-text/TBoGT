@@ -66,7 +66,7 @@
 0x145B621E=SFX_PAUSE_180
 
 ;0x147D0918=~z~Fuck you. You are hard work. Don't even know what you are.
-0x147D0918=~z~操你妈的。你才硬骨头。也不撒泡尿照照自己。
+0x147D0918=~z~操你妈的，你才硬骨头。撒泡尿照照自己吧。
 
 ;0x1489CC80=SFX_PAUSE_120
 0x1489CC80=SFX_PAUSE_120
@@ -708,7 +708,7 @@
 0xA5EA1243=SFX_OVERLAP_1200
 
 ;0xA67E0DCA=~z~No thanks to you, motherfucker.
-0xA67E0DCA=~z~死了啦，都是你害的啦。
+0xA67E0DCA=~z~死了，都是你害的。
 
 ;0xA6CA7DD9=E2BG2_UF
 0xA6CA7DD9=E2BG2_UF
@@ -1038,7 +1038,7 @@
 0xF1FAD3D9=E2BG2_HE2
 
 ;0xF34027CD=~z~Hey I'm sorry to break up your party, man. You looked like you were having fun.
-0xF34027CD=~z~喂，不好意思打扰了你们狂欢，哥们。你刚才好像挺开心的。
+0xF34027CD=~z~喂，抱歉打扰你们狂欢了，哥们。你刚才好像挺开心的。
 
 ;0xF39BC04C=SFX_PAUSE_390
 0xF39BC04C=SFX_PAUSE_390

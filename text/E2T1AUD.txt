@@ -6,7 +6,7 @@
 0x00962D89=SFX_PAUSE_290
 
 ;0x024CF628=~z~Yes, you know, if the bodyguard/business partner thing doesn't work out,
-0x024CF628=~z~确实，对了，如果保镖兼合伙人你干不了，
+0x024CF628=~z~确实。对了，如果保镖兼合伙人你干不了，
 
 ;0x0279AD3A=~z~And guess what? We ain't here about Gracie.
 0x0279AD3A=~z~没想到吧？我们不是为了Gracie来的。
@@ -99,7 +99,7 @@
 0x1BCC507E=E2T1_MA
 
 ;0x1C7DDEDC=~z~and maybe it's just hanging out with you - who the fuck knows?
-0x1C7DDEDC=~z~也可能是和你处太久了，谁他妈知道呢？
+0x1C7DDEDC=~z~也可能是和你处太久了，这下说不清了。
 
 ;0x1CA1514C=~z~Fuck! Man! Rique. Poor motherfucker.
 0x1CA1514C=~z~操！伙计！Rique。可怜的傻瓜蛋。
@@ -270,7 +270,7 @@
 0x4A809D34=~z~总之，呃，听着，我过来了，好吗？该醒了。听见了吗？醒醒。
 
 ;0x4BB5D1CE=~z~That's what you say, T. Pero, I'm kind of suspicious. Maybe witnessing that robbery made me paranoid,
-0x4BB5D1CE=~z~这能是真心话，T？我现在有点多疑。目击抢劫或许让我有点妄想症了，
+0x4BB5D1CE=~z~这能是真心话，T？我现在有点多疑。目击抢劫或许让我有被害妄想了，
 
 ;0x4BDEB724=E2T1_SB
 0x4BDEB724=E2T1_SB
@@ -315,7 +315,7 @@
 0x57CC686C=~z~我们要去大力神。
 
 ;0x5806EA70=~z~I was investing in your industry and acumen. Don't look for anything sinister here.
-0x5806EA70=~z~我只是看中了你的勤奋和敏锐。没别的不良动机。
+0x5806EA70=~z~我只是看中了你的勤奋和敏锐，没别的不良动机。
 
 ;0x58713F1D=E2T1_SF
 0x58713F1D=E2T1_SF
@@ -345,7 +345,7 @@
 0x625E18E9=E2T1_HB
 
 ;0x6318A50A=~z~Alright, so take some time off, the girls in there could use a night off too.
-0x6318A50A=~z~那好，休息一会吧，也让里面的女人休息一晚。
+0x6318A50A=~z~那好，休息一会吧，也让店里的女人休息一晚。
 
 ;0x6395B4F7=300
 0x6395B4F7=300
@@ -372,7 +372,7 @@
 0x6926F77B=~z~那两个傻逼他妈的是谁，T？
 
 ;0x6A8FA96A=~z~I don't care if you're his damn mother,
-0x6A8FA96A=~z~你丫自称他老母也没用，
+0x6A8FA96A=~z~你丫自称他老母也没用。
 
 ;0x6AA79BC7=300090340090430090340090430300090300300090400
 0x6AA79BC7=300090340090430090340090430300090300300090400
@@ -438,10 +438,10 @@
 0x785015C9=~z~Ancelotti的打手，我很久之前问他们借过钱...别管了。
 
 ;0x795A5544=~z~Before you went in there you was a skinny little shit and now you pumped up.
-0x795A5544=~z~进去之前，你就是一细竹竿，现在壮的一逼。
+0x795A5544=~z~进去之前，你就是一细竹竿，现在壮得一逼。
 
 ;0x7DB0C77F=~z~He's paranoid no one will buy his next CD if they know he'd rather be singing cabaret than rapping.
-0x7DB0C77F=~z~他就怕没人买他新出的CD，不想被人知道他更愿意唱卡巴莱而不是搞说唱。
+0x7DB0C77F=~z~他就怕没人买他的新CD，不想被人知道他更愿意唱卡巴莱而不是搞说唱。
 
 ;0x7DD6AA20=~z~Thanks, Luis.
 0x7DD6AA20=~z~谢了，Luis。
@@ -507,7 +507,7 @@
 0x8B173D47=~z~我就该进监狱。不是吗？
 
 ;0x8BDE8237=~z~I'm told that one of your "friends" is causing trouble out front. Can you go help Dessie?
-0x8BDE8237=~z~有人和我说你的一个「朋友」在门口闹事。你能不能去帮帮Dessie?
+0x8BDE8237=~z~有人和我说你的「朋友」在门口闹事。你能不能去帮帮Dessie？
 
 ;0x8C91F2F3=E2T1_IB
 0x8C91F2F3=E2T1_IB
@@ -516,7 +516,7 @@
 0x8CCD41DF=~z~对，夜店那边是意大利佬勿入，这边就不确定了。
 
 ;0x8D90091E=~z~I took a bid for you once, man. I ain't going back there. You think I put in all this work to go back inside?
-0x8D90091E=~z~我替你们进去过一次了，伙计。我才不要再回去。你以为我这么努力是为了回去坐牢？
+0x8D90091E=~z~我替你们进去过一次了，伙计，才不要再回去。你以为我这么努力是为了回去坐牢？
 
 ;0x8E69E8F1=~z~As if people buy CDs anymore.
 0x8E69E8F1=~z~搞得跟还有人买CD一样。
@@ -684,7 +684,7 @@
 0xB5B934A0=SFX_PAUSE_290
 
 ;0xB7F96471=~z~You'd make more slinging meat at Burger Shot than risking a bid on them corners.
-0xB7F96471=~z~你去吃得饱做汉堡肉都比冒风险贩毒好。
+0xB7F96471=~z~去吃得饱做汉堡肉都比冒风险贩毒好。
 
 ;0xB8D5F9E1=~z~Nothing to do with me. I swear. Um, some Irish guys.
 0xB8D5F9E1=~z~和我没关系。我发誓。呃，几个爱尔兰人。
@@ -708,7 +708,7 @@
 0xBEC97EB6=300
 
 ;0xBFDE24EC=~z~-That's a start. I guess we don't have to beat you two lovers up. ~n~ -Good one!
-0xBFDE24EC=~z~－这样就好。我想这下不用棒打鸳鸯了。 ~n~－说得好！
+0xBFDE24EC=~z~－这样就好。看来这下不用棒打鸳鸯了。 ~n~－说得好！
 
 ;0xC163571C=~z~you ain't comin' in.
 0xC163571C=~z~你们别想进去。
@@ -726,7 +726,7 @@
 0xC404AF29=~z~Tony，我才刚替你去过银行，伙计...
 
 ;0xC40B6AA5=~z~Don't tell me that sugar daddy of yours woulda been interested in the scrawny fucker that went away?
-0xC40B6AA5=~z~别跟我说你干爹会喜欢进去前的那种皮包骨头的细竹竿？
+0xC40B6AA5=~z~别跟我说你干爹会喜欢进去前那种皮包骨头的细竹竿？
 
 ;0xC4B3894B=120210120120120210090120
 0xC4B3894B=120210120120120210090120
@@ -750,13 +750,13 @@
 0xC9E401A6=100
 
 ;0xC9F6F777=~z~I never thought about being grateful to you for signing me up to the "fight off hairy ass rapists day and night" exercise plan.
-0xC9F6F777=~z~我还真没为被你们送进「日日夜夜打退多毛傻逼鸡奸犯」的健身计划说过谢谢。
+0xC9F6F777=~z~我还真没为被你们送进「日日夜夜打退多毛傻逼鸡奸犯」的健身课说过谢谢。
 
 ;0xCACF680C=E2T1_TA
 0xCACF680C=E2T1_TA
 
 ;0xCC1E9937=~z~Troy's getting anxious.
-0xCC1E9937=~z~Troy开始心急了。
+0xCC1E9937=~z~Troy开始急了。
 
 ;0xCDE3BC79=~z~Made me wonder why I need you around at all.
 0xCDE3BC79=~z~我都快怀疑要你何用了。
@@ -804,7 +804,7 @@
 0xD7967600=E2T1_XB
 
 ;0xD8106A81=~z~Give it up, Tone. Where'd the cash come from?
-0xD8106A81=~z~别搞了，Tone。钱是从哪来的？
+0xD8106A81=~z~说清楚，Tone。钱是从哪来的？
 
 ;0xD856D3EF=~z~Oh, how are you?
 0xD856D3EF=~z~哦，近况如何？
@@ -882,13 +882,13 @@
 0xE5D95261=E2T1_PB
 
 ;0xE7E350C0=~z~We should all be getting anxious.
-0xE7E350C0=~z~我们都该开始心急了。
+0xE7E350C0=~z~我们都该着急了。
 
 ;0xE83833F9=~z~My fucking pleasure, bro.
 0xE83833F9=~z~别跟我客气，兄弟。
 
 ;0xE85778F6=~z~Yeah, who's the fucking taco, Tony?
-0xE85778F6=~z~确实，那个墨西哥卷饼是谁，Tony？
+0xE85778F6=~z~确实，那个老墨是谁，Tony？
 
 ;0xE8629ED6=E2T1_LA
 0xE8629ED6=E2T1_LA
@@ -897,7 +897,7 @@
 0xE89C9A5D=~z~光看这里的警察怎么对待前科犯就不需要。
 
 ;0xE901CFB0=~z~Yeah, he said he loves you, but he can't handle working the door of a gay club anymore. Says people are laughing at him.
-0xE901CFB0=~z~嗯，他说他爱你，但他受不了继续给男同夜店看门了。说是有人笑话他。
+0xE901CFB0=~z~嗯，他说他爱你，但他不想给男同夜店看门了。说是有人笑话他。
 
 ;0xE909AF96=~z~See what I mean?
 0xE909AF96=~z~懂我意思了吧？
@@ -915,7 +915,7 @@
 0xEA84D2A2=~z~肯定有啊。
 
 ;0xEC4DB53E=~z~You need to go relax.
-0xEC4DB53E=~z~你该一边歇着了。
+0xEC4DB53E=~z~滚一边歇着吧。
 
 ;0xEF522AC0=~z~Sure. Look. I really need to talk to you, Tony.
 0xEF522AC0=~z~确实。那个，我们真的要好好谈谈，Tony。
@@ -948,7 +948,7 @@
 0xF79EE8F9=300
 
 ;0xF85813AB=~z~Yeah see you, mama huevos.
-0xF85813AB=~z~好的再见，傻逼玩意。
+0xF85813AB=~z~好，再见，傻逼玩意。
 
 ;0xFA16FF40=E2T1_PD
 0xFA16FF40=E2T1_PD

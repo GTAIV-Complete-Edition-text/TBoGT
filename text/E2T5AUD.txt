@@ -171,7 +171,7 @@
 0x51A6CAE9=~z~那傻逼搞的都是啥事啊？
 
 ;0x52DD3240=~z~The Transport Workers guy is driving an out of service subway train through North Holland.
-0x52DD3240=~z~运输工会的人开着一辆未运营的地铁通过北Holland。
+0x52DD3240=~z~运输工会的人开着一辆未运营的地铁通过North Holland。
 
 ;0x53070A62=~z~Wow, somebody's got his sister's underwear on by mistake.
 0x53070A62=~z~哇哦，戳到痛处让你气急败坏了？
@@ -207,7 +207,7 @@
 0x612F4B6C=~z~地铁列车？我的天。不会还有吧。
 
 ;0x613DCA5B=~z~What drugs are you on? I hope they're strong.
-0x613DCA5B=~z~你磕了什么药？这药劲挺大啊。
+0x613DCA5B=~z~你嗑了什么药？这药劲挺大啊。
 
 ;0x645D49C8=SFX_PAUSE_300
 0x645D49C8=SFX_PAUSE_300
@@ -414,7 +414,7 @@
 0xD8BF0FDE=E2T5_AA
 
 ;0xDAAF1665=~z~Whoa oh here she comes, she's a man eater.
-0xDAAF1665=~z~他来了，狐狸精来啦。
+0xDAAF1665=~z~她来了，狐狸精来啦。
 
 ;0xE184121D=~z~Ahh, piss off.
 0xE184121D=~z~啊，滚啊。

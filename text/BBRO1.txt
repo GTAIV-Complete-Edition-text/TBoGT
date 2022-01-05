@@ -30,7 +30,7 @@
 0x77C93879=~s~回到~b~Mori的车~s~上。
 
 ;0x8137E6AC=~s~Press ~INPUT_VEH_ATTACK~ to throw the sticky bombs from the driver's side of the boat. ~s~Press ~PAD_DPAD_DOWN~ to detonate the sticky bomb.~s~
-0x8137E6AC=~s~按~INPUT_VEH_ATTACK~从船的左侧丢出黏弹。~s~按~PAD_DPAD_DOWN~引爆黏弹。~s~
+0x8137E6AC=~s~按~INPUT_VEH_ATTACK~从船的左侧丢出黏弹。~n~按~PAD_DPAD_DOWN~引爆黏弹。~s~
 
 ;0x868955F5=~s~Get back in the ~b~boat.~s~
 0x868955F5=~s~回到~b~船上。
@@ -51,7 +51,7 @@
 0xBAF2E884=~r~你抛弃了Mori。~s~
 
 ;0xBE5A1D63=~s~Press ~INPUT_VEH_ATTACK~ to throw the sticky bombs from the driver's side of the boat. ~s~Press ~INPUT_DETONATE~ to detonate the sticky bomb.~s~
-0xBE5A1D63=~s~按~INPUT_VEH_ATTACK~从船的左侧丢出黏弹。~s~按~INPUT_DETONATE~引爆黏弹。~s~
+0xBE5A1D63=~s~按~INPUT_VEH_ATTACK~从船的左侧丢出黏弹。~n~按~INPUT_DETONATE~引爆黏弹。~s~
 
 ;0xC8D00422=~r~Mori's boat was destroyed.~s~
 0xC8D00422=~r~Mori的船被毁了。~s~

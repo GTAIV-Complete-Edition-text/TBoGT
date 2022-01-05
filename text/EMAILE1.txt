@@ -27,7 +27,7 @@
 0x22AD9F4A=你好
 
 ;0x231E1D1A=Captain Velvet
-0x231E1D1A=Velvet船长
+0x231E1D1A=天鹅绒队长
 
 ;0x255C2196=Tony Prince
 0x255C2196=Tony Prince

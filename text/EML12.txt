@@ -1,9 +1,9 @@
-[EML12]
+﻿[EML12]
 ;0x15548382=Your bro,
 0x15548382=你的哥哥，
 
 ;0x40872EDA=You such a big man you should send Momma some money. I would love to see you come down here and talk to me. Your bro, L.
-0x40872EDA=如果你是个男子汉的话就应该给妈妈寄钱。我很乐意见到你们来这里跟我谈谈。你的弟弟，L。
+0x40872EDA=你最牛逼，多给妈妈寄点钱吧。我很乐意见到你来自由城跟我谈谈。你的弟弟，L。
 
 ;0x53F880D1=Your bro,
 0x53F880D1=你的哥哥，
@@ -21,7 +21,7 @@
 0x8EDA7694=你的哥哥，
 
 ;0x9629B7C6=I hope you are doing better than when we last spoke. Listen, I won't waste time on pleasantries. I am sure your life as a pimp and drug pusher and night club man is great, but you are killing Ma. She is worried sick and quite frankly, I've had about enough. When the kids' break up for school, I've got half a mind to come there and give you a piece of my mind.
-0x9629B7C6=我希望你做得比我们上次谈话时更好了。听着，我不想在寒暄上浪费时间。我很确定你当皮条客、毒品贩子，午夜俱乐部的工作是伟大的，但你在让妈妈愈发忧虑。她最近十分焦虑，坦白说，我受够了。当孩子们去上学的时候，我半只脑袋都在担心你。
+0x9629B7C6=希望你现在的情况比我们上次交流时更好了。听着，我不想浪费时间说客套话。我很确定你当皮条客、毒品贩子、夜店经理的工作是伟大的，但你这样让妈很担心。她最近十分焦虑，坦白说，我受够了。孩子们去上学的时候，我都想回来跟你好好谈谈我的想法了。
 
 ;0xA52E0E15=Luis,
 0xA52E0E15=Luis,
@@ -39,7 +39,7 @@
 0xC1AAC70E=Luis,
 
 ;0xC36B34A0=Ernesto! My dear brother! I hope being an accountant is still as much fun as ever! Man you are so lucky! Looking at columns of numbers all day. I miss you, bro. I really do. But since you left town and don't send Momma no money, I'm about all she got left. Now, I ain't perfect, but at least I actually seen my momma in the last five years. You call her up twice a year, then shout at me, then disappear back to suburbia. So, please, go fuck yourself. I know your tight ass wife ain't giving you none, although she try to get it on with me. Your loving brother, Luis.
-0xC36B34A0=Ernesto! 我亲爱的哥哥！我希望你的会计员工作还是像以前那样那么有趣！老兄你可太幸运了，整天看着一列列数字。我想你，哥哥。但说真的，自从你离开了小镇，又不给妈妈寄钱，我就是她剩下的一切了。现在，我并不完美，但至少我确实在过去的五年里去拜访过妈妈。你觉得你每年跟她打两次电话，接着在乡下消失，就能对我指手画脚了吗？所以，我说，去你妈的。我知道虽然你的骚货老婆在尝试跟我在一起，但她仍然在为你奉献哦。你深爱的弟弟，Luis。
+0xC36B34A0=Ernesto！我亲爱的哥哥！希望你的会计工作还是那么有趣！老兄，你可太走运了！整天盯着各种数字。我想你，哥哥。真的想你。但你离开了这里，又不给妈妈寄钱，我就是她剩下的一切了。我确实不完美，但至少在过去的五年里我经常去看妈妈。你每年给她打两个电话，然后就对我指手画脚，完了接着过自己的乡下生活。你还是玩蛋去吧。我知道你的骚货老婆会跟你睡，但她还是想跟我打炮。你亲爱的弟弟，Luis。
 
 ;0xCFF563A3=Luis,
 0xCFF563A3=Luis,
@@ -48,7 +48,7 @@
 0xE87714AA=Luis,
 
 ;0xF0B06CD6=You're pathetic, pal. You make me sick. Your life is a joke. Get real. I am ashamed to call you my brother. Ashamed. I pretend you don't exist. My kids think you're dead. But Ma needs better than what you give her. So that's why I am emailing. So sort yourself out, or you will have me to answer to.
-0xF0B06CD6=你太可悲了，朋友。你让我恶心，你那些就像个笑话。现实点吧！叫你弟弟已经让我很羞耻了，羞耻。我假装你不存在。我的孩子们都认为你已经死了。但妈妈需要你给她更多。这就是我发邮件给你的原因。总之认清你自己吧，别让我在评价你了。
+0xF0B06CD6=你太可悲了，朋友。你让我恶心，你的生活就是个笑话。现实点吧！叫你弟弟已经让我很羞耻了。羞耻。我假装你不存在。我的孩子都认为你已经死了。但妈需要的不止是你给她的钱。所以我才会我发邮件给你。别这样生活了，否则我要你好看。
 
 ;0xF0EB257E=Luis,
 0xF0EB257E=Luis,
@@ -58,3 +58,4 @@
 
 ;0xF6CDC661=Your bro,
 0xF6CDC661=你的哥哥，
+

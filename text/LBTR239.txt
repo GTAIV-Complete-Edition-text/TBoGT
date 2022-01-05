@@ -1,6 +1,6 @@
 ﻿[LBTR239]
 ;0x08BB62C0=While early reports suggested that this might have been a sting gone wrong, NOOSE spokespeople are sticking to their guns, claiming that they were filming a public relations video. Mr. Saaed's death is being investigated.
-0x08BB62C0=尽管先前的报告猜测这是一场失败的引蛇出洞行动，但国安办发言人仍未改口，坚称他们是在拍摄宣传片素材。Saaed先生的死亡尚在调查中。
+0x08BB62C0=尽管先前的报告猜测这是一场失败的引蛇出洞行动，但国安办发言人仍未改口，坚称这是在拍摄宣传片素材。Saaed先生的死亡尚在调查中。
 
 ;0x27BB9B08=Flowerman tops the charts
 0x27BB9B08=《花男》称霸同档期
@@ -9,10 +9,10 @@
 0x2BB0CC64=争论激烈——好麦坞没种了吗？
 
 ;0x451370DD=Romantic comedies are all the rage at the box office these days as Vinewood changes course from the macho to the metrosexual. It's been a long time coming. Elisabeth Lanclett, a spokesperson for Liberty City Cinemas said business is booming. "We love the trend of romantic comedies. Men won't bring women to a war or robot movie, but women will drag their men to a romantic comedy. And the men will shove his face full of expensive food from the snack stand just to make it through the film." Experts say it's a phenomenon they don't yet have a theory but isn't it worthy of a major government study as it seems really important?
-0x451370DD=随着好麦坞由主打铁血硬汉转向都市美男，最近浪漫喜剧的票房一时疯涨。美男子终于熬成爷了。自由城影协的发言人Elisabeth Lanclett表示，如今影院生意正旺。「我们很高兴看到浪漫喜剧的增长态势。男性观众不会带女性观众去看战争片或萝卜片，但女性观众却会拖着伴侣来看浪漫喜剧。被拖来的男观众还会购买影院内的高价食物，撑过整部影片。」专家称目前还没有理论可以解释这种现象，但这个课题似乎很有价值，值得政府设立专项资金进行研究。
+0x451370DD=随着好麦坞由主打铁血硬汉转向都市美男，最近浪漫喜剧的票房一时疯涨。美男子终于熬成爷了。自由城影协的发言人Elisabeth Lanclett表示，如今影院生意正旺。「我们很高兴看到浪漫喜剧的增长态势。男性观众不会带女性观众去看战争片和萝卜片，但女性观众却会拖着伴侣来看浪漫喜剧。被拖来的男观众还会购买影院内的高价食物，撑过整部影片。」专家称目前还没有理论可以解释这种现象，但这个课题似乎很有价值，值得政府设立专项资金进行研究。
 
 ;0x5BDAF63A=Mysterious Explosions on the Standing Erection
-0x5BDAF63A=摩天大楼遭遇神秘爆炸
+0x5BDAF63A=摩天大楼离奇爆炸
 
 ;0x70BB3794=Mary Williamson
 0x70BB3794=Mary Williamson

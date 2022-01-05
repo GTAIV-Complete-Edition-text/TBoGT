@@ -21,7 +21,7 @@
 0x5B36397F=~s~前往~y~住宅区。~s~
 
 ;0x61DF46D1=~s~Go to ~y~Perseus.~s~
-0x61DF46D1=~s~前往~y~彭风精品。~s~
+0x61DF46D1=~s~前往~y~神之子服饰。~s~
 
 ;0x6E3AD45D=~r~Chris has been injured.~s~
 0x6E3AD45D=~r~Chris受伤了。~s~
@@ -45,5 +45,5 @@
 0xD4199031=~s~回~y~Squid Row~s~餐厅寻找Chris。
 
 ;0xE65F34BC=~s~Go back to ~y~Perseus~s~ and look for Chris.
-0xE65F34BC=~s~回~y~彭风精品~s~寻找Chris。
+0xE65F34BC=~s~回~y~神之子服饰~s~寻找Chris。
 

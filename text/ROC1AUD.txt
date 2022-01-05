@@ -147,7 +147,7 @@
 0x3103FB35=~z~一定是他们来了。妈的！
 
 ;0x33A8D338=~z~Refurb. Rebrand. I'm an earner. I'm a survivor.
-0x33A8D338=~z~翻修，品牌再造。我成功过，笑到了最后。
+0x33A8D338=~z~翻修，重塑品牌。我成功过，笑到了最后。
 
 ;0x3408714D=102090012
 0x3408714D=102090012
@@ -399,7 +399,7 @@
 0x769AB455=ROC1_MB
 
 ;0x76B79902=~z~the Old Man, you're fucking dead, the both of you.
-0x76B79902=~z~还有老头子，你俩死定了，谁都跑不了。
+0x76B79902=~z~还有老头子。你俩死定了，谁都跑不了。
 
 ;0x785C5DB8=~z~Dessie, what's up?
 0x785C5DB8=~z~Dessie，怎么了？
@@ -510,7 +510,7 @@
 0x92435019=~z~他们可不要让我们失望啊...
 
 ;0x9365E8A2=~z~I'm packing up and I'm leaving town. I'm heading to a spa town in the desert. It's been nice knowing you.
-0x9365E8A2=~z~我要收拾东西，离开这里。我要去沙漠里的绿洲避难了。很高兴认识你。
+0x9365E8A2=~z~我要收拾东西，离开这里。我去沙漠里的绿洲避难了。很高兴认识你。
 
 ;0x96901007=~z~You ain't welcome here.
 0x96901007=~z~这里不欢迎你们。

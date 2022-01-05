@@ -9,7 +9,7 @@
 0x14D2B094=总统的声明不符事实
 
 ;0x2E5B1B3F=Rampage Owner Killed in Tower
-0x2E5B1B3F=狂暴队老板在办公楼遇害
+0x2E5B1B3F=暴怒队老板在办公楼遇害
 
 ;0x647A0532=Tony J Smith
 0x647A0532=Tony J Smith
@@ -21,19 +21,19 @@
 0x8E8F0DA8=Ashvilli的私人军队全军覆没
 
 ;0x953DCCDF=He wanted the Rampage, and in the end he got it. Carnage today after a bloody shoot out at the offices of highly controversial liberty City Rampage owner Marki Ashvilli. Mr. Ashvilli, who had long denied links to organized crime was left dead along with and several of his employees after a violent clash. The assailant appears to have escaped by means of a daring base jump into the street, but exact details are slow to emerge.
-0x953DCCDF=他渴望「狂暴」，最后也确实得偿所愿。今日，备受争议的自由城狂暴队老板Marki Ashvilli的办公室内爆发流血冲突，造成一起屠杀惨案。Ashvilli一直否认自己与有组织犯罪存在联系，本次暴力冲突中的死者包括他本人和若干雇员。大胆的凶手似乎通过跳伞降落到了街上逃跑，但案件的具体情况仍有待调查。
+0x953DCCDF=他渴望「暴怒」，最后也确实得偿所愿。今日，备受争议的自由城暴怒队老板Marki Ashvilli的办公室内爆发流血冲突，造成一起屠杀惨案。Ashvilli一直否认自己与有组织犯罪存在联系，本次暴力冲突中的死者包括他本人和若干雇员。大胆的凶手似乎通过跳伞降落到了街上逃跑，但案件的具体情况仍有待调查。
 
 ;0xD28F70BD=Drugged Down!
 0xD28F70BD=毒品风云！
 
 ;0xDFE0EDFF=The 80s are back in liberty City. Not content with bad haircuts, old music and terrible economic crashes, now the city is witnessing a terrible rise in drug related violence. Recent weeks have seen several incidents, raging from stoned people fighting while standing in line for munchies to major shoot outs between gangs during drug deals. City officials denied clams they were useless free loaders and promised that things would change. With the city now solely focused on house prices and coffee shops, a reversion to a high crime rate would be bad for everybody, and maybe force some of us to move back to the suburbs.
-0xDFE0EDFF=自由城似乎重返八十年代了。并不是说那些糟糕的发型、老掉牙的音乐，也不是说令人发指的经济危机，而是指本市日益增长的涉毒暴力事件。最近几周发生了数起事件，小到小吃摊队伍中的吸毒者互殴，大到毒品交易时帮派之间的枪林弹雨。而市政官员则坚决否认自己是没用的饭桶，并保证情况会有所改观。毕竟，本市现在的所有注意力都集中在房价和咖啡店上了，犯罪率重回高峰对大家影响都不好，还可能迫使部分居民搬回郊区。
+0xDFE0EDFF=自由城似乎重返八十年代了。不是说那些糟糕的发型、老掉牙的音乐，也不是说令人发指的经济危机，而是指本市日益增长的涉毒暴力事件。最近几周发生了数起事件，小到小吃摊队伍中的吸毒者互殴，大到毒品交易时帮派之间的枪林弹雨。而市政官员则坚决否认自己是没用的饭桶，并保证情况会有所改观。毕竟，本市现在的所有注意力都集中在房价和咖啡店上了，犯罪率重回高峰对大家影响都不好，还可能迫使部分居民搬回郊区。
 
 ;0xE8B03A1D=Despite the President's speech last week that the recession is over, speak to anyone on the street and they will tell you times are tough. Bagels now cost a fortune. Gas is through the roof. And daytime TV is terrible. The conservative president may be trying to save face. But we don't believe it, especially since our newsroom has been cut by 75%. Seriously. I'm the janitor but they make me write the stories.
 0xE8B03A1D=上周总统说经济衰退结束了，别信他的。去街上随便找个人问问，哪一个不是说日子难过。现在百吉饼贵到离谱，油价笔直向上，白天的电视节目更是一团糟。这位保守派的总统先生还想留点面子，但我们才不买他的账，我们编辑部的人已经被开掉四分之三了。真的。其实我是他们这儿扫地的，硬被拉过来写稿子了。
 
 ;0xEFB281CF=What is clear is that this is a serious blow for the hockey team, who lost their controversial owner, and are plagued with rival claims over ownership of the franchise as well as documented hostile takeover attempts. The Rampage are now likely to be the subject of a series of court cases as Mr. Ashvilli's complex business affairs are untangled by the state. Hockey fans just wished they had got to watch the shoot out as it sounded a lot more interesting than the sport.
-0xEFB281CF=显而易见，此次事件对这支曲棍球队来说是一次沉痛的打击，他们失去了备受争议的老板，面前的对手则主张拥有球队的经营权，球队同时还受到过几次记录在案的恶意收购。Ashivilli先生相关的商业纠纷现已移交州政府处理，之后狂暴队将成为一系列庭审案件的主角。曲棍球爱好者则为没能看到那场枪战感到遗憾，因为它听上去比比赛有趣多了。
+0xEFB281CF=此次事件对这支球队显然是一次沉痛的打击，他们失去了备受争议的老板，面前的对手则主张拥有球队的经营权，球队同时还受到过几次记录在案的恶意收购。Ashivilli先生相关的商业纠纷现已移交州政府处理，之后暴怒队将成为一系列庭审案件的主角。冰球爱好者则为没能看到那场枪战感到遗憾，因为它听上去比比赛有趣多了。
 
 ;0xF5E4C195=Michael Wayne
 0xF5E4C195=Michael Wayne

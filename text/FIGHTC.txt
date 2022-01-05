@@ -81,7 +81,7 @@
 0x9F835B8D=~s~难度达到七级。
 
 ;0xA3350781=~r~You are disqualified for leaving the ring.
-0xA3350781=~r~ 你因离开擂台而被取消资格。
+0xA3350781=~r~你因离开擂台而被淘汰。
 
 ;0xA4E784E7=The fight is over, you are through to the next round.
 0xA4E784E7=战斗结束，晋级下一轮。

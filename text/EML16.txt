@@ -33,7 +33,7 @@
 0x79013389=真挚的，
 
 ;0x7EF7A82D=Do you want woman dry like desert or wet like dessert? Less than 6 is humiliation. You are not man. Smoke your way to big trunk. Herbal enlargement cigarettes. Performance needed organ thump power. Pleaseure for all. Ask me more.
-0x7EF7A82D=你想让女人像沙漠一样干，还是像点心一样湿？6英寸（15.24 厘米）以下就是耻辱！简直不是男人。草药烟，抽到大！让你急需表现的器官砰砰变大！有更多问题欢迎询问我。
+0x7EF7A82D=你想让女人像沙漠一样干，还是像水磨一样湿？15公分以下就是耻辱！简直不是男人。草药烟，抽到大！让你急需表现的器官噌噌变大！有更多问题欢迎询问我。
 
 ;0x8AC2D70C=Yours truly,
 0x8AC2D70C=真挚的，
@@ -49,3 +49,4 @@
 
 ;0xF7135F68=Dear Johnny,
 0xF7135F68=亲爱的Johnny，
+

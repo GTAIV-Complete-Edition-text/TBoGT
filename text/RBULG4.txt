@@ -12,10 +12,10 @@
 0x56F83A11=更多杀手来了。设法离开~y~屋顶。
 
 ;0x6BC3E71F=The snipers will be marked when they fire a shot. Try to pinpoint their location and take them out.
-0x6BC3E71F=狙击手开火时，其位置会在地图上标记。尝试确定他们的位置，干掉他们。
+0x6BC3E71F=狙击手开火时，其位置会在地图上标记。试着进行定位，然后干掉他们。
 
 ;0x87D15BB6=Go to the ~y~building ~s~and protect Timur.
-0x87D15BB6=前往~y~目标建筑~s~并保护Timur。
+0x87D15BB6=前往~y~目标建筑~s~保护Timur。
 
 ;0x964FE835=Lose the cops.
 0x964FE835=甩掉警察。
@@ -33,11 +33,11 @@
 0xB7C093DD=进入~y~目标建筑。
 
 ;0xBF477F90=The building is on fire. Find another escape route then leave the area.
-0xBF477F90=建筑物着火了。找另一条逃离路线并离开该区域。
+0xBF477F90=建筑物着火了。找另一条逃离路线并离开这一带。
 
 ;0xD3C0BEC8=Leave the area.
-0xD3C0BEC8=离开该区域。
+0xD3C0BEC8=离开这一带。
 
 ;0xE8E5BA7D=~s~Get back to the ~y~building.
-0xE8E5BA7D=~s~回到~y~目标建筑~s~内。
+0xE8E5BA7D=~s~回到~y~目标建筑~s~上。
 

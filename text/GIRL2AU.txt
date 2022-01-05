@@ -276,7 +276,7 @@
 0x49AC13FB=~z~这辆车是你的吧？
 
 ;0x4A5A6A4F=~z~Good for those tramps! I'm a respectable woman! I've had two hundred thousand dollars spent on my education.
-0x4A5A6A4F=~z~哪有这种好事！我也是个体面人啊！我读书就花了二十万美元！
+0x4A5A6A4F=~z~哪有这种好事！我也是个体面人！读书就花了二十万美元！
 
 ;0x4B2B3DD4=GIRL2_CB
 0x4B2B3DD4=GIRL2_CB
@@ -495,7 +495,7 @@
 0x97C8A01F=~z~没有，不好意思。
 
 ;0x97D88B7C=~z~Show me that. His last bleet says he's taking a crap looking over Middle Park. We gonna head uptown.
-0x97D88B7C=~z~我看看。他最后的动态是说拉屎时俯瞰中央公园。去住宅区看看吧。
+0x97D88B7C=~z~我看看。他最后的动态是说拉屎时俯瞰中心公园。去住宅区看看吧。
 
 ;0x9818C075=GIRL2_FE
 0x9818C075=GIRL2_FE
@@ -600,7 +600,7 @@
 0xC5067A9A=~z~见到你真是太好啦，亲爱的。
 
 ;0xC586E6D8=~z~Let me look at that thing. He's posted from a bathroom with Middle Park views. We should head uptown.
-0xC586E6D8=~z~我看看。他在浴室拍了张照，能看见中央公园。咱们去住宅区看看。
+0xC586E6D8=~z~我看看。他在浴室拍了张照，能看见中心公园。咱们去住宅区看看。
 
 ;0xC628A6C8=~z~Grow up, Leon. Aren't we jaded enough to be realistic for a second?
 0xC628A6C8=~z~成熟点吧，Leon。大家都很累，能不能现实一点？

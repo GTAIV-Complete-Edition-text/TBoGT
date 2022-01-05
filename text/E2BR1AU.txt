@@ -336,7 +336,7 @@
 0x6D3A3F8E=~z~我他妈来这不是变成烟花的。干掉那个混蛋！
 
 ;0x6F555308=~z~"You're, you're"...Perfect? Yeah. Chiseled, tanned, handsome. I'm the dream ticket.
-0x6F555308=~z~「你...你...」很完美？没错，线条分明，健美肤色，英俊潇洒。我就是理想情人，
+0x6F555308=~z~「你...你...」很完美？没错，线条分明，健美肤色，英俊潇洒。我就是理想情人。
 
 ;0x6FCB154F=E2BR1_AHA
 0x6FCB154F=E2BR1_AHA
@@ -456,7 +456,7 @@
 0x984BEFB1=~z~你他妈来这儿干啥，Mori？
 
 ;0x98A093CE=~z~So, Chase Point when you are ready. Engage!
-0x98A093CE=~z~所以，准备好了就去Chase Point吧。走起！
+0x98A093CE=~z~准备好了就去Chase Point吧。走起！
 
 ;0x9A5003C9=010090100090100090010
 0x9A5003C9=010090100090100090010
@@ -540,7 +540,7 @@
 0xB1FE8979=~z~要打好好打。
 
 ;0xB31C4CFF=~z~We're going after them, Lopez.
-0xB31C4CFF=~z~咱们追上去，Lopez。
+0xB31C4CFF=~z~一起追上去，Lopez。
 
 ;0xB3343620=101091101091011091011
 0xB3343620=101091101091011091011
@@ -576,7 +576,7 @@
 0xB7BCBED5=E2BR1_ADA
 
 ;0xB7DEE7B2=~z~Come on. Lou, let's roll. Oh and fat boy - you better let your friends know about me,
-0xB7DEE7B2=~z~来吧，Lou，干活了。噢，小胖子，你最好让你朋友认识下我，
+0xB7DEE7B2=~z~来吧，Lou，干活了。噢，小胖子，你最好跟朋友们介绍下我。
 
 ;0xB8B9B084=~z~Let's get these fuckers!
 0xB8B9B084=~z~干掉这两个混蛋！

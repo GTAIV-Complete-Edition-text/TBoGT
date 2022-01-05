@@ -360,7 +360,7 @@
 0x43C10C14=~z~打掉她，L。	
 
 ;0x4444A45E=~z~Someone misses their cellmate! Ohhh weeee.
-0x4444A45E=~z~有人想他的狱友了！哦噫！！
+0x4444A45E=~z~有人想他的狱友了！哦噫！
 
 ;0x45584C7C=~z~This be discriminatory.
 0x45584C7C=~z~你们这是偏见。
@@ -471,10 +471,10 @@
 0x56B5EF37=~z~你不了解我们。
 
 ;0x5784D965=~z~Who hasn't had this piece of ass?
-0x5784D965=~z~这破车还有谁没上过？
+0x5784D965=~z~这破鞋还有谁没上过？
 
 ;0x57B797A8=~z~Yeah, I ain't lecturing. I'm just looking out for my boys.
-0x57B797A8=~z~是吗，我没在讲课，只是关心我的兄弟。
+0x57B797A8=~z~喂，我没在讲课，是在关心兄弟。
 
 ;0x57EEA1BE=E2F1_BYC
 0x57EEA1BE=E2F1_BYC
@@ -507,7 +507,7 @@
 0x5EF050D0=~z~你们没有证据。
 
 ;0x5EF8BBBD=~z~Ortiz? Shit, how come I know that name? She a nurse?
-0x5EF8BBBD=~z~Ortiz？操，这名字好耳熟啊？是个护士吗？
+0x5EF8BBBD=~z~Ortiz？操，这名字好耳熟啊。是护士吗？
 
 ;0x5F9C0109=100
 0x5F9C0109=100
@@ -567,7 +567,7 @@
 0x69EAF534=E2F1_CBA
 
 ;0x6A399C37=~z~That all well and good, bro. But selling ain't our issue. It's getting hold of product.
-0x6A399C37=~z~确实很有道理，兄弟。但销售对我们不成问题，重点是找到货源。
+0x6A399C37=~z~确实很有道理，兄弟。但销售不成问题，重点是找到货源。
 
 ;0x6AE62E23=~z~You got to get behind that car and deal with those NOOSE boys on the roof, L. Me and H is holding here.
 0x6AE62E23=~z~你躲到车后面对付房顶上的NOOSE，L。我和H在这里拖延。
@@ -591,7 +591,7 @@
 0x6E21ADD1=E2F1_BWC
 
 ;0x6E2E6093=~z~I'm cool, L. I thought for a second they mighta shot my freaking balls off.
-0x6E2E6093=~z~我没事，L。不过我差点以为我的蛋被打爆了。
+0x6E2E6093=~z~我没事，L。不过我差点以为蛋被打爆了。
 
 ;0x6E6C85D9=202
 0x6E6C85D9=202
@@ -642,7 +642,7 @@
 0x7668E585=E2F1_CDD
 
 ;0x766E9C07=~z~We ain't moving with that thing there. See if there's something we can take it out with in that NOOSE van.
-0x766E9C07=~z~直升机在我们跑不掉的。看看NOOSE的卡车里面有没有能打掉它的家伙。
+0x766E9C07=~z~直升机在我们跑不掉的。看看NOOSE的卡车里面有没有能用的装备。
 
 ;0x7737C764=100090010090200090010
 0x7737C764=100090010090200090010
@@ -789,7 +789,7 @@
 0x9470D62F=~z~后退！
 
 ;0x94C71307=~z~Look. As you say, I ain't an expert in this shit, but I do run a business.
-0x94C71307=~z~听着。如你所说，我不是混街头的专家，但我确实在做生意。
+0x94C71307=~z~听着。如你所说，我不是道上的专家，但我确实在做生意。
 
 ;0x9584E139=~z~Rique! We got a wall, bro. Do something about it.
 0x9584E139=~z~Rique！有堵墙，兄弟。把它解决掉。
@@ -840,7 +840,7 @@
 0xA3C974E0=~z~这些人就是不肯松手。
 
 ;0xA3CED565=~z~I don't see why you guys are giving me shit. You was the ones who asked me to come along on this thing.
-0xA3CED565=~z~你们闲着没事找我麻烦干嘛。这次就是你把我拖下水的。
+0xA3CED565=~z~你们没事找我麻烦干嘛？这次就是你把我拖下水的。
 
 ;0xA3E42131=E2F1_BOE
 0xA3E42131=E2F1_BOE
@@ -930,7 +930,7 @@
 0xB557E099=~z~你拿到了，H。
 
 ;0xB66E08B3=~z~Oh yeah sabes que, Now that you mention it, I could do with some dick sucking lessons.
-0xB66E08B3=~z~哦，是吗，这么说吧，你这么一说，我觉得是得跟你学学怎么口人。
+0xB66E08B3=~z~哦，是吗，你这么一说，我觉得是得跟你学学怎么口人。
 
 ;0xB6FA80DF=~z~Phone tapping motherfuckers.
 0xB6FA80DF=~z~你妈个偷听逼。
@@ -981,7 +981,7 @@
 0xBF15D3B2=SFX_PAUSE_140
 
 ;0xBFADF5AD=~z~Thanks, bro. You know I hate to ask this now you all Johnny lawful and shit,
-0xBFADF5AD=~z~谢了兄弟。你现在是守法公民，我也不太想拉你下水，
+0xBFADF5AD=~z~谢了兄弟。你现在是守法公民，我也不太想拉你下水。
 
 ;0xBFB76137=E2F1_BND
 0xBFB76137=E2F1_BND
@@ -1026,7 +1026,7 @@
 0xCD643F3C=~z~这我得折腾一会儿...
 
 ;0xCDB47639=~z~Yo, man. I don't know. I could do with the money but you boys is clowns.
-0xCDB47639=~z~哟，兄弟。我不知道。给钱我是肯帮，但你俩有点菜。
+0xCDB47639=~z~哟，兄弟。我不知道。给钱我就肯帮，但你俩有点菜。
 
 ;0xCDC6DA57=~z~They dropping guys on the roof.
 0xCDC6DA57=~z~有人空降到屋顶上了。
@@ -1212,7 +1212,7 @@
 0xF411DA4A=~z~我是尿了，怎么？在Lebowitz老师的课上没憋住的是谁来着？
 
 ;0xF41BBCAA=~z~Alright, we better scram back to the Heights now.
-0xF41BBCAA=~z~好了，咱们最好赶紧打道回府。
+0xF41BBCAA=~z~好了，最好赶紧打道回府。
 
 ;0xF493AAE4=~z~Fuck off ten four.
 0xF493AAE4=~z~滚你妈的条子。

@@ -1,6 +1,6 @@
 ﻿[TONY7]
 ;0x0E6EA76D=A sticky bomb will attach itself to any moving vehicle.
-0x0E6EA76D=粘弹会吸附在任何载具上。
+0x0E6EA76D=黏弹会吸附在任何载具上。
 
 ;0x11B86254=Go to the ~y~docks.~s~
 0x11B86254=前往~y~码头。~s~

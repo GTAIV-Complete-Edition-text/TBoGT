@@ -81,7 +81,7 @@
 0x15ED7461=~z~你真他妈恶心。
 
 ;0x16A43147=~z~Get in, Lou. Don't worry, I didn't forget about the vertigo, I got you a chute.
-0x16A43147=~z~上来吧，Lou。别担心，我知道你恐高，给你拿了降落伞。
+0x16A43147=~z~上来吧，Lou。别担心，知道你恐高，给你拿了降落伞。
 
 ;0x16CB9F21=200
 0x16CB9F21=200
@@ -621,7 +621,7 @@
 0x9A7D6A99=E2T4B_TD
 
 ;0x9A83F7EF=~z~UrghUgghh. Oh, ma, oh ma. Ahhhh. I feel like shite
-0x9A83F7EF=~z~噢妈。噢妈，啊。啊，恶心死了。~n~看来你出了点小意外。当心被人拍下来发到网上。
+0x9A83F7EF=~z~－噢妈。噢妈，啊。啊，恶心死了。~n~－看来你出了点小意外。当心被人拍下来发到网上。
 
 ;0x9AAEFD2D=SFX_PAUSE_310
 0x9AAEFD2D=SFX_PAUSE_310
@@ -744,7 +744,7 @@
 0xB6C2EA3E=SFX_PAUSE_260
 
 ;0xB6EF30C5=~z~It kind of looks like you had a little accident. Someone might post a picture of that online.
-0xB6EF30C5=~z~看来你出了点小意外。当心被人拍下来发到网上。
+0xB6EF30C5=~z~－看来你出了点小意外。当心被人拍下来发到网上。
 
 ;0xB735C205=~z~Go get him, Lou.
 0xB735C205=~z~去抓住他，Lou。
@@ -918,7 +918,7 @@
 0xD75CFDBF=~z~我说你做，业务就会轻松易懂。
 
 ;0xD775DDE6=~z~You ain't dead, man. You getting a second chance at life. You a fucking miracle.
-0xD775DDE6=~z~你没死，哥们。你得到了重新做人的机会。真他妈是个奇迹。
+0xD775DDE6=~z~你没死，哥们。你得到了重新做人的机会。这他妈是奇迹。
 
 ;0xD8A7966B=SFX_PAUSE_260
 0xD8A7966B=SFX_PAUSE_260

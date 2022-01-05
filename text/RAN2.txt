@@ -1,4 +1,4 @@
-[RAN2]
+﻿[RAN2]
 ;0x06360B3F=~r~You were meant to dump the car in the river.~s~
 0x06360B3F=~r~你应该把车开进河里。~s~
 

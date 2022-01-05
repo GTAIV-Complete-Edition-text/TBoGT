@@ -6,31 +6,31 @@
 0x1C1AE8E2=%$&^
 
 ;0x6449676F=Crastenburg flaps
-0x6449676F=克拉斯特博格襟翼
+0x6449676F=Crastenburg骚乱
 
 ;0x77308D05=Crastenburg flaps
-0x77308D05=克拉斯特博格襟翼
+0x77308D05=Crastenburg骚乱
 
 ;0x968E4BF0=Crastenburg flaps
-0x968E4BF0=克拉斯特博格襟翼
+0x968E4BF0=Crastenburg骚乱
 
 ;0xA7D5EE7F=Crastenburg flaps
-0xA7D5EE7F=克拉斯特博格襟翼
+0xA7D5EE7F=Crastenburg骚乱
 
 ;0xB2DE165E=%$&^
 0xB2DE165E=%$&^
 
 ;0xB7F58EBE=Crastenburg flaps
-0xB7F58EBE=克拉斯特博格襟翼
+0xB7F58EBE=Crastenburg骚乱
 
 ;0xC8004D48=Clay Jackson soy sauce enema )_+@ Delancey Medua pounded in hottub McIntosh period sex ++++++++Jimmy Boston donkey punch squirt burrito >:$*( Poppy Michelle foaming wheelbarrow rusty trombone alligator bang bang me so lonely
-0xC8004D48=克莱杰克逊酱油灌肠)_+@ 德兰西梅杜阿在麦金托什时期性爱捣碎浴缸 ++++++++吉米波士顿驴冲床喷玉米煎饼 >:$*( 虞美人米歇尔发泡独轮车生锈长号鳄鱼bang bang我如此寂寞
+0xC8004D48=Clay Jackson酱油灌肠)_+@ Delancey Medua敲打浴缸 McIntosh经期性爱 ++++++++Jimmy Boston乱拳喷射卷饼 >:$*( Poppy Michelle 发泡独轮车 生锈长号 鳄鱼砰砰 我好寂寞啊
 
 ;0xCDA54BEC=%$&^
 0xCDA54BEC=%$&^
 
 ;0xD933D13A=Crastenburg flaps
-0xD933D13A=克拉斯特博格襟翼
+0xD933D13A=Crastenburg骚乱
 
 ;0xDC6EE97F=%$&^
 0xDC6EE97F=%$&^
@@ -39,7 +39,7 @@
 0xE0B0720E=%$&^
 
 ;0xEB7875C3=Crastenburg flaps
-0xEB7875C3=克拉斯特博格襟翼
+0xEB7875C3=Crastenburg骚乱
 
 ;0xEE948DCA=%$&^
 0xEE948DCA=%$&^
@@ -48,4 +48,5 @@
 0xF0A711FB=%$&^
 
 ;0xFCD19875=Crastenburg flaps
-0xFCD19875=克拉斯特博格襟翼
+0xFCD19875=Crastenburg骚乱
+

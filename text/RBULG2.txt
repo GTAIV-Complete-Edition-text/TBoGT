@@ -3,10 +3,10 @@
 0x087575BA=甩掉警察。
 
 ;0x1F6DFE0D=Land on the ~b~truck.
-0x1F6DFE0D=降落在~b~卡车~s~上。
+0x1F6DFE0D=降落到~b~卡车~s~上。
 
 ;0x2CFE99E6=Jump out of the window to escape.
-0x2CFE99E6=跳窗逃跑。
+0x2CFE99E6=跳窗逃离大楼。
 
 ;0x449F5C1B=I've picked up someone on the roof.
 0x449F5C1B=我发现有人在屋顶上。
@@ -33,13 +33,13 @@
 0x60D1ADBC=2
 
 ;0x661AA37A=~r~Timur's truck was destroyed.
-0x661AA37A=~r~Timur的卡车被摧毁了。
+0x661AA37A=~r~Timur的卡车被毁了。
 
 ;0x69FFC018=1
 0x69FFC018=1
 
 ;0x6A892DDE=Don't fly too close to the building.
-0x6A892DDE=不要飞得太靠近建筑。
+0x6A892DDE=不要飞得太靠近大楼。
 
 ;0x71200936=Go to the ~y~heliport.
 0x71200936=前往~y~停机坪。
@@ -54,7 +54,7 @@
 0x91BECE6F=:
 
 ;0x93C1E4FB=~r~You alerted Ashvilli.
-0x93C1E4FB=~r~你引起了Ashvilli的警觉。
+0x93C1E4FB=~r~你惊动了Ashvilli。
 
 ;0x9AEAA1F1=6
 0x9AEAA1F1=6
@@ -84,13 +84,13 @@
 0xCACA01B3=8
 
 ;0xD1FCC11F=Fly towards ~y~Star Junction, ~s~as high as possible.
-0xD1FCC11F=以尽可能高的高度飞向~y~Star Junction。~s~
+0xD1FCC11F=飞向~y~Star Junction，~s~越高越好。
 
 ;0xD4A4AB17=Don't leave ~b~Timur ~s~behind.
 0xD4A4AB17=别把~b~Timur~s~落下。
 
 ;0xD84EC7B8=~r~The chopper was destroyed.
-0xD84EC7B8=~r~直升机被摧毁了。
+0xD84EC7B8=~r~直升机被毁了。
 
 ;0xDC8F4A92=Wait for ~b~Timur.
 0xDC8F4A92=等待~b~Timur。
@@ -105,13 +105,13 @@
 0xE58FB73A=5
 
 ;0xE61555EC=There are more ~r~bodyguards ~s~on your tail, take them out or escape.
-0xE61555EC=更多~r~保镖~s~正在追赶你，解决掉他们或逃离。
+0xE61555EC=更多~r~保镖~s~来追杀你了，干掉他们或者直接逃离。
 
 ;0xE808F643=~r~You missed the building.
 0xE808F643=~r~你没能跳上大楼。
 
 ;0xE84A9047=Jump out and parachute onto the ~y~building.
-0xE84A9047=跳下直升机，空降~y~大楼~s~楼顶。
+0xE84A9047=跳伞空降到~y~大楼~s~楼顶。
 
 ;0xE901A3EF=Hold ~INPUT_VEH_CIN_CAM~ to focus on the next checkpoint.
 0xE901A3EF=按住~INPUT_VEH_CIN_CAM~将镜头对准下一检查点。

@@ -12,10 +12,10 @@
 0x14365855=离开夜店。
 
 ;0x1D474B18=~r~You alerted security.
-0x1D474B18=~r~你惊动了警卫。
+0x1D474B18=~r~你惊动了保安。
 
 ;0x23BAFAD2=Leave the area.
-0x23BAFAD2=离开这片区域。
+0x23BAFAD2=离开这一带。
 
 ;0x2807FFF8=Enter the ~y~owner's office.~s~
 0x2807FFF8=进入~y~老板的办公室~s~
@@ -54,7 +54,7 @@
 0x7F84B268=别把~b~Tony~s~落下。~s~
 
 ;0x8D13CD82=Lose the cops. You will be denied entry to the club with a wanted level.
-0x8D13CD82=甩掉警察。摆脱通缉后后才能进入夜店。
+0x8D13CD82=甩掉警察。摆脱通缉后才能进入夜店。
 
 ;0x8E12844B=Lose the cops.
 0x8E12844B=甩掉警察。
@@ -69,7 +69,7 @@
 0xBBEBAB35=进入夜店，前往~y~舞池。~s~
 
 ;0xE096D1BC=~r~Your dancing did not impress Monique.
-0xE096D1BC=~r~你的舞蹈没有打动Monique。
+0xE096D1BC=~r~你的舞姿没能打动Monique。
 
 ;0xE0A4F4A7=Drive Tony to ~y~Bahama Mamas.~s~
 0xE0A4F4A7=带Tony去~y~巴哈马妈妈。~s~

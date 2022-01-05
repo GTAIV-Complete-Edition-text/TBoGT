@@ -33,7 +33,7 @@
 0x0DE0D7D9=SFX_PAUSE_300
 
 ;0x0E6EFD30=~z~If they look after themselves, that is. I am an equal opportunity lay. I'll fuck anything.
-0x0E6EFD30=~z~前提是她们保养得够好。我的床上人人平等，有什么睡什么。
+0x0E6EFD30=~z~只要她们保养得够好。我的床上人人平等，有什么睡什么。
 
 ;0x10AB1B12=~z~After some paperwork, I'll have what I need.
 0x10AB1B12=~z~加上点文书工作，我就能拿下目标了。
@@ -501,7 +501,7 @@
 0x8210763D=SFX_PAUSE_170
 
 ;0x8266ACCD=~z~Good thing too, bro. 'Cause a guy of your stature might find it tough if it was on anything higher than street level.
-0x8266ACCD=~z~真不错，兄弟。你这身高这辈子估计也只能在地上走了。
+0x8266ACCD=~z~真不错，兄弟。你这身高这辈子估计也只能在地上爬了。
 
 ;0x833478B3=E2BR1_HC
 0x833478B3=E2BR1_HC
@@ -585,7 +585,7 @@
 0x9D640B09=~z~我说了别拿鸡巴说事了，矮逼。听得我反胃了。
 
 ;0x9DDF0610=~z~What the fuck were they doing with a rocket launcher? What kind of business you trying to take over Mori?
-0x9DDF0610=~z~怎么他妈连火箭筒都出来了？你想抢的是啥生意，Mori？
+0x9DDF0610=~z~怎么他妈连火箭筒都出来了？你抢的是啥生意，Mori？
 
 ;0x9E6C2E02=E2BR1_HD
 0x9E6C2E02=E2BR1_HD
@@ -687,25 +687,25 @@
 0xBA55AD41=100090100090100090010
 
 ;0xBA687CD4=~z~I'm talking serious block the sun shit. Oh, hah!
-0xBA687CD4=~z~真的是足够遮天蔽日的大小。噢！哈哈！
+0xBA687CD4=~z~真的是遮天蔽日的大小。噢！哈哈！
 
 ;0xBA7154AC=SFX_PAUSE_200
 0xBA7154AC=SFX_PAUSE_200
 
 ;0xBC17486F=~z~See, I've been bald since I was 19. I set the trends, I don't follow them.
-0xBC17486F=~z~我19岁的时候就剃干净了。是我引领潮流，可不是反过来。
+0xBC17486F=~z~我19岁就剃干净了。是我引领潮流，可不是反过来。
 
 ;0xBCDAD1D5=E2BR1_AUB1
 0xBCDAD1D5=E2BR1_AUB1
 
 ;0xBD5D5B12=~z~This is the part where you ask me to hand over my life savings so you can "invest" it for me, right?"
-0xBD5D5B12=~z~这就是那套我把毕生积蓄掏出来给你，然后你来帮我「投资」对吧？
+0xBD5D5B12=~z~这就是那套我把毕生积蓄掏出来给你，让你帮我「投资」对吧？
 
 ;0xBD92787D=~z~Sure.
 0xBD92787D=~z~确实。
 
 ;0xBDD383AA=~z~Mori, man, you're a business guy. So you should stick to your business shit.
-0xBDD383AA=~z~Mori啊，你是生意人。所以你就该好好做生意。
+0xBDD383AA=~z~Mori啊，你是生意人。你就该好好做生意。
 
 ;0xBEF4F35F=E2BR1_CE2
 0xBEF4F35F=E2BR1_CE2
@@ -846,7 +846,7 @@
 0xDE3A208A=100090010090100010
 
 ;0xDEE3E5C6=~z~and Mori K is gonna be there on the ground floor.
-0xDEE3E5C6=~z~而Mori Kibbutz会抢先布局这些赛道。
+0xDEE3E5C6=~z~而Mori K会抢先布局这些赛道。
 
 ;0xE0FD2F0F=E2BR1_HB1
 0xE0FD2F0F=E2BR1_HB1

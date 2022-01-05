@@ -36,7 +36,7 @@
 0x32569E47=~z~我触地得分，赢得了比赛。
 
 ;0x37097E59=~z~Fuck you! Take the needle out your arm then tell me what to do.
-0x37097E59=~z~操你妈！把你膀子上的针头拔下来，再对我发号施令。
+0x37097E59=~z~操你妈！先把你膀子上的针头拔下来，再对我发号施令。
 
 ;0x3814007A=~z~Fuck!
 0x3814007A=~z~操！
@@ -90,7 +90,7 @@
 0x52D9DF45=~z~你丫说我们是兄弟干嘛，傻逼吗？
 
 ;0x53022016=~z~Boss, yo, look. That guy said he might put me in his show. Don't let him forget about me, will you?
-0x53022016=~z~唷，老大，听着。那家伙说他可能让我上他的节目。别让他忘了我，好吗？
+0x53022016=~z~哟，老大，听着。那家伙说他可能让我上他的节目。别让他忘了我，好吗？
 
 ;0x55AABB97=~z~Now you've said bloody Ireland.
 0x55AABB97=~z~你他妈说了爱尔兰是吧，
@@ -105,7 +105,7 @@
 0x5C77C941=~z~操！Michael！
 
 ;0x5CB3F2F9=~z~That's gonna make it hard for them to find us isn't it?
-0x5CB3F2F9=~z~这样不是更容易让他们抓住我们？
+0x5CB3F2F9=~z~这不是更容易让我们被抓？
 
 ;0x5D4A39AD=~z~I'll be home soon.
 0x5D4A39AD=~z~我最近会回趟家的。
@@ -123,7 +123,7 @@
 0x6C6B57EF=~z~你好。嘿，老妈，你好吗？
 
 ;0x6E031597=~z~Fuck these people, fuck your cause, that shit's over.
-0x6E031597=~z~干他们全家，干你丫的理由。你他妈闭嘴。
+0x6E031597=~z~干他们全家，干你丫的理由。差不多得了。
 
 ;0x7255F4FD=~z~We told you not to fuck with us!
 0x7255F4FD=~z~跟你说过不要乱来了！
@@ -171,7 +171,7 @@
 0xE12240A6=100
 
 ;0xE5AE920D=~z~It's Luis, man.
-0xE5AE920D=~z~叫Luis，伙计。
+0xE5AE920D=~z~Luis，伙计。
 
 ;0xFC59BF63=~z~cause I broke my leg in thirteen places but...
 0xFC59BF63=~z~因为那次搞得我的腿十三处骨折。但是...

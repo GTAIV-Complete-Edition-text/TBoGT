@@ -102,7 +102,7 @@
 0xE228DF72=第8名
 
 ;0xF6E4FEE5=Line up your bike.
-0xF6E4FEE5=到出发位置准备。
+0xF6E4FEE5=进入起跑队列。
 
 ;0xFAF187C6=Get a suitable bike.
 0xFAF187C6=找一辆合适的摩托车。

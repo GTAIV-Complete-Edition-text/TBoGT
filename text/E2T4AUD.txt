@@ -9,7 +9,7 @@
 0x022FBBBF=~z~这个渣男可不是什么基佬，相信我。
 
 ;0x02E998CD=~z~Yo. Alright. I'll check him out. What's his site?
-0x02E998CD=~z~哟，好吧。我去看看。网站是什么？
+0x02E998CD=~z~哟，好吧。我去看看。网址是什么？
 
 ;0x031B565F=E2T4_UB
 0x031B565F=E2T4_UB
@@ -648,7 +648,7 @@
 0xA7D40D79=E2T4_LE
 
 ;0xA83E5D0E=~z~I mean, he'll try to bang anything with a pussy, but it's Mr. Limpdick when I'm around.
-0xA83E5D0E=~z~我是说，明明没有他不敢操的洞，怎么见到我就萎了？
+0xA83E5D0E=~z~我是说，明明没有他不敢操的逼，怎么见到我就萎了？
 
 ;0xA96B8F1B=~z~Bro, you work for a guy whose nickname since 1985 is Gay Tony. Why do you give a fuck?
 0xA96B8F1B=~z~兄弟，你老板的外号从1985年起就是基佬Tony。别人管得着吗？
@@ -678,7 +678,7 @@
 0xAF2492A0=~z~但Tony就叫你Lou啊...
 
 ;0xB0AE7458=~z~Oh yeah sure, babe. Some other time.
-0xB0AE7458=~z~好吧，行，下次一定。
+0xB0AE7458=~z~好吧，行。下次一定。
 
 ;0xB16FD72C=~z~That ain't happening, babe, so please keep your clothes on.
 0xB16FD72C=~z~别想了，赶紧把衣服穿上。
@@ -738,7 +738,7 @@
 0xBFEA304E=100
 
 ;0xC000AE91=~z~And second, we shouldn't be having no party in the Carraways with our financial situation.
-0xC000AE91=~z~其次，现在的经济状况也不允许我们在Carraways办聚会。
+0xC000AE91=~z~其次，现在的经济状况也不允许我们在Carraways办派对。
 
 ;0xC1587F01=E2T4_FD
 0xC1587F01=E2T4_FD
@@ -1017,7 +1017,7 @@
 0xFBB85E6D=E2T4_MA
 
 ;0xFC06A0D2=~z~Thanks, Luis. Call me when you've emailed that dreadful blogger.
-0xFC06A0D2=~z~谢了，Luis。给那死妈博主发完邮件打电话给我。
+0xFC06A0D2=~z~谢了，Luis。给那死妈博主发完邮件就联系我。
 
 ;0xFE1D263B=E2T4_AAD
 0xFE1D263B=E2T4_AAD

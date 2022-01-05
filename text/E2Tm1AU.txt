@@ -9,7 +9,7 @@
 0x02F22A66=E2Tm1_NA
 
 ;0x05780E25=~z~Get out of here, PG. A sensitive soul like you don't wanna get locked up for photographer abuse.
-0x05780E25=~z~出来吧，PG。像你这样敏感的人可不想躲在里面被相机一顿乱拍吧。
+0x05780E25=~z~快跑吧，PG。你这样敏感的人不想因为伤害记者坐牢吧。
 
 ;0x057F7F6F=~z~You got the magic touch, boss. Come back to Maisonette.
 0x057F7F6F=~z~你真行啊，老板。回豪宅这来吧。
@@ -81,7 +81,7 @@
 0x1C950B7D=010090100
 
 ;0x1CE06AE5=~z~Luis. I need you to take timeout from this management stuff. We got an emergency at Hercules.
-0x1CE06AE5=~z~Luis。店里的活计先停会。大力神这边有急事。
+0x1CE06AE5=~z~Luis。店里的活计先停会。大力神那边有急事。
 
 ;0x1CE734F1=E2Tm1_ZC
 0x1CE734F1=E2Tm1_ZC

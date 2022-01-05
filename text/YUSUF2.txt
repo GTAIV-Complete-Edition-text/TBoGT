@@ -12,7 +12,7 @@
 0x1C155157=~s~去找~b~Ahmed。
 
 ;0x207EEE22=~s~Take the ~y~elevator ~s~to the top of the tower.
-0x207EEE22=~s~使用~y~电梯~s~上到大楼顶端。
+0x207EEE22=~s~使用~y~电梯~s~上到顶层。
 
 ;0x290848FE=~r~Yusuf died.
 0x290848FE=~r~Yusuf死了。
@@ -21,7 +21,7 @@
 0x48D804EB=~s~你已获得降落伞，跳伞离开大楼。
 
 ;0x49C52231=Chase ~b~Ahmed ~s~up the Tower.
-0x49C52231=追逐~b~Ahmed~s~上到塔楼。
+0x49C52231=在塔顶追逐~b~Ahmed。~s~
 
 ;0x5122F989=~s~You have left ~b~Yusuf.
 0x5122F989=~s~你把~b~Yusuf~s~落下了。

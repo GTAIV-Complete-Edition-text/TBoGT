@@ -18,7 +18,7 @@
 0x86EC5863=嗨，亲爱的，
 
 ;0x9828BEE5=Thanks Daisy, I didn't really understand too much of that but good luck. Your husband is one lucky guy.
-0x9828BEE5=Daisy，谢谢。我并不是很了解婚礼，但祝你好运吧。你丈夫（能享受你这么好的手活）真是幸运啊。
+0x9828BEE5=Daisy，谢谢。我并不是很了解婚礼，但祝你好运吧。你丈夫(能享受你这么好的手活)真是幸运啊。
 
 ;0x9DCC862F=Hey Sweetie,
 0x9DCC862F=嗨，亲爱的，
@@ -36,7 +36,7 @@
 0xBFD7CA3D=嗨，亲爱的，
 
 ;0xC5EB6702=So, like, wow! You are a legend, mate. A legend. Seriously. Fucking fab! And I mean that. The wedding is back on! I'm so excited. I will look so good in white. Maybe I'll send you a pic! If you're in London or Shropshire or St. Trop, give me a bell. Especially if you got any sparkle!
-0xC5EB6702=所以，呃，哇！你太神了，伙计，太神了。太他妈的妙了！还有我想说，我的婚礼要恢复了！我会穿上好看的婚纱，也许会发照片给你！如果你在伦敦、什罗普郡或者圣托贝的话，就用电话跟我联系吧！尤其是当你打扮的闪亮亮的时候就更应该跟我联系了！
+0xC5EB6702=那个...哇！你太神了，伙计。太神了。真的，太他妈妙了！我真的是这么想的。我的婚礼又回来了！我会穿上好看的婚纱，也许还会发照片给你！如果你在伦敦、什罗普或者圣托贝的话，就给我打个电话吧！你要是忘不掉我就更该联系我了！
 
 ;0xC72BCFD8=Toodles,
 0xC72BCFD8=再见，
@@ -55,3 +55,4 @@
 
 ;0xF8C4B335=Toodles,
 0xF8C4B335=再见，
+

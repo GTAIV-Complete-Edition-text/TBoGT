@@ -9,7 +9,7 @@
 0x05337CF1=~z~好了，男洗手间有点状况。最好过去看看。
 
 ;0x077FFDA1=~z~Woah, no one should treat a lady like that.
-0x077FFDA1=~z~喔哦，这可不是对待女士的态度。
+0x077FFDA1=~z~喔，怎么能这样对待女士呢。
 
 ;0x083B1BDC=SFX_PAUSE_270
 0x083B1BDC=SFX_PAUSE_270
@@ -18,7 +18,7 @@
 0x0A07250D=~z~嘿，大老板好。一切听您吩咐。
 
 ;0x0A08016F=~z~These screens are like porno sometimes. I could show you the highlight reel.
-0x0A08016F=~z~有时候屏幕上跟放黄带似的。改天我给你放两段。
+0x0A08016F=~z~有时候屏幕上跟放黄片似的。改天我给你放两段。
 
 ;0x0D5F3605=~z~Okay, Joni. This is weird. Try to relax, yo? I'm going back to work now.
 0x0D5F3605=~z~好了，Joni。这样不好。心态要好。我回去巡逻了。
@@ -54,7 +54,7 @@
 0x155FDA50=~z~能去检查下VIP吗，L？我看监控不太对劲。
 
 ;0x156C997A=~z~I'm getting this serious creepy rape vibe off some dude.
-0x156C997A=~z~我这就去阻止那个变态臭流氓。
+0x156C997A=~z~我感觉有色狼想搞事情，哥们。
 
 ;0x177FD42E=~z~Go get 'em.
 0x177FD42E=~z~过去赶人。
@@ -75,7 +75,7 @@
 0x1BC467A7=E2CLJ_JD
 
 ;0x1C21A6E4=~z~There's some sexual harassment shit going down. Fuck.
-0x1C21A6E4=~z~那边有人在性骚扰。操。
+0x1C21A6E4=~z~这边有人在性骚扰。操。
 
 ;0x1E3CEA48=E2CLJ_JF
 0x1E3CEA48=E2CLJ_JF
@@ -117,10 +117,10 @@
 0x277709C8=~z~回见，L。
 
 ;0x27A5A4B9=~z~Oye, I think this guy's fucked up on something. Either that or he's an idiot.
-0x27A5A4B9=~z~喂，我觉得这人是被下药了，要不然就是个傻子。
+0x27A5A4B9=~z~喂，我觉得这人有点大了。要不然他就是个纯傻逼。
 
 ;0x29E14263=~z~There some asshole manhandling a lady here.
-0x29E14263=~z~有个混蛋在粗暴对待女性。
+0x29E14263=~z~有混账在对姑娘毛手毛脚。
 
 ;0x2A5EF9EC=~z~Do your thing, baby.
 0x2A5EF9EC=~z~动手吧，宝贝。
@@ -129,7 +129,7 @@
 0x2B771D44=010
 
 ;0x2BCA5FFF=~z~I won't peek, I promise.
-0x2BCA5FFF=~z~我保证不会偷看。
+0x2BCA5FFF=~z~我保证不偷看。
 
 ;0x2CA7F4BC=E2CLJ_IA
 0x2CA7F4BC=E2CLJ_IA
@@ -159,7 +159,7 @@
 0x33A6E086=E2CLJ_NA
 
 ;0x3478E61F=~z~Shit, L. I think I can feel it.
-0x3478E61F=~z~我操，L。我能感受到的。
+0x3478E61F=~z~我操，L。我来感觉了。
 
 ;0x34DE960F=101
 0x34DE960F=101
@@ -201,7 +201,7 @@
 0x40188D09=101
 
 ;0x40C856FE=~z~Whoah, this dude is way overly refreshed.
-0x40C856FE=~z~喔哦，这哥们有点清醒过头了。
+0x40C856FE=~z~哇哦，这哥们灌了多少啊。
 
 ;0x434E3B36=SFX_PAUSE_320
 0x434E3B36=SFX_PAUSE_320
@@ -240,7 +240,7 @@
 0x4E5F19EB=~z~你找我啊。
 
 ;0x4F09F381=~z~I see someone who's had way too much to drink.
-0x4F09F381=~z~我看见一个喝高了的人。
+0x4F09F381=~z~我看好像有人喝多了。
 
 ;0x4F35A53B=E2CL_MA
 0x4F35A53B=E2CL_MA
@@ -249,13 +249,13 @@
 0x508898BF=~z~急什么呢？
 
 ;0x522E2D9D=~z~I'm witnessing some aggression here.
-0x522E2D9D=~z~我看见有人打架。
+0x522E2D9D=~z~这里有人不太友善啊。
 
 ;0x534F93F9=~z~I get so bored in here. If only there was something that could spice things up...
 0x534F93F9=~z~里面好无聊啊。真希望能来点刺激的调剂一下...
 
 ;0x546A4789=~z~Someone ain't patting down right, man, 'cause we got a dealer in the club.
-0x546A4789=~z~有人安检时候没查出来，老兄，店里有个毒贩子。
+0x546A4789=~z~进店搜身没做到位啊，有人在我们店里贩毒。
 
 ;0x567B099A=010100010100010100010
 0x567B099A=010100010100010100010
@@ -273,10 +273,10 @@
 0x5BFCBF98=E2CLJ_HD
 
 ;0x5C350DD7=~z~There's a guy way out of control down here.
-0x5C350DD7=~z~那边有个人失控的不行了。
+0x5C350DD7=~z~这边有人发酒疯了。
 
 ;0x5D45A7CD=~z~The girls out there get to have all the fun.
-0x5D45A7CD=~z~外面那些姑娘应该都很开心吧。
+0x5D45A7CD=~z~别的女人有没有意思啊？
 
 ;0x5E19D797=~z~Sure, we're cool. I'm cool. Whatever.
 0x5E19D797=~z~好，你可以的。我可以了。随便了。
@@ -288,7 +288,7 @@
 0x5F138638=~z~你说什么？
 
 ;0x6024BD76=~z~I bet you did, you asshole. You come running for work, but for anything else...
-0x6024BD76=~z~我知道，小混蛋。只有公事你才会过来，别的不会来的...
+0x6024BD76=~z~我就知道，小混蛋。只有公事你才会过来，别的不会来的...
 
 ;0x61DB3110=~z~Do you think anyone would catch me if I started acting bad in here?
 0x61DB3110=~z~你说我在这里偷偷干坏事会不会被人发现？
@@ -348,7 +348,7 @@
 0x77288637=010
 
 ;0x77D10E5E=~z~We got a dealer down here.
-0x77D10E5E=~z~那边有一个毒贩子。
+0x77D10E5E=~z~这边有毒贩在交易。
 
 ;0x7A8D970A=~z~Whoa. We've got something going down at the back of the club. Might be worth checking out.
 0x7A8D970A=~z~喔。后门那边好像出了点状况，过去看看比较好。
@@ -402,7 +402,7 @@
 0x87040E1F=E2CLJ_IE
 
 ;0x874A16FD=~z~You really work out, don't you? Is it to compensate for things?
-0x874A16FD=~z~我看你确实在锻炼吧？是为了弥补缺陷吗？
+0x874A16FD=~z~你有在锻炼吧？是为了弥补缺陷吗？
 
 ;0x889428A7=~z~We're done for the night, baby.
 0x889428A7=~z~今晚就到这儿了，宝贝。
@@ -417,7 +417,7 @@
 0x89E007A6=~z~为人混帐不是赶人的理由。这边没事。
 
 ;0x8BC74878=~z~Be there in a minute.
-0x8BC74878=~z~马上就到。
+0x8BC74878=~z~我马上到。
 
 ;0x8C586111=~z~Sure.
 0x8C586111=~z~确实。
@@ -453,7 +453,7 @@
 0x9A51CC22=~z~今晚差不多了，L。
 
 ;0x9BF672C5=~z~Don't forget about me, L. I'm the girl in the back with the IQ above 30.
-0x9BF672C5=~z~别把我忘了，L。我是你背后的女人，智商高达30以上。
+0x9BF672C5=~z~别把我忘了，L。我是你背后的女人，智商30以上。
 
 ;0x9DF0E8C6=E2CLJ_JE
 0x9DF0E8C6=E2CLJ_JE
@@ -480,7 +480,7 @@
 0xA60F5B4D=~z~这边有个人想赖账。
 
 ;0xA80B00FF=~z~No doubt. Be there soon.
-0xA80B00FF=~z~懂了。马上去。
+0xA80B00FF=~z~没问题，这就去。
 
 ;0xA81C2C23=E2CLJ_KE
 0xA81C2C23=E2CLJ_KE
@@ -489,7 +489,7 @@
 0xA976F793=~z~这没什么傻不傻的。
 
 ;0xAA735E2A=~z~There some bullying in the playground, yo.
-0xAA735E2A=~z~场地里面有人使用暴力，哟。
+0xAA735E2A=~z~有人在这里欺负人，哟。
 
 ;0xAB38DEDA=~z~Man, you ain't shy, are you?
 0xAB38DEDA=~z~去，真不害臊啊你？
@@ -504,7 +504,7 @@
 0xB30B59F8=~z~Joni，妹子，这边情况正常。
 
 ;0xB3BBF6A6=~z~Looks like some punk thinks he can get away with not paying.
-0xB3BBF6A6=~z~看来有人以为自己不付钱就能走。
+0xB3BBF6A6=~z~看来有些混蛋觉得自己能白嫖。
 
 ;0xB4780E20=~z~Put on a show for me, L. I love it when you act tough.
 0xB4780E20=~z~让我见识见识，L。就爱看你来硬的。
@@ -522,10 +522,10 @@
 0xB8594DBD=E2CLJ_KF
 
 ;0xB8736476=~z~There's some kind of ruckus in the hall, L. Could you check it out?
-0xB8736476=~z~入口那边有点骚动，L。过去看看吧。
+0xB8736476=~z~走廊那边有点骚动，L。过去看看吧。
 
 ;0xB892FA69=~z~There some aggressive behavior going on down here, bro.
-0xB892FA69=~z~外面有些攻击性行为，兄弟。
+0xB892FA69=~z~这边吵得很凶啊，兄弟。
 
 ;0xB999949C=101
 0xB999949C=101
@@ -543,10 +543,10 @@
 0xBD08DED0=~z~这么喜欢打架，有种跟我和Dessie打啊？
 
 ;0xBDFF846B=~z~I'm covering my eyes.
-0xBDFF846B=~z~眼睛我遮住了。
+0xBDFF846B=~z~我闭上眼睛了。
 
 ;0xBF961DE7=~z~That guy is not trying to deal in our club.
-0xBF961DE7=~z~别让那边那个人在我们店里贩毒。
+0xBF961DE7=~z~那家伙别想在我们店里交易毒品。
 
 ;0xC16891E3=~z~Oye. I hate it when people try to scam the wait staff.
 0xC16891E3=~z~喂。我最讨厌有人欺骗服务生了。
@@ -603,7 +603,7 @@
 0xD8D0D774=101
 
 ;0xD9F0BFA9=~z~L, shit, I need you to come see me in the office right now!
-0xD9F0BFA9=~z~L，操，赶紧到监控室来找我。
+0xD9F0BFA9=~z~L，操，赶紧来监控室找我。
 
 ;0xDB18FE95=~z~Work is work, mami.
 0xDB18FE95=~z~公事公办，妹子。
@@ -612,7 +612,7 @@
 0xDCBF3A12=~z~这里出什么事了？
 
 ;0xDDB8CA83=~z~Some guy here thinks he can drink for free.
-0xDDB8CA83=~z~这边有人想吃霸王餐。
+0xDDB8CA83=~z~有人以为自己能白嫖酒水。
 
 ;0xDF5DB29C=~z~People seem happy, J. Things are cool.
 0xDF5DB29C=~z~客人都很开心，J。一切正常。
@@ -630,13 +630,13 @@
 0xE1E14865=SFX_PAUSE_320
 
 ;0xE2644D34=~z~Lesser women would look right now.
-0xE2644D34=~z~这时候女人一般会不看。
+0xE2644D34=~z~这时候女人一般会回避。
 
 ;0xE2A6F636=~z~On my way.
 0xE2A6F636=~z~这就去。
 
 ;0xE2B2B8F4=~z~Yo, L. Looks like you're needed in the hall. There's something going down.
-0xE2B2B8F4=~z~哟，L。你去入口那边看看，那边出事情了。
+0xE2B2B8F4=~z~哟，L。你去走廊那边看看，好像有状况。
 
 ;0xE2BBEAA7=~z~I'll be watching.
 0xE2BBEAA7=~z~我看着呢。
@@ -654,7 +654,7 @@
 0xE96EDB7E=~z~我是说真的。我们该休息休息，宝贝。讨论一下以后孩子的名字。
 
 ;0xEBEDCF8B=~z~Don't talk.
-0xEBEDCF8B=~z~Don't talk.
+0xEBEDCF8B=~z~别出声。
 
 ;0xEC550220=100
 0xEC550220=100
@@ -684,10 +684,10 @@
 0xF56B769E=~z~操了，L。把手头的事放下，直接来监控室。
 
 ;0xF5B09B87=~z~Hey L. You're needed at the bar.
-0xF5B09B87=~z~嘿，L。吧台那边需要你。
+0xF5B09B87=~z~喂，L。吧台那边需要你。
 
 ;0xF7421750=~z~L, can you head to the dancefloor? I think there's something going on.
-0xF7421750=~z~L，你能去舞池那边吗？那边好像出了点事。
+0xF7421750=~z~L，你能去一趟舞池吗？那边好像有情况。
 
 ;0xF78425B9=~z~Try not to catch any more infections, soldier.
 0xF78425B9=~z~可别再得什么脏病了，大兵。
