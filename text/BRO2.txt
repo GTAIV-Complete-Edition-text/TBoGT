@@ -1,162 +1,162 @@
 ﻿[BRO2]
 ;0x01B512DE=12th
-0x01B512DE=12th
+0x01B512DE=第十二名
 
 ;0x059DA632=10th
-0x059DA632=10th
+0x059DA632=第十名
 
 ;0x078E6C91=~r~You injured a fellow competitor.
-0x078E6C91=~r~You injured a fellow competitor.
+0x078E6C91=~r~你伤害了对手。
 
 ;0x093BE03D=~r~You destroyed a fellow competitor's car.
-0x093BE03D=~r~You destroyed a fellow competitor's car.
+0x093BE03D=~r~对手的车被毁了。
 
 ;0x0A6274B5=~r~You beached the boat.
-0x0A6274B5=~r~You beached the boat.
+0x0A6274B5=~r~你的船搁浅了。
 
 ;0x12AB08C4=Press ~INPUT_VEH_CIN_CAM~ to activate nitro.
-0x12AB08C4=Press ~INPUT_VEH_CIN_CAM~ to activate nitro.
+0x12AB08C4=按~INPUT_VEH_CIN_CAM~激活氮气加速。
 
 ;0x146528DF=7th
-0x146528DF=7th
+0x146528DF=第七名
 
 ;0x19D8B3C5=4th
-0x19D8B3C5=4th
+0x19D8B3C5=第四名
 
 ;0x242ADCA8=~r~You lose.
-0x242ADCA8=~r~You lose.
+0x242ADCA8=~r~你输了。
 
 ;0x25ABF293=MOCAP CUTSCENE: Player Loses the race.
-0x25ABF293=MOCAP CUTSCENE: Player Loses the race.
+0x25ABF293=MOCAP CUTSCENE: 玩家输了比赛。
 
 ;0x27F4A583=~s~Get in the ~b~car.~s~
-0x27F4A583=~s~Get in the ~b~car.~s~
+0x27F4A583=~s~上~b~车。~s~
 
 ;0x293E4155=3rd
-0x293E4155=3rd
+0x293E4155=第三名
 
 ;0x2AEF62EB=~R~The car was wrecked.
-0x2AEF62EB=~R~The car was wrecked.
+0x2AEF62EB=~R~车被毁了。
 
 ;0x2FC30569=~r~The cops scared off the other racers.
-0x2FC30569=~r~The cops scared off the other racers.
+0x2FC30569=~r~警察吓跑了其他参赛者。
 
 ;0x37CE2EC0=11th
-0x37CE2EC0=11th
+0x37CE2EC0=第十一名
 
 ;0x38FD019F=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
-0x38FD019F=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
+0x38FD019F=用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按 ~INPUT_NEXT_CAMERA~改变视角。
 
 ;0x3C674C79=2nd
-0x3C674C79=2nd
+0x3C674C79=第二名
 
 ;0x4068C4B9=~s~Get in a ~b~car.~s~
-0x4068C4B9=~s~Get in a ~b~car.~s~
+0x4068C4B9=~s~上~b~车。~s~
 
 ;0x45B6A76B=8th
-0x45B6A76B=8th
+0x45B6A76B=第八名
 
 ;0x4720D909=9th
-0x4720D909=9th
+0x4720D909=第九名
 
 ;0x4EFF9B6B=~s~Go to the ~y~heliport.~s~
-0x4EFF9B6B=~s~Go to the ~y~heliport.~s~
+0x4EFF9B6B=~s~前往~y~停机坪。~s~
 
 ;0x550558DC=Get a bike and get to the ~y~start line.
-0x550558DC=Get a bike and get to the ~y~start line.
+0x550558DC=骑摩托去~y~起跑线。
 
 ;0x562EF3B6=~s~Get in a ~b~boat.~s~
-0x562EF3B6=~s~Get in a ~b~boat.~s~
+0x562EF3B6=~s~上~b~船。~s~
 
 ;0x5A64CE31=~r~Race abandoned.
-0x5A64CE31=~r~Race abandoned.
+0x5A64CE31=~r~你放弃了比赛。
 
 ;0x63BAE96F=Get back on the bike.
-0x63BAE96F=Get back on the bike.
+0x63BAE96F=回到摩托上。
 
 ;0x6E7DAE2B=MOCAP CUTSCENE: Mori tells Luis to get to a race.
-0x6E7DAE2B=MOCAP CUTSCENE: Mori tells Luis to get to a race.
+0x6E7DAE2B=MOCAP CUTSCENE:Mori告诉Luis去比赛。
 
 ;0x6E7E59BB=5th
-0x6E7E59BB=5th
+0x6E7E59BB=第五名
 
 ;0x7B35DC78=1st
-0x7B35DC78=1st
+0x7B35DC78=第一名
 
 ;0x8D6AF2AF=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
-0x8D6AF2AF=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.
+0x8D6AF2AF=用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。
 
 ;0x9C783318=Open your parachute.
-0x9C783318=Open your parachute.
+0x9C783318=打开你的降落伞。
 
 ;0xA2220B09=Land close to the ~b~boats.~s~
-0xA2220B09=Land close to the ~b~boats.~s~
+0xA2220B09=降落到~b~船~s~上。
 
 ;0xA7B5B559=Lose the cops.
-0xA7B5B559=Lose the cops.
+0xA7B5B559=甩掉警察。
 
 ;0xB12B41DA=MOCAP CUTSCENE: Player Comes in 1st in race.
-0xB12B41DA=MOCAP CUTSCENE: Player Comes in 1st in race.
+0xB12B41DA=MOCAP CUTSCENE:玩家得到第一名。
 
 ;0xB81124A6=MOCAP CUTSCENE: Player is airlifted into a heelicopter with other competitors.
-0xB81124A6=MOCAP CUTSCENE: Player is airlifted into a heelicopter with other competitors.
+0xB81124A6=MOCAP CUTSCENE:玩家会和其他参赛者一起上直升机。
 
 ;0xBC72D3CE=Jump off the building to go into free-fall.
-0xBC72D3CE=Jump off the building to go into free-fall.
+0xBC72D3CE=从楼上跳下自由落体。
 
 ;0xBC8C7F23=~s~Get in a ~b~boat.~s~
-0xBC8C7F23=~s~Get in a ~b~boat.~s~
+0xBC8C7F23=~s~上~b~船。~s~
 
 ;0xBEBE721B=Line up your bike.
-0xBEBE721B=Line up your bike.
+0xBEBE721B=进入起跑队列。
 
 ;0xC287C91F=~r~You wrecked the boat.
-0xC287C91F=~r~You wrecked the boat.
+0xC287C91F=~r~你的船坏了。
 
 ;0xDFAA424E=6th
-0xDFAA424E=6th
+0xDFAA424E=第六名
 
 ;0xE12CCF67=~R~You abandoned Mori.
-0xE12CCF67=~R~You abandoned Mori.
+0xE12CCF67=~R~你抛弃了Mori。
 
 ;0xE1697F99=~r~You destroyed a fellow competitor's boat.
-0xE1697F99=~r~You destroyed a fellow competitor's boat.
+0xE1697F99=~r~对手的船被毁了。
 
 ;0xE23F4E87=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to to view different cameras.
-0xE23F4E87=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to to view different cameras.
+0xE23F4E87=用~PAD_LSTICK_ALL~改变重心。~n~用~INPUT_AIM~和~INPUT_ATTACK~左转或右转。~n~按~INPUT_ENTER~丢掉降落伞。~n~按 ~INPUT_MELEE_ATTACK1~改变视角。
 
 ;0xE487B866=Gain speed, then press ~INPUT_VEH_CIN_CAM~ to activate nitro.
-0xE487B866=Gain speed, then press ~INPUT_VEH_CIN_CAM~ to activate nitro.
+0xE487B866=加速，然后按~INPUT_VEH_CIN_CAM~激活氮气加速。
 
 ;0xE6CFBE73=3
 0xE6CFBE73=3
 
 ;0xE85E163A=You win.
-0xE85E163A=You win.
+0xE85E163A=你赢了。
 
 ;0xEBFD487E=1
 0xEBFD487E=1
 
 ;0xEC6C65CA=~R~Mori is dead.
-0xEC6C65CA=~R~Mori is dead.
+0xEC6C65CA=~R~Mori死了。
 
 ;0xEC940C59=Wait for ~b~Mori.
-0xEC940C59=Wait for ~b~Mori.
+0xEC940C59=等待~b~Mori。
 
 ;0xEE171F7F=Lose your wanted level, or the race may be abandoned.
-0xEE171F7F=Lose your wanted level, or the race may be abandoned.
+0xEE171F7F=摆脱通缉，否则比赛将会中止。
 
 ;0xFAC8075F=Get a suitable bike.
-0xFAC8075F=Get a suitable bike.
+0xFAC8075F=找一辆合适的摩托。
 
 ;0xFCAF866C=~R~Mori was injured.
-0xFCAF866C=~R~Mori was injured.
+0xFCAF866C=~R~Mori受伤了。
 
 ;0xFCBE6F1E=Go
-0xFCBE6F1E=Go
+0xFCBE6F1E=走
 
 ;0xFCDA7232=Go to the ~y~start line.
-0xFCDA7232=Go to the ~y~start line.
+0xFCDA7232=前往~y~起跑线。
 
 ;0xFE6A950A=2
 0xFE6A950A=2

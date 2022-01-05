@@ -1,6 +1,6 @@
 ﻿[AIRHOCK]
 ;0x1285976A=Henrique scored!
-0x1285976A=Henrique得分！
+0x1285976A=Henrique进球！
 
 ;0x2092908B=Press ~INPUT_PICKUP~ to play air hockey.
 0x2092908B=按~INPUT_PICKUP~玩桌上冰球。
@@ -12,19 +12,19 @@
 0x2E001EF6=用~PAD_LSTICK_ALL~移动推把。~n~向任意方向推动~PAD_RSTICK_ALL~重击。~n~按~PAD_BACK~切换视角。~n~按~INPUT_PICKUP~退出。
 
 ;0x3D31BD59=First player to score 7 goals wins the game.
-0x3D31BD59=首先拿到7分的玩家获胜。
+0x3D31BD59=首先打进7球的玩家获胜。
 
 ;0x43ED572F=Use ~PAD_RSTICK_ALL~ to move the mallet. ~n~Press ~INPUT_NEXT_CAMERA~ to change view. ~n~Press ~INPUT_PICKUP~ to quit.
 0x43ED572F=用~PAD_RSTICK_ALL~移动推把。~n~按~INPUT_NEXT_CAMERA~切换视角。~n~按~INPUT_PICKUP~退出。
 
 ;0x524CA500=You scored!
-0x524CA500=你得分了！
+0x524CA500=你进球了！
 
 ;0xC7009E60=Player ~1~ scores!
-0xC7009E60=玩家~1~得分！
+0xC7009E60=玩家~1~进球！
 
 ;0xC78FF19B=Armando scored!
-0xC78FF19B=Armando得分！
+0xC78FF19B=Armando进球！
 
 ;0xCF95E492=You win.
 0xCF95E492=你赢了。
@@ -34,3 +34,4 @@
 
 ;0xF9716CE5=Are you sure you want to quit?
 0xF9716CE5=你确定要退出吗？
+

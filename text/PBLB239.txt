@@ -1,16 +1,16 @@
 ﻿[PBLB239]
 ;0x5C9657CB=Artist Killed
-0x5C9657CB=Artist Killed
+0x5C9657CB=艺术家遇害
 
 ;0x77E5DCF4=A 32-year-old budding artist was viciously beaten to death last night outside a bar in East Hook. Fueled by the pressures of the economic downturn, this is the latest in a spate of revenge attacks by long-standing Broker residents, who believe that their neighborhoods have been ruined by an influx of bearded, over-privileged rich kids in fedoras. While we of course sympathize wholeheartedly and hyperbolically with the plight of poor, ethnic communities, whose futures have been gambled away by President Lawton on war games and big business subsidies, we can and will never condone hate. Hipsterphobia is prejudice like any other and they must be defended, especially as they make up the lion's share of our reader base.
-0x77E5DCF4=A 32-year-old budding artist was viciously beaten to death last night outside a bar in East Hook. Fueled by the pressures of the economic downturn, this is the latest in a spate of revenge attacks by long-standing Broker residents, who believe that their neighborhoods have been ruined by an influx of bearded, over-privileged rich kids in fedoras. While we of course sympathize wholeheartedly and hyperbolically with the plight of poor, ethnic communities, whose futures have been gambled away by President Lawton on war games and big business subsidies, we can and will never condone hate. Hipsterphobia is prejudice like any other and they must be defended, especially as they make up the lion's share of our reader base.
+0x77E5DCF4=昨晚，一名32岁的艺术新星在East Hook的一家酒吧外遭人殴打致死。受经济下行压力影响，Broker区的常住居民已实施了数起这类报复性袭击——他们认为这些留络腮胡戴软呢帽的外地人上人毁了自己的家园。而常住居民的未来也已被Lawton总统在发动战争和补贴大型企业时挥霍殆尽，对于这些东欧可怜人所处的窘境，本报由衷地、发自肺腑地感到同情。但是，我们永远不会、也不可能容忍仇恨。嬉皮恐惧症与其他偏见并无二致，自然也有其存在的意义，更何况这类人还是本报的主要读者群体。
 
 ;0x83ECD02E=Candice Johnson
 0x83ECD02E=Candice Johnson
 
 ;0x894F7FC7=So they believe that they are unique and countercultural by dressing in exactly the same clothes? So they ride fixed-gear bicycles and live off their parents' money? So they seek to escape their privileged upbringings and middle-class guilt by expropriating the cultures and fashions of the working class and turning them into kitsch for their own amusement? So they are pitiful, insecure, pretentious, snarky, narcissistic, pasty-faced pseudo-slackers whom the world would be better off without? Are these reasons to hate them? Er, maybe. I don't know any more. I'm incapable of stating an opinion for fear that I might offend somebody. But, if I learned one thing from my Liberal Arts degree, it is this: stereotypes are bad. Never put a label on anything unless it contains animal fats.
-0x894F7FC7=So they believe that they are unique and countercultural by dressing in exactly the same clothes? So they ride fixed-gear bicycles and live off their parents' money? So they seek to escape their privileged upbringings and middle-class guilt by expropriating the cultures and fashions of the working class and turning them into kitsch for their own amusement? So they are pitiful, insecure, pretentious, snarky, narcissistic, pasty-faced pseudo-slackers whom the world would be better off without? Are these reasons to hate them? Er, maybe. I don't know any more. I'm incapable of stating an opinion for fear that I might offend somebody. But, if I learned one thing from my Liberal Arts degree, it is this: stereotypes are bad. Never put a label on anything unless it contains animal fats.
+0x894F7FC7=所以这些「嬉皮」真以为穿上一模一样的制服，自己就是特立独行的非主流了是吧？所以他们就骑着死飞啃着老了是吧？所以他们霸占了工人阶层的文化和时尚，使其成为自己的庸俗娱乐，以为这样就能躲开享受中产阶层社会资源的愧怍了是吧？这些人卑微可怜、惴惴不安、尖酸刻薄、自命不凡、自我陶醉、面色苍白、道貌岸然、偎慵堕懒，所以没了他们世界会更好吧？难道这就是可以仇视他们的理由？呃，或许吧。现在我也说不准了。我不会因为害怕冒犯别人就隐藏自己的观点。不过，要说我从人文本科里学到了什么的话，那就是「拒绝刻板印象」了。永远不要给任何东西贴标签，除非它含有动物脂肪*。~n~(解释笑话：供稿人大概还是个素食主义者)
 
 ;0xC43B196A=No irony found in hipster's death
-0xC43B196A=No irony found in hipster's death
+0xC43B196A=嬉皮之死，蔑视不再
 

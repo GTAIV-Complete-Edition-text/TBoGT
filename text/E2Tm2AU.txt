@@ -1,4 +1,4 @@
-﻿[E2Tm2AU]
+[E2Tm2AU]
 ;0x0019F50B=SFX_PAUSE_250
 0x0019F50B=SFX_PAUSE_250
 
@@ -18,7 +18,7 @@
 0x01F365B2=SFX_PAUSE_250
 
 ;0x04488F4E=~z~Tony's fine. It's that Kerry McIntosh - she's demanding some takeout from the Iron Belly in Bohan.
-0x04488F4E=~z~Tony's fine. It's that Kerry McIntosh - she's demanding some takeout from the Iron Belly in Bohan.
+0x04488F4E=~z~Tony很好。是那位Kerry McIntosh - 她需要Iron Belly的外卖，地点是Bohan。
 
 ;0x046F3478=E2Tm2_SD
 0x046F3478=E2Tm2_SD
@@ -30,10 +30,10 @@
 0x0AED44D0=SFX_PAUSE_250
 
 ;0x0B5BA011=~z~Finally. Miss McIntosh has been asking about you, boss.
-0x0B5BA011=~z~Finally. Miss McIntosh has been asking about you, boss.
+0x0B5BA011=~z~终于啊老板，McIntosh小姐问了关于你的事。
 
 ;0x0E1BE57D=~z~Hi there. This is Danni, Miss McIntosh's assistant.
-0x0E1BE57D=~z~Hi there. This is Danni, Miss McIntosh's assistant.
+0x0E1BE57D=~z~嘿，这是Danni，McIntosh小姐的助理。
 
 ;0x0F3E3AB7=E2Tm1_JA
 0x0F3E3AB7=E2Tm1_JA
@@ -42,7 +42,7 @@
 0x0FB0AFE3=E2Tm2_SA1
 
 ;0x0FCB6B26=~z~This thing ain't happening, D . We ran into an issue.
-0x0FCB6B26=~z~This thing ain't happening, D . We ran into an issue.
+0x0FCB6B26=~z~这事没发生，D。我们遇到了个问题。
 
 ;0x10078579=SFX_PAUSE_120
 0x10078579=SFX_PAUSE_120
@@ -54,7 +54,7 @@
 0x161E38F2=E2Tm2_XC
 
 ;0x1632F90D=~z~Reluctant as I may be, I am that guy. Tell your boss to hold on and it'll get there.
-0x1632F90D=~z~Reluctant as I may be, I am that guy. Tell your boss to hold on and it'll get there.
+0x1632F90D=~z~也许我会不情愿，但我就是这种人。告诉你的老板等着，外卖会到她手上的。
 
 ;0x17E5D695=E2Tm2_SB
 0x17E5D695=E2Tm2_SB
@@ -63,13 +63,13 @@
 0x1D29E21E=SFX_PAUSE_300
 
 ;0x1F533FAE=~z~I'm running for food that I know she's gonna throw up. Shit.
-0x1F533FAE=~z~I'm running for food that I know she's gonna throw up. Shit.
+0x1F533FAE=~z~我知道我跑去拿的食物她一定会吐掉的，妈的。
 
 ;0x21B4CCC3=~z~Thanks for coming, L. Give me a club full of queens over that McIntosh girl any day.
-0x21B4CCC3=~z~Thanks for coming, L. Give me a club full of queens over that McIntosh girl any day.
+0x21B4CCC3=~z~感谢前来，L。McIntosh那女孩总是让我的俱乐部里每天都挤满小公主。
 
 ;0x2F1EB432=~z~Come back to the Maisonette when you got a minute.
-0x2F1EB432=~z~Come back to the Maisonette when you got a minute.
+0x2F1EB432=~z~有时间就回豪宅看看吧。
 
 ;0x3377E5AF=100090100090100010010
 0x3377E5AF=100090100090100010010
@@ -81,10 +81,10 @@
 0x35E2F50F=SFX_Pause_250
 
 ;0x36A37374=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
-0x36A37374=~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.
+0x36A37374=~z~嘿，老兄。我在处理一些奇怪的事情。我得暂时保持低调。
 
 ;0x375A9BA5=~z~Hey, Danni again. Listen, thank you so super much for going out to Bohan for Kerry,
-0x375A9BA5=~z~Hey, Danni again. Listen, thank you so super much for going out to Bohan for Kerry,
+0x375A9BA5=~z~嘿，又是我Danni。听着，超级感谢你从Bohan拿外卖给Kerry，
 
 ;0x3A2233E5=010090100090010100
 0x3A2233E5=010090100090010100
@@ -102,7 +102,7 @@
 0x3EB185F0=E2Tm2_XA
 
 ;0x3EF58418=~z~Okay, boss. Anyone asks, I ain't seen you.
-0x3EF58418=~z~Okay, boss. Anyone asks, I ain't seen you.
+0x3EF58418=~z~好吧，老板。有人问的话我就说没见过你。
 
 ;0x4250C618=010090100
 0x4250C618=010090100
@@ -111,7 +111,7 @@
 0x485812AC=100010090100090100090010
 
 ;0x48B0B686=~z~I have here order for woman. We make it smooth so she can throw up easily.
-0x48B0B686=~z~I have here order for woman. We make it smooth so she can throw up easily.
+0x48B0B686=~z~这是那位女士的订单，我们把食物做得更软了，以便她更容易吐出来。
 
 ;0x498A3BE2=E2Tm2_QA2
 0x498A3BE2=E2Tm2_QA2
@@ -120,7 +120,7 @@
 0x4B50242C=100090100090010
 
 ;0x4B6E1D98=~z~Tony treats these fucking supermodel chicks too fucking well. Damn. I'll do it. I'll do it.
-0x4B6E1D98=~z~Tony treats these fucking supermodel chicks too fucking well. Damn. I'll do it. I'll do it.
+0x4B6E1D98=~z~Tony对这些超模荡妇真是太好了，他妈的。我去拿吧，我去拿。
 
 ;0x4C8A74F5=E2Tm2_PB
 0x4C8A74F5=E2Tm2_PB
@@ -135,7 +135,7 @@
 0x564C3663=400
 
 ;0x59EC09D0=~z~Remind me to avoid promotion at all costs, L. You the one who got to do all the shit jobs.
-0x59EC09D0=~z~Remind me to avoid promotion at all costs, L. You the one who got to do all the shit jobs.
+0x59EC09D0=~z~尽量提醒我别进行广告宣传哦，L。所有的这些事你都能来做。
 
 ;0x5B4C871C=100090010090010
 0x5B4C871C=100090010090010
@@ -144,7 +144,7 @@
 0x5C17DA83=E2Tm2_OB
 
 ;0x6004C6C5=~z~What is it? Tony okay?
-0x6004C6C5=~z~What is it? Tony okay?
+0x6004C6C5=~z~怎么了？托尼还好吗？
 
 ;0x6026EEA3=E2Tm2_QC
 0x6026EEA3=E2Tm2_QC
@@ -156,13 +156,13 @@
 0x6184B597=SFX_PAUSE_250
 
 ;0x626A00DF=~z~Hiya. I know you're coming, like, as superfast as you possibly can,
-0x626A00DF=~z~Hiya. I know you're coming, like, as superfast as you possibly can,
+0x626A00DF=~z~喂？我知道你要来了，用最快的方法，
 
 ;0x62A211FE=~z~I do so hate to be a pain, but is there any news on that food order?
-0x62A211FE=~z~I do so hate to be a pain, but is there any news on that food order?
+0x62A211FE=~z~我知道被催会很痛苦，但有食物点单的新消息了嘛？
 
 ;0x62CD727E=~z~but you took a little bit too long.
-0x62CD727E=~z~but you took a little bit too long.
+0x62CD727E=~z~但你花了太长时间吧。
 
 ;0x63E1789E=E2Tm2_TD
 0x63E1789E=E2Tm2_TD
@@ -171,7 +171,7 @@
 0x6785FCE8=E2Tm2_SC
 
 ;0x679301D3=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
-0x679301D3=~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.
+0x679301D3=~z~糟糕，老板。我有些不太好的事。去放放松吧，我会再打给你的。
 
 ;0x67D230F7=010090100
 0x67D230F7=010090100
@@ -198,7 +198,7 @@
 0x732C3710=E2Tm2_PA2
 
 ;0x746EB597=~z~I'm sorry, I don't have this number in my phone. Who is it?
-0x746EB597=~z~I'm sorry, I don't have this number in my phone. Who is it?
+0x746EB597=~z~抱歉，我手机没存有这个号码。你是谁？
 
 ;0x754F37C5=E2Tm2_RD
 0x754F37C5=E2Tm2_RD
@@ -207,10 +207,10 @@
 0x79EC3D8B=SFX_PAUSE_350
 
 ;0x7B11FF7C=~z~Boss, you think you could mention about my singing to Miss McIntosh?
-0x7B11FF7C=~z~Boss, you think you could mention about my singing to Miss McIntosh?
+0x7B11FF7C=~z~老板，你能在McIntosh小姐面前夸夸我的歌声吗？
 
 ;0x7ED6D3A5=~z~Ain't that right, D. Management is for morons.
-0x7ED6D3A5=~z~Ain't that right, D. Management is for morons.
+0x7ED6D3A5=~z~可不是嘛，D。管理工作就是白痴做的。
 
 ;0x8071D077=SFX_PAUSE_270
 0x8071D077=SFX_PAUSE_270
@@ -222,10 +222,10 @@
 0x833340B6=E2Tm1_HA
 
 ;0x838E155C=~z~Tell her to chill out. She must be used to hunger pangs.
-0x838E155C=~z~Tell her to chill out. She must be used to hunger pangs.
+0x838E155C=~z~告诉她冷静点，她一定是饿肚子就容易腹痛。
 
 ;0x85D93895=~z~Kerry wanted to eat something, like, right away so she had to send someone else to this amazing little pizzeria in Alderney.
-0x85D93895=~z~Kerry wanted to eat something, like, right away so she had to send someone else to this amazing little pizzeria in Alderney.
+0x85D93895=~z~Kerry想吃点什么，比如，现在她必须叫别人从Alderney送这个美丽的小披萨饼了。
 
 ;0x88F094EC=010090100
 0x88F094EC=010090100
@@ -240,10 +240,10 @@
 0x8D7B1B95=E2Tm2_OA
 
 ;0x8F787D1B=~z~Hi again. Kerry's starting to get kind of antsy.
-0x8F787D1B=~z~Hi again. Kerry's starting to get kind of antsy.
+0x8F787D1B=~z~嘿，又是我。Kerry开始有些坐立不安了。
 
 ;0x921585AF=~z~She's got this super strong craving for pizza, and she sent someone else out to Alderney to get it.
-0x921585AF=~z~She's got this super strong craving for pizza, and she sent someone else out to Alderney to get it.
+0x921585AF=~z~她对这个披萨有强烈的渴望，所以她安排别人去Alderney拿了。
 
 ;0x92B7F930=SFX_PAUSE_170
 0x92B7F930=SFX_PAUSE_170
@@ -252,7 +252,7 @@
 0x93B37FF9=SFX_PAUSE_150
 
 ;0x9433974A=~z~I do so hate to be a pain, but is there any news on that food order?
-0x9433974A=~z~I do so hate to be a pain, but is there any news on that food order?
+0x9433974A=~z~我的确知道被催会很痛苦，但有食物点单的新消息了嘛？
 
 ;0x9548E504=100090100090100090100090010
 0x9548E504=100090100090100090100090010
@@ -261,19 +261,19 @@
 0x96EC0544=E2Tm1_FB
 
 ;0x97E77C88=~z~Hey, it's Danni on behalf of Kerry McIntosh.
-0x97E77C88=~z~Hey, it's Danni on behalf of Kerry McIntosh.
+0x97E77C88=~z~嘿，我是Danni，代表Kerry McIntosh与你通电话。
 
 ;0x9A06E0F0=~z~Sorry again and thank you so much.
-0x9A06E0F0=~z~Sorry again and thank you so much.
+0x9A06E0F0=~z~再次抱歉，非常感谢。
 
 ;0x9C5B5E12=~z~Here's the food. I don't know why she make us make it every night when all she does is throw it up.
-0x9C5B5E12=~z~Here's the food. I don't know why she make us make it every night when all she does is throw it up.
+0x9C5B5E12=~z~这是你们食物，我不知道为什么她吃一次吐一次，却还要定这个。
 
 ;0x9DC2C9C5=~z~We're doing fine. We just love running errands. There's only so fast a man can get from Bohan to Westminster.
-0x9DC2C9C5=~z~We're doing fine. We just love running errands. There's only so fast a man can get from Bohan to Westminster.
+0x9DC2C9C5=~z~我们做的很好，我们就喜欢干些差事。我是能从Bohan到Westminster最快的人，
 
 ;0x9DF6BCF7=~z~I don't know why I bother, Dess. This girl is bulimic for sure. Serious puker.
-0x9DF6BCF7=~z~I don't know why I bother, Dess. This girl is bulimic for sure. Serious puker.
+0x9DF6BCF7=~z~无意冒犯，Dess，这女孩食欲太旺盛了吧。深渊巨口。
 
 ;0x9F4B019C=E2Tm2_RA1
 0x9F4B019C=E2Tm2_RA1
@@ -282,7 +282,7 @@
 0x9FBA6A85=010090100
 
 ;0xA15FFECE=~z~but Kerry's kind of having a serious freak out here.
-0xA15FFECE=~z~but Kerry's kind of having a serious freak out here.
+0xA15FFECE=~z~但Kerry在这里大发雷霆了。
 
 ;0xA4986AD7=SFX_PAUSE_320
 0xA4986AD7=SFX_PAUSE_320
@@ -291,10 +291,10 @@
 0xA6A5581A=E2Tm2_XB
 
 ;0xA6FC54B3=~z~We don't got no one else who can pick it up.
-0xA6FC54B3=~z~We don't got no one else who can pick it up.
+0xA6FC54B3=~z~我们这里没有人手去帮她拿外卖了。
 
 ;0xAB1221B1=~z~I hope it's nothing serious, boss. You take care.
-0xAB1221B1=~z~I hope it's nothing serious, boss. You take care.
+0xAB1221B1=~z~我希望没什么严重的，老板。你保重。
 
 ;0xABC1C0F5=010
 0xABC1C0F5=010
@@ -303,7 +303,7 @@
 0xABEF1AE8=E2Tm2_KA
 
 ;0xAC8A2257=~z~I've been asked to follow up on the whereabouts of her food order. I'm told you're in charge of it.
-0xAC8A2257=~z~I've been asked to follow up on the whereabouts of her food order. I'm told you're in charge of it.
+0xAC8A2257=~z~她问我她点的食物的行踪，我被告知你负责这事。
 
 ;0xB1C5EE03=SFX_PAUSE_300
 0xB1C5EE03=SFX_PAUSE_300
@@ -315,13 +315,13 @@
 0xB4DBB481=E2Tm2_RC
 
 ;0xB58240FB=~z~Kerry's got her takeout, D.
-0xB58240FB=~z~Kerry's got her takeout, D.
+0xB58240FB=~z~Kerry拿到她的外卖了，D。
 
 ;0xB6351060=SFX_PAUSE_270
 0xB6351060=SFX_PAUSE_270
 
 ;0xB7C75E71=~z~The news is I'm bringing it as fast as I can. It'll get to you when it gets to you.
-0xB7C75E71=~z~The news is I'm bringing it as fast as I can. It'll get to you when it gets to you.
+0xB7C75E71=~z~消息是我正在尽我所能尽快拿外卖。我一到就拿给你。
 
 ;0xB8780874=E2Tm2_NC
 0xB8780874=E2Tm2_NC
@@ -339,16 +339,16 @@
 0xBADBEB7A=E2Tm2_LA
 
 ;0xBC4986D2=~z~Hi there. Danni again. Miss McIntosh wanted me to chase up that order. How are we doing?
-0xBC4986D2=~z~Hi there. Danni again. Miss McIntosh wanted me to chase up that order. How are we doing?
+0xBC4986D2=~z~嘿，又是我Danni。McIntosh小姐要我赶紧拿到她的外卖，你做得怎么样？
 
 ;0xBDBBB785=~z~She's like "where the fuck is my fucking food?" She gets kind of, like, cranky if she doesn't eat. Comprende?
-0xBDBBB785=~z~She's like "where the fuck is my fucking food?" She gets kind of, like, cranky if she doesn't eat. Comprende?
+0xBDBBB785=~z~她在说“他妈的吃的到底在哪里？”她一不吃东西就会有些，呃，易怒。了解？
 
 ;0xBE6DDE5F=~z~I really hope that you didn't go out of your way.
-0xBE6DDE5F=~z~I really hope that you didn't go out of your way.
+0xBE6DDE5F=~z~我真心希望你没有花太多力气。
 
 ;0xBE76A9DB=~z~Fuck this shit.
-0xBE76A9DB=~z~Fuck this shit.
+0xBE76A9DB=~z~操他妈的。
 
 ;0xBFCA1D06=100
 0xBFCA1D06=100
@@ -363,13 +363,13 @@
 0xC30BC027=E2Tm2_QD
 
 ;0xC5D247B2=~z~Really? She must be one cranky bitch then, 'cause I seen photos of her, and she don't eat much at all.
-0xC5D247B2=~z~Really? She must be one cranky bitch then, 'cause I seen photos of her, and she don't eat much at all.
+0xC5D247B2=~z~真的？她一定挺易怒的，不过我看过她的照片，她不像是吃很多的。
 
 ;0xC765ECF5=~z~When's it going to be here?
-0xC765ECF5=~z~When's it going to be here?
+0xC765ECF5=~z~外卖啥时候到？
 
 ;0xC899F2B7=~z~Kerry had kind of a change of mind.
-0xC899F2B7=~z~Kerry had kind of a change of mind.
+0xC899F2B7=~z~Kerry改变主意了。
 
 ;0xC8C6BACC=E2Tm2_SA2
 0xC8C6BACC=E2Tm2_SA2
@@ -378,16 +378,16 @@
 0xCA99CEC7=E2Tm2_VA
 
 ;0xCAC2B863=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
-0xCAC2B863=~z~Things ain't exactly gone to plan here, Dess. You know what I mean?
+0xCAC2B863=~z~计划赶不上变化，Dess。你明白我想说什么吗？
 
 ;0xCB717520=~z~There's no way she gonna starve to death in the couple of minutes it takes me to get this foul smelling shit to her. Chill out.
-0xCB717520=~z~There's no way she gonna starve to death in the couple of minutes it takes me to get this foul smelling shit to her. Chill out.
+0xCB717520=~z~她不会两分钟之内拿不到这散发着臭气的外卖就饿死的，冷静点。
 
 ;0xCBF5B26D=010090100090100090010
 0xCBF5B26D=010090100090100090010
 
 ;0xCDB90C4C=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
-0xCDB90C4C=~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?
+0xCDB90C4C=~z~嘿，D。鸟事发生了，老兄。你能帮帮我吗？
 
 ;0xCE837080=SFX_PAUSE_140
 0xCE837080=SFX_PAUSE_140
@@ -411,7 +411,7 @@
 0xD5CDB336=SFX_PAUSE_250
 
 ;0xD68E8B46=~z~It's coming, okay! I mean, I seen photos of Kerry, and I know she don't eat for months at a time. She looks like a famine victim.
-0xD68E8B46=~z~It's coming, okay! I mean, I seen photos of Kerry, and I know she don't eat for months at a time. She looks like a famine victim.
+0xD68E8B46=~z~马上到了，马上！我是说，我看过Kerry的照片，我感觉她几个月都没吃东西了，她看起来就像是饥荒难民一样。
 
 ;0xD68F14F8=E2Tm2_WA
 0xD68F14F8=E2Tm2_WA
@@ -426,7 +426,7 @@
 0xDDF416A9=SFX_PAUSE_220
 
 ;0xDFF246A2=~z~Hold up, L. We got an urgent request from Hercules.
-0xDFF246A2=~z~Hold up, L. We got an urgent request from Hercules.
+0xDFF246A2=~z~暂停工作，L，我们在大力神有紧急状况。
 
 ;0xE0BF6961=SFX_PAUSE_320
 0xE0BF6961=SFX_PAUSE_320
@@ -435,16 +435,16 @@
 0xE0F3C8A3=E2Tm2_NA
 
 ;0xE24A974B=~z~You gonna bring me takeout, too?
-0xE24A974B=~z~You gonna bring me takeout, too?
+0xE24A974B=~z~你也会帮我拿外卖吗？
 
 ;0xE2A7815C=~z~This food is coming to her as fast as it can, you passive aggressive nightmare. Conyo!
-0xE2A7815C=~z~This food is coming to her as fast as it can, you passive aggressive nightmare. Conyo!
+0xE2A7815C=~z~食物很快就到，能有多快就有多快。你真是难以处理的梦魇啊，操了！
 
 ;0xE4DAA7DE=~z~She's, like, super hungry and really needs that takeout.
-0xE4DAA7DE=~z~She's, like, super hungry and really needs that takeout.
+0xE4DAA7DE=~z~她是，呃，超级饥饿，真的很需要那外卖。
 
 ;0xE52DABDE=~z~Oh hi. Danni again. Look I really hope that you aren't still trying to get that stuff from Iron Belly.
-0xE52DABDE=~z~Oh hi. Danni again. Look I really hope that you aren't still trying to get that stuff from Iron Belly.
+0xE52DABDE=~z~噢嗨，又是我Danni。我真希望你仍然在拿Iron Belly外卖。
 
 ;0xE557718A=100090100090100100090010
 0xE557718A=100090100090100100090010
@@ -459,37 +459,37 @@
 0xE6901769=100090100090100010090010
 
 ;0xE8EF74BC=~z~Shit, L. Okay. I'll get on damage control.
-0xE8EF74BC=~z~Shit, L. Okay. I'll get on damage control.
+0xE8EF74BC=~z~草，L。好吧，我尽量止损。
 
 ;0xED1C4B12=~z~No problem, boss.
-0xED1C4B12=~z~No problem, boss.
+0xED1C4B12=~z~没问题，老板。
 
 ;0xEDA85188=E2Tm2_MB
 0xEDA85188=E2Tm2_MB
 
 ;0xEE0CA697=~z~Yeah. I've got it right here. If she can hold on tight, it's coming.
-0xEE0CA697=~z~Yeah. I've got it right here. If she can hold on tight, it's coming.
+0xEE0CA697=~z~对的，我这边拿到了。如果她能稍微等等的话就到了。
 
 ;0xEF18CD2F=~z~Hey, it's Danni on behalf of Kerry McIntosh.
-0xEF18CD2F=~z~Hey, it's Danni on behalf of Kerry McIntosh.
+0xEF18CD2F=~z~嘿，我是Danni，代表Kerry McIntosh与你通电话。
 
 ;0xEFFE344C=SFX_PAUSE_350
 0xEFFE344C=SFX_PAUSE_350
 
 ;0xF09F33F4=~z~Have fun on the food run, boss.
-0xF09F33F4=~z~Have fun on the food run, boss.
+0xF09F33F4=~z~食物之途一路顺风，老板。
 
 ;0xF1B6F0B9=E2Tm2_PA1
 0xF1B6F0B9=E2Tm2_PA1
 
 ;0xF1F7C582=~z~No, girl, I didn't go out my way at all. Thanks for letting me know. Fucking perfect!
-0xF1F7C582=~z~No, girl, I didn't go out my way at all. Thanks for letting me know. Fucking perfect!
+0xF1F7C582=~z~没有，女孩。我一点力气都没费，感谢你让我知道，太他妈好了！
 
 ;0xF1F8861C=E2Tm2_QA1
 0xF1F8861C=E2Tm2_QA1
 
 ;0xF43031A6=~z~Hello. Who is this?
-0xF43031A6=~z~Hello. Who is this?
+0xF43031A6=~z~喂，你是谁？
 
 ;0xF57DAA85=010090100
 0xF57DAA85=010090100
@@ -498,7 +498,7 @@
 0xFA42C695=SFX_PAUSE_250
 
 ;0xFCFAACA4=~z~Coño. I knew I shouldn't have gone on that run, bro.
-0xFCFAACA4=~z~Coño. I knew I shouldn't have gone on that run, bro.
+0xFCFAACA4=~z~草，我想我不该跑这趟的，老兄。
 
 ;0xFDEF7170=E2Tm2_TC2
 0xFDEF7170=E2Tm2_TC2

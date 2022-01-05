@@ -6,28 +6,28 @@
 0x03CD2E4C=E2FAH_AJA
 
 ;0x03FA7AB1=~z~Pool? Great, I play better piss drunk.
-0x03FA7AB1=~z~Pool? Great, I play better piss drunk.
+0x03FA7AB1=~z~台球？好啊，我打醉球更牛逼。
 
 ;0x04C02651=~z~Okay man, let's roll.
-0x04C02651=~z~Okay man, let's roll.
+0x04C02651=~z~好了，哥们，出发吧。
 
 ;0x05E5341A=~z~Fuck man, I am drunk, golf seems like a good idea for some reason.
-0x05E5341A=~z~Fuck man, I am drunk, golf seems like a good idea for some reason.
+0x05E5341A=~z~操，哥们，我醉了。不过打高尔夫是个好主意。
 
 ;0x07406197=~z~Excellent, we gonna get messy.
-0x07406197=~z~Excellent, we gonna get messy.
+0x07406197=~z~太好了，咱们要爽翻了。
 
 ;0x07D82139=~z~I wonder which of you bitches gonna come second?
-0x07D82139=~z~I wonder which of you bitches gonna come second?
+0x07D82139=~z~我在想你们两个臭逼谁第二个到？
 
 ;0x0B2BC98F=E2FAH_HA
 0x0B2BC98F=E2FAH_HA
 
 ;0x0D6C02A0=~z~Fuck but I need a drink.
-0x0D6C02A0=~z~Fuck but I need a drink.
+0x0D6C02A0=~z~操，再给爷来一杯。
 
 ;0x0DB3826C=~z~Excellent, fast food.
-0x0DB3826C=~z~Excellent, fast food.
+0x0DB3826C=~z~太好了，是快餐。
 
 ;0x0EBC0D24=E2FAH_AQA
 0x0EBC0D24=E2FAH_AQA
@@ -42,13 +42,13 @@
 0x14276A1C=100
 
 ;0x15AE15A5=~z~Let's see your pool skills, bitch.
-0x15AE15A5=~z~Let's see your pool skills, bitch.
+0x15AE15A5=~z~展示下你的台球技术吧，臭逼。
 
 ;0x1734BE03=~z~Man, that is some serious faggot
-0x1734BE03=~z~Man, that is some serious faggot
+0x1734BE03=~z~妈呀，这也太基佬了吧。
 
 ;0x182B4EB6=~z~Okay let's see what you got, captain downtown.
-0x182B4EB6=~z~Okay let's see what you got, captain downtown.
+0x182B4EB6=~z~好了，请开始你的表演，城里的大佬。
 
 ;0x1852628A=200
 0x1852628A=200
@@ -57,25 +57,25 @@
 0x190CDE5A=E2FAH_BA
 
 ;0x19888F04=~z~Let's play some fucking darts
-0x19888F04=~z~Let's play some fucking darts
+0x19888F04=~z~玩会儿傻逼飞镖吧。
 
 ;0x1999C4BC=~z~Let's see which one of you fools is coming second.
-0x1999C4BC=~z~Let's see which one of you fools is coming second.
+0x1999C4BC=~z~看看哪个傻逼第二个到。
 
 ;0x1A4A7EA7=E2FAH_AKA
 0x1A4A7EA7=E2FAH_AKA
 
 ;0x1D4ECD47=~z~This gonna be embarrassing
-0x1D4ECD47=~z~This gonna be embarrassing
+0x1D4ECD47=~z~这会很尴尬的。
 
 ;0x1D94985C=200
 0x1D94985C=200
 
 ;0x1E3F9F3E=~z~Now, here the women will definitely speak to us.
-0x1E3F9F3E=~z~Now, here the women will definitely speak to us.
+0x1E3F9F3E=~z~这儿的娘们肯定会跟我们搭话。
 
 ;0x1E497197=~z~Let's play sine fucking airhockey.
-0x1E497197=~z~Let's play sine fucking airhockey.
+0x1E497197=~z~开始打傻逼桌上冰球吧。
 
 ;0x1E8A6A35=E2FAH_AA
 0x1E8A6A35=E2FAH_AA
@@ -87,16 +87,16 @@
 0x1FCB4C27=E2FAH_ACA
 
 ;0x2051166E=~z~You never had much of a pool game, L.
-0x2051166E=~z~You never had much of a pool game, L.
+0x2051166E=~z~你没怎么打过台球吧，L。
 
 ;0x21E9E2BA=E2FAH_AAA
 0x21E9E2BA=E2FAH_AAA
 
 ;0x238A2551=~z~Boys, let's eat.
-0x238A2551=~z~Boys, let's eat.
+0x238A2551=~z~伙计们，开吃吧。
 
 ;0x23EDF882=~z~Let's bowl some fucking balls.
-0x23EDF882=~z~Let's bowl some fucking balls.
+0x23EDF882=~z~进去投几发保龄球吧。
 
 ;0x29F8D75A=100
 0x29F8D75A=100
@@ -105,13 +105,13 @@
 0x2C74BD0A=E2FAH_AIA
 
 ;0x2CB5D61B=~z~Getting expensive tastes, huh L?
-0x2CB5D61B=~z~Getting expensive tastes, huh L?
+0x2CB5D61B=~z~眼光变高了是吧，L？
 
 ;0x2E3452AB=~z~Doesn't seem like your kind of thing, somehow.
-0x2E3452AB=~z~Doesn't seem like your kind of thing, somehow.
+0x2E3452AB=~z~感觉这个不太像你玩的东西。
 
 ;0x2F768E4E=~z~Okay, let's try and soak up some of this booze.
-0x2F768E4E=~z~Okay, let's try and soak up some of this booze.
+0x2F768E4E=~z~好了，咱们来喝点酒吧。
 
 ;0x2FF9FB07=E2FAH_CA
 0x2FF9FB07=E2FAH_CA
@@ -123,31 +123,31 @@
 0x3260EE46=100
 
 ;0x32F7ADC9=~z~Sure, I think I want another drunk.
-0x32F7ADC9=~z~Sure, I think I want another drunk.
+0x32F7ADC9=~z~可以的，我觉得我想再喝一顿。
 
 ;0x33D88305=E2FAH_AFA
 0x33D88305=E2FAH_AFA
 
 ;0x3463C704=~z~Let's eat.
-0x3463C704=~z~Let's eat.
+0x3463C704=~z~开吃吧。
 
 ;0x351E9AF7=~z~Okay, let's play us some bowling.
-0x351E9AF7=~z~Okay, let's play us some bowling.
+0x351E9AF7=~z~好了，打会儿保龄球吧。
 
 ;0x367016B4=~z~Great, bitches love drunken slobs.
-0x367016B4=~z~Great, bitches love drunken slobs.
+0x367016B4=~z~好啊，婊子最爱喝醉的懒狗。
 
 ;0x39C0A2E2=~z~ Let's eat homies, fuck, I'm drunk after all.
-0x39C0A2E2=~z~ Let's eat homies, fuck, I'm drunk after all.
+0x39C0A2E2=~z~ 开吃吧，哥们儿。操，到头来我还是喝高了。
 
 ;0x3B87B464=200
 0x3B87B464=200
 
 ;0x3BF46AA8=~z~Great, I can keep drinking.
-0x3BF46AA8=~z~Great, I can keep drinking.
+0x3BF46AA8=~z~好啊，我可以一直喝酒。
 
 ;0x3CA0F141=~z~Not this shit, let's go someplace else.
-0x3CA0F141=~z~Not this shit, let's go someplace else.
+0x3CA0F141=~z~别了吧，能不能去其他地方。
 
 ;0x3D3E09AF=200
 0x3D3E09AF=200
@@ -156,55 +156,55 @@
 0x3F0B36F7=E2FAH_ZA
 
 ;0x3F69F516=~z~Yeah, you were always shit at darts, L.
-0x3F69F516=~z~Yeah, you were always shit at darts, L.
+0x3F69F516=~z~对，你飞镖一直很菜，L。
 
 ;0x41821B7D=~z~All that cock taugth you to dance, man.
-0x41821B7D=~z~All that cock taugth you to dance, man.
+0x41821B7D=~z~跟基佬学的舞真不错啊，哥们。
 
 ;0x4243AE03=100
 0x4243AE03=100
 
 ;0x43C4F1D2=~z~You hustle pool, L, or just cock?
-0x43C4F1D2=~z~You hustle pool, L, or just cock?
+0x43C4F1D2=~z~你是台球高手吗，L？还是菜鸡废物？
 
 ;0x4408FA0A=~z~Wonder if you any good at darts these days, L?
-0x4408FA0A=~z~Wonder if you any good at darts these days, L?
+0x4408FA0A=~z~现在你学会投飞镖了吗，L？
 
 ;0x442F9B97=~z~L, A, I'm jonesing for a drink.
-0x442F9B97=~z~L, A, I'm jonesing for a drink.
+0x442F9B97=~z~L，A，我喝酒喝上瘾了。
 
 ;0x479F33C9=~z~Okay, let's see if you can still dance.
-0x479F33C9=~z~Okay, let's see if you can still dance.
+0x479F33C9=~z~好了，看看你还会不会跳舞。
 
 ;0x47CF6B91=~z~Okay, okay...shit, I'm still drunk...darts should be fun.
-0x47CF6B91=~z~Okay, okay...shit, I'm still drunk...darts should be fun.
+0x47CF6B91=~z~好吧，好吧...操，我还醉着呢...飞个飞镖也不错。
 
 ;0x48AD1CD7=100
 0x48AD1CD7=100
 
 ;0x48CDF45A=~z~Here we go.
-0x48CDF45A=~z~Here we go.
+0x48CDF45A=~z~要来咯。
 
 ;0x48D0943C=100
 0x48D0943C=100
 
 ;0x4C15989E=~z~Hey, L, let's get a car.
-0x4C15989E=~z~Hey, L, let's get a car.
+0x4C15989E=~z~嘿，L，弄辆车吧。
 
 ;0x4D73AFD5=200
 0x4D73AFD5=200
 
 ;0x4E80B039=~z~For real, let's get piss drunk.
-0x4E80B039=~z~For real, let's get piss drunk.
+0x4E80B039=~z~说真的，一起去大喝一顿吧。
 
 ;0x4E9971C4=~z~Luis-motherfucking-Lopez, is in the house!
-0x4E9971C4=~z~Luis-motherfucking-Lopez, is in the house!
+0x4E9971C4=~z~傻逼Luis Lopez降临啦！
 
 ;0x4F10688C=~z~Let's go meet some ladies.
-0x4F10688C=~z~Let's go meet some ladies.
+0x4F10688C=~z~一起去看妹吧。
 
 ;0x4F7FF4CB=~z~You always were shit at pool
-0x4F7FF4CB=~z~You always were shit at pool
+0x4F7FF4CB=~z~你打台球总是这么菜。
 
 ;0x4F9AF8A7=100
 0x4F9AF8A7=100
@@ -216,40 +216,40 @@
 0x52525B2F=100
 
 ;0x52C9178E=~z~You any good at darts, L?
-0x52C9178E=~z~You any good at darts, L?
+0x52C9178E=~z~你很会玩飞镖吗，L？
 
 ;0x575941E2=E2FAH_UA
 0x575941E2=E2FAH_UA
 
 ;0x575B167D=~z~I need another fucking drink.
-0x575B167D=~z~I need another fucking drink.
+0x575B167D=~z~再给老子来一杯。
 
 ;0x583783F8=~z~Man, I love golf.
-0x583783F8=~z~Man, I love golf.
+0x583783F8=~z~哥们，我爱高尔夫。
 
 ;0x58DF4F74=E2FAH_ABA
 0x58DF4F74=E2FAH_ABA
 
 ;0x592B9442=~z~I want a fucking drink.
-0x592B9442=~z~I want a fucking drink.
+0x592B9442=~z~我他妈想喝酒。
 
 ;0x5A1D9F04=~z~We might use you instead of the puck, A.
-0x5A1D9F04=~z~We might use you instead of the puck, A.
+0x5A1D9F04=~z~拿你的头当冰球打，A。
 
 ;0x5AE8A09A=~z~I hope the puck knocks out one of your teeth, A.
-0x5AE8A09A=~z~I hope the puck knocks out one of your teeth, A.
+0x5AE8A09A=~z~我祝你被冰球打掉门牙，A。
 
 ;0x5B5FB36E=~z~Look at you, Mrs. Tony Prince.
-0x5B5FB36E=~z~Look at you, Mrs. Tony Prince.
+0x5B5FB36E=~z~你看看你，Tony Prince太太。
 
 ;0x5CEF5708=~z~Okay, let's play some fucking pool.
-0x5CEF5708=~z~Okay, let's play some fucking pool.
+0x5CEF5708=~z~好啊，打会儿傻逼台球吧。
 
 ;0x5D783B63=~z~L, man, good to see you, but we gonna need wheels.
-0x5D783B63=~z~L, man, good to see you, but we gonna need wheels.
+0x5D783B63=~z~L，哥们，见到你真好，但咱们得弄辆车。
 
 ;0x5F9A5D93=~z~Let's see what your handicap is, apart from the obvious
-0x5F9A5D93=~z~Let's see what your handicap is, apart from the obvious
+0x5F9A5D93=~z~除了一眼就能看到的，看看你还有哪里残了。
 
 ;0x5FFEB2FC=100
 0x5FFEB2FC=100
@@ -261,7 +261,7 @@
 0x633E7155=E2FAH_OA
 
 ;0x638A2E20=~z~Man, I love this place.
-0x638A2E20=~z~Man, I love this place.
+0x638A2E20=~z~哥们，我爱这家店。
 
 ;0x6480215B=200
 0x6480215B=200
@@ -270,7 +270,7 @@
 0x66634C9E=E2FAH_AHA
 
 ;0x676230AF=~z~I want a drink.
-0x676230AF=~z~I want a drink.
+0x676230AF=~z~我想喝酒。
 
 ;0x684C5198=E2FAH_AGA
 0x684C5198=E2FAH_AGA
@@ -279,7 +279,7 @@
 0x68DBCF3E=200
 
 ;0x6A47CEDD=~z~You boys up for a drink?
-0x6A47CEDD=~z~You boys up for a drink?
+0x6A47CEDD=~z~一起喝几杯吗？
 
 ;0x6B35E713=E2FAH_SA
 0x6B35E713=E2FAH_SA
@@ -288,7 +288,7 @@
 0x707CD1A8=E2FAH_ARA
 
 ;0x708A6187=~z~Hey man, we gonna need a car.
-0x708A6187=~z~Hey man, we gonna need a car.
+0x708A6187=~z~嘿哥们，给咱弄辆车。
 
 ;0x70D43265=200
 0x70D43265=200
@@ -297,7 +297,7 @@
 0x73ED1BE4=E2FAH_GA
 
 ;0x74A9E3A1=~z~Let's grab a drink.
-0x74A9E3A1=~z~Let's grab a drink.
+0x74A9E3A1=~z~去喝几杯吧。
 
 ;0x75460C3C=E2FAH_KA
 0x75460C3C=E2FAH_KA
@@ -321,10 +321,10 @@
 0x7BE1E144=200
 
 ;0x7C3B404F=~z~I think I need another little drink.
-0x7C3B404F=~z~I think I need another little drink.
+0x7C3B404F=~z~我还想再喝一点。
 
 ;0x7DCB97D1=~z~I am hungry as hell.
-0x7DCB97D1=~z~I am hungry as hell.
+0x7DCB97D1=~z~我饿死了。
 
 ;0x7FF3D68A=100
 0x7FF3D68A=100
@@ -342,13 +342,13 @@
 0x8520CFD8=200
 
 ;0x85918329=~z~Not this bullshit.
-0x85918329=~z~Not this bullshit.
+0x85918329=~z~换个地儿吧。
 
 ;0x85D88C23=~z~Homie, we gonna need a car.
-0x85D88C23=~z~Homie, we gonna need a car.
+0x85D88C23=~z~哥们儿，我们需要车。
 
 ;0x865BCC92=~z~I better get laid in here.
-0x865BCC92=~z~I better get laid in here.
+0x865BCC92=~z~我最好能来上一炮。
 
 ;0x86660C48=E2FAH_LA
 0x86660C48=E2FAH_LA
@@ -357,19 +357,20 @@
 0x86C6B74D=E2FAH_RA
 
 ;0x8712B673=~z~Golf. Genius! Come on then, let's do this.
-0x8712B673=~z~Golf. Genius! Come on then, let's do this.
+0x8712B673=~z~高尔夫？可以啊！那来吧，进去打球吧。
 
 ;0x88A1DDAF=~z~Come on, L, I can't be doing this right now.
-0x88A1DDAF=~z~Come on, L, I can't be doing this right now.
+0x88A1DDAF=~z~拜托，L，现在来这里太不合适了。
 
 ;0x89F2676D=~z~Yeah, let's play some fucking golf.
-0x89F2676D=~z~Yeah, let's play some fucking golf.
+0x89F2676D=~z~好啊，打一会儿高尔夫球吧。
 
 ;0x8B3348F4=~z~Nice place, this.
-0x8B3348F4=~z~Nice place, this.
+0x8B3348F4=~z~这店好。
+;"this"配音没配
 
 ;0x8B8902A4=~z~Yeah, I had to listen to his whining, so you owe me.
-0x8B8902A4=~z~Yeah, I had to listen to his whining, so you owe me.
+0x8B8902A4=~z~是啊，我不得不听他抱怨，所以你欠我人情。
 
 ;0x8BFA7ED2=100
 0x8BFA7ED2=100
@@ -384,49 +385,49 @@
 0x8D265FC5=200
 
 ;0x8D4F3AC9=~z~Line up the shots then, L.
-0x8D4F3AC9=~z~Line up the shots then, L.
+0x8D4F3AC9=~z~把酒满上吧，L。
 
 ;0x8DAC9B84=~z~Let's grab a bite.
-0x8DAC9B84=~z~Let's grab a bite.
+0x8DAC9B84=~z~一起吃一顿吧。
 
 ;0x8DE1EBA0=~z~I hope you can bowl, L.
-0x8DE1EBA0=~z~I hope you can bowl, L.
+0x8DE1EBA0=~z~希望你会打保龄球，L。
 
 ;0x8F42BABF=~z~Shit I could eat a dog, or a horse.
-0x8F42BABF=~z~Shit I could eat a dog, or a horse.
+0x8F42BABF=~z~操，我能吃下一条狗，或者是一匹马。
 
 ;0x9101860A=100
 0x9101860A=100
 
 ;0x9820A847=~z~Can't we do something different?
-0x9820A847=~z~Can't we do something different?
+0x9820A847=~z~就不能整点别的吗？
 
 ;0x9971576C=~z~Okay pretty boy, let's see if you can shake it for women, not men.
-0x9971576C=~z~Okay pretty boy, let's see if you can shake it for women, not men.
+0x9971576C=~z~好了靓仔，看看你能不能为女人跳舞，而不是为男人。
 
 ;0x99D1F37E=~z~Man, I hope no stripper falls in love with me again.
-0x99D1F37E=~z~Man, I hope no stripper falls in love with me again.
+0x99D1F37E=~z~哥们，希望不要又有脱衣小妹被我迷倒了。
 
 ;0x9B1048CC=~z~Man this shit should be fucking funny.
-0x9B1048CC=~z~Man this shit should be fucking funny.
+0x9B1048CC=~z~哥们，这玩意应该有点意思。
 
 ;0x9DDB8822=~z~Not now with this bullshit, man.
-0x9DDB8822=~z~Not now with this bullshit, man.
+0x9DDB8822=~z~现在来这个不是时候，哥们。
 
 ;0x9F9B8F17=~z~Let's see if you can bowl, muscles.
-0x9F9B8F17=~z~Let's see if you can bowl, muscles.
+0x9F9B8F17=~z~看看你会不会打保龄球，肌肉男。
 
 ;0x9FA0DF6C=~z~Okay then L, let's do shots.
-0x9FA0DF6C=~z~Okay then L, let's do shots.
+0x9FA0DF6C=~z~那好啊，L，喝几杯吧。
 
 ;0x9FA83F7B=~z~You boys hungry?
-0x9FA83F7B=~z~You boys hungry?
+0x9FA83F7B=~z~伙计们饿吗？
 
 ;0xA0217728=E2FAH_IA
 0xA0217728=E2FAH_IA
 
 ;0xA0AB2CE8=~z~Yeah, you late bro.
-0xA0AB2CE8=~z~Yeah, you late bro.
+0xA0AB2CE8=~z~是啊，你迟到了，兄弟。
 
 ;0xA19B3094=E2FAH_AOA
 0xA19B3094=E2FAH_AOA
@@ -435,10 +436,10 @@
 0xA2D36A81=E2FAH_AUA
 
 ;0xA3C31F6E=~z~Yeah, you was both always shit at this.
-0xA3C31F6E=~z~Yeah, you was both always shit at this.
+0xA3C31F6E=~z~是啊，你们的球技都很烂。
 
 ;0xA5DE9ED1=~z~I am gonna get shitfaced now.
-0xA5DE9ED1=~z~I am gonna get shitfaced now.
+0xA5DE9ED1=~z~我就要喝个烂醉了。
 
 ;0xA5FF7214=100
 0xA5FF7214=100
@@ -450,16 +451,16 @@
 0xA8808DAB=200
 
 ;0xA9164A32=~z~Come on, L, what you thinking, man?
-0xA9164A32=~z~Come on, L, what you thinking, man?
+0xA9164A32=~z~拜托，L，你在想什么啊，哥们？
 
 ;0xAAD26721=E2FAH_ATA
 0xAAD26721=E2FAH_ATA
 
 ;0xAC2C22C2=~z~Luis man, I'm sorry, but the strippers at this joint are women...not men.
-0xAC2C22C2=~z~Luis man, I'm sorry, but the strippers at this joint are women...not men.
+0xAC2C22C2=~z~Luis，哥们，我很抱歉，但这里的脱衣舞者都是女人...不是男的。
 
 ;0xADD1F32D=~z~You got moves, L.
-0xADD1F32D=~z~You got moves, L.
+0xADD1F32D=~z~舞步不错，L。
 
 ;0xB1954831=E2FAH_CMA
 0xB1954831=E2FAH_CMA
@@ -474,19 +475,19 @@
 0xB39BEA26=200
 
 ;0xB3A8B3BC=~z~Are you joking? I can't do this now.
-0xB3A8B3BC=~z~Are you joking? I can't do this now.
+0xB3A8B3BC=~z~你搞笑呢？现在怎么能干这个。
 
 ;0xB3B47FE8=~z~You sure know how to shake it, you fucking bitch.
-0xB3B47FE8=~z~You sure know how to shake it, you fucking bitch.
+0xB3B47FE8=~z~你也太会跳舞了吧，你妈个臭逼。
 
 ;0xB49475E8=100
 0xB49475E8=100
 
 ;0xB5137D79=~z~Now, I show you btches how to dance.
-0xB5137D79=~z~Now, I show you btches how to dance.
+0xB5137D79=~z~现在，轮到老子教你们跳舞了。
 
 ;0xB51E11A0=~z~Yeah, we can't exactly walk.
-0xB51E11A0=~z~Yeah, we can't exactly walk.
+0xB51E11A0=~z~嗯，总不能走着去吧。
 
 ;0xB6516C97=100
 0xB6516C97=100
@@ -495,13 +496,13 @@
 0xB74D241F=E2FAH_JA
 
 ;0xB8A984C1=~z~Let's do some fucking dancing.
-0xB8A984C1=~z~Let's do some fucking dancing.
+0xB8A984C1=~z~咱们他妈的来跳舞吧。
 
 ;0xB97BBFFD=200
 0xB97BBFFD=200
 
 ;0xBCEA2C61=~z~Man, I'm hungry.
-0xBCEA2C61=~z~Man, I'm hungry.
+0xBCEA2C61=~z~哥们，我饿了。
 
 ;0xBF084A58=E2FAH_AMA
 0xBF084A58=E2FAH_AMA
@@ -516,7 +517,7 @@
 0xC6A6E055=200
 
 ;0xC6F4B54D=~z~Yeah, what we gonna do, walk?
-0xC6F4B54D=~z~Yeah, what we gonna do, walk?
+0xC6F4B54D=~z~好啊，接下来咋整，走着去？
 
 ;0xC7FC59BE=200
 0xC7FC59BE=200
@@ -528,28 +529,29 @@
 0xCD4310D1=100
 
 ;0xCDCD6805=~z~I can't be doing this just now, homie.
-0xCDCD6805=~z~I can't be doing this just now, homie.
+0xCDCD6805=~z~现在做不来这个啊，哥们儿。
 
 ;0xCF8A52F8=~z~You lost your fucking watch?
-0xCF8A52F8=~z~You lost your fucking watch?
+0xCF8A52F8=~z~你他妈表丢了？
 
 ;0xD103ED6F=E2FAH_ALA
 0xD103ED6F=E2FAH_ALA
 
 ;0xD1DA3B3D=~z~You can definitely dance, L.
-0xD1DA3B3D=~z~You can definitely dance, L.
+0xD1DA3B3D=~z~你太会跳舞了，L。
 
 ;0xD31242F6=~z~Hey L, let's go.
-0xD31242F6=~z~Hey L, let's go.
+0xD31242F6=~z~嘿，L，走吧。
 
 ;0xD41AD207=~z~Fantastic, naked Russians.
-0xD41AD207=~z~Fantastic, naked Russians.
+0xD41AD207=~z~爽呆了，裸体毛妹。
 
 ;0xD4A00188=~z~Yeah, you always had two left feet, Luis.
-0xD4A00188=~z~Yeah, you always had two left feet, Luis.
+0xD4A00188=~z~对，你跳起舞来笨手笨脚的，L。
+;最后的"Luis"在配音中为"L"
 
 ;0xD91E06D3=~z~Good to see you, bro.
-0xD91E06D3=~z~Good to see you, bro.
+0xD91E06D3=~z~很高兴见到你，兄弟。
 
 ;0xD95E72C4=100
 0xD95E72C4=100
@@ -558,10 +560,11 @@
 0xD9FA9C86=200
 
 ;0xDA35D197=~z~Let's do this...pool. Fucking A!
-0xDA35D197=~z~Let's do this...pool. Fucking A!
+0xDA35D197=~z~台球...来吧。进去打一会儿吧。
+;配音的后半句不是"Fucking A"，空耳一下是"啊哦啦 let's go" 推测是个西班牙语，不懂
 
 ;0xE1BCEADD=~z~Yeah, we ain't gonna walk.
-0xE1BCEADD=~z~Yeah, we ain't gonna walk.
+0xE1BCEADD=~z~嗯，走路是不可能的。
 
 ;0xE5AB58D0=E2FAH_VA
 0xE5AB58D0=E2FAH_VA
@@ -573,10 +576,10 @@
 0xE8237B52=100
 
 ;0xE84728D6=~z~That's why you went down town, no one can dance down there.
-0xE84728D6=~z~That's why you went down town, no one can dance down there.
+0xE84728D6=~z~这就是你进城的原因了，城里人都不会跳舞。
 
 ;0xEA937C92=~z~Yeah, where's the car?
-0xEA937C92=~z~Yeah, where's the car?
+0xEA937C92=~z~嗯，你车子呢？
 
 ;0xEAA26C5B=E2FAH_ANA
 0xEAA26C5B=E2FAH_ANA
@@ -585,7 +588,7 @@
 0xECCEEE1B=100
 
 ;0xECF2B1CC=~z~Hopefully, he'll drop the ball on your feet, A.
-0xECF2B1CC=~z~Hopefully, he'll drop the ball on your feet, A.
+0xECF2B1CC=~z~依我看，他会拿起球砸你的脚，A。
 
 ;0xED7E6F16=E2FAH_TA
 0xED7E6F16=E2FAH_TA
@@ -594,22 +597,22 @@
 0xEE305F17=E2FAH_NA
 
 ;0xEE88C677=~z~Brilliant, a bar with a golf club attached.
-0xEE88C677=~z~Brilliant, a bar with a golf club attached.
+0xEE88C677=~z~太棒了，贴着高尔夫球场的酒吧。
 
 ;0xEFD394AC=~z~So let's play some airhockey, homos.
-0xEFD394AC=~z~So let's play some airhockey, homos.
+0xEFD394AC=~z~那就去打桌上冰球吧，基佬。
 
 ;0xF0637D98=~z~Good to see you, L.
-0xF0637D98=~z~Good to see you, L.
+0xF0637D98=~z~见到你真好，L。
 
 ;0xF2EC3A6F=~z~Interesting ride, L.
-0xF2EC3A6F=~z~Interesting ride, L.
+0xF2EC3A6F=~z~座驾不错，L。
 
 ;0xF5711CCD=200
 0xF5711CCD=200
 
 ;0xF5B6083D=~z~Cool man, let's roll.
-0xF5B6083D=~z~Cool man, let's roll.
+0xF5B6083D=~z~好了，哥们，出发吧。
 
 ;0xF5F0C6C7=100
 0xF5F0C6C7=100
@@ -618,16 +621,17 @@
 0xF9AE19E3=100
 
 ;0xFC95AD0E=~z~Where the fuck you been, bro?
-0xFC95AD0E=~z~Where the fuck you been, bro?
+0xFC95AD0E=~z~你他妈去哪儿了，兄弟？
 
 ;0xFCAF08FC=~z~Keeping it real, huh L?
-0xFCAF08FC=~z~Keeping it real, huh L?
+0xFCAF08FC=~z~活出真我吧，L。
 
 ;0xFCD2630A=~z~Man, I just want another drink.
-0xFCD2630A=~z~Man, I just want another drink.
+0xFCD2630A=~z~哥们，我只想再喝一波...一杯。
+;配音为"Man, I just want another drunk... drink." 有一个口误更正
 
 ;0xFD78CF88=~z~Yeah, let's roll.
-0xFD78CF88=~z~Yeah, let's roll.
+0xFD78CF88=~z~好，出发吧。
 
 ;0xFE3C0734=E2FAH_DA
 0xFE3C0734=E2FAH_DA

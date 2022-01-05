@@ -1,76 +1,76 @@
 ﻿[YUSUF1]
 ;0x006ADCE2=Get a boat from the ~y~marina.
-0x006ADCE2=Get a boat from the ~y~marina.
+0x006ADCE2=前往~y~码头，~s~找一条船。
 
 ;0x0718F93C=Lose the cops.
-0x0718F93C=Lose the cops.
+0x0718F93C=甩掉警察。
 
 ;0x0A187204=The Buzzard helicopter is on a yacht located to the west of Happiness Island.
-0x0A187204=The Buzzard helicopter is on a yacht located to the west of Happiness Island.
+0x0A187204=秃鹰直升机停在幸福岛西侧的一艘游轮上。
 
 ;0x0AFD8F70=Get back to the ~r~yacht~s~ before the arms dealers escape.
-0x0AFD8F70=Get back to the ~r~yacht~s~ before the arms dealers escape.
+0x0AFD8F70=在军火商逃走前回到~r~游轮~s~上。
 
 ;0x0E524585=~r~You abandoned the chopper.
-0x0E524585=~r~You abandoned the chopper.
+0x0E524585=~r~你抛弃了直升机。
 
 ;0x0F6CA219=~r~The chopper was destroyed.
-0x0F6CA219=~r~The chopper was destroyed.
+0x0F6CA219=~r~直升机被毁了。
 
 ;0x1A2DA84B=~s~Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
-0x1A2DA84B=~s~Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
+0x1A2DA84B=~s~按住~INPUT_VEH_HANDBRAKE_ALT~使用机枪。按下~INPUT_VEH_ATTACK2~发射火箭弹。
 
 ;0x1C8632B1=Yusuf has provided a ~b~boat~s~ to get to the yacht.
-0x1C8632B1=Yusuf has provided a ~b~boat~s~ to get to the yacht.
+0x1C8632B1=Yusuf给了一艘~b~船~s~让你前往游轮。
 
 ;0x211922C4=Take out the ~r~reinforcements.
-0x211922C4=Take out the ~r~reinforcements.
+0x211922C4=干掉~r~援军。
 
 ;0x230201A3=Take out the fleeing ~r~arms dealers.
-0x230201A3=Take out the fleeing ~r~arms dealers.
+0x230201A3=干掉逃跑的~r~军火贩子。
 
 ;0x26E62629=~s~Get in the ~b~chopper.
-0x26E62629=~s~Get in the ~b~chopper.
+0x26E62629=~s~进入~b~直升机。
 
 ;0x2D89A28C=When in a helicopter, an altimeter will appear over the radar. This indicates your height above sea level.
-0x2D89A28C=When in a helicopter, an altimeter will appear over the radar. This indicates your height above sea level.
+0x2D89A28C=驾驶直升机时，小地图上会显示高度计，指示当前的海拔高度。
 
 ;0x31038FC9=~r~The arms dealers got away.
-0x31038FC9=~r~The arms dealers got away.
+0x31038FC9=~r~军火商逃走了。
 
 ;0x3212F0CB=You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns.
-0x3212F0CB=You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns.
+0x3212F0CB=使用机枪更加容易击沉船只。按住~INPUT_VEH_HANDBRAKE_ALT~使用机枪。
 
 ;0x42A736BD=~s~Destroy the ~r~yacht.
-0x42A736BD=~s~Destroy the ~r~yacht.
+0x42A736BD=~s~摧毁~r~游轮。
 
 ;0x539CBA37=You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns.
-0x539CBA37=You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns.
+0x539CBA37==使用机枪更加容易击沉船只。按住~INPUT_VEH_ATTACK3_KB~使用机枪。
 
 ;0x54BB3AD4=Watch out for patrolling boats protecting the yacht.
-0x54BB3AD4=Watch out for patrolling boats protecting the yacht.
+0x54BB3AD4=当心保护游轮的巡逻艇。
 
 ;0x632E49E7=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the patrol boat.
-0x632E49E7=~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the patrol boat.
+0x632E49E7=~s~按住~INPUT_VEH_CIN_CAM~将镜头对准巡逻艇。
 
 ;0x7039F1CD=Take the chopper to the ~y~helipad.
-0x7039F1CD=Take the chopper to the ~y~helipad.
+0x7039F1CD=驾驶直升机前往~y~停机坪。
 
 ;0xA210B577=~s~Approach the yacht quietly to avoid alerting the patrol boat.
-0xA210B577=~s~Approach the yacht quietly to avoid alerting the patrol boat.
+0xA210B577=~s~悄悄接近游轮，避免惊动巡逻艇。
 
 ;0xA981CE22=Get on board the ~b~yacht.
-0xA981CE22=Get on board the ~b~yacht.
+0xA981CE22=登上~b~游轮。
 
 ;0xB1D6D95C=Steal the ~b~chopper.
-0xB1D6D95C=Steal the ~b~chopper.
+0xB1D6D95C=偷走~b~直升机。
 
 ;0xBABD285B=~s~Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
-0xBABD285B=~s~Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.
+0xBABD285B=~s~按住~INPUT_VEH_ATTACK3_KB~使用机枪。按下~INPUT_VEH_ATTACK2~发射火箭弹。
 
 ;0xFA3DA7A0=You were spotted by the patrol boat.
-0xFA3DA7A0=You were spotted by the patrol boat.
+0xFA3DA7A0=你被巡逻艇发现了。
 
 ;0xFE0EC0A0=The ~r~arms dealers~s~ are fleeing on foot.
-0xFE0EC0A0=The ~r~arms dealers~s~ are fleeing on foot.
+0xFE0EC0A0=~r~军火贩子~s~正在徒步逃离。
 
