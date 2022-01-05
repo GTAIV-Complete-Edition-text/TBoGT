@@ -252,7 +252,7 @@
 0xA1C03C1D=玩家受伤
 
 ;0xE57FC39B=Good Guy
-0xE57FC39B=好人
+0xE57FC39B=好人一生平安
 
 ;0xF73C6714=Groove On
 0xF73C6714=舞力全开
@@ -852,7 +852,7 @@
 0x796A5AF5=你无法在被通缉时进入夜店。
 
 ;0x0ACAE920=You are barred from the club for causing trouble.
-0x0ACAE920=你太会惹是生非，已被夜店禁入。
+0x0ACAE920=你太会惹是生非，已被夜店拉黑。
 
 ;0x9D3D0108=The club is currently closed.
 0x9D3D0108=夜店尚未开门。
@@ -1110,7 +1110,7 @@
 0xD5097FA1=一骑绝尘
 
 ;0x5213AFC4=Bomb Accuracy
-0x5213AFC4=炸弹命中率
+0x5213AFC4=黏弹命中率
 
 ;0x194C8554=Escape Cops Time
 0x194C8554=摆脱警察用时
@@ -1122,7 +1122,7 @@
 0xA7DCADAF=舞力全开
 
 ;0xEB1800E0=Good Guy
-0xEB1800E0=好人
+0xEB1800E0=好人一生平安
 
 ;0x3C065648=Rocket Accuracy
 0x3C065648=火箭筒命中率
@@ -1299,7 +1299,7 @@
 0xBAE254B6=~BLIP_108~图标表示毒品战争的集合地点。帮助Armando和Henrique建立毒品帝国，你也能得到奖励。
 
 ;0xBE604B51=Drug Wars become more challenging as you progress but will unlock new weaponry in your safehouse.
-0xBE604B51=随着进度推进，毒品战争会变得更富挑战性，但同时也会在你的安全屋中解锁新的武器装备。
+0xBE604B51=随着进度推进，毒品战争会变得更富挑战性，但你的安全屋中也会解锁新的武器装备。
 
 ;0xB673C25B=Lose the cops before starting a Drug War.
 0xB673C25B=摆脱通缉才能开始毒品战争。
@@ -1626,7 +1626,7 @@
 0x5020E957=Tony
 
 ;0xAF08D5FA=Could do with some help at Maisonette. Come by during opening hours or I'll see you at the loft. T xx
-0xAF08D5FA=你可以来豪宅给我打下手。营业的时候我在店里，其他时间来公寓找我。 T么么哒
+0xAF08D5FA=你可以来豪宅给我打下手。营业的时候我在店里，其他时间来公寓找我。 T 么么哒
 
 ;0xFB446E74=PLACEHOLDER
 0xFB446E74=PLACEHOLDER
@@ -1713,7 +1713,7 @@
 0x9511C8DF=妈的，兄弟。需要什么家伙了就打个电话，我有一车的货，可以便宜卖给你。
 
 ;0x6DF4FA9E=Yo, L. I got hold of some parachutes. You need one of them or any other hardware, call me and I'll come by in the van. Later.
-0x6DF4FA9E=哟，L。我进了一些降落伞。需要降落伞或者其他装备，就给我打个电话。我会开车过来的。回见。
+0x6DF4FA9E=哟，L。我进了一些降落伞。需要降落伞之类的装备，就给我打个电话。我会开车过来的。回见。
 
 ;0x9825F960=Mom
 0x9825F960=妈
@@ -1971,7 +1971,7 @@
 0x0878FE62=喂，你这个自大狂，你他妈人呢？算了，兄弟。
 
 ;0xD6BB1AE7=Listen bruv, can't keep doing this. I'm an independent woman, innit. Latz.
-0xD6BB1AE7=听着，兄弟，不能再这样了。我是一个独立女性，懂吧。再见。
+0xD6BB1AE7=听着，兄弟，不能再这样了。我是独立女性，懂吧。再见。
 
 ;0x7A1C87FC=Lily
 0x7A1C87FC=Lily
@@ -2106,13 +2106,13 @@
 0x4FE4B898=THIS LABEL NEEDS TO BE HERE !!!
 
 ;0xE2C1DD00=~s~Tony is not here during the day. Go to his apartment.
-0xE2C1DD00=~s~Tony白天不在这儿。去他的公寓找他。
+0xE2C1DD00=~s~Tony白天不在这儿。去公寓找他。
 
 ;0xB44DFB2A=~s~Tony is not here during the day. Try again between 7pm and 7am.
 0xB44DFB2A=~s~Tony白天不在这儿。晚七点到早七点间再来吧。
 
 ;0xFD21F166=~s~Tony is not at home at night. He is working in the clubs.
-0xFD21F166=~s~Tony晚上不在家。他现在在夜店上班。
+0xFD21F166=~s~Tony晚上不在家。他在夜店上班。
 
 ;0x82651A2B=~s~Tony is not at home at night. Try again between 7am and 7pm.
 0x82651A2B=~s~Tony晚上不在家。早七点到晚七点间再来吧。
@@ -2124,7 +2124,7 @@
 0x664C8571=~s~请在非任务期间再来。
 
 ;0x0CB34E6F=~s~Another fight will be on soon, come back in a while.
-0x0CB34E6F=~s~下一场比赛还在准备，过会儿再来吧。
+0x0CB34E6F=~s~下场比赛还在准备，过会儿再来吧。
 
 ;0x24C0D9B2=~s~Repeatedly hit ~INPUT_SPRINT~ to escape the crowd.
 0x24C0D9B2=~s~连按~INPUT_SPRINT~挣脱人群。
@@ -2214,7 +2214,7 @@
 0x079DAA64=主线剧情已完成，你可以通过手机重玩之前的任务。在「任务」中进行选择，就可以无限制地重玩所有任务。
 
 ;0xF3D5DAC2=Go to the ~BLIP_121~ icon in Maisonette 9 during its opening times of 9pm-5am to partake in the club management job.
-0xF3D5DAC2=晚上九点到早上五点之间，你可以前往9号豪宅内的~BLIP_121~图标参与夜店经营。
+0xF3D5DAC2=晚上九点到早上五点之间，你可以前往9号豪宅的~BLIP_121~图标参与夜店经营。
 
 ;0x7CF390FF=Yusuf's Buzzard will be available here at the helipad whenever you need it.
 0x7CF390FF=你随时可以在停机坪找到Yusuf的秃鹰直升机。
@@ -2244,10 +2244,10 @@
 0xAC2263F6=你把~b~Henrique~s~落下了。
 
 ;0xFF5A3E11=You have arranged to hang out with your friends. Meet them by going towards the ~BLIP_105~ on the radar.
-0xFF5A3E11=你已和你的朋友安排了活动。去小地图上的~BLIP_105~接他们。
+0xFF5A3E11=你已和朋友安排了活动。去小地图上的~BLIP_105~接他们。
 
 ;0x44987252=You have arranged to hang out with your friends. Meet them by going towards the ~BLIP_98~ on the radar.
-0x44987252=你已和你的朋友安排了活动。去小地图上的~BLIP_98~接他们。
+0x44987252=你已和朋友安排了活动。去小地图上的~BLIP_98~接他们。
 
 ;0x86FED73B=You can cancel an activity after it has been arranged. Use the option on the phone under your friend's name. They will prefer to be warned than stood up.
 0x86FED73B=在安排活动后你仍然可以取消它。使用手机中对应朋友下的选项取消。比起被放鸽子，他们更乐意事先得到通知。
@@ -2775,7 +2775,7 @@
 0xEAC3ECDA=械 - 爆炸狙击枪
 
 ;0x48C61021=Club
-0x48C61021=俱乐部Club
+0x48C61021=夜店
 
 ;0x9B7E3C86=THIS LABEL NEEDS TO BE HERE !!!
 0x9B7E3C86=THIS LABEL NEEDS TO BE HERE !!!
@@ -2874,7 +2874,7 @@
 0x219B552C=~z~应该是唐人街。
 
 ;0xBC9688DC=~z~Little Italy.
-0xBC9688DC=~z~Little Italy。
+0xBC9688DC=~z~小意大利。
 
 ;0x9F5CDF4A=~z~Fishmarket North.
 0x9F5CDF4A=~z~鱼市北。
@@ -2922,19 +2922,19 @@
 0x30FB8CBC=~z~Hatton Gardens。
 
 ;0x362FC1B0=~z~Middle Park East.
-0x362FC1B0=~z~中央公园东。
+0x362FC1B0=~z~中心公园东。
 
 ;0x65942BF2=~z~Lancaster.
 0x65942BF2=~z~Lancaster。
 
 ;0x0DD8A187=~z~Yo. Umm... Middle Park.
-0x0DD8A187=~z~哟，呃...中央公园。
+0x0DD8A187=~z~哟，呃...中心公园。
 
 ;0xCD2EEEAA=~z~Yeah, Varsity Heights.
 0xCD2EEEAA=~z~好，Varsity Heights。
 
 ;0x6E7444CB=~z~Middle Park West.
-0x6E7444CB=~z~中央公园西。
+0x6E7444CB=~z~中心公园西。
 
 ;0x46005691=~z~North Holland.
 0x46005691=~z~North Holland。
@@ -3840,7 +3840,7 @@
 0x5B377EC0=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_MOUSE_LMB~ and ~INPUT_MOUSE_RMB~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras. ~n~Press ~INPUT_DUCK~ to activate smoke.
 
 ;0x7E14AAF1=Instant Play
-0x7E14AAF1=Instant Play
+0x7E14AAF1=即刻加入
 
 ;0x90574F76=Deathmatch
 0x90574F76=Deathmatch

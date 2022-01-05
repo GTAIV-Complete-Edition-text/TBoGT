@@ -69,7 +69,7 @@
 0x1F0055B1=E2DW_CFB
 
 ;0x1FCFEE11=~z~I mean, I'm a moron and you a crazy psycho, so what hope is there for us?
-0x1FCFEE11=~z~我是说，我是白痴，你是疯子，这还能有啥盼头呢？
+0x1FCFEE11=~z~我是说，我是白痴，你是疯子，这还能指望啥呢？
 
 ;0x253E2F34=~z~Man, good rolling with you, L.
 0x253E2F34=~z~哥们，跟你一起干活真好，L。

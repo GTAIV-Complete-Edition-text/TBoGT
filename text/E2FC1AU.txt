@@ -60,16 +60,16 @@
 0xBD4ACA24=~z~来下注吧。
 
 ;0xCCA568D9=~z~Who gonna put some money on this shit?
-0xCCA568D9=~z~有没有想下几注玩玩的？
+0xCCA568D9=~z~有没有人想下几注？
 
 ;0xD222B259=~z~Moving on to the next round.
-0xD222B259=~z~成功挺进下一轮。
+0xD222B259=~z~成功晋级。
 
 ;0xDFCECDB1=~z~We through to the next round.
 0xDFCECDB1=~z~下一轮即将开始。
 
 ;0xE33795F1=~z~Come on. It ain't fun unless you bet on this shit.
-0xE33795F1=~z~来嘛，不下注的话就没意思了。
+0xE33795F1=~z~来嘛，不下注就没意思了。
 
 ;0xE607CAFD=300
 0xE607CAFD=300

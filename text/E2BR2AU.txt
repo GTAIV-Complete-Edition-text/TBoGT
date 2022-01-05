@@ -96,7 +96,7 @@
 0x18238421=~z~我上了两所！来吧，先出去吧。
 
 ;0x1BCB2287=~z~The first person to make it to the finish in Middle Park is the winner.
-0x1BCB2287=~z~第一个到达中央公园的人就是胜利者。
+0x1BCB2287=~z~第一个到达中心公园的人就是胜利者。
 
 ;0x1BF52A60=~z~Ho! I never thought hustling you was gonna be this easy, Lopez.
 0x1BF52A60=~z~嚯！没想到这么简单你就上钩了，Lopez。
@@ -228,7 +228,7 @@
 0x4D6E841D=SFX_PAUSE_190
 
 ;0x4EE25EAE=~z~Oh sure. Sure. Don't you ever get tired a that shit? That muscle bound fag hag routine?
-0x4EE25EAE=~z~噢，行，行。你就不会腻的吗？就那个肌肉僵硬的基佬公主？ 
+0x4EE25EAE=~z~噢，行，行。你不会腻的吗？就那个肌肉僵硬的基佬公主？ 
 
 ;0x4FC0187C=~z~Get us to the heliport near Fishmarket South.
 0x4FC0187C=~z~我们要去鱼市南那边的停机坪。
@@ -402,7 +402,7 @@
 0x980D8437=SFX_PAUSE_180
 
 ;0x983E81E1=~z~An extreme race around the city. Air, more air, water, land, it's got it all.
-0x983E81E1=~z~环绕城市的终极一战。空中、天上、海上、地上，无所不有。
+0x983E81E1=~z~环绕城市的终极一战。~n~空中、半空、海上、地上，无所不有。
 
 ;0x994003F0=~z~Shit, that's heavy man. But maybe losing everything is about worth it to not see you again. What we betting on?
 0x994003F0=~z~操，太难了吧，哥们。不过只要能摆脱你，倾家荡产也值得一试。咱们赌啥？
@@ -570,7 +570,7 @@
 0xCFAC03CA=~z~那你就签好卖身契吧。
 
 ;0xD26281DB=~z~Now if you do win, which you won't, you just got to help me with one more thing
-0xD26281DB=~z~哪怕你真赢了，虽然不可能，但你还得帮我最后一个忙。
+0xD26281DB=~z~哪怕你真赢了，虽然不可能，那你也得帮我最后一个忙。
 
 ;0xD2858959=~z~Bro, I need that little speech in writing. What if I lose?
 0xD2858959=~z~兄弟，你给我立字据。要是输了呢？
@@ -636,7 +636,7 @@
 0xED6DC180=E2BR2_IH
 
 ;0xEF9B2029=~z~You could add a zero to that little tiny pay check a yours and take "mopping cum" out the job description.
-0xEF9B2029=~z~这样你的工资条上就会多一个零，还能把名片上的「口活好」划掉了。
+0xEF9B2029=~z~这样你的工资条就会多一个零，还能把名片上的「口活好」划掉了。
 
 ;0xF19F638D=~z~There ain't much beyond a common love of free labor from snotty graduates. That for sure.
 0xF19F638D=~z~不过是喜欢白嫖大学生劳动力的人之常情罢了。谁不爱呢。

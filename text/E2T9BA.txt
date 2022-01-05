@@ -135,7 +135,7 @@
 0x1CD9F592=SFX_PAUSE_130
 
 ;0x1D50714C=~z~She's a princess!
-0x1D50714C=~z~她是个公主！
+0x1D50714C=~z~她可是公主！
 
 ;0x1D7A0C2B=~z~T- Tony, what the - what the fuck are you doing?
 0x1D7A0C2B=~z~T、Tony，你他妈...你他妈想干嘛？
@@ -777,7 +777,7 @@
 0xA33F0928=~z~好啊，开始打少数群体的牌了。真机智。
 
 ;0xA6BF5262=~z~Poor Gracie. It's such a big fucking city, and she's such a sweet little girl.
-0xA6BF5262=~z~可怜的Gracie。一个这么大的鬼地方，她又是那么无辜的好女孩。
+0xA6BF5262=~z~可怜的Gracie。这么大的鬼地方，她又是那么无辜的好女孩。
 
 ;0xA6D1F396=SFX_PAUSE_300
 0xA6D1F396=SFX_PAUSE_300
@@ -795,7 +795,7 @@
 0xAF0A8EC1=E2T9_BCB
 
 ;0xAF0D94D2=~z~Anyways, look at the bright side, at least she's alive.
-0xAF0D94D2=~z~反正，往好处想，至少她还活着。
+0xAF0D94D2=~z~总之，往好处想，至少她还活着。
 
 ;0xAF369AEF=SFX_PAUSE_300
 0xAF369AEF=SFX_PAUSE_300
@@ -993,7 +993,7 @@
 0xE5BCBB41=~z~你去哪了？
 
 ;0xE5F0D9FF=~z~I'm driving as un-suspiciously as you can when your boss only forked out for a weekend helicopter course.
-0xE5F0D9FF=~z~我已经尽量往不可疑上飞了。当时你给我报的是周末速成班。
+0xE5F0D9FF=~z~我已经尽量往不可疑上飞了。你给我报的是周末速成班。
 
 ;0xE66FA272=E2T9_AXA
 0xE66FA272=E2T9_AXA

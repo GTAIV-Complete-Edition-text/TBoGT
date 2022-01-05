@@ -501,7 +501,7 @@
 0xF9035B1C=100090010090100
 
 ;0xFA9B7A6F=~z~Baby, you're sweet, but this exec from Canyon is meant to come by. I'll call you.
-0xFA9B7A6F=~z~宝贝，你真好，但影视公司的高管要来找我。之后打电话叫你。
+0xFA9B7A6F=~z~宝贝，你真好，但影视公司的高管要来找我。之后联系你。
 
 ;0xFACD9365=010090100
 0xFACD9365=010090100

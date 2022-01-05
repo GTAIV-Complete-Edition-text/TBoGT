@@ -294,7 +294,7 @@
 0x45FC580A=~z~妈的！谢谢你啊，搭档。
 
 ;0x46CA19AC=~z~the wolves are baying for blood, and the guy who's meant to be my rock has become a bitter and cynical prick.
-0x46CA19AC=~z~嗜血的群狼环伺，该当我后盾的人却变成了悲观刻薄的混蛋。
+0x46CA19AC=~z~嗜血的群狼环伺，该当我后盾的人却成了悲观刻薄的混蛋。
 
 ;0x46F15452=SFX_PAUSE_260
 0x46F15452=SFX_PAUSE_260
@@ -666,7 +666,7 @@
 0xA7D158BE=~z~你以为我喜欢替那个小屁孩跑腿？
 
 ;0xA82BBE8D=~z~Tony, man, you got to calm down. You're really pushing it.
-0xA82BBE8D=~z~Tony，兄弟，你冷静点。这样有点过了。
+0xA82BBE8D=~z~Tony兄弟，你冷静点。这样有点过了。
 
 ;0xA84BB1A3=~z~He must like driving that thing.
 0xA84BB1A3=~z~他很喜欢开高尔夫球车吧。
@@ -687,7 +687,7 @@
 0xA9D90388=011090101
 
 ;0xAA58E0C8=~z~Wow. What a champ. I love that guy.
-0xAA58E0C8=~z~哇哦。这就是冠军吗。我爱死那家伙了。
+0xAA58E0C8=~z~哇哦。这就是天才吗。我爱死那家伙了。
 
 ;0xAA6D4774=E2T3B_ZLC
 0xAA6D4774=E2T3B_ZLC
@@ -756,7 +756,7 @@
 0xB61B013D=SFX_PAUSE_300
 
 ;0xB63886A4=~z~but if I'm caught in bed with him it's me who goes to jail.
-0xB63886A4=~z~但万一我和他被捉奸在床，要进局子的人是我。
+0xB63886A4=~z~但万一我和他被捉奸在床，要进局子的是我。
 
 ;0xB6542E12=E2T3B_ZHE
 0xB6542E12=E2T3B_ZHE
@@ -849,7 +849,7 @@
 0xC95BC887=E2T3B_ZJA
 
 ;0xCAB86DEC=~z~You know what we're needed for at the driving range?
-0xCAB86DEC=~z~他叫我们去高尔夫球场干嘛啊？
+0xCAB86DEC=~z~他叫我们去高尔夫球场干嘛？
 
 ;0xCC68ACB8=E2T3B_ZMC
 0xCC68ACB8=E2T3B_ZMC

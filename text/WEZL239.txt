@@ -1,6 +1,6 @@
 ﻿[WEZL239]
 ;0x07820D09=Rotterdam Rocked
-0x07820D09=Rotterdam事变
+0x07820D09=Rotterdam震颤
 
 ;0x1A4C1240=NOOSE shady on Details
 0x1A4C1240=NOOSE含糊其辞
@@ -18,7 +18,7 @@
 0x5DBD1C62=Eugene White
 
 ;0xB0967010=Maybe we should all neuter ourselves right now. Flowerman? Really? The top movie for weeks? This spate of romantic comedies is ruining our manhood. The American man is literally dying from estrogen. And women are turning into self righteous shrews. This liberal elite Vinewood trash has us so confused as to our proper roles that American society is disintegrating in front of our very eyes. Our TV shows, our movies, our very society portray men as bumbling morons who are helpless unless a woman saves the day. Good luck ladies. We're leaving.
-0xB0967010=大家趁早把自己阉了吧。《花人》？开玩笑吧？这就是同档期的票房冠军？接连上映的浪漫喜剧快把我们的男子气概毁完了。美国男人正在字面意义上地死于雌激素，女人则向着自以为是的泼妇前进。我们的社会角色已被美国社会扭曲，而这些好麦坞精英拍的自由派烂片只会让我们更加混乱。我们的电视节目、影院大片、社会风气，全都把男人描写成没有女人就一事无成的废物。祝你们好运，女士们。男人走了。
+0xB0967010=大家趁早把自己阉了吧。《花男》？开玩笑吧？这就是同档期的票房冠军？接连上映的浪漫喜剧快把我们的男子气概毁完了。美国男人正在字面意义上地死于雌激素，女人则向着自以为是的泼妇前进。我们的社会角色已被美国社会扭曲，而这些好麦坞精英拍的自由派烂片只会让我们更加混乱。我们的电视节目、影院大片、社会风气，全都把男人描写成没有女人就一事无成的废物。祝你们好运，女士们。男人走了。
 
 ;0xC2FDC17B=Movie's Run at the Top a Nail in Coffin of Masculinity
 0xC2FDC17B=这片能拿第一，男子气概已死

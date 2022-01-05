@@ -30,7 +30,7 @@
 0x96D36D52=葬身鱼腹！
 
 ;0xAC0938BE=Mr. Van Hardenburg was loved by some and hated by many who accused him of being involved in all manner of nefarious activities. Having been accused at various points of arms dealing, drug trafficking, slave trading, incest, and supporting repressive regimes, some will not mourn his passing, but many in government enjoyed vacations at his ranch and hunting endangered species on his farm.
-0xAC0938BE=Van Hardenburg先生受到部分人推崇，但也被部分人仇视，指控他犯下了种种罪行。由于被控涉嫌参与军火交易、毒品贩运、奴隶贸易、强奸乱伦以及支持专制政权，有些人不会对他的离世表示哀悼，但许多政府官员曾在他的大牧场享受假期，还在他的农场狩猎过濒危动物。
+0xAC0938BE=Van Hardenburg先生受到部分人推崇，但也被部分人仇视，指控他犯下了种种罪行。由于涉嫌参与军火交易、毒品贩运、奴隶贸易、强奸乱伦以及支持专制政权，有些人不会对他的离世表示哀悼，但许多政府官员曾在他的大牧场享受假期，还在他的农场狩猎过濒危动物。
 
 ;0xB085381B=Mary Williamson
 0xB085381B=Mary Williamson

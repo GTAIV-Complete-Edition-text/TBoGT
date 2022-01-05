@@ -1,24 +1,24 @@
-[CLBPRC6]
+﻿[CLBPRC6]
 ;0x44824EDC=Get to ~y~Vespucci University.
-0x44824EDC=前往~y~Vespucci大学~s~。
+0x44824EDC=前往~y~Vespucci大学。
 
 ;0x6AE01B93=You've left ~b~Al~s~ behind.
-0x6AE01B93=你把~b~Al~s~落在了后面。
+0x6AE01B93=你把~b~Al~s~落下了。
 
 ;0x781E360F=~r~You abandoned Al Di Napoli.
 0x781E360F=~r~你抛弃了Al Di Napoli。
 
 ;0x9996456B=~r~You spooked the dealers. The deal is off.
-0x9996456B=~r~你吓到了交易商，交易取消了。
+0x9996456B=~r~你吓到了毒贩，交易中止。
 
 ;0x9CD0FF74=Get to the ~y~Amdram Theater.
 0x9CD0FF74=前往~y~Amdram剧院。
 
 ;0xA29ED760=Get a vehicle.
-0xA29ED760=进入一辆载具。
+0xA29ED760=找一辆载具。
 
 ;0xA9277401=Use ~PAD_RSTICK_ALL~ to look around and check for trouble.
-0xA9277401=请用~PAD_RSTICK_ALL~来观察四周并检查麻烦。
+0xA9277401=用~PAD_RSTICK_ALL~观察四周有无状况。
 
 ;0xC5849D47=~r~You hurt Troy.
 0xC5849D47=~r~你伤害了Troy。
@@ -36,10 +36,11 @@
 0xD4AE3B9A=~r~你伤害了Dessie。
 
 ;0xD844C2C7=~r~Club management failed.
-0xD844C2C7=~r~俱乐部管理任务失败。
+0xD844C2C7=~r~夜店经营任务失败。
 
 ;0xE8461655=Gor to ~y~Hercules.
-0xE8461655=前往~y~Hercules~s~。
+0xE8461655=前往~y~大力神。
 
 ;0xF3602C89=Go and meet ~b~Al Di Napoli.
-0xF3602C89=前去与~b~Al Di Napoli~s~见面。
+0xF3602C89=去找~b~Al Di Napoli。
+

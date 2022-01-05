@@ -93,7 +93,7 @@
 0xA6CBF2B3=~S~销毁剩余的~g~海洛因。~s~
 
 ;0xAA47D0E1=Go to the ~y~Dukes Monoglobe.~s~
-0xAA47D0E1=前往~y~Dukes的巨型地球仪~s~所在地。
+0xAA47D0E1=前往~y~Dukes的巨型地球仪。~s~
 
 ;0xAE65383E=~s~PLACEHOLDER: Shootout takes place on the plane. Bulgarin is executed by the player and as he hits the floor Bulgarin drops a grenade. The grenade explodes and blows a huge whole in the plane. The player is sucked out and must parachute to safety.~s~
 0xAE65383E=~s~PLACEHOLDER: Shootout takes place on the plane. Bulgarin is executed by the player and as he hits the floor Bulgarin drops a grenade. The grenade explodes and blows a huge whole in the plane. The player is sucked out and must parachute to safety.~s~

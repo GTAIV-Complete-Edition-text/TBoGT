@@ -138,7 +138,7 @@
 0x175944CD=~z~喂，Ray。怎么了？
 
 ;0x180F2635=~z~Listen, I thought you should know that things is cool with Tony now. It looks like we might be okay.
-0x180F2635=~z~听着，现在Tony这边没事了，我跟你说一声。我们应该不会有事了。
+0x180F2635=~z~听着，现在Tony这边没事了，我跟你说一声。应该不会有事了。
 
 ;0x1824E14A=010090100090010100090010090100010100100010010090100
 0x1824E14A=010090100090010100090010090100010100100010010090100
@@ -165,7 +165,7 @@
 0x1ACFAC4B=~z~你可以在大学的图书馆尊重他，而不是夜店的舞台上。
 
 ;0x1B5FD272=~z~Heh heh, yeah. Kibbutz on a motherfucking kibbutz, huh! Yeah but I've taken this shit over.
-0x1B5FD272=~z~嘿嘿，没错。Kibbutz现在在一个基布兹，哈！但这里已经归我管了。
+0x1B5FD272=~z~没错。Kibbutz现在在一个基布兹*，哈！但这里已经归我管了。~n~(以色列的集体主义社区)
 
 ;0x1C1F7027=~z~Luis.
 0x1C1F7027=~z~Luis。
@@ -306,7 +306,7 @@
 0x38873F12=E2MF1_NE
 
 ;0x38BBEB45=~z~It's right on the Middle Park, prime location, one of the most exclusive in the city.
-0x38BBEB45=~z~就在中央公园，黄金地段，自由城最高档的地段之一。
+0x38BBEB45=~z~就在中心公园，黄金地段，自由城最高档的地段之一。
 
 ;0x3A1B311A=~z~And you haven't got any time for your old friends.
 0x3A1B311A=~z~忙到没空见老朋友了是吧。
@@ -636,19 +636,19 @@
 0x7256F942=E2MF1_NH
 
 ;0x728A83D0=~z~Hello, Shalom. This is Mori. I'm getting spiritual with nature and shit in the Promised Land.
-0x728A83D0=~z~你好，贵安。我是Mori。我正在应许之地修炼自然之道。
+0x728A83D0=~z~你好，贵安。我是Mori，正在应许之地修炼自然之道。
 
 ;0x73281E3B=~z~You understand?
 0x73281E3B=~z~听懂了吗？
 
 ;0x73C8DE3C=~z~Bandstand? Huh, Dios Mio. Look, I can't ever win with you. I love you, Mami.
-0x73C8DE3C=~z~舞台？我的天哪。行吧，我说不过你。我爱你，老妈。
+0x73C8DE3C=~z~舞台？我的天哪。行吧，说不过你。我爱你，老妈。
 
 ;0x745DBD99=SFX_PAUSE_160
 0x745DBD99=SFX_PAUSE_160
 
 ;0x74C1AF52=~z~Thanks a lot, bro. You didn't need to do that though.
-0x74C1AF52=~z~多谢了，兄弟。你没必要这么客气。
+0x74C1AF52=~z~多谢了，兄弟。没必要这么客气的。
 
 ;0x7529DAB3=E2MF1_FA
 0x7529DAB3=E2MF1_FA
@@ -777,7 +777,7 @@
 0x8AC7DA76=100010100010100100100100010100010100010
 
 ;0x8AEA5BA3=~z~Alright, man. I'll check that out. Yo, and thank you again.
-0x8AEA5BA3=~z~好吧，哥们。我会去看看的。哟，多谢了。
+0x8AEA5BA3=~z~好的，哥们。我会去看看的。哟，多谢了。
 
 ;0x8B25FE6C=~z~Hijo. I need you to come home. There is a little complication.
 0x8B25FE6C=~z~儿子，你快回家一趟吧。情况有点复杂。
@@ -876,7 +876,7 @@
 0xA3126CA9=SFX_PAUSE_310
 
 ;0xA41B846C=~z~bad boy and lover, so leave me a fucking message.
-0xA41B846C=~z~坏小子兼情人，有事就留言吧。
+0xA41B846C=~z~兼坏小子兼情人，有事就留言吧。
 
 ;0xA59C7F33=E2MF1_VD
 0xA59C7F33=E2MF1_VD
@@ -945,7 +945,7 @@
 0xB2396070=E2MF1_ME
 
 ;0xB2D1ED02=~z~Not that great. My father, he is a very passionate and angry and very disrespectful man.
-0xB2D1ED02=~z~不太好。我父亲，他是一个很热情、很暴躁、很无礼的人。
+0xB2D1ED02=~z~不太好。我父亲是一个很热情、很暴躁、很无礼的人。
 
 ;0xB35005EA=010090100010090100100090010100010090100
 0xB35005EA=010090100010090100100090010100010090100
@@ -1026,7 +1026,7 @@
 0xBE7B5630=~z~我来自由城，就是为了当直男版Tony Prince的。这就是我的梦想，妈个逼的。
 
 ;0xC01DDA96=~z~I've been out tilling the land and it really put shit in perspective for me, you know?
-0xC01DDA96=~z~我最近一直在种地，让我有了不同的想法。
+0xC01DDA96=~z~最近一直在种地，让我有了不同的想法。
 
 ;0xC079C4A9=E2MF1_JC
 0xC079C4A9=E2MF1_JC
@@ -1212,7 +1212,7 @@
 0xE4DD7BE2=E2MF1_AE1
 
 ;0xE58B67C2=~z~We met at your club. I am Ray Bulgarin.
-0xE58B67C2=~z~我们在你的夜店见过。我是Ray Bulgarin。
+0xE58B67C2=~z~我们在店里见过的。我是Ray Bulgarin。
 
 ;0xE5A7E703=~z~These people were fucking backwards. Sharing and shit? Come on, I mean, what, communism?
 0xE5A7E703=~z~这群人太落后了。分享互助？我去，这啥啊？共产主义吗？
@@ -1257,7 +1257,7 @@
 0xECD18A4C=~z~Tony先生，虽然他也有错，但他做到了这些。
 
 ;0xECF29619=~z~Unfortunately, I'm busy being a rich, successful and very popular international superhero,
-0xECF29619=~z~很不幸，我正忙着当有钱、成功而且备受欢迎的国际大英雄、
+0xECF29619=~z~很不幸，我忙着当有钱、成功而且备受欢迎的国际大英雄，
 
 ;0xEE24D481=E2MF1_AH2
 0xEE24D481=E2MF1_AH2

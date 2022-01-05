@@ -186,7 +186,7 @@
 0x20C30235=E2BR3_BAC
 
 ;0x2134EA1F=~z~Head up to the top of Middle Park, Lou.
-0x2134EA1F=~z~去中央公园北边，Lou。
+0x2134EA1F=~z~去中心公园北边，Lou。
 
 ;0x214BD009=E2BR3_VF
 0x214BD009=E2BR3_VF
@@ -213,7 +213,7 @@
 0x2805C52F=E2BR3_BDD
 
 ;0x2958AE31=~z~No way, Mori, the only thing that gets me excited is images of you being driven over by an 18 wheeler.
-0x2958AE31=~z~不会的，Mori。要说有什么能让我激动，那就是你被泥头车创死的场面。
+0x2958AE31=~z~不会的，Mori。要说有什么能让我兴奋，那就是你被泥头车创死的场面。
 
 ;0x2AD37248=~z~Shit I can put on my garden. You two ain't go no use.
 0x2AD37248=~z~屎还能当肥料种花。你们两个屁用没有。
@@ -387,7 +387,7 @@
 0x4A41C062=E2BR3_TC
 
 ;0x4B485DC2=~z~And uh a oh oh yeah yeah, what are those properties worth now?!
-0x4B485DC2=~z~还有...噢噢，对对，现在它们还值多少钱？！
+0x4B485DC2=~z~还有...噢噢，对对，现在这些还值几个钱啊？！
 
 ;0x4BBD14AF=~z~I said I don't want to talk about it, okay?! Shit!
 0x4BBD14AF=~z~我都说了不想聊这个了好吗？！妈的！
@@ -675,7 +675,7 @@
 0x78A86F99=101
 
 ;0x798984BF=~z~Stick a seahorse up your ass, whatever nautical shit you like to calm yourself down with.
-0x798984BF=~z~找个海马粘屁股上吧。只要你能冷静下来，随便什么水产都行。
+0x798984BF=~z~找个海马粘屁股上吧。只要能冷静下来，什么水产都行。
 
 ;0x7ABFBF83=E2BR3_YD
 0x7ABFBF83=E2BR3_YD
@@ -921,7 +921,7 @@
 0xA3C6AF7F=SFX_PAUSE_180
 
 ;0xA41F4C0C=~z~Only thing more useless than that little pecker of his is his portfolio. Ain't that right, Brucie?
-0xA41F4C0C=~z~比他的小鸡巴还要废物的就只有是他的资产投资了。对不对啊，Brucie？
+0xA41F4C0C=~z~比他的小鸡巴还要废物的就只有他的资产投资了。对不对啊，Brucie？
 
 ;0xA42B1B42=~z~Glad you can admit it. Now, repeat after me. "I am a complete fucking loser."
 0xA42B1B42=~z~很高兴你能承认这点。现在跟我重复说：「我他妈是个十足的失败者」。
@@ -1038,7 +1038,7 @@
 0xB72D0C0F=SFX_PAUSE_270
 
 ;0xB7D11759=~z~Hey, we're picking these cars up on the North side of Middle Park.
-0xB7D11759=~z~嘿，我们要去中央公园北边提些车。
+0xB7D11759=~z~嘿，我们要去中心公园北边提些车。
 
 ;0xB80E3043=SFX_PAUSE_270
 0xB80E3043=SFX_PAUSE_270
@@ -1086,7 +1086,7 @@
 0xC6905A34=SFX_PAUSE_190
 
 ;0xC6AB65AA=~z~Whoa, them dogs better be kosher. Yeah!
-0xC6AB65AA=~z~喔，热狗最好是清真的。耶！
+0xC6AB65AA=~z~喔，热狗最好是洁食的。耶！
 
 ;0xC834FD6D=SFX_PAUSE_240
 0xC834FD6D=SFX_PAUSE_240
@@ -1170,7 +1170,7 @@
 0xDA017697=E2BR3_BBA
 
 ;0xDBDBDF6E=~z~Yo, we got some cars waiting at the top of Middle Park, bro.
-0xDBDBDF6E=~z~哟，有几辆车在中央公园北边等着咱们。
+0xDBDBDF6E=~z~哟，有几辆车在中心公园北边等着咱们。
 
 ;0xDC99919B=SFX_OVERLAP_5100
 0xDC99919B=SFX_OVERLAP_5100
@@ -1293,7 +1293,7 @@
 0xF2BC9F2F=E2BR3_PA
 
 ;0xF32FB942=~z~Don't bring down the positive energy, Lopez. Me and my brother are having fun today.
-0xF32FB942=~z~别搞坏我们的兴致啊，Lopez。我和我弟弟是出来嗨的。
+0xF32FB942=~z~别坏我们的兴致啊，Lopez。我和我弟弟是出来嗨的。
 
 ;0xF3C10ACB=~z~I don't like this.
 0xF3C10ACB=~z~我不喜欢这样。

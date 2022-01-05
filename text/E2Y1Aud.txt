@@ -282,7 +282,7 @@
 0x5990A166=~z~你说真的？他们会派重兵追杀我们的，我们死定了！
 
 ;0x5AA3C2E2=~z~Hey Yusuf, the chopper took a little damage. You ain't gonna be able to give it to your dad.
-0x5AA3C2E2=~z~嘿，Yusuf，飞机有点地方坏了，没法送给你爹了。
+0x5AA3C2E2=~z~嘿，Yusuf，飞机有点坏了，没法送给你爹了。
 
 ;0x5B48816C=~z~Is that porn playing up there, bro?
 0x5B48816C=~z~楼上是在放黄片吗，兄弟？

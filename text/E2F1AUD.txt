@@ -6,7 +6,7 @@
 0x00161A57=SFX_OVERLAP_1460
 
 ;0x005C9916=~z~And, it ain't exactly like Tony's operation is always completely above board.
-0x005C9916=~z~而且实际上Tony做的事也不都是见得了光的。
+0x005C9916=~z~而且Tony做的很多事其实也见不得光。
 
 ;0x0153C7EC=~z~Let's go.
 0x0153C7EC=~z~走了。
@@ -201,7 +201,7 @@
 0x1EF5FC84=~z~这里跟城里天差地别。
 
 ;0x2052B2C4=~z~Mami, I know. But what do you expect. I got to hang out with morons like these two. Okay? Bye...
-0x2052B2C4=~z~妈咪，我懂。但我还能怎样？我还得跟这两个傻逼一起混，好吗？拜拜...
+0x2052B2C4=~z~老妈，我懂。但我还能怎样？我还得跟这两个傻逼一起混，好吗？拜拜...
 
 ;0x21AD5E9F=~z~Yo. They's three of us. I ain't gonna have Henrique on my knee just so we can ride in this thing.
 0x21AD5E9F=~z~哟，咱有三个人。我不会接受让Henrique坐我腿上的解决方案的。
@@ -222,7 +222,7 @@
 0x241030A8=~z~我们就在门前，自由城的门前。我们甚至能掌控世界，兄弟。
 
 ;0x24BD61D7=~z~Unfortunately, I ain't no poster child. I'm still hanging out with degenerates like you, ain't I?
-0x24BD61D7=~z~很遗憾，我不是好典范。我这不还在跟你们两个堕落者混吗？
+0x24BD61D7=~z~很可惜，我不是好榜样。这不还在跟你们两个二流子混吗？
 
 ;0x26BE8960=E2F1_ALB
 0x26BE8960=E2F1_ALB
@@ -279,7 +279,7 @@
 0x33358D08=E2F1_VB
 
 ;0x333B4A4E=~z~Yo, but who's this clown right here?
-0x333B4A4E=~z~哟，这边这个丑逼是谁？
+0x333B4A4E=~z~哟，这边这个小丑是谁？
 
 ;0x33DCA641=~z~I'm ten minutes away on the train. Ten fucking minutes.
 0x33DCA641=~z~坐地铁也就十分钟，就他妈十分钟。
@@ -309,7 +309,7 @@
 0x37EFB213=E2F1_HD
 
 ;0x38ACC833=~z~Fuck, bro. Okay. Okay. Only 'cause I love you guys. You should know that.
-0x38ACC833=~z~操，兄弟。行吧，行吧。只是因为我太爱了你们了，这你得知道。
+0x38ACC833=~z~操，兄弟。行吧，行吧。只是因为我太爱你们了，这你得知道。
 
 ;0x3969470D=E2F1_WA
 0x3969470D=E2F1_WA
@@ -390,7 +390,7 @@
 0x47B777F6=~z~但是一家人不是说我们都住这儿，卖毒品给Alderny的乡巴佬，
 
 ;0x48256967=~z~Luis Lopez - poster child for rehabilitation. That shit worked on you.
-0x48256967=~z~Luis Lopez：改过自新的典范。那一套对你管用啊。
+0x48256967=~z~Luis Lopez：改过自新的榜样。那一套对你管用啊。
 
 ;0x486E862C=~z~We ditching Mando?
 0x486E862C=~z~我们不管Mando了吗？
@@ -399,7 +399,7 @@
 0x488761FD=~z~－干到她眼镜都掉下来。~n~－呵呵呵呵呵，确有其事。
 
 ;0x48985522=~z~I don't know if they did before, but they do now.
-0x48985522=~z~之前有没有不知道，现在肯定有了。
+0x48985522=~z~之前不一定有，现在肯定有了。
 
 ;0x49BE310A=~z~Heavy armament be the best ways to dissuade foolish cats from action. Take an auto shottie and some grenades, L.
 0x49BE310A=~z~全副武装才能防止傻逼乱来。拿上自动喷子跟手雷，L。
@@ -438,7 +438,7 @@
 0x5309E49B=~z~哟，我没和谁搞基，兄弟。
 
 ;0x549DFB08=~z~We wasn't, were you baby?
-0x549DFB08=~z~被跟踪的人是你吧宝贝？
+0x549DFB08=~z~被跟踪的人是你吧，宝贝？
 
 ;0x567AC3E9=E2F1_ANA
 0x567AC3E9=E2F1_ANA
@@ -450,7 +450,7 @@
 0x57131265=SFX_PAUSE_140
 
 ;0x5838A273=~z~Hey, let's go. Mami, I gotta go, okay? But here, take this.
-0x5838A273=~z~喂，我们走吧。妈咪，我得走了，好吗？来，你收好。
+0x5838A273=~z~喂，我们走吧。老妈，我得走了，好吗？来，你收好。
 
 ;0x583BD485=~z~Where you going, man?
 0x583BD485=~z~你上哪呢，哥们？
@@ -483,7 +483,7 @@
 0x5BB9F9B4=~z~这不是很好吗？
 
 ;0x5D5BE073=~z~Hey mami, I've been working. You know
-0x5D5BE073=~z~嘿妈咪，我一直在上班，你懂的。
+0x5D5BE073=~z~嘿老妈，我一直在上班，你也知道。
 
 ;0x5E41CEE2=100090010090200100090010
 0x5E41CEE2=100090010090200100090010
@@ -624,7 +624,7 @@
 0x784FF71B=E2F1_RD
 
 ;0x78B638EA=~z~Hit me with it then.
-0x78B638EA=~z~给我多来点。
+0x78B638EA=~z~再给我说一说。
 
 ;0x79E4F93B=E2F1_AKB
 0x79E4F93B=E2F1_AKB
@@ -705,7 +705,7 @@
 0x8B81CB19=~z~「最近Luis Fernando Lopez先生有和Willy Valerio来往吗？」
 
 ;0x8B8CDE97=~z~What's that attitude for, bro? We don't want your help if you going to be all self righteous and shit.
-0x8B8CDE97=~z~这你什么意思，兄弟？你这么自命清高的话我们就不找你帮忙了。
+0x8B8CDE97=~z~你什么意思，兄弟？早知道你这么自命清高就不找你了。
 
 ;0x8CF02FEC=~z~Yo, thanks. Really makes me confident this is gonna be a nice peaceful chat.
 0x8CF02FEC=~z~哟，谢了。我看这次的磋商多半会非常和平。
@@ -732,7 +732,7 @@
 0x92CB2AE2=102
 
 ;0x92FEC311=~z~Don't let it go to your head, L, but you look like you mean business.
-0x92FEC311=~z~你听了可别自大，L，但你确实是一副大佬样。
+0x92FEC311=~z~听了可别自大，L，但你确实是一副大佬样。
 
 ;0x93892379=E2F1_RC
 0x93892379=E2F1_RC
@@ -741,7 +741,7 @@
 0x93BCB378=E2F1_KC
 
 ;0x952BF1D5=~z~What's this "real" shit that ain't nothing at all like the other "real" shit that got my ass locked up? Tell me.
-0x952BF1D5=~z~这次的大买卖跟之前害我进去的大买卖有什么区别？你说吧。
+0x952BF1D5=~z~这次的大买卖跟害我进去的那次有什么区别？你说吧。
 
 ;0x953A7C44=~z~Purest package in town.
 0x953A7C44=~z~城里最纯的货。
@@ -768,10 +768,10 @@
 0x9A472412=~z~我们要去East Hook碰头。你来开车吧？
 
 ;0x9AE7D121=~z~It's nice to see you, Mr. big shot. Real nice to see you.
-0x9AE7D121=~z~见到你真高兴啊，大明星，真是太高兴了。
+0x9AE7D121=~z~见到你真高兴啊，大明星。真是太高兴了。
 
 ;0x9C834636=~z~Look look look look look - I know you think we small, I know you think we ain't shit - but that's why I hit you up man.
-0x9C834636=~z~喂喂喂喂喂喂，我知道你看不起我们，知道你不把我们当回事。但就是这样我才会找你，兄弟。
+0x9C834636=~z~喂喂喂喂喂，我知道你看不起我们，知道你不把我们当回事。但就是这样我才会找你，兄弟。
 
 ;0x9C85ADF1=E2F1_NC
 0x9C85ADF1=E2F1_NC
@@ -780,7 +780,7 @@
 0x9CFDDFB6=~z~－L太太。~n~－孩子们还好吗？~n~－嘿，Lopez太太。
 
 ;0x9D11687D=~z~Anything else these guys gonna know from your phone conversations?
-0x9D11687D=~z~他们能从你的电话得到多少信息？
+0x9D11687D=~z~他们能从电话录音里得到多少信息？
 
 ;0x9DC85FC1=202090102
 0x9DC85FC1=202090102
@@ -810,7 +810,7 @@
 0xA632819E=~z~去他妈的。这里还有你的快乐回忆，别把这忘了。还记得99年的夏天吗？
 
 ;0xA70CF3D4=~z~Hey mami, como esta?
-0xA70CF3D4=~z~嘿妈咪，还好吗？
+0xA70CF3D4=~z~嘿老妈，还好吗？
 
 ;0xA76EDA7F=200090100090200100
 0xA76EDA7F=200090100090200100
@@ -888,7 +888,7 @@
 0xB6557C30=~z~我们，呃...光我俩不够有牌面。
 
 ;0xB9282096=~z~It was a burner, bro. No details, just time and place.
-0xB9282096=~z~匿名号码，兄弟。信息不多，只有通话记录。
+0xB9282096=~z~匿名号码，兄弟。信息不多，只有时间地点。
 
 ;0xB9C03D44=012090102
 0xB9C03D44=012090102
@@ -981,7 +981,7 @@
 0xCF4B72FB=010090100090010090010100
 
 ;0xD01367A3=~z~Hit you with what? I ain't dickslapping you, homo.
-0xD01367A3=~z~多来点啥？我不会屌甩你脸的，基佬。
+0xD01367A3=~z~嗦一嗦个屁啊？我不会拿屌甩你脸的，基佬。
 
 ;0xD0AFFE21=SFX_OVERLAP_430
 0xD0AFFE21=SFX_OVERLAP_430
@@ -996,7 +996,7 @@
 0xD4015350=SFX_PAUSE_140
 
 ;0xD4134DE0=~z~Aye, mami, por favor.
-0xD4134DE0=~z~啊，妈咪，放过我吧。
+0xD4134DE0=~z~啊，老妈，放过我吧。
 
 ;0xD43AB95A=100
 0xD43AB95A=100
@@ -1185,7 +1185,7 @@
 0xF36F4EA5=E2F1_AGA
 
 ;0xF3720C89=~z~Mami!
-0xF3720C89=~z~妈咪！
+0xF3720C89=~z~老妈！
 
 ;0xF47B2715=SFX_PAUSE_130
 0xF47B2715=SFX_PAUSE_130
@@ -1197,7 +1197,7 @@
 0xF5606081=010090200090010
 
 ;0xF5AA3682=~z~Product then profit then pussy: 'P.P.P.' That how it works, bro.
-0xF5AA3682=~z~派货，票子，泡妞，简称P.P.P。就是这么来的，兄弟。
+0xF5AA3682=~z~派货，票子，泡妞，简称PPP。就是这么来的，兄弟。
 
 ;0xF62BF986=~z~Yeah, the last time we had something real coming down, I did two years.
 0xF62BF986=~z~是吗，上次我们有大买卖的时候，我进去了两年。

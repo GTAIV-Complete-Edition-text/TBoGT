@@ -24,13 +24,13 @@
 0x4B193F6F=~s~驾驶~b~Yusuf的直升机~s~逃离自由城博物馆。
 
 ;0x4CD642E9=~s~Destroy the pursuing police ~r~choppers.
-0x4CD642E9=~s~摧毁警察的~r~直升机。
+0x4CD642E9=~s~击落警察的~r~直升机。
 
 ;0x4FB6C9BE=Fly to the roof of the ~y~Libertonian.
 0x4FB6C9BE=飞到~y~自由城博物馆~s~的屋顶。
 
 ;0x638A9F88=~r~Tony's car was destroyed.
-0x638A9F88=~r~Tony的车毁了。
+0x638A9F88=~r~Tony的车被毁了。
 
 ;0x6F7DC3D6=~r~Niko has been injured.
 0x6F7DC3D6=~r~Niko受伤了。
@@ -42,7 +42,7 @@
 0x7603C47E=~r~Johnny受伤了。
 
 ;0x84B661E3=~r~You alerted security.
-0x84B661E3=~r~你惊动了警卫。
+0x84B661E3=~r~你惊动了保安。
 
 ;0x87116695=~r~Tony's friend is dead.
 0x87116695=~r~Tony的朋友死了。

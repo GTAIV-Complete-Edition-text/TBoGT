@@ -3,10 +3,10 @@
 0x00389B3F=你把~b~Timur~s~落下了。
 
 ;0x00F5BF33=Put the bomb on the ~b~back ~s~of the car.
-0x00F5BF33=将炸弹安放在车的~b~后面。
+0x00F5BF33=将炸弹安放在~b~车尾。
 
 ;0x028730D7=~r~You killed your buddy.
-0x028730D7=~r~你杀死了你的同伙。
+0x028730D7=~r~你杀死了你的伙伴。
 
 ;0x126A3FA2=You have left ~b~Bulgarin~s~ and ~b~Timur ~s~behind.
 0x126A3FA2=你把~b~Bulgarin~s~和~b~Timur~s~落下了。
@@ -21,16 +21,16 @@
 0x195EE83F=~r~你抛弃了Bulgarin。
 
 ;0x19F3B414=Get back in the ~b~vehicle.
-0x19F3B414=回到~b~载具~s~内。
+0x19F3B414=回到~b~载具~s~上。
 
 ;0x22A58C9B=Put the bomb on the ~b~front ~s~of the car.
-0x22A58C9B=将炸弹安放在车的~b~前面。
+0x22A58C9B=将炸弹安放在~b~车头。
 
 ;0x2763BB16=Press ~INPUT_DETONATE~ to detonate the Sticky Bombs.
 0x2763BB16=按~INPUT_DETONATE~引爆黏弹。
 
 ;0x2CF5F4B9=Go back and collect ~b~Bulgarin.
-0x2CF5F4B9=回去接上~b~Bulgarin。
+0x2CF5F4B9=回去找~b~Bulgarin。
 
 ;0x2DFD1F71=~r~You failed.
 0x2DFD1F71=~r~你失败了。
@@ -42,7 +42,7 @@
 0x3ADB632B=~r~你抛弃了Bulgarin和Timur。
 
 ;0x3DA27B32=~r~The targets will not enter now, the alarm has alerted them.
-0x3DA27B32=~r~目标不会进来了，警报引起了他们的警觉。
+0x3DA27B32=~r~警报惊动了目标，他们不会靠近了。
 
 ;0x40E8BC88=Wait for ~b~Bulgarin ~s~to get in the car
 0x40E8BC88=等待~b~Bulgarin~s~上车。
@@ -54,10 +54,10 @@
 0x558235CE=在目标靠近载具前保持隐蔽。
 
 ;0x5B7DC424=You have been spotted. Take out the ~r~targets.
-0x5B7DC424=你被发现了。解决~r~目标。
+0x5B7DC424=你被发现了。干掉~r~目标。
 
 ;0x5C4D55D6=Take out the ~r~targets.
-0x5C4D55D6=解决~r~目标。
+0x5C4D55D6=干掉~r~目标。
 
 ;0x6F4A776C=Get in the ~b~car ~s~with Ray and Timur.
 0x6F4A776C=与Ray和Timur上~b~车。
@@ -69,31 +69,31 @@
 0x7A419956=~r~车辆无法行驶。
 
 ;0x7F471F38=~r~The targets will not enter now, the explosion has alerted them.
-0x7F471F38=~r~目标不会进来了，爆炸引起了他们的警觉。
+0x7F471F38=~r~爆炸惊动了目标，他们不会靠近了。
 
 ;0x815610F9=Press ~INPUT_ATTACK~ to throw a sticky bomb onto the car.~s~
-0x815610F9=按~INPUT_ATTACK~将黏弹扔在车上。~s~
+0x815610F9=按~INPUT_ATTACK~将黏弹扔到车上。~s~
 
 ;0x81D7FEE2=~r~You destroyed the vehicle.
 0x81D7FEE2=~r~你摧毁了载具。
 
 ;0x87687C59=Park the car back in the ~y~space.
-0x87687C59=将车停入~y~车位。
+0x87687C59=将车停回~y~车位。
 
 ;0x8E619437=You have run out of sticky bombs. Call Armando for more.
-0x8E619437=你用完了黏弹。打电话找Armando再要一些。
+0x8E619437=你的黏弹用完了，打电话向Armando购买。
 
 ;0x92DCB406=Press ~INPUT_ATTACK~ to drop the sticky bomb when next to the car.~s~
-0x92DCB406=在车旁时，按~INPUT_ATTACK~扔下黏弹。~s~
+0x92DCB406=在车旁时，按~INPUT_ATTACK~安放黏弹。~s~
 
 ;0xA1A0433B=Place the bomb out of sight.
 0xA1A0433B=将炸弹安放在看不见的地方。
 
 ;0xA359320A=Crouch and hide behind the ~y~car ~s~and wait for the targets to enter.
-0xA359320A=蹲下来躲在~y~车~s~后，等待目标进入。
+0xA359320A=蹲下来躲在~y~车后，~s~等待目标靠近。
 
 ;0xAC717536=You need a four door car
-0xAC717536=你需要一辆四门车
+0xAC717536=你需要一辆四门车。
 
 ;0xB804812E=Go to the underground ~y~carpark ~s~off Topaz St.
 0xB804812E=前往Topaz街的~y~地下停车场。
@@ -105,7 +105,7 @@
 0xC080BAB6=将车停入柱子旁的~y~车位。
 
 ;0xC63142FF=~r~You alerted the targets.
-0xC63142FF=~r~你引起了目标的警觉。
+0xC63142FF=~r~你惊动了目标。
 
 ;0xCDF64D6C=Lose the corrupt ~r~NOOSE.~s~
 0xCDF64D6C=甩掉腐败的~r~NOOSE。~s~
@@ -123,7 +123,7 @@
 0xF1065F69=按~PAD_DPAD_DOWN~引爆黏弹。
 
 ;0xF751C4AC=Get ~y~out ~s~of the carpark.
-0xF751C4AC=~y~离开s~停车场。
+0xF751C4AC=~y~离开~s~停车场。
 
 ;0xFC5AB210=Wait for ~b~Bulgarin~s~ and ~b~Timur~s~ to get in the car
 0xFC5AB210=等待~b~Bulgarin~s~和~b~Timur~s~上车。

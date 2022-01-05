@@ -27,7 +27,7 @@
 0x06D2650F=SFX_PAUSE_250
 
 ;0x0706CD38=~z~They got a car all packed up and ready to go. All we got to do is take it.
-0x0706CD38=~z~有一辆装好毒品的货车。咱要干的就是抢走它。
+0x0706CD38=~z~有一辆装好毒品的货车，咱们只需要抢走它。
 
 ;0x073B8B61=SFX_PAUSE_270
 0x073B8B61=SFX_PAUSE_270
@@ -579,7 +579,7 @@
 0x79EEF372=E2DW_AUB
 
 ;0x7A7EB426=~z~Why don't we just go to the park or something, and chill the fuck out.
-0x7A7EB426=~z~我们去趟公园不就好了，大家都冷静冷静。
+0x7A7EB426=~z~要么去趟公园吧，大家都冷静冷静。
 
 ;0x7DA6965C=SFX_PAUSE_400
 0x7DA6965C=SFX_PAUSE_400

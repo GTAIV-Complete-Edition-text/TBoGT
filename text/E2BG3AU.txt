@@ -102,7 +102,7 @@
 0x4322CF30=~z~Luis。
 
 ;0x4360998F=~z~You think you're a big man. Where's your house on Middle Park East? Where's your big sports team, huh?
-0x4360998F=~z~你以为你算老几。你在中央公园东的豪宅去哪了？你的大球队在哪呢，啊？
+0x4360998F=~z~你以为你算老几。你在中心公园东的豪宅去哪了？你的大球队在哪呢，啊？
 
 ;0x43D8693C=~z~Yo, I don't know shit about those rocks.
 0x43D8693C=~z~我真不知道钻石是什么情况。
@@ -282,7 +282,7 @@
 0xAF454720=E2MF1_EC
 
 ;0xAF5B6777=~z~Hey man, quick favor to ask. I got to watch over this deal on Denver in Little Italy
-0xAF5B6777=~z~喂兄弟，帮我个小忙。我要去Little Italy的Denver大道盯一笔交易。
+0xAF5B6777=~z~喂兄弟，帮我个小忙。我要去小意大利的Denver大道盯一笔交易。
 
 ;0xB1CD865A=E2BG3_ACA
 0xB1CD865A=E2BG3_ACA
@@ -363,7 +363,7 @@
 0xD9F613DC=SFX_PAUSE_270
 
 ;0xDB8E29AC=~z~Poor old chef. What were you doing talking to these guys without me, Lou?
-0xDB8E29AC=~z~可怜的老厨子。你和这些人谈判怎么不带上我，Lou？
+0xDB8E29AC=~z~可怜的老厨子。你和这些人交涉怎么不带上我，Lou？
 
 ;0xDB979CEF=E2BG3_AAE
 0xDB979CEF=E2BG3_AAE

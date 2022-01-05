@@ -117,7 +117,7 @@
 0x1A93DB93=E2T3_APA
 
 ;0x1B81089C=~z~Rock, what do you need?
-0x1B81089C=~z~Rock，你想要什么？
+0x1B81089C=~z~Rock，你想要怎样？
 
 ;0x1CE20DF6=~z~Shit. Is it safe out there.
 0x1CE20DF6=~z~妈的，外面安全吗？
@@ -201,7 +201,7 @@
 0x2E49A372=322
 
 ;0x2F42B1C3=~z~So, I'll go tell them they gave you the money as a present,
-0x2F42B1C3=~z~我去跟他们说，「付的钱是不会还的」，
+0x2F42B1C3=~z~我去跟他们说，「付的钱是不会还的」。
 
 ;0x2F4F6D18=~z~Ouch!
 0x2F4F6D18=~z~嗷！
@@ -303,7 +303,7 @@
 0x495D66EC=~z~一起死不是自讨苦吃吗。
 
 ;0x4986E88B=~z~I work Algonquin nightlife twenty years. I beat everyone.
-0x4986E88B=~z~我在 Algonquin 的夜店界驰骋二十年，打遍全城无敌手。
+0x4986E88B=~z~我在Algonquin的夜店界驰骋二十年，打遍全城无敌手。
 
 ;0x49883E28=232
 0x49883E28=232
@@ -408,7 +408,7 @@
 0x6429496B=E2T3_LA
 
 ;0x64DA1F31=~z~with the hottest gay and straight clubs at the same time
-0x64DA1F31=~z~最火爆的男同夜店和正常夜店的人。
+0x64DA1F31=~z~同时拥有最火爆的男同夜店和正常夜店的人。
 
 ;0x66472577=E2T3_AMB
 0x66472577=E2T3_AMB
@@ -423,7 +423,7 @@
 0x68ECA516=~z~他们都不是善茬，还人多势众。
 
 ;0x6972EECF=~z~You've met the guy, haven't you? I can't imagine he's got too many friends.
-0x6972EECF=~z~你又不是没见过他。他像是有很多朋友吗。
+0x6972EECF=~z~你又不是没见过他，他像是有很多朋友吗？
 
 ;0x698F9E52=~z~Follow Rocco.
 0x698F9E52=~z~跟着Rocco。
@@ -450,7 +450,7 @@
 0x6BF27F01=102
 
 ;0x6D170F0F=~z~Head down to the pier. We're meeting Rock at the driving range.
-0x6D170F0F=~z~去码头，在边上的高尔夫球场见Rock。
+0x6D170F0F=~z~去码头。我们去旁边的高尔夫球场见Rock。
 
 ;0x6D1BE6C0=E2T3_ACA
 0x6D1BE6C0=E2T3_ACA
@@ -504,10 +504,10 @@
 0x756F2D6F=~z~你们完了，知道吗？Messina家族的人会来追杀你们的。
 
 ;0x768ABEAE=~z~Tony, shit, you got burrito breath. You ain't been eating Mexican again have you?
-0x768ABEAE=~z~Tony，你他妈一股玉米煎饼味，不会是又吃了墨西哥菜吧？
+0x768ABEAE=~z~Tony，你他妈一股卷饼味，是不是又吃墨西哥菜了？
 
 ;0x76A803CE=~z~When things calm down me and you should hit the links in Venturas.
-0x76A803CE=~z~等这事完了，咱们去拉斯云祖华练练高尔夫。
+0x76A803CE=~z~等这事完了，咱们去拉斯文加斯练练高尔夫。
 
 ;0x777B3A29=~z~Keep after Rock!
 0x777B3A29=~z~跟住Rock！
@@ -639,7 +639,7 @@
 0x9B18E260=~z~不是说多米尼加人天生就是运动员吗。
 
 ;0x9BD7EA02=~z~They crashed. Hit it, Lou.
-0x9BD7EA02=~z~他们翻车了。干死他们，Lou。
+0x9BD7EA02=~z~他们翻车了。加速，Lou。
 
 ;0x9C7C3B12=E2T3_YA
 0x9C7C3B12=E2T3_YA
@@ -720,7 +720,7 @@
 0xB595D142=~z~妈的。
 
 ;0xB68EA967=~z~-You missed. You swing like a fag.
-0xB68EA967=~z~－这都打不着。挥杆还跟个基佬似的。
+0xB68EA967=~z~这都打不着。挥杆还跟个基佬似的。
 
 ;0xB7AE1FA3=~z~That was a pleasant outing, Rock. Where's that put us with you know what? We square?
 0xB7AE1FA3=~z~玩得真开心啊，Rock。这次惹的麻烦也太大了吧？扯平了没？
@@ -834,7 +834,7 @@
 0xCEDA250D=~z~去你妈的。
 
 ;0xD050726C=~z~I've done a deal with the wrong devil, man.
-0xD050726C=~z~这一笔交易要让我万劫不复了，哥们。
+0xD050726C=~z~这笔交易要让我万劫不复了，哥们。
 
 ;0xD10D1C20=~z~Shit! Jack Duffy's their guy with the Transport Workers Union. Okay?
 0xD10D1C20=~z~妈的！运输工会的Jack Duffy是他们的人。够了吗？
@@ -858,7 +858,7 @@
 0xD69046AF=~z~还没交代完吧，我懂的。
 
 ;0xD7D4051B=~z~in the history of this town
-0xD7D4051B=~z~唯一一个同时拥有
+0xD7D4051B=~z~唯一一个
 
 ;0xD7E9E01A=~z~You ain't even making a dent on the interest and muscles over there killed our friend.
 0xD7E9E01A=~z~今天的事还个利息都不够，大块头还把那位朋友给杀了。

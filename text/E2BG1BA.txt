@@ -3,7 +3,7 @@
 0x02BE3803=~z~可能早就终身监禁了。是Tony给了我一切机会。
 
 ;0x0337CC81=~z~Perhaps. For now... perhaps. But do you think you are achieving everything you could?
-0x0337CC81=~z~也许吧。也许现在是这样。难道这就是你能力所及的一切了吗？
+0x0337CC81=~z~也许吧。也许现在是这样。难道这就是你力所能及的一切了吗？
 
 ;0x043D6A2A=E2BG1_BKF
 0x043D6A2A=E2BG1_BKF
@@ -138,7 +138,7 @@
 0x2DA204C1=~z~好吧。
 
 ;0x2EC8825C=~z~I'm cracking up here, Luis. Hurry the fuck up. How long are you going to be?
-0x2EC8825C=~z~我要忙裂开了，Luis。你他妈快点。多久你能到？
+0x2EC8825C=~z~我要忙裂开了，Luis。你他妈快点。多久才能到？
 
 ;0x30332962=SFX_PAUSE_270
 0x30332962=SFX_PAUSE_270
@@ -174,7 +174,7 @@
 0x3C8C411D=E2BG1_BZD
 
 ;0x4032C2BA=~z~Tony's my business partner, bro. I ain't just leaving when a better offer comes along.
-0x4032C2BA=~z~Tony是我的生意伙伴，兄弟。我不会因为一点利益就抛弃他。
+0x4032C2BA=~z~Tony是我的合伙人，兄弟。我不会因为一点利益就抛弃他。
 
 ;0x407716C1=~z~Shit, bro, just 'cause I got a gay boss, don't mean I'm gonna get intimate with you.
 0x407716C1=~z~操，兄弟。我有个基佬老板，不代表会跟你亲密接触啊。
@@ -321,7 +321,7 @@
 0x74CF931F=~z~要想买通别人，有时子弹比黄金更管用。
 
 ;0x75C0104A=~z~What do you mean, "what's up"? Where are you?
-0x75C0104A=~z~「咋地了」是什么意思？你在哪呢？
+0x75C0104A=~z~「咋的了」是什么意思？你在哪呢？
 
 ;0x760F0C2D=E2BG1_BTE
 0x760F0C2D=E2BG1_BTE
@@ -534,7 +534,7 @@
 0xB192852E=SFX_PAUSE_140
 
 ;0xB3D7CD21=~z~Pro fighting's a joke, bro. May as well be a wrestler if you want to join the circus.
-0xB3D7CD21=~z~职业格斗就是个笑话，兄弟。想进马戏团也可以当摔跤手啊。
+0xB3D7CD21=~z~职业格斗就是个笑话，兄弟。还不如进马戏团当摔跤手。
 
 ;0xB422E1C6=SFX_PAUSE_620
 0xB422E1C6=SFX_PAUSE_620
@@ -600,13 +600,13 @@
 0xC926CAAF=E2BG1_BME
 
 ;0xC99DDC10=~z~He gets his kicks elsewhere, but he's been a good boss to me, and a good guide. Helped me out.
-0xC99DDC10=~z~虽然他天天出去鬼混，但他是我的好老板，好大哥。他救了我。
+0xC99DDC10=~z~虽然他天天出去鬼混，但他是我的好老板、好大哥。他救了我。
 
 ;0xCA1C69E2=SFX_PAUSE_390
 0xCA1C69E2=SFX_PAUSE_390
 
 ;0xCAFF8287=~z~For anything to happen, they must be eliminated.
-0xCAFF8287=~z~不惜一切手段，一定要消灭他们、
+0xCAFF8287=~z~不惜一切手段，一定要消灭他们。
 
 ;0xCC03AB66=E2BG1_BZA
 0xCC03AB66=E2BG1_BZA
@@ -702,7 +702,7 @@
 0xEB88A899=E2BG1_BKB
 
 ;0xEC3FF4C7=~z~A stake. Sure. You still take orders from him, don't you? You clean up his shit?
-0xEC3FF4C7=~z~哼哼，股份。那是，可你不照样被他差遣使唤？帮他擦屁股？
+0xEC3FF4C7=~z~哼哼，股份。是，可你不照样被他差遣使唤？帮他擦屁股？
 
 ;0xECF5A451=SFX_PAUSE_330
 0xECF5A451=SFX_PAUSE_330

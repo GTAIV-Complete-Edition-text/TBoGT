@@ -54,7 +54,7 @@
 0x0FC4C117=~z~操，妹子，你湿透了。
 
 ;0x1001636C=~z~Yeah. I'll think about how crazy you were.
-0x1001636C=~z~会。我会想想你有多疯的。
+0x1001636C=~z~会。我会想起你有多疯的。
 
 ;0x1039B077=~z~Shit, Luis, why do I love you so bad?
 0x1039B077=~z~妈的，Luis，我怎么这么爱你？
@@ -336,7 +336,7 @@
 0x5F65AE63=~z~是啊！你他妈是一等一的疯子。
 
 ;0x608A8348=~z~You fuck people and then you ignore them. That's easy. It's a game, isn't it?
-0x608A8348=~z~你操逼完了就拍屁股走人，真轻松啊。像游戏一样，不是吗？
+0x608A8348=~z~你操完逼了就拍屁股走人，真轻松啊。像游戏一样，不是吗？
 
 ;0x60B3564A=GIRL1_JB
 0x60B3564A=GIRL1_JB
@@ -603,7 +603,7 @@
 0xA884907D=100090010
 
 ;0xAA6AA4FE=~z~It's... It was a long time ago. I mean, it's time to move on.
-0xAA6AA4FE=~z~那...那是很久以前的事了。我是说，开始新的生活吧。
+0xAA6AA4FE=~z~那...那是很久以前的事了。我是说，也该向前看了。
 
 ;0xAC8D2C73=~z~And no matter how many letters you send me, or chocolate bunnies,
 0xAC8D2C73=~z~不管你给我寄多少封信，送多少巧克力兔，

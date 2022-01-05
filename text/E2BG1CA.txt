@@ -120,7 +120,7 @@
 0x1DE30D1B=SFX_PAUSE_130
 
 ;0x1F2BBBC1=~z~I'm cracking up here, Luis. Hurry the fuck up. How long are you going to be?
-0x1F2BBBC1=~z~我要忙裂开了，Luis。你他妈快点。多久你能到？
+0x1F2BBBC1=~z~我要忙裂开了，Luis。你他妈快点。多久才能到？
 
 ;0x1F612141=SFX_PAUSE_260
 0x1F612141=SFX_PAUSE_260
@@ -267,7 +267,7 @@
 0x48D2DC40=~z~Ashvilli会看到他们的下场的。
 
 ;0x4929021E=~z~Of course. Tony pulls the string and the little puppet man dance for him.
-0x4929021E=~z~哈哈，当然了。Tony一拉绳子，木偶小人就手舞足蹈了。
+0x4929021E=~z~哈哈，当然了。Tony一拉绳子，小木偶就手舞足蹈了。
 
 ;0x4A65E089=SFX_PAUSE_230
 0x4A65E089=SFX_PAUSE_230
@@ -306,7 +306,7 @@
 0x582C8480=~z~他就是个笑话。
 
 ;0x59765596=~z~They will be scraping them off the wall for weeks.
-0x59765596=~z~得花几个星期才能把墙刮干净
+0x59765596=~z~得花几个星期才能把墙刮干净。
 
 ;0x59CB3043=~z~I am trying to buy him out of every position he holds.
 0x59CB3043=~z~我要试着买走他的所有地位。
@@ -492,7 +492,7 @@
 0x875DA228=E2BG1_CGC
 
 ;0x87CC3AFA=~z~What the fuck is this? I don't like killing government agents so I ain't got no balls? Gimme a break.
-0x87CC3AFA=~z~你他妈说啥呢？我不想杀政府的人，所以我没种？饶了我吧。
+0x87CC3AFA=~z~你他妈说啥呢？不想杀政府的人，所以我没种？饶了我吧。
 
 ;0x893C188B=010090010090100090100
 0x893C188B=010090010090100090100
@@ -756,7 +756,7 @@
 0xCF817807=~z~让相关人士重新考虑要不要继续与他合作。
 
 ;0xD08CEB9A=~z~Okay, man, you sent your message. Who is this guy?
-0xD08CEB9A=~z~好吧哥们。消息已经传达了。这人是谁？
+0xD08CEB9A=~z~好吧哥们，消息已经传达了。这人是谁？
 
 ;0xD111A4B5=~z~It is piece of shit. I bought it for my sister.
 0xD111A4B5=~z~这里是个屁。我买给我妹妹的。
@@ -906,7 +906,7 @@
 0xF292C885=E2BG1_CBC
 
 ;0xF2BEE2E8=~z~What do you mean, "what's up"? Where are you?
-0xF2BEE2E8=~z~「咋地了」是什么意思？你在哪呢？
+0xF2BEE2E8=~z~「咋的了」是什么意思？你在哪呢？
 
 ;0xF2DB07DD=SFX_PAUSE_130
 0xF2DB07DD=SFX_PAUSE_130

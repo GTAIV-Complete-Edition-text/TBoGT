@@ -200,7 +200,7 @@
 0x35FDC099=~z~我也是。
 
 ;0x3614DABA=~z~Ended up cornering Jimmy Boston and crying her eyes out. Telling him she hated her life.
-0x3614DABA=~z~最后把Jimmy Boston逼到墙角，哭得稀里哗啦的。一直在说日子有多难过。
+0x3614DABA=~z~最后把Jimmy Boston逼到墙角，自己哭得稀里哗啦的。一直在说日子有多难过。
 
 ;0x363ABA2D=~z~I been meaning to ask you, L. How your tight-ass hermano feel about your current situation.
 0x363ABA2D=~z~我一直都想问你，L，你那铁公鸡兄弟对你的现状有啥看法。
@@ -557,7 +557,7 @@
 0x8A90897E=E2FC_JD
 
 ;0x8AC4F571=~z~Don't look down on her for that shit. Not everyone as acclimatized to the fancy-ass celebrity scene as you are, bro.
-0x8AC4F571=~z~别因为这事看不起她。不是所有人都跟你一样，能在名人面前如鱼得水的。
+0x8AC4F571=~z~别因为这事看不起她。不是所有人都跟你一样能在名人面前如鱼得水的。
 
 ;0x8ACE18B2=E2FC_GAB
 0x8ACE18B2=E2FC_GAB
@@ -980,7 +980,8 @@
 0xE2FAB81D=E2FC_JF
 
 ;0xE4733778=~z~Anyway, she was maybe a couple of months back on a conference.
-0xE4733778=~z~不过，几个月前她可能来开过会。
+0xE4733778=~z~是啊。
+;配音中为"Yeah."
 
 ;0xE54B8F7F=~z~Well, I gotta change.
 0xE54B8F7F=~z~是吗，以后就不是了。
@@ -1055,7 +1056,8 @@
 0xF267950C=E2FC_CK
 
 ;0xF27ED38F=~z~Even better.
-0xF27ED38F=~z~那不是更好。
+0xF27ED38F=~z~好吧。
+;配音中为"Oh, that's cool"
 
 ;0xF29D5D22=E2FC_JQ
 0xF29D5D22=E2FC_JQ

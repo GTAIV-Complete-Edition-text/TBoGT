@@ -405,7 +405,7 @@
 0x60C01A17=E2FH_AJA
 
 ;0x618ACBF0=~z~We could hit up Bahama Mamas.
-0x618ACBF0=~z~我们可以去Bahama Mamas。
+0x618ACBF0=~z~我们可以去巴哈马妈妈。
 
 ;0x61E6FE80=E2FH_AHA
 0x61E6FE80=E2FH_AHA

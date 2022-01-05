@@ -111,7 +111,7 @@
 0x3C45E3B4=~z~下一步呢？
 
 ;0x3C556A84=~z~Yo. Can you check the hall for me.
-0x3C556A84=~z~哟，能帮我去看一下玄关吗？
+0x3C556A84=~z~哟，能帮我去看一下走廊吗？
 
 ;0x3D7DF513=101
 0x3D7DF513=101
@@ -123,7 +123,7 @@
 0x416C282A=~z~明白。
 
 ;0x4A9B8710=~z~Okay, boss. You mind taking a look in the hall area?
-0x4A9B8710=~z~好的，老板。你介意去玄关看一下吗？
+0x4A9B8710=~z~好的，老板。你介意去走廊看一下吗？
 
 ;0x4BE4C351=~z~We got one less guy to worry about down here.
 0x4BE4C351=~z~又少了一个需要咱操心的家伙。
@@ -147,7 +147,7 @@
 0x56047E3E=101
 
 ;0x59DD2593=~z~We need someone in the hall, boss.
-0x59DD2593=~z~玄关需要人手，老板。
+0x59DD2593=~z~走廊需要人手，老板。
 
 ;0x5A4988C7=~z~Everyone behaving themselves?
 0x5A4988C7=~z~没人在惹事吧？
@@ -186,7 +186,7 @@
 0x6536159D=E2CL_WA
 
 ;0x6886C2E6=~z~I could use someone in the hall, if you don't mind.
-0x6886C2E6=~z~玄关那边缺个人，你去不去？
+0x6886C2E6=~z~走廊那边缺个人，你去不去？
 
 ;0x69C01566=~z~There's a guy way out of control down here.
 0x69C01566=~z~这边有人发酒疯了。

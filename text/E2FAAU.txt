@@ -473,7 +473,7 @@
 0x5FC63EF4=E2FA_QA
 
 ;0x60EC8FAA=~z~As Rique's boss, I can give him the time off. Come pick us up in the next two hours.
-0x60EC8FAA=~z~作为Rique的老板，我可以给他放会儿假。两小时内来接咱们吧。
+0x60EC8FAA=~z~身为Rique的老板，我可以给他放会儿假。两小时内来接咱们吧。
 
 ;0x6155EB21=~z~You gone weird, bro. Goodbye.
 0x6155EB21=~z~你不对劲，兄弟。再见。
@@ -569,7 +569,7 @@
 0x7700BD47=100
 
 ;0x77D0BFFC=~z~Getting your asshole bleached or something? Fuckin' figures.
-0x77D0BFFC=~z~你是忙着洗腚眼子吗？傻逼名流。
+0x77D0BFFC=~z~你是忙着洗屁眼吗？傻逼名流。
 
 ;0x77EF5E0D=~z~You dead? You dead, motherfucker? That's the only excuse I can think of for you being such a shit friend. How about you remind me and Rique why we liked you once?
 0x77EF5E0D=~z~你死了？我想不到别的理由能解释你抛弃朋友的行为了。能不能来帮我和Rique回忆一下我们咋喜欢上你的？

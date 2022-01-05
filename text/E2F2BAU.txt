@@ -174,7 +174,7 @@
 0x465F7215=~z~是他们找上来的，兄弟。他们死了不怪我们。
 
 ;0x47E785CB=~z~Yeah I guess my shooting was more important than my man management skills on this "business trip".
-0x47E785CB=~z~我猜今天出的这趟差，我的枪法比那些人力管理经验还要重要。
+0x47E785CB=~z~今天出的这趟差，我的枪法比管人的经验还要重要。
 
 ;0x4925C0E2=100090010
 0x4925C0E2=100090010
@@ -396,7 +396,7 @@
 0x9A1B8F9B=~z~妈的，你们为了钱是真的拼啊。
 
 ;0x9A7823FA=~z~This may be shit, but at least we work for ourselves. We ain't someone's bitch.
-0x9A7823FA=~z~可能是不太好，但至少我们是为自己工作，不是给人当狗使。
+0x9A7823FA=~z~可能是不太好，但至少我们是为自己工作，不是给谁当狗。
 
 ;0x9B03A61A=E2F2_DVA
 0x9B03A61A=E2F2_DVA
@@ -531,7 +531,7 @@
 0xC5F104B9=SFX_PAUSE_270
 
 ;0xC6CA77B2=~z~Fuck, bro. At least we ain't there when the police is showing up. That's the one consolation I can think of.
-0xC6CA77B2=~z~操，兄弟。至少警察来的时候我们不在现场。让我还算欣慰。
+0xC6CA77B2=~z~操，兄弟。至少我们没被警察抓到现行，让我还算欣慰。
 
 ;0xC6DAE0AB=100090010
 0xC6DAE0AB=100090010
@@ -717,7 +717,7 @@
 0xF8E251C4=392
 
 ;0xF9196830=~z~For real. We gonna get paid, bro. Give us a call, okay.
-0xF9196830=~z~确实。我们能拿钱了，兄弟。有空打电话，好吗？
+0xF9196830=~z~确实。我们能拿钱了，兄弟。有空联系，好吗？
 
 ;0xF9E190E6=~z~"A guy got to go"? Henrique was family, bro. I'll see you round.
 0xF9E190E6=~z~「人总有一死」？Henrique是我们的家人啊，兄弟。再见了。

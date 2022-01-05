@@ -1,6 +1,6 @@
 ﻿[BJUMP]
 ;0x0947F6F9=Base jump onto the ~b~moving vehicle.
-0x0947F6F9=跳到~b~行驶的车~s~上。
+0x0947F6F9=跳到~b~行驶的载具~s~上。
 
 ;0x0B222650=Open the parachute and glide through the checkpoints.
 0x0B222650=打开降落伞通过检查点。
@@ -9,7 +9,7 @@
 0x29DD6FDB=~r~低空跳伞失败。
 
 ;0x38DA369C=A parachute is now available in you appartment.
-0x38DA369C=一个降落伞送到了你的公寓。
+0x38DA369C=降落伞已送至你的公寓。
 
 ;0x44E698BD=Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_MOUSE_LMB~ to jump.
 0x44E698BD=用~PAD_RSTICK_ALL~观察四周，按~INPUT_MOUSE_LMB~起跳。
@@ -21,10 +21,10 @@
 0x576B17C9=跳到检查点上。
 
 ;0x96DB65EE=Jump off the ramp then press ~INPUT_ENTER~.
-0x96DB65EE=跳下斜坡按~INPUT_ENTER~。
+0x96DB65EE=跳下斜坡后按~INPUT_ENTER~跳车。
 
 ;0xA2B29590=Base jump onto the moving vehicle.
-0xA2B29590=跳到行驶的车上。
+0xA2B29590=跳到行驶的载具上。
 
 ;0xA4BE06BD=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
 0xA4BE06BD=用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。
@@ -36,8 +36,8 @@
 0xE0AF506E=用~PAD_RSTICK_ALL~观察四周，按~INPUT_ENTER~起跳。
 
 ;0xE439538C=Open the parachute and glide through the ~y~checkpoints.
-0xE439538C=打开降落伞滑翔通过~y~检查点。
+0xE439538C=打开降落伞通过~y~检查点。
 
 ;0xF23E4D59=Base jump onto the ~y~checkpoint.
-0xF23E4D59=跳到~y~检查点。
+0xF23E4D59=跳到~y~检查点~s~上。
 

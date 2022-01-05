@@ -135,7 +135,7 @@
 0xE7250233=~s~等待~b~Mori~s~和~b~Brucie。
 
 ;0xF5D822D2=~s~Go to the ~y~car park.
-0xF5D822D2=~s~前往~y~停车场，
+0xF5D822D2=~s~前往~y~停车场。
 
 ;0xF74B00FC=~s~Keep up with ~b~Mori.
 0xF74B00FC=~s~跟紧~b~Mori。

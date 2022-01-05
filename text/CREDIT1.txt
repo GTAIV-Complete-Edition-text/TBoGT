@@ -42,16 +42,16 @@
 0x03E3EC6B=Forrest Karbowski, Aaron Stewart
 
 ;0x0455EA93=Intellectual alien
-0x0455EA93=Intellectual alien
+0x0455EA93=聪明的外星人
 
 ;0x049E6787=Ashley Joyce
 0x049E6787=Ashley Joyce
 
 ;0x04E6C807=The Lost and Damned
-0x04E6C807=The Lost and Damned
+0x04E6C807=失落与诅咒
 
 ;0x0502D830=The New Crowd Of Liberty City
-0x0502D830=The New Crowd Of Liberty City
+0x0502D830=新人亮相自由城
 
 ;0x05107711=Prison Guard
 0x05107711=Prison Guard
@@ -63,7 +63,7 @@
 0x05E3C9B6=Curious Pictures
 
 ;0x070DB9CE=Lead Test Analysts
-0x070DB9CE=Lead Test Analysts
+0x070DB9CE=测试分析
 
 ;0x07408571=Sharon Morton
 0x07408571=Sharon Morton
@@ -84,7 +84,7 @@
 0x0828FC51=Graeme Wright
 
 ;0x083CB5C8=Technical Designers
-0x083CB5C8=Technical Designers
+0x083CB5C8=技术设计
 
 ;0x0872511F=Andrew Caira
 0x0872511F=Andrew Caira
@@ -99,10 +99,10 @@
 0x09CCC216=Sicilianaire Riddim by Oliver Rodigan
 
 ;0x0A25484E=Weathercaster
-0x0A25484E=Weathercaster
+0x0A25484E=天气预报
 
 ;0x0AE68633=Radio and TV Singing by Anthony Cumia, Allison Ford,
-0x0AE68633=Radio and TV Singing by Anthony Cumia, Allison Ford,
+0x0AE68633=电台电视歌手 Anthony Cumia, Allison Ford,
 
 ;0x0B59CB8E=Andrew Savage
 0x0B59CB8E=Andrew Savage
@@ -123,7 +123,7 @@
 0x0CA9B351=Mathew P McCarthy
 
 ;0x0CF239EC=Audio Development Assistant
-0x0CF239EC=Audio Development Assistant
+0x0CF239EC=音效开发助理
 
 ;0x0D11AC1F=Chris Mansfield, Jesus E. Martinez, Joselyn Martinez,
 0x0D11AC1F=Chris Mansfield, Jesus E. Martinez, Joselyn Martinez,
@@ -165,13 +165,13 @@
 0x0FCA3280=Arthur Khaldarov, Jason Knox, Ravi Lakheeram, Tafari Lawton,
 
 ;0x103134FF=Produced by Stuart Hart and Tony Eicher for SelecTracks
-0x103134FF=Produced by Stuart Hart and Tony Eicher for SelecTracks
+0x103134FF=制作人 来自 SelecTracks 的 Stuart Hart 与 Tony Eicher
 
 ;0x10371512=Sam Chivers
 0x10371512=Sam Chivers
 
 ;0x119FA140=Tramp
-0x119FA140=Tramp
+0x119FA140=流浪汉
 
 ;0x126F57D8=Rocco Cambareri
 0x126F57D8=Rocco Cambareri
@@ -234,7 +234,7 @@
 0x162025EC=Ramon Stokes,Kat Storm, Ray Smiling, Robert Spampinato,
 
 ;0x16F3D2F1=The Men's Room with Bas and Jeremy
-0x16F3D2F1=The Men's Room with Bas and Jeremy
+0x16F3D2F1=Bas 与 Jeremy 的男子更衣室
 
 ;0x17163EF6=Paul Blyth
 0x17163EF6=Paul Blyth
@@ -270,7 +270,7 @@
 0x19FD710E=Matt Rowley
 
 ;0x1A32CC34=Cutscene Cameras
-0x1A32CC34=Cutscene Cameras
+0x1A32CC34=过场动画镜头
 
 ;0x1A92CC35=Nikki Imbornone, Ray "Fling Poo" Lai, Brett Bisogno,
 0x1A92CC35=Nikki Imbornone, Ray "Fling Poo" Lai, Brett Bisogno,
@@ -282,7 +282,7 @@
 0x1BBC7222=Raquel Garcia
 
 ;0x1C0473A6=Motion Capture Characters performed by
-0x1C0473A6=Motion Capture Characters performed by
+0x1C0473A6=动捕演员
 
 ;0x1C935DAD=Tom Adam
 0x1C935DAD=Tom Adam
@@ -315,13 +315,13 @@
 0x21305763=D.B. Cooper
 
 ;0x2141D6DB=Animation Director
-0x2141D6DB=Animation Director
+0x2141D6DB=动画总监
 
 ;0x22B00A04=Greg Weller
 0x22B00A04=Greg Weller
 
 ;0x22B97076=Systems Programmers
-0x22B97076=Systems Programmers
+0x22B97076=系统程序
 
 ;0x23075D6A=Victor Cruz, Vincent C Parker, Lazzarus,
 0x23075D6A=Victor Cruz, Vincent C Parker, Lazzarus,
@@ -336,7 +336,7 @@
 0x2361DA0D=Jorje
 
 ;0x23A0213E=Personal Assistant
-0x23A0213E=Personal Assistant
+0x23A0213E=私人助理
 
 ;0x23B05FE1=Robert Bogue
 0x23B05FE1=Robert Bogue
@@ -345,7 +345,7 @@
 0x245AD619=Robert Chimes
 
 ;0x24795DDE=Weaponry
-0x24795DDE=Weaponry
+0x24795DDE=武器
 
 ;0x24B55F6E=Andrew Einhorn, Andrew Lee, Corey Noble,
 0x24B55F6E=Andrew Einhorn, Andrew Lee, Corey Noble,
@@ -354,7 +354,7 @@
 0x25A70E97=Chris Dixon
 
 ;0x268EF7C7=Pedestrians Directed By:
-0x268EF7C7=Pedestrians Directed By:
+0x268EF7C7=路人导演
 
 ;0x26CE2B85=Andreas
 0x26CE2B85=Andreas
@@ -387,10 +387,10 @@
 0x28FBB359=John Reilly
 
 ;0x29123AEA=Pretty Boy
-0x29123AEA=Pretty Boy
+0x29123AEA=靓仔
 
 ;0x292E2E8E=Technical Director
-0x292E2E8E=Technical Director
+0x292E2E8E=技术总监
 
 ;0x295B69C6=Dennis K. Philbert, Angela Funk, Nate Smith,
 0x295B69C6=Dennis K. Philbert, Angela Funk, Nate Smith,
@@ -435,7 +435,7 @@
 0x2F3F9907=Max Cavalera
 
 ;0x2F6276B4=Cutscene Resource Assistant
-0x2F6276B4=Cutscene Resource Assistant
+0x2F6276B4=过场动画资源助理
 
 ;0x2F82EE59=Wayne Sean Dyson,John A Dzubak, Rachel Epstein,
 0x2F82EE59=Wayne Sean Dyson,John A Dzubak, Rachel Epstein,
@@ -465,7 +465,7 @@
 0x327F0712=Amy Evinger
 
 ;0x32D4A76C=Republican Space Rangers Episode 456
-0x32D4A76C=Republican Space Rangers Episode 456
+0x32D4A76C=共和太空游骑兵 第456集
 
 ;0x32DE5E48=Yomi, Jon Young, Trevor Zhou, John Zurhellen
 0x32DE5E48=Yomi, Jon Young, Trevor Zhou, John Zurhellen
@@ -477,7 +477,7 @@
 0x33D6A7BC=Steve Guillaume
 
 ;0x33FC4BFA=Cutscenes Mixed By
-0x33FC4BFA=Cutscenes Mixed By
+0x33FC4BFA=过场动画合成
 
 ;0x340D6E2B=James Crocker
 0x340D6E2B=James Crocker
@@ -510,7 +510,7 @@
 0x399E4FE3=Craig McIntosh
 
 ;0x3A26A5BB=Associate Technical Directors
-0x3A26A5BB=Associate Technical Directors
+0x3A26A5BB=技术副总监
 
 ;0x3A7A0447=Jaesun Celebre, Jason Cerbone, Pei Chien, Eddie Hyungjin Cho,
 0x3A7A0447=Jaesun Celebre, Jason Cerbone, Pei Chien, Eddie Hyungjin Cho,
@@ -624,7 +624,7 @@
 0x4532E5C9=Koji Nonoyama
 
 ;0x45635941=TV Graphics by Stephen Ellis
-0x45635941=TV Graphics by Stephen Ellis
+0x45635941=电视制作 Stephen Ellis
 
 ;0x46555B53=Simon Edgeler
 0x46555B53=Simon Edgeler
@@ -633,7 +633,7 @@
 0x4690DCE1=Charles Czerkawski
 
 ;0x469D34B0=The People of Liberty City
-0x469D34B0=The People of Liberty City
+0x469D34B0=自由城居民
 
 ;0x46C29B55=John Lantz
 0x46C29B55=John Lantz
@@ -672,10 +672,10 @@
 0x4A28AC22=Lisa Olsen
 
 ;0x4A48AE0F=Police Officer
-0x4A48AE0F=Police Officer
+0x4A48AE0F=警官
 
 ;0x4A8DD1F4=Associate Producer
-0x4A8DD1F4=Associate Producer
+0x4A8DD1F4=联合制作人
 
 ;0x4ADDA99E=Chris Corley
 0x4ADDA99E=Chris Corley
@@ -684,10 +684,10 @@
 0x4B00AAD0=Lauren Fortgang, M Fletcher, Cathy Trien,
 
 ;0x4B99C861=Caricature Artist
-0x4B99C861=Caricature Artist
+0x4B99C861=漫画家
 
 ;0x4BECAC6F=Build Engineers
-0x4BECAC6F=Build Engineers
+0x4BECAC6F=编译统筹
 
 ;0x4C29E766=Nelson Vasquez
 0x4C29E766=Nelson Vasquez
@@ -714,10 +714,10 @@
 0x4DFF8CDF=Chris Conway
 
 ;0x4E733C8F=Triad 1
-0x4E733C8F=Triad 1
+0x4E733C8F=三合会成员 1
 
 ;0x4E7B770A=Hotdog Vendor
-0x4E7B770A=Hotdog Vendor
+0x4E7B770A=热狗小贩
 
 ;0x4F304649=Anneline Groves
 0x4F304649=Anneline Groves
@@ -750,10 +750,10 @@
 0x5285F3E9=Tom McKeon
 
 ;0x52A2B589=EPISODES FROM LIBERTY CITY
-0x52A2B589=EPISODES FROM LIBERTY CITY
+0x52A2B589=自由城之章
 
 ;0x52A408EA=Antifan1
-0x52A408EA=Antifan1
+0x52A408EA=黑粉 1
 
 ;0x52D61A3D=Lloyd Thompson,
 0x52D61A3D=Lloyd Thompson,
@@ -795,16 +795,16 @@
 0x56653C58=Mike Wolfe
 
 ;0x5673232D=Cook
-0x5673232D=Cook
+0x5673232D=厨师
 
 ;0x56F96A42=Street Percussion Musician
-0x56F96A42=Street Percussion Musician
+0x56F96A42=街头打击乐表演者
 
 ;0x57C6FD50=Production voice and Imaging
-0x57C6FD50=Production voice and Imaging
+0x57C6FD50=台呼配音制作
 
 ;0x57E5D74E=Sword Boy
-0x57E5D74E=Sword Boy
+0x57E5D74E=剑士少年
 
 ;0x584FA428=Frank Chen
 0x584FA428=Frank Chen
@@ -813,7 +813,7 @@
 0x58B72B19=Raffeal A. Sears, Julia Segal, Robert Saietta,
 
 ;0x58F33C05=Photo Scan
-0x58F33C05=Photo Scan
+0x58F33C05=照片扫描
 
 ;0x58F39298=Charles Burrell
 0x58F39298=Charles Burrell
@@ -822,19 +822,19 @@
 0x58FF36A5=Immigration Agent
 
 ;0x591206DD=Broker, Bohan, Dukes Map Artists
-0x591206DD=Broker, Bohan, Dukes Map Artists
+0x591206DD=Broker, Bohan, Dukes地图设计
 
 ;0x59129C77=HOST:
-0x59129C77=HOST:
+0x59129C77=主持人
 
 ;0x59189690=Dave Scott
 0x59189690=Dave Scott
 
 ;0x5940065A=Girl in Office
-0x5940065A=Girl in Office
+0x5940065A=办公室里的姑娘
 
 ;0x5AFF4C6C=Lazlow as himself
-0x5AFF4C6C=Lazlow as himself
+0x5AFF4C6C=Lazlow本色出演
 
 ;0x5BCC03B8=Thierry Stokman
 0x5BCC03B8=Thierry Stokman
@@ -849,10 +849,10 @@
 0x5C962075=Wendy Rodriguez
 
 ;0x5CB1E0F9=Music Credits
-0x5CB1E0F9=Music Credits
+0x5CB1E0F9=音乐制作
 
 ;0x5D0F7073=TV camera work by Charles Burrell,
-0x5D0F7073=TV camera work by Charles Burrell,
+0x5D0F7073=电视摄影 Charles Burrell,
 
 ;0x5D664988=Steve "Knuckles" Donohoe
 0x5D664988=Steve "Knuckles" Donohoe
@@ -912,7 +912,7 @@
 0x62808616=Abdul Amir
 
 ;0x62B5829A=Casting
-0x62B5829A=Casting
+0x62B5829A=选角
 
 ;0x63074210=Ryan Schacter
 0x63074210=Ryan Schacter
@@ -924,7 +924,7 @@
 0x639184FA=Federico Clonfero
 
 ;0x64811A56=Det. Mathews
-0x64811A56=Det. Mathews
+0x64811A56=Mathews警探
 
 ;0x652CD69D=Wilhelm Lewis
 0x652CD69D=Wilhelm Lewis
@@ -936,7 +936,7 @@
 0x65725497=J. Salomé Martinez Jr.
 
 ;0x658F152A=Written and produced by Aaron Johnston, Jesse Murphy and Avi Bortnick
-0x658F152A=Written and produced by Aaron Johnston, Jesse Murphy and Avi Bortnick
+0x658F152A=编曲制作 Aaron Johnston, Jesse Murphy & Avi Bortnick
 
 ;0x667A457F=Fidel Vicioso, Faina Vitebsky, Andrew L Walker Jr.,
 0x667A457F=Fidel Vicioso, Faina Vitebsky, Andrew L Walker Jr.,
@@ -957,7 +957,7 @@
 0x67385E35=Vasiko Manjgaladze
 
 ;0x6758BF00=Audio Tester
-0x6758BF00=Audio Tester
+0x6758BF00=音频测试
 
 ;0x6791557A=Bradlay Law
 0x6791557A=Bradlay Law
@@ -978,13 +978,13 @@
 0x69545F99=Dave Collier
 
 ;0x69A3F4AE=Junior Artist
-0x69A3F4AE=Junior Artist
+0x69A3F4AE=初级美术
 
 ;0x69A73A2E=Special Thanks
-0x69A73A2E=Special Thanks
+0x69A73A2E=特别感谢
 
 ;0x69D13744=Antifan2
-0x69D13744=Antifan2
+0x69D13744=黑粉 2
 
 ;0x69F419B5=Zachary Gershman
 0x69F419B5=Zachary Gershman
@@ -1065,7 +1065,7 @@
 0x7165FA13=Alex Dunn
 
 ;0x71E3F781=THE LOST AND THE DAMNED THEME
-0x71E3F781=THE LOST AND THE DAMNED THEME
+0x71E3F781=失落与诅咒主题曲
 
 ;0x7215EF8A=Clark Harris
 0x7215EF8A=Clark Harris
@@ -1080,13 +1080,13 @@
 0x7471E28E=Jerry Rohira, Alan Rosinsky,Danny Rutigliano,
 
 ;0x747E03DD=Admin Support
-0x747E03DD=Admin Support
+0x747E03DD=行政支持
 
 ;0x74B4EA18=Iain Downie
 0x74B4EA18=Iain Downie
 
 ;0x74D44702=Internet written by Michael Unsworth, Lazlow,
-0x74D44702=Internet written by Michael Unsworth, Lazlow,
+0x74D44702=网站内容 Michael Unsworth, Lazlow,
 
 ;0x7517C61D=Evan Moss
 0x7517C61D=Evan Moss
@@ -1110,7 +1110,7 @@
 0x7834927C=Carla Renata Williams
 
 ;0x78A4E90C=Maisonette 9 girl
-0x78A4E90C=Maisonette 9 girl
+0x78A4E90C=9号豪宅的姑娘
 
 ;0x79990816=Matthew Forman
 0x79990816=Matthew Forman
@@ -1125,7 +1125,7 @@
 0x7A1CB710=Ryan Woodle
 
 ;0x7A424145=Facial Animation
-0x7A424145=Facial Animation
+0x7A424145=面部动画
 
 ;0x7A44D320=John Beach
 0x7A44D320=John Beach
@@ -1134,13 +1134,13 @@
 0x7A8BEB29=Serge Boguslavskij
 
 ;0x7A98FF72=Cutscene Production Co-ordinator
-0x7A98FF72=Cutscene Production Co-ordinator
+0x7A98FF72=过场动画制作统筹
 
 ;0x7B243F47=Tahir
 0x7B243F47=Tahir
 
 ;0x7B4E8E5B=Location Sound
-0x7B4E8E5B=Location Sound
+0x7B4E8E5B=录音棚
 
 ;0x7B60C689=Crack Ho
 0x7B60C689=Crack Ho
@@ -1155,7 +1155,7 @@
 0x7C450A88=William Prinsell, Craig Reid,Curtis Jido Reyes,
 
 ;0x7CEAB42A=Associate Art Directors
-0x7CEAB42A=Associate Art Directors
+0x7CEAB42A=美术副总监
 
 ;0x7CFE8AA3=Jonathan Beesen, André Blake, Michelle Blakely, Ian Bedford,
 0x7CFE8AA3=Jonathan Beesen, André Blake, Michelle Blakely, Ian Bedford,
@@ -1164,7 +1164,7 @@
 0x7D21FCD3=Clay Simons
 
 ;0x7D4949BB=Senior Localization Supervisor
-0x7D4949BB=Senior Localization Supervisor
+0x7D4949BB=高级本土化监督
 
 ;0x7D6CEFB3=Stephen Cooper
 0x7D6CEFB3=Stephen Cooper
@@ -1203,7 +1203,7 @@
 0x809A0045=Silvia Cabrera
 
 ;0x80DDA580=Cutscene Assistant
-0x80DDA580=Cutscene Assistant
+0x80DDA580=过场动画助理
 
 ;0x80E3163F=Robert Blumenfeld
 0x80E3163F=Robert Blumenfeld
@@ -1215,7 +1215,7 @@
 0x81A62BEC=Nicholas Browning
 
 ;0x81D916B4=Triad
-0x81D916B4=Triad
+0x81D916B4=三合会成员
 
 ;0x82DAE73C=Mark Mears
 0x82DAE73C=Mark Mears
@@ -1230,10 +1230,10 @@
 0x83BA9B6B=Liza Mosquito de Guia, Eric Strickler, Leif Riddell,
 
 ;0x83C368EE=TV Graphics and cartoon animation by Stephen Ellis and Jasmina Mathieu
-0x83C368EE=TV Graphics and cartoon animation by Stephen Ellis and Jasmina Mathieu
+0x83C368EE=电视制作与卡通动画 Stephen Ellis & Jasmina Mathieu
 
 ;0x83E74294=Studio Head
-0x83E74294=Studio Head
+0x83E74294=工作室主管
 
 ;0x840813C2=Tony Prince
 0x840813C2=Tony Prince
@@ -1272,7 +1272,7 @@
 0x87E12761=Honey Rockwell, Paula M King, Kirk Larsen,
 
 ;0x87F358B7=Rehearsal Studio
-0x87F358B7=Rehearsal Studio
+0x87F358B7=练习室
 
 ;0x880CC157=Frankie Boyle
 0x880CC157=Frankie Boyle
@@ -1290,10 +1290,10 @@
 0x89E769BC=Andrew Mariuchno
 
 ;0x8A0CED34=Callers: Ben Curtis, Jim Brachiatta, Meg Maise, Brian Schreie,
-0x8A0CED34=Callers: Ben Curtis, Jim Brachiatta, Meg Maise, Brian Schreie,
+0x8A0CED34=来电观众 Ben Curtis, Jim Brachiatta, Meg Maise, Brian Schreie,
 
 ;0x8A843B32=Production Music
-0x8A843B32=Production Music
+0x8A843B32=音乐制作
 
 ;0x8B4F0B8F=Shakira Wood
 0x8B4F0B8F=Shakira Wood
@@ -1338,7 +1338,7 @@
 0x903736D5=Timothy Adams, Maine Anders, Lucia Armendariz,
 
 ;0x9081F7C0=The Ballad of Gay Tony Theme:
-0x9081F7C0=The Ballad of Gay Tony Theme:
+0x9081F7C0=夜生活之曲主题曲
 
 ;0x909893F8=John Kim
 0x909893F8=John Kim
@@ -1422,10 +1422,10 @@
 0x97FB44C0=Craig Walker, John Senese, Jessica Knutson,
 
 ;0x987AC51C=Panty Machine Man
-0x987AC51C=Panty Machine Man
+0x987AC51C=内裤售货机前的男人
 
 ;0x9888DD16=Callers: Felix Karavassilis, Lloyd Thompson, Wendy Rodriguez
-0x9888DD16=Callers: Felix Karavassilis, Lloyd Thompson, Wendy Rodriguez
+0x9888DD16=来电观众 Felix Karavassilis, Lloyd Thompson, Wendy Rodriguez
 
 ;0x99855026=Stephen Orr
 0x99855026=Stephen Orr
@@ -1434,7 +1434,7 @@
 0x99871AFF=Craig Ballantyne
 
 ;0x99BAEA0F=Pedestrian dialogue by
-0x99BAEA0F=Pedestrian dialogue by
+0x99BAEA0F=路人台词编写
 
 ;0x9A00F17C=Matt Kazan
 0x9A00F17C=Matt Kazan
@@ -1461,7 +1461,7 @@
 0x9B60C789=Gareth Evans
 
 ;0x9BC34DED=Luis Fernando Lopez played by: Mario D'Leon.
-0x9BC34DED=Luis Fernando Lopez played by: Mario D'Leon.
+0x9BC34DED=Luis Fernando Lopez扮演者: Mario D'Leon。
 
 ;0x9BD89447=Omid Djalili
 0x9BD89447=Omid Djalili
@@ -1500,7 +1500,7 @@
 0x9FAEB907=Elan Luz Rivera, Frank G. Rivers, Bryan Rodriguez,
 
 ;0xA1346736=Republican Space Rangers - Homecoming
-0xA1346736=Republican Space Rangers - Homecoming
+0xA1346736=共和太空游骑兵－归乡
 
 ;0xA1653C4D=John Sloan
 0xA1653C4D=John Sloan
@@ -1512,10 +1512,10 @@
 0xA25131A0=Adam Westwood
 
 ;0xA2727C5F=Hispanic Alien
-0xA2727C5F=Hispanic Alien
+0xA2727C5F=西班牙裔外星人
 
 ;0xA31CA81F=Robert Dudzic and Groove Addicts
-0xA31CA81F=Robert Dudzic and Groove Addicts
+0xA31CA81F=Robert Dudzic & Groove Addicts
 
 ;0xA4596437=Denis Cawson
 0xA4596437=Denis Cawson
@@ -1548,28 +1548,28 @@
 0xA7C79C2D=Simon Ramsey
 
 ;0xA7E4A4E0=Game Testers
-0xA7E4A4E0=Game Testers
+0xA7E4A4E0=游戏测试
 
 ;0xA7EB364F=Jim Bracchitta, Kelly Coffield Park
 0xA7EB364F=Jim Bracchitta, Kelly Coffield Park
 
 ;0xA84133EE=Punter
-0xA84133EE=Punter
+0xA84133EE=赌徒
 
 ;0xA93D3737=TV camera work by Clark Harris, Shawn Allen,
-0xA93D3737=TV camera work by Clark Harris, Shawn Allen,
+0xA93D3737=电视摄影 Clark Harris, Shawn Allen,
 
 ;0xA9508D00=Test Tool Support
-0xA9508D00=Test Tool Support
+0xA9508D00=测试工具支持
 
 ;0xA9A21247=Richard Cole, Mike Colter, D.B. Cooper, Mario D'Leon,
 0xA9A21247=Richard Cole, Mike Colter, D.B. Cooper, Mario D'Leon,
 
 ;0xA9E89128=Radio and TV stations, commercials, DJ dialog,
-0xA9E89128=Radio and TV stations, commercials, DJ dialog,
+0xA9E89128=电台、电视台、广告、DJ台本、电台台呼
 
 ;0xAA2A7E3A=Animation Services
-0xAA2A7E3A=Animation Services
+0xAA2A7E3A=动画服务
 
 ;0xAA5C76CB=Lisa Lynn
 0xAA5C76CB=Lisa Lynn
@@ -1584,7 +1584,7 @@
 0xAA852043=Fred Navarrete
 
 ;0xABA38E20=Technical Analyst
-0xABA38E20=Technical Analyst
+0xABA38E20=技术分析
 
 ;0xAC2BC06E=Poppy Mitchell
 0xAC2BC06E=Poppy Mitchell
@@ -1593,7 +1593,7 @@
 0xAC7D36F4=Antony Rinaldi
 
 ;0xAD4C0D4B=Pedestrian production by
-0xAD4C0D4B=Pedestrian production by
+0xAD4C0D4B=路人制作人
 
 ;0xADC9B6D3=Sean Casey
 0xADC9B6D3=Sean Casey
@@ -1632,7 +1632,7 @@
 0xB26423CF=Jay Klaitz, Catherine LeFrere, Jessica Miangolarra
 
 ;0xB2BDDCFC=Bouncer
-0xB2BDDCFC=Bouncer
+0xB2BDDCFC=保镖
 
 ;0xB30712D2=Papi
 0xB30712D2=Papi
@@ -1641,13 +1641,13 @@
 0xB310A352=Francesca Howard
 
 ;0xB3126526=Internet built by Stuart Petri, Adam Tedman,
-0xB3126526=Internet built by Stuart Petri, Adam Tedman,
+0xB3126526=网站搭建 Stuart Petri, Adam Tedman,
 
 ;0xB3623411=Soldier
 0xB3623411=Soldier
 
 ;0xB3B4A5C4=A History of Liberty City part 2
-0xB3B4A5C4=A History of Liberty City part 2
+0xB3B4A5C4=自由城历史 第二集
 
 ;0xB4535153=Martin Logan
 0xB4535153=Martin Logan
@@ -1662,7 +1662,7 @@
 0xB5C77AE0=Amy Franklin, Lionel Galant,Rachel Gittler,Nick Giovannetti,
 
 ;0xB73C75E1=Saki
-0xB73C75E1=Saki
+0xB73C75E1=阿崎
 
 ;0xB7669A35=David Yang
 0xB7669A35=David Yang
@@ -1671,7 +1671,7 @@
 0xB84539DB=Mark Pinnock
 
 ;0xB8476E5C=The Ballad of Gay Tony
-0xB8476E5C=The Ballad of Gay Tony
+0xB8476E5C=夜生活之曲
 
 ;0xB88F3614=Steff McMullan
 0xB88F3614=Steff McMullan
@@ -1755,13 +1755,13 @@
 0xC16101C3=Euan Duncan, Jill Menzies, Ray Smiling,
 
 ;0xC2763487=Development Assistant
-0xC2763487=Development Assistant
+0xC2763487=开发助理
 
 ;0xC2E96A3A=Jeff Bottoms
 0xC2E96A3A=Jeff Bottoms
 
 ;0xC304CD5A=Master Hentai
-0xC304CD5A=Master Hentai
+0xC304CD5A=变态大师
 
 ;0xC3549CDB=Charlene T.Smith, Jonathan David Smyth, Lou Sumrall,
 0xC3549CDB=Charlene T.Smith, Jonathan David Smyth, Lou Sumrall,
@@ -1800,7 +1800,7 @@
 0xC719E11D=Mixed By
 
 ;0xC747FEBD=Union Official
-0xC747FEBD=Union Official
+0xC747FEBD=工会官员
 
 ;0xC7921E75=Angel Feliciano,Raymond C. Figueroa, Joey Fish,
 0xC7921E75=Angel Feliciano,Raymond C. Figueroa, Joey Fish,
@@ -1833,7 +1833,7 @@
 0xC9CBFC35=Jen Cohn
 
 ;0xC9FAF4AF=Frankie Boyle motion capture recorded by
-0xC9FAF4AF=Frankie Boyle motion capture recorded by
+0xC9FAF4AF=Frankie Boyle的动捕摄录
 
 ;0xCA4222C0=Lloyd Floyd
 0xCA4222C0=Lloyd Floyd
@@ -1863,7 +1863,7 @@
 0xCC1A28DD=Yanni Walker, Daphane Johnson, Andrea L Patterson,
 
 ;0xCC1DFC6A=CUTSCENES AND GAME DIALOGUE WRITTEN BY
-0xCC1DFC6A=CUTSCENES AND GAME DIALOGUE WRITTEN BY
+0xCC1DFC6A=台词编写
 
 ;0xCC3ED70D=Neil Hartop
 0xCC3ED70D=Neil Hartop
@@ -1875,7 +1875,7 @@
 0xCC796A3A=Kirk Johnston
 
 ;0xCCABF90B=Dialogue Assistant
-0xCCABF90B=Dialogue Assistant
+0xCCABF90B=台词助理
 
 ;0xCD1402B4=Chad Coleman,
 0xCD1402B4=Chad Coleman,
@@ -1932,7 +1932,7 @@
 0xD2A5FCFE=Mitch Todd
 
 ;0xD2B8AC89=Club Dude
-0xD2B8AC89=Club Dude
+0xD2B8AC89=夜店老哥
 
 ;0xD3AC2E47=Megan Raye Manzi
 0xD3AC2E47=Megan Raye Manzi
@@ -1992,7 +1992,7 @@
 0xD9288E66=Robert Youells
 
 ;0xD9B9554C=THE END
-0xD9B9554C=THE END
+0xD9B9554C=－完－
 
 ;0xD9FFB09E=Sarah Viccelio
 0xD9FFB09E=Sarah Viccelio
@@ -2028,13 +2028,13 @@
 0xDCF7F8F6=Rivera Boxing, Elena Sakevich, Greg Siff, John Tormey,
 
 ;0xDD4DED90=Recorded at Blue Sunset Studios, Brooklyn, NY
-0xDD4DED90=Recorded at Blue Sunset Studios, Brooklyn, NY
+0xDD4DED90=录制场地 Blue Sunset Studios, Brooklyn, NY
 
 ;0xDDC6CC36=Joe Gonzalez, Clark Harris, Charles Burrell,
 0xDDC6CC36=Joe Gonzalez, Clark Harris, Charles Burrell,
 
 ;0xDE9F7B7C=Recorded at
-0xDE9F7B7C=Recorded at
+0xDE9F7B7C=收录场地
 
 ;0xDF17C9E4=Gary Yeung
 0xDF17C9E4=Gary Yeung
@@ -2055,7 +2055,7 @@
 0xE0F48F41=Brian Jeremy
 
 ;0xE0F9E653=Voice of Saxaphone player:
-0xE0F9E653=Voice of Saxaphone player:
+0xE0F9E653=萨克斯演奏者配音
 
 ;0xE169FF0E=Chaz Kelly
 0xE169FF0E=Chaz Kelly
@@ -2082,7 +2082,7 @@
 0xE4D4A0FB=Timur
 
 ;0xE5F38CFD=Audio Programmer
-0xE5F38CFD=Audio Programmer
+0xE5F38CFD=音效程序
 
 ;0xE6160AFA=Neil Bechtloff
 0xE6160AFA=Neil Bechtloff
@@ -2091,7 +2091,7 @@
 0xE7018BAB=Random Biker
 
 ;0xE745FBB0=Princess Robot Bubblegum
-0xE745FBB0=Princess Robot Bubblegum
+0xE745FBB0=机械泡泡糖公主
 
 ;0xE7A28A7C=Crookers
 0xE7A28A7C=Crookers
@@ -2124,7 +2124,7 @@
 0xEB3F4A0D=Frank Kozuh
 
 ;0xEB50921A=Talking Plant
-0xEB50921A=Talking Plant
+0xEB50921A=会说话的植物
 
 ;0xEB5515B0=J. Salomé Martinez Jr., Tony Mirrcandani, Josh Moskovitz,
 0xEB5515B0=J. Salomé Martinez Jr., Tony Mirrcandani, Josh Moskovitz,
@@ -2163,10 +2163,10 @@
 0xF139C3CB=Paddy Curran
 
 ;0xF19B330E=Saxaphone
-0xF19B330E=Saxaphone
+0xF19B330E=萨克斯演奏
 
 ;0xF1DA609C=Pedestrian and Cutscene Production by:
-0xF1DA609C=Pedestrian and Cutscene Production by:
+0xF1DA609C=路人与过场动画制作人
 
 ;0xF22EA8CF=Henrique Bardas
 0xF22EA8CF=Henrique Bardas
@@ -2199,7 +2199,7 @@
 0xF4AD073E=Matthew Wilson
 
 ;0xF4DDF825=Localization Supervisors
-0xF4DDF825=Localization Supervisors
+0xF4DDF825=本土化监督
 
 ;0xF586139E=Gregory Johnson
 0xF586139E=Gregory Johnson
@@ -2214,7 +2214,7 @@
 0xF65C5B8E=Michelle Tanner
 
 ;0xF66F7080=Celebinator
-0xF66F7080=Celebinator
+0xF66F7080=名人终结者
 
 ;0xF6D990D4=David Rodigan
 0xF6D990D4=David Rodigan
@@ -2256,10 +2256,10 @@
 0xFA51FC2D=The Martin Serious Show
 
 ;0xFA759774=Female Jogger
-0xFA759774=Female Jogger
+0xFA759774=女性慢跑者
 
 ;0xFAD869CB=Written by Stuart Hart
-0xFAD869CB=Written by Stuart Hart
+0xFAD869CB=作曲 Stuart Hart
 
 ;0xFB43152B=Khalipa Oldjohn
 0xFB43152B=Khalipa Oldjohn
@@ -2277,10 +2277,10 @@
 0xFCFBE0AF=Jason Jacob,Tafari Lawton, Kelly Klein, Brian Schreier,
 
 ;0xFD999F56=Girl in Bathroom
-0xFD999F56=Girl in Bathroom
+0xFD999F56=卫生间里的姑娘
 
 ;0xFDBCBAE8=Parking Attendant
-0xFDBCBAE8=Parking Attendant
+0xFDBCBAE8=停车场管理员
 
 ;0xFDE98D57=Chris Perry, Chris Peterson,Inese Petruna, Chris Plummer,
 0xFDE98D57=Chris Perry, Chris Peterson,Inese Petruna, Chris Plummer,
@@ -2289,10 +2289,10 @@
 0xFDF592FB=David Levin, Hoon lee, Dominique Johnson,
 
 ;0xFF002063=British Prince
-0xFF002063=British Prince
+0xFF002063=英国王子
 
 ;0xFF21B26E=Det. McCornish
-0xFF21B26E=Det. McCornish
+0xFF21B26E=McCornish警探
 
 ;0xFF33D599=Shawn Church - Church Automotive
 0xFF33D599=Shawn Church - Church Automotive

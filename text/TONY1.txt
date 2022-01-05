@@ -42,7 +42,7 @@
 0x5E4746FF=~s~使用~y~衣柜~s~更换服装。
 
 ;0x5E571C49=You can save any vehicle in the parking place outside your apartment.
-0x5E571C49=你可以在公寓外的停车位存放任何载具。
+0x5E571C49=公寓外的停车位可以存放任何载具。
 
 ;0x6085E5D0=Press ~INPUT_PHONE_CANCEL~ to exit the phone menu and put away the phone.
 0x6085E5D0=按~INPUT_PHONE_CANCEL~退出手机菜单或收起手机。
@@ -84,7 +84,7 @@
 0x8E17B20C=~s~通话时按~INPUT_PHONE_PUT_AWAY~快进对话，按~INPUT_PHONE_CANCEL~挂断电话。
 
 ;0x97201EA7=You can try to impress the ladies with your dancing. If you dance successfully with a lady, you may get a surprise.
-0x97201EA7=你可以尝试用舞姿征服女性。若你成功与女性完成了舞蹈，你可能会获得惊喜。
+0x97201EA7=你可以尝试用舞姿征服女性。若成功与女性完成了舞蹈，你可能会获得惊喜。
 
 ;0x98FD3D86=~s~Don't leave ~b~Armando~s~ behind.
 0x98FD3D86=~s~别把~b~Armando~s~落下。

@@ -384,7 +384,7 @@
 0x877CAA84=E2BG2_BHC
 
 ;0x891D2E48=~z~You want I should stick fifty thousand dollar guitar up your ass?
-0x891D2E48=~z~想让我把这五万美元的吉他插你屁眼里吗？
+0x891D2E48=~z~想让我把价值五万美元的吉他插你屁眼里吗？
 
 ;0x89BD0DF0=~z~I'm cool, bro.
 0x89BD0DF0=~z~不用了，兄弟。
@@ -600,7 +600,7 @@
 0xCC6587F3=092
 
 ;0xCEA9B56B=~z~Oh shit. We getting our wires crossed, bro. I meant Timur's dead, man.
-0xCEA9B56B=~z~噢，妈的，咱俩不在一个频道上啊。我是说Timur死了。
+0xCEA9B56B=~z~噢，妈的，咱俩不在一个频道上。我是说Timur死了。
 
 ;0xCEC0B59D=~z~Excellent.
 0xCEC0B59D=~z~太棒了。
