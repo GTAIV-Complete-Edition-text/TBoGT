@@ -363,7 +363,7 @@
 0x4C18EA03=SFX_PAUSE_220
 
 ;0x4D5AC91B=~z~Before I forget, you mind handing over some more of those explosive shells? Those things are tight, man.
-0x4D5AC91B=~z~差点忘了，你能再给我些爆裂弹吗？那玩意太猛了，兄弟。
+0x4D5AC91B=~z~差点忘了，你能再给我些爆炸子弹吗？那玩意太猛了，兄弟。
 
 ;0x4DCD07AB=100090010090100090100090010090100090100
 0x4DCD07AB=100090010090100090100090010090100090100
@@ -429,7 +429,7 @@
 0x5FB8E864=~z~听着，待会儿我自己去拿直升机。现在先去Algonquin大桥的Broker段。
 
 ;0x60496EF8=~z~Yusuf, bro. Hand over some more exploding shotgun shells. I love those things.
-0x60496EF8=~z~Yusuf兄弟，再给我点爆裂弹吧。我爱死它了。
+0x60496EF8=~z~Yusuf兄弟，再给我点爆炸子弹吧。我爱死它了。
 
 ;0x60BFEF11=~z~What I got myself into?
 0x60BFEF11=~z~怎么成这样了？
@@ -999,7 +999,7 @@
 0xD7D24B72=SFX_PAUSE_260
 
 ;0xD866FF09=~z~Things have a tendency to get outta hand man. Maybe you could give me some more exploding shells for peace of mind.
-0xD866FF09=~z~不怕一万就怕万一。要么你给我点爆裂弹，我好安心一点。
+0xD866FF09=~z~不怕一万就怕万一。能不能给我点爆炸子弹，我好安心点。
 
 ;0xD90012B3=SFX_PAUSE_210
 0xD90012B3=SFX_PAUSE_210
@@ -1071,7 +1071,7 @@
 0xE6F52B9F=~z~干掉恐怖分子！
 
 ;0xE7899D4E=~z~Hey, bro. Just in case you mind if I hit you for some of them exploding shells? Thanks, man.
-0xE7899D4E=~z~嘿，兄弟。以防万一，你不介意我拿你点爆裂弹吧？谢了，伙计。
+0xE7899D4E=~z~嘿，兄弟。以防万一，你不介意我拿你点爆炸子弹吧？谢了，伙计。
 
 ;0xE7A9DBD1=E2Y4_CA
 0xE7A9DBD1=E2Y4_CA

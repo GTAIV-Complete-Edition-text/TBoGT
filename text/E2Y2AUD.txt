@@ -699,7 +699,7 @@
 0x99A26610=SFX_PAUSE_330
 
 ;0x99FB908D=~z~I am giving you this special auto shotgun with exploding shells.
-0x99FB908D=~z~给你一把特别的全自动霰弹枪，能打爆裂弹的。
+0x99FB908D=~z~给你一把特别的全自动霰弹枪，能打炸药的。
 
 ;0x9AC77AC3=~z~Luis, where did you go?
 0x9AC77AC3=~z~Luis，你去哪了？
@@ -870,7 +870,7 @@
 0xD04F9274=~z~那再见了。
 
 ;0xD0AAFDEB=~z~I have a special gift, Luis. An auto shotgun with explosive shells!
-0xD0AAFDEB=~z~给你一份特别的礼物，Luis。打爆裂弹的，全自动霰弹枪！
+0xD0AAFDEB=~z~给你一份特别的礼物，Luis。打炸药的，全自动霰弹枪！
 
 ;0xD0DE5AFE=~z~You're looking at a city about to belong to us, motherfucker.
 0xD0DE5AFE=~z~你眼前的这座城市马上就是我们的了，妈个逼的。
@@ -1002,7 +1002,7 @@
 0xEDFF2DE9=E2Y2_FA1
 
 ;0xEE663961=~z~No one will fuck with you. I'm giving you this special auto shotgun with explosive shells!
-0xEE663961=~z~这下没人敢搞你了。我给你把特别的全自动霰弹枪，打爆裂弹的！
+0xEE663961=~z~这下没人敢搞你了。我给你把特别的全自动霰弹枪，打炸药的！
 
 ;0xEEBDCC37=090
 0xEEBDCC37=090
