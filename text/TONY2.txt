@@ -6,7 +6,7 @@
 0x03C7C4E6=甩掉警察。
 
 ;0x058C3EE1=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
-0x058C3EE1=~s~用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~在瞄准时放大画面。
+0x058C3EE1=~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~进行缩放。
 
 ;0x06DF1BCC=~s~Press ~INPUT_COVER~ to enter and exit cover.
 0x06DF1BCC=~s~按~INPUT_COVER~进出掩体。

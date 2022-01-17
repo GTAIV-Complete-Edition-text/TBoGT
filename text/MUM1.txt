@@ -24,7 +24,7 @@
 0x33FA81C6=~s~前往~y~自由城铁笼格斗。
 
 ;0x3A430492=~s~Press ~INPUT_MELEE_ATTACK1~ to punch.~n~Press ~INPUT_MELEE_ATTACK2~ for alternative punch.~n~~s~Press ~INPUT_MELEE_KICK~ to kick.
-0x3A430492=~s~按~INPUT_MELEE_ATTACK1~拳击。~n~按~INPUT_MELEE_ATTACK2~也是拳击。~n~~s~按~INPUT_MELEE_KICK~踢击。
+0x3A430492=~s~按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~拳击。~n~按~INPUT_MELEE_KICK~踢击。
 
 ;0x4AF182DE=~r~You are disqualified for stepping off the mat.
 0x4AF182DE=~r~你因出界出局。
@@ -42,7 +42,7 @@
 0x62F8086B=~s~1秒后出局，
 
 ;0x63FD339A=~s~Tap ~INPUT_MELEE_BLOCK~ as your opponent attacks to dodge. Press ~INPUT_MELEE_ATTACK1~ or ~INPUT_MELEE_ATTACK2~ after dodging to perform a powerful counter move or take their weapon.
-0x63FD339A=~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~反击或缴械。
+0x63FD339A=~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~反击或夺械。
 
 ;0x66F2226E=MOCAP PLACEHOLDER ~n~~n~Santo tells player he did a good job. ~n~ Player tells Santos he has his money and to leave his mum alone.
 0x66F2226E=MOCAP PLACEHOLDER ~n~~n~Santo tells player he did a good job. ~n~ Player tells Santos he has his money and to leave his mum alone.

@@ -159,7 +159,7 @@
 0x2C33B862=100
 
 ;0x2C51377C=~z~Ay, come on.
-0x2C51377C=~z~嘿，来吧。
+0x2C51377C=~z~嘿，走吧。
 
 ;0x30097959=E2T1_JA
 0x30097959=E2T1_JA
@@ -303,7 +303,7 @@
 0x54F09B72=~z~他们肯定非常非常地愿意，慷慨解囊来资助我，因为说到底，
 
 ;0x55CDD3E1=~z~Gentlemen, watch your language. We're in the great melting pot;
-0x55CDD3E1=~z~先生们，注意你们的用词。我们处在一个大熔炉中，
+0x55CDD3E1=~z~先生们，注意你们的用词。这里是一个大熔炉，
 
 ;0x56DC52E6=~z~Fine men of the cloth. Who the fuck do you think they are?
 0x56DC52E6=~z~正人君子吗。这他妈还能是谁？
@@ -768,7 +768,7 @@
 0xCFA6F3A3=~z~就冲这身衣服。
 
 ;0xCFFAEC0E=~z~Blah. Blah. Blah. Another time, Troy. We'll be at Maisonette.
-0xCFFAEC0E=~z~叽叽喳叽叽喳。下次再说，Troy。我们要去豪宅了。
+0xCFFAEC0E=~z~得了得了得了。下次再说，Troy。我们要去豪宅了。
 
 ;0xD0101482=~z~Oye, A! I've been thinking about this: How many days a week you work those corners?
 0xD0101482=~z~喂，A！我一直在想：你一周有几天在贩毒？

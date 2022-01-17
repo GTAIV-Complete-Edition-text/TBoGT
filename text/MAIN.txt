@@ -1221,7 +1221,7 @@
 0x140F1BBC=打的不算
 
 ;0x22333FFC=~s~Mission results cannot be saved or uploaded to Rockstar Social Club if a taxi is used. Once you've completed all the story missions in The Ballad of Gay Tony, play the mission again using the mission repeat option on the cellphone to get usable results.
-0x22333FFC=~s~由于使用了打的移动，任务评分将不被保留，也无法上传至 Rockstar Social Club。完成夜生活之曲的所有主线任务后，再通过手机中的任务重玩功能刷分吧。
+0x22333FFC=~s~由于乘坐了出租车，任务评分将不被保留，也无法上传至 Rockstar Social Club。完成夜生活之曲的所有主线任务后，再通过手机中的任务重玩功能刷分吧。
 
 ;0x16310261=NR
 0x16310261=新纪录

@@ -570,7 +570,7 @@
 0x6ED31F93=~z~哟。都他妈冷静点。
 
 ;0x6F3469C7=~z~Watch it, you greaseball fuck.
-0x6F3469C7=~z~注意点，意大利混球。
+0x6F3469C7=~z~注意点，飞车党混球。
 
 ;0x701B5735=E2T2_ANB
 0x701B5735=E2T2_ANB
