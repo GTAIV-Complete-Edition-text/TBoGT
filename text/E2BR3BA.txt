@@ -297,7 +297,7 @@
 0xF2D7F1A0=~z~喂，听我说，Brucie。我觉得Lou现在似乎比你还要娘炮一点。
 
 ;0xF5C5DA62=~z~Screw you, Mori. Why do you gotta be such a cock?
-0xF5C5DA62=~z~滚你妈的，Mori。你咋这么牛逼呢？
+0xF5C5DA62=~z~滚你妈的，Mori。你牛逼你妈呢？
 
 ;0xF82CB404=~z~You know what? I think you might be right.
 0xF82CB404=~z~怎么说呢？你说的或许没错。

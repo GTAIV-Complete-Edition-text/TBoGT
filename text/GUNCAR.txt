@@ -237,7 +237,7 @@
 0x8674C138=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买SMG。
 
 ;0x87424C6A=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Standard Auto Shotgun ammo.
-0x87424C6A=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发标准全自动霰弹枪子弹。
+0x87424C6A=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发全自动霰弹枪标准子弹。
 
 ;0x8857D28E=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~30 x SMG rounds $20
 0x8857D28E=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~30 x SMG子弹 $20
@@ -345,7 +345,7 @@
 0xD7D94FE5=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~卡宾枪 $1500
 
 ;0xD9662BB0=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_CANCEL~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~Purchased ~1~ rounds of Explosive Auto Shotgun ammo.
-0xD9662BB0=用~PAD_LSTICK_ALL~选择武器。~n~Press ~INPUT_FRONTEND_CANCEL~ to buy.~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发爆炸全自动霰弹枪子弹。
+0xD9662BB0=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_CANCEL~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买~1~发全自动霰弹枪爆炸子弹。
 
 ;0xDA5A67D2=Use ~PAD_LSTICK_ALL~ to select weapon.~n~Press ~INPUT_FRONTEND_ACCEPT~ to buy.~n~Press ~INPUT_PICKUP~ to exit.~n~~g~9mm purchased.
 0xDA5A67D2=用~PAD_LSTICK_ALL~选择武器。~n~按~INPUT_FRONTEND_ACCEPT~购买。~n~按~INPUT_PICKUP~退出。~n~~g~已购买9mm。

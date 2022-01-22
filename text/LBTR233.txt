@@ -3,7 +3,7 @@
 0x0A035290=山崩地裂之城
 
 ;0x1D8D5455=While the chronology of these events is still being debated, authorities have used social network updates on the popular bleeter.biz website in order to put them in an approximate order. It is believed that the first blast caused a crane to go down at the Libel site on Columbus Avenue. The second made an out of commission subway train derail on the Algonquin-Bohan line. And a third blast caused a private jet belonging to the LTA to combust at Francis International. Cleanup crews are hard at work on the sites while authorities debate on how to better safeguard against a repeat of these tragedies.
-0x1D8D5455=虽然三起事件的先后顺序仍有争议，但有关部门参考热门社交网站 bleeter.biz 上的相关动态发布时间，大致确认了事件发生顺序。在Columbus大道的Libel工地发生的第一起爆炸造成一台塔吊倒塌。第二起爆炸致使Algonquin-Bohan地铁线路上的一列停运空车脱轨。而第三起在Francis国际机场发生的爆炸则烧毁了一架属于交管局的私人飞机。善后人员正在爆炸现场进行后续处理，有关部门则在商讨如何避免这种悲剧再次发生。
+0x1D8D5455=虽然三起事件的先后顺序仍有争议，但有关部门参考热门社交网站 bleeter.biz 上的相关动态发布时间，大致确认了事件发生顺序。在Columbus大道的Libel工地发生的第一起爆炸造成一台塔吊倒塌。第二起爆炸致使Algonquin-Bohan地铁线路上的一列非运营空车脱轨。而第三起在Francis国际机场发生的爆炸则烧毁了一架属于交管局的私人飞机。善后人员正在爆炸现场进行后续处理，有关部门则在商讨如何避免这种悲剧再次发生。
 
 ;0x1F97656F=NO RAMPAGE!
 0x1F97656F=暴怒无门！
