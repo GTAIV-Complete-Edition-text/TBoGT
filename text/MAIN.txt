@@ -432,7 +432,7 @@
 0x32487F47=直升机击落
 
 ;0x00849BC0=Free Fall Time
-0x00849BC0=自由落体时长
+0x00849BC0=贴地开伞
 
 ;0x04E3A47E=Caught With Your Pants Down
 0x04E3A47E=原形毕露
@@ -1089,7 +1089,7 @@
 0x0565EB37=直升机击落
 
 ;0xE565E209=Freefall Time
-0xE565E209=自由落体时长
+0xE565E209=贴地开伞
 
 ;0xCB4565BD=Cop Cars Destroyed
 0xCB4565BD=警车击毁
@@ -2262,7 +2262,7 @@
 0x8CED0910=Armando and Henrique are ready to be dropped off now.
 
 ;0xB257D22C=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance. You'll sober up soon.
-0xB257D22C=你醉了。你会视线模糊，行走与驾驶都十分困难。尽量保持平衡。很快你就会清醒的。
+0xB257D22C=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡。很快就会恢复正常的。
 
 ;0x4A69685C=Stop near Armando and Henrique or toot the horn to attract their attention.
 0x4A69685C=停到Armando和Henrique附近，或鸣笛引起他们的注意。

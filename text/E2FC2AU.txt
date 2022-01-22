@@ -543,7 +543,7 @@
 0xBC491243=~z~不能说给我们套上西装皮鞋，我们就能假装自己不是地痞流氓了。
 
 ;0xBD2AFBE8=~z~You too are more annoying drunk than sober. Man. I am fucked up!
-0xBD2AFBE8=~z~你俩喝高了比醒着的时候还要犯人。天哪，烦死我了！
+0xBD2AFBE8=~z~你俩喝高了比醒着的时候还要烦人。天哪，烦死我了！
 ;"too" ---> "two"
 
 ;0xC076CCE4=~z~In control? I look like I'm in control to you? Damn. You a bigger fool than I thought.

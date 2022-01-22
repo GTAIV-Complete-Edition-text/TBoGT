@@ -3,7 +3,7 @@
 0x0597328C=~s~步行时，按住~INPUT_AIM~瞄准，按~INPUT_ATTACK~投掷黏弹。
 
 ;0x05FCA3F9=~s~The next target is on an out of service subway train, intercept it at the ~y~tunnel exit.
-0x05FCA3F9=~s~下一个目标是一列停运的地铁，去~y~隧道出口~s~拦截。
+0x05FCA3F9=~s~下一个目标是一列非运营的地铁，去~y~隧道出口~s~拦截。
 
 ;0x24DD8134=~r~You lost the train.
 0x24DD8134=~r~你跟丢了列车。

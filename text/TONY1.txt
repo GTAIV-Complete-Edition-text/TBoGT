@@ -30,7 +30,7 @@
 0x49961D9D=~s~甩掉警察。
 
 ;0x4DFF8EBD=Sleeping on the bed will save the game and advance time by six hours.
-0x4DFF8EBD=上床睡觉会保存游戏进度，~n~并将时间推进6个小时。
+0x4DFF8EBD=上床睡觉会保存游戏进度，并将时间推进6个小时。
 
 ;0x55E9375B=~s~Drive Tony to ~y~Maisonette 9.
 0x55E9375B=~s~带Tony去~y~9号豪宅。
