@@ -84,7 +84,7 @@
 0x8E17B20C=~s~通话时按~INPUT_PHONE_PUT_AWAY~快进对话，按~INPUT_PHONE_CANCEL~挂断电话。
 
 ;0x97201EA7=You can try to impress the ladies with your dancing. If you dance successfully with a lady, you may get a surprise.
-0x97201EA7=你可以尝试用舞姿征服女性。若成功与女性完成了舞蹈，你可能会获得惊喜。
+0x97201EA7=你可以尝试用舞姿征服女性。若成功完成了舞蹈，你可能会获得惊喜。
 
 ;0x98FD3D86=~s~Don't leave ~b~Armando~s~ behind.
 0x98FD3D86=~s~别把~b~Armando~s~落下。
