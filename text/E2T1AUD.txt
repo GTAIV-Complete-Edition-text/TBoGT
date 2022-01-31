@@ -636,7 +636,7 @@
 0xAC4CD32E=400
 
 ;0xACAED150=~z~What's your IQ, H?
-0xACAED150=~z~你智商多少，H?
+0xACAED150=~z~你智商多少，H？
 
 ;0xAD413E0C=~z~Oh yeah, thank you so much, man.
 0xAD413E0C=~z~是吗，我可谢谢你啊，伙计。

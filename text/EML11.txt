@@ -42,7 +42,7 @@
 0xA66F8866=爱你的，
 
 ;0xA7C5843D=I know she can be tough, but she needs you. We all away and not doing so much for her and you all she got. I know she gives you a hard time, but she only wants the best for you. I hope you doing well and not breaking too many hearts. PS Don't ever get a job in human resources. People treat you like you need to wipe their asses.
-0xA7C5843D=我知道她很严厉，但她需要你啊。我们都离她很远，没法为她做太多事，你是她的一切啊。我知道她她让你很难受，但她也是想为你好。我希望你好好的，别太沾花惹草。PS：不要去人力资源部工作，别人会认为你给他们擦屁股是理所当然的。
+0xA7C5843D=我知道她很严厉，但她需要你啊。我们都离她很远，没法为她做太多事，你是她的一切啊。我知道她让你很难受，但她也是想为你好。我希望你好好的，别太沾花惹草。PS：不要去人力资源部工作，别人会认为你给他们擦屁股是理所当然的。
 
 ;0xB5E0824D=Hey baby bro,
 0xB5E0824D=嘿，亲爱的哥哥，
