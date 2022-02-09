@@ -918,10 +918,10 @@
 0x21A98EB4=按~INPUT_PICKUP~向Armando购买武器。
 
 ;0x6145036C=Armando got bored and left.
-0x6145036C=Terry无聊了，走了。
+0x6145036C=Armando无聊了，走了。
 
 ;0xAF6A39BE=Armando will sell you weapons at discounted prices. Meet Armando at the ~BLIP_105~ icon to purchase weapons.
-0xAF6A39BE=Armando会向你低价出售武器。去~BLIP_105~向Terry购买武器。
+0xAF6A39BE=Armando会向你低价出售武器。去~BLIP_105~向Armando购买武器。
 
 ;0xB87E173D=You have ~1~ second to get into a vehicle.
 0xB87E173D=在~1~秒内进入任意载具。

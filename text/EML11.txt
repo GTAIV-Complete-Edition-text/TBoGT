@@ -75,5 +75,5 @@
 0xEF551A30=爱你的，
 
 ;0xFD065195=Hey sis, good to hear from you! I try with momma! She just don't like me so much. All she does is give me a hard time, so it gets kind of hard. Anyway, hope you and the kids and the white bread man are doing well. Love Luis.
-0xFD065195=嗨，妹妹。收到你的邮件我很高兴！我有在照顾妈妈！只是她不太喜欢我。她做的每件事都让我很难受，我觉得和她相处有点难。总之，希望你和孩子们，还有那位都市白人能过得不错。爱你的Luis。
+0xFD065195=嗨，妹妹。收到你的邮件我很高兴！我有在照顾妈妈！只是她不太喜欢我。她做的每件事都让我很难受，我觉得和她相处有点难。总之，希望你和孩子们，还有那位都市白人过得不错。爱你的Luis。
 

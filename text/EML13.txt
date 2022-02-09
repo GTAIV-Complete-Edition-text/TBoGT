@@ -6,7 +6,7 @@
 0x391D3CC6=嗨，亲爱的，
 
 ;0x4CAD27EF=I need you to sign me a copy of that dvd. Good luck with the marriage. L
-0x4CAD27EF=我需要你把那份视频的拷贝发我一份。新婚大吉。L
+0x4CAD27EF=那段视频的拷贝发我一份吧。新婚大吉。L
 
 ;0x629A0FBF=Hey Sweetie,
 0x629A0FBF=嗨，亲爱的，
@@ -18,7 +18,7 @@
 0x86EC5863=嗨，亲爱的，
 
 ;0x9828BEE5=Thanks Daisy, I didn't really understand too much of that but good luck. Your husband is one lucky guy.
-0x9828BEE5=Daisy，谢谢。我并不是很了解婚礼，但祝你好运吧。你丈夫(能享受你这么好的手活)真是幸运啊。
+0x9828BEE5=Daisy，谢谢。我并不是很了解婚礼，但祝你好运吧。你丈夫娶了你真是走大运了。
 
 ;0x9DCC862F=Hey Sweetie,
 0x9DCC862F=嗨，亲爱的，

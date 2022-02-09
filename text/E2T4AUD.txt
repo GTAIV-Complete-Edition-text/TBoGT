@@ -51,7 +51,7 @@
 0x0AFCC665=SFX_PAUSE_310
 
 ;0x0B6A5FD4=~z~Jesus, when even the queens don't want to get wrecked, you know this city has turned into a fucking suburb!
-0x0B6A5FD4=~z~天哪，就连基佬都不肯来喝个烂醉，现在自由城已经变成乡下了。
+0x0B6A5FD4=~z~天哪，就连基佬都不肯来喝个烂醉，现在自由城已经变成乡下了！
 
 ;0x0B82294C=E2T4_PE
 0x0B82294C=E2T4_PE
