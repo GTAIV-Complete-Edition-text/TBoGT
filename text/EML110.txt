@@ -30,7 +30,7 @@
 0x79814CE5=我已预见了经济衰退，并通过甩卖期权的方式赚了数百万美元。我比百万富翁还百万富翁。我太有钱了，不眠不休也要大约400年才能花光。
 
 ;0x87CAE978=Would you like to make hundreds of thousands of dollars a year doing nothing? Risk free? I know what the so-called professionals don't: how to consistently make money on the stock market.
-0x87CAE978=你渴望什么都不做就能一年赚到成千上万吗？零风险哦？我知道拥有所谓财经专家缺少的技能：持续地在股市挣钱。
+0x87CAE978=你渴望什么都不做就能一年赚到成千上万吗？零风险哦？我拥有所谓财经专家缺少的技能：持续地在股市挣钱。
 
 ;0x9AE2EE42=Yours respectfully,
 0x9AE2EE42=谨上，

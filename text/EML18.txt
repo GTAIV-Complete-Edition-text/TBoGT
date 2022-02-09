@@ -1,15 +1,15 @@
 ﻿[EML18]
 ;0x16FA30DD=Contact FriendsWithBenefits Healthcare today.
-0x16FA30DD=请于今日联系FriendsWithBenefits Healthcare。
+0x16FA30DD=请于今日联系好利友医保。
 
 ;0x241DCB24=Contact FriendsWithBenefits Healthcare today.
-0x241DCB24=请于今日联系FriendsWithBenefits Healthcare。
+0x241DCB24=请于今日联系好利友医保。
 
 ;0x281B1857=Now's the time!
 0x281B1857=是时候了！
 
 ;0x364B6F7F=Contact FriendsWithBenefits Healthcare today.
-0x364B6F7F=请于今日联系FriendsWithBenefits Healthcare。
+0x364B6F7F=请于今日联系好利友医保。
 
 ;0x59D6D19C=President Lawton might not want you to have access to affordable healthcare, but we do! PPOs? HMOs? Deductibles? Why is it all so expensive and complicated? We don't understand any of it and, if you're still reading this email, you certainly don't. We believe in making health insurance simple.
 0x59D6D19C=也许Lawton总统不愿让你拥有平价医保，但我们愿意！优选医疗机构保险？健健康维护机构保险？自费保险？这些东西为什么都又贵又复杂？根本搞不懂是什么意思。如果你还在读这封邮件，你肯定也没搞懂。我们坚持让医保变得简单。
@@ -21,10 +21,10 @@
 0x68909951=是时候了！
 
 ;0x6D655DB2=Contact FriendsWithBenefits Healthcare today.
-0x6D655DB2=请于今日联系FriendsWithBenefits Healthcare。
+0x6D655DB2=请于今日联系好利友医保。
 
 ;0x6EBD6062=Contact FriendsWithBenefits Healthcare today.
-0x6EBD6062=请于今日联系FriendsWithBenefits Healthcare。
+0x6EBD6062=请于今日联系好利友医保。
 
 ;0x72DC2DDC=Now's the time!
 0x72DC2DDC=是时候了！
@@ -39,7 +39,7 @@
 0xB3A1052F=统一价格，每人仅要$10,000。我们的保险计划会给您和您的家人提供全面的终身医保。没错，终身医保。没有陷阱，没有小字，无需体检。你年老、肥胖、非法或病入膏盲吗？其他保险计划拒绝了你吗？
 
 ;0xC6C3906D=Contact FriendsWithBenefits Healthcare today.
-0xC6C3906D=请于今日联系FriendsWithBenefits Healthcare。
+0xC6C3906D=请于今日联系好利友医保。
 
 ;0xCF0A6637=Now's the time!
 0xCF0A6637=是时候了！
@@ -48,7 +48,7 @@
 0xD76676FB=是时候了！
 
 ;0xD8D63492=Contact FriendsWithBenefits Healthcare today.
-0xD8D63492=请于今日联系FriendsWithBenefits Healthcare。
+0xD8D63492=请于今日联系好利友医保。
 
 ;0xE8506E8D=Don't worry - we approve everybody, with open arms. We don't believe in discriminating against our customers. Do not miss this opportunity to invest in your future. Act now.
 0xE8506E8D=别担心，我们热情地接受每一个人。我们对客户没有任何歧视。千万不要错过这个投资自己未来的机会，行动起来吧。

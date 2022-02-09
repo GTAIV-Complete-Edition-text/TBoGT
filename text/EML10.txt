@@ -15,16 +15,16 @@
 0x134F8D29=你多保重，Margot。 Luis
 
 ;0x1D55A7A9=Hey Luis,
-0x1D55A7A9=嗨Luis,
+0x1D55A7A9=嗨Luis，
 
 ;0x3335D369=Hey Luis,
-0x3335D369=嗨Luis,
+0x3335D369=嗨Luis，
 
 ;0x3D1C5C31=Sorry, Margot. I been kind of busy. You take care. Luis.
 0x3D1C5C31=抱歉，Margot。我最近有点忙，你多保重。 Luis
 
 ;0x56A29A42=Hey Luis,
-0x56A29A42=嗨Luis,
+0x56A29A42=嗨Luis，
 
 ;0x5C3461DD=Whatever,
 0x5C3461DD=不管啦，
