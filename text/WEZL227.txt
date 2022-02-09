@@ -3,7 +3,7 @@
 0x08B61091=军火商获准入境
 
 ;0x6A9B466F=Today alleged arms dealer, Frickie van Hardenburg was finally granted a visa to enter the United States. Thank God senses prevailed. A few wacko liberals nearly derailed this fine businessman and humanitarian with their accusations that he should be put on trial for war crimes over his alleged financing of conflicts in Africa, support of very restrictive regimes in the Middle East, continued involvement in the slave trade and that he has a grating accent. But thankfully immigration authorities have turned a blind eye to this nonsense, citing the fact that Mr. Van Hardenburg took several senators on a safari last year and also is a really nice guy once you get to know him.
-0x6A9B466F=今天，被怀疑是军火商的 Frickie van Hardenburg 终于获得了进入美国的签证。感谢上帝，理性还是占了上风。这位杰出的商人、人道主义者差点就因自由派的妖言而被拒之门外。自由派称他涉嫌资助开采非洲血钻、支持中东的军阀政权、参与奴隶交易而且口音难听，主张将其视为战犯送上法庭。不过谢天谢地，移民局无视了这些无稽之谈，转而采信了去年 Van Hardenburg 先生与几名议员一起旅行的经历，并称「当你了解他后，就会发现他是多好的人了」。
+0x6A9B466F=今天，被怀疑是军火商的Frickie van Hardenburg终于获得了进入美国的签证。感谢上帝，理性还是占了上风。这位杰出的商人、人道主义者差点就因自由派的妖言而被拒之门外。自由派称他涉嫌资助开采非洲血钻、支持中东的军阀政权、参与奴隶交易而且口音难听，主张将其视为战犯送上法庭。不过谢天谢地，移民局无视了这些无稽之谈，转而采信了去年Van Hardenburg先生与几名议员一起旅行的经历，并称「当你了解他后，就会发现他是多好的人了」。
 
 ;0x83357299=Not so Sickie Frickie
 0x83357299=Frickie没那么坏哦

@@ -846,7 +846,7 @@
 0x4F3C3F29=THIS LABEL NEEDS TO BE HERE !!!
 
 ;0xC1DB9B98=You need a vehicle with more passenger seats.
-0xC1DB9B98=你需要一辆能够容纳更多人的载具。
+0xC1DB9B98=找一辆座位更多的载具。
 
 ;0x796A5AF5=You cannot enter the club with a wanted level.
 0x796A5AF5=你无法在被通缉时进入夜店。
@@ -885,7 +885,7 @@
 0x033433B6=此次与Michelle的半局免费。
 
 ;0x56B65AB9=You can't bowl with the cops after you.
-0x56B65AB9=你被通缉了，无法打保龄球。
+0x56B65AB9=被通缉时不能打保龄球。
 
 ;0xBDDD8D08=Press ~INPUT_PICKUP~ to play air hockey.
 0xBDDD8D08=按~INPUT_PICKUP~玩桌上冰球。
@@ -1242,7 +1242,7 @@
 0x78E7D2FC=退出
 
 ;0x7027B774=All seagulls killed. LC is a quieter place.
-0x7027B774=已消灭所有海鸥。自由城更干净了。
+0x7027B774=已消灭所有海鸥。自由城更清净了。
 
 ;0x16301136=~1~ seagulls left in Liberty City.
 0x16301136=自由城内还有 ~1~ 只海鸥。
@@ -1551,7 +1551,7 @@
 0x6C3FF932=BLEETER
 
 ;0xE4A11F30=Life suddenly got quick!
-0xE4A11F30=Life suddenly got quick!
+0xE4A11F30=生活突然快了起来！
 
 ;0x83C3E38D=www.bleeter.biz
 0x83C3E38D=www.bleeter.biz
