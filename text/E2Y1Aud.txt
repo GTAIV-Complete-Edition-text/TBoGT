@@ -144,7 +144,7 @@
 0x2A181B57=E2Y1_JD
 
 ;0x2D1CAB28=~z~You're about to go overboard.
-0x2D1CAB28=~z~你等着滚下船吧。
+0x2D1CAB28=~z~等着滚下船吧。
 
 ;0x2D81E4CA=SFX_PAUSE_240
 0x2D81E4CA=SFX_PAUSE_240
@@ -288,7 +288,7 @@
 0x5B48816C=~z~楼上是在放黄片吗，兄弟？
 
 ;0x5BDE5B84=~z~Give her up and we ain't got no problem.
-0x5BDE5B84=~z~放弃她吧，这样就没事了。
+0x5BDE5B84=~z~交出来吧，这样就没事了。
 
 ;0x5BED82BA=~z~And that will shut him up.
 0x5BED82BA=~z~准会让我爸哑口无言。
@@ -690,7 +690,7 @@
 0xF0699D64=~z~喜欢你们的新产品吗？
 
 ;0xF1D834A0=~z~You want to see this thing in action?
-0xF1D834A0=~z~你想见到这飞机出动吗？
+0xF1D834A0=~z~想见到这架飞机出动吗？
 
 ;0xF247D8F0=~z~Duck and weave, motherfucker.
 0xF247D8F0=~z~蛇形走位，傻逼玩意。

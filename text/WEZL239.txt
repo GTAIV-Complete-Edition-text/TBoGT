@@ -12,7 +12,7 @@
 0x2943D511=爆炸，阿拉伯人的尸体，直升机的残骸。不，这不是在扩大帝国主义对世界的控制力，而是我们在家门口目睹的所谓「国安办公关演习」。
 
 ;0x42F40871=Anyone who saw the chaos at the top of Rotterdam Tower earlier would have thought that the world was ending, not that a standard PR exercise was going on. The only information we're being given is that two Dubai residents, Ahmed Khaleel and Tahir Saaed were involved somehow. Is no one else suspicious of this horseshit we're being fed? Liberty City has clearly suffered a terrorist onslaught, and the liberals don't want you to know about it. The only questions we should be asking is who to got to war with and when.
-0x42F40871=任何看到当时 Rotterdam 塔顶部混乱景象的人都会认为那是世界末日，而不是一场正常的公关演习。我们得到的信息只有一条：迪拜居民 Ahmed Khaleel 和 Tahir Saaed 与此事有关。难道没人怀疑这场所谓的公关演习吗？自由城显然遭受了一次恐怖袭击，而自由派并不想让你知道这件事。我们需要提出的疑问有二：向谁宣战？何时宣战？
+0x42F40871=任何看到当时Rotterdam塔顶部混乱景象的人都会认为那是世界末日，而不是一场正常的公关演习。我们得到的信息只有一条：迪拜居民Ahmed Khaleel和Tahir Saaed与此事有关。难道没人怀疑这场所谓的公关演习吗？自由城显然遭受了一次恐怖袭击，而自由派并不想让你知道这件事。我们需要提出的疑问有二：向谁宣战？何时宣战？
 
 ;0x5DBD1C62=Eugene White
 0x5DBD1C62=Eugene White
