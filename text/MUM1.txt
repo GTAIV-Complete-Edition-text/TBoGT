@@ -48,7 +48,7 @@
 0x66F2226E=MOCAP PLACEHOLDER ~n~~n~Santo tells player he did a good job. ~n~ Player tells Santos he has his money and to leave his mum alone.
 
 ;0x6C7632AD=~s~Follow ~b~Santo.
-0x6C7632AD=~s~跟着~b~Santo。
+0x6C7632AD=~s~跟随~b~Santo。
 
 ;0x762A5345=~s~You won.
 0x762A5345=~s~你赢了。
