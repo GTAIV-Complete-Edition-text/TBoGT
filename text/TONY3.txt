@@ -90,7 +90,7 @@
 0xD716C6B5=~r~Tony的车坏了。
 
 ;0xDC78FD14=Follow ~b~Rocco ~s~out of the golf club.
-0xDC78FD14=跟着~b~Rocco~s~离开高尔夫俱乐部。
+0xDC78FD14=跟随~b~Rocco~s~离开高尔夫俱乐部。
 
 ;0xEB099F6D=Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.
 0xEB099F6D=按住~INPUT_FREE_AIM~进行缩放。~n~按~INPUT_MOVE_LEFT~和~INPUT_MOVE_RIGHT~旋转视角。
