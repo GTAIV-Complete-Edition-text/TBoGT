@@ -732,7 +732,7 @@
 0xB06C13FC=~z~欢迎！欢迎，老爸。这是我的生意伙伴...呃...什么来着...
 
 ;0xB0859D00=~z~Before you think about stealing one, man, it's just an air crane. You can buy them real easy.
-0xB0859D00=~z~你别急着动歪脑筋，哥们，那是空中起重机。有钱就能买到的。
+0xB0859D00=~z~你别急着动歪脑筋，哥们，那是空中起重机。有钱就能买到。
 
 ;0xB2101657=E2Y3_GF
 0xB2101657=E2Y3_GF
@@ -933,7 +933,7 @@
 0xDEDA8DFF=SFX_PAUSE_220
 
 ;0xDEF2A61C=~z~Ugly? Yeah. Old? Sure. The 'taking care of yourself' bit, I don't know about that, bro.
-0xDEF2A61C=~z~油？确实。老？的确。可以照顾好自己？这我有点怀疑，兄弟。
+0xDEF2A61C=~z~油？确实。老？的确。能照顾好自己？这我有点怀疑，兄弟。
 
 ;0xE002C251=~z~Okay. Sure.
 0xE002C251=~z~好，可以。

@@ -165,7 +165,7 @@
 0x3B8FC54C=~z~我们奉陪到底。
 
 ;0x3D68D615=~z~He always was a college fool. Kid loved the Vespucci scene more than us, didn't he?
-0x3D68D615=~z~他一直都是个书呆子。这逼比咱还怀念Vespucci的满园春色呢，不是吗？
+0x3D68D615=~z~他一直是个书呆子。这逼比咱还怀念Vespucci的满园春色呢，不是吗？
 
 ;0x3D9BB2A9=SFX_PAUSE_290
 0x3D9BB2A9=SFX_PAUSE_290
@@ -468,7 +468,7 @@
 0xA757B07B=~z~别想把货抢走，傻逼玩意。
 
 ;0xA81246C7=~z~I mean you a fuckin' Dominican. All Dominican mommas ride their hijos like that. You think me and Rique don't get shit too?
-0xA81246C7=~z~你他妈是多米尼加人啊。多米尼加人的妈都喜欢数落自家孩子。我和Rique又不是没被数落过。
+0xA81246C7=~z~你他妈是多米尼加人啊。多米尼加人的妈都爱数落自家孩子。我和Rique又不是没被数落过。
 
 ;0xA94D3899=E2F2_DPA
 0xA94D3899=E2F2_DPA
@@ -558,7 +558,7 @@
 0xCB3D90D2=~z~行吧。现在你的孩子和亲儿子有正事要做，所以二位，该出发了。
 
 ;0xCDBF5022=~z~We being paid to oversee the movement of a shipment, bro. Just got to get it back to the Heights and we get paid.
-0xCDBF5022=~z~有人雇我们去监督卸货，兄弟。把货运到高地那边就有钱拿了。
+0xCDBF5022=~z~有人雇我们去监督卸货，兄弟。把货运回高地就有钱拿了。
 
 ;0xCE041768=E2F2_CTA
 0xCE041768=E2F2_CTA

@@ -90,7 +90,7 @@
 0xC8E17B50=~z~救命！你要去哪儿？
 
 ;0xCCEFB01A=~z~When did you become the kind of big shot who could throw away cars like dirty underwear?
-0xCCEFB01A=~z~你啥时候变成换辆新车跟换衣服一样的大佬了？
+0xCCEFB01A=~z~你啥时候变成换新车跟换衣服一样的大佬了？
 
 ;0xD942D451=~z~Don't pull any more stunts like that.
 0xD942D451=~z~别开这种玩笑了。

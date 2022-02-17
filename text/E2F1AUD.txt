@@ -309,7 +309,7 @@
 0x37EFB213=E2F1_HD
 
 ;0x38ACC833=~z~Fuck, bro. Okay. Okay. Only 'cause I love you guys. You should know that.
-0x38ACC833=~z~操，兄弟。行吧，行吧。只是因为我太爱你们了，这你得知道。
+0x38ACC833=~z~操，兄弟。行吧，行吧。只是因为我太爱你们了，这你们得知道。
 
 ;0x3969470D=E2F1_WA
 0x3969470D=E2F1_WA
@@ -504,7 +504,7 @@
 0x615590B4=E2F1_ZA
 
 ;0x61E48619=~z~This package sounds too good to be true, A. What this fool want to be running with low rate corner boys like you for?
-0x61E48619=~z~这批货好得有点假了，A。谁会找你们这种小毒贩做大买卖啊？
+0x61E48619=~z~这批货好得有点假了，A。~n~谁会找你们这种小毒贩做大买卖啊？
 
 ;0x62CB8D6D=~z~Backs against the wall, bro. It's us or them.
 0x62CB8D6D=~z~没有退路了，兄弟，只有一方能活。
@@ -885,7 +885,7 @@
 0xB54A4C4F=E2F1_QB
 
 ;0xB6557C30=~z~We, ummmm... we need to put out a public face.
-0xB6557C30=~z~我们，呃...光我俩不够有牌面。
+0xB6557C30=~z~我们...光我俩不够有牌面。
 
 ;0xB9282096=~z~It was a burner, bro. No details, just time and place.
 0xB9282096=~z~匿名号码，兄弟。信息不多，只有时间地点。
@@ -1239,7 +1239,7 @@
 0xFAFCD9CE=~z~喔喔喔喔，这是Luis Lopez，我们的人。
 
 ;0xFBA45066=~z~You met Tony in that prison outreach program, too. From there on it was all up for you.
-0xFBA45066=~z~你还通过囚犯再就业计划遇到了Tony。之后就是你的好日子了。
+0xFBA45066=~z~你还通过囚犯再就业计划遇到了Tony。之后就是好日子了。
 
 ;0xFBB582FB=E2F1_AMB
 0xFBB582FB=E2F1_AMB

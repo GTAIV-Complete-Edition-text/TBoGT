@@ -990,7 +990,7 @@
 0xEACB8041=011090101
 
 ;0xECFEAAB4=~z~There's always a girl.
-0xECFEAAB4=~z~肯定有个姑娘。
+0xECFEAAB4=~z~肯定有一个姑娘。
 
 ;0xED1116D2=~z~Where'd you learn to play golf, Lou?
 0xED1116D2=~z~你在哪学的高尔夫球，Lou？

@@ -306,7 +306,7 @@
 0x39788862=~z~L，兄弟，拿好了，把她打下来。你一直是神枪手。
 
 ;0x39B4F136=~z~Sure am. Nice little girl by the name of Carmen Ortiz, lives out in So Bo.
-0x39B4F136=~z~当然有。是一个叫Carmen Ortiz的小美女，住在South Bohan。
+0x39B4F136=~z~当然有。一个叫Carmen Ortiz的小美女，住在South Bohan。
 
 ;0x3A31362E=~z~Five-O be bitches.
 0x3A31362E=~z~条子都是贱逼。
