@@ -420,7 +420,7 @@
 0x82CE59DC=E2MUM1_AIA
 
 ;0x82FEF409=~z~Listen, man. You bitched out of a promising career to run around with a rich fag. Don't get too proud now.
-0x82FEF409=~z~听着，小子。你放弃了大好前途，跑去跟个有钱基佬混。你的脸早没了。
+0x82FEF409=~z~听着，小子。你放弃了大好前途，跑去跟个有钱基佬混。脸面早没了。
 
 ;0x83001CCE=~z~You're up, kid.
 0x83001CCE=~z~到你上了，小子。

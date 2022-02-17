@@ -198,7 +198,7 @@
 0x31C3147A=E2T3B_YKC
 
 ;0x31C74E52=~z~Thank the fun police for that little jail dodger. When are you going to settle down, Luis?
-0x31C74E52=~z~谢谢快乐杀手的避免犯法小知识啊。你什么时候才能安定下来，Luis？
+0x31C74E52=~z~谢谢快乐杀手的避免犯法小知识啊。~n~你什么时候才能安定下来，Luis？
 
 ;0x32CD49F7=010090100100090010010090100
 0x32CD49F7=010090100100090010010090100
@@ -783,7 +783,7 @@
 0xBBA05B46=E2T3B_ZLE
 
 ;0xBCFA78BB=~z~Listen, Tone. Maybe you should take a holiday. Get down to Vice City. The Caribbean maybe.
-0xBCFA78BB=~z~听着，Tone。你最好去度个假吧。去罪城，或者去加勒比逛逛。
+0xBCFA78BB=~z~听着，Tone。你最好去度个假吧。去趟罪城，或者是加勒比。
 
 ;0xC0D5A2B5=011090101
 0xC0D5A2B5=011090101

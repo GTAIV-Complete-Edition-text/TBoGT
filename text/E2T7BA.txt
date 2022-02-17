@@ -858,7 +858,7 @@
 0xB6A187A5=~z~你怎么回事？Tony，起来，宝贝。
 
 ;0xB76A6F3C=~z~because he needed to tell the internet about his problems. Ayo. I can speak ill of him as much as I fucking want.
-0xB76A6F3C=~z~因为他忙着在网上证明自己有病。哎，骂他的话我根本说不完。
+0xB76A6F3C=~z~因为他忙着在网上证明自己有病。哎，骂他的话根本说不完。
 
 ;0xB94A1269=E2T7_BJF2
 0xB94A1269=E2T7_BJF2

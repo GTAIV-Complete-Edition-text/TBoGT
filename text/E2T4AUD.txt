@@ -381,7 +381,7 @@
 0x5DC02F2F=SFX_PAUSE_280
 
 ;0x5E0A4D15=~z~If I didn't know better, I'd think you were cracking onto Gracie here. Go check the website.
-0x5E0A4D15=~z~要不是我了解你，我就会以为你想跟Gracie搭讪了。去看看那网站。
+0x5E0A4D15=~z~要不是了解你，我就会以为你想搭讪Gracie了。去看看那个网站。
 
 ;0x5F7A11FE=SFX_PAUSE_350
 0x5F7A11FE=SFX_PAUSE_350

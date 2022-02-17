@@ -678,7 +678,7 @@
 0xB77DCB85=E2BR1_ID
 
 ;0xB7C3CFDB=~z~Ah, really, Lou? Cause if you got your mom's number there you know I might want to give her a call!
-0xB7C3CFDB=~z~啊，是吗，Lou？能给我你妈的电话号码吗？我这就去联系她！
+0xB7C3CFDB=~z~啊，是吗，Lou？能给我她的电话号码吗？我这就去联系她！
 
 ;0xB9898FEC=E2BR1_ATE
 0xB9898FEC=E2BR1_ATE
@@ -744,7 +744,7 @@
 0xC76C11DF=SFX_OVERLAP_4580
 
 ;0xC8331056=~z~Good for you, bro. You want to send me a resume so we can skip all this personal history crap?
-0xC8331056=~z~那就好，兄弟。要么你给我发份简历吧，省得在这儿自我介绍。
+0xC8331056=~z~那就好，兄弟。要么你发我份简历吧，省得在这儿自我介绍。
 
 ;0xCA8559C2=E2BR1_AUF2
 0xCA8559C2=E2BR1_AUF2

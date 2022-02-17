@@ -246,7 +246,7 @@
 0x345874B4=E2T2_ED
 
 ;0x345BE046=~z~Don't ask me how much the Ancellottis are taking. The staff are lucky they get a pay check!
-0x345BE046=~z~更别问我要还Ancelotti家族多少。手下人还能拿到工资就不错了！
+0x345BE046=~z~更别问我要还Ancelotti家族多少。还发得起工资就不错了！
 
 ;0x34BF4869=SFX_PAUSE_390
 0x34BF4869=SFX_PAUSE_390
@@ -444,7 +444,7 @@
 0x55AC3AAA=E2T2_QB
 
 ;0x560C75FE=~z~You think it's easy keeping you in the manner to which you've been accustomed?
-0x560C75FE=~z~你以为让你每天都能以现在这副样子抛头露面很容易吗？
+0x560C75FE=~z~你以为让你每天都能这副模样抛头露面很容易吗？
 
 ;0x57493D0F=E2T2_GG
 0x57493D0F=E2T2_GG
@@ -528,7 +528,7 @@
 0x6370D65E=~z~猜猜看。又是Rocco的差事。
 
 ;0x656F2771=~z~We shoulda just smiled at the guy, said we'd do all we could for him, and never returned his calls.
-0x656F2771=~z~我们就该笑眯眯地答应他，说会尽力而为，然后拉黑他的电话。
+0x656F2771=~z~就该笑眯眯地答应他，说会尽力而为，然后拉黑他的电话。
 
 ;0x65E2AEC6=~z~More of them. Holy shit.
 0x65E2AEC6=~z~又是一批。真操蛋。
@@ -1131,7 +1131,7 @@
 0xE96FABB9=~z~啊，谢谢你的关心。
 
 ;0xEAAED0F7=~z~Even if we did have the money to pay them back they wouldn't take it. They're gonna ride us into the ground.
-0xEAAED0F7=~z~就算我们有钱还债，他们也不会要。他们只会慢慢把我们榨干。
+0xEAAED0F7=~z~就算有钱还债，他们也不会要。他们只会慢慢把我们榨干。
 
 ;0xEAB360C3=~z~I'm sure, but perhaps the show wasn't as much fun as the reality of their war.
 0xEAB360C3=~z~确实，但电视上演的可未必比现实中的战争有趣。

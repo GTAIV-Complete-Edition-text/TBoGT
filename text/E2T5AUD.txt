@@ -273,7 +273,7 @@
 0x8F804092=090
 
 ;0x90C67CA2=~z~Now fuck off, Evan. You gave him the pills. Be gone before I get back.
-0x90C67CA2=~z~快滚吧，Evan。你让他有药嗑的。在我回来之前消失。
+0x90C67CA2=~z~快滚吧，Evan。你让他嗑上药的。在我回来之前消失。
 
 ;0x91752F6F=~z~You think you're a big shot. You're a nothing and soon you gonna be a dead nothing.
 0x91752F6F=~z~真把自己当回事了。你是个鸡巴，过两天还会变成烂鸡巴。

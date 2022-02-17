@@ -51,7 +51,7 @@
 0x0C3CA76B=GIRL2_IE2
 
 ;0x0CA72A0A=~z~All Chris's suits are made by that darling little man at Perseus - we should go there.
-0x0CA72A0A=~z~Chris的套装都是找神之子服饰的小个子定做的，咱们去那儿吧。
+0x0CA72A0A=~z~Chris的套装都是找神之子服饰的小个子定做的，咱们过去吧。
 
 ;0x0CEC9A63=GIRL2_IB2
 0x0CEC9A63=GIRL2_IB2
@@ -129,7 +129,7 @@
 0x1F246CF3=GIRL2_GE
 
 ;0x2066333C=~z~but... yes, he's probably a bender, so anyway, I got off with him,
-0x2066333C=~z~但...对，也许他是个酒鬼，反正我帮他撸了一发。
+0x2066333C=~z~但...对，也许他是弯的，反正我帮他撸了一发。
 
 ;0x21CA378D=~z~ Is your fiancé gay as well? Is that like a fetish for you?
 0x21CA378D=~z~你未婚夫也是个基佬吧？你是不是就好这口？
@@ -177,7 +177,7 @@
 0x2BB7220E=~z~你要想这样威胁他，起码先把我名字搞清楚吧。
 
 ;0x2BEF2D79=~z~I don't want to be famous for tossing off some sodomite.
-0x2BEF2D79=~z~我不想因为帮那个基佬撸管出名。
+0x2BEF2D79=~z~我不想因为帮一个基佬撸管出名。
 
 ;0x2C3D3FD7=~z~He probably holds that back for his gentlemen callers.
 0x2C3D3FD7=~z~那个可能留给他的男朋友用了。
@@ -360,7 +360,7 @@
 0x640B9E44=SFX_OVERLAP_2210
 
 ;0x6673E968=~z~but if you're speaking communal showers and anxious fumblings in the meadow, then perhaps.
-0x6673E968=~z~如果是说公共澡堂和在草坪上的焦虑摸索的话，那确实差不多。
+0x6673E968=~z~如果是说公共澡堂和草坪上的焦虑摸索的话，那确实差不多。
 
 ;0x67572026=~z~You really just want a wank? We're not twelve.
 0x67572026=~z~你真的只想撸一发吗？又不是初中生。
@@ -411,7 +411,7 @@
 0x7DC8E2C5=~z~这样他们才有兴致。他当时没架个三脚架出来已经不错了。
 
 ;0x7E3DEEEA=~z~The classic blind beard...
-0x7E3DEEEA=~z~经典穿上裤子不认人...
+0x7E3DEEEA=~z~经典操作了...
 
 ;0x7E5280AF=GIRL2_JD
 0x7E5280AF=GIRL2_JD
@@ -426,7 +426,7 @@
 0x819B828E=100090200090100090316090316090100090200090090
 
 ;0x81F5CE8A=~z~You've such a sensitive and angry little soul, haven't you, darling?
-0x81F5CE8A=~z~你还真是个敏感易怒的小家伙啊，亲爱的？
+0x81F5CE8A=~z~你这小家伙也太敏感易怒了吧，亲爱的？
 
 ;0x82AFD1FB=~z~Standard Vinewood shit then?
 0x82AFD1FB=~z~好麦坞经典剧情？
@@ -540,7 +540,7 @@
 0xAA0BC80E=~z~又不是就他一个。
 
 ;0xAA1AC58F=~z~So, anyway, I was really drunk, but anyway, you know Chris Hunt?
-0xAA1AC58F=~z~那，总之，我真的喝多了。但总之，你认识Chris Hunt吗？
+0xAA1AC58F=~z~那，总之，我当时喝多了。但总之，你认识Chris Hunt吗？
 
 ;0xAA9645BA=~z~Listen, have you got any coke?
 0xAA9645BA=~z~听着，你有可卡因吗？
@@ -609,7 +609,7 @@
 0xC6DB49E6=GIRL2_HB
 
 ;0xC80B2FEE=~z~He's always on that bloody Bleeter website. We'll wait until he bleets and then we should be able to find him.
-0xC80B2FEE=~z~这人他妈的天天刷Bleeter。等着他发动态吧，这样应该能找到他。
+0xC80B2FEE=~z~这人他妈的天天刷Bleeter。等着他发动态吧，应该能找到他。
 
 ;0xC8636AE0=~z~I did my best, girl. But you better wise up. Bad things happen to annoying people. See ya.
 0xC8636AE0=~z~我尽力了，姑娘。但你也放聪明点。人倒霉了，喝凉水都塞牙。再见。
@@ -744,7 +744,7 @@
 0xF3CE77A7=GIRL2_IF
 
 ;0xF4157883=~z~I just don't want my cameo in his bedroom saga to be broadcast to friends and family before
-0xF4157883=~z~我只是不想让我跟他的床上剧场被我的给家人朋友看见，
+0xF4157883=~z~我只是不想被家人朋友看见我跟他的床上剧场，
 
 ;0xF49F97F3=GIRL2_MA
 0xF49F97F3=GIRL2_MA

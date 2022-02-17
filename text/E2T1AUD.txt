@@ -507,7 +507,7 @@
 0x8B173D47=~z~我就该进监狱。不是吗？
 
 ;0x8BDE8237=~z~I'm told that one of your "friends" is causing trouble out front. Can you go help Dessie?
-0x8BDE8237=~z~有人和我说你的「朋友」在门口闹事。你能不能去帮帮Dessie？
+0x8BDE8237=~z~听说你的「朋友」在门口闹事。你能不能去帮帮Dessie？
 
 ;0x8C91F2F3=E2T1_IB
 0x8C91F2F3=E2T1_IB

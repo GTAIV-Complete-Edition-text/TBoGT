@@ -105,7 +105,7 @@
 0x1D6F6E4F=E2BR2_DD
 
 ;0x1D911F6F=~z~Saving one last job I need help with, I'll let you off all your contractual obligations.
-0x1D911F6F=~z~除了最后一个需要你帮忙的差事，我会把你们欠的债一笔勾销。
+0x1D911F6F=~z~除了最后一个需要你帮忙的差事，我把你们欠的债一笔勾销。
 
 ;0x20487462=~z~3!
 0x20487462=~z~三！
@@ -291,7 +291,7 @@
 0x630F8377=SFX_PAUSE_120
 
 ;0x6932CBD8=~z~or maybe it is because I am the S-H-I-T, bitch!
-0x6932CBD8=~z~也可能是因为我 就 是 牛 逼，贱人！
+0x6932CBD8=~z~也可能是因为我就－是－牛－逼，贱人！
 
 ;0x6A360331=SFX_PAUSE_210
 0x6A360331=SFX_PAUSE_210
@@ -369,7 +369,7 @@
 0x8CBF0CA0=E2BR2_IJ
 
 ;0x8D813CB5=~z~Not really, bro. Being around people you want to kill. That shit gets confusing, Mori.
-0x8D813CB5=~z~不至于，兄弟。天天跟着你想杀的人混，才是真的困惑，Mori。
+0x8D813CB5=~z~不至于，兄弟。天天跟着想杀的人混，才是真的困惑，Mori。
 
 ;0x8D83FD18=~z~All or nothing, eh? Heavenly peace or a lifetime of being tortured by some hellish imp?
 0x8D83FD18=~z~背水一战，对吧？就此安宁，或是一辈子恶鬼缠身。
@@ -480,7 +480,7 @@
 0xB30078F9=~z~我主宰比赛了，矮子的情人。
 
 ;0xB3330818=~z~You know I'm sensing a little tension here, Lou. You should let it out. I don't know, beat off more or something.
-0xB3330818=~z~感觉你很烦躁啊，Lou。得释放一下。怎么说呢，撸一发啥的。
+0xB3330818=~z~感觉你很烦躁啊，Lou。得释放一下。怎么说呢，撸一发吧。
 
 ;0xB34EA016=~z~I'm worried I'd be replacing it with "tiny cunt management".
 0xB34EA016=~z~我怕写上去的新岗位是「小逼崽子人力管理」。
@@ -555,7 +555,7 @@
 0xCC276776=E2BR2_IE
 
 ;0xCCBBFB8B=~z~Well, how about everything Tony owes me? And I promise to get out of your life if you win.
-0xCCBBFB8B=~z~要么赌上Tony欠我的所有债务？你赢了我就滚出你的生活。
+0xCCBBFB8B=~z~赌上Tony欠我的所有债务如何？你赢了我就滚出你的生活。
 
 ;0xCCF304B4=~z~You will be airlifted to the start where you will race from one vehicle to the next.
 0xCCF304B4=~z~把你们空运到起点，然后在不同的载具中接力冲刺吧。

@@ -1296,7 +1296,7 @@
 0xD1565471=Hen
 
 ;0xBAE254B6=The ~BLIP_108~ icon represents the meeting point for a Drug War. Help Armando and Henrique build a drugs empire and you will be rewarded.
-0xBAE254B6=~BLIP_108~图标表示毒品战争的集合地点。帮助Armando和Henrique建立毒品帝国，你也能得到奖励。
+0xBAE254B6=~BLIP_108~表示毒品战争的集合地点。帮助Armando和Henrique建立毒品帝国，你也能得到奖励。
 
 ;0xBE604B51=Drug Wars become more challenging as you progress but will unlock new weaponry in your safehouse.
 0xBE604B51=随着进度推进，毒品战争会变得更富挑战性，但你的安全屋中也会解锁新的武器装备。
@@ -1626,7 +1626,7 @@
 0x5020E957=Tony
 
 ;0xAF08D5FA=Could do with some help at Maisonette. Come by during opening hours or I'll see you at the loft. T xx
-0xAF08D5FA=你可以来豪宅给我打下手。营业的时候我在店里，其他时间来公寓找我。 T 么么哒
+0xAF08D5FA=你可以来豪宅给我打下手。营业的时候我在店里，其他时间来公寓找我。  T 么么哒
 
 ;0xFB446E74=PLACEHOLDER
 0xFB446E74=PLACEHOLDER

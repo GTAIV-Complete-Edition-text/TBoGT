@@ -561,7 +561,7 @@
 0xCE1E0008=~z~这辆车我开，你们开那一辆跟我走。
 
 ;0xCE9700FE=~z~We need to get this stuff back to the Heights. We earned it, yo. Follow me in that car.
-0xCE9700FE=~z~咱得把这货送回高地。赚到了，哟。开那辆车跟我走吧。
+0xCE9700FE=~z~咱得把货送回高地。赚到了，哟。开那辆车跟我走吧。
 
 ;0xCF7E4F09=~z~We in the shit again, bro.
 0xCF7E4F09=~z~又遇上麻烦了，兄弟。

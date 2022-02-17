@@ -243,7 +243,7 @@
 0x3A12C71B=E2MF2_HF
 
 ;0x3A89FE7D=~z~I'll try to put some time in soon, man. Shit's been kind of crazy. Trust me. Look after things.
-0x3A89FE7D=~z~我尽量找时间过来吧，老兄。最近事太多了，真的。有劳你了。
+0x3A89FE7D=~z~我尽量找时间吧，老兄。最近事太多了，真的。有劳你了。
 
 ;0x3B58C12C=E2MF2_PB
 0x3B58C12C=E2MF2_PB

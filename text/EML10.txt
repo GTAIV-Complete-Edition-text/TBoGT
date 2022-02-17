@@ -27,7 +27,7 @@
 0x56A29A42=嗨Luis，
 
 ;0x5C3461DD=Whatever,
-0x5C3461DD=不管啦，
+0x5C3461DD=就这样吧，
 
 ;0x624DB198=Hello stranger!
 0x624DB198=你好，陌生人！
@@ -36,7 +36,7 @@
 0x6C0DBEA4=我今晚不上班。 Luis
 
 ;0x71DF0D36=Whatever,
-0x71DF0D36=不管啦，
+0x71DF0D36=就这样吧，
 
 ;0x7FF68C03=Margs, I think you need to chill out. Please can we call this quits?
 0x7FF68C03=Margs，我觉得你得冷静冷静。我们就缘尽于此吧？
@@ -54,7 +54,7 @@
 0xB84B9417=你好吗？或者按你说的「哟，咋的了！？」你还是没怎么联系我吧。我给你留了几条留言，好像你没收到。
 
 ;0xBA959E96=Whatever,
-0xBA959E96=不管啦，
+0xBA959E96=就这样吧，
 
 ;0xBE77A063=Well, I'm sorry. I guess you never got the present I sent, because if you did and you haven't thanked me, that's just rude. I mean, seriously. Listen, I don't know what is wrong with you or whatever but come on. I mean, listen, I'm not a stalker or anything but I thought we kind of had a connection and in this crazy city, that means something.
 0xBE77A063=好吧，我很遗憾。我猜你从没收到过我寄的礼物，要是你收到过却从未对我道谢，只能说你很没教养。坦白说，我不知道你哪根筋搭错了。听着，我不是想骚扰你的变态，但我觉得我俩真的有缘，而缘分在这座疯狂的城市里是很有价值的。
@@ -63,7 +63,7 @@
 0xC9483BFB=再见，
 
 ;0xCE10458B=Whatever,
-0xCE10458B=不管啦，
+0xCE10458B=就这样吧，
 
 ;0xD7821BC7=Hello stranger!
 0xD7821BC7=你好，陌生人！
