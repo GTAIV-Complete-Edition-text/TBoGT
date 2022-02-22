@@ -33,7 +33,7 @@
 0x09E542FA=E2T10_ALB
 
 ;0x09E905AC=~z~Why don't we head out to the Carraways? It's fabulous this time of year.
-0x09E905AC=~z~我们现在去Carraways吧？现在是一年中最棒的时候。
+0x09E905AC=~z~我们去Carraways度假吧？现在是一年中最棒的时候。
 
 ;0x0AF7D897=E2T10_CD
 0x0AF7D897=E2T10_CD
@@ -516,7 +516,7 @@
 0x654A9224=~z~你是保镖对吧？给我回去杀了他们。
 
 ;0x660C49C4=~z~This is true. Maybe we should be worrying about what Ray Bulgarin has to say about handing over the ice.
-0x660C49C4=~z~是这样。我们还是担心下钻石交出去后Ray Bulgarin的想法吧。
+0x660C49C4=~z~是这样。我们还是担心下交出钻石后Ray Bulgarin的想法吧。
 
 ;0x66EA9925=E2T10_ZA
 0x66EA9925=E2T10_ZA
@@ -912,7 +912,7 @@
 0xBA70C2FC=100090010
 
 ;0xBB2D0CFD=~z~and we wouldn't be doing this if old man Ancelotti hadn't "made me an offer I couldn't refuse".
-0xBB2D0CFD=~z~要不是Ancelotti老头给了我一个「无法拒绝的提议」，我才不干。
+0xBB2D0CFD=~z~要不是Ancelotti头子给了我一个「无法拒绝的提议」，我才不干。
 
 ;0xBC974581=E2T10_HD
 0xBC974581=E2T10_HD

@@ -108,7 +108,7 @@
 0xC63142FF=~r~你惊动了目标。
 
 ;0xCDF64D6C=Lose the corrupt ~r~NOOSE.~s~
-0xCDF64D6C=甩掉腐败的~r~NOOSE。~s~
+0xCDF64D6C=摆脱腐败的~r~NOOSE。~s~
 
 ;0xD00E8E72=Get out of the car.
 0xD00E8E72=下车。

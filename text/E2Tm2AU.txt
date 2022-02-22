@@ -381,7 +381,7 @@
 0xCAC2B863=~z~这边事情不太顺利，Dess。懂我意思吧？
 
 ;0xCB717520=~z~There's no way she gonna starve to death in the couple of minutes it takes me to get this foul smelling shit to her. Chill out.
-0xCB717520=~z~这份难闻的外卖晚几分钟到，她也不可能会饿死的。再忍忍吧。
+0xCB717520=~z~这份难闻的外卖晚几分钟到，她也不会饿死的。再忍忍吧。
 
 ;0xCBF5B26D=010090100090100090010
 0xCBF5B26D=010090100090100090010

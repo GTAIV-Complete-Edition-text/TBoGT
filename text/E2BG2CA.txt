@@ -684,7 +684,7 @@
 0xF1D0D24B=~z~去追开卡车的家伙啊！
 
 ;0xF2357C86=~z~Yeah, I'm afraid so.
-0xF2357C86=~z~对，是死了。
+0xF2357C86=~z~是死了。
 
 ;0xF2823A93=E2BG2_BCD
 0xF2823A93=E2BG2_BCD

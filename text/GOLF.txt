@@ -18,7 +18,7 @@
 0x4464C779=将球打到目标附近以获得分数。
 
 ;0x4CEFBC09=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.
-0x4CEFBC09=按~INPUT_PICKUP~退出。~n~按 ~INPUT_FRONTEND_ACCEPT~再来一局。
+0x4CEFBC09=按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~再来一局。
 
 ;0x529263D4=The closer the ball is to the target, the more points scored. Bonus points are awarded for hitting the target directly.
 0x529263D4=球离目标越近，得分越高。直接命中目标可获得奖励分。

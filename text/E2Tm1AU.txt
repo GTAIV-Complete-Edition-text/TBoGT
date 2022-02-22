@@ -192,7 +192,7 @@
 0x48C938F7=E2Tm1_SC
 
 ;0x4B236A23=~z~You must get so lonely. You can bunk in with us if you like. We're gonna order some shoes from Tokyo when we get back.
-0x4B236A23=~z~那你一定很寂寞吧。需要的话你可以跟我们一起住。回去以后我们还要订几双东京的鞋子。
+0x4B236A23=~z~那你一定很寂寞吧，需要的话可以跟我们住。回去以后我们还要订几双东京的鞋子。
 
 ;0x4C6C3F03=~z~Whatever, bro.
 0x4C6C3F03=~z~随你便。兄弟。
@@ -363,7 +363,7 @@
 0x8FE83BB1=020200
 
 ;0x91D3CC02=~z~This is a long way from chilled, Clayton.
-0x91D3CC02=~z~冷静下来得花点时间，Clayton。
+0x91D3CC02=~z~根本冷静不下来啊，Clayton。
 
 ;0x92B1D6C7=SFX_PAUSE_250
 0x92B1D6C7=SFX_PAUSE_250
@@ -390,7 +390,7 @@
 0x9F537F88=~z~没事的，兄弟。我会帮你甩掉他们的。
 
 ;0xA022689F=~z~I am not going to prison.
-0xA022689F=~z~我不想蹲局子。
+0xA022689F=~z~我不想进局子。
 
 ;0xA090AD86=E2Tm1_ZE
 0xA090AD86=E2Tm1_ZE
@@ -438,7 +438,7 @@
 0xAB4ACF1F=~z~一首新歌，既有我街头硬汉的一面，又有我包容老练的一面。
 
 ;0xADAD8D6B=~z~What is the world coming to if a straight man can't have fun with his gay friends without being accused on the internet?
-0xADAD8D6B=~z~一个异性恋跟他的基佬朋友出个门都要被人在网上定罪的话，那这世道也太可怕了吧。
+0xADAD8D6B=~z~直男跟基佬朋友出个门都要被网民定罪，什么世道啊。
 
 ;0xADBF0CAF=~z~Tell Clay I love that new joint.
 0xADBF0CAF=~z~告诉Clay我喜欢他的新歌。
@@ -561,7 +561,7 @@
 0xD339556B=~z~我不是你们以为的那种人！
 
 ;0xD4DDEA27=~z~Damn right that was too bad. I've only got, like, six of them. Keeping it real, homie. Real.
-0xD4DDEA27=~z~确实很倒霉啊。这种车我只有六辆。保持真我，老哥。真诚点。
+0xD4DDEA27=~z~确实倒霉啊。这种车我只有六辆。保持真我，老哥。真诚点。
 
 ;0xD5E59C26=010090100
 0xD5E59C26=010090100

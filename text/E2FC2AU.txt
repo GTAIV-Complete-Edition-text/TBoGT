@@ -299,7 +299,7 @@
 0x6F26E8EB=~z~谢谢你，H。
 
 ;0x6F7E9AD4=~z~Well, maybe I did, but how was I know to do Luis was on his period? You and tony got your cycles lined up?
-0x6F7E9AD4=~z~也许我有，不过我又不知道Luis哪天来月经。你和Tony调理好经期了吗吗？
+0x6F7E9AD4=~z~也许我有，不过我又不知道Luis哪天来月经。你和Tony调理好经期了吗？
 ;配音中为"...how was I suppose to know..."
 
 ;0x6FBC316A=~z~Exactly.

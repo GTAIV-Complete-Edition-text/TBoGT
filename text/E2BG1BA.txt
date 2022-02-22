@@ -3,7 +3,7 @@
 0x02BE3803=~z~可能早就终身监禁了。是Tony给了我一切机会。
 
 ;0x0337CC81=~z~Perhaps. For now... perhaps. But do you think you are achieving everything you could?
-0x0337CC81=~z~也许吧。也许现在是这样。难道这就是你力所能及的一切了吗？
+0x0337CC81=~z~也许吧。也许现在是这样。难道这就是你力所能及的一切吗？
 
 ;0x043D6A2A=E2BG1_BKF
 0x043D6A2A=E2BG1_BKF
@@ -339,7 +339,7 @@
 0x76F983C5=~z~就算会，也不可能第一次出门就亲密接触啊。
 
 ;0x78700D29=~z~It's good to have you with us, Luis.
-0x78700D29=~z~有你加入我们真好啊，Luis。
+0x78700D29=~z~有你加入真好啊，Luis。
 
 ;0x7A3D3D08=E2BG1_BRF1
 0x7A3D3D08=E2BG1_BRF1
@@ -363,7 +363,7 @@
 0x80406D02=~z~随你吧，兄弟。能聊点别的吗？我现在在干嘛？
 
 ;0x848475B8=~z~I was saying that I may be interested in investing in your potential.
-0x848475B8=~z~我意思是我有兴趣投资你的潜力。
+0x848475B8=~z~意思是我有兴趣投资你的潜力。
 
 ;0x84B2B7CC=SFX_PAUSE_200
 0x84B2B7CC=SFX_PAUSE_200

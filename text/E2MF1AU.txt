@@ -165,7 +165,7 @@
 0x1ACFAC4B=~z~你可以在大学的图书馆尊重他，而不是夜店的舞台上。
 
 ;0x1B5FD272=~z~Heh heh, yeah. Kibbutz on a motherfucking kibbutz, huh! Yeah but I've taken this shit over.
-0x1B5FD272=~z~没错。Kibbutz现在在一个基布兹*，哈！但这里已经归我管了。~n~(以色列的集体主义社区)
+0x1B5FD272=~z~没错。Kibbutz现在在基布兹*，哈！但这里已经归我管了。~n~(以色列的集体主义社区)
 
 ;0x1C1F7027=~z~Luis.
 0x1C1F7027=~z~Luis。

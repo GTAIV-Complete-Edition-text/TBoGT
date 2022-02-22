@@ -105,7 +105,7 @@
 0x1CA9A283=~z~操了，伙计，你他妈有病吧？
 
 ;0x1CECBC6A=~z~Ha! You don't have any friends. You don't even have a business here. You are nothing in this country. - My sister,
-0x1CECBC6A=~z~－哈！你哪来的朋友。你在这儿都没有事业。在美国你屁都不是。 －我妹妹。
+0x1CECBC6A=~z~－哈！你哪来的朋友。你在这儿都没有事业。在美国你屁都不是。 －我姐姐。
 
 ;0x1CEE866F=~z~~x~
 0x1CEE866F=~z~~x~
@@ -150,7 +150,7 @@
 0x26CE4352=E2BG1_COD
 
 ;0x26E14F4B=~z~The money is making the plans. That's the American way.
-0x26E14F4B=~z~钱掌控一切，这就是美国的风格。
+0x26E14F4B=~z~金钱掌控一切，这就是美国的风格。
 
 ;0x27E55024=~z~Is that it then, you just too paranoid to let someone else get nasty?
 0x27E55024=~z~也就是说，你多疑到不肯让别人动手？
@@ -726,7 +726,7 @@
 0xC6607D99=SFX_PAUSE_230
 
 ;0xC6B50614=~z~Fuck that. I got explosives already. Hand over that MG of yours and I'm ready to go.
-0xC6B50614=~z~算了吧。黏弹我早有好了。那把机枪给我，我就准备好了。
+0xC6B50614=~z~算了吧。黏弹我早有了。那把机枪给我，我就准备好了。
 
 ;0xC8008D6C=~z~Look, I'm, ahh, taking care of some personal business. I'll come see you later, okay?
 0xC8008D6C=~z~听我说，我、我在忙个人事务。晚点找你好吗？
@@ -759,7 +759,7 @@
 0xD08CEB9A=~z~好吧哥们，消息已经传达了。这人是谁？
 
 ;0xD111A4B5=~z~It is piece of shit. I bought it for my sister.
-0xD111A4B5=~z~这里是个屁。我买给我妹妹的。
+0xD111A4B5=~z~这里是个屁。我买给我姐姐的。
 
 ;0xD1CB5691=SFX_PAUSE_150
 0xD1CB5691=SFX_PAUSE_150
@@ -888,7 +888,7 @@
 0xEE523C43=E2BG1_CDF
 
 ;0xEE92E1AB=~z~Okay, man, if that's what the money wants...
-0xEE92E1AB=~z~好吧，哥们，既然这就是钱的旨意...
+0xEE92E1AB=~z~好吧，哥们，那我就顺从钱的旨意...
 
 ;0xEE96C32B=~z~Something's wrong. The door is open.
 0xEE96C32B=~z~情况不对。门是开着的。

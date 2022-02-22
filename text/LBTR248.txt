@@ -3,7 +3,7 @@
 0x098B56E6=Tony J Smith
 
 ;0x1869CCD3=A homeless Vietnam veteran, Jerry Kapowitz, has stumbled upon a haul of diamonds valued at over $2 million. They were in a small pouch amongst the trash in Meadows Park. Mr. Kapowitz had been living near the dump and surviving off of things he salvaged from there. "Before this, the best thing I'd found was a TV and that didn't even work," he told reporters. Mr. Kapowitz plans to take his newfound wealth down to Vice City where he will start a gun shop and liquor store, "They're real men down there and they need real guns and liquor in one convenient location." Mr. Kapowitz's ownership of the diamonds was immediately contested by over 100 people. Mayor Ochoa decided that it would be impossible to verify the claims so allowed Mr. Kapowitz to keep all of the proceeds from the diamonds' sale.
-0x1869CCD3=一名流浪的越战老兵，Jerry Kapowitz，捡到了一批价值超过两百万美元的钻石。钻石被装在一个小袋子里，混在Meadows Park的垃圾堆中。Kapowitz先生一直住在垃圾场附近，靠捡垃圾生存。「此前，我捡到过的最好的东西是一台电视，而且还是坏的，」他告诉记者。Kapowitz先生计划带着自己刚获得的财富去罪城，然后开一家枪店兼酒馆，「那边的人都是真汉子，他们需要一家同时具备真枪和好酒的店。」已有上百人对Kapowitz先生的钻石拥有权提出了异议，称自己是失主。Ochoa市长则以无法证实失主为由，允许Kapowitz先生保留出售钻石所获得的收入。
+0x1869CCD3=一名流浪的越战老兵，Jerry Kapowitz，捡到了一批价值超过两百万美元的钻石。钻石被装在一个小袋子里，混在草地公园的垃圾堆中。Kapowitz先生一直住在垃圾场附近，靠捡垃圾生存。「此前，我捡到过的最好的东西是一台电视，而且还是坏的，」他告诉记者。Kapowitz先生计划带着自己刚获得的财富去罪城，然后开一家枪店兼酒馆，「那边的人都是真汉子，他们需要一家同时具备真枪和好酒的店。」已有上百人对Kapowitz先生的钻石拥有权提出了异议，称自己是失主。Ochoa市长则以无法证实失主为由，允许Kapowitz先生保留出售钻石所获得的收入。
 
 ;0x186FB69A=Finds diamonds sleeping rough
 0x186FB69A=钻石露宿街头
