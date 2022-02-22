@@ -291,7 +291,7 @@
 0x3C5CF5BD=~z~比如他能把脚放到头上，还能吃一大堆绿豆。
 
 ;0x3D64A589=~z~I see him. He's crossed over to Alderney. He's coming out the Booth right now.
-0x3D64A589=~z~看见他了。他跨海来到Alderney了。马上就要从隧道里出来了。
+0x3D64A589=~z~看见他了。他跨海来到Alderney了。马上就从隧道里出来了。
 
 ;0x3DB542DF=~z~Let's get this bird on the ground, Lou.
 0x3DB542DF=~z~我们把飞机开回去吧，Lou。
@@ -486,7 +486,7 @@
 0x66EF1DB4=~z~起来吧，你这个老混球。来，我们一块去找Gracie。
 
 ;0x69CF692E=~z~They're an Irish operation headed by this maniac called Gerald McReary. He's doing time at Alderney State.
-0x69CF692E=~z~他们是一伙爱尔兰人，带头的是个叫Gerlad McReary的疯子，现在在Alderney坐牢。
+0x69CF692E=~z~他们是一伙爱尔兰人，带头的是个叫Gerald McReary的疯子，现在在Alderney坐牢。
 
 ;0x69E87E90=~z~Look! There he is. He's coming out of the tunnel on the Alderney side.
 0x69E87E90=~z~快看！他来了。他从Alderney这边的隧道口出来了。
@@ -627,7 +627,7 @@
 0x8AEA6827=E2T9_AGB
 
 ;0x8B93CDDF=~z~Hey, who knows. Bound and gagged might be the look for guido sluts next season.
-0x8B93CDDF=~z~嘿，谁知道呢。说不定意大利婊子的下一个潮流就是捆绑封口。
+0x8B93CDDF=~z~谁知道呢。说不定意大利婊子的下一个潮流就是捆绑封口。
 
 ;0x8CAA935F=~z~Okay. I've sent them the location.
 0x8CAA935F=~z~好了。我把地址发给他们了。
@@ -1056,7 +1056,7 @@
 0xF2D33D1D=100090010
 
 ;0xF2E086F0=~z~I bet they have. Bro, I want to gag the bitch most times I see her. Joking, man. I was joking.
-0xF2E086F0=~z~是得塞上。兄弟，我每次见到她都想把她的嘴塞住。开玩笑的，兄弟。我开玩笑的。
+0xF2E086F0=~z~是得塞上。兄弟，每次见到她我都想塞住她的嘴。开玩笑的，兄弟。我开玩笑的。
 
 ;0xF32ABD48=E2T9_AZC
 0xF32ABD48=E2T9_AZC

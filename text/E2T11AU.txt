@@ -579,7 +579,7 @@
 0x5BDF6D4F=200
 
 ;0x5BF11EB8=~z~Okay, cool. Hit up, like, err, that Monoglobe monument thing in Meadows Park. Hang out for a few hours.
-0x5BF11EB8=~z~好，可以。你就去Meadows Park的巨型地球仪那里吧。在那儿等几个小时。
+0x5BF11EB8=~z~好，可以。你就去草地公园的巨型地球仪那里吧。在那儿等几个小时。
 
 ;0x5C877956=~z~He has made asshole of me. Kill him.
 0x5C877956=~z~这小子敢耍我，干掉他。
@@ -672,7 +672,7 @@
 0x6F024A9E=~z~离开自由城，重新开始。新的夜店，换个地方。我能做到，你也能。
 
 ;0x6F368B12=~z~Dukes? Alright, I'll wait for you in Middle Park by that silly Monoglobe. You are gonna make it, L. I know it.
-0x6F368B12=~z~Dukes？好吧，我在Meadows Park的巨蠢地球仪那儿等你。你能做到的，L。我知道的。
+0x6F368B12=~z~Dukes？好吧，我在草地公园的巨蠢地球仪那儿等你。~n~你能做到的，L。我知道的。
 
 ;0x6F406977=~z~Two in the chest and two in the head!
 0x6F406977=~z~两枪胸口，两枪头！
@@ -942,7 +942,7 @@
 0x9B012B3A=E2T11_QB
 
 ;0x9BD1CFC8=~z~Boom! Boom! Kapow, motherbitches!
-0x9BD1CFC8=~z~嘭嘭！爆炸！操你妈的！
+0x9BD1CFC8=~z~嘭嘭！爆炸！妈个逼的！
 
 ;0x9CE7E00A=~z~Luis, you come to wish me goodbye.
 0x9CE7E00A=~z~Luis，你是来送我的吗？

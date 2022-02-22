@@ -294,7 +294,7 @@
 0x45EEEC40=SFX_PAUSE_190
 
 ;0x4650F194=~z~I'm sorry. I fucked up. Kind of refreshing for me to be the one getting us in shit for once, don't you think?
-0x4650F194=~z~很抱歉，我搞砸了。这次是我把你拖下水，对我来说还挺新鲜，不是吗？
+0x4650F194=~z~很抱歉，我搞砸了。这次是我把你拖下水，对我来说还挺新鲜的，不是吗？
 
 ;0x4809D126=E2MF2_GB
 0x4809D126=E2MF2_GB
@@ -958,7 +958,7 @@
 0xF7E76482=E2MF2_HE
 
 ;0xF87D9037=~z~This is Tony. You haven't gotten hold of me, so give Dessie a call if this is concerning Maisonette,
-0xF87D9037=~z~我是Tony，现在听不了你的电话。豪宅方面的事情请找Dessie，
+0xF87D9037=~z~我是Tony，现在听不了电话。豪宅方面的事情请找Dessie，
 
 ;0xF955B8D3=~z~Me? I don't even like swimming.
 0xF955B8D3=~z~我？我都不游泳的。

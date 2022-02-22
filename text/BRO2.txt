@@ -45,7 +45,7 @@
 0x37CE2EC0=第十一名
 
 ;0x38FD019F=Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.
-0x38FD019F=用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按 ~INPUT_NEXT_CAMERA~改变视角。
+0x38FD019F=用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按~INPUT_NEXT_CAMERA~改变视角。
 
 ;0x3C674C79=2nd
 0x3C674C79=第二名
@@ -123,7 +123,7 @@
 0xE1697F99=~r~对手的船被毁了。
 
 ;0xE23F4E87=Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to to view different cameras.
-0xE23F4E87=用~PAD_LSTICK_ALL~改变重心。~n~用~INPUT_AIM~和~INPUT_ATTACK~左转或右转。~n~按~INPUT_ENTER~丢掉降落伞。~n~按 ~INPUT_MELEE_ATTACK1~改变视角。
+0xE23F4E87=用~PAD_LSTICK_ALL~改变重心。~n~用~INPUT_AIM~和~INPUT_ATTACK~左转或右转。~n~按~INPUT_ENTER~丢掉降落伞。~n~按~INPUT_MELEE_ATTACK1~改变视角。
 
 ;0xE487B866=Gain speed, then press ~INPUT_VEH_CIN_CAM~ to activate nitro.
 0xE487B866=加速，然后按~INPUT_VEH_CIN_CAM~激活氮气加速。

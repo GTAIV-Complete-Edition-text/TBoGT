@@ -561,7 +561,7 @@
 0xBF383291=E2Tm1_HB
 
 ;0xC14727F8=~z~Oh no, don't worry about him. He's just giving us a lift.
-0xC14727F8=~z~哦不，别担心他。他是来接咱们的。
+0xC14727F8=~z~哦不，别在意他。他是来接咱们的。
 
 ;0xC24EBBB1=E2Tm3_QG
 0xC24EBBB1=E2Tm3_QG

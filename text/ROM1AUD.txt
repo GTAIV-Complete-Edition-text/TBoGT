@@ -276,7 +276,7 @@
 0x4E783116=~z~那又是另一种经历，朋友。也值得铭记。
 
 ;0x4EBD0916=~z~Don't get that whip out again, motherfucker
-0x4EBD0916=~z~别让那个虐待狂出来了，操你妈的。
+0x4EBD0916=~z~别让那个受虐狂出来了，操你妈的。
 
 ;0x4F09D690=~z~Howdy partner.
 0x4F09D690=~z~你好，搭档。
@@ -732,7 +732,7 @@
 0xCD1385C5=~z~你这种人来Chase Point干嘛？
 
 ;0xCD4E3A86=~z~Yo. It's the French whipping boy. You ain't getting your cash back, fool.
-0xCD4E3A86=~z~哟，是法国虐待狂啊。别想拿回钱包，傻逼。
+0xCD4E3A86=~z~哟，是法国受虐狂啊。别想拿回钱包，傻逼。
 
 ;0xCF3A3A88=~z~Sorry papi, I don't smoke.
 0xCF3A3A88=~z~抱歉老哥，我不抽烟。
@@ -801,7 +801,7 @@
 0xDFFAAE7E=~z~好吧，
 
 ;0xE0646968=~z~I'm gonna drop you round the corner, bro. It ain't safe here.
-0xE0646968=~z~我送你到路口附近吧，兄弟。这里不安全。
+0xE0646968=~z~我送你到大路附近吧，兄弟。这里不安全。
 
 ;0xE0E2C6A5=ROM1_ZA
 0xE0E2C6A5=ROM1_ZA

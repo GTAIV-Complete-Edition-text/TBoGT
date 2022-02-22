@@ -417,7 +417,7 @@
 0x75C5056F=~z~不战斗，就是死。快点，我们上。
 
 ;0x7681DF36=~z~Go back to my sister's house.
-0x7681DF36=~z~回我妹妹家去。
+0x7681DF36=~z~回我姐姐家去。
 
 ;0x77A79827=~z~Die! Die! Die!
 0x77A79827=~z~死吧！死吧！死吧！
@@ -621,7 +621,7 @@
 0xA4F4899C=~z~再不走我们就要动粗了。
 
 ;0xA4FEBC33=~z~Take us back to my sister's.
-0xA4FEBC33=~z~送我们回我妹妹家。
+0xA4FEBC33=~z~送我们回我姐姐家。
 
 ;0xA544AA3B=E2BG1_BIA
 0xA544AA3B=E2BG1_BIA

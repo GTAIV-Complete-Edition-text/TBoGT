@@ -15,7 +15,7 @@
 0x03F5EF44=~z~他的同伙在哪？
 
 ;0x043DA242=~z~Okay. You just need to jump on the train. Climb to the front and unhook the lead car. I'll take it from there.
-0x043DA242=~z~好的。你只要跳上列车，爬到前面解挂车头。剩下的我来。
+0x043DA242=~z~好了。你只要跳上列车，爬到前面解挂车头。剩下的我来。
 
 ;0x049BE34F=~z~I got you that tank thing and the chopper - what now, you want the Statue of Happiness for your back yard?
 0x049BE34F=~z~我给你弄来了坦克和直升机，然后呢？是不是要把幸福女神像放进后院？
@@ -156,7 +156,7 @@
 0x21820B9B=~z~我最好等着那个混蛋。
 
 ;0x21936ACD=~z~We have liftoff, motherfuckers.
-0x21936ACD=~z~我们起飞了，一帮鳖孙。
+0x21936ACD=~z~我们起飞了，妈个逼的。
 
 ;0x22988A56=~z~Just fucking tell me, bro!
 0x22988A56=~z~你他妈倒是说啊，兄弟！
@@ -405,7 +405,7 @@
 0x5892E93C=SFX_PAUSE_300
 
 ;0x596EFBB3=~z~Damn right, motherfucker!
-0x596EFBB3=~z~太对了，操他妈的！
+0x596EFBB3=~z~太对了，妈个逼的！
 
 ;0x59C8592E=106
 0x59C8592E=106
@@ -588,7 +588,7 @@
 0x83982B08=100
 
 ;0x84242512=~z~They called Michelangelo crazy, but he invented the wheel and who's laughing now?
-0x84242512=~z~他们说米开朗基罗是疯子，但他发明了车轮。是谁笑到了最后？
+0x84242512=~z~他们说米开朗基罗是疯子，但他发明了车轮。是谁笑到了最后啊？
 
 ;0x8511FAC2=106
 0x8511FAC2=106
@@ -759,7 +759,7 @@
 0xA7F9AA04=~z~很好的主意，我的朋友，但那得往后稍稍。
 
 ;0xA947958A=~z~Get ready for liftoff, motherfucker.
-0xA947958A=~z~准备起飞，混蛋。
+0xA947958A=~z~准备起飞，妈个逼的。
 
 ;0xA969BB0A=E2Y4_HF
 0xA969BB0A=E2Y4_HF
@@ -858,7 +858,7 @@
 0xBF73FB0D=~z~来吧，兄弟。解开中间的车钩。
 
 ;0xBF7F62B3=~z~Yo, could you give me a ride to my helicopter? I could tell you something on the way.
-0xBF7F62B3=~z~哟，你可以送我去我家停机坪吗吗？我在路上和你详细说明。
+0xBF7F62B3=~z~哟，你可以送我去我家停机坪吗？我在路上和你详细说明。
 
 ;0xBFDEF843=E2Y4_GA
 0xBFDEF843=E2Y4_GA
@@ -1116,7 +1116,7 @@
 0xF1F1341E=100
 
 ;0xF23336EC=~z~We're taking that shit out to the Gulf for a new Liberty City themed development out there.
-0xF23336EC=~z~我们要把这东西弄到海湾地区，开发一个自由城主题的新项目。
+0xF23336EC=~z~把这东西弄到海湾地区，开发一个自由城主题的新项目。
 
 ;0xF2484BE9=~z~It's an attack!
 0xF2484BE9=~z~这是恐怖袭击！

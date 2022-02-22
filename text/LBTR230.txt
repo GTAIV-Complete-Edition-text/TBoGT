@@ -33,7 +33,7 @@
 0xC459D452=冲击公众视野的Howitzer
 
 ;0xD73EF357=Manzano was being investigated by the FIB for his links with organised crime in Liberty City and Las Venturas. He was also thought to be in a spat with members of the Ancellotti Crime Syndicate. Authorities are investigating these leads as possible motivations for the mass shooting. Meanwhile a group of Algonquin residents is lobbying the Civic Citadel to reclose the bridges to keep the bridge and tunnel menace out.
-0xD73EF357=此前，Manzano因与自由城和拉斯文加斯两地的有组织犯罪存在联系，受到了FIB的调查。他也被认为曾与Ancelloti犯罪家族的成员发生口角。有关部门已将这些线索作为可能的犯案动机调查。与此同时，一群Algonquin居民正在市政厅前游行，要求重新封锁大桥，以杜绝城郊野人的威胁。
+0xD73EF357=此前，Manzano因与自由城和拉斯文加斯两地的有组织犯罪存在联系，受到了FIB的调查。他也被认为曾与Ancelotti犯罪家族的成员发生口角。有关部门已将这些线索作为可能的犯案动机调查。与此同时，一群Algonquin居民正在市政厅前游行，要求重新封锁大桥，以杜绝城郊野人的威胁。
 
 ;0xDF78E108=Is there any celebrity with a shred of dignity left? Another middle aged has-been has decided to humiliate himself. Jack Howitzer's recently launched reality show is a ratings disaster, which has the writers and producers scrambling for some unplanned drama to unfold. Rumors abound that a reunion of Howitzer and Ho Chi is in the works, in which Howitzer breaks down and cries after apologizing for the sexual advances that broke up the duo. Desperate, but it might just work.
 0xDF78E108=还有哪一位名人保留着一丝尊严吗？现在，又有一位已至中年的过气名人决定自取其辱了。Jack Howitzer最近推出的真人秀简直是一场收视率灾难，节目中总会出现一些即兴情节，扰乱编剧和制片人的安排。众多小道消息称Howitzer与Ho Chi的复合正在进行中，此前两人因性骚扰关系破裂，Howitzer为此道歉后失声痛哭。为了收视率使出浑身解数，总归会有点作用吧。

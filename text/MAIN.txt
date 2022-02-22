@@ -849,7 +849,7 @@
 0xC1DB9B98=找一辆座位更多的载具。
 
 ;0x796A5AF5=You cannot enter the club with a wanted level.
-0x796A5AF5=你无法在被通缉时进入夜店。
+0x796A5AF5=被通缉时不能进入夜店。
 
 ;0x0ACAE920=You are barred from the club for causing trouble.
 0x0ACAE920=你太会惹是生非，已被夜店拉黑。
@@ -2820,7 +2820,7 @@
 0xBD9E4099=~z~东岛城。
 
 ;0xBCB0782A=~z~Meadows Park.
-0xBCB0782A=~z~Meadows Park。
+0xBCB0782A=~z~草地公园。
 
 ;0x6CBF44E2=~z~Like, Meadow Hills
 0x6CBF44E2=~z~好像是Meadow Hills。
@@ -3006,7 +3006,7 @@
 0x83D292F6=~z~Algonquin大桥。
 
 ;0x40CE317A=~z~East Borough Bridge.
-0x40CE317A=~z~East Borough大桥。
+0x40CE317A=~z~东区大桥。
 
 ;0x277D5A1B=~z~Dukes Bay Bridge.
 0x277D5A1B=~z~Dukes Bay大桥。

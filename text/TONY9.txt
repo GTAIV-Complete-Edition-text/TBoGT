@@ -45,7 +45,7 @@
 0xDB44A6FD=~r~你弄坏了绑匪的车。
 
 ;0xE2427A1A=~s~The suspected kidnapper is near ~y~Meadows Park.
-0xE2427A1A=~s~绑匪在~y~Meadows Park~s~附近。
+0xE2427A1A=~s~绑匪在~y~草地公园~s~附近。
 
 ;0xF701BCE3=~s~Now take the chopper back to the ~y~helipad.
 0xF701BCE3=~s~将直升机开回~y~停机坪。

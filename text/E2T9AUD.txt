@@ -12,7 +12,7 @@
 0x03F9C28A=SFX_PAUSE_160
 
 ;0x03FD5463=~z~If we could throw every fucking blogger out a chopper, bro. Keep them fools in line.
-0x03FD5463=~z~真希望能把这些臭写博客的都扔下去，兄弟。让他们不乱说话。
+0x03FD5463=~z~真想把这些臭写博客的都扔下去，兄弟。让他们不乱说话。
 
 ;0x041E353F=SFX_PAUSE_250
 0x041E353F=SFX_PAUSE_250
@@ -648,7 +648,7 @@
 0x8FB2803C=E2T9_AEB
 
 ;0x9085002A=~z~He might not be going west at all, might be heading over to the East Borough Bridge so he can get himself up to Bohan.
-0x9085002A=~z~也可能根本不是西边，说不定是去East Borough大桥，要去的地方在Bohan。
+0x9085002A=~z~也可能根本不是西边，说不定是去东区大桥，要去的地方在Bohan。
 
 ;0x91A4B8B3=E2T9_PE1
 0x91A4B8B3=E2T9_PE1
