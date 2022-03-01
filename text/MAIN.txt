@@ -1470,7 +1470,7 @@
 0xEDC9454E=军火商人
 
 ;0x8BD5FBC5=Recession is over!
-0x8BD5FBC5=经济不再衰退！
+0x8BD5FBC5=经济衰退到此为止!
 
 ;0xAE05C024=Explosions
 0xAE05C024=连环爆炸

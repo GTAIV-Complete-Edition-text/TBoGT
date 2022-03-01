@@ -30,7 +30,7 @@
 0x40AFCCE2=若要提高击球精度，在蓄力槽回落到黑线时击球，同时控制好~PAD_RSTICK_ALL~的位置。~n~按住~INPUT_ATTACK~进行缩放。~n~用~PAD_RSTICK_LEFTRIGHT~旋转视角。
 
 ;0x445E5377=Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Press ~PAD_A~ to start backswing. ~n~To hit the ball, press ~PAD_A~ when the descending power bar reaches the black marker.
-0x445E5377=用~PAD_LSTICK_ALL~改变目标落点。~n~按~PAD_A~开始蓄力。~n~蓄力槽回落到黑线时按~PAD_A~击球。
+0x445E5377=用~PAD_LSTICK_ALL~改变目标落点。~n~按~PAD_A~开始蓄力。~n~游标回落到黑线时按~PAD_A~击球。
 
 ;0x456B5AF9=Head down to the ~b~golf cart.
 0x456B5AF9=前往~b~高尔夫球车~s~所在地。
@@ -78,7 +78,7 @@
 0xB04757CC=进入~b~高尔夫球车。
 
 ;0xB3C30E73=Use ~PAD_RSTICK_ALL~ to change shot position. ~n~Press ~INPUT_MOUSE_LMB~ to start backswing. ~n~To hit the ball, press ~INPUT_MOUSE_LMB~ when the descending power bar reaches the black marker.
-0xB3C30E73=用~PAD_RSTICK_ALL~改变目标落点。~n~按~INPUT_MOUSE_LMB~开始蓄力。~n~蓄力槽回落到黑线时按~INPUT_MOUSE_LMB~击球。
+0xB3C30E73=用~PAD_RSTICK_ALL~改变目标落点。~n~按~INPUT_MOUSE_LMB~开始蓄力。~n~游标回落到黑线时按~INPUT_MOUSE_LMB~击球。
 
 ;0xB9EB5587=Wait for ~b~Tony.
 0xB9EB5587=等待~b~Tony。

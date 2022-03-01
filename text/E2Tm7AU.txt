@@ -192,7 +192,7 @@
 0x2C97DE8C=~z~无法反驳。
 
 ;0x2D12EBFA=~z~What you doing in here, bro? I didn't think this was your scene.
-0x2D12EBFA=~z~你在这干啥呢，兄弟？这不是你会来的地方吧。
+0x2D12EBFA=~z~你在大力神干啥呢，兄弟？这不是你会来的地方吧。
 
 ;0x2D49C4EF=010090100
 0x2D49C4EF=010090100
