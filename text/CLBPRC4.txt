@@ -63,7 +63,7 @@
 0xF6FCDC3D=前往~y~东勒德酒店。
 
 ;0xFDE56A16=Press ~INPUT_VEH_ATTACK~ to use the fire truck's hose. Use ~PAD_RSTICK_ALL~ to aim.
-0xFDE56A16=按~INPUT_VEH_ATTACK~使用消防水枪。用~PAD_RSTICK_ALL~瞄准。
+0xFDE56A16=按~INPUT_VEH_ATTACK~喷水。用~PAD_RSTICK_ALL~瞄准。
 
 ;0xFFC9D56F=~r~Club management failed.
 0xFFC9D56F=~r~夜店经营任务失败。

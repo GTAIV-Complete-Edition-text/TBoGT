@@ -471,7 +471,7 @@
 0xEE0CA697=~z~对，外卖在我手上。再等一会儿就能送到了。
 
 ;0xEF18CD2F=~z~Hey, it's Danni on behalf of Kerry McIntosh.
-0xEF18CD2F=~z~嘿，我是Danni，代表Kerry McIntosh与你通电话。
+0xEF18CD2F=~z~嘿，我是Danni，代表Kerry McIntosh联系你。
 
 ;0xEFFE344C=SFX_PAUSE_350
 0xEFFE344C=SFX_PAUSE_350
