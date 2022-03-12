@@ -1,808 +1,808 @@
 ﻿[E2CM1AU]
 ;0x022EDBA3=~z~but, if you put it into cold water and you heat the water up,
-0x022EDBA3=~z~but, if you put it into cold water and you heat the water up,
+0x022EDBA3=~z~如果是投进冷水，再慢慢加热，
 
 ;0x049FECA2=~z~before I got bored and started fucking stuff.
-0x049FECA2=~z~before I got bored and started fucking stuff.
+0x049FECA2=~z~太无聊的话我就要开操了。
 
 ;0x0508FFD6=~z~They'll drag up some wee guy with leukemia or something and go
-0x0508FFD6=~z~They'll drag up some wee guy with leukemia or something and go
+0x0508FFD6=~z就随便找个白血病小孩，说：
 
 ;0x054EDF8C=~z~You might want to send money to people in Africa.
-0x054EDF8C=~z~You might want to send money to people in Africa.
+0x054EDF8C=~z~你可能想给非洲人送钱。
 
 ;0x069102EA=~z~Who the fuck is texting people the news that they've got cancer?
-0x069102EA=~z~Who the fuck is texting people the news that they've got cancer?
+0x069102EA=~z~谁他妈发短信给别人，说自己得了癌症啊？
 
 ;0x07B056A0=~z~I'm gonna open your arse cheeks with a car jack."
-0x07B056A0=~z~I'm gonna open your arse cheeks with a car jack."
+0x07B056A0=~z~我要用千斤顶把你的屁股掰开。」
 
 ;0x08796D96=~z~The oldest woman ever to give birth gave birth this year.
-0x08796D96=~z~The oldest woman ever to give birth gave birth this year.
+0x08796D96=~z~今年年纪最大的产妇。
 
 ;0x090D63F4=~z~and you can last for longer.
-0x090D63F4=~z~and you can last for longer.
+0x090D63F4=~z~你就更持久了。
 
 ;0x09B08809=~z~Do you know what I hate, right?
-0x09B08809=~z~Do you know what I hate, right?
+0x09B08809=~z~猜猜我讨厌什么？
 
 ;0x09D5F670=~z~said that scientists are going to start treating alcoholism with LSD.
-0x09D5F670=~z~said that scientists are going to start treating alcoholism with LSD.
+0x09D5F670=~z~科学家准备将LSD*作为戒酒手段。~n~(一种强烈致幻剂)
 
 ;0x0D6C043A=~z~I don't even have to think about it. It's definitely you".
-0x0D6C043A=~z~I don't even have to think about it. It's definitely you".
+0x0D6C043A=~z~想都不用想，肯定是你。」
 
 ;0x0E9B0291=~z~because it's like giving the kids pornography.
-0x0E9B0291=~z~because it's like giving the kids pornography.
+0x0E9B0291=~z~因为这是在给小孩看黄片。
 
 ;0x124C1700=~z~"Fire, fire".
-0x124C1700=~z~"Fire, fire".
+0x124C1700=~z~「着火啦*，着火啦。」~n~(亦可作「快点射」解释)
 
 ;0x12EC1960=~z~six foot one, six foot two?
-0x12EC1960=~z~six foot one, six foot two?
+0x12EC1960=~z~183？189？
 
 ;0x13147B17=~z~Because we want it to work won't make it fucking work.
-0x13147B17=~z~Because we want it to work won't make it fucking work.
+0x13147B17=~z~因为想让它管用不代表它能管用。
 
 ;0x1368EF59=~z~Because, when you get a hard-on, you look like a sundial at noon.
-0x1368EF59=~z~Because, when you get a hard-on, you look like a sundial at noon.
+0x1368EF59=~z~脱了的话，一硬下面就成日晷了。
 
 ;0x13737E2C=~z~the frog won't realize and it'll die?
-0x13737E2C=~z~the frog won't realize and it'll die?
+0x13737E2C=~z~青蛙就不知不觉地被煮熟了。
 
 ;0x152E119E=~z~The great thing about kids,
-0x152E119E=~z~The great thing about kids,
+0x152E119E=~z~还是带娃的话题，
 
 ;0x162689E8=~z~you could wake up with much more money than you thought you had.
-0x162689E8=~z~you could wake up with much more money than you thought you had.
+0x162689E8=~z~万一你醒来时兜里钱多了，
 
 ;0x1702A06D=~z~Cause people will come if it's a fire,
-0x1702A06D=~z~Cause people will come if it's a fire,
+0x1702A06D=~z~因为着火了有人来救，
 
 ;0x182A5275=~z~I used to have a big beard.
-0x182A5275=~z~I used to have a big beard.
+0x182A5275=~z~我以前是大胡子。
 
 ;0x1C1BA199=~z~And she sat there for a bit, and then she went
-0x1C1BA199=~z~And she sat there for a bit, and then she went
+0x1C1BA199=~z~然后她愣了一会儿，说了一句：
 
 ;0x1CF11127=~z~It was news to me.
-0x1CF11127=~z~It was news to me.
+0x1CF11127=~z~我当时震惊了。
 
 ;0x1D7E2FA4=~z~I hate those awards ceremonies celebrities have
-0x1D7E2FA4=~z~I hate those awards ceremonies celebrities have
+0x1D7E2FA4=~z~我讨厌名人的那些颁奖典礼，
 
 ;0x1D8A0D6E=~z~I'd been planning on redecorating using diarrhea pills and stencils.
-0x1D8A0D6E=~z~I'd been planning on redecorating using diarrhea pills and stencils.
+0x1D8A0D6E=~z~我是准备用泻药刷墙再贴满窗花。
 
 ;0x1F3FA3DA=~z~I'm not even into young women.
-0x1F3FA3DA=~z~I'm not even into young women.
+0x1F3FA3DA=~z~我对小姑娘没半点兴趣。
 
 ;0x2123CF29=~z~And now, give it up, for Frankie Boyle!
-0x2123CF29=~z~And now, give it up, for Frankie Boyle!
+0x2123CF29=~z~现在，掌声欢迎，Frankie Boyle！
 
 ;0x233B8C3E=~z~Hey, it's been a pleasure.
-0x233B8C3E=~z~Hey, it's been a pleasure.
+0x233B8C3E=~z~嘿，今晚我很高兴。
 
 ;0x24290F91=~z~and they try to get heat off you?"
-0x24290F91=~z~and they try to get heat off you?"
+0x24290F91=~z~这样很讨厌吧？」
 
 ;0x2468BC59=~z~which I'm going to make quite difficult for you.
-0x2468BC59=~z~which I'm going to make quite difficult for you.
+0x2468BC59=~z~因为我会让你不好过的。
 
 ;0x26E56FEB=~z~By the time the beard gets to a certain length,
-0x26E56FEB=~z~By the time the beard gets to a certain length,
+0x26E56FEB=~z~胡子长到一定长度的时候，
 
 ;0x278F2CB9=~z~than waking up in the morning with less money than you thought you had
-0x278F2CB9=~z~than waking up in the morning with less money than you thought you had
+0x278F2CB9=~z~一早醒来，兜里钱少了，
 
 ;0x2A833A0C=~z~well you're not allowed to go, "let's just call it a draw".
-0x2A833A0C=~z~well you're not allowed to go, "let's just call it a draw".
+0x2A833A0C=~z~这会儿可不能说：「这次算是平局」啊。
 
 ;0x2CB9BF6D=~z~I didn't have the kids with me, but I was in that mode,
-0x2CB9BF6D=~z~I didn't have the kids with me, but I was in that mode,
+0x2CB9BF6D=~z~没有带娃一起，但还是带娃模式。
 
 ;0x2EDB537E=~z~By the way, have you noticed that the word "cancer"
-0x2EDB537E=~z~By the way, have you noticed that the word "cancer"
+0x2EDB537E=~z~对了，你们有没有发现「癌症」这个词
 
 ;0x2F0ED2C5=~z~You get your homework back and he's drawn a cock on it.
-0x2F0ED2C5=~z~You get your homework back and he's drawn a cock on it.
+0x2F0ED2C5=~z~作业交上去发回来，他批了个鸡巴上去。
 
 ;0x2F0FD1A7=~z~you trying to shag an eighteen year old girl
-0x2F0FD1A7=~z~you trying to shag an eighteen year old girl
+0x2F0FD1A7=~z~你跟十八岁的姑娘打炮
 
 ;0x2F19442C=~z~And this guy beside me got really angry!
-0x2F19442C=~z~And this guy beside me got really angry!
+0x2F19442C=~z~我旁边一人就很生气！
 
 ;0x2F4AB5DA=~z~ I'll never wear a blindfold again.
-0x2F4AB5DA=~z~ I'll never wear a blindfold again.
+0x2F4AB5DA=~z~以后我不戴眼罩了。
 
 ;0x2F9F51A6=~z~Can I ask you something, pal -
-0x2F9F51A6=~z~Can I ask you something, pal -
+0x2F9F51A6=~z~问你件事啊，老兄。
 
 ;0x31C5AACA=~z~And I always think, well, what if you're a necrophiliac?
-0x31C5AACA=~z~And I always think, well, what if you're a necrophiliac?
+0x31C5AACA=~z~我不太同意，万一人家是恋尸癖呢？
 
 ;0x31DE2983=~z~Apparently, now we've got to call them poof lanterns.
-0x31DE2983=~z~Apparently, now we've got to call them poof lanterns.
+0x31DE2983=~z~我看还是改叫「断背川」吧。
 
 ;0x33DA4A6E=~z~Don't know why I've done that as an Al Jolson number there -
-0x33DA4A6E=~z~Don't know why I've done that as an Al Jolson number there -
+0x33DA4A6E=~z~反正我当时是用艾尔乔森的腔调说的，
 
 ;0x3407B9E8=~z~And, basically, it's got an anesthetic in the lining and it makes you numb
-0x3407B9E8=~z~And, basically, it's got an anesthetic in the lining and it makes you numb
+0x3407B9E8=~z~原理就是在套的内壁涂上麻药，下面一麻，
 
 ;0x3653C195=~z~"Shall we have a go at curing cancer? "
-0x3653C195=~z~"Shall we have a go at curing cancer? "
+0x3653C195=~z~「研究下怎么治癌症吧？」
 
 ;0x381CE601=~z~is on predictive text?
-0x381CE601=~z~is on predictive text?
+0x381CE601=~z~在输入联想里面？
 
 ;0x399B955F=~z~you look like you've got one of those ball vaginas.
-0x399B955F=~z~you look like you've got one of those ball vaginas.
+0x399B955F=~z~两个蛋都勒成骆驼趾了。
 
 ;0x3B76DC48=~z~Church has got a great thing at the minute.
-0x3B76DC48=~z~Church has got a great thing at the minute.
+0x3B76DC48=~z~教会最近提了个建议。
 
 ;0x3BD0CAD4=~z~Split Sides Comedy Club welcomes, Frankie Boyle!
-0x3BD0CAD4=~z~Split Sides Comedy Club welcomes, Frankie Boyle!
+0x3BD0CAD4=~z~Split Sides喜剧俱乐部，欢迎Frankie Boyle！
 
 ;0x3DC5D83A=~z~to the state of a 70-year-old's fanny?
-0x3DC5D83A=~z~to the state of a 70-year-old's fanny?
+0x3DC5D83A=~z~七旬老太的逼造成什么影响？
 
 ;0x3EDBE3B1=~z~Cause he thought I was talking to him.
-0x3EDBE3B1=~z~Cause he thought I was talking to him.
+0x3EDBE3B1=~z~他以为我是在说他。
 
 ;0x3FF8DD8C=~z~I don't drink.
-0x3FF8DD8C=~z~I don't drink.
+0x3FF8DD8C=~z~我不喝酒。
 
 ;0x4017C76E=~z~Maybe you love it when they're cold?
-0x4017C76E=~z~Maybe you love it when they're cold?
+0x4017C76E=~z~万一人就喜欢冰凉的呢？
 
 ;0x4054E604=~z~They say they don't want sex education in schools,
-0x4054E604=~z~They say they don't want sex education in schools,
+0x4054E604=~z~要求学校停止性教育，
 
 ;0x4096F395=~z~Must be quite confusing - for the rapist.
-0x4096F395=~z~Must be quite confusing - for the rapist.
+0x4096F395=~z~不过强奸犯会觉得，怪怪的。
 
 ;0x41324AFF=~z~I'm trying to think if I've got any cheerful jokes at all.
-0x41324AFF=~z~I'm trying to think if I've got any cheerful jokes at all.
+0x41324AFF=~z~我都怀疑自己有没有好笑点的笑料了。
 
 ;0x4149D46C=~z~Apparently, scientists have come up with a condom for premature ejaculation.
-0x4149D46C=~z~Apparently, scientists have come up with a condom for premature ejaculation.
+0x4149D46C=~z~据说早泄人群专用的避孕套已经研发成功了。
 
 ;0x42CE127D=~z~Hello!
-0x42CE127D=~z~Hello!
+0x42CE127D=~z~你们好！
 
 ;0x44AFFCE7=~z~See like an eighteen year old girl now can be what,
-0x44AFFCE7=~z~See like an eighteen year old girl now can be what,
+0x44AFFCE7=~z~看看现在十八岁的姑娘有多高，
 
 ;0x488AE85A=~z~They told me she was European.
-0x488AE85A=~z~They told me she was European.
+0x488AE85A=~z~老鸨说那个是欧洲人。
 
 ;0x4A5D36E2=~z~So, eh, let me tell you a bit about myself.
-0x4A5D36E2=~z~So, eh, let me tell you a bit about myself.
+0x4A5D36E2=~z~那，呃，先讲点我自己的事吧。
 
 ;0x4B47E8E9=~z~Then shaving the word 'Welcome' into my fucking dog's back.
-0x4B47E8E9=~z~Then shaving the word 'Welcome' into my fucking dog's back.
+0x4B47E8E9=~z~还打算在我家狗子背上剃个「欢迎光临」。
 
 ;0x4B938AAE=~z~By the time you're sixty
-0x4B938AAE=~z~By the time you're sixty
+0x4B938AAE=~z~等你六十岁，
 
 ;0x4BE8F56C=~z~said, "It could be worse;
-0x4BE8F56C=~z~said, "It could be worse;
+0x4BE8F56C=~z~我说：「还能更坏。
 
 ;0x4DE96311=~z~"Oh, that's brilliant, you're freezing.
-0x4DE96311=~z~"Oh, that's brilliant, you're freezing.
+0x4DE96311=~z~「噢，太棒了，你很冷啊。
 
 ;0x4E178370=~z~Especially if you get them little cute tops that say "Future DJ", that kind of thing.
-0x4E178370=~z~Especially if you get them little cute tops that say "Future DJ", that kind of thing.
+0x4E178370=~z~娃衣服上最好还写着，「未来DJ」之类的。
 
 ;0x50360325=~z~You know how men go,
-0x50360325=~z~You know how men go,
+0x50360325=~z~这话男人一般咋说？
 
 ;0x506D72B3=~z~Any spare change, pal? I've got a unicorn to feed.
-0x506D72B3=~z~Any spare change, pal? I've got a unicorn to feed.
+0x506D72B3=~z~「有零钱吗，伙计？我家独角兽还饿着呢。」
 
 ;0x50E77E71=~z~And then eventually I realized that these girls were wearing a different type of bra...
-0x50E77E71=~z~And then eventually I realized that these girls were wearing a different type of bra...
+0x50E77E71=~z~后来我才知道这些女生的胸罩是别的款式...
 
 ;0x52FD9BC2=~z~Tell you what else is on there - "rape".
-0x52FD9BC2=~z~Tell you what else is on there - "rape".
+0x52FD9BC2=~z~还有个输入联想，「强奸」。
 
 ;0x54DC110D=~z~They're a real conversation starter.
-0x54DC110D=~z~They're a real conversation starter.
+0x54DC110D=~z~见面先提孩子怎样。
 
 ;0x557B8C88=~z~What's a guy who doesn't know what he's doing with his hands like?
-0x557B8C88=~z~What's a guy who doesn't know what he's doing with his hands like?
+0x557B8C88=~z~那没帮别人撸过的男人呢？
 
 ;0x5669F29A=~z~Stay black!
-0x5669F29A=~z~Stay black!
+0x5669F29A=~z~保重！
 
 ;0x59CB152F=~z~to my cost.
-0x59CB152F=~z~to my cost.
+0x59CB152F=~z~代价惨重。
 
 ;0x5C939515=~z~I suppose the only thing I don't like about old people is that,
-0x5C939515=~z~I suppose the only thing I don't like about old people is that,
+0x5C939515=~z~我对老人唯一讨厌的方面大概就是，
 
 ;0x5D28B018=~z~Who the fuck is using that facility?
-0x5D28B018=~z~Who the fuck is using that facility?
+0x5D28B018=~z~这破词谁用得着啊？
 
 ;0x5D301D47=~z~Hello!
-0x5D301D47=~z~Hello!
+0x5D301D47=~z~你们好！
 
 ;0x5D612203=~z~I went to the supermarket a couple of weeks ago.
-0x5D612203=~z~I went to the supermarket a couple of weeks ago.
+0x5D612203=~z~几星期前我去了超市。
 
 ;0x5E561A46=~z~and he said it was because he could never imagine anything worse
-0x5E561A46=~z~and he said it was because he could never imagine anything worse
+0x5E561A46=~z~他说喝酒能带来的最坏后果是，
 
 ;0x5F98A1EA=~z~"Oh, women don't know how to wank us off"?
-0x5F98A1EA=~z~"Oh, women don't know how to wank us off"?
+0x5F98A1EA=~z~「噢，女人才不懂怎么撸男人。」
 
 ;0x60AB9508=~z~It said - if someone's coming round to view the house,
-0x60AB9508=~z~It said - if someone's coming round to view the house,
+0x60AB9508=~z~里面说：如果有人找你看房了，
 
 ;0x611D948C=~z~Is there anything sadder than seeing someone with a dog picking up dog shit?
-0x611D948C=~z~Is there anything sadder than seeing someone with a dog picking up dog shit?
+0x611D948C=~z~还有什么比养狗的人捡狗屎更可怜吗？
 
 ;0x6132B5EC=~z~See by the time you're sixty,
-0x6132B5EC=~z~See by the time you're sixty,
+0x6132B5EC=~z~再想想你六十岁的时候，
 
 ;0x62E0A752=~z~It's like a hungry child wearing oven gloves trying to get a beetroot out of a jar.
-0x62E0A752=~z~It's like a hungry child wearing oven gloves trying to get a beetroot out of a jar.
+0x62E0A752=~z~被他撸就像饿了的孩子戴着手套在掏腌菜罐头。
 
 ;0x63B328FF=~z~You know that thing when you're having sex,
-0x63B328FF=~z~You know that thing when you're having sex,
+0x63B328FF=~z~行房的时候你会有感觉的，
 
 ;0x63D5BA12=~z~"I'm going as quick as I can here"!
-0x63D5BA12=~z~"I'm going as quick as I can here"!
+0x63D5BA12=~z~「再快也快不了了！」
 
 ;0x63E79055=~z~Another two, if I move my bike.
-0x63E79055=~z~Another two, if I move my bike.
+0x63E79055=~z~摩托一挪，又能藏俩。
 
 ;0x64769187=~z~that we're often talking about big stereotypes and generalizations.
-0x64769187=~z~that we're often talking about big stereotypes and generalizations.
+0x64769187=~z~经常出现的刻板印象和标签化。
 
 ;0x64C42CE9=~z~Hey, have a great weekend!
-0x64C42CE9=~z~Hey, have a great weekend!
+0x64C42CE9=~z~嘿，祝你们周末愉快！
 
 ;0x6632D946=~z~You've made an effort tonight, haven't you, pal?
-0x6632D946=~z~You've made an effort tonight, haven't you, pal?
+0x6632D946=~z~今晚你是不是已经很拼了，这位老兄？
 
 ;0x66363095=~z~I've got children now, I've got a wee boy - he's eleven months.
-0x66363095=~z~I've got children now, I've got a wee boy - he's eleven months.
+0x66363095=~z~我现在有孩子，一个是男仔，十一个月大。
 
 ;0x669DC1E2=~z~to get publicity for themselves.
-0x669DC1E2=~z~to get publicity for themselves.
+0x669DC1E2=~z~只为了增加曝光。
 
 ;0x68F4B743=~z~How do you spell "Awhahahaw"?
-0x68F4B743=~z~How do you spell "Awhahahaw"?
+0x68F4B743=~z~「啊哈哈哈」怎么打？
 
 ;0x6A6D3AD7=~z~I was having breakfast with my daughter a couple of weeks ago,
-0x6A6D3AD7=~z~I was having breakfast with my daughter a couple of weeks ago,
+0x6A6D3AD7=~z~几周前我跟女儿吃早饭的时候，
 
 ;0x6B681E0A=~z~"Oh, don't you hate it when your partner comes to bed and they're cold,
-0x6B681E0A=~z~"Oh, don't you hate it when your partner comes to bed and they're cold,
+0x6B681E0A=~z~「你的另一半身体冰凉地上床，还想拿你取暖，
 
 ;0x6BA53BAC=~z~As opposed to the traditional Catholic method of educating them -
-0x6BA53BAC=~z~As opposed to the traditional Catholic method of educating them -
+0x6BA53BAC=~z~不符合天主教的传统性教育方式——
 
 ;0x6D5F2FAB=~z~That money takes no account of cultural difference.
-0x6D5F2FAB=~z~That money takes no account of cultural difference.
+0x6D5F2FAB=~z~但送钱就没考虑文化差异，
 
 ;0x6E32AFA3=~z~Hello!
-0x6E32AFA3=~z~Hello!
+0x6E32AFA3=~z~你们好！~n~(狂热的粉丝大喊Yeah Frankie!)
 
 ;0x6E4DB889=~z~Nobody gives a fuck how many Jews you killed.
-0x6E4DB889=~z~Nobody gives a fuck how many Jews you killed.
+0x6E4DB889=~z~谁他妈想听当年你杀了多少犹太人啊。
 
 ;0x6F0231B5=~z~I saw one the other day, right.
-0x6F0231B5=~z~I saw one the other day, right.
+0x6F0231B5=~z~前几天我看了一集。
 
 ;0x6FDAC6F6=~z~And you'll just say things that have never been said in human history.
-0x6FDAC6F6=~z~And you'll just say things that have never been said in human history.
+0x6FDAC6F6=~z~你就会说一些正常人绝对不会说的话。
 
 ;0x70ACC44A=~z~I actually lost my virginity to my mother's best friend -
-0x70ACC44A=~z~I actually lost my virginity to my mother's best friend -
+0x70ACC44A=~z~其实我的第一次被我妈最好的朋友夺走了，
 
 ;0x71DF360F=~z~I've had to fall back on the less judgmental animal kingdom."
-0x71DF360F=~z~I've had to fall back on the less judgmental animal kingdom."
+0x71DF360F=~z~于是只能退而求其次，在动物中找。」
 
 ;0x72034597=~z~There's stuff you can't say in bed, at all, isn't there?
-0x72034597=~z~There's stuff you can't say in bed, at all, isn't there?
+0x72034597=~z~有些话在床上说不得，不是吗？
 
 ;0x7378DCB8=~z~"I've got cancer, laugh out loud".
-0x7378DCB8=~z~"I've got cancer, laugh out loud".
+0x7378DCB8=~z~「我得癌症了，笑尿。」
 
 ;0x74624E1E=~z~Even if I could get an eighteen year old to suck my cock,
-0x74624E1E=~z~Even if I could get an eighteen year old to suck my cock,
+0x74624E1E=~z~就算能找到个十八岁的来口我，
 
 ;0x7473F5C8=~z~Hey, how you doing?
-0x7473F5C8=~z~Hey, how you doing?
+0x7473F5C8=~z~嘿，各位好吗？
 
 ;0x752E47F6=~z~My best mate gave up the same time as me
-0x752E47F6=~z~My best mate gave up the same time as me
+0x752E47F6=~z~跟我的好兄弟一起戒的酒，
 
 ;0x762134C8=~z~See, I think a lot of this stuff with offensiveness in comedy comes from the fact
-0x762134C8=~z~See, I think a lot of this stuff with offensiveness in comedy comes from the fact
+0x762134C8=~z~我觉得很多这种有点冒犯的笑料，都源于生活中
 
 ;0x7648CE2A=~z~and you sort of know that you're not going to come,
-0x7648CE2A=~z~and you sort of know that you're not going to come,
+0x7648CE2A=~z~能感觉到自己这次不行了，
 
 ;0x768B49C4=~z~I imagine at seventy, the baby didn't have to force its way out.
-0x768B49C4=~z~I imagine at seventy, the baby didn't have to force its way out.
+0x768B49C4=~z~既然她70了，估计宝宝出来也不太费事。
 
 ;0x77F4648F=~z~They'll have awards for brave children.
-0x77F4648F=~z~They'll have awards for brave children.
+0x77F4648F=~z~比如评选勇敢少年。
 
 ;0x77FD4338=~z~You'll leave here with an asshole like a yawning hippo's mouth.
-0x77FD4338=~z~You'll leave here with an asshole like a yawning hippo's mouth.
+0x77FD4338=~z~散场的时候我让你的屁眼表演个河马张嘴。
 
 ;0x7A5A59B9=~z~Don't let men tell you what's sexy, women,
-0x7A5A59B9=~z~Don't let men tell you what's sexy, women,
+0x7A5A59B9=~z~别让男人教你什么叫性感，女人，
 
 ;0x7AAFD818=~z~I mean admittedly, if you've got a woman who doesn't know what she's doing,
-0x7AAFD818=~z~I mean admittedly, if you've got a woman who doesn't know what she's doing,
+0x7AAFD818=~z~说句实话，如果撸你的女人没有经验，
 
 ;0x7ACFDB98=~z~and I picked up the cheese and I went "Hello, Mr. Cheese!"
-0x7ACFDB98=~z~and I picked up the cheese and I went "Hello, Mr. Cheese!"
+0x7ACFDB98=~z~我拿起盒奶酪后，就说：「你好，奶酪先生！」
 
 ;0x7B073BD4=~z~used to be called spastic gay talk.
-0x7B073BD4=~z~used to be called spastic gay talk.
+0x7B073BD4=~z~原本被称作「痉挛基佬话」。
 
 ;0x7B3E4A2D=~z~Oh, thanks for that.
-0x7B3E4A2D=~z~Oh, thanks for that.
+0x7B3E4A2D=~z~哦，多谢提醒。
 
 ;0x7B80D2EF=~z~You'd get more purchase fucking their open grave.
-0x7B80D2EF=~z~You'd get more purchase fucking their open grave.
+0x7B80D2EF=~z~操他们坟的时候，支点还多一点。
 
 ;0x7D0206E8=~z~There's a lot of stuff I don't understand about sex, you know,
-0x7D0206E8=~z~There's a lot of stuff I don't understand about sex, you know,
+0x7D0206E8=~z~性这方面我不懂的还挺多，比如说
 
 ;0x7D496E19=~z~will be like a chihuahua attacking a giraffe.
-0x7D496E19=~z~will be like a chihuahua attacking a giraffe.
+0x7D496E19=~z~就成了吉娃娃咬长颈鹿。
 
 ;0x7E77506F=~z~Or maybe swap it for a fish.
-0x7E77506F=~z~Or maybe swap it for a fish.
+0x7E77506F=~z~或者拿去换条鱼。
 
 ;0x7F81C4C9=~z~because it might be homophobic.
-0x7F81C4C9=~z~because it might be homophobic.
+0x7F81C4C9=~z~万一别人恐同呢。
 
 ;0x7FF5E184=~z~and you kind of know that they're not going to come either,
-0x7FF5E184=~z~and you kind of know that they're not going to come either,
+0x7FF5E184=~z~也能感觉到她们这次也不行了，
 
 ;0x81A07907=~z~"Sad face".
-0x81A07907=~z~"Sad face".
+0x81A07907=~z~「哭哭哦。」
 
 ;0x81BBE8D1=~z~she'd be fucking texting someone while she was doing it.
-0x81BBE8D1=~z~she'd be fucking texting someone while she was doing it.
+0x81BBE8D1=~z~她也会一边网聊一边口的。
 
 ;0x81EBE690=~z~It was the only time he ever told me he loved me.
-0x81EBE690=~z~It was the only time he ever told me he loved me.
+0x81EBE690=~z~那是他唯一一次说他爱我。
 
 ;0x82545BF0=~z~You ever heard that science thing that the human female
-0x82545BF0=~z~You ever heard that science thing that the human female
+0x82545BF0=~z~各位听说过吗，人类女性
 
 ;0x84B35BB7=~z~Vet - that's a job I'd like to have.
-0x84B35BB7=~z~Vet - that's a job I'd like to have.
+0x84B35BB7=~z~兽医，这职业我喜欢。
 
 ;0x8865ED79=~z~It spent the last three months bungee jumping.
-0x8865ED79=~z~It spent the last three months bungee jumping.
+0x8865ED79=~z~毕竟最后三个月它都在蹦极跳。
 
 ;0x8AD27192=~z~when you have anal sex with them, there's almost no grip.
-0x8AD27192=~z~when you have anal sex with them, there's almost no grip.
+0x8AD27192=~z~你肛他们的时候，没地方能抓。
 
 ;0x8AECFD1A=~z~is that sometimes you're just in that kid mode and you don't even have them with you.
-0x8AECFD1A=~z~is that sometimes you're just in that kid mode and you don't even have them with you.
+0x8AECFD1A=~z~有时候明明没在带娃，但你还是带娃模式。
 
 ;0x8B84F9F0=~z~All the way from Glasgow, Frankie Boyle!
-0x8B84F9F0=~z~All the way from Glasgow, Frankie Boyle!
+0x8B84F9F0=~z~从格拉斯哥远道而来，Frankie Boyle！
 
 ;0x8D3F6044=~z~Apparently, at Christmas now we're not supposed to say fairy lights anymore
-0x8D3F6044=~z~Apparently, at Christmas now we're not supposed to say fairy lights anymore
+0x8D3F6044=~z~洗车窗的那个也不能叫「玻璃水」了，
 
 ;0x8DCA72DC=~z~has exactly the same pheromone scent as an orangutan female?
-0x8DCA72DC=~z~has exactly the same pheromone scent as an orangutan female?
+0x8DCA72DC=~z~身上的味道跟母猩猩是一样的。
 
 ;0x8E120085=~z~Sex education at my school was a muttered warning about the janitor.
-0x8E120085=~z~Sex education at my school was a muttered warning about the janitor.
+0x8E120085=~z~我上学时候的性教育是一句传言：「小心清洁工」。
 
 ;0x8E97721B=~z~It takes no account of the reality of those people's lives.
-0x8E97721B=~z~It takes no account of the reality of those people's lives.
+0x8E97721B=~z~也没考虑当地人的生活现状。
 
 ;0x90AB841D=~z~Hey, is this your woman, pal?
-0x90AB841D=~z~Hey, is this your woman, pal?
+0x90AB841D=~z~嘿，这是你的女人吗，老兄？~n~(男观众：是。)
 
 ;0x91E97783=~z~remember to open your curtains and tidy up.
-0x91E97783=~z~remember to open your curtains and tidy up.
+0x91E97783=~z~务必要收拾干净，拉开窗帘。
 
 ;0x92950AEE=~z~"I wasn't talking to you, mate - I was talking to the cheese".
-0x92950AEE=~z~"I wasn't talking to you, mate - I was talking to the cheese".
+0x92950AEE=~z~「没跟你说话，哥们，我在跟奶酪说话。」
 
 ;0x93FD83E8=~z~but I hate it when they're always boasting about what they did in the war.
-0x93FD83E8=~z~but I hate it when they're always boasting about what they did in the war.
+0x93FD83E8=~z~但我不喜欢听他们吹嘘自己当兵的时候怎样怎样。
 
 ;0x95997E70=~z~Hey, shut it pal.
-0x95997E70=~z~Hey, shut it pal.
+0x95997E70=~z~喂，闭嘴吧您。
 
 ;0x95C88081=~z~Charity. Charity doesn't work, right?
-0x95C88081=~z~Charity. Charity doesn't work, right?
+0x95C88081=~z~慈善。慈善不管用，对吧？
 
 ;0x9603CE32=~z~Hey, how you doing, buddy?
-0x9603CE32=~z~Hey, how you doing, buddy?
+0x9603CE32=~z~~z~嘿，你好吗，伙计？
 
 ;0x96397FF3=~z~I hate that fat fuck, John Hunter.
-0x96397FF3=~z~I hate that fat fuck, John Hunter.
+0x96397FF3=~z~我讨厌那个死胖子John Hunter。
 
 ;0x963BFEC8=~z~I suppose, maybe someone without a dog?
-0x963BFEC8=~z~I suppose, maybe someone without a dog?
+0x963BFEC8=~z~没养狗的人捡屎？
 
 ;0x9675009E=~z~he can't wear a belt and a tie on the same day
-0x9675009E=~z~he can't wear a belt and a tie on the same day
+0x9675009E=~z~胖到不能同时系腰带打领带，
 
 ;0x977991B3=~z~Mammy, I wish I hadn't said that.
-0x977991B3=~z~Mammy, I wish I hadn't said that.
+0x977991B3=~z~妈咪，我现在都后悔说这话。
 
 ;0x97FFBCE3=~z~Looks like someone shaved a monkey and kicked it through Binco.
-0x97FFBCE3=~z~Looks like someone shaved a monkey and kicked it through Binco.
+0x97FFBCE3=~z~看着像是给脱毛猴子套了身抹布。
 
 ;0x98289799=~z~But daddy's single!"
-0x98289799=~z~But daddy's single!"
+0x98289799=~z~我爹单身！」
 
 ;0x983513D2=~z~I'd fuck an owl,
-0x983513D2=~z~I'd fuck an owl,
+0x983513D2=~z~我想操猫头鹰，
 
 ;0x9AD39254=~z~Can you imagine what having a baby must have done
-0x9AD39254=~z~Can you imagine what having a baby must have done
+0x9AD39254=~z~你猜生个孩子会对这样一个
 
 ;0x9B3F9817=~z~I just found this out recently,
-0x9B3F9817=~z~I just found this out recently,
+0x9B3F9817=~z~我最近刚明白的。
 
 ;0x9B6B0A13=~z~I drink, er, that Electrolyte drink to do the shows.
-0x9B6B0A13=~z~I drink, er, that Electrolyte drink to do the shows.
+0x9B6B0A13=~z~上台之前，我要先喝点电解质饮料。
 
 ;0x9BE793B8=~z~I'd love to have been there when her dust broke.
-0x9BE793B8=~z~I'd love to have been there when her dust broke.
+0x9BE793B8=~z~我很想目睹新的生命破壳而出。
 
 ;0x9C0D1D73=~z~the only way you'll be able to satisfy an eighteen year old girl,
-0x9C0D1D73=~z~the only way you'll be able to satisfy an eighteen year old girl,
+0x9C0D1D73=~z~再想满足十八岁大姑娘的话，
 
 ;0x9C38AD17=~z~Why do pedophiles always have beards and glasses?
-0x9C38AD17=~z~Why do pedophiles always have beards and glasses?
+0x9C38AD17=~z~为什么恋童癖都戴眼镜留胡子？
 
 ;0x9C869D3D=~z~And you know what no one tells you?
-0x9C869D3D=~z~And you know what no one tells you?
+0x9C869D3D=~z~给你们来点新鲜的啊。
 
 ;0x9D2C1F60=~z~"Darling, eh - you know that mug tree we've got in the kitchen..?
-0x9D2C1F60=~z~"Darling, eh - you know that mug tree we've got in the kitchen..?
+0x9D2C1F60=~z~「亲爱的，厨房的那个茶杯架*你记得吧？~n~(形似缩小的衣帽架)
 
 ;0x9D8B039B=~z~You know my favorite time of year? Halloween.
-0x9D8B039B=~z~You know my favorite time of year? Halloween.
+0x9D8B039B=~z~知道一年中我最喜欢万圣节吗？
 
 ;0x9EEB22DE=~z~That's the one.
-0x9EEB22DE=~z~That's the one.
+0x9EEB22DE=~z~就那东西。
 
 ;0x9F53A19F=~z~it was my father.
-0x9F53A19F=~z~it was my father.
+0x9F53A19F=~z~也就是我爸。
 
 ;0xA187CFF3=~z~Who's wanking going,
-0xA187CFF3=~z~Who's wanking going,
+0xA187CFF3=~z~边手冲边说：
 
 ;0xA2E367ED=~z~people started shouting "Pedophile" at me.
-0xA2E367ED=~z~people started shouting "Pedophile" at me.
+0xA2E367ED=~z~就有人叫我「恋童癖」了。
 
 ;0xA4426AAF=~z~You've got your trousers pulled up so tight
-0xA4426AAF=~z~You've got your trousers pulled up so tight
+0xA4426AAF=~z~你这裤腰带系得太紧了，
 
 ;0xA5852F6B=~z~Anyway, gotta go now - I need a shit!
-0xA5852F6B=~z~Anyway, gotta go now - I need a shit!
+0xA5852F6B=~z~好了，就到这里，拉屎去了！
 
 ;0xA5BD2767=~z~I love old people, I do,
-0xA5BD2767=~z~I love old people, I do,
+0xA5BD2767=~z~我很爱老人，真的。
 
 ;0xA753A60E=~z~Or, to put it another way, scientists have got a lot of fucking time on their hands.
-0xA753A60E=~z~Or, to put it another way, scientists have got a lot of fucking time on their hands.
+0xA753A60E=~z~换个说法就是，这些科学家都他妈闲着蛋疼。
 
 ;0xA9B0269D=~z~I'm quite a grumpy bastard.
-0xA9B0269D=~z~I'm quite a grumpy bastard.
+0xA9B0269D=~z~我这人真有点暴脾气。
 
 ;0xAA52B9FE=~z~will be if an eighteen year old guy uses you as a strap on.
-0xAA52B9FE=~z~will be if an eighteen year old guy uses you as a strap on.
+0xAA52B9FE=~z~就只能把你挂在十八岁壮汉的腰上了。
 
 ;0xAC6C3D08=~z~I mean you'd be frightened that they said no
-0xAC6C3D08=~z~I mean you'd be frightened that they said no
+0xAC6C3D08=~z~怕被拒绝是肯定的，
 
 ;0xADC1376B=~z~No, I'm sure it was actually a magical moment.
-0xADC1376B=~z~No, I'm sure it was actually a magical moment.
+0xADC1376B=~z~那一刻肯定非常神奇。
 
 ;0xAE172FE2=~z~You're talking about a guy who's so fat
-0xAE172FE2=~z~You're talking about a guy who's so fat
+0xAE172FE2=~z~他这人有多胖呢，
 
 ;0xAE9EBFFD=~z~Women are actually better with their hands than men,
-0xAE9EBFFD=~z~Women are actually better with their hands than men,
+0xAE9EBFFD=~z~其实女人的手艺比男人好多了，
 
 ;0xAEF8A676=~z~Halloween, a wonderful time of year for the agoraphobic pedophile.
-0xAEF8A676=~z~Halloween, a wonderful time of year for the agoraphobic pedophile.
+0xAEF8A676=~z~万圣节，不敢上街的恋童癖的美好时光。
 
 ;0xAF346B4C=~z~like nudie calendars.
-0xAF346B4C=~z~like nudie calendars.
+0xAF346B4C=~z~裸体日历。
 
 ;0xB069C81B=~z~My mummy's dead.
-0xB069C81B=~z~My mummy's dead.
+0xB069C81B=~z~「我妈死了。
 
 ;0xB08EC3E3=~z~Does he touch the sides?
-0xB08EC3E3=~z~Does he touch the sides?
+0xB08EC3E3=~z~他能满足你吗？~n~(女观众：可以啊。)
 
 ;0xB0C144EA=~z~Or fuck a kitten.
-0xB0C144EA=~z~Or fuck a kitten.
+0xB0C144EA=~z~操猫也行。
 
 ;0xB3A3399A=~z~That's a joke, I don't have a dog, obviously.
-0xB3A3399A=~z~That's a joke, I don't have a dog, obviously.
+0xB3A3399A=~z~开玩笑的，我其实不养狗。
 
 ;0xB3BF749E=~z~"I can't believe it's Mother's Day".
-0xB3BF749E=~z~"I can't believe it's Mother's Day".
+0xB3BF749E=~z~「我去，今天是母亲节。」
 
 ;0xB3C6BC7D=~z~Do you know what I hate?
-0xB3C6BC7D=~z~Do you know what I hate?
+0xB3C6BC7D=~z~知道我讨厌什么吗？
 
 ;0xB45D3A99=~z~the woman has managed to wriggle free.
-0xB45D3A99=~z~the woman has managed to wriggle free.
+0xB45D3A99=~z~女人就已经跑了。
 
 ;0xB6005E66=~z~Better tell my mum that I won't be home for dinner.
-0xB6005E66=~z~Better tell my mum that I won't be home for dinner.
+0xB6005E66=~z~跟妈说一声晚饭不来吃了。
 
 ;0xB75890DB=~z~All the way from Scotland, England - Frankie Boyle!
-0xB75890DB=~z~All the way from Scotland, England - Frankie Boyle!
+0xB75890DB=~z~从英国的苏格兰远道而来，Frankie Boyle！
 
 ;0xB787C163=~z~Having a pet is basically saying,
-0xB787C163=~z~Having a pet is basically saying,
+0xB787C163=~z~养宠物基本就表示：
 
 ;0xB7B7D477=~z~Never understood how you get into like kinky sex with your partner.
-0xB7B7D477=~z~Never understood how you get into like kinky sex with your partner.
+0xB7B7D477=~z~知不知道自己怎么就跟另一半开始一些重口操作了？
 
 ;0xB7F7D5B3=~z~and she goes "Daddy, what's the best thing in the world?"
-0xB7F7D5B3=~z~and she goes "Daddy, what's the best thing in the world?"
+0xB7F7D5B3=~z~她问我：「爸爸，世界上最好的东西是什么？」
 
 ;0xB8195462=~z~Starting to get a bit fucking sick of him to be honest.
-0xB8195462=~z~Starting to get a bit fucking sick of him to be honest.
+0xB8195462=~z~现在已经有点被他整烦了。
 
 ;0xBA094902=~z~If you give him a fishing rod, he'll break it up for firewood.
-0xBA094902=~z~If you give him a fishing rod, he'll break it up for firewood.
+0xBA094902=~z~给他一根钓鱼杆，他能劈了当柴烧。
 
 ;0xBB1AD3BA=~z~And a really sore arse."
-0xBB1AD3BA=~z~And a really sore arse."
+0xBB1AD3BA=~z~同时菊花炸裂呢。」
 
 ;0xBEC4604E=~z~She looks like she could rip you apart like a fucking chicken wing.
-0xBEC4604E=~z~She looks like she could rip you apart like a fucking chicken wing.
+0xBEC4604E=~z~她看上去就一副能把你做成手撕鸡的样子。
 
 ;0xBF054543=~z~And they're not always true, are they?
-0xBF054543=~z~And they're not always true, are they?
+0xBF054543=~z~但这些未必是真的，对吧？
 
 ;0xBF2F5B0B=~z~If you don't like that, you're going to fucking hate this next bit.
-0xBF2F5B0B=~z~If you don't like that, you're going to fucking hate this next bit.
+0xBF2F5B0B=~z~听着不高兴的话，接下来这个你也会讨厌的。
 
 ;0xBF4251C1=~z~It's good that they've finally managed to can anxiety, isn't it?
-0xBF4251C1=~z~It's good that they've finally managed to can anxiety, isn't it?
+0xBF4251C1=~z~连焦虑都可以装罐出售真是件好事，不是吗？
 
 ;0xC036DC5A=~z~Come on, Grandad, we're trying to have Christmas dinner here.
-0xC036DC5A=~z~Come on, Grandad, we're trying to have Christmas dinner here.
+0xC036DC5A=~z~拜托，爷爷，我们就想吃顿年夜饭。
 
 ;0xC0F7E650=~z~of actually fucking them.
-0xC0F7E650=~z~of actually fucking them.
+0xC0F7E650=~z~实战操作。
 
 ;0xC130543F=~z~I often find that, in that time,
-0xC130543F=~z~I often find that, in that time,
+0xC130543F=~z~一般来说，等药起效，
 
 ;0xC1BA75DA=~z~"Sorry, mum - goin' out raping".
-0xC1BA75DA=~z~"Sorry, mum - goin' out raping".
+0xC1BA75DA=~z~「对不起，妈。出门强奸去了。」
 
 ;0xC39E6E84=~z~So my daughter's four, I've got her a lovely little pink top that says
-0xC39E6E84=~z~So my daughter's four, I've got her a lovely little pink top that says
+0xC39E6E84=~z~我女儿四岁，我给她买的一件粉色衣服上写着：
 
 ;0xC44BEE5B=~z~And I had to turn to this guy and go,
-0xC44BEE5B=~z~And I had to turn to this guy and go,
+0xC44BEE5B=~z~我就转过去跟他说：
 
 ;0xC4F76B86=~z~it can be a bit like having someone with Parkinson's disease
-0xC4F76B86=~z~it can be a bit like having someone with Parkinson's disease
+0xC4F76B86=~z~被她撸就有点像得了帕金森的人
 
 ;0xC5BDADA5=~z~Hello!
-0xC5BDADA5=~z~Hello!
+0xC5BDADA5=~z~你们好！
 
 ;0xC7FB837C=~z~you worry about the future?
-0xC7FB837C=~z~you worry about the future?
+0xC7FB837C=~z~你担心未来吗？
 
 ;0xC844052D=~z~Did you hear that stuff with the pedophile schoolteachers?
-0xC844052D=~z~Did you hear that stuff with the pedophile schoolteachers?
+0xC844052D=~z~听说过那些恋童教师吗？
 
 ;0xC8A4E4FD=~z~or he'll turn into sausages.
-0xC8A4E4FD=~z~or he'll turn into sausages.
+0xC8A4E4FD=~z~否则就成火腿肠了。
 
 ;0xC8BDD740=~z~I mean, people forget that even political correctness itself
-0xC8BDD740=~z~I mean, people forget that even political correctness itself
+0xC8BDD740=~z~人们都忘了「政治正确」这个词
 
 ;0xC8D866A0=~z~If you give a man a fish, he'll eat for a day.
-0xC8D866A0=~z~If you give a man a fish, he'll eat for a day.
+0xC8D866A0=~z~给他一条鱼，他能吃一天。
 
 ;0xC90374C6=~z~"They don't know how to wank us off, mammy!"
-0xC90374C6=~z~"They don't know how to wank us off, mammy!"
+0xC90374C6=~z~「她们才不懂怎么撸咱，妈咪！」
 
 ;0xC92EDAE2=~z~They're being delivered to the door, in little costumes?
-0xC92EDAE2=~z~They're being delivered to the door, in little costumes?
+0xC92EDAE2=~z~孩子打扮得漂漂亮亮，主动上门。
 
 ;0xC94564DE=~z~Having pets is fucking tragic.
-0xC94564DE=~z~Having pets is fucking tragic.
+0xC94564DE=~z~养宠物的都是悲剧。
 
 ;0xCAE779FE=~z~I've got a wee girl as well, she's four.
-0xCAE779FE=~z~I've got a wee girl as well, she's four.
+0xCAE779FE=~z~还有一个是女仔，四岁了。
 
 ;0xCB0EFD79=~z~Kids are a fantastic way of meeting women.
-0xCB0EFD79=~z~Kids are a fantastic way of meeting women.
+0xCB0EFD79=~z~带着娃很容易搭讪女人。
 
 ;0xCB69FBDB=~z~Must be a point where you bring it up in conversation over dinner, or something.
-0xCB69FBDB=~z~Must be a point where you bring it up in conversation over dinner, or something.
+0xCB69FBDB=~z~肯定是哪天你跟她吃饭之类的时候提到了。
 
 ;0xCCD67731=~z~When I was at school, I could never work out how to get girls' bras undone.
-0xCCD67731=~z~When I was at school, I could never work out how to get girls' bras undone.
+0xCCD67731=~z~我上学的时候，从来没搞明白怎么解开女生的胸罩。
 
 ;0xCDEF7F46=~z~because it could give you eye contact whatever position you took it in.
-0xCDEF7F46=~z~because it could give you eye contact whatever position you took it in.
+0xCDEF7F46=~z~因为什么体位它都能转过来看你。
 
 ;0xCE3AE3AE=~z~So, for example, I've got a friend does a routine about,
-0xCE3AE3AE=~z~So, for example, I've got a friend does a routine about,
+0xCE3AE3AE=~z~举个例子，我一朋友的演出会提到：
 
 ;0xCEF98156=~z~I don't know how long I could be a vet
-0xCEF98156=~z~I don't know how long I could be a vet
+0xCEF98156=~z~就是不知道我能正经多久，
 
 ;0xCF579474=~z~"Oh look at him. Still keeps smiling, keeps laughing".
-0xCF579474=~z~"Oh look at him. Still keeps smiling, keeps laughing".
+0xCF579474=~z~「噢，看看他。满面笑容，欢声仍在。」
 
 ;0xCF8C041F=~z~Men just think they are,
-0xCF8C041F=~z~Men just think they are,
+0xCF8C041F=~z~男人就觉得性感，
 
 ;0xCFE1F1A2=~z~Mollis actually takes half an hour to have any effect.
-0xCFE1F1A2=~z~Mollis actually takes half an hour to have any effect.
+0xCFE1F1A2=~z~Mollis*在服药半小时后才会起效。~n~(药，功能同伟哥)
 
 ;0xD0EF060D=~z~"Yes, why not! Get the sandwich maker and the lava lamp out.
-0xD0EF060D=~z~"Yes, why not! Get the sandwich maker and the lava lamp out.
+0xD0EF060D=~z~「好啊，来啊！把擀面杖跟熔岩灯*都拿上。~n~(形似缩小的火箭)
 
 ;0xD109FEC0=~z~Every time she went for a shit, it had to brace itself.
-0xD109FEC0=~z~Every time she went for a shit, it had to brace itself.
+0xD109FEC0=~z~每次老太太拉屎，孩子都得死命顶着。
 
 ;0xD1AF0002=~z~She was seventy.
-0xD1AF0002=~z~She was seventy.
+0xD1AF0002=~z~她70岁。
 
 ;0xD373994C=~z~You ever heard that thing at women's self defense classes they say
-0xD373994C=~z~You ever heard that thing at women's self defense classes they say
+0xD373994C=~z~女子防身术的课上有一句话：
 
 ;0xD3808B28=~z~I'd like to stick it up your arse tonight".
-0xD3808B28=~z~I'd like to stick it up your arse tonight".
+0xD3808B28=~z~今晚我想拿它捅你屁眼。」
 
 ;0xD48C005E=~z~You ever heard that science thing that,
-0xD48C005E=~z~You ever heard that science thing that,
+0xD48C005E=~z~各位知道一个科学实验吗？
 
 ;0xD59B147D=~z~Hey, a pleasure talking to you motherfuckers!
-0xD59B147D=~z~Hey, a pleasure talking to you motherfuckers!
+0xD59B147D=~z~嘿，很高兴能跟各位分享！
 
 ;0xD6450E21=~z~trying to unblock a sink.
-0xD6450E21=~z~trying to unblock a sink.
+0xD6450E21=~z~在疏通下水道。
 
 ;0xDA657D4F=~z~How many dead hookers can you fit in a garage?
-0xDA657D4F=~z~How many dead hookers can you fit in a garage?
+0xDA657D4F=~z~你家车库能藏几具妓女尸体？
 
 ;0xDBB29A2A=~z~Read this great thing recently,
-0xDBB29A2A=~z~Read this great thing recently,
+0xDBB29A2A=~z~我最近听说啊，
 
 ;0xDE36AFF2=~z~You should - particularly the next couple of minutes,
-0xDE36AFF2=~z~You should - particularly the next couple of minutes,
+0xDE36AFF2=~z~必须担心，尤其是接下来这几分钟，
 
 ;0xDE74204F=~z~Imagine having sex with something you actually wanted to cuddle afterwards?
-0xDE74204F=~z~Imagine having sex with something you actually wanted to cuddle afterwards?
+0xDE74204F=~z~想象一下性交对象是你事后想抱的家伙。
 
 ;0xDEBC9B15=~z~I just couldn't do it.
-0xDEBC9B15=~z~I just couldn't do it.
+0xDEBC9B15=~z~就解不开。
 
 ;0xDECC0F72=~z~Mollis is overrated, isn't it?
-0xDECC0F72=~z~Mollis is overrated, isn't it?
+0xDECC0F72=~z~Mollis*有点过誉了，对吧？~n~(药，功能同伟哥)
 
 ;0xE0323629=~z~Course he's smiling, he's off his tits on fucking morphine!
-0xE0323629=~z~Course he's smiling, he's off his tits on fucking morphine!
+0xE0323629=~z~能不笑吗，你自己打这么多吗啡试试！
 
 ;0xE2039747=~z~of a serial killer ejaculating into a school sock.
-0xE2039747=~z~of a serial killer ejaculating into a school sock.
+0xE2039747=~z~跟往学生袜里射精的连环杀手一样快。
 
 ;0xE3762BF3=~z~because it reminds them of the staple in a porno mag.
-0xE3762BF3=~z~because it reminds them of the staple in a porno mag.
+0xE3762BF3=~z~因为黄书的装订就是这样的。
 
 ;0xE3902B4F=~z~Let's make a fucking night of it!"
-0xE3902B4F=~z~Let's make a fucking night of it!"
+0xE3902B4F=~z~今晚咱俩大干一场！」
 
 ;0xE3A5B092=~z~"For me it's sausages".
-0xE3A5B092=~z~"For me it's sausages".
+0xE3A5B092=~z~「我觉得是香肠。」
 
 ;0xE3F4A48D=~z~from my Gran.
-0xE3F4A48D=~z~from my Gran.
+0xE3F4A48D=~z~跟我奶奶不一样。
 
 ;0xE5363CD1=~z~"Don't shout rape, shout fire"?
-0xE5363CD1=~z~"Don't shout rape, shout fire"?
+0xE5363CD1=~z~「别喊『强奸啦』，要喊『着火啦』。」
 
 ;0xE55E3F61=~z~That's got to be creepy.
-0xE55E3F61=~z~That's got to be creepy.
+0xE55E3F61=~z~真的是令人发指。
 
 ;0xE5F74093=~z~What is it about that look
-0xE5F74093=~z~What is it about that look
+0xE5F74093=~z~为什么这种形象
 
 ;0xE624B070=~z~Is that, is that how you start, 'cause it -
-0xE624B070=~z~Is that, is that how you start, 'cause it -
+0xE624B070=~z~都是，都这么开始的吧，因为，
 
 ;0xE64831EC=~z~"Feels like he's got cancer".
-0xE64831EC=~z~"Feels like he's got cancer".
+0xE64831EC=~z~「这老头得癌症了吧。」
 
 ;0xE7E7A715=~z~if you put a frog into boiling water it'll jump out,
-0xE7E7A715=~z~if you put a frog into boiling water it'll jump out,
+0xE7E7A715=~z~把青蛙投入开水，它会跳出来。
 
 ;0xE86225A7=~z~"No, I'm going to see how many fruit pastilles it takes to choke a kestrel. "
-0xE86225A7=~z~"No, I'm going to see how many fruit pastilles it takes to choke a kestrel. "
+0xE86225A7=~z~「不了，我准备研究噎死一只红隼需要多少水果软糖。」
 
 ;0xE95A248E=~z~and you don't have to wake anybody up.
-0xE95A248E=~z~and you don't have to wake anybody up.
+0xE95A248E=~z~就可以神不知鬼不觉了。
 
 ;0xEA61C728=~z~but they might be frightened if it's a rape.
-0xEA61C728=~z~but they might be frightened if it's a rape.
+0xEA61C728=~z~听说是强奸犯，就有点怕了。
 
 ;0xEA739C27=~z~Don't move a fucking muscle.
-0xEA739C27=~z~Don't move a fucking muscle.
+0xEA739C27=~z~动都别动一下。
 
 ;0xEB6CBC9C=~z~"Darling, you're the best thing in the world.
-0xEB6CBC9C=~z~"Darling, you're the best thing in the world.
+0xEB6CBC9C=~z~「宝贝，你就是世上最好的东西。
 
 ;0xEDD12DF5=~z~"I have tried to find love among my own species and I have failed.
-0xEDD12DF5=~z~"I have tried to find love among my own species and I have failed.
+0xEDD12DF5=~z~「我本想在人类中寻找真爱，却失败了。
 
 ;0xEDE13E87=~z~When he does, do you vibrate and your nose lights up?
-0xEDE13E87=~z~When he does, do you vibrate and your nose lights up?
+0xEDE13E87=~z~满足以后，你会震动起来鼻子发红吗？~n~(女观众：OMG)
 
 ;0xF0F5352A=~z~It's good that there's a drink that gives me the resting heart rate
-0xF0F5352A=~z~It's good that there's a drink that gives me the resting heart rate
+0xF0F5352A=~z~多亏了这种饮料，我的心率才能
 
 ;0xF266387F=~z~I hate property programs.
-0xF266387F=~z~I hate property programs.
+0xF266387F=~z~我讨厌地产节目。
 
 ;0xF292D8AA=~z~Do you not worry about young women getting bigger?
-0xF292D8AA=~z~Do you not worry about young women getting bigger?
+0xF292D8AA=~z~你担心小姑娘越长越大吗？
 
 ;0xF2C3C323=~z~and a really sore head.
-0xF2C3C323=~z~and a really sore head.
+0xF2C3C323=~z~而且还头痛欲裂。
 
 ;0xF619B4BB=~z~Oh yes! As a man, never get a Brazilian.
-0xF619B4BB=~z~Oh yes! As a man, never get a Brazilian.
+0xF619B4BB=~z~有了！作为男人，我从没脱过毛。
 
 ;0xF724510D=~z~That's going to make tramps very different people.
-0xF724510D=~z~That's going to make tramps very different people.
+0xF724510D=~z~那那些乞丐要大变样了。
 
 ;0xF7943584=~z~See, political correctness has changed everything, hasn't it?
-0xF7943584=~z~See, political correctness has changed everything, hasn't it?
+0xF7943584=~z~你看，政治正确的影响很大啊，不是吗？
 
 ;0xF8D9E658=~z~that children find so sexy?
-0xF8D9E658=~z~that children find so sexy?
+0xF8D9E658=~z~能勾起儿童的...性欲？
 
 ;0xF8DA38F4=~z~I want it to be realistic -
-0xF8DA38F4=~z~I want it to be realistic -
+0xF8DA38F4=~z~我就直说了吧，
 
 ;0xFA47C669=~z~Or, you can wear it inside out,
-0xFA47C669=~z~Or, you can wear it inside out,
+0xFA47C669=~z~当然，你也可以翻个面戴，
 
 ;0xFBFDDD02=~z~cause men don't know what's sexy.
-0xFBFDDD02=~z~cause men don't know what's sexy.
+0xFBFDDD02=~z~男人又不知道什么算性感。
 
 ;0xFDF2E0EC=~z~I mean belly button piercings aren't sexy.
-0xFDF2E0EC=~z~I mean belly button piercings aren't sexy.
+0xFDF2E0EC=~z~肚脐眼穿环又不性感。
 
 ;0xFF15E3EE=~z~So I didn't even have to think about it, right, I said
-0xFF15E3EE=~z~So I didn't even have to think about it, right, I said
+0xFF15E3EE=~z~这不是送分题吗，我说：
 
 ;0xFF5CE2E8=~z~but you'd be a lot more frightened that they said yes!
-0xFF5CE2E8=~z~but you'd be a lot more frightened that they said yes!
+0xFF5CE2E8=~z~但同意了反而还要可怕啊！
 
 ;0xFF87DAFF=~z~Absolutely nothing at all.
-0xFF87DAFF=~z~Absolutely nothing at all.
+0xFF87DAFF=~z~肯定毫无影响。
 
