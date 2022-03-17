@@ -441,7 +441,7 @@
 ;0xC68EDF5A=~z~Nothing like rat meat to really fill you up.
 0xC68EDF5A=~z~老鼠肉实在是填肚子。
 
-;0xC91089D2	=~z~Why you quit, L? Not enough dudes?
+;0xC91089D2=~z~Why you quit, L? Not enough dudes?
 0xC91089D2=~z~咋不跳了，L？男伴不够多？
 
 ;0xC94CF8F2=E2FAH_BDA

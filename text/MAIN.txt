@@ -1981,9 +1981,6 @@
 
 ;0xE369A319=Right. I'm bored. Get round here.
 0xE369A319=我好无聊啊。快来找我。
-;我好无聊啊。快来找我。【这条超过8个字会在短信列表中换行(显示两行)，导致手机画面卡死且收不回去。】
-;【她的其他短信不会出现这个问题，只有这一条会】
-;【其他女友的短信未测试】
 
 ;0xD5A00786=Not here for much longer. Want to remind me why I love soming bak to Liberty City?
 0xD5A00786=你好久没来了。可以来让我想起我爱来自由城的原因吗？

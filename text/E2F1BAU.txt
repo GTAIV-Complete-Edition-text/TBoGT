@@ -357,7 +357,7 @@
 0x433226BD=E2F1_AQA
 
 ;0x43C10C14=~z~Get her down, L.
-0x43C10C14=~z~打掉她，L。	
+0x43C10C14=~z~打掉她，L。
 
 ;0x4444A45E=~z~Someone misses their cellmate! Ohhh weeee.
 0x4444A45E=~z~有人想他的狱友了！哦噫！
