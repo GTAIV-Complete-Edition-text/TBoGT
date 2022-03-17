@@ -591,7 +591,7 @@
 0x8780298F=~z~喂，妹子。我是Luis。
 
 ;0x87AA8ED3=~z~Finally. Get that monster in here!
-0x87AA8ED3=~z~终于来了，让你的怪兽进来吧！	
+0x87AA8ED3=~z~终于来了，让你的怪兽进来吧！
 
 ;0x893DEBBE=~z~Hey, hey! I must be at a model shoot or something, so leave me a message!
 0x893DEBBE=~z~嘿，嘿！我一定是在忙模特拍摄之类的，给我留言吧!

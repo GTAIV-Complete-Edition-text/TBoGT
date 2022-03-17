@@ -416,7 +416,7 @@
 ;0x8231059E=~z~Papi, I would love to see you again!
 0x8231059E=~z~宝贝，我还想再见到你！
 
-;0x让我进去。=~z~Let me up.
+;0x82500996=~z~Let me up.
 0x82500996=~z~让我上来。
 
 ;0x8280648D=~z~I'm sorry gorgeaous, I'd love to but I can't.

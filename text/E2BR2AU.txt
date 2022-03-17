@@ -228,7 +228,7 @@
 0x4D6E841D=SFX_PAUSE_190
 
 ;0x4EE25EAE=~z~Oh sure. Sure. Don't you ever get tired a that shit? That muscle bound fag hag routine?
-0x4EE25EAE=~z~噢，行，行。你不会腻的吗？就那个肌肉僵硬的基佬公主？ 
+0x4EE25EAE=~z~噢，行，行。你不会腻的吗？就那个肌肉僵硬的基佬公主？
 
 ;0x4FC0187C=~z~Get us to the heliport near Fishmarket South.
 0x4FC0187C=~z~我们要去鱼市南那边的停机坪。

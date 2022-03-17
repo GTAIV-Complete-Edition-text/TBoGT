@@ -12,7 +12,7 @@
 0x364B6F7F=请于今日联系好利友医保。
 
 ;0x59D6D19C=President Lawton might not want you to have access to affordable healthcare, but we do! PPOs? HMOs? Deductibles? Why is it all so expensive and complicated? We don't understand any of it and, if you're still reading this email, you certainly don't. We believe in making health insurance simple.
-0x59D6D19C=也许Lawton总统不愿让你拥有平价医保，但我们愿意！优选医疗机构保险？健健康维护机构保险？自费保险？这些东西为什么都又贵又复杂？根本搞不懂是什么意思。如果你还在读这封邮件，你肯定也没搞懂。我们坚持让医保变得简单。
+0x59D6D19C=也许Lawton总统不愿让你拥有平价医保，但我们愿意！优选医疗机构保险？健康维护机构保险？自费保险？这些东西为什么都又贵又复杂？根本搞不懂是什么意思。如果你还在读这封邮件，你肯定也没搞懂。我们坚持让医保变得简单。
 
 ;0x61AE8B81=Now's the time!
 0x61AE8B81=是时候了！
