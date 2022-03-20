@@ -3006,13 +3006,13 @@
 0x40CE317A=~z~东区大桥。
 
 ;0x277D5A1B=~z~Dukes Bay Bridge.
-0x277D5A1B=~z~Dukes Bay大桥。
+0x277D5A1B=~z~Dukes湾大桥。
 
 ;0x040FC338=~z~Hickey Bridge.
 0x040FC338=~z~Hickey大桥。
 
 ;0xBED6D322=~z~Northwood Heights Bridge.
-0xBED6D322=~z~Northwood Heights大桥。
+0xBED6D322=~z~Northwood高地大桥。
 
 ;0x99C03624=~z~The Booth Tunnel, yo.
 0x99C03624=~z~Booth隧道，哟。
