@@ -24,7 +24,7 @@
 0x73923DEC=亲爱的先生/女士，
 
 ;0x7580237D=Yours respectfully,
-0x7580237D=Yours respectfully,
+0x7580237D=谨上，
 
 ;0x79814CE5=I saw the recession coming and made millions off it, selling options and stuff. I am a billionaire hundreds of times over. I have so much money that, to spend it all, it would take me about 400 years (without sleep).
 0x79814CE5=我已预见了经济衰退，并通过甩卖期权的方式赚了数百万美元。我比百万富翁还百万富翁。我太有钱了，不眠不休也要大约400年才能花光。
