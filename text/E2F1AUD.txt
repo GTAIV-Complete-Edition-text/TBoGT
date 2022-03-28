@@ -387,7 +387,7 @@
 0x474D8D23=~z~是啊兄弟，只要你跟坏蛋一起被抓一次，他们就觉得你这辈子都会跟着他混。
 
 ;0x47B777F6=~z~But family doesn't mean we have live up here, slinging dope to a bunch of suburban punks from Alderney.
-0x47B777F6=~z~但是一家人不是说我们都住这儿，卖毒品给Alderny的乡巴佬，
+0x47B777F6=~z~但是一家人不是说我们都住这儿，卖毒品给Alderney的乡巴佬，
 
 ;0x48256967=~z~Luis Lopez - poster child for rehabilitation. That shit worked on you.
 0x48256967=~z~Luis Lopez：改过自新的榜样。那一套对你管用啊。

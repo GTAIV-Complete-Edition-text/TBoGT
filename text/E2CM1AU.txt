@@ -6,7 +6,7 @@
 0x049FECA2=~z~太无聊的话我就要开操了。
 
 ;0x0508FFD6=~z~They'll drag up some wee guy with leukemia or something and go
-0x0508FFD6=~z就随便找个白血病小孩，说：
+0x0508FFD6=~z~就随便找个白血病小孩，说：
 
 ;0x054EDF8C=~z~You might want to send money to people in Africa.
 0x054EDF8C=~z~你可能想给非洲人送钱。

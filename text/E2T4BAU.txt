@@ -9,7 +9,7 @@
 0x00D703EF=SFX_PAUSE_220
 
 ;0x03053D6E=~z~There's a big Celebinator shaped mess somewhere, T. He ain't gonna be blogging no more.
-0x03053D6E=~z~他应该在哪里摔成一滩了，T。肯定是发不了博客了。
+0x03053D6E=~z~他应该在哪里摔成一摊了，T。肯定是发不了博客了。
 
 ;0x05265F12=~z~I'd hold on tight if I was you.
 0x05265F12=~z~我要是你就会抓紧点。
