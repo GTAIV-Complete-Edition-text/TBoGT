@@ -806,7 +806,7 @@
 0xC378A6A5=E2FH_AYA
 
 ;0xC3B4D2CB=~z~Wanna hit up the Triangle Club?
-0xC3B4D2CB=~z~想去Triangle俱乐部吗？
+0xC3B4D2CB=~z~想去三角俱乐部吗？
 
 ;0xC3B5B029=E2FH_OA
 0xC3B5B029=E2FH_OA

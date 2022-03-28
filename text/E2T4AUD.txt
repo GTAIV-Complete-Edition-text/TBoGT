@@ -858,7 +858,7 @@
 0xD9B33797=E2T4_XC
 
 ;0xDB51BFC5=~z~Oh! Look at this bitch behind the wheel!
-0xDB51BFC5=~z~噢！看看这个车夫！
+0xDB51BFC5=~z~噢！看看这个嘴碎车夫！
 
 ;0xDB7122D5=~z~the last thing we need to be doing is further enhancing this egomaniac piece of shit's opinion of himself.
 0xDB7122D5=~z~最不需要做的就是让这个自大狂觉得自己是个人物。

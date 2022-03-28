@@ -228,7 +228,7 @@
 0x4C2CD31F=~z~拜，宝贝。自己注意安全。
 
 ;0x4CDABE5C=~z~All work and no play makes Joni a dull girl.
-0x4CDABE5C=~z~忙着工作没空放松，Joni我要傻了。
+0x4CDABE5C=~z~只工作不玩耍，Joni我要傻了。
 
 ;0x4D3F5132=~z~Have fun out there, soldier.
 0x4D3F5132=~z~玩得开心，大兵。
