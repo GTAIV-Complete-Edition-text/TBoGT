@@ -48,7 +48,7 @@
 0xDEC330EE=~s~甩掉警察。
 
 ;0xE3E89426=~s~Go to ~y~Rotterdam Tower.
-0xE3E89426=~s~前往~y~Rotterdam塔。
+0xE3E89426=~s~前往~y~鹿特丹塔。
 
 ;0xE7150C26=~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.
 0xE7150C26=~s~按~INPUT_ENTER~登上梯子，用~PAD_LSTICK_UPDOWN~在梯子上攀爬。

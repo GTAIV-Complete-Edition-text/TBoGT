@@ -2256,7 +2256,7 @@
 0xE4C99E21=你已与Armando和Henrique完成了一项活动。送他们回家或再进行一项其他活动。一次约会最多进行四项活动。
 
 ;0x8CED0910=Armando and Henrique are ready to be dropped off now.
-0x8CED0910=Armando and Henrique are ready to be dropped off now.
+0x8CED0910=Armando和Henrique准备好下车了。
 
 ;0xB257D22C=You are drunk. Your vision is blurred and you will find it difficult to walk and drive. Try to keep your balance. You'll sober up soon.
 0xB257D22C=你喝醉了。视线一片模糊，行走和驾驶也变得十分困难。尽量保持平衡。很快就会恢复正常的。

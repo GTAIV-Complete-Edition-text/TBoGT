@@ -246,7 +246,7 @@
 0x3B0DB41D=~z~告诉我到底什么情况。
 
 ;0x3BCEDD17=~z~Cruise on up to Rotterdam Tower. We gots a meet, man.
-0x3BCEDD17=~z~向Rotterdam塔前进，我们要开个会，哥们。
+0x3BCEDD17=~z~向鹿特丹塔前进，我们要开个会，哥们。
 
 ;0x3BE79F2D=~z~Fuck. What do they know. Is it about the Buzzard?
 0x3BE79F2D=~z~我操。他们知道多少？是秃鹰的事吗？
@@ -330,7 +330,7 @@
 0x49CD1B62=SFX_PAUSE_470
 
 ;0x4A08798A=~z~Head over to Rotterdam Tower, me bredren.
-0x4A08798A=~z~目标Rotterdam塔，好兄弟。
+0x4A08798A=~z~目标鹿特丹塔，好兄弟。
 
 ;0x4B640C14=~z~Motherfuckers set you up with the NOOSE so they could take your business.
 0x4B640C14=~z~他们联合国安办算计你，想要瓜分你的生意。
