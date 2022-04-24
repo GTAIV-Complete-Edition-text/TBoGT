@@ -1593,7 +1593,7 @@
 0x4A99F13A=www.princessrobotbubblegum.com
 
 ;0xA40DE8CD=WOMEN ARE IDIOTS
-0xA40DE8CD=女人都是白痴
+0xA40DE8CD=女人是傻瓜
 
 ;0x4D85F0F8=Nick Lancaster explains how he's slept with over 500 different girls.
 0x4D85F0F8=Nick Lancaster为你解释他是怎样把500多个姑娘骗到自己床上的。

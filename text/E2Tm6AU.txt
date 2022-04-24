@@ -24,7 +24,7 @@
 0x054F947D=~z~操我！操我！
 
 ;0x06154527=~z~We totally need to get Mom to round up some of these b star star c h es. Hey, gimme five.
-0x06154527=~z~我们真该找老妈把这帮口口玩意抓起来。喂，击个掌。
+0x06154527=~z~我们真该找老妈把这帮〇〇玩意抓起来。喂，击个掌。
 
 ;0x0754227E=~z~Seriously uncool vibe with our fans, bro.
 0x0754227E=~z~这样对粉丝真的不好，兄弟。
@@ -81,7 +81,7 @@
 0x1DC2D66B=~z~我们是命中注定的。
 
 ;0x1E5360AD=~z~If she didn't have braces, I'd face-fstar star k the s star star t out that b star star c h.
-0x1E5360AD=~z~要是她没有牙套，我早就让那个贱口子口我口到神志不清了。
+0x1E5360AD=~z~要是她没有牙套，我早就让那个贱〇子〇我〇到神志不清了。
 
 ;0x217856C6=~z~Yeah, dude. We only like to injure our fans in the hymen.
 0x217856C6=~z~是啊，老哥。我们只会伤害粉丝的处女膜。
@@ -201,7 +201,7 @@
 0x4D422500=~z~哟。我侄女也是你们的忠实粉丝。
 
 ;0x4E29554E=~z~I think I f star star k-ed that girl. I hope she's not pregnant.
-0x4E29554E=~z~那姑娘好像被我口过。希望她没怀上。
+0x4E29554E=~z~那姑娘好像被我〇过。希望她没怀上。
 
 ;0x50C4E185=SFX_PAUSE_190
 0x50C4E185=SFX_PAUSE_190
@@ -384,7 +384,7 @@
 0x8915B617=E2Tm6_XA
 
 ;0x8F60D158=~z~I was like "I promise to bust open your ring piece, you silly b star star c h."
-0x8F60D158=~z~我就说「还定情？我今天把你口出病情，你个傻口东西。」
+0x8F60D158=~z~我就说「还定情？我今天把你〇出病情，你个傻〇东西。」
 
 ;0x91A9E144=E2Tm6_VC
 0x91A9E144=E2Tm6_VC
@@ -528,7 +528,7 @@
 0xCB468D5E=~z~你好漂亮。你最棒了！
 
 ;0xCD93BF2F=~z~That one was crying. I bet she'd be a real f star star k-ing screamer, bro.
-0xCD93BF2F=~z~那人都哭了。她绝对他口是个大惊小怪的家伙，兄弟。
+0xCD93BF2F=~z~那人都哭了。她绝对他〇是个大惊小怪的家伙，兄弟。
 
 ;0xCE5500DB=SFX_OVERLAP_2050
 0xCE5500DB=SFX_OVERLAP_2050
@@ -540,7 +540,7 @@
 0xD16AED1E=020
 
 ;0xD2EFD865=~z~Hey Bobby, remember when you were about to f star star c k that girl and she was like,
-0xD2EFD865=~z~嘿，Bobby，还记得你要口那个妹子的时候，她说，
+0xD2EFD865=~z~嘿，Bobby，还记得你要〇〇叉叉那个妹子的时候，她说，
 
 ;0xD48F7B83=~z~Welcome, gentlemen. It's a pleasure to have you here. We're all big fans.
 0xD48F7B83=~z~欢迎二位。很高兴你们能来。我们都是你们的粉丝。
@@ -588,7 +588,7 @@
 0xE7C44D55=~z~妈的，我就知道不该跑这趟的。
 
 ;0xEABE1B4F=~z~What are those f-ing vans doing there? Come the f star star k on!
-0xEABE1B4F=~z~这些傻口卡车在这干啥？去他口的！
+0xEABE1B4F=~z~这些傻〇卡车在这干啥？去他〇的！
 
 ;0xEB472701=390
 0xEB472701=390
@@ -612,7 +612,7 @@
 0xF0A99206=E2Tm6_NC
 
 ;0xF0F385EE=~z~That b star star c h is kind of cute, in a prepubescent kind of way.
-0xF0F385EE=~z~那个口口玩意还挺可爱，充满了青春气息。
+0xF0F385EE=~z~那个〇〇玩意还挺可爱，充满了青春气息。
 
 ;0xF116C326=E2Tm6_WA2
 0xF116C326=E2Tm6_WA2
@@ -624,7 +624,7 @@
 0xF20F6DED=~z~别告诉那人聚会结束了，L。
 
 ;0xF3EFADB6=~z~Why are those vans there? Security should f star star k those guys up.
-0xF3EFADB6=~z~货车咋还堵上路了？保安快他口的来赶人啊。
+0xF3EFADB6=~z~货车咋还堵上路了？保安快他〇的来赶人啊。
 
 ;0xF695080C=~z~I'll take both of you. I don't care if you're brothers, I like it!
 0xF695080C=~z~你俩我全都要。是兄弟也没关系，我都喜欢！
