@@ -9,7 +9,7 @@
 0x33F84C94=Tony J Smith
 
 ;0x34D68F05=Mary Jane made me fat!
-0x34D68F05=Mary Jane让我胖得像头肥猪！
+0x34D68F05=医用大麻让我胖得像头肥猪！
 
 ;0x5B5D2CC9=Mysterious murder of good-time guy
 0x5B5D2CC9=针对夜店男孩的离奇谋杀

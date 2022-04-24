@@ -48,7 +48,7 @@
 0x0B0F58F4=~z~对，有必要让他知道我们不是那么糟糕的人。
 
 ;0x0C986ADB=~z~Time to face the facts, Jack. Frankly, you're fucked.
-0x0C986ADB=~z~你该面对现实了，Jack。真的，你完蛋了。
+0x0C986ADB=~z~你该面对现实了，老兄。真的，你完蛋了。
 
 ;0x0D5F0ED0=E2MF2_CE
 0x0D5F0ED0=E2MF2_CE
