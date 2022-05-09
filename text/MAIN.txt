@@ -1431,7 +1431,7 @@
 0xD5281A25=肮脏牙医
 
 ;0xDA46DD0B=Rotterdam Rocked
-0xDA46DD0B=Rotterdam震颤
+0xDA46DD0B=鹿特丹震颤
 
 ;0x040F687E=Hipster Death
 0x040F687E=嬉皮士之死
@@ -1476,7 +1476,7 @@
 0xAE05C024=连环爆炸
 
 ;0xFC46DCA9=Rotterdam Rocked
-0xFC46DCA9=Rotterdam震颤
+0xFC46DCA9=鹿特丹震颤
 
 ;0x863FE732=Manhood
 0x863FE732=男子气概
@@ -2835,7 +2835,7 @@
 0x19D229B5=~z~Beechwood City。
 
 ;0xD92C9D0D=~z~Looks like downtown to me.
-0xD92C9D0D=~z~应该是Downtown吧。
+0xD92C9D0D=~z~应该是中心区吧。
 
 ;0x6D1407F2=~z~East Hook.
 0x6D1407F2=~z~East Hook。
@@ -2952,7 +2952,7 @@
 0x964B4B75=~z~好，Leftwood。
 
 ;0x7A0C981C=~z~Alderney City.
-0x7A0C981C=~z~Alderney City。
+0x7A0C981C=~z~Alderney市。
 
 ;0x6A5ECE10=~z~Berchem.
 0x6A5ECE10=~z~Berchem。
