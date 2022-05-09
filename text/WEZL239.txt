@@ -1,6 +1,6 @@
 ﻿[WEZL239]
 ;0x07820D09=Rotterdam Rocked
-0x07820D09=Rotterdam震颤
+0x07820D09=鹿特丹震颤
 
 ;0x1A4C1240=NOOSE shady on Details
 0x1A4C1240=NOOSE含糊其辞

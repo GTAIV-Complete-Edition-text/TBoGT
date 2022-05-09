@@ -36,7 +36,7 @@
 0xD8EFD2CA=有关部门和专家正在研究本市发生的两起黑社会枪战带来的影响。数名涉嫌参与一起海洛因交易案件的俄国黑帮分子在Hove Beach被杀害。随后不久，Francis国际机场又发生了激烈枪战，最终导致一架私人飞机坠毁，这架飞机属于备受争议的俄国商人Ray Bulgarin。
 
 ;0xEB2F7715=Attempting to read the tea leaves, as it were, authorities are asking whether this spells a resurgence in violent organised crime in the city, or perhaps its death knell. Are the numbers of these Russian criminals sustainable or will this infighting mean that they eventually become extinct? We shall see, but we certainly like the metaphor. Makes us look Darwinian.
-0xEB2F7715=有关部门正试图「见始知终」，思考此次事件是在暗示自由城有组织暴力犯罪的死灰复燃，还是为其敲响了丧钟。俄国黑帮的种群数量会长期维持吗？还是说这次内讧意味着他们将走向灭绝？让我们拭目以待。但我们很喜欢这个社达式的形容。
+0xEB2F7715=有关部门正试图「见始知终」，思考此次事件是在暗示自由城有组织暴力犯罪的死灰复燃，还是为其敲响了丧钟。俄国黑帮的种群数量会长期维持吗？还是说这次内讧意味着他们将走向灭绝？虽然这么说很社达，但我们真的很喜欢这个形容，让我们拭目以待。
 
 ;0xF109EDB3=Staff Writer
 0xF109EDB3=特约记者
