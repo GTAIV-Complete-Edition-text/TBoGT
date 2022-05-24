@@ -513,7 +513,7 @@
 0xCC20833C=100090010090100090100090010
 
 ;0xCC932E97=~z~Man, people just need faith. Not be normal cynics.
-0xCC932E97=~z~天哪，大家都要有信仰，不应该愤世嫉俗的。
+0xCC932E97=~z~天哪，大家都要有信仰，不应该那么自私的。
 
 ;0xCCEA0766=SFX_PAUSE_330
 0xCCEA0766=SFX_PAUSE_330

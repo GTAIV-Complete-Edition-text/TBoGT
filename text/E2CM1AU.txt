@@ -111,10 +111,10 @@
 0x2F0FD1A7=~z~你跟十八岁的姑娘打炮
 
 ;0x2F19442C=~z~And this guy beside me got really angry!
-0x2F19442C=~z~我旁边一人就很生气！
+0x2F19442C=~z~旁边那人就很生气！
 
 ;0x2F4AB5DA=~z~ I'll never wear a blindfold again.
-0x2F4AB5DA=~z~以后我不戴眼罩了。
+0x2F4AB5DA=~z~以后不能戴眼罩了。
 
 ;0x2F9F51A6=~z~Can I ask you something, pal -
 0x2F9F51A6=~z~问你件事啊，老兄。
@@ -195,7 +195,7 @@
 0x4DE96311=~z~「噢，太棒了，你很冷啊。
 
 ;0x4E178370=~z~Especially if you get them little cute tops that say "Future DJ", that kind of thing.
-0x4E178370=~z~娃衣服上最好还写着，「未来DJ」之类的。
+0x4E178370=~z~娃衣服上最好还写着「未来DJ」之类的。
 
 ;0x50360325=~z~You know how men go,
 0x50360325=~z~这话男人一般咋说？
@@ -279,7 +279,7 @@
 0x68F4B743=~z~「啊哈哈哈」怎么打？
 
 ;0x6A6D3AD7=~z~I was having breakfast with my daughter a couple of weeks ago,
-0x6A6D3AD7=~z~几周前我跟女儿吃早饭的时候，
+0x6A6D3AD7=~z~几周前跟女儿吃早饭的时候，
 
 ;0x6B681E0A=~z~"Oh, don't you hate it when your partner comes to bed and they're cold,
 0x6B681E0A=~z~「你的另一半身体冰凉地上床，还想拿你取暖，
@@ -378,7 +378,7 @@
 0x81BBE8D1=~z~她也会一边网聊一边口的。
 
 ;0x81EBE690=~z~It was the only time he ever told me he loved me.
-0x81EBE690=~z~那是他唯一一次说他爱我。
+0x81EBE690=~z~那是他唯一一次说爱我。
 
 ;0x82545BF0=~z~You ever heard that science thing that the human female
 0x82545BF0=~z~各位听说过吗，人类女性
@@ -501,7 +501,7 @@
 0xA5BD2767=~z~我很爱老人，真的。
 
 ;0xA753A60E=~z~Or, to put it another way, scientists have got a lot of fucking time on their hands.
-0xA753A60E=~z~换个说法就是，这些科学家都他妈闲着蛋疼。
+0xA753A60E=~z~换句话说，这些科学家都他妈闲着蛋疼。
 
 ;0xA9B0269D=~z~I'm quite a grumpy bastard.
 0xA9B0269D=~z~我这人真有点暴脾气。
@@ -579,7 +579,7 @@
 0xBF054543=~z~但这些未必是真的，对吧？
 
 ;0xBF2F5B0B=~z~If you don't like that, you're going to fucking hate this next bit.
-0xBF2F5B0B=~z~听着不高兴的话，接下来这个你也会讨厌的。
+0xBF2F5B0B=~z~听着不高兴的话，接下来的话题你也会讨厌的。
 
 ;0xBF4251C1=~z~It's good that they've finally managed to can anxiety, isn't it?
 0xBF4251C1=~z~连焦虑都可以装罐出售真是件好事，不是吗？
@@ -744,7 +744,7 @@
 0xE86225A7=~z~「不了，我准备研究噎死一只红隼需要多少水果软糖。」
 
 ;0xE95A248E=~z~and you don't have to wake anybody up.
-0xE95A248E=~z~就可以神不知鬼不觉了。
+0xE95A248E=~z~就能神不知鬼不觉了。
 
 ;0xEA61C728=~z~but they might be frightened if it's a rape.
 0xEA61C728=~z~听说是强奸犯，就有点怕了。

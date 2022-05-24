@@ -723,7 +723,7 @@
 0x9E16B86D=SFX_PAUSE_180
 
 ;0x9EF9BDC8=~z~"The impossible dream. Priceless indulgence. Style by Yusuf Amir. A timeless classic. Timeless classic!"
-0x9EF9BDC8=~z~「无尽的奢华，不可能之梦。Yusuf Amir风格。一个永恒的经典。永恒的经典！」
+0x9EF9BDC8=~z~「无尽的奢华，不可能之梦。Yusuf Amir风格。万古千秋的经典。永恒的经典！」
 
 ;0x9F728E81=SFX_PAUSE_460
 0x9F728E81=SFX_PAUSE_460
