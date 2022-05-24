@@ -48,7 +48,7 @@
 0x6ACD5B37=回到~b~运毒载具~s~上。
 
 ;0x6CB3385D=A rival gang is transporting some drugs. Intercept the convoy and steal the drugs vehicle.
-0x6CB3385D=敌对帮派正在运输毒品。拦截车队，抢走运毒载具。
+0x6CB3385D=敌对帮派正在运输毒品。抢走运毒载具，截下货物。
 
 ;0x6D9EF066=Drug Wars: The Stash
 0x6D9EF066=毒品战争：打家劫舍
