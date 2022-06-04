@@ -75,7 +75,7 @@
 0xDCBDE2E6=再见，
 
 ;0xE73971F2=Anyway, me and some friends are meeting up later at the club. Maybe see you there? Be good to hang out. This guy is there who wants to date me and stuff but he's kind of annoying. Not like you. Apart from when you don't call back. Which is a bit rude. Seriously. I'm busy too. I've got a life. a good one. I'm hot. Anyway, see you later, maybe.
-0xE73971F2=总之，我和一些朋友准备在夜店碰面。待会儿约吗？一起出去玩也挺好的。最近有个人想和我约会，但他有点烦人，不像你。不过在待人无礼这一点上，你不给我打电话也没好到哪去。讲道理，我也挺忙的，我有自己的生活，不错的生活。总之，稍后见啦，希望能见到你。
+0xE73971F2=总之，我和一些朋友准备在夜店碰面。待会儿约吗？一起出去玩也挺好的。最近有个人想和我约会，但他有点烦人，不像你。不过在待人无礼这一点上，你不给我打电话也没好到哪去。讲道理，我也挺忙的，我有自己的生活，不错的生活。总之，下次见啦，希望能见到你。
 
 ;0xE9E7C092=Hello stranger!
 0xE9E7C092=你好，陌生人！
