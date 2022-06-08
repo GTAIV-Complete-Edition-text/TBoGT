@@ -1905,7 +1905,7 @@
 0x92BFBBD2=Ana
 
 ;0xDD7EF39A=Te gusta? Come around now, my matador! Besos
-0xDD7EF39A=中意吗？快来吧，我的斗牛士！ Besos
+0xDD7EF39A=中意吗？快来吧，我的斗牛士！ 亲亲
 
 ;0xD01B58D3=Mamma wants to gobble down your little croqueta. Come to me. Besos
 0xD01B58D3=老娘想要吞下你的小可乐饼。来找我。 亲亲
