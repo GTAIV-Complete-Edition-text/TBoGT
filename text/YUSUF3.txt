@@ -72,7 +72,7 @@
 0x50BA8169=按~PAD_B~跳上坦克。
 
 ;0x5B5DCBFC=Go to ~y~Star Junction.
-0x5B5DCBFC=前往~y~Star Junction.
+0x5B5DCBFC=前往~y~星汇广场。
 
 ;0x5ECFDE11=~r~The APC was destroyed.
 0x5ECFDE11=~r~APC被毁了。

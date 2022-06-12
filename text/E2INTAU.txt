@@ -129,7 +129,7 @@
 0x7255F4FD=~z~跟你说过不要乱来了！
 
 ;0x7A2CF372=~z~Yeah, I'm sorry, yeah- no, I was working late at the club.
-0x7A2CF372=~z~嗯，我很抱歉，嗯，不，今天店里加班。
+0x7A2CF372=~z~嗯，我很抱歉。嗯，不，今天店里加班。
 
 ;0x86AA53F6=~z~Hey.
 0x86AA53F6=~z~嘿。

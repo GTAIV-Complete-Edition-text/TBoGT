@@ -390,7 +390,7 @@
 0x74502561=GIRL2_HA
 
 ;0x7790C385=~z~Apparently he's premiering his new movie in Star Junction.
-0x7790C385=~z~他显然是在Star Junction首映他的新电影。
+0x7790C385=~z~他显然是在星汇广场首映他的新电影。
 
 ;0x7899DAD2=100100010
 0x7899DAD2=100100010
@@ -453,7 +453,7 @@
 0x8CB2EADD=~z~我的天哪！那是我的逼吗？三米高的地方！
 
 ;0x8D62EF29=~z~Star Junction it is then.
-0x8D62EF29=~z~那就去Star Junction。
+0x8D62EF29=~z~那就去星汇广场。
 
 ;0x8D8B43B0=GIRL2_MC
 0x8D8B43B0=GIRL2_MC

@@ -9,7 +9,7 @@
 0x012D6E2C=E2Tm3_UD
 
 ;0x01C01754=~z~I've taken a little suite-y pooh at some dive in Star Junction. Can you run us up there, chap?
-0x01C01754=~z~我在Star Junction的酒店订了套房。你能带咱过去吗，伙计？
+0x01C01754=~z~我在星汇广场的酒店订了套房。你能带咱过去吗，伙计？
 
 ;0x02253DD4=SFX_PAUSE_270
 0x02253DD4=SFX_PAUSE_270
@@ -135,7 +135,7 @@
 0x2DF4B830=~z~妈的，老板，这事不对劲啊。最近避避风头，咱晚点聊。
 
 ;0x300EF3F1=~z~I got us a room in a hotel in Star Junction that rents by the hour. Do us a favor, will you?
-0x300EF3F1=~z~我在Star Junction的酒店开了间钟点房。送我们过去，好吗？
+0x300EF3F1=~z~我在星汇广场的酒店开了间钟点房。送我们过去，好吗？
 
 ;0x3242311C=~z~I hope it's nothing serious, boss. You take care.
 0x3242311C=~z~希望没出大事，老板。你多保重。

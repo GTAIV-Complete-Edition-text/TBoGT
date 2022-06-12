@@ -30,7 +30,7 @@
 0x5CAD6E0E=新闻上那件疯狂的事跟你有关吗？你多保重啊，听到没。
 
 ;0x5CCB0A52=Hey sis, I figured it would happen some day. Man can't control himself. Send me some pictures of your kids and I'll take down the ones of Dad. Much Love, Luis.
-0x5CCB0A52=嗨，妹妹，我早就知道会有这么一天的。这个人控制不住自己。你给我发几张你家孩子的照片吧，我拿来换掉老爸的。爱你，Luis。
+0x5CCB0A52=嗨，妹妹，我早就知道会有这么一天的。他这个人控制不住自己。给我发几张你家孩子的照片吧，我拿来换掉老爸的。爱你，Luis。
 
 ;0x6F09AECF=Please don't lecture me. I've seen Mom go through enough to not put someone through that. L
 0x6F09AECF=我不需要你指导。我已经见够了老妈的苦日子了，不会去祸害别的女人的。L

@@ -93,7 +93,7 @@
 0xE8234E76=~s~战斗时不要离开规定区域。
 
 ;0xF7E5EDFB=~s~Bets are cancelled if you step off the mat, and contenders lose their entry fee.
-0xF7E5EDFB=~s~出界后就会停止下注，选手会失去他的入场费。
+0xF7E5EDFB=~s~若你中途退场，观众下的赌注会被退回，拳手则会损失入场费。
 
 ;0xF9B8444D=~s~You lost.
 0xF9B8444D=~s~你输了。
