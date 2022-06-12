@@ -84,7 +84,7 @@
 0xCACA01B3=8
 
 ;0xD1FCC11F=Fly towards ~y~Star Junction, ~s~as high as possible.
-0xD1FCC11F=飞向~y~Star Junction，~s~越高越好。
+0xD1FCC11F=飞向~y~星汇广场，~s~越高越好。
 
 ;0xD4A4AB17=Don't leave ~b~Timur ~s~behind.
 0xD4A4AB17=别把~b~Timur~s~落下。

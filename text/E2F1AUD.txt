@@ -363,7 +363,7 @@
 0x41F43F4F=~z~哟。重新做人不容易啊，别做春秋大梦了。
 
 ;0x421E42C4=~z~What's up, H?
-0x421E42C4=~z~你好吗，H？
+0x421E42C4=~z~你好啊，H。
 
 ;0x428BF53A=E2F1_UB
 0x428BF53A=E2F1_UB
@@ -723,7 +723,7 @@
 0x916476CA=~z~我和Rique花了很长时间才跟他搭上线。
 
 ;0x9194F413=~z~Even Rique got him some, didn't he?
-0x9194F413=~z~就连Rique都把到妹了，不是吗？
+0x9194F413=~z~就连Rique都把到妹了，对吧？
 
 ;0x928BE240=100
 0x928BE240=100

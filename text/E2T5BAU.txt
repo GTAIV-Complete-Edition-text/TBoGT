@@ -318,7 +318,7 @@
 0x4F148ECA=E2T3B_ZKD
 
 ;0x4F5F2703=~z~Okay, I'm helping with the shooting this time. You can't carry me through this like you did in Dim Sum Plaza.
-0x4F5F2703=~z~好了，这次我会帮着开枪的。你别想像上次在点心广场那样带飞我了。
+0x4F5F2703=~z~好了，这次我会帮着开枪的。你别想像上次在点心广场那样护着我了。
 
 ;0x50DC8D43=E2T3B_ZID
 0x50DC8D43=E2T3B_ZID
@@ -1026,7 +1026,7 @@
 0xF3398857=~z~呦，Rocco，你这混蛋，拉我们下水是吧？
 
 ;0xF36FEFFA=~z~Fucking Rocco! After what happened in Chinatown, please tell me we gonna take a nine iron to his legs.
-0xF36FEFFA=~z~傻逼Rocco！在唐人街出了那种事，我们能不能往他腿上来一下？
+0xF36FEFFA=~z~傻逼Rocco！在唐人街出了那种事，我们能不能往他腿上来一棍子？
 
 ;0xF3CA9ED4=SFX_PAUSE_270
 0xF3CA9ED4=SFX_PAUSE_270

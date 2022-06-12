@@ -375,7 +375,7 @@
 0x5C208B3A=~z~要过来了，宝贝。让出位置。
 
 ;0x5D7581E8=~z~What kind of fool would try to land that thing in Star Junction?
-0x5D7581E8=~z~什么傻逼会把飞机降落在Star Junction？
+0x5D7581E8=~z~什么傻逼会把飞机降落在星汇广场？
 
 ;0x601C09AA=~z~Thanks for everything, bro. You're a fucking diamond.
 0x601C09AA=~z~太谢谢你了，兄弟。你真他妈行啊。
@@ -483,7 +483,7 @@
 0x7B082F52=SFX_PAUSE_170
 
 ;0x7B5061D5=~z~Luis, I think I can give old papadap the slip. Meet me in Star Junction.
-0x7B5061D5=~z~Luis，我可以趁老爸不注意开溜。去Star Junction等我。
+0x7B5061D5=~z~Luis，我可以趁老爸不注意开溜。去星汇广场等我。
 
 ;0x7BE870A0=E2Y3_VE
 0x7BE870A0=E2Y3_VE
@@ -921,7 +921,7 @@
 0xDAB1685A=~z~其实吧，老爸，你今天气色...气色不错，真的。
 
 ;0xDB117D1E=~z~Why's he landing in Star Junction?
-0xDB117D1E=~z~为什么要在Star Junction降落？
+0xDB117D1E=~z~为什么要在星汇广场降落？
 
 ;0xDD06B60D=~z~Bombs away! Go after her, man.
 0xDD06B60D=~z~投弹啦！快跟上，哥们。

@@ -75,7 +75,7 @@
 0x15CE9E43=~z~你这个娘炮。
 
 ;0x16033721=~z~We go above Star Junction. High as you can go.
-0x16033721=~z~我们要到Star Junction上空，有多高飞多高。
+0x16033721=~z~我们要到星汇广场上空，有多高飞多高。
 
 ;0x16523C11=SFX_PAUSE_300
 0x16523C11=SFX_PAUSE_300
@@ -483,7 +483,7 @@
 0x705BF997=SFX_PAUSE_330
 
 ;0x70E1ECE1=~z~We must go up high above Star Junction.
-0x70E1ECE1=~z~我们得飞到Star Junction上空。
+0x70E1ECE1=~z~我们得飞到星汇广场上空。
 
 ;0x71174D0A=~z~You a fucking terrible conversationalist, T.
 0x71174D0A=~z~你也太不会说话了，T。

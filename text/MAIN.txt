@@ -2913,7 +2913,7 @@
 0xC4CEF625=~z~应该是Purgatory吧。
 
 ;0xFCECF601=~z~Star Junction, yo.
-0xFCECF601=~z~Star Junction，哟。
+0xFCECF601=~z~星汇广场，哟。
 
 ;0x30FB8CBC=~z~Hatton Gardens.
 0x30FB8CBC=~z~Hatton Gardens。
@@ -3018,7 +3018,7 @@
 0x99C03624=~z~Booth隧道，哟。
 
 ;0xE7ABF3E6=~z~Like, Leaper's Bridge.
-0xE7ABF3E6=~z~应该是Leaper大桥吧。
+0xE7ABF3E6=~z~应该是纵身大桥吧。
 
 ;0x331C4EA9=~z~~x~Shit. I ain't actually sure about that. I'll have to call you back.
 0x331C4EA9=~z~~x~妈的，我也不太清楚。待会儿再联系你。

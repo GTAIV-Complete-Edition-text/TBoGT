@@ -105,7 +105,7 @@
 0x15AB4451=~z~你可以下来了。
 
 ;0x15EB28DB=~z~Yeah, absolutely, T. You've done such a great job so far.
-0x15EB28DB=~z~是啊，当然了，T。你那些决策真是英明神武啊。
+0x15EB28DB=~z~对对对，T。你那些决策真是英明神武啊。
 
 ;0x16450DAC=SFX_PAUSE_260
 0x16450DAC=SFX_PAUSE_260
@@ -405,7 +405,7 @@
 0x4D1C67EF=~z~他们来了！刚才糊弄一下多好？
 
 ;0x4D8A667E=~z~I'm soaked through. I must have lost three pounds in sweat.
-0x4D8A667E=~z~我浑身湿透了。我得流了三磅的汗。
+0x4D8A667E=~z~我浑身湿透了。我得流了三斤的汗。
 
 ;0x4E38270F=~z~Of course. Of course. My business partner, Mr. Lopez.
 0x4E38270F=~z~当然。当然。这是我的合伙人，Lopez先生。
@@ -1047,7 +1047,7 @@
 0xD19BDD1D=E2T2_AFA
 
 ;0xD2F41C4F=~z~Get in there, Luis. Please.
-0xD2F41C4F=~z~进去吧, Luis。拜托。
+0xD2F41C4F=~z~进去吧，Luis。拜托。
 
 ;0xD333E29E=~z~We got to at least pretend to play ball.
 0xD333E29E=~z~明面上还是要给他点面子的。

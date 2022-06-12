@@ -30,7 +30,7 @@
 0x6FA5E25E=~s~前往~y~Squid Row~s~餐厅。
 
 ;0x86740FFA=~s~Go to ~y~Star Junction.~s~
-0x86740FFA=~s~前往~y~Star Junction。~s~
+0x86740FFA=~s~前往~y~星汇广场。~s~
 
 ;0x87930715=~r~Chris died.~s~
 0x87930715=~r~Chris死了。~s~
