@@ -399,7 +399,7 @@
 0x70FB1A72=~z~这股气味...
 
 ;0x728684F8=~z~The pervert's back? I ain't letting you nowhere near me you fuckin French freak
-0x728684F8=~z~变态回来了？你别想靠近我，法国变态佬。
+0x728684F8=~z~变态回来了？你别想靠近我，变态法国佬。
 
 ;0x7412FE74=~z~You the greasy Chase Point pimp and you calling him a sicko? Get over yourself, bro.
 0x7412FE74=~z~油嘴滑舌的Chase Point皮条客管别人叫变态？滚你丫的，兄弟。

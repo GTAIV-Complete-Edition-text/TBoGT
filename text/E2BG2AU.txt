@@ -747,7 +747,7 @@
 0xABC573C1=SFX_PAUSE_210
 
 ;0xABE6B7ED=~z~Hey, I know who I am. Sure, I do bad shit, but that ain't who I'm going to be forever.
-0xABE6B7ED=~z~喂，我知道自己是什么人。我是干了坏事，但不可能永远干坏事。
+0xABE6B7ED=~z~喂，我知道自己是什么人。我是干过坏事，但不可能永远干坏事。
 
 ;0xABE8305D=~z~So fucking what?
 0xABE8305D=~z~所以怎么了？

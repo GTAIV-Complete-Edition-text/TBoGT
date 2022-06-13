@@ -474,7 +474,7 @@
 0x6710BFCB=~z~操，把这些警察支开。
 
 ;0x684ABC7C=~z~What happened to Evan?
-0x684ABC7C=~z~Evan怎么了？
+0x684ABC7C=~z~Evan怎么样了？
 
 ;0x68CCEE00=~z~Shit, there's a police roadblock. We're going to get killed.
 0x68CCEE00=~z~操，警察设了路障。我们死定了。
