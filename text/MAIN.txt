@@ -1428,7 +1428,7 @@
 0x9E1E9C96=暴怒队传言
 
 ;0xD5281A25=Dirty Dentist
-0xD5281A25=肮脏牙医
+0xD5281A25=下流牙医
 
 ;0xDA46DD0B=Rotterdam Rocked
 0xDA46DD0B=鹿特丹震颤

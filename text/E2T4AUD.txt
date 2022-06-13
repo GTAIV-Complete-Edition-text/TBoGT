@@ -489,7 +489,7 @@
 0x818CA9B3=SFX_PAUSE_300
 
 ;0x828CBA9C=~z~You're meant to be the rational one here, Luis. Look, I'll see what I can do about it. I'll be in touch.
-0x828CBA9C=~z~你说的很有道理，Luis。听着，我看看我能做点啥。保持联络。
+0x828CBA9C=~z~你说的很有道理，Luis。听着，我看看能做点啥。保持联络。
 
 ;0x837B376B=E2T4_WD1
 0x837B376B=E2T4_WD1

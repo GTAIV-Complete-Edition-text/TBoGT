@@ -129,7 +129,7 @@
 0x20EA2857=E2MF2_IE
 
 ;0x215C1127=~z~But if I had been, it would have been for us, for the business.
-0x215C1127=~z~即便我参与了，那也是为了我们，为了事业。
+0x215C1127=~z~即便我参与了，那也是为了我们，为了生意。
 
 ;0x218115DD=E2MF2_LD
 0x218115DD=E2MF2_LD

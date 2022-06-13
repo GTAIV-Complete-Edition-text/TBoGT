@@ -12,7 +12,7 @@
 0x142D6F34=黄金SMG已在你的安全屋内解锁。
 
 ;0x1D5EC05B=Take the drugs vehicle to the ~y~drop off.
-0x1D5EC05B=将运毒载具开往~y~卸货点。
+0x1D5EC05B=将运毒载具送到~y~卸货点。
 
 ;0x272E8B4C=~r~You have lost the drugs.
 0x272E8B4C=~r~你失去了毒品。
@@ -21,7 +21,7 @@
 0x2F1C63D6=偷走~b~运毒载具。
 
 ;0x33F4EEAB=Take the stash to the ~y~drop off.
-0x33F4EEAB=将毒品送往~y~卸货点。
+0x33F4EEAB=将毒品送到~y~卸货点。
 
 ;0x3446A57C=~r~Your boat was destroyed.
 0x3446A57C=~r~你的船被毁了。
