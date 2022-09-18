@@ -117,7 +117,7 @@
 0x4D3E045A=E2BG3_AAC
 
 ;0x4DDD0EB4=~z~He's bad news. I hate to be the voice of reason here, but I don't think we need that kind of stress in our lives.
-0x4DDD0EB4=~z~他让我很不舒服。我不想当理客中，但我们不需要他那样的压力。
+0x4DDD0EB4=~z~他让我很不舒服。我不想当理中客，但我们不需要他那样的压力。
 
 ;0x51546B93=~z~Yo you putting me in an awkward position, man. I can't tell you this thing's taken care of - 'cause it's not.
 0x51546B93=~z~我现在就很尴尬，伙计。我不能说事情已经处理好了，因为真没办好。
