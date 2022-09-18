@@ -318,7 +318,7 @@
 0x4D4460AF=~z~喂，Tone。怎么了，老板？
 
 ;0x512056E3=~z~He's bad news. I hate to be the voice of reason here, but I don't think we need that kind of stress in our lives.
-0x512056E3=~z~他让我很不舒服。我不想当理客中，但我们不需要他那样的压力。
+0x512056E3=~z~他让我很不舒服。我不想当理中客，但我们不需要他那样的压力。
 
 ;0x51805FA3=~z~Not really, bro. Goodbye.
 0x51805FA3=~z~并没有，兄弟。再见。
