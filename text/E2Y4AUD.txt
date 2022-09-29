@@ -864,7 +864,7 @@
 0xBFDEF843=E2Y4_GA
 
 ;0xC16E82B1=~z~It's going to be drowned in gold, y'know it's like, 'yo, yo, is that a diamond in your pocket or are you just pleased to see me', and shit.
-0xC16E82B1=~z~这里会变成金山。怎么说来着，「哟哟哟，你是看上我的钱了，还是看上我的人了。」
+0xC16E82B1=~z~这里会变成金山。怎么说来着，「哟哟哟，你是突发横财了，还是见到我太高兴了。」
 
 ;0xC1A52313=E2Y4_GD
 0xC1A52313=E2Y4_GD

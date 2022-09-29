@@ -792,7 +792,7 @@
 0xAF8080B5=100090010010090010090100090100
 
 ;0xB0535BD4=~z~You'd think you'd know enough with all the shit we been in to take the safety off a gun before you use it.
-0xB0535BD4=~z~经历了这么多你觉得你行了，结果开枪之前还是没关保险？
+0xB0535BD4=~z~经历了这么多你觉得你行了，结果开枪之前还是上着保险？
 
 ;0xB133A5B3=~z~Well done. You win, jackass.
 0xB133A5B3=~z~很好。你赢了，混蛋。
@@ -1029,7 +1029,7 @@
 0xE565CAE8=~z~现在他往东边去了。我们不会跟丢的，没问题的。
 
 ;0xE74049AD=~z~Fair point. I'll get a post-it note for the next time. "Disengage before suicide attempt."
-0xE74049AD=~z~有道理。下次我就先贴个便签：「自杀之前关掉保险」。
+0xE74049AD=~z~有道理。下次我就先贴个便签：「自杀之前解除保险」。
 
 ;0xE9979C5B=100090010
 0xE9979C5B=100090010

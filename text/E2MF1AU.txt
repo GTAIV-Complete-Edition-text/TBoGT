@@ -945,7 +945,7 @@
 0xB2396070=E2MF1_ME
 
 ;0xB2D1ED02=~z~Not that great. My father, he is a very passionate and angry and very disrespectful man.
-0xB2D1ED02=~z~不太好。我父亲是一个很热情、很暴躁、很无礼的人。
+0xB2D1ED02=~z~不太好。我父亲是一个很敏感、很暴躁、很无礼的人。
 
 ;0xB35005EA=010090100010090100100090010100010090100
 0xB35005EA=010090100010090100100090010100010090100

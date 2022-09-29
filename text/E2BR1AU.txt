@@ -315,7 +315,7 @@
 0x6583DAFE=~z~事情就是这么办的，Luis。来吧。
 
 ;0x65BB3FE4=~z~Unfortunately not, man. What are you doing here, Mori?
-0x65BB3FE4=~z~没死人，你高兴了吧。你在这干嘛呢，Mori？
+0x65BB3FE4=~z~没死人，让你失望了。你在这干嘛呢，Mori？
 
 ;0x689A46F2=~z~It's Luis.
 0x689A46F2=~z~我叫Luis。
@@ -366,7 +366,7 @@
 0x7CE61B07=102
 
 ;0x7EA3753C=~z~See ya, wouldn't want to be ya...fag!
-0x7EA3753C=~z~再见了，我可不想变成你一样的废物。
+0x7EA3753C=~z~再见了，我可不想变成你这样...基佬！
 
 ;0x7F0143F9=~z~Not any more. Now I'm the fucking daddy. Heh ho!
 0x7F0143F9=~z~再也不是了。现在是老子做主了，吼吼！
@@ -450,7 +450,7 @@
 0x976FED62=E2BR1_BFA
 
 ;0x9837A4DC=~z~Right. It's nice to see you too, little brother. Jesus, you look pale. What, somebody die?
-0x9837A4DC=~z~对。很高兴见到你，弟弟。天哪，你咋这副表情。咋了，死人啦？
+0x9837A4DC=~z~对。很高兴见到你，弟弟。天哪，你脸色好差。咋了，死人啦？
 
 ;0x984BEFB1=~z~What the fuck are you doing here, Mori?
 0x984BEFB1=~z~你他妈来这儿干啥，Mori？
@@ -546,7 +546,7 @@
 0xB3343620=101091101091011091011
 
 ;0xB33A9F39=~z~What, I look like a charity case to you?
-0xB33A9F39=~z~啥？我像是要你对口帮扶吗？
+0xB33A9F39=~z~啥？我像是要你施舍吗？
 
 ;0xB37A5B61=~z~I am thinking about moving back home.
 0xB37A5B61=~z~我在考虑搬回家住。

@@ -150,7 +150,7 @@
 0x275F7C4F=E2T1_FE
 
 ;0x2ABBB2F9=~z~Okay, you just can't be looking like you came from selling dope on the corner.
-0x2ABBB2F9=~z~而且你们也别打扮得跟在路边贩毒一样。
+0x2ABBB2F9=~z~只是你们别打扮得跟在路边贩毒一样。
 
 ;0x2B5EAB55=E2T1_TD
 0x2B5EAB55=E2T1_TD
@@ -585,7 +585,7 @@
 0xA2F0A285=~z~拜拜啦您。
 
 ;0xA30CB459=~z~There ain't another job in the city for this dumb bastard to do; hourly wage considered, and all.
-0xA30CB459=~z~城里再找不出这种白痴弱智能做的了，还得是时薪制的。
+0xA30CB459=~z~城里再找不出这种白痴弱智能做的了，连时薪制的都没有。
 
 ;0xA38E7163=E2T1_FC
 0xA38E7163=E2T1_FC
@@ -750,7 +750,7 @@
 0xC9E401A6=100
 
 ;0xC9F6F777=~z~I never thought about being grateful to you for signing me up to the "fight off hairy ass rapists day and night" exercise plan.
-0xC9F6F777=~z~我还真没为被你们送进「日日夜夜打退多毛傻逼鸡奸犯」的健身课说过谢谢。
+0xC9F6F777=~z~我还真没为被你们送进「日夜打退多毛傻逼鸡奸犯」的健身课说过谢谢。
 
 ;0xCACF680C=E2T1_TA
 0xCACF680C=E2T1_TA
@@ -960,5 +960,5 @@
 0xFB73E4EC=~z~如果连名校毕业的傻逼玩意都找不到工作，你觉得Rique能干什么？
 
 ;0xFC7CD67C=~z~You know it ain't even like that, bro, okay? You don't pay for shit in here.
-0xFC7CD67C=~z~情况不是这样的，懂吧？这里你们消费不起。
+0xFC7CD67C=~z~情况不是这样的，懂吧？进去了免单都行。
 

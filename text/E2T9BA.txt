@@ -363,7 +363,7 @@
 0x4C14C4E3=~z~别担心，等我有机会，就给自己放个温泉假。
 
 ;0x4C80EDEC=~z~Aw, and what makes you so good, huh?
-0x4C80EDEC=~z~噢，你得瑟个什么，啊？
+0x4C80EDEC=~z~噢，你比她强在哪，啊？
 
 ;0x4CBF684C=E2T9_BHB
 0x4CBF684C=E2T9_BHB
@@ -552,7 +552,7 @@
 0x7868C72E=~z~因为你欠了全城一半人的钱，剩下一半要让你死。这种情况很难不多疑。
 
 ;0x79985A20=~z~I made you a business partner so you'd question things, not just trudge along after me like some drone.
-0x79985A20=~z~我让你成为我的商业伙伴，是让你咨询问题来的，不是像个跟屁虫一样跟着我嗡嗡嗡。
+0x79985A20=~z~找你当生意伙伴是让你来提问的，不是像个跟屁虫一样跟着我嗡嗡嗡。
 
 ;0x7AC1FE9E=E2T9_AYC
 0x7AC1FE9E=E2T9_AYC
@@ -636,7 +636,7 @@
 0x8CB3CBE2=SFX_PAUSE_330
 
 ;0x8CE4A7E4=~z~You being anti-semitic now? Nice, next you'll call me a fag.
-0x8CE4A7E4=~z~你现在要开始怼我了？真棒，接下来就该叫我死基佬了。
+0x8CE4A7E4=~z~你开始反犹太了？真棒，接下来就该叫我死基佬了。
 
 ;0x8DAC9B63=E2T9_AID
 0x8DAC9B63=E2T9_AID
