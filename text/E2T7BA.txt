@@ -471,7 +471,7 @@
 0x666D179B=~z~炸翻他们。快点！
 
 ;0x6710BFCB=~z~Shit. Get these cops out of here.
-0x6710BFCB=~z~操，把这些警察支开。
+0x6710BFCB=~z~操，把这些警察干掉。
 
 ;0x684ABC7C=~z~What happened to Evan?
 0x684ABC7C=~z~Evan怎么样了？

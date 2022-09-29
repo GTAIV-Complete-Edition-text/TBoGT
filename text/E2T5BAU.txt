@@ -135,7 +135,7 @@
 0x223D12D5=E2T3B_ZKB
 
 ;0x22B962A2=~z~The emphasis is on business, bro. You can keep your crabs to yourself.
-0x22B962A2=~z~重点在于商业，兄弟。螃蟹你自己留着吧。
+0x22B962A2=~z~重点在于生意，兄弟。螃蟹你自己留着吧。
 
 ;0x2353ADAA=~z~There they are. The spic and the fag.
 0x2353ADAA=~z~你们来啦，西班牙佬和基佬。
@@ -918,7 +918,7 @@
 0xD87F6013=SFX_PAUSE_220
 
 ;0xD892CE4E=~z~We're business partners, we share everything.
-0xD892CE4E=~z~我们是商业伙伴，我们共享一切。
+0xD892CE4E=~z~我们是生意伙伴，我们共享一切。
 
 ;0xD8DD8C67=E2T3B_ZZB
 0xD8DD8C67=E2T3B_ZZB

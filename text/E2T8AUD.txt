@@ -12,7 +12,7 @@
 0x035A5EF9=~z~土豪金，Yusuf？真是有够低调。
 
 ;0x0584FCE8=~z~Which one, man? I got a fleet.
-0x0584FCE8=~z~哪一架，兄弟？有一整支舰队呢。
+0x0584FCE8=~z~哪一架，兄弟？有一整支机队呢。
 
 ;0x0626CCBA=~z~Bail outta there, bitch.
 0x0626CCBA=~z~赶紧跳伞吧，贱人。
@@ -36,7 +36,7 @@
 0x0BA66B7B=100010090010090100010
 
 ;0x0BF08A03=~z~The Buzzard? Of course, bro. It's practically yours anyway.
-0x0BF08A03=~z~秃鹰吗？没问题，兄弟。它基本上算你的了。
+0x0BF08A03=~z~秃鹰吗？没问题，兄弟。它也算是你的。
 
 ;0x0D8510ED=~z~Okay.
 0x0D8510ED=~z~好的。

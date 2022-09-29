@@ -324,7 +324,7 @@
 0x6DB0FF29=~z~操你妈。
 
 ;0x6E242727=~z~You know, show him I've got good connections, you know. Pay him the respect he deserves.
-0x6E242727=~z~你懂的，让他看看我人脉多广。让他摆正位置。
+0x6E242727=~z~你懂的，让他看看我人脉多广。献上他应得的尊敬。
 
 ;0x6F691606=~z~She will pick the bones of your enemies clean.
 0x6F691606=~z~她能让你的敌人灰飞烟灭。

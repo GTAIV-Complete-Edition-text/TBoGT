@@ -138,7 +138,7 @@
 0x5C960D23=E2BG3_ZCA
 
 ;0x5F63DAB4=~z~You got to talk to Daddy... I thought I was making you a real man. Not a rentboy.
-0x5F63DAB4=~z~你咋不问问你爹...我还以为我让你成为了男子汉，而不是基佬。
+0x5F63DAB4=~z~你咋不问问你爹...我还以为我让你成为了男子汉，而不是男妓。
 
 ;0x601EDC26=~z~Ignore her, Luis. The diamonds - tell me.
 0x601EDC26=~z~别管她，Luis。那些钻石，给我说说。
@@ -333,7 +333,7 @@
 0xCD388D01=~z~很抱歉，我搞砸了。这次是我把你拖下水，对我来说还挺新鲜，不是吗？
 
 ;0xCFA900D7=~z~I will do everything in my considerable power to drive you and your faggot master from this earth.
-0xCFA900D7=~z~我会尽我所能，把你和你的基佬主子赶出地球。
+0xCFA900D7=~z~我会尽我所能，把你和你的基佬主子赶尽杀绝。
 
 ;0xD0343051=~z~You blow up now, fuckhead.
 0xD0343051=~z~这就炸飞你，猪头。

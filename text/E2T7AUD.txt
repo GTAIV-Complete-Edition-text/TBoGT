@@ -57,7 +57,7 @@
 0x0FCCDD20=~z~赶紧离开这里。快点，Luis。
 
 ;0x1042D919=~z~Even fucking better, bro. Even better.
-0x1042D919=~z~说不定比这都好，兄弟。比这都好。
+0x1042D919=~z~情况更好了呢，更好了。
 
 ;0x111E1F5E=E2T7_PC
 0x111E1F5E=E2T7_PC

@@ -591,7 +591,7 @@
 0x9624BA79=~z~跟他们讲了很多次了，爸，这么打扮有失体统。他们听吗？不，就没听过！还有你，先别走，
 
 ;0x969E9575=~z~If only he gave me a few billion I could really call my own, then maybe I would grow up.
-0x969E9575=~z~要是他能给我个几百万自己支配，我才算长大了吧。
+0x969E9575=~z~要是他能给我个几十亿自己支配，我才算长大了吧。
 
 ;0x9710212B=E2Y3_VC
 0x9710212B=E2Y3_VC
@@ -705,7 +705,7 @@
 0xACE4F6CE=~z~目标...他妈...是辆...NOOSE坦克！
 
 ;0xAD028CFD=~z~I knew how disgraceful you were, but I didn't realize quite how shameful you were.
-0xAD028CFD=~z~我知道你不要脸，但没想到你居然这么不要脸。
+0xAD028CFD=~z~我知道你作风不正，但没想到你居然这么不知廉耻。
 
 ;0xAD36462B=100090010
 0xAD36462B=100090010
@@ -750,7 +750,7 @@
 0xB43F973F=100
 
 ;0xB4CB77C6=~z~I tell you, Poppa, magisterial doesn't do justice to it!
-0xB4CB77C6=~z~告诉你吧，老爸，这连当官的都做不到！
+0xB4CB77C6=~z~告诉你吧，老爸，「鬼斧神工」都不足以形容！
 
 ;0xB5585310=E2Y3_GA
 0xB5585310=E2Y3_GA
@@ -942,7 +942,7 @@
 0xE10F5C75=~z~得从头再来了，哥们。不好意思。
 
 ;0xE1AB8F1E=~z~This is the best sniper money can buy. Come on.
-0xE1AB8F1E=~z~这是钱能买到的最好的狙了，拜托。
+0xE1AB8F1E=~z~这是能买到的最好的狙了，拜托。
 
 ;0xE1F12B77=~z~Okay, man. I'll get her.
 0xE1F12B77=~z~好的，哥们，我跟上去。

@@ -372,7 +372,7 @@
 0x8D813CB5=~z~不至于，兄弟。天天跟着想杀的人混，才是真的困惑，Mori。
 
 ;0x8D83FD18=~z~All or nothing, eh? Heavenly peace or a lifetime of being tortured by some hellish imp?
-0x8D83FD18=~z~背水一战，对吧？就此安宁，或是一辈子恶鬼缠身。
+0x8D83FD18=~z~孤注一掷，对吧？就此安宁，或是一辈子恶鬼缠身。
 
 ;0x8F0851F0=~z~Go!
 0x8F0851F0=~z~上！

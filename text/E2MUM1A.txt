@@ -54,7 +54,7 @@
 0x0EBD8B84=~z~要是我不想输怎么办？
 
 ;0x10F37272=~z~Yes, bit rich coming from you.
-0x10F37272=~z~好，这话还用你说。
+0x10F37272=~z~你还好意思说。
 
 ;0x110CFE38=E2MUM1_YC
 0x110CFE38=E2MUM1_YC
@@ -273,7 +273,7 @@
 0x5642FF81=SFX_PAUSE_340
 
 ;0x56ECFFD8=~z~Hey. She called me, okay? It's business. We run a service. She knew the rules. She should have read the small print.
-0x56ECFFD8=~z~喂喂喂，是她主动找我，好吗？这行就是这样。~n~我们提供服务，她也知道规矩。谁让她没看合同上的小字呢。
+0x56ECFFD8=~z~喂喂喂，是她主动找我，好吗？这行就是这样。~n~我们提供服务，她也知道规矩。她应该看过合同上的小字。
 
 ;0x57036980=~z~You're a fucking dead man. I'm gonna burn that bitch mom of yours, too.
 0x57036980=~z~你他妈死定了。我还要把你那婊子妈烧了。

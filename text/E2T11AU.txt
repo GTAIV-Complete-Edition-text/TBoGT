@@ -294,7 +294,7 @@
 0x32596993=~z~Ray先生坐飞机走了，小白脸。你来晚了一步。
 
 ;0x325A7C2D=~z~Okay. I'm armed, I'm dangerous. Let's fucking do this!
-0x325A7C2D=~z~好。拿起枪，拿出气势，一起干他妈的！
+0x325A7C2D=~z~好。我有枪，我很能打，一起干他妈的！
 
 ;0x32C37248=092
 0x32C37248=092
@@ -867,7 +867,7 @@
 0x904456A8=~z~滚蛋，Luis。
 
 ;0x90BDB8DE=~z~What? We're in this together!
-0x90BDB8DE=~z~怎么？我们不是一伙的吗！
+0x90BDB8DE=~z~怎么？我俩一起上啊！
 
 ;0x91806360=E2T11_AGB1
 0x91806360=E2T11_AGB1
