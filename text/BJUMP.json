@@ -1,0 +1,88 @@
+{
+    "BJUMP": [
+        {
+            "hash": 155711225,
+            "original": "Base jump onto the ~b~moving vehicle.",
+            "translated": "跳到~b~行驶的载具~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 186787408,
+            "original": "Open the parachute and glide through the checkpoints.",
+            "translated": "打开降落伞通过检查点。",
+            "desc": ""
+        },
+        {
+            "hash": 702377947,
+            "original": "~r~Base jump failed.",
+            "translated": "~r~低空跳伞失败。",
+            "desc": ""
+        },
+        {
+            "hash": 953824924,
+            "original": "A parachute is now available in you appartment.",
+            "translated": "降落伞已送至你的公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 1155963069,
+            "original": "Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_MOUSE_LMB~ to jump.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周，按~INPUT_MOUSE_LMB~起跳。",
+            "desc": ""
+        },
+        {
+            "hash": 1341795088,
+            "original": "Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.",
+            "translated": "用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。",
+            "desc": ""
+        },
+        {
+            "hash": 1466636233,
+            "original": "Base jump onto the checkpoint.",
+            "translated": "跳到检查点上。",
+            "desc": ""
+        },
+        {
+            "hash": 2530960878,
+            "original": "Jump off the ramp then press ~INPUT_ENTER~.",
+            "translated": "跳下斜坡后按~INPUT_ENTER~跳车。",
+            "desc": ""
+        },
+        {
+            "hash": 2729612688,
+            "original": "Base jump onto the moving vehicle.",
+            "translated": "跳到行驶的载具上。",
+            "desc": ""
+        },
+        {
+            "hash": 2763916989,
+            "original": "Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.",
+            "translated": "用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。",
+            "desc": ""
+        },
+        {
+            "hash": 3423591282,
+            "original": "1. Jump to blipped target~n~2. Jump to blipped truck~n~3. Free jump (default)",
+            "translated": "1、跳到目标位置。~n~2、跳到目标卡车上。~n~3、自由落体。(默认)",
+            "desc": ""
+        },
+        {
+            "hash": 3769585774,
+            "original": "Use ~PAD_RSTICK_ALL~ to look and press ~INPUT_ENTER~ to jump.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周，按~INPUT_ENTER~起跳。",
+            "desc": ""
+        },
+        {
+            "hash": 3828962188,
+            "original": "Open the parachute and glide through the ~y~checkpoints.",
+            "translated": "打开降落伞通过~y~检查点。",
+            "desc": ""
+        },
+        {
+            "hash": 4064169305,
+            "original": "Base jump onto the ~y~checkpoint.",
+            "translated": "跳到~y~检查点~s~上。",
+            "desc": ""
+        }
+    ]
+}

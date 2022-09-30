@@ -1,0 +1,106 @@
+{
+    "CLBPRC7": [
+        {
+            "hash": 149788768,
+            "original": "~r~The fans were hurt.",
+            "translated": "~r~粉丝受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 271165144,
+            "original": "~r~You abandoned Bobby Blue.",
+            "translated": "~r~你抛弃了Bobby Blue。",
+            "desc": ""
+        },
+        {
+            "hash": 386672121,
+            "original": "You've left ~b~the Brothers~s~ behind.",
+            "translated": "你把~b~Blue兄弟~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 494682493,
+            "original": "~r~You abandoned Bill Blue.",
+            "translated": "~r~你抛弃了Bill Blue。",
+            "desc": ""
+        },
+        {
+            "hash": 676284543,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 877621027,
+            "original": "~r~You hurt Troy.",
+            "translated": "~r~你伤害了Troy。",
+            "desc": ""
+        },
+        {
+            "hash": 1298109091,
+            "original": "Go to ~y~Maisonette 9~s~ without hurting the fans.",
+            "translated": "在不伤害粉丝的同时前往~y~9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 1610364892,
+            "original": "Go to the ~y~hotel.",
+            "translated": "前往~y~酒店。",
+            "desc": ""
+        },
+        {
+            "hash": 1920490708,
+            "original": "~r~Bill was hurt.",
+            "translated": "~r~Bill受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2073623989,
+            "original": "You need a four-door vehicle.",
+            "translated": "找一辆四门的载具。",
+            "desc": ""
+        },
+        {
+            "hash": 2212364191,
+            "original": "~r~Bobby was hurt.",
+            "translated": "~r~Bobby受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2540490892,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around and check for trouble.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周有无状况。",
+            "desc": ""
+        },
+        {
+            "hash": 2833500586,
+            "original": "You've left ~b~Bill~s~ behind.",
+            "translated": "你把~b~Bill~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 3137564137,
+            "original": "You've left ~b~Bobby~s~ behind.",
+            "translated": "你把~b~Bobby~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 3253209686,
+            "original": "~r~You hurt Dessie.",
+            "translated": "~r~你伤害了Dessie。",
+            "desc": ""
+        },
+        {
+            "hash": 3468825898,
+            "original": "Go to the ~y~MeTV building.",
+            "translated": "前往~y~MeTV大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 4135154552,
+            "original": "~r~Club management failed.",
+            "translated": "~r~夜店经营任务失败。",
+            "desc": ""
+        }
+    ]
+}

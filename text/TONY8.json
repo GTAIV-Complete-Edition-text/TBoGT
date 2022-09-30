@@ -1,0 +1,166 @@
+{
+    "TONY8": [
+        {
+            "hash": 84554854,
+            "original": "Get to ~b~Yusuf's chopper.",
+            "translated": "前往~b~Yusuf的直升机~s~的所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 182239231,
+            "original": "Get back in ~b~Yusuf's chopper.",
+            "translated": "回到~b~Yusuf的直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 318802653,
+            "original": "~r~You abandoned Yusuf's chopper.",
+            "translated": "~r~你抛弃了Yusuf的直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 435904072,
+            "original": "Take the helicopter back to the ~y~helipad.",
+            "translated": "把直升机开回~y~停机坪。",
+            "desc": ""
+        },
+        {
+            "hash": 555525909,
+            "original": "~r~You attacked Johnny.",
+            "translated": "~r~你攻击了Johnny。",
+            "desc": ""
+        },
+        {
+            "hash": 617051104,
+            "original": "Climb down the scaffolding to the ~y~window~s~ overlooking the deal.",
+            "translated": "顺着脚手架下到~y~窗口，~s~监视交易过程。",
+            "desc": ""
+        },
+        {
+            "hash": 1153920618,
+            "original": "~r~You attacked Niko.",
+            "translated": "~r~你攻击了Niko。",
+            "desc": ""
+        },
+        {
+            "hash": 1259945839,
+            "original": "~s~Flee the Libertonian in ~b~Yusuf's chopper.",
+            "translated": "~s~驾驶~b~Yusuf的直升机~s~逃离自由城博物馆。",
+            "desc": ""
+        },
+        {
+            "hash": 1289110249,
+            "original": "~s~Destroy the pursuing police ~r~choppers.",
+            "translated": "~s~击落警察的~r~直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 1337379262,
+            "original": "Fly to the roof of the ~y~Libertonian.",
+            "translated": "飞到~y~自由城博物馆~s~的屋顶。",
+            "desc": ""
+        },
+        {
+            "hash": 1670029192,
+            "original": "~r~Tony's car was destroyed.",
+            "translated": "~r~Tony的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1870513110,
+            "original": "~r~Niko has been injured.",
+            "translated": "~r~Niko受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 1891252711,
+            "original": "~r~Tony has been injured.",
+            "translated": "~r~Tony受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 1979958398,
+            "original": "~r~Johnny has been injured.",
+            "translated": "~r~Johnny受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2226545123,
+            "original": "~r~You alerted security.",
+            "translated": "~r~你惊动了保安。",
+            "desc": ""
+        },
+        {
+            "hash": 2266064533,
+            "original": "~r~Tony's friend is dead.",
+            "translated": "~r~Tony的朋友死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2438694805,
+            "original": "~r~Yusuf's chopper is stuck.",
+            "translated": "~r~Yusuf的直升机坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2675188678,
+            "original": "~r~Yusuf's chopper was destroyed.",
+            "translated": "~r~Yusuf的直升机毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3031060018,
+            "original": "~r~You spooked the dealers.",
+            "translated": "~r~你惊动了钻石商。",
+            "desc": ""
+        },
+        {
+            "hash": 3271551709,
+            "original": "~r~Isaac has been killed.",
+            "translated": "~r~Isaac被杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 3360307947,
+            "original": "Escape the Libertonian via the ~y~skylight.",
+            "translated": "~s~通过~y~天窗~s~逃离自由城博物馆。",
+            "desc": ""
+        },
+        {
+            "hash": 3419259378,
+            "original": "Take the diamonds to ~b~Tony.",
+            "translated": "把钻石带给~b~Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 3437064748,
+            "original": "~r~Tony's friend has been injured.",
+            "translated": "~r~Tony的朋友受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 3630110107,
+            "original": "~r~Tony is dead.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3713754381,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3867783664,
+            "original": "~r~Yusuf's chopper was wrecked.",
+            "translated": "~r~Yusuf的直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4148893916,
+            "original": "Fly back to the roof of the ~y~Libertonian.",
+            "translated": "~s~飞回~y~自由城博物馆~s~的屋顶。",
+            "desc": ""
+        }
+    ]
+}

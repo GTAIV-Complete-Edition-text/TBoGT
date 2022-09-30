@@ -1,0 +1,226 @@
+{
+    "SP_RACE": [
+        {
+            "hash": 47274283,
+            "original": "~r~The cops scared off the other racers.",
+            "translated": "~r~条子把其他选手吓跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 212124348,
+            "original": "Race Helicopter Test",
+            "translated": "直升飞机竞速赛",
+            "desc": ""
+        },
+        {
+            "hash": 262019618,
+            "original": "Race Police Pursuit Test",
+            "translated": "警察通缉竞速赛",
+            "desc": ""
+        },
+        {
+            "hash": 297407399,
+            "original": "Race Triathlon Test",
+            "translated": "铁人三项比赛",
+            "desc": ""
+        },
+        {
+            "hash": 434736140,
+            "original": "12th",
+            "translated": "第12名",
+            "desc": ""
+        },
+        {
+            "hash": 489884540,
+            "original": "6th",
+            "translated": "第6名",
+            "desc": ""
+        },
+        {
+            "hash": 565281934,
+            "original": "10th",
+            "translated": "第10名",
+            "desc": ""
+        },
+        {
+            "hash": 617142757,
+            "original": "11th",
+            "translated": "第11名",
+            "desc": ""
+        },
+        {
+            "hash": 793422588,
+            "original": "~r~Race abandoned.",
+            "translated": "~r~比赛中止。",
+            "desc": ""
+        },
+        {
+            "hash": 897047720,
+            "original": "4th",
+            "translated": "第4名",
+            "desc": ""
+        },
+        {
+            "hash": 1177129872,
+            "original": "3rd",
+            "translated": "第3名",
+            "desc": ""
+        },
+        {
+            "hash": 1440372640,
+            "original": "2",
+            "translated": "2",
+            "desc": ""
+        },
+        {
+            "hash": 1486307322,
+            "original": "~r~You lose.",
+            "translated": "~r~你输了。",
+            "desc": ""
+        },
+        {
+            "hash": 1714976860,
+            "original": "3",
+            "translated": "3",
+            "desc": ""
+        },
+        {
+            "hash": 1758069877,
+            "original": "Press a key to choose Manhatten Race.~n~1. Test",
+            "translated": "按下对应的按键选择~n~1. 曼哈顿竞速比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 1766733474,
+            "original": "Race Boat Test",
+            "translated": "快艇竞速赛",
+            "desc": ""
+        },
+        {
+            "hash": 1869144388,
+            "original": "You win.",
+            "translated": "你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1979471434,
+            "original": "Race Quadathlon Test",
+            "translated": "铁人四项比赛",
+            "desc": ""
+        },
+        {
+            "hash": 2115460047,
+            "original": "Press a key to choose a Jersey Race.~n~1. Test",
+            "translated": "按下对应的按键选择~n~1. 新泽西竞速比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 2382940970,
+            "original": "Get a bike and get to the ~y~start line.",
+            "translated": "~s~找一辆摩托车到~y~起点~s~准备。",
+            "desc": ""
+        },
+        {
+            "hash": 2463665460,
+            "original": "Lose the cops., or the race may be abandoned.",
+            "translated": "甩掉条子, 不然比赛将会中止。",
+            "desc": ""
+        },
+        {
+            "hash": 2468661350,
+            "original": "7th",
+            "translated": "第7名",
+            "desc": ""
+        },
+        {
+            "hash": 2524944669,
+            "original": "2nd",
+            "translated": "第2名",
+            "desc": ""
+        },
+        {
+            "hash": 2590614462,
+            "original": "Hold ~INPUT_VEH_HEADLIGHT~ while racing for a NOS speed boost.",
+            "translated": "比赛时按住~INPUT_VEH_HEADLIGHT~使用液氮加速。",
+            "desc": ""
+        },
+        {
+            "hash": 3031078183,
+            "original": "1",
+            "translated": "1",
+            "desc": ""
+        },
+        {
+            "hash": 3141343306,
+            "original": "Get back on the bike.",
+            "translated": "快回到摩托车上。",
+            "desc": ""
+        },
+        {
+            "hash": 3144861543,
+            "original": "Go",
+            "translated": "出发",
+            "desc": ""
+        },
+        {
+            "hash": 3164946146,
+            "original": "Press a key to choose a Brooklyn race.~n~1. Test",
+            "translated": "按下对应的按键选择~n~1. 布鲁克林竞速比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 3225796907,
+            "original": "9th",
+            "translated": "第9名",
+            "desc": ""
+        },
+        {
+            "hash": 3301572038,
+            "original": "Go to the ~y~start line.",
+            "translated": "~s~到~y~起点~s~准备。",
+            "desc": ""
+        },
+        {
+            "hash": 3399057995,
+            "original": "1st",
+            "translated": "第1名",
+            "desc": ""
+        },
+        {
+            "hash": 3462271354,
+            "original": "5th",
+            "translated": "第5名",
+            "desc": ""
+        },
+        {
+            "hash": 3656807659,
+            "original": "Press a key to choose a race type.~n~1. Manhatten Race ~n~2. Helicopter ~n~ 3. Boat ~n~4. Quadathlon ~n~5. Triathlon",
+            "translated": "按下对应的按键选择比赛类型。~n~1. 曼哈顿比赛 ~n~2. 直升飞机 ~n~ 3. 快艇 ~n~4. 铁人四项 ~n~5. 铁人三项",
+            "desc": ""
+        },
+        {
+            "hash": 3794329458,
+            "original": "8th",
+            "translated": "第8名",
+            "desc": ""
+        },
+        {
+            "hash": 4142202597,
+            "original": "Line up your bike.",
+            "translated": "进入起跑队列。",
+            "desc": ""
+        },
+        {
+            "hash": 4210132934,
+            "original": "Get a suitable bike.",
+            "translated": "找一辆合适的摩托车。",
+            "desc": ""
+        },
+        {
+            "hash": 4291641408,
+            "original": "Press a key to choose a race type.~n~1. Manhatten ~n~2. Jersey ~n~ 3. Brooklyn ~n~",
+            "translated": "按下对应的按键选择比赛类型。~n~1. 曼哈顿 ~n~2. 新泽西 ~n~ 3. 布鲁克林 ~n~",
+            "desc": ""
+        }
+    ]
+}

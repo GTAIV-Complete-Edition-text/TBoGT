@@ -1,0 +1,88 @@
+{
+    "RBULG4": [
+        {
+            "hash": 453460956,
+            "original": "Take out the ~r~snipers.~s~",
+            "translated": "干掉~r~狙击手。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 821500422,
+            "original": "~r~You are out of sniper rifle ammo.",
+            "translated": "~r~你耗尽了狙击枪的子弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1179463620,
+            "original": "Killed ~1~ of ~1~ snipers.",
+            "translated": "已杀死~1~个狙击手，共有~1~个。",
+            "desc": ""
+        },
+        {
+            "hash": 1459108369,
+            "original": "More assassins have arrived. Find a way off the ~y~roof.",
+            "translated": "更多杀手来了。设法离开~y~屋顶。",
+            "desc": ""
+        },
+        {
+            "hash": 1808000799,
+            "original": "The snipers will be marked when they fire a shot. Try to pinpoint their location and take them out.",
+            "translated": "狙击手开火时，其位置会在地图上标记。试着进行定位，然后干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2278644662,
+            "original": "Go to the ~y~building ~s~and protect Timur.",
+            "translated": "前往~y~目标建筑~s~保护Timur。",
+            "desc": ""
+        },
+        {
+            "hash": 2521819189,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 2884706583,
+            "original": "Mission passed phonecall.",
+            "translated": "任务通过电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2956692501,
+            "original": "~r~You failed to kill the snipers.~s~",
+            "translated": "~r~你没能杀死所有狙击手。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3039278690,
+            "original": "Go and collect the ~g~sniper rifle.~s~",
+            "translated": "拾取~g~狙击步枪。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3082851293,
+            "original": "Go into the ~y~building.",
+            "translated": "进入~y~目标建筑。",
+            "desc": ""
+        },
+        {
+            "hash": 3209133968,
+            "original": "The building is on fire. Find another escape route then leave the area.",
+            "translated": "建筑物着火了。找另一条逃离路线并离开这一带。",
+            "desc": ""
+        },
+        {
+            "hash": 3552624328,
+            "original": "Leave the area.",
+            "translated": "离开这一带。",
+            "desc": ""
+        },
+        {
+            "hash": 3907369597,
+            "original": "~s~Get back to the ~y~building.",
+            "translated": "~s~回到~y~目标建筑~s~上。",
+            "desc": ""
+        }
+    ]
+}

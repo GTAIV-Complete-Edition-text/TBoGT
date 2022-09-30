@@ -1,0 +1,100 @@
+{
+    "CLBPRC5": [
+        {
+            "hash": 180070791,
+            "original": "Go and meet ~b~Cloe Parker.",
+            "translated": "去找~b~Cloe Parker。",
+            "desc": ""
+        },
+        {
+            "hash": 396542805,
+            "original": "~r~You abandoned Cloe Parker.",
+            "translated": "~r~你抛弃了Cloe Parker。",
+            "desc": ""
+        },
+        {
+            "hash": 645161208,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1053758055,
+            "original": "Go to Cloe's ~b~car.",
+            "translated": "前往~b~Cloe的车~s~的所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1613255961,
+            "original": "~r~Cloe got hurt.",
+            "translated": "~r~Cloe受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2074937424,
+            "original": "Get back in ~b~Cloe's car.",
+            "translated": "回到~b~Cloe的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2080643515,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around and check for trouble.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周有无状况。",
+            "desc": ""
+        },
+        {
+            "hash": 2563424907,
+            "original": "Wait for ~b~Cloe~s~ to get in the car.",
+            "translated": "等待~b~Cloe~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 2626934743,
+            "original": "~r~You made Cloe sick.",
+            "translated": "~r~你恶心到了Cloe。",
+            "desc": ""
+        },
+        {
+            "hash": 2642726869,
+            "original": "~r~You wrecked Cloe's car.",
+            "translated": "~r~你毁掉了Cloe的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3062890005,
+            "original": "~r~You hurt Dessie.",
+            "translated": "~r~你伤害了Dessie。",
+            "desc": ""
+        },
+        {
+            "hash": 3305381397,
+            "original": "You left ~b~Cloe Parker~s~ behind.",
+            "translated": "你把~b~Cloe Parker~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 3310918566,
+            "original": "~r~You hurt Troy.",
+            "translated": "~r~你伤害了Troy。",
+            "desc": ""
+        },
+        {
+            "hash": 3543316314,
+            "original": "~r~Club management failed.",
+            "translated": "~r~夜店经营任务失败",
+            "desc": ""
+        },
+        {
+            "hash": 4082236080,
+            "original": "Go to ~y~Maisonette 9.",
+            "translated": "前往~y~9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 4163732587,
+            "original": "Go to ~y~Cloe's mansion.",
+            "translated": "前往~y~Cloe的家。",
+            "desc": ""
+        }
+    ]
+}

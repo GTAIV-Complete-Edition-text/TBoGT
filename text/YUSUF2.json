@@ -1,0 +1,136 @@
+{
+    "YUSUF2": [
+        {
+            "hash": 61668932,
+            "original": "~r~You missed the meet.",
+            "translated": "~r~你错过了会面。",
+            "desc": ""
+        },
+        {
+            "hash": 378938394,
+            "original": "~r~You killed Tahir.",
+            "translated": "~r~你杀了Tahir。",
+            "desc": ""
+        },
+        {
+            "hash": 383837987,
+            "original": "~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster.",
+            "translated": "~s~爬梯子时按住~INPUT_SPRINT~可以爬得更快。",
+            "desc": ""
+        },
+        {
+            "hash": 471159127,
+            "original": "~s~Go and meet ~b~Ahmed.",
+            "translated": "~s~去找~b~Ahmed。",
+            "desc": ""
+        },
+        {
+            "hash": 545189410,
+            "original": "~s~Take the ~y~elevator ~s~to the top of the tower.",
+            "translated": "~s~使用~y~电梯~s~上到顶层。",
+            "desc": ""
+        },
+        {
+            "hash": 688408830,
+            "original": "~r~Yusuf died.",
+            "translated": "~r~Yusuf死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1222116587,
+            "original": "~s~You have the parachute, now jump off the building.",
+            "translated": "~s~你已获得降落伞，跳伞离开大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 1237656113,
+            "original": "Chase ~b~Ahmed ~s~up the Tower.",
+            "translated": "在塔顶追逐~b~Ahmed。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1361246601,
+            "original": "~s~You have left ~b~Yusuf.",
+            "translated": "~s~你把~b~Yusuf~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 1755642639,
+            "original": "~s~Return to ~b~Yusuf's car.",
+            "translated": "~s~回到~b~Yusuf的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2196071355,
+            "original": "~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster.",
+            "translated": "~s~爬梯子时按住~INPUT_SPRINT~可以爬得更快。",
+            "desc": ""
+        },
+        {
+            "hash": 2238710220,
+            "original": "~r~You abandoned Yusuf.",
+            "translated": "~r~你抛弃了Yusuf。",
+            "desc": ""
+        },
+        {
+            "hash": 2528814177,
+            "original": "~r~You killed Ahmed.",
+            "translated": "~r~你杀死了Ahmed。",
+            "desc": ""
+        },
+        {
+            "hash": 2798442913,
+            "original": "When airborne use ~PAD_LSTICK_ALL~ to move. In freefall press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.",
+            "translated": "用~PAD_LSTICK_ALL~在空中移动。~n~下落时按~INPUT_MOUSE_LMB~打开降落伞。~n~按住~INPUT_NEXT_CAMERA~查看不同视角。",
+            "desc": ""
+        },
+        {
+            "hash": 3179994833,
+            "original": "When airborne use ~PAD_LSTICK_ALL~ to move. In freefall press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.",
+            "translated": "用~PAD_LSTICK_ALL~在空中移动。~n~下落时按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。",
+            "desc": ""
+        },
+        {
+            "hash": 3737333998,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3823670310,
+            "original": "~s~Go to ~y~Rotterdam Tower.",
+            "translated": "~s~前往~y~鹿特丹塔。",
+            "desc": ""
+        },
+        {
+            "hash": 3876916262,
+            "original": "~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.",
+            "translated": "~s~按~INPUT_ENTER~登上梯子，用~PAD_LSTICK_UPDOWN~在梯子上攀爬。",
+            "desc": ""
+        },
+        {
+            "hash": 3887346467,
+            "original": "Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes.~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.",
+            "translated": "用~PAD_LSTICK_ALL~控制身体重心。~n~按~INPUT_AIM~或~INPUT_ATTACK~进行急转。~n~按~INPUT_ENTER~脱离降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。",
+            "desc": ""
+        },
+        {
+            "hash": 4005606475,
+            "original": "~s~Get into ~b~Yusuf's car.",
+            "translated": "~s~进入~b~Yusuf的车。",
+            "desc": ""
+        },
+        {
+            "hash": 4021501887,
+            "original": "While using a parachute, an altimeter will appear over the radar. This indicates your height above sea level.",
+            "translated": "使用降落伞时，小地图上会显示高度计，指示当前的海拔高度。",
+            "desc": ""
+        },
+        {
+            "hash": 4059519705,
+            "original": "~r~Yusuf's car was wrecked.",
+            "translated": "~r~Yusuf的车被毁了。",
+            "desc": ""
+        }
+    ]
+}

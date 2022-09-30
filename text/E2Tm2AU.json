@@ -1,0 +1,1018 @@
+{
+    "E2Tm2AU": [
+        {
+            "hash": 1701131,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 5306691,
+            "original": "E2Tm2_TA",
+            "translated": "E2Tm2_TA",
+            "desc": ""
+        },
+        {
+            "hash": 7441665,
+            "original": "E2Tm2_XD",
+            "translated": "E2Tm2_XD",
+            "desc": ""
+        },
+        {
+            "hash": 16163556,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 23287793,
+            "original": "E2Tm1_FA",
+            "translated": "E2Tm1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 32728498,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 71864142,
+            "original": "~z~Tony's fine. It's that Kerry McIntosh - she's demanding some takeout from the Iron Belly in Bohan.",
+            "translated": "~z~Tony很好，是那位Kerry McIntosh。她需要Iron Belly的外卖，店在Bohan。",
+            "desc": ""
+        },
+        {
+            "hash": 74396792,
+            "original": "E2Tm2_SD",
+            "translated": "E2Tm2_SD",
+            "desc": ""
+        },
+        {
+            "hash": 160480579,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 183321808,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 190554129,
+            "original": "~z~Finally. Miss McIntosh has been asking about you, boss.",
+            "translated": "~z~终于啊。McIntosh小姐一直在找你，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 236709245,
+            "original": "~z~Hi there. This is Danni, Miss McIntosh's assistant.",
+            "translated": "~z~你好啊。我是Danni，McIntosh小姐的助理。",
+            "desc": ""
+        },
+        {
+            "hash": 255736503,
+            "original": "E2Tm1_JA",
+            "translated": "E2Tm1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 263237603,
+            "original": "E2Tm2_SA1",
+            "translated": "E2Tm2_SA1",
+            "desc": ""
+        },
+        {
+            "hash": 264989478,
+            "original": "~z~This thing ain't happening, D . We ran into an issue.",
+            "translated": "~z~事情解决不了了，D。这里出问题了。",
+            "desc": ""
+        },
+        {
+            "hash": 268928377,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 310222536,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 371079410,
+            "original": "E2Tm2_XC",
+            "translated": "E2Tm2_XC",
+            "desc": ""
+        },
+        {
+            "hash": 372439309,
+            "original": "~z~Reluctant as I may be, I am that guy. Tell your boss to hold on and it'll get there.",
+            "translated": "~z~也许我会不情愿，但我就是这种人。告诉你的老板等着，外卖会到她手上的。",
+            "desc": ""
+        },
+        {
+            "hash": 400938645,
+            "original": "E2Tm2_SB",
+            "translated": "E2Tm2_SB",
+            "desc": ""
+        },
+        {
+            "hash": 489284126,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 525549486,
+            "original": "~z~I'm running for food that I know she's gonna throw up. Shit.",
+            "translated": "~z~我去拿的外卖，是她一定会吐掉的东西。妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 565497027,
+            "original": "~z~Thanks for coming, L. Give me a club full of queens over that McIntosh girl any day.",
+            "translated": "~z~多谢你帮忙，L。我这儿既有一堆基佬又有McIntosh这种麻烦鬼。",
+            "desc": ""
+        },
+        {
+            "hash": 790541362,
+            "original": "~z~Come back to the Maisonette when you got a minute.",
+            "translated": "~z~有时间就回豪宅看看吧。",
+            "desc": ""
+        },
+        {
+            "hash": 863495599,
+            "original": "100090100090100010010",
+            "translated": "100090100090100010010",
+            "desc": ""
+        },
+        {
+            "hash": 887534139,
+            "original": "010090100100090010",
+            "translated": "010090100100090010",
+            "desc": ""
+        },
+        {
+            "hash": 904066319,
+            "original": "SFX_Pause_250",
+            "translated": "SFX_Pause_250",
+            "desc": ""
+        },
+        {
+            "hash": 916681588,
+            "original": "~z~Hey bro, things got weird on that thing I was dealing with. I'm gonna lay low for a while.",
+            "translated": "~z~嘿兄弟。这次的事不太对劲。我要避会儿风头了。",
+            "desc": ""
+        },
+        {
+            "hash": 928684965,
+            "original": "~z~Hey, Danni again. Listen, thank you so super much for going out to Bohan for Kerry,",
+            "translated": "~z~嘿，又是我Danni。听着，超级感谢你从Bohan拿外卖给Kerry，",
+            "desc": ""
+        },
+        {
+            "hash": 975320037,
+            "original": "010090100090010100",
+            "translated": "010090100090010100",
+            "desc": ""
+        },
+        {
+            "hash": 977376531,
+            "original": "E2Tm2_OC",
+            "translated": "E2Tm2_OC",
+            "desc": ""
+        },
+        {
+            "hash": 1021693178,
+            "original": "E2Tm2_UB",
+            "translated": "E2Tm2_UB",
+            "desc": ""
+        },
+        {
+            "hash": 1051766723,
+            "original": "290",
+            "translated": "290",
+            "desc": ""
+        },
+        {
+            "hash": 1051821552,
+            "original": "E2Tm2_XA",
+            "translated": "E2Tm2_XA",
+            "desc": ""
+        },
+        {
+            "hash": 1056277528,
+            "original": "~z~Okay, boss. Anyone asks, I ain't seen you.",
+            "translated": "~z~好的，老板。有人问起来我就说没见过你。",
+            "desc": ""
+        },
+        {
+            "hash": 1112589848,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1213731500,
+            "original": "100010090100090100090010",
+            "translated": "100010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1219540614,
+            "original": "~z~I have here order for woman. We make it smooth so she can throw up easily.",
+            "translated": "~z~这是那位女士的订单。我们特意做软了，方便她之后催吐。",
+            "desc": ""
+        },
+        {
+            "hash": 1233796066,
+            "original": "E2Tm2_QA2",
+            "translated": "E2Tm2_QA2",
+            "desc": ""
+        },
+        {
+            "hash": 1263543340,
+            "original": "100090100090010",
+            "translated": "100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1265507736,
+            "original": "~z~Tony treats these fucking supermodel chicks too fucking well. Damn. I'll do it. I'll do it.",
+            "translated": "~z~Tony对这些超模小妞也太好了吧。他妈的，我去拿吧，我去拿。",
+            "desc": ""
+        },
+        {
+            "hash": 1284142325,
+            "original": "E2Tm2_PB",
+            "translated": "E2Tm2_PB",
+            "desc": ""
+        },
+        {
+            "hash": 1407322194,
+            "original": "E2Tm2_UD",
+            "translated": "E2Tm2_UD",
+            "desc": ""
+        },
+        {
+            "hash": 1425236179,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 1447835235,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 1508641232,
+            "original": "~z~Remind me to avoid promotion at all costs, L. You the one who got to do all the shit jobs.",
+            "translated": "~z~记得提醒我尽量不要升职，L。这些破事都要找你来干。",
+            "desc": ""
+        },
+        {
+            "hash": 1531741980,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 1545067139,
+            "original": "E2Tm2_OB",
+            "translated": "E2Tm2_OB",
+            "desc": ""
+        },
+        {
+            "hash": 1610925765,
+            "original": "~z~What is it? Tony okay?",
+            "translated": "~z~怎么了？Tony还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1613164195,
+            "original": "E2Tm2_QC",
+            "translated": "E2Tm2_QC",
+            "desc": ""
+        },
+        {
+            "hash": 1613869388,
+            "original": "E2Tm1_GB",
+            "translated": "E2Tm1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1636087191,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1651114207,
+            "original": "~z~Hiya. I know you're coming, like, as superfast as you possibly can,",
+            "translated": "~z~你好啊。我知道你在路上了，也已经尽快赶过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1654788606,
+            "original": "~z~I do so hate to be a pain, but is there any news on that food order?",
+            "translated": "~z~我知道被催会很痛苦，但有食物点单的新消息了嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 1657631358,
+            "original": "~z~but you took a little bit too long.",
+            "translated": "~z~但你花的时间有点长了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1675720862,
+            "original": "E2Tm2_TD",
+            "translated": "E2Tm2_TD",
+            "desc": ""
+        },
+        {
+            "hash": 1736834280,
+            "original": "E2Tm2_SC",
+            "translated": "E2Tm2_SC",
+            "desc": ""
+        },
+        {
+            "hash": 1737687507,
+            "original": "~z~Shit boss, I take it things didn't go too good. Go chill out. We'll talk soon.",
+            "translated": "~z~妈的，老板，这事不对劲啊。最近避避风头，咱晚点聊。",
+            "desc": ""
+        },
+        {
+            "hash": 1741828343,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1800461758,
+            "original": "E2Tm2_MD",
+            "translated": "E2Tm2_MD",
+            "desc": ""
+        },
+        {
+            "hash": 1854910910,
+            "original": "E2Tm1_IA",
+            "translated": "E2Tm1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 1864520242,
+            "original": "E2Tm2_MA",
+            "translated": "E2Tm2_MA",
+            "desc": ""
+        },
+        {
+            "hash": 1869854065,
+            "original": "E2Tm2_UA",
+            "translated": "E2Tm2_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1897485946,
+            "original": "E2Tm2_TC1",
+            "translated": "E2Tm2_TC1",
+            "desc": ""
+        },
+        {
+            "hash": 1925060451,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1932277520,
+            "original": "E2Tm2_PA2",
+            "translated": "E2Tm2_PA2",
+            "desc": ""
+        },
+        {
+            "hash": 1953412503,
+            "original": "~z~I'm sorry, I don't have this number in my phone. Who is it?",
+            "translated": "~z~抱歉，我手机没存这个号码。你是谁？",
+            "desc": ""
+        },
+        {
+            "hash": 1968125893,
+            "original": "E2Tm2_RD",
+            "translated": "E2Tm2_RD",
+            "desc": ""
+        },
+        {
+            "hash": 2045525387,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2064777084,
+            "original": "~z~Boss, you think you could mention about my singing to Miss McIntosh?",
+            "translated": "~z~老板，你能在McIntosh小姐面前夸夸我的歌声吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2128008101,
+            "original": "~z~Ain't that right, D. Management is for morons.",
+            "translated": "~z~可不是嘛，D。管理岗就是白痴做的。",
+            "desc": ""
+        },
+        {
+            "hash": 2154942583,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 2184419488,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2201174198,
+            "original": "E2Tm1_HA",
+            "translated": "E2Tm1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2207126876,
+            "original": "~z~Tell her to chill out. She must be used to hunger pangs.",
+            "translated": "~z~让她忍着点。她应该习惯了这种突然犯饿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2245605525,
+            "original": "~z~Kerry wanted to eat something, like, right away so she had to send someone else to this amazing little pizzeria in Alderney.",
+            "translated": "~z~Kerry现在就想吃点什么，所以她又找人去Alderney的披萨店拿外卖了。",
+            "desc": ""
+        },
+        {
+            "hash": 2297468140,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2317093615,
+            "original": "E2Tm2_TB",
+            "translated": "E2Tm2_TB",
+            "desc": ""
+        },
+        {
+            "hash": 2318044128,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 2373655445,
+            "original": "E2Tm2_OA",
+            "translated": "E2Tm2_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2407038235,
+            "original": "~z~Hi again. Kerry's starting to get kind of antsy.",
+            "translated": "~z~你好啊。Kerry已经有点等不及了。",
+            "desc": ""
+        },
+        {
+            "hash": 2450884015,
+            "original": "~z~She's got this super strong craving for pizza, and she sent someone else out to Alderney to get it.",
+            "translated": "~z~她现在很想吃个披萨，所以她派别人去Alderney拿了。",
+            "desc": ""
+        },
+        {
+            "hash": 2461530416,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 2478014457,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 2486409034,
+            "original": "~z~I do so hate to be a pain, but is there any news on that food order?",
+            "translated": "~z~我也不想一直催，但那份外卖有什么进展吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2504582404,
+            "original": "100090100090100090100090010",
+            "translated": "100090100090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2532050244,
+            "original": "E2Tm1_FB",
+            "translated": "E2Tm1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 2548530312,
+            "original": "~z~Hey, it's Danni on behalf of Kerry McIntosh.",
+            "translated": "~z~嗨，我是Danni，代表Kerry McIntosh联系你的。",
+            "desc": ""
+        },
+        {
+            "hash": 2584142064,
+            "original": "~z~Sorry again and thank you so much.",
+            "translated": "~z~再次抱歉，非常感谢。",
+            "desc": ""
+        },
+        {
+            "hash": 2623233554,
+            "original": "~z~Here's the food. I don't know why she make us make it every night when all she does is throw it up.",
+            "translated": "~z~她的外卖。她明明吃一次吐一次，怎么还要点这个。",
+            "desc": ""
+        },
+        {
+            "hash": 2646788549,
+            "original": "~z~We're doing fine. We just love running errands. There's only so fast a man can get from Bohan to Westminster.",
+            "translated": "~z~目前一切顺利，我们就喜欢跑腿。从Bohan到Westminster没法更快了。",
+            "desc": ""
+        },
+        {
+            "hash": 2650193143,
+            "original": "~z~I don't know why I bother, Dess. This girl is bulimic for sure. Serious puker.",
+            "translated": "~z~感觉都没必要，Dess，这姑娘太能吃了吧。还在催吐减肥。",
+            "desc": ""
+        },
+        {
+            "hash": 2672492956,
+            "original": "E2Tm2_RA1",
+            "translated": "E2Tm2_RA1",
+            "desc": ""
+        },
+        {
+            "hash": 2679794309,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2707422926,
+            "original": "~z~but Kerry's kind of having a serious freak out here.",
+            "translated": "~z~但Kerry已经在店里气炸了。",
+            "desc": ""
+        },
+        {
+            "hash": 2761452247,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 2795853850,
+            "original": "E2Tm2_XB",
+            "translated": "E2Tm2_XB",
+            "desc": ""
+        },
+        {
+            "hash": 2801554611,
+            "original": "~z~We don't got no one else who can pick it up.",
+            "translated": "~z~我们这里没有人手帮她拿外卖。",
+            "desc": ""
+        },
+        {
+            "hash": 2870092209,
+            "original": "~z~I hope it's nothing serious, boss. You take care.",
+            "translated": "~z~希望没出大事，老板。你多保重。",
+            "desc": ""
+        },
+        {
+            "hash": 2881601781,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2884573928,
+            "original": "E2Tm2_KA",
+            "translated": "E2Tm2_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2894733911,
+            "original": "~z~I've been asked to follow up on the whereabouts of her food order. I'm told you're in charge of it.",
+            "translated": "~z~她要我跟进她的外卖到哪里了。听说这单是你在送。",
+            "desc": ""
+        },
+        {
+            "hash": 2982538755,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 2986581002,
+            "original": "E2Tm1_HB",
+            "translated": "E2Tm1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 3034297473,
+            "original": "E2Tm2_RC",
+            "translated": "E2Tm2_RC",
+            "desc": ""
+        },
+        {
+            "hash": 3045212411,
+            "original": "~z~Kerry's got her takeout, D.",
+            "translated": "~z~Kerry的外卖到了，D。",
+            "desc": ""
+        },
+        {
+            "hash": 3056930912,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3083296369,
+            "original": "~z~The news is I'm bringing it as fast as I can. It'll get to you when it gets to you.",
+            "translated": "~z~进展是，我已经尽快赶回来了。我一到就拿给你。",
+            "desc": ""
+        },
+        {
+            "hash": 3094874228,
+            "original": "E2Tm2_NC",
+            "translated": "E2Tm2_NC",
+            "desc": ""
+        },
+        {
+            "hash": 3106007624,
+            "original": "E2Tm2_MC",
+            "translated": "E2Tm2_MC",
+            "desc": ""
+        },
+        {
+            "hash": 3116450084,
+            "original": "E2Tm1_IB",
+            "translated": "E2Tm1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3120763526,
+            "original": "E2Tm1_JB",
+            "translated": "E2Tm1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 3134974842,
+            "original": "E2Tm2_LA",
+            "translated": "E2Tm2_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3158935250,
+            "original": "~z~Hi there. Danni again. Miss McIntosh wanted me to chase up that order. How are we doing?",
+            "translated": "~z~你好啊，又是我Danni。McIntosh小姐要我跟进她的外卖，情况还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3183196037,
+            "original": "~z~She's like \"where the fuck is my fucking food?\" She gets kind of, like, cranky if she doesn't eat. Comprende?",
+            "translated": "~z~她在说「老娘的外卖他妈在哪呢？」她不吃东西就会有些...暴躁。了解？",
+            "desc": ""
+        },
+        {
+            "hash": 3194871391,
+            "original": "~z~I really hope that you didn't go out of your way.",
+            "translated": "~z~真心希望你没有费太多力气。",
+            "desc": ""
+        },
+        {
+            "hash": 3195447771,
+            "original": "~z~Fuck this shit.",
+            "translated": "~z~去你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 3217693958,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3239653874,
+            "original": "E2Tm2_QB",
+            "translated": "E2Tm2_QB",
+            "desc": ""
+        },
+        {
+            "hash": 3260115706,
+            "original": "E2Tm1_GA",
+            "translated": "E2Tm1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3272327207,
+            "original": "E2Tm2_QD",
+            "translated": "E2Tm2_QD",
+            "desc": ""
+        },
+        {
+            "hash": 3318892466,
+            "original": "~z~Really? She must be one cranky bitch then, 'cause I seen photos of her, and she don't eat much at all.",
+            "translated": "~z~是吗？那她平常也很暴躁吧。我看过她的照片，她不像是吃得很多的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3345345781,
+            "original": "~z~When's it going to be here?",
+            "translated": "~z~多久能送到？",
+            "desc": ""
+        },
+        {
+            "hash": 3365532343,
+            "original": "~z~Kerry had kind of a change of mind.",
+            "translated": "~z~Kerry突然改主意了。",
+            "desc": ""
+        },
+        {
+            "hash": 3368467148,
+            "original": "E2Tm2_SA2",
+            "translated": "E2Tm2_SA2",
+            "desc": ""
+        },
+        {
+            "hash": 3399077575,
+            "original": "E2Tm2_VA",
+            "translated": "E2Tm2_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3401758819,
+            "original": "~z~Things ain't exactly gone to plan here, Dess. You know what I mean?",
+            "translated": "~z~这边事情不太顺利，Dess。懂我意思吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3413210400,
+            "original": "~z~There's no way she gonna starve to death in the couple of minutes it takes me to get this foul smelling shit to her. Chill out.",
+            "translated": "~z~这份难闻的外卖晚几分钟到，她也不会饿死的。再忍忍吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3421876845,
+            "original": "010090100090100090010",
+            "translated": "010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3451456588,
+            "original": "~z~Yo, D. Shit kinda fucked up here, man. Can you cover for me?",
+            "translated": "~z~哟，D。事情有点搞砸了，哥们。你能帮我瞒过去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3464720512,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 3477239266,
+            "original": "E2Tm2_RA2",
+            "translated": "E2Tm2_RA2",
+            "desc": ""
+        },
+        {
+            "hash": 3514906974,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 3540190402,
+            "original": "E2Tm2_UE",
+            "translated": "E2Tm2_UE",
+            "desc": ""
+        },
+        {
+            "hash": 3574957000,
+            "original": "E2Tm2_RB",
+            "translated": "E2Tm2_RB",
+            "desc": ""
+        },
+        {
+            "hash": 3578364405,
+            "original": "E2Tm2_PA1",
+            "translated": "E2Tm2_PA1",
+            "desc": ""
+        },
+        {
+            "hash": 3587027766,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 3599665990,
+            "original": "~z~It's coming, okay! I mean, I seen photos of Kerry, and I know she don't eat for months at a time. She looks like a famine victim.",
+            "translated": "~z~马上就到，好吧！我是说，我看过Kerry的照片，也知道她隔几个月就绝食减重。她看起来像个饥荒难民。",
+            "desc": ""
+        },
+        {
+            "hash": 3599701240,
+            "original": "E2Tm2_WA",
+            "translated": "E2Tm2_WA",
+            "desc": ""
+        },
+        {
+            "hash": 3601416069,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 3612704719,
+            "original": "E2Tm2_UC",
+            "translated": "E2Tm2_UC",
+            "desc": ""
+        },
+        {
+            "hash": 3723761321,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3757196962,
+            "original": "~z~Hold up, L. We got an urgent request from Hercules.",
+            "translated": "~z~暂停工作，L。大力神那边有紧急状况。",
+            "desc": ""
+        },
+        {
+            "hash": 3770640737,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 3774072995,
+            "original": "E2Tm2_NA",
+            "translated": "E2Tm2_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3796539211,
+            "original": "~z~You gonna bring me takeout, too?",
+            "translated": "~z~能给我也带一份吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3802628444,
+            "original": "~z~This food is coming to her as fast as it can, you passive aggressive nightmare. Conyo!",
+            "translated": "~z~外卖已经尽快给她送过来了，暴脾气的传话太监。操了！",
+            "desc": ""
+        },
+        {
+            "hash": 3839535070,
+            "original": "~z~She's, like, super hungry and really needs that takeout.",
+            "translated": "~z~她现在非常饿，很需要那份外卖。",
+            "desc": ""
+        },
+        {
+            "hash": 3844975582,
+            "original": "~z~Oh hi. Danni again. Look I really hope that you aren't still trying to get that stuff from Iron Belly.",
+            "translated": "~z~噢嗨，又是我Danni。希望你现在没在送Iron Belly的那份外卖。",
+            "desc": ""
+        },
+        {
+            "hash": 3847713162,
+            "original": "100090100090100100090010",
+            "translated": "100090100090100100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3855558240,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3867071633,
+            "original": "E2Tm2_PA2",
+            "translated": "E2Tm2_PA2",
+            "desc": ""
+        },
+        {
+            "hash": 3868202857,
+            "original": "100090100090100010090010",
+            "translated": "100090100090100010090010",
+            "desc": ""
+        },
+        {
+            "hash": 3908007100,
+            "original": "~z~Shit, L. Okay. I'll get on damage control.",
+            "translated": "~z~妈的，L。好吧，止损的事我来。",
+            "desc": ""
+        },
+        {
+            "hash": 3978054418,
+            "original": "~z~No problem, boss.",
+            "translated": "~z~没问题，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 3987231112,
+            "original": "E2Tm2_MB",
+            "translated": "E2Tm2_MB",
+            "desc": ""
+        },
+        {
+            "hash": 3993806487,
+            "original": "~z~Yeah. I've got it right here. If she can hold on tight, it's coming.",
+            "translated": "~z~对，外卖在我手上。再等一会儿就能送到了。",
+            "desc": ""
+        },
+        {
+            "hash": 4011380015,
+            "original": "~z~Hey, it's Danni on behalf of Kerry McIntosh.",
+            "translated": "~z~嘿，我是Danni，代表Kerry McIntosh联系你。",
+            "desc": ""
+        },
+        {
+            "hash": 4026414156,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 4036965364,
+            "original": "~z~Have fun on the food run, boss.",
+            "translated": "~z~外卖接单一路顺风，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 4055298233,
+            "original": "E2Tm2_PA1",
+            "translated": "E2Tm2_PA1",
+            "desc": ""
+        },
+        {
+            "hash": 4059547010,
+            "original": "~z~No, girl, I didn't go out my way at all. Thanks for letting me know. Fucking perfect!",
+            "translated": "~z~没有，姑娘。我一点力气都没费，感谢你让我知道。太他妈好了！",
+            "desc": ""
+        },
+        {
+            "hash": 4059596316,
+            "original": "E2Tm2_QA1",
+            "translated": "E2Tm2_QA1",
+            "desc": ""
+        },
+        {
+            "hash": 4096799142,
+            "original": "~z~Hello. Who is this?",
+            "translated": "~z~你好，你哪位？",
+            "desc": ""
+        },
+        {
+            "hash": 4118653573,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 4198680213,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 4244286628,
+            "original": "~z~Coño. I knew I shouldn't have gone on that run, bro.",
+            "translated": "~z~妈的，我就知道不该跑这趟的。",
+            "desc": ""
+        },
+        {
+            "hash": 4260327792,
+            "original": "E2Tm2_TC2",
+            "translated": "E2Tm2_TC2",
+            "desc": ""
+        },
+        {
+            "hash": 4271310677,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "RAN2": [
+        {
+            "hash": 104205119,
+            "original": "~r~You were meant to dump the car in the river.~s~",
+            "translated": "~r~你应该把车开进河里。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 399476080,
+            "original": "PLACEHOLDER MOCAP~n~Louis's ex-girlfriend turns out to be crazy.~n~She thinks Louis is cheating on her~n~and has planted a car bomb in the women's car.~n~Player must deal with the bomb.",
+            "translated": "PLACEHOLDER MOCAP~n~Louis的前女友已经疯了。~n~她觉得Louis劈腿了~n~并在那个女人的车上装了一枚汽车炸弹~n~玩家需将这枚炸弹料理妥当。",
+            "desc": ""
+        },
+        {
+            "hash": 639050239,
+            "original": "PLACEHOLDER CUTSCENE~n~As the player steals the car~n~the cops arrive on the scene~n~and the bomb activates.",
+            "translated": "PLACEHOLDER CUTSCENE~n~当玩家在偷窃这辆车的时候~n~警察抵达了现场~n~炸弹也被激活了。",
+            "desc": ""
+        },
+        {
+            "hash": 693457277,
+            "original": "~r~The car has been destroyed.~s~",
+            "translated": "~r~汽车已被损毁。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 997717442,
+            "original": "~s~Lose the cops.~s~",
+            "translated": "~s~甩掉警察。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1286740022,
+            "original": "~s~Get back in the ~b~car.~s~",
+            "translated": "~s~回到~b~车~s~里。",
+            "desc": ""
+        },
+        {
+            "hash": 1546190702,
+            "original": "Leaving the car, damaging it badly or running out of time will detonate the bomb.",
+            "translated": "离开车辆，严重损毁或静待至倒计时结束均可引爆炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1594735853,
+            "original": "Dump the car in the river before it explodes.",
+            "translated": "在车爆炸前把它开进河里。",
+            "desc": ""
+        },
+        {
+            "hash": 1647100715,
+            "original": "Dump the car in the river before it explodes.",
+            "translated": "在车爆炸前把它开进河里。",
+            "desc": ""
+        },
+        {
+            "hash": 1954637780,
+            "original": "Get to the ~b~car~s~ before the bomb goes off.",
+            "translated": "在炸弹爆炸前上~b~车~s~。",
+            "desc": ""
+        }
+    ]
+}

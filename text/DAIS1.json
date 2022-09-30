@@ -1,0 +1,100 @@
+{
+    "DAIS1": [
+        {
+            "hash": 314744214,
+            "original": "~r~You abandoned Daisy.~s~",
+            "translated": "~r~你抛弃了Daisy。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 325118232,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around the area.",
+            "translated": "用~PAD_RSTICK_ALL~环顾四周。",
+            "desc": ""
+        },
+        {
+            "hash": 620872212,
+            "original": "~r~Daisy died.~s~",
+            "translated": "~r~Daisy死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 705550127,
+            "original": "~s~Don't leave ~b~Daisy~s~ behind.",
+            "translated": "~s~别把~b~Daisy~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 918450320,
+            "original": "~s~Lose the cops.~s~",
+            "translated": "~s~甩掉警察。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1284021284,
+            "original": "~s~Get in a vehicle.~s~",
+            "translated": "~s~找一辆载具。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1530280319,
+            "original": "~s~Drive ~y~uptown.~s~",
+            "translated": "~s~前往~y~住宅区。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1642022609,
+            "original": "~s~Go to ~y~Perseus.~s~",
+            "translated": "~s~前往~y~神之子服饰。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1849349213,
+            "original": "~r~Chris has been injured.~s~",
+            "translated": "~r~Chris受伤了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1873142366,
+            "original": "~s~Go to the ~y~Squid Row~s~ restaurant.",
+            "translated": "~s~前往~y~Squid Row~s~餐厅。",
+            "desc": ""
+        },
+        {
+            "hash": 2255753210,
+            "original": "~s~Go to ~y~Star Junction.~s~",
+            "translated": "~s~前往~y~星汇广场。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2274559765,
+            "original": "~r~Chris died.~s~",
+            "translated": "~r~Chris死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2487987113,
+            "original": "~s~Look around for Chris.",
+            "translated": "~s~寻找Chris。",
+            "desc": ""
+        },
+        {
+            "hash": 2580884377,
+            "original": "~r~You took too long to find Chris.~s~",
+            "translated": "~r~你找Chris太久了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3558445105,
+            "original": "~s~Go back to the ~y~Squid Row~s~ restaurant and look for Chris.",
+            "translated": "~s~回~y~Squid Row~s~餐厅寻找Chris。",
+            "desc": ""
+        },
+        {
+            "hash": 3864999100,
+            "original": "~s~Go back to ~y~Perseus~s~ and look for Chris.",
+            "translated": "~s~回~y~神之子服饰~s~寻找Chris。",
+            "desc": ""
+        }
+    ]
+}

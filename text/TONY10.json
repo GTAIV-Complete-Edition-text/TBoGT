@@ -1,0 +1,178 @@
+{
+    "TONY10": [
+        {
+            "hash": 23165291,
+            "original": "Go back to ~y~Pier 45.",
+            "translated": "前往~y~45号码头.",
+            "desc": ""
+        },
+        {
+            "hash": 29753312,
+            "original": "~r~You went too far away from the meet.",
+            "translated": "~r~你离见面地点太远了。",
+            "desc": ""
+        },
+        {
+            "hash": 105285857,
+            "original": "~r~You beached the boat.",
+            "translated": "~r~你的船搁浅了。",
+            "desc": ""
+        },
+        {
+            "hash": 183602319,
+            "original": "~r~You hurt Tony.",
+            "translated": "~r~你伤害了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 226522793,
+            "original": "~r~Tony is dead.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        },
+        {
+            "hash": 390924874,
+            "original": "~r~Gracie is dead.",
+            "translated": "~r~Gracie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 470660207,
+            "original": "~s~Get in ~b~Tony's car.",
+            "translated": "~s~进入~b~Tony的车。",
+            "desc": ""
+        },
+        {
+            "hash": 709020465,
+            "original": "You left ~b~Gracie~s~ and ~b~Tony~s~ behind.",
+            "translated": "你把~b~Gracie~s~和~b~Tony~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 759379510,
+            "original": "~r~The boat was wrecked.",
+            "translated": "~r~船被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 949054838,
+            "original": "~r~You destroyed Tony's car.",
+            "translated": "~r~你毁了Tony的车。",
+            "desc": ""
+        },
+        {
+            "hash": 1024358280,
+            "original": "~r~The boat got stuck.",
+            "translated": "~r~船坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1063049833,
+            "original": "~r~Gracie was injured.",
+            "translated": "~r~Gracie受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 1197935673,
+            "original": "Get back on the ~b~boat.",
+            "translated": "回到~b~船~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1448585754,
+            "original": "Shake the gang member off the back of the boat.",
+            "translated": "甩掉船后的帮派成员。",
+            "desc": ""
+        },
+        {
+            "hash": 1674298626,
+            "original": "~r~Tony's car was wrecked.",
+            "translated": "~r~Tony的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1682318395,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1906401453,
+            "original": "You've left ~b~Tony ~s~behind.",
+            "translated": "你把~b~Tony~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 2053787779,
+            "original": "~r~You put Gracie and Tony at risk.",
+            "translated": "~r~你把Gracie和Tony置于危险之中。",
+            "desc": ""
+        },
+        {
+            "hash": 2444368398,
+            "original": "Get back in the ~b~boat.",
+            "translated": "回到~b~船~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2450882521,
+            "original": "~r~The deal is off.",
+            "translated": "~r~交易吹了。",
+            "desc": ""
+        },
+        {
+            "hash": 2497454178,
+            "original": "Go to ~y~Pier 45.",
+            "translated": "前往~y~45号码头。",
+            "desc": ""
+        },
+        {
+            "hash": 2879802870,
+            "original": "Go to the ~y~Charge Island Sewage Works.",
+            "translated": "前往~y~Charge岛污水处理厂。",
+            "desc": ""
+        },
+        {
+            "hash": 3471643779,
+            "original": "~r~You abandoned Tony.",
+            "translated": "~r~你抛弃了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 3719934492,
+            "original": "You've left ~b~Tony~s~ behind.",
+            "translated": "你把~b~Tony~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 3770883375,
+            "original": "~r~You abandoned Gracie.",
+            "translated": "~r~你抛弃了Gracie。",
+            "desc": ""
+        },
+        {
+            "hash": 3943420524,
+            "original": "~r~You abandonded Tony and Gracie.",
+            "translated": "~r~你抛弃了Tony和Gracie。",
+            "desc": ""
+        },
+        {
+            "hash": 4057251666,
+            "original": "~r~You hurt Gracie.",
+            "translated": "~r~你伤害了Gracie。",
+            "desc": ""
+        },
+        {
+            "hash": 4101496728,
+            "original": "You left ~b~Gracie~s~ behind.",
+            "translated": "你把~b~Gracie~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 4146547191,
+            "original": "~r~Tony was injured.",
+            "translated": "~r~Tony受伤了。",
+            "desc": ""
+        }
+    ]
+}

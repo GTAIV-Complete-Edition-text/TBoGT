@@ -1,0 +1,250 @@
+{
+    "FIGHTC": [
+        {
+            "hash": 59286261,
+            "original": "Here comes a new Challenger.",
+            "translated": "新的挑战者来了。",
+            "desc": ""
+        },
+        {
+            "hash": 145436733,
+            "original": "3rd Round",
+            "translated": "第三轮",
+            "desc": ""
+        },
+        {
+            "hash": 185481541,
+            "original": "Here come new Challengers.",
+            "translated": "新的挑战者来了。",
+            "desc": ""
+        },
+        {
+            "hash": 203953112,
+            "original": "If the crowd sides with you, in can help out in a tight spot.",
+            "translated": "如果观众站在你这边，他们或许能在关键时刻帮到你。",
+            "desc": ""
+        },
+        {
+            "hash": 354325508,
+            "original": "~s~Press ~INPUT_FRONTEND_X~ to compete ~r~-$100~s~.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "~s~按~INPUT_FRONTEND_X~参赛 ~r~-$100~n~~s~按~INPUT_FRONTEND_CANCEL~旁观~n~按~INPUT_PICKUP~退出",
+            "desc": ""
+        },
+        {
+            "hash": 374638563,
+            "original": "~s~Bet costs ~r~$~1~.",
+            "translated": "~s~投注 ~r~$~1~",
+            "desc": ""
+        },
+        {
+            "hash": 507140955,
+            "original": "2nd Round",
+            "translated": "第二轮",
+            "desc": ""
+        },
+        {
+            "hash": 756939042,
+            "original": "5th Round",
+            "translated": "第五轮",
+            "desc": ""
+        },
+        {
+            "hash": 828997250,
+            "original": "~s~Hope you brought your money.",
+            "translated": "~s~希望你带足了钱。",
+            "desc": ""
+        },
+        {
+            "hash": 1063624113,
+            "original": "4th Round",
+            "translated": "第四轮",
+            "desc": ""
+        },
+        {
+            "hash": 1085357929,
+            "original": "~s~Press ~INPUT_FRONTEND_X~ to compete. ~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "~s~按~INPUT_FRONTEND_X~参加比赛~n~按~INPUT_FRONTEND_CANCEL~旁观 ~r~-$50~n~~s~按~INPUT_PICKUP~退出",
+            "desc": ""
+        },
+        {
+            "hash": 1116589364,
+            "original": "The Crowd goes wild.",
+            "translated": "观众们变得疯狂了。",
+            "desc": ""
+        },
+        {
+            "hash": 1156388287,
+            "original": "~s~Well done. You are the L.C. Cage Fighter champion.",
+            "translated": "~s~干得漂亮。你已称霸自由城铁笼格斗。",
+            "desc": ""
+        },
+        {
+            "hash": 1159884823,
+            "original": "~s~Your fighter wins.",
+            "translated": "~s~你押的选手赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1406355084,
+            "original": "Final",
+            "translated": "最后一轮",
+            "desc": ""
+        },
+        {
+            "hash": 1456069742,
+            "original": "~s~Bet costs ~r~$~1~.~s~~n~Press ~INPUT_FRONTEND_CANCEL~ to back the right fighter ~g~+$~1~.~s~~n~Press ~INPUT_FRONTEND_X~ to back the left fighter ~g~+$~1~.~s~",
+            "translated": "~s~下注 ~r~$~1~~n~~s~按~INPUT_FRONTEND_CANCEL~押注右边的选手 ~g~+$~1~~n~~s~按~INPUT_FRONTEND_X~押注左边的选手 ~g~+$~1~~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1550283383,
+            "original": "~s~Press ~INPUT_KB_RIGHT~ to back the right fighter.~s~~n~Press ~INPUT_KB_LEFT~ to back the left fighter.~s~",
+            "translated": "~s~按~INPUT_KB_RIGHT~押注右边的选手~s~~n~按~INPUT_KB_LEFT~押注左边的选手~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1739371059,
+            "original": "~s~Your fighter loses.",
+            "translated": "~s~你押的选手输了。",
+            "desc": ""
+        },
+        {
+            "hash": 1850144682,
+            "original": "~s~Finished a draw.",
+            "translated": "~s~打成平局。",
+            "desc": ""
+        },
+        {
+            "hash": 1975633939,
+            "original": "~s~Don't die now.",
+            "translated": "~s~现在可别死啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2007123942,
+            "original": "Try showboating by pressing ~INPUT_ZOOM_RADAR~ or perform counters.",
+            "translated": "按~INPUT_ZOOM_RADAR~嘲讽对手，或进行反击。",
+            "desc": ""
+        },
+        {
+            "hash": 2150628236,
+            "original": "~s~Use ~PAD_LSTICK_UPDOWN~ to adjust your bet.~n~Press ~INPUT_FRONTEND_ACCEPT~ to place bet.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "~s~用~PAD_LSTICK_UPDOWN~调整赌注~n~按~INPUT_FRONTEND_ACCEPT~下注~n~按~INPUT_PICKUP~退出",
+            "desc": ""
+        },
+        {
+            "hash": 2230632072,
+            "original": "~s~Use ~INPUT_FRONTEND_AXIS_Y~ to adjust your bet.~n~Press ~INPUT_FRONTEND_ACCEPT~ to place bet.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "~s~用~INPUT_FRONTEND_AXIS_Y~调整赌注~n~按~INPUT_FRONTEND_ACCEPT~下注~n~按~INPUT_PICKUP~退出",
+            "desc": ""
+        },
+        {
+            "hash": 2342190280,
+            "original": "Try showboating by pressing ~INPUT_COVER~ or perform counters.",
+            "translated": "按~INPUT_COVER~嘲讽对手，或进行反击。",
+            "desc": ""
+        },
+        {
+            "hash": 2361502750,
+            "original": "~s~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "~s~按~INPUT_PICKUP~退出",
+            "desc": ""
+        },
+        {
+            "hash": 2521893194,
+            "original": "FIGHT CLUB ~n~ ~n~ There are 7 ranks increasing in difficulty.",
+            "translated": "FIGHT CLUB ~n~ ~n~ 难度增加7个等级。",
+            "desc": ""
+        },
+        {
+            "hash": 2676185997,
+            "original": "~s~Seven.",
+            "translated": "~s~难度达到七级。",
+            "desc": ""
+        },
+        {
+            "hash": 2738161537,
+            "original": "~r~You are disqualified for leaving the ring.",
+            "translated": "~r~你因离开擂台而被淘汰。",
+            "desc": ""
+        },
+        {
+            "hash": 2766636263,
+            "original": "The fight is over, you are through to the next round.",
+            "translated": "战斗结束，晋级下一轮。",
+            "desc": ""
+        },
+        {
+            "hash": 2801183539,
+            "original": "~s~Press ~INPUT_FRONTEND_ACCEPT~ to continue fighting.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50.~s~~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "~s~按~INPUT_FRONTEND_ACCEPT~进入下一轮~n~按~INPUT_FRONTEND_CANCEL~旁观 ~r~-$50~n~~s~按~INPUT_PICKUP~退出",
+            "desc": ""
+        },
+        {
+            "hash": 2881297424,
+            "original": "~s~Press ~INPUT_FRONTEND_CANCEL~ to back the right fighter.~s~~n~Press ~INPUT_FRONTEND_X~ to back the left fighter.~s~",
+            "translated": "~s~按~INPUT_FRONTEND_CANCEL~押注右边的选手~s~~n~按~INPUT_FRONTEND_X~押注左边的选手~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2953880239,
+            "original": "~s~You don't have enough money.",
+            "translated": "~s~你没有足够的钱。",
+            "desc": ""
+        },
+        {
+            "hash": 3323222535,
+            "original": "~s~Press ~INPUT_SPRINT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~If you quit you will lose your entrance fee.",
+            "translated": "~s~按~INPUT_SPRINT~继续。~n~按~INPUT_PICKUP~退出。~n~若退出，则将失去已交的入场费。",
+            "desc": ""
+        },
+        {
+            "hash": 3350615650,
+            "original": "~s~Your fighter loses.",
+            "translated": "~s~你押的选手输了。",
+            "desc": ""
+        },
+        {
+            "hash": 3374412318,
+            "original": "~s~Your fighter wins.",
+            "translated": "~s~你押的选手赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3378852926,
+            "original": "~s~PLACEHOLDER: Cutscene showing the rewards the player gets~n~for being L.C. Fighters champion. ~n~Currently $4000.",
+            "translated": "~s~PLACEHOLDER: Cutscene showing the rewards the player gets~n~for being L.C. Fighters champion. ~n~Currently $4000.",
+            "desc": ""
+        },
+        {
+            "hash": 3631501264,
+            "original": "1st Round",
+            "translated": "第一轮",
+            "desc": ""
+        },
+        {
+            "hash": 3791948774,
+            "original": "~s~Press ~INPUT_FRONTEND_X~ to compete ~r~-$100~s~.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate ~r~-$50~s~.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "~s~按~INPUT_FRONTEND_X~参赛 ~r~-$100~n~~s~按~INPUT_FRONTEND_CANCEL~旁观 ~r~-$50~n~~s~按~INPUT_PICKUP~退出",
+            "desc": ""
+        },
+        {
+            "hash": 3824083925,
+            "original": "Elite Fight",
+            "translated": "精英战",
+            "desc": ""
+        },
+        {
+            "hash": 3884161635,
+            "original": "~s~Press ~INPUT_FRONTEND_X~ to compete.~n~Press ~INPUT_FRONTEND_CANCEL~ to spectate.~n~Press ~INPUT_PICKUP~ to quit.",
+            "translated": "~s~按~INPUT_FRONTEND_X~参赛~n~按~INPUT_FRONTEND_CANCEL~旁观~n~按~INPUT_PICKUP~退出",
+            "desc": ""
+        },
+        {
+            "hash": 3997566645,
+            "original": "~s~If this is 5. What is this?",
+            "translated": "~s~如果这是5，那这是什么？",
+            "desc": ""
+        }
+    ]
+}

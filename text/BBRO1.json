@@ -1,0 +1,148 @@
+{
+    "BBRO1": [
+        {
+            "hash": 61962752,
+            "original": "~s~Get back to ~b~Mori.~s~",
+            "translated": "~s~回去找~b~Mori。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 307981723,
+            "original": "~s~Lead Mori to the ~y~docks.~s~",
+            "translated": "~s~带Mori去~y~码头。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 499287957,
+            "original": "~r~Mori's car was destroyed.~s~",
+            "translated": "~r~Mori的车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 763809194,
+            "original": "~s~Take out all of Mori's ~r~rivals.~s~",
+            "translated": "~s~干掉Mori的~r~竞争对手。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 850603598,
+            "original": "~s~Leave the car and get down to the ~y~docks.~s~",
+            "translated": "~s~下车进入~y~码头。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1265132256,
+            "original": "~r~Mori's car was destroyed.~s~",
+            "translated": "~r~Mori的车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1454841870,
+            "original": "~s~Get to the ~y~docks.~s~",
+            "translated": "~s~前往~y~码头。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1761843946,
+            "original": "~s~Chase after the ~r~boats~s~ and destroy them.~s~",
+            "translated": "~s~跟紧~r~竞争对手的船，~s~干掉他们。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1992406630,
+            "original": "~s~Get to the ~y~jetty.~s~",
+            "translated": "~s~前往~y~码头。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2009675897,
+            "original": "~s~Get back in ~b~Mori's car.~s~",
+            "translated": "~s~回到~b~Mori的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2167924396,
+            "original": "~s~Press ~INPUT_VEH_ATTACK~ to throw the sticky bombs from the driver's side of the boat. ~s~Press ~PAD_DPAD_DOWN~ to detonate the sticky bomb.~s~",
+            "translated": "~s~按~INPUT_VEH_ATTACK~从船的左侧丢出黏弹。~n~按~PAD_DPAD_DOWN~引爆黏弹。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2257147381,
+            "original": "~s~Get back in the ~b~boat.~s~",
+            "translated": "~s~回到~b~船上。",
+            "desc": ""
+        },
+        {
+            "hash": 2273073119,
+            "original": "~r~The boat is stuck.~s~",
+            "translated": "~r~船卡住了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2502816578,
+            "original": "~s~Get down to the ~y~docks.~s~",
+            "translated": "~s~进入~y~码头。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2687174972,
+            "original": "~r~You destoyed Mori's rival's boat.~s~",
+            "translated": "~r~你摧毁了Mori对手的船。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2889173769,
+            "original": "~r~Mori is dead.~s~",
+            "translated": "~r~Mori死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3136481412,
+            "original": "~r~You abandoned Mori.~s~",
+            "translated": "~r~你抛弃了Mori。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3193576803,
+            "original": "~s~Press ~INPUT_VEH_ATTACK~ to throw the sticky bombs from the driver's side of the boat. ~s~Press ~INPUT_DETONATE~ to detonate the sticky bomb.~s~",
+            "translated": "~s~按~INPUT_VEH_ATTACK~从船的左侧丢出黏弹。~n~按~INPUT_DETONATE~引爆黏弹。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3369075746,
+            "original": "~r~Mori's boat was destroyed.~s~",
+            "translated": "~r~Mori的船被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3382379988,
+            "original": "~s~Chase after Mori's rival and take out the ~r~convoy boats.~s~",
+            "translated": "~s~跟上Mori的对手并且干掉~r~护航船。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3608584367,
+            "original": "~r~Mori's rivals got away.~s~",
+            "translated": "~r~Mori的对手逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3613237593,
+            "original": "~s~Drive ~y~close~s~ to the boss's boat and allow Mori to board it.~s~",
+            "translated": "~y~驶近~s~老板的船让Mori能够过去。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3678666605,
+            "original": "~s~Take Mori to the ~y~docks.~s~",
+            "translated": "~s~送Mori回~y~码头。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4126662285,
+            "original": "~s~Lose the cops.~s~",
+            "translated": "~s~甩掉警察。~s~",
+            "desc": ""
+        }
+    ]
+}

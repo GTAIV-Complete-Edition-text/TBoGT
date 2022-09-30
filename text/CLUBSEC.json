@@ -1,0 +1,220 @@
+{
+    "CLUBSEC": [
+        {
+            "hash": 14451632,
+            "original": "1",
+            "translated": "1",
+            "desc": ""
+        },
+        {
+            "hash": 144962415,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around and check for trouble.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周有无状况。",
+            "desc": ""
+        },
+        {
+            "hash": 199320700,
+            "original": "~r~Your shift as club manager has ended.",
+            "translated": "~r~夜店经营的轮班时间结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 217652157,
+            "original": "7",
+            "translated": "7",
+            "desc": ""
+        },
+        {
+            "hash": 240341423,
+            "original": "",
+            "translated": "",
+            "desc": ""
+        },
+        {
+            "hash": 334934849,
+            "original": "CAM008 BAR1 REC",
+            "translated": "CAM008 BAR1 REC",
+            "desc": ""
+        },
+        {
+            "hash": 379757506,
+            "original": "CAM005 MAIN REC",
+            "translated": "CAM005 MAIN REC",
+            "desc": ""
+        },
+        {
+            "hash": 438384141,
+            "original": "4",
+            "translated": "4",
+            "desc": ""
+        },
+        {
+            "hash": 640243618,
+            "original": "CAM010 BACK1 REC",
+            "translated": "CAM010 BACK1 REC",
+            "desc": ""
+        },
+        {
+            "hash": 677237382,
+            "original": "5",
+            "translated": "5",
+            "desc": ""
+        },
+        {
+            "hash": 690630761,
+            "original": "It is closing time. Your shift is over.",
+            "translated": "现在是关门时间，你的轮班结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 793798527,
+            "original": "Escort the ~r~pervert~s~ out of the club.",
+            "translated": "护送~r~变态~s~离开夜店。",
+            "desc": ""
+        },
+        {
+            "hash": 816345483,
+            "original": "Escort the ~r~non-payer~s~ out of the club.",
+            "translated": "护送~r~白嫖者~s~离开夜店。",
+            "desc": ""
+        },
+        {
+            "hash": 1071358210,
+            "original": "Escort the ~r~drunk~s~ out of the club.",
+            "translated": "护送~r~醉汉~s~ 离开夜店。",
+            "desc": ""
+        },
+        {
+            "hash": 1128608125,
+            "original": "Nothing happening here.",
+            "translated": "此处无事发生。",
+            "desc": ""
+        },
+        {
+            "hash": 1359923403,
+            "original": "Go and watch the ~y~bar area.~s~",
+            "translated": "前往并检视~y~酒吧区域~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 1376342146,
+            "original": "Escort the ~r~fighter~s~ out of the club.",
+            "translated": "护送~r~打斗者~s~离开夜店。",
+            "desc": ""
+        },
+        {
+            "hash": 1449685811,
+            "original": "Go and check the ~y~back of the club.~s~",
+            "translated": "前往并检查~y~夜店后面~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 2481451467,
+            "original": "~r~Club management failed.",
+            "translated": "~r~夜店经营任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 2486105569,
+            "original": "Go and check the ~y~men's washroom.~s~",
+            "translated": "前往并检查~y~男洗手间~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 2828703588,
+            "original": "Go and check the ~y~entrance hallway.~s~",
+            "translated": "前往并检查~y~入口走廊~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 3122761225,
+            "original": "Press ~INPUT_PICKUP~ to quit managing the club.",
+            "translated": "按~INPUT_PICKUP~退出夜店经营。",
+            "desc": ""
+        },
+        {
+            "hash": 3138795663,
+            "original": "CAM015 MENS REC",
+            "translated": "CAM015 MENS REC",
+            "desc": ""
+        },
+        {
+            "hash": 3304393654,
+            "original": "8",
+            "translated": "8",
+            "desc": ""
+        },
+        {
+            "hash": 3510117436,
+            "original": "9",
+            "translated": "9",
+            "desc": ""
+        },
+        {
+            "hash": 3593088588,
+            "original": "2",
+            "translated": "2",
+            "desc": ""
+        },
+        {
+            "hash": 3745849825,
+            "original": "Go and watch the ~y~dance floor.~s~",
+            "translated": "过去巡查~y~舞池。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3759544699,
+            "original": "Escort the ~r~drug dealer~s~ out of the club.",
+            "translated": "护送~r~毒品交易商~s~离开夜店。",
+            "desc": ""
+        },
+        {
+            "hash": 3788102904,
+            "original": "You have ~1~ seconds to~n~return to the club to continue working as manager.",
+            "translated": "在~1~秒内回到店内继续负责经营。",
+            "desc": ""
+        },
+        {
+            "hash": 3831614139,
+            "original": "3",
+            "translated": "3",
+            "desc": ""
+        },
+        {
+            "hash": 3925586103,
+            "original": "CAM013 VIP1 REC",
+            "translated": "CAM013 VIP1 REC",
+            "desc": ""
+        },
+        {
+            "hash": 4070434611,
+            "original": "0",
+            "translated": "0",
+            "desc": ""
+        },
+        {
+            "hash": 4119950105,
+            "original": "CAMOO1 ENTHALL REC",
+            "translated": "CAMOO1 ENTHALL REC",
+            "desc": ""
+        },
+        {
+            "hash": 4147966329,
+            "original": "CAM007 SECROOM REC",
+            "translated": "CAM007 SECROOM REC",
+            "desc": ""
+        },
+        {
+            "hash": 4249411999,
+            "original": "Go and watch the ~y~VIP area.~s~",
+            "translated": "过去巡查~y~VIP区。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4272914218,
+            "original": "6",
+            "translated": "6",
+            "desc": ""
+        }
+    ]
+}

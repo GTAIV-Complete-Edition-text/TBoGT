@@ -1,0 +1,1084 @@
+{
+    "E2CLAUD": [
+        {
+            "hash": 22962522,
+            "original": "~z~Someone ain't patting down right, man, 'cause we got a dealer in the club.",
+            "translated": "~z~进店搜身没做到位啊，有人在我们店里贩毒。",
+            "desc": ""
+        },
+        {
+            "hash": 114668062,
+            "original": "~z~Fine, yo.",
+            "translated": "~z~好的，哟。",
+            "desc": ""
+        },
+        {
+            "hash": 124785947,
+            "original": "E2CL_IA",
+            "translated": "E2CL_IA",
+            "desc": ""
+        },
+        {
+            "hash": 126800008,
+            "original": "~z~Yo Mr. Manager, you leaving us?",
+            "translated": "~z~哟，经理先生，你要走了？",
+            "desc": ""
+        },
+        {
+            "hash": 194859463,
+            "original": "~z~I'm actually going easy on him. He's fine.",
+            "translated": "~z~我其实已经很好讲了。他人没事。",
+            "desc": ""
+        },
+        {
+            "hash": 204646609,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 275430209,
+            "original": "~z~The back of the club might need your attention, boss.",
+            "translated": "~z~夜店后面需要你去看一下，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 282573847,
+            "original": "~z~Head to the back of the club, boss.",
+            "translated": "~z~去夜店后面看看，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 308679987,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 318081582,
+            "original": "E2CL_FA",
+            "translated": "E2CL_FA",
+            "desc": ""
+        },
+        {
+            "hash": 339400169,
+            "original": "E2CL_LA",
+            "translated": "E2CL_LA",
+            "desc": ""
+        },
+        {
+            "hash": 388029559,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 404786910,
+            "original": "~z~I spotted us a pusher.",
+            "translated": "~z~我发现了一个毒贩。",
+            "desc": ""
+        },
+        {
+            "hash": 445021130,
+            "original": "~z~Direct me, bro.",
+            "translated": "~z~下令吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 448044293,
+            "original": "E2CL_MA",
+            "translated": "E2CL_MA",
+            "desc": ""
+        },
+        {
+            "hash": 452320234,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 514719430,
+            "original": "~z~Luis. You still got the ear piece, bro. Come back.",
+            "translated": "~z~Luis，你还戴着耳机呢，兄弟。回来。",
+            "desc": ""
+        },
+        {
+            "hash": 560770566,
+            "original": "~z~I'm there.",
+            "translated": "~z~我到了。",
+            "desc": ""
+        },
+        {
+            "hash": 582195608,
+            "original": "~z~How we doing?",
+            "translated": "~z~情况怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 622835048,
+            "original": "~z~Checking in, Dess.",
+            "translated": "~z~到了，Dess。",
+            "desc": ""
+        },
+        {
+            "hash": 624157907,
+            "original": "~z~You wanna go check out the back of the club?",
+            "translated": "~z~要么你去夜店后面看一下？",
+            "desc": ""
+        },
+        {
+            "hash": 640053663,
+            "original": "~z~On my way.",
+            "translated": "~z~这就去。",
+            "desc": ""
+        },
+        {
+            "hash": 650069597,
+            "original": "E2CL_RA",
+            "translated": "E2CL_RA",
+            "desc": ""
+        },
+        {
+            "hash": 660096599,
+            "original": "~z~Just another night in Maisonette right here. Where you want me now?",
+            "translated": "~z~9号豪宅平凡夜晚。现在需要我去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 664013198,
+            "original": "E2CL_GA",
+            "translated": "E2CL_GA",
+            "desc": ""
+        },
+        {
+            "hash": 679869584,
+            "original": "~z~He's done, Dess.",
+            "translated": "~z~完事了，Dess。",
+            "desc": ""
+        },
+        {
+            "hash": 737974627,
+            "original": "~z~Yo, L, where you heading?",
+            "translated": "~z~哟，L，你要去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 764021961,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 771966767,
+            "original": "~z~Here, D.",
+            "translated": "~z~我到了，D。",
+            "desc": ""
+        },
+        {
+            "hash": 829842397,
+            "original": "E2CL_NA",
+            "translated": "E2CL_NA",
+            "desc": ""
+        },
+        {
+            "hash": 844827351,
+            "original": "~z~I'm getting this serious creepy rape vibe off some dude, man.",
+            "translated": "~z~我感觉有色狼想搞事情，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 858885045,
+            "original": "~z~No doubt. Be there soon.",
+            "translated": "~z~没问题，这就去。",
+            "desc": ""
+        },
+        {
+            "hash": 882457955,
+            "original": "~z~You see anything suspect?",
+            "translated": "~z~有啥可疑的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 893653181,
+            "original": "~z~There's some sexual harassment shit going down, man. Fuck.",
+            "translated": "~z~这边有人在性骚扰，哥们。操。",
+            "desc": ""
+        },
+        {
+            "hash": 901746751,
+            "original": "~z~Some guy here thinks he can drink for free.",
+            "translated": "~z~有人以为自己能白嫖酒水。",
+            "desc": ""
+        },
+        {
+            "hash": 908190698,
+            "original": "~z~We fine here, D. Where am I heading now?",
+            "translated": "~z~这里还好，D。接下来去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 1011213236,
+            "original": "~z~What's next?",
+            "translated": "~z~下一步呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1012230788,
+            "original": "~z~Yo. Can you check the hall for me.",
+            "translated": "~z~哟，能帮我去看一下走廊吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1031664915,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 1096665464,
+            "original": "~z~Where you need me?",
+            "translated": "~z~要我去哪里？",
+            "desc": ""
+        },
+        {
+            "hash": 1097607210,
+            "original": "~z~On it.",
+            "translated": "~z~明白。",
+            "desc": ""
+        },
+        {
+            "hash": 1251706640,
+            "original": "~z~Okay, boss. You mind taking a look in the hall area?",
+            "translated": "~z~好的，老板。你介意去走廊看一下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1273283409,
+            "original": "~z~We got one less guy to worry about down here.",
+            "translated": "~z~又少了一个需要咱操心的家伙。",
+            "desc": ""
+        },
+        {
+            "hash": 1281688570,
+            "original": "~z~Okay.",
+            "translated": "~z~好了。",
+            "desc": ""
+        },
+        {
+            "hash": 1344265523,
+            "original": "~z~We'll be waiting for him on the door,.L",
+            "translated": "~z~我在门口等他，L。",
+            "desc": ""
+        },
+        {
+            "hash": 1377004259,
+            "original": "~z~Where am I going?",
+            "translated": "~z~我要去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 1391884829,
+            "original": "~z~How're things looking?",
+            "translated": "~z~情况如何啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1410937336,
+            "original": "~z~Luis bro, you need me to call Tony? You acting all weird.",
+            "translated": "~z~Luis兄弟，要我打电话给Tony吗？你现在怪怪的。",
+            "desc": ""
+        },
+        {
+            "hash": 1443135038,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 1507665299,
+            "original": "~z~We need someone in the hall, boss.",
+            "translated": "~z~走廊需要人手，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 1514768583,
+            "original": "~z~Everyone behaving themselves?",
+            "translated": "~z~没人在惹事吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1579290587,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 1588951646,
+            "original": "~z~Tell him his night's over, boss.",
+            "translated": "~z~告诉他今晚就嗨到这了，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 1640776414,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1646981085,
+            "original": "~z~I'm bringing this dude out.",
+            "translated": "~z~我把带他出来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1675465710,
+            "original": "~z~There some aggressive behavior going on down here, bro.",
+            "translated": "~z~这边吵得很凶啊，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1684349705,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1685556512,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 1688569406,
+            "original": "~z~Get him out of there, Luis.",
+            "translated": "~z~把他赶出去，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1692364560,
+            "original": "~z~Cool. I got it.",
+            "translated": "~z~好，知道了。",
+            "desc": ""
+        },
+        {
+            "hash": 1692682599,
+            "original": "~z~Nice work, L.",
+            "translated": "~z~干得不错，L。",
+            "desc": ""
+        },
+        {
+            "hash": 1698043293,
+            "original": "E2CL_WA",
+            "translated": "E2CL_WA",
+            "desc": ""
+        },
+        {
+            "hash": 1753662182,
+            "original": "~z~I could use someone in the hall, if you don't mind.",
+            "translated": "~z~走廊那边缺个人，你去不去？",
+            "desc": ""
+        },
+        {
+            "hash": 1774196070,
+            "original": "~z~There's a guy way out of control down here.",
+            "translated": "~z~这边有人发酒疯了。",
+            "desc": ""
+        },
+        {
+            "hash": 1812671562,
+            "original": "~z~How's it looking?",
+            "translated": "~z~情况如何？",
+            "desc": ""
+        },
+        {
+            "hash": 1867434445,
+            "original": "~z~Here I am.",
+            "translated": "~z~到地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 1932534611,
+            "original": "~z~Can't have that. L. Bring him out.",
+            "translated": "~z~绝不容忍，L。请他出去。",
+            "desc": ""
+        },
+        {
+            "hash": 1951436416,
+            "original": "~z~I'm on call, bro. Where's shit happening?",
+            "translated": "~z~随时待命，兄弟。哪里出事了？",
+            "desc": ""
+        },
+        {
+            "hash": 1969983536,
+            "original": "~z~No problem.",
+            "translated": "~z~没问题。",
+            "desc": ""
+        },
+        {
+            "hash": 1972385619,
+            "original": "~z~There some bullying in the playground, yo.",
+            "translated": "~z~有人在这里欺负人，哟。",
+            "desc": ""
+        },
+        {
+            "hash": 2033913500,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2038723239,
+            "original": "~z~Still getting your hands dirty. That's what I like to see.",
+            "translated": "~z~还是得你自己动手。就喜欢看这种。",
+            "desc": ""
+        },
+        {
+            "hash": 2106765364,
+            "original": "~z~Don't work too hard.",
+            "translated": "~z~别忙坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2109010707,
+            "original": "~z~All good here. Where you want me next?",
+            "translated": "~z~一切正常。接下来去哪儿？",
+            "desc": ""
+        },
+        {
+            "hash": 2112808717,
+            "original": "~z~What now?",
+            "translated": "~z~接下来呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2123792987,
+            "original": "~z~Head over to the bar, L.",
+            "translated": "~z~去吧台看看，L。",
+            "desc": ""
+        },
+        {
+            "hash": 2128703973,
+            "original": "E2CL_TA",
+            "translated": "E2CL_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2153209978,
+            "original": "~z~Can you go take a look round the dance floor area?",
+            "translated": "~z~你能去舞池看一圈吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2210318691,
+            "original": "~z~Whoah, this dude is way overly refreshed.",
+            "translated": "~z~哇哦，这哥们灌了多少啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2233225464,
+            "original": "~z~There somewhere I should be?",
+            "translated": "~z~哪里需要我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2237219955,
+            "original": "E2CL_XA",
+            "translated": "E2CL_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2253316305,
+            "original": "~z~It all fine?",
+            "translated": "~z~都还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2305380293,
+            "original": "~z~Never do learn, do they? Bring him out.",
+            "translated": "~z~都不吸取教训是吧？送客。",
+            "desc": ""
+        },
+        {
+            "hash": 2334926337,
+            "original": "~z~The men's washroom might need some attention. Make sure nothing too bad's happening in there.",
+            "translated": "~z~去看一下男厕所。确保那里不会出什么事。",
+            "desc": ""
+        },
+        {
+            "hash": 2343746896,
+            "original": "~z~Alright Dessie, I'm on duty. What you need help with?",
+            "translated": "~z~好了，Dessie，我来了。哪里需要支援？",
+            "desc": ""
+        },
+        {
+            "hash": 2352685623,
+            "original": "~z~Tony ain't gonna like the way you behaving, L.",
+            "translated": "~z~Tony不会喜欢你这样的，L。",
+            "desc": ""
+        },
+        {
+            "hash": 2356398756,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2371746443,
+            "original": "~z~I think we might need some eyes on the dance floor. You mind taking a look?",
+            "translated": "~z~我觉得舞池那里需要人盯。麻烦你看一下。",
+            "desc": ""
+        },
+        {
+            "hash": 2394810798,
+            "original": "~z~Yo. Fuck! What people got to fight for?",
+            "translated": "~z~哟。操！这咋还打起来了？",
+            "desc": ""
+        },
+        {
+            "hash": 2402459139,
+            "original": "~z~You mean business, L.",
+            "translated": "~z~公事公办，L。",
+            "desc": ""
+        },
+        {
+            "hash": 2429822678,
+            "original": "~z~Thanks, boss. You mind checking out the bar area?",
+            "translated": "~z~谢了，老板。你介意去吧台看下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2460615967,
+            "original": "~z~We could do with a presence on or near the dance floor, L.",
+            "translated": "~z~舞池那块需要你去巡一下，L。",
+            "desc": ""
+        },
+        {
+            "hash": 2461714723,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 2463797476,
+            "original": "~z~In position.",
+            "translated": "~z~就位了。",
+            "desc": ""
+        },
+        {
+            "hash": 2469417447,
+            "original": "~z~I'm coming up with this guy.",
+            "translated": "~z~我去对付那家伙。",
+            "desc": ""
+        },
+        {
+            "hash": 2489084574,
+            "original": "~z~I see someone who's had way too much to drink.",
+            "translated": "~z~我看好像有人喝多了。",
+            "desc": ""
+        },
+        {
+            "hash": 2502389936,
+            "original": "E2CL_EA",
+            "translated": "E2CL_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2564347658,
+            "original": "~z~No doubt, man.",
+            "translated": "~z~没问题，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2566177170,
+            "original": "~z~Okay, boss. Can you see what's going down in the men's room.",
+            "translated": "~z~好的，老板。你能去看看男厕所的情况吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2613308566,
+            "original": "~z~~c~ Hey, Dessie.",
+            "translated": "~z~~c~嘿，Dessie。",
+            "desc": ""
+        },
+        {
+            "hash": 2622193494,
+            "original": "~z~What's happening now?",
+            "translated": "~z~现在有情况吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2628648987,
+            "original": "~z~Tell me where I'm needed.",
+            "translated": "~z~告诉我该去哪儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2655806746,
+            "original": "E2CL_UA",
+            "translated": "E2CL_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2660557000,
+            "original": "E2CL_CA",
+            "translated": "E2CL_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2670926074,
+            "original": "E2CL_AA",
+            "translated": "E2CL_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2688235547,
+            "original": "~z~We tight here, D. There somewhere else you need me.",
+            "translated": "~z~这边没问题，D。还有哪里需要我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2699920199,
+            "original": "~z~That you off for the night, L?",
+            "translated": "~z~你今晚不干活了，L？",
+            "desc": ""
+        },
+        {
+            "hash": 2713736081,
+            "original": "E2CL_DA",
+            "translated": "E2CL_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2723333187,
+            "original": "~z~That's why you the boss, boss.",
+            "translated": "~z~所以你才是老板，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 2730722614,
+            "original": "E2CL_PA",
+            "translated": "E2CL_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2745986359,
+            "original": "~z~You got Luis on the line, Dessie. Tell me where to go.",
+            "translated": "~z~Luis上班了，Dessie。告诉我要去哪。",
+            "desc": ""
+        },
+        {
+            "hash": 2759094032,
+            "original": "~z~Whoa. No one should treat a lady like that.",
+            "translated": "~z~喔，怎么能这样对待女士呢。",
+            "desc": ""
+        },
+        {
+            "hash": 2774736633,
+            "original": "~z~What's happening there?",
+            "translated": "~z~那里有状况吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2780380822,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2786720455,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2801628198,
+            "original": "~z~There some asshole manhandling a lady here.",
+            "translated": "~z~有混账在对姑娘毛手毛脚。",
+            "desc": ""
+        },
+        {
+            "hash": 2803131704,
+            "original": "E2CL_SA",
+            "translated": "E2CL_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2812179605,
+            "original": "~z~Okay, done.",
+            "translated": "~z~好的，懂了。",
+            "desc": ""
+        },
+        {
+            "hash": 2818831704,
+            "original": "~z~Be there in a minute.",
+            "translated": "~z~我马上到。",
+            "desc": ""
+        },
+        {
+            "hash": 2826075243,
+            "original": "~z~We're ejecting this guy.",
+            "translated": "~z~这就把他赶走。",
+            "desc": ""
+        },
+        {
+            "hash": 2848251214,
+            "original": "~z~Why you behaving like that, boss? We don't need to get sued.",
+            "translated": "~z~你怎么这样子的，老板？咱没必要对簿公堂。",
+            "desc": ""
+        },
+        {
+            "hash": 2850496821,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 2865119744,
+            "original": "~z~We could do with a set of eyes in the VIP area, bro.",
+            "translated": "~z~贵宾区那边需要一个人看着，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2913459445,
+            "original": "E2CL_HA",
+            "translated": "E2CL_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2919375555,
+            "original": "~z~Where now?",
+            "translated": "~z~现在去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 2948867715,
+            "original": "E2CL_KA",
+            "translated": "E2CL_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2949150877,
+            "original": "E2CL_BA",
+            "translated": "E2CL_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2955603966,
+            "original": "~z~Do a quick check on the men's room, L.",
+            "translated": "~z~去男厕所简单查一下，L。",
+            "desc": ""
+        },
+        {
+            "hash": 2958580133,
+            "original": "E2CL_VA",
+            "translated": "E2CL_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2966954901,
+            "original": "~z~Oye, I think this guy's fucked up on something. Either that or he's an idiot.",
+            "translated": "~z~喂，我觉得这人有点大了。要不然他就是个纯傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2989515774,
+            "original": "~z~Don't mess with him. He's the manager.",
+            "translated": "~z~别跟他乱来。他可是经理。",
+            "desc": ""
+        },
+        {
+            "hash": 3007388548,
+            "original": "~z~You know what to do if he tries to come back here, D.",
+            "translated": "~z~他要是还敢来，你知道该怎么办吧，D。",
+            "desc": ""
+        },
+        {
+            "hash": 3023841231,
+            "original": "E2CL_JA",
+            "translated": "E2CL_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3047428102,
+            "original": "~z~Shit. I hate it when people try to scam the wait staff.",
+            "translated": "~z~妈的。最讨厌那些骗服务生的人。",
+            "desc": ""
+        },
+        {
+            "hash": 3059666056,
+            "original": "~z~We need some eyes on the dance floor, L.",
+            "translated": "~z~舞池那边需要人盯着，L。",
+            "desc": ""
+        },
+        {
+            "hash": 3059723819,
+            "original": "~z~Where you going, boss?",
+            "translated": "~z~你要去哪，老板？",
+            "desc": ""
+        },
+        {
+            "hash": 3062298322,
+            "original": "~z~Boss, what's gotten in to you tonight?",
+            "translated": "~z~老板，今晚你怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 3077659482,
+            "original": "~z~You mind checking out the VIP area?",
+            "translated": "~z~麻烦你检查一下贵宾区。",
+            "desc": ""
+        },
+        {
+            "hash": 3135405957,
+            "original": "~z~Luis, I know it's your club and all, but I'm getting complaints...",
+            "translated": "~z~Luis，我知道店都是你的，但我还是想抱怨两句...",
+            "desc": ""
+        },
+        {
+            "hash": 3170697991,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3186002809,
+            "original": "~z~We need someone to take a look in the restroom. Sorry, boss.",
+            "translated": "~z~需要人去看一下洗手间。麻烦你了，老板。",
+            "desc": ""
+        },
+        {
+            "hash": 3214398306,
+            "original": "~z~We cool there, boss?",
+            "translated": "~z~没出问题吧，老板？",
+            "desc": ""
+        },
+        {
+            "hash": 3217788978,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3239931566,
+            "original": "~z~Can you babysit them \"Very Important People\" upstairs for a minute, boss.",
+            "translated": "~z~你能去伺候一下楼上的贵宾吗，老板？",
+            "desc": ""
+        },
+        {
+            "hash": 3285929589,
+            "original": "~z~Okay. Where to?",
+            "translated": "~z~好的。去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 3301736769,
+            "original": "~z~Here's cool, Dess. Where you need me next.",
+            "translated": "~z~这里还好，Dess。下一个地方是哪？",
+            "desc": ""
+        },
+        {
+            "hash": 3306845539,
+            "original": "~z~I'm here.",
+            "translated": "~z~我到了。",
+            "desc": ""
+        },
+        {
+            "hash": 3343670525,
+            "original": "E2CL_OA",
+            "translated": "E2CL_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3374374272,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3387613100,
+            "original": "E2CL_QA",
+            "translated": "E2CL_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3395923768,
+            "original": "~z~Head to the back, bro. Check out if we got any problems.",
+            "translated": "~z~去后面看看，兄弟。查下有没有出问题。",
+            "desc": ""
+        },
+        {
+            "hash": 3453403531,
+            "original": "~z~Okay Dess, I'm here. Where am I going?",
+            "translated": "~z~好了，Dess，我来了。我要去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 3487487167,
+            "original": "~z~Keep him out, bro.",
+            "translated": "~z~别放他进来，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3520493535,
+            "original": "~z~You my eyes, L.",
+            "translated": "~z~你帮我盯着，L。",
+            "desc": ""
+        },
+        {
+            "hash": 3650267853,
+            "original": "~z~Just some people having a good time. There somewhere else I should be?",
+            "translated": "~z~只有享受夜生活的人。还需要我去哪儿吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3657751027,
+            "original": "~z~Club manager reporting for duty, Dess. What you want me doing?",
+            "translated": "~z~夜店经理打卡上班了，Dess。需要我做什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3672758929,
+            "original": "~z~Some punk's trying to get out of a bar tab here, man.",
+            "translated": "~z~这边有个人想赖账，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3721202016,
+            "original": "~z~You tell me, boss. We all cool?",
+            "translated": "~z~告诉我下，老板。有情况吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3775952674,
+            "original": "~z~Why you let this guy in in the first place?",
+            "translated": "~z~你怎么会放这种人进店的？",
+            "desc": ""
+        },
+        {
+            "hash": 3812871092,
+            "original": "~z~Okay, boss. Can you check the bar area?",
+            "translated": "~z~好的，老板。你能去吧台看一下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3824490897,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3843360531,
+            "original": "~z~We can't have that in Maisonette, L. Kick him out.",
+            "translated": "~z~9号豪宅不允许这种事，L。让他滚。",
+            "desc": ""
+        },
+        {
+            "hash": 3888987153,
+            "original": "~z~Can you check the VIP for me?",
+            "translated": "~z~能我帮去检查下贵宾区吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3921114044,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3962535196,
+            "original": "~z~Looks like some punk thinks he can get away without paying.",
+            "translated": "~z~看来有些混蛋觉得自己能白嫖。",
+            "desc": ""
+        },
+        {
+            "hash": 3967980426,
+            "original": "~z~Scratch that, D. This guy's cool.",
+            "translated": "~z~抓住他，D。这人态度不好。",
+            "desc": ""
+        },
+        {
+            "hash": 3971135491,
+            "original": "~z~We got a dealer down here.",
+            "translated": "~z~这边有毒贩在交易。",
+            "desc": ""
+        },
+        {
+            "hash": 4011382233,
+            "original": "~z~There ain't no trouble here. Where am I going?",
+            "translated": "~z~这里没问题。接下来去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 4030175996,
+            "original": "~z~I've let this guy off, man.",
+            "translated": "~z~我会让这人滚的，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 4083852222,
+            "original": "~z~Too bad, boss. Get him out of there.",
+            "translated": "~z~太糟了，老板。把他赶出去。",
+            "desc": ""
+        },
+        {
+            "hash": 4086023605,
+            "original": "~z~That guy is not trying to deal in our club.",
+            "translated": "~z~那家伙别想在我们店里交易毒品。",
+            "desc": ""
+        },
+        {
+            "hash": 4131563282,
+            "original": "~z~This guy ain't a problem after all.",
+            "translated": "~z~终于把这人搞定了。",
+            "desc": ""
+        },
+        {
+            "hash": 4150409977,
+            "original": "~z~I'm witnessing some aggression here.",
+            "translated": "~z~这里有人不太友善啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4153617450,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4182185944,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 4225506571,
+            "original": "~z~Okay.",
+            "translated": "~z~好的。",
+            "desc": ""
+        },
+        {
+            "hash": 4241912148,
+            "original": "~z~I should look somewhere else, bro. Here's all good.",
+            "translated": "~z~我去看看其他地方吧，兄弟。这边没有状况。",
+            "desc": ""
+        },
+        {
+            "hash": 4254728288,
+            "original": "~z~Scope the bar, boss. See what's happening there.",
+            "translated": "~z~去趟吧台吧，老板。看看有啥情况。",
+            "desc": ""
+        },
+        {
+            "hash": 4257654546,
+            "original": "~z~Get ready, Dess. Someone's coming out.",
+            "translated": "~z~准备好了，D。有人要出来了。",
+            "desc": ""
+        },
+        {
+            "hash": 4262552600,
+            "original": "~z~Dessie, I'm there.",
+            "translated": "~z~Dessie，我到了。",
+            "desc": ""
+        }
+    ]
+}

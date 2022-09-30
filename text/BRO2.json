@@ -1,0 +1,328 @@
+{
+    "BRO2": [
+        {
+            "hash": 28644062,
+            "original": "12th",
+            "translated": "第十二名",
+            "desc": ""
+        },
+        {
+            "hash": 94217778,
+            "original": "10th",
+            "translated": "第十名",
+            "desc": ""
+        },
+        {
+            "hash": 126774417,
+            "original": "~r~You injured a fellow competitor.",
+            "translated": "~r~你伤害了对手。",
+            "desc": ""
+        },
+        {
+            "hash": 154918973,
+            "original": "~r~You destroyed a fellow competitor's car.",
+            "translated": "~r~对手的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 174224565,
+            "original": "~r~You beached the boat.",
+            "translated": "~r~你的船搁浅了。",
+            "desc": ""
+        },
+        {
+            "hash": 313198788,
+            "original": "Press ~INPUT_VEH_CIN_CAM~ to activate nitro.",
+            "translated": "按~INPUT_VEH_CIN_CAM~激活氮气加速。",
+            "desc": ""
+        },
+        {
+            "hash": 342173919,
+            "original": "7th",
+            "translated": "第七名",
+            "desc": ""
+        },
+        {
+            "hash": 433632197,
+            "original": "4th",
+            "translated": "第四名",
+            "desc": ""
+        },
+        {
+            "hash": 606788776,
+            "original": "~r~You lose.",
+            "translated": "~r~你输了。",
+            "desc": ""
+        },
+        {
+            "hash": 632025747,
+            "original": "MOCAP CUTSCENE: Player Loses the race.",
+            "translated": "MOCAP CUTSCENE: 玩家输了比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 670344579,
+            "original": "~s~Get in the ~b~car.~s~",
+            "translated": "~s~上~b~车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 691945813,
+            "original": "3rd",
+            "translated": "第三名",
+            "desc": ""
+        },
+        {
+            "hash": 720331499,
+            "original": "~R~The car was wrecked.",
+            "translated": "~R~车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 801310057,
+            "original": "~r~The cops scared off the other racers.",
+            "translated": "~r~警察吓跑了其他参赛者。",
+            "desc": ""
+        },
+        {
+            "hash": 936259264,
+            "original": "11th",
+            "translated": "第十一名",
+            "desc": ""
+        },
+        {
+            "hash": 956105119,
+            "original": "Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_MOUSE_LMB~ to activate parachute. ~n~Hold ~INPUT_NEXT_CAMERA~ to view different cameras.",
+            "translated": "用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_MOUSE_LMB~打开降落伞。~n~按~INPUT_NEXT_CAMERA~改变视角。",
+            "desc": ""
+        },
+        {
+            "hash": 1013402745,
+            "original": "2nd",
+            "translated": "第二名",
+            "desc": ""
+        },
+        {
+            "hash": 1080607929,
+            "original": "~s~Get in a ~b~car.~s~",
+            "translated": "~s~上~b~车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1169598315,
+            "original": "8th",
+            "translated": "第八名",
+            "desc": ""
+        },
+        {
+            "hash": 1193335049,
+            "original": "9th",
+            "translated": "第九名",
+            "desc": ""
+        },
+        {
+            "hash": 1325374315,
+            "original": "~s~Go to the ~y~heliport.~s~",
+            "translated": "~s~前往~y~停机坪。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1426413788,
+            "original": "Get a bike and get to the ~y~start line.",
+            "translated": "骑摩托去~y~起跑线。",
+            "desc": ""
+        },
+        {
+            "hash": 1445917622,
+            "original": "~s~Get in a ~b~boat.~s~",
+            "translated": "~s~上~b~船。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1516555825,
+            "original": "~r~Race abandoned.",
+            "translated": "~r~你放弃了比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 1673193839,
+            "original": "Get back on the bike.",
+            "translated": "回到摩托上。",
+            "desc": ""
+        },
+        {
+            "hash": 1853730347,
+            "original": "MOCAP CUTSCENE: Mori tells Luis to get to a race.",
+            "translated": "MOCAP CUTSCENE:Mori告诉Luis去比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 1853774267,
+            "original": "5th",
+            "translated": "第五名",
+            "desc": ""
+        },
+        {
+            "hash": 2067127416,
+            "original": "1st",
+            "translated": "第一名",
+            "desc": ""
+        },
+        {
+            "hash": 2372596399,
+            "original": "Use ~PAD_LSTICK_ALL~ to move in the air. ~n~Press ~INPUT_SPRINT~ to activate parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to view different cameras.",
+            "translated": "用~PAD_LSTICK_ALL~在空中移动。~n~按~INPUT_SPRINT~打开降落伞。~n~按住~INPUT_MELEE_ATTACK1~查看不同视角。",
+            "desc": ""
+        },
+        {
+            "hash": 2625123096,
+            "original": "Open your parachute.",
+            "translated": "打开你的降落伞。",
+            "desc": ""
+        },
+        {
+            "hash": 2720140041,
+            "original": "Land close to the ~b~boats.~s~",
+            "translated": "降落到~b~船~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2813703513,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 2972402138,
+            "original": "MOCAP CUTSCENE: Player Comes in 1st in race.",
+            "translated": "MOCAP CUTSCENE:玩家得到第一名。",
+            "desc": ""
+        },
+        {
+            "hash": 3088131238,
+            "original": "MOCAP CUTSCENE: Player is airlifted into a heelicopter with other competitors.",
+            "translated": "MOCAP CUTSCENE:玩家会和其他参赛者一起上直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3161641934,
+            "original": "Jump off the building to go into free-fall.",
+            "translated": "从楼上跳下自由落体。",
+            "desc": ""
+        },
+        {
+            "hash": 3163324195,
+            "original": "~s~Get in a ~b~boat.~s~",
+            "translated": "~s~上~b~船。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3200152091,
+            "original": "Line up your bike.",
+            "translated": "进入起跑队列。",
+            "desc": ""
+        },
+        {
+            "hash": 3263678751,
+            "original": "~r~You wrecked the boat.",
+            "translated": "~r~你的船坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 3752477262,
+            "original": "6th",
+            "translated": "第六名",
+            "desc": ""
+        },
+        {
+            "hash": 3777810279,
+            "original": "~R~You abandoned Mori.",
+            "translated": "~R~你抛弃了Mori。",
+            "desc": ""
+        },
+        {
+            "hash": 3781787545,
+            "original": "~r~You destroyed a fellow competitor's boat.",
+            "translated": "~r~对手的船被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3795799687,
+            "original": "Use ~PAD_LSTICK_ALL~ to shift body weight. ~n~Use ~INPUT_AIM~ and ~INPUT_ATTACK~ to apply left and right air brakes. ~n~Press ~INPUT_ENTER~ to detach the parachute. ~n~Hold ~INPUT_MELEE_ATTACK1~ to to view different cameras.",
+            "translated": "用~PAD_LSTICK_ALL~改变重心。~n~用~INPUT_AIM~和~INPUT_ATTACK~左转或右转。~n~按~INPUT_ENTER~丢掉降落伞。~n~按~INPUT_MELEE_ATTACK1~改变视角。",
+            "desc": ""
+        },
+        {
+            "hash": 3834099814,
+            "original": "Gain speed, then press ~INPUT_VEH_CIN_CAM~ to activate nitro.",
+            "translated": "加速，然后按~INPUT_VEH_CIN_CAM~激活氮气加速。",
+            "desc": ""
+        },
+        {
+            "hash": 3872374387,
+            "original": "3",
+            "translated": "3",
+            "desc": ""
+        },
+        {
+            "hash": 3898480186,
+            "original": "You win.",
+            "translated": "你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3959244926,
+            "original": "1",
+            "translated": "1",
+            "desc": ""
+        },
+        {
+            "hash": 3966526922,
+            "original": "~R~Mori is dead.",
+            "translated": "~R~Mori死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3969125465,
+            "original": "Wait for ~b~Mori.",
+            "translated": "等待~b~Mori。",
+            "desc": ""
+        },
+        {
+            "hash": 3994492799,
+            "original": "Lose your wanted level, or the race may be abandoned.",
+            "translated": "摆脱通缉，否则比赛将会中止。",
+            "desc": ""
+        },
+        {
+            "hash": 4207413087,
+            "original": "Get a suitable bike.",
+            "translated": "找一辆合适的摩托。",
+            "desc": ""
+        },
+        {
+            "hash": 4239361644,
+            "original": "~R~Mori was injured.",
+            "translated": "~R~Mori受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 4240338718,
+            "original": "Go",
+            "translated": "走",
+            "desc": ""
+        },
+        {
+            "hash": 4242174514,
+            "original": "Go to the ~y~start line.",
+            "translated": "前往~y~起跑线。",
+            "desc": ""
+        },
+        {
+            "hash": 4268397834,
+            "original": "2",
+            "translated": "2",
+            "desc": ""
+        }
+    ]
+}

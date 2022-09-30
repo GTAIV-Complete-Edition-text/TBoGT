@@ -1,0 +1,280 @@
+{
+    "FRI2": [
+        {
+            "hash": 8688987,
+            "original": "~r~You abandoned Armando and Henrique.",
+            "translated": "~r~你抛弃了Armando和Henrique。",
+            "desc": ""
+        },
+        {
+            "hash": 101717411,
+            "original": "~r~You left the shipment unprotected.",
+            "translated": "~r~没人保护货物了。",
+            "desc": ""
+        },
+        {
+            "hash": 202823227,
+            "original": "Push forwards up the steps!",
+            "translated": "快冲上台阶！",
+            "desc": ""
+        },
+        {
+            "hash": 290961153,
+            "original": "~r~The car was destroyed.",
+            "translated": "~r~车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 321269711,
+            "original": "~r~The cops are going to bust up the deal.",
+            "translated": "~r~你把警察引到了交易现场！",
+            "desc": ""
+        },
+        {
+            "hash": 343050147,
+            "original": "Go to the ~y~pier.",
+            "translated": "前往~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 423850132,
+            "original": "Return to top of the ~y~jetty.",
+            "translated": "回到~y~码头~s~上边。",
+            "desc": ""
+        },
+        {
+            "hash": 437261010,
+            "original": "Escort the ~b~shipment ~s~back to the lockup.",
+            "translated": "将~b~货物~s~护送到仓库。",
+            "desc": ""
+        },
+        {
+            "hash": 480002747,
+            "original": "~r~You destroyed too much of the shipment.",
+            "translated": "~r~你破坏了太多货物。",
+            "desc": ""
+        },
+        {
+            "hash": 574432056,
+            "original": "Watch over the loading of the shipment.",
+            "translated": "监督货物装运。",
+            "desc": ""
+        },
+        {
+            "hash": 702769176,
+            "original": "~r~You abandoned Armando.",
+            "translated": "~r~你抛弃了Armando。",
+            "desc": ""
+        },
+        {
+            "hash": 770190638,
+            "original": "~s~Get back in the ~b~car.~s~",
+            "translated": "~s~回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 802504284,
+            "original": "Gang Members are down on the lower part of the pier. ~n~Take ~r~them ~s~out.",
+            "translated": "帮派团伙冲到了码头上。~n~干掉~r~敌人~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 899033401,
+            "original": "Luis and I will head down to the pier.~n~ You stay up here Armando.",
+            "translated": "Luis和我会下去码头那，~n~Armando就呆在这。",
+            "desc": ""
+        },
+        {
+            "hash": 939478716,
+            "original": "A rival gang is attempting to steal the shipment. ~n~Take ~r~them ~s~out.",
+            "translated": "敌对帮派想要偷走货物。~n~干掉~r~他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1126188109,
+            "original": "Check out the boats.",
+            "translated": "检查货船。",
+            "desc": ""
+        },
+        {
+            "hash": 1339711197,
+            "original": "Get back in the ~b~SUV.",
+            "translated": "回到~b~SUV~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1680039063,
+            "original": "~r~You abandoned Henrique.",
+            "translated": "~r~你抛弃了Henrique。",
+            "desc": ""
+        },
+        {
+            "hash": 1779722349,
+            "original": "~r~You killed one of Armando and Henrique's helpers.",
+            "translated": "~r~你杀死了Armando和Henrique的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 1881710173,
+            "original": "These guys better hurry up and load the cars.",
+            "translated": "=这些家伙最好赶紧搬完。",
+            "desc": ""
+        },
+        {
+            "hash": 1930112730,
+            "original": "Go back to the ~b~SUV.~s~",
+            "translated": "回到~b~SUV~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1944088902,
+            "original": "~r~You destroyed the boats.",
+            "translated": "~r~你摧毁了货船。",
+            "desc": ""
+        },
+        {
+            "hash": 2119842496,
+            "original": "Up Here, there are more of them.",
+            "translated": "上边，又有人来了。",
+            "desc": ""
+        },
+        {
+            "hash": 2256227362,
+            "original": "You need a car with three or more seats.",
+            "translated": "你需要一辆至少三座的车。",
+            "desc": ""
+        },
+        {
+            "hash": 2408865372,
+            "original": "You left ~b~Henrique~s~ behind. Go back and get him.",
+            "translated": "你把~b~Henrique~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 2495146141,
+            "original": "This shipment is ours you fuckers.",
+            "translated": "这批货是我们的，一群傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2592994087,
+            "original": "You left ~b~Armando~s~ behind. Go back and get him.",
+            "translated": "你把~b~Armando~s~落下了，回去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 2635383722,
+            "original": "~r~Armando and Henrique are dead.",
+            "translated": "~r~Armando和Henrique死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2734621993,
+            "original": "Wait for your ~b~friends ~s~to get in.",
+            "translated": "等待你的~b~朋友~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 2806779043,
+            "original": "Go back to the pier and protect the shipment from the ~r~gang.",
+            "translated": "回到码头，从~r~敌人~s~手中保护货物。",
+            "desc": ""
+        },
+        {
+            "hash": 2959654789,
+            "original": "Guard the lower section of the ~y~pier.",
+            "translated": "保护~y~码头~s~的下方。",
+            "desc": ""
+        },
+        {
+            "hash": 2960629786,
+            "original": "You left ~b~Armando~s~ and ~b~Henrique~s~ behind.~n~Go back and get them.",
+            "translated": "你把~b~Armando~s~和~b~Henrique~s~落下了。~n~回去找他们。",
+            "desc": ""
+        },
+        {
+            "hash": 3037833262,
+            "original": "Follow ~b~Henrique ~s~down to the pier.",
+            "translated": "跟随~b~Henrique~s~进入码头。",
+            "desc": ""
+        },
+        {
+            "hash": 3294384507,
+            "original": "Park in the ~y~garage.",
+            "translated": "停入~y~车库。",
+            "desc": ""
+        },
+        {
+            "hash": 3343226895,
+            "original": "~r~Henrique is dead.",
+            "translated": "~r~Henrique死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3493126036,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3569545800,
+            "original": "Get in the ~b~car~s~ with Armando and Henrique.",
+            "translated": "与Armando和Henrique一起~b~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 3649518738,
+            "original": "~r~Armando is dead.",
+            "translated": "~r~Armando死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3718281835,
+            "original": "Hi.",
+            "translated": "嗨。",
+            "desc": ""
+        },
+        {
+            "hash": 3822604596,
+            "original": "~r~The shipment was lost.",
+            "translated": "~r~货物没了。",
+            "desc": ""
+        },
+        {
+            "hash": 3883904434,
+            "original": "You are losing the ~b~shipment.",
+            "translated": "你要失去~b~货物~s~了。",
+            "desc": ""
+        },
+        {
+            "hash": 3905589439,
+            "original": "Go back to the ~y~pier.",
+            "translated": "返回~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 4116629872,
+            "original": "Get in the ~b~car.~s~",
+            "translated": "上~b~车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4127389065,
+            "original": "~r~One of the SUVs has been destroyed.",
+            "translated": "~r~其中一辆SUV被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4194120484,
+            "original": "Go back to ~b~Henrique.",
+            "translated": "回去找~b~Henrique。",
+            "desc": ""
+        },
+        {
+            "hash": 4274043791,
+            "original": "Shit! Luis! We are getting attacked.",
+            "translated": "操！ Luis！有人来找麻烦了。",
+            "desc": ""
+        }
+    ]
+}

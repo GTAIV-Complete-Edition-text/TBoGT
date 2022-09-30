@@ -1,0 +1,58 @@
+{
+    "CLBPRC2": [
+        {
+            "hash": 1489353589,
+            "original": "~r~Club management failed.",
+            "translated": "~r~夜店经营任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 1712117251,
+            "original": "~r~You hurt Troy.",
+            "translated": "~r~你伤害了Troy。",
+            "desc": ""
+        },
+        {
+            "hash": 2169900177,
+            "original": "~r~You hurt Dessie.",
+            "translated": "~r~你伤害了Dessie。",
+            "desc": ""
+        },
+        {
+            "hash": 2459086602,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 2650064334,
+            "original": "~r~You were too slow.",
+            "translated": "~r~你太慢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2873516145,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3390021127,
+            "original": "Go to ~y~Hercules.",
+            "translated": "前往~y~大力神。",
+            "desc": ""
+        },
+        {
+            "hash": 3626383924,
+            "original": "Go to the ~y~Iron Belly Deli.",
+            "translated": "前往~y~Iron Belly熟食店。",
+            "desc": ""
+        },
+        {
+            "hash": 3795772975,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around and check for trouble.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周有无状况。",
+            "desc": ""
+        }
+    ]
+}

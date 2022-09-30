@@ -1,0 +1,130 @@
+{
+    "YUSUF4": [
+        {
+            "hash": 21844442,
+            "original": "~r~Yusuf's car was wrecked.",
+            "translated": "~r~Yusuf的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 76208201,
+            "original": "~r~You took too long to disconnect the front carriage.",
+            "translated": "~r~分离车头花的时间太长了。",
+            "desc": ""
+        },
+        {
+            "hash": 245555352,
+            "original": "~s~Press ~INPUT_DUCK~ to duck under overhead hazards.",
+            "translated": "~s~按~INPUT_DUCK~趴下，避开前方的威胁。",
+            "desc": ""
+        },
+        {
+            "hash": 306770885,
+            "original": "~r~You failed to jump onto the train.",
+            "translated": "~r~你这老寒腿没跳上列车。",
+            "desc": ""
+        },
+        {
+            "hash": 358211697,
+            "original": "~s~Return to ~b~Yusuf's car.",
+            "translated": "~s~回到~b~Yusuf的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 540029975,
+            "original": "~s~Jump now.",
+            "translated": "~s~快跳！",
+            "desc": ""
+        },
+        {
+            "hash": 690241700,
+            "original": "~s~Press ~PAD_LSTICK_NONE~ to duck under overhead hazards.",
+            "translated": "~s~按~PAD_LSTICK_NONE~趴下，避开前方的威胁。",
+            "desc": ""
+        },
+        {
+            "hash": 1767247812,
+            "original": "~s~Get into ~b~Yusuf's car.",
+            "translated": "~s~进入~b~Yusuf的车。",
+            "desc": ""
+        },
+        {
+            "hash": 2130323492,
+            "original": "~s~Wait for the ~b~train ~s~and jump onboard.",
+            "translated": "~s~等待~b~列车~s~经过，跳上车顶。",
+            "desc": ""
+        },
+        {
+            "hash": 2149058820,
+            "original": "~s~You have left ~b~Yusuf ~s~behind.",
+            "translated": "~s~你把~b~Yusuf~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 2230539956,
+            "original": "~s~Yusuf is getting close, disconnect the front carriage now.",
+            "translated": "~s~Yusuf正在靠近，分离车头。",
+            "desc": ""
+        },
+        {
+            "hash": 2310255927,
+            "original": "~s~Keep moving towards the ~b~front carriage.",
+            "translated": "~s~继续向~b~车头~s~前进。",
+            "desc": ""
+        },
+        {
+            "hash": 2948614609,
+            "original": "~s~Yusuf is on his way, survive until his chopper arrives.",
+            "translated": "~s~Yusuf在路上了，奋战到他的直升机到达。",
+            "desc": ""
+        },
+        {
+            "hash": 3019842316,
+            "original": "~s~You are running out of time, quickly get to the ~b~front carriage.",
+            "translated": "~s~你的时间不多了，快点到达~b~车头。",
+            "desc": ""
+        },
+        {
+            "hash": 3036178542,
+            "original": "~s~Fight your way along the train and disconnect the ~b~front carriage.",
+            "translated": "~s~杀到列车车头，解开~b~车钩。",
+            "desc": ""
+        },
+        {
+            "hash": 3121671636,
+            "original": "~s~Get to the ~y~Algonquin Bridge.",
+            "translated": "~s~前往~y~Algonquin大桥。",
+            "desc": ""
+        },
+        {
+            "hash": 3703075643,
+            "original": "~s~Press ~PAD_LSTICK_NONE~ to duck under the chopper.",
+            "translated": "~s~按~PAD_LSTICK_NONE~趴下躲避直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3895828383,
+            "original": "~r~You abandoned Yusuf.",
+            "translated": "~r~你抛弃了Yusuf。",
+            "desc": ""
+        },
+        {
+            "hash": 4091746746,
+            "original": "~s~Press ~INPUT_DUCK~ to duck under the chopper.",
+            "translated": "~s~按~INPUT_DUCK~趴下躲避直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 4121311417,
+            "original": "~s~Get into position ~y~above the tracks.",
+            "translated": "在~y~铁轨上方~s~就位。",
+            "desc": ""
+        },
+        {
+            "hash": 4133960706,
+            "original": "~r~Yusuf died.",
+            "translated": "~r~Yusuf死了。",
+            "desc": ""
+        }
+    ]
+}

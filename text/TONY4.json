@@ -1,0 +1,250 @@
+{
+    "TONY4": [
+        {
+            "hash": 66217647,
+            "original": "Land safely on the ground.",
+            "translated": "安全地着陆。",
+            "desc": ""
+        },
+        {
+            "hash": 141397757,
+            "original": "Hold ~INPUT_VEH_CIN_CAM~ to focus on the next checkpoint.",
+            "translated": "按住~INPUT_VEH_CIN_CAM~将镜头对准下一个检查点。",
+            "desc": ""
+        },
+        {
+            "hash": 225187783,
+            "original": "Leave the internet cafe.",
+            "translated": "离开网吧。",
+            "desc": ""
+        },
+        {
+            "hash": 256110254,
+            "original": "Go to an ~y~internet cafe.",
+            "translated": "找一家~y~网吧。",
+            "desc": ""
+        },
+        {
+            "hash": 284651219,
+            "original": "Get into the ~b~car.",
+            "translated": "上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 514154861,
+            "original": "Get back in the ~b~chopper.",
+            "translated": "回到~b~直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 717858364,
+            "original": "~r~You abandoned the chopper.",
+            "translated": "~r~你抛弃了直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 796923453,
+            "original": "Get back into the ~b~car.",
+            "translated": "回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1111508671,
+            "original": "Click on 'Leave Comment'.",
+            "translated": "点击「发表评论」。",
+            "desc": ""
+        },
+        {
+            "hash": 1133491165,
+            "original": "Don't leave ~b~Gracie ~s~behind.",
+            "translated": "别把~b~Gracie~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 1225872198,
+            "original": "~r~Gracie is dead.",
+            "translated": "~r~Gracie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1238909896,
+            "original": "Meet Tony at the ~y~helipad.",
+            "translated": "和Tony在~y~停机坪~s~碰面。",
+            "desc": ""
+        },
+        {
+            "hash": 1340137984,
+            "original": "Click on 'Submit'.",
+            "translated": "点击「提交」。",
+            "desc": ""
+        },
+        {
+            "hash": 1436812346,
+            "original": "~r~You alerted the cops.",
+            "translated": "~r~你惊动了警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1478442769,
+            "original": "~r~Gracie's car was destroyed.",
+            "translated": "~r~Gracie的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1565884452,
+            "original": "~r~You abandoned Gracie.",
+            "translated": "~r~你抛弃了Gracie。",
+            "desc": ""
+        },
+        {
+            "hash": 1627975665,
+            "original": "Intimidate the Celebinator.",
+            "translated": "恐吓名人终结者。",
+            "desc": ""
+        },
+        {
+            "hash": 1634557751,
+            "original": "Press ~PAD_LSTICK_UP~ to dive.",
+            "translated": "按~PAD_LSTICK_UP~向下俯冲。",
+            "desc": ""
+        },
+        {
+            "hash": 1722486676,
+            "original": "Get back on a computer.",
+            "translated": "回到电脑上。",
+            "desc": ""
+        },
+        {
+            "hash": 1953290163,
+            "original": "Catch the ~r~Celebinator ~s~before he hits the ground.",
+            "translated": "在~r~名人终结者~s~着地前抓住他。",
+            "desc": ""
+        },
+        {
+            "hash": 2002232681,
+            "original": "Get to the ~b~chopper.",
+            "translated": "前往~b~直升机~s~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 2008068511,
+            "original": "Press ~INPUT_PICKUP~ to exit.",
+            "translated": "按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 2071378207,
+            "original": "Use a computer.",
+            "translated": "上机。",
+            "desc": ""
+        },
+        {
+            "hash": 2153399014,
+            "original": "Click on the Celebinator link.",
+            "translated": "点击Celebinator链接。",
+            "desc": ""
+        },
+        {
+            "hash": 2213356527,
+            "original": "Press ~INPUT_RELOAD~ to punch the Celebinator. ~n~Press ~INPUT_JUMP~ to slap the Celebinator. ~n~Press ~INPUT_ENTER~ to throw the Celebinator out.",
+            "translated": "按~INPUT_RELOAD~给名人终结者一拳。~n~按~INPUT_JUMP~扇名人终结者耳光。~n~按~INPUT_ENTER~把名人终结者扔出去。",
+            "desc": ""
+        },
+        {
+            "hash": 2230447339,
+            "original": "~r~You abandoned the Celebinator.",
+            "translated": "~r~你抛弃了名人终结者。",
+            "desc": ""
+        },
+        {
+            "hash": 2277380375,
+            "original": "Press ~PAD_Y~ to jump out of the helicopter.",
+            "translated": "按~PAD_Y~跳出直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2415065139,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 2474802829,
+            "original": "~r~The Celebinator is dead.",
+            "translated": "~r~名人终结者死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2490625957,
+            "original": "Go back to the Eyefind main page.",
+            "translated": "返回Eyefind主页。",
+            "desc": ""
+        },
+        {
+            "hash": 2534931887,
+            "original": "Take Tony and Gracie to ~y~Gracie's house.",
+            "translated": "送Tony和Gracie去~y~Gracie家。",
+            "desc": ""
+        },
+        {
+            "hash": 2634688283,
+            "original": "~r~Tony's car was destroyed.",
+            "translated": "~r~Tony的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2776998982,
+            "original": "~r~The chopper was destroyed.",
+            "translated": "~r~直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2988058213,
+            "original": "Click on the WEB icon.",
+            "translated": "点击WEB图标。",
+            "desc": ""
+        },
+        {
+            "hash": 3013858417,
+            "original": "Don't leave ~b~Tony ~s~behind.",
+            "translated": "别把~b~Tony~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3086531275,
+            "original": "Press ~PAD_B~ to punch the Celebinator. ~n~Press ~PAD_X~ to slap the Celebinator. ~n~Press ~PAD_Y~ to throw the Celebinator out.",
+            "translated": "按~PAD_B~给名人终结者一拳。~n~按~PAD_X~扇名人终结者耳光。~n~按~PAD_Y~把名人终结者扔出去。",
+            "desc": ""
+        },
+        {
+            "hash": 3342065966,
+            "original": "~r~You abandoned Tony and Gracie.",
+            "translated": "~r~你抛弃了Tony和Gracie。",
+            "desc": ""
+        },
+        {
+            "hash": 3654200393,
+            "original": "Don't leave the ~b~Celebinator ~s~behind.",
+            "translated": "别把~b~名人终结者~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3787168404,
+            "original": "~r~You abandoned Tony.",
+            "translated": "~r~你抛弃了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 3911243358,
+            "original": "Fly the chopper ~y~towards Happiness Island, ~s~as high as possible.",
+            "translated": "飞向~y~幸福岛~s~上空，越高越好。",
+            "desc": ""
+        },
+        {
+            "hash": 4096297535,
+            "original": "~r~Tony is dead.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        }
+    ]
+}

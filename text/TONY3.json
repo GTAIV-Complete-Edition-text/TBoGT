@@ -1,0 +1,226 @@
+{
+    "TONY3": [
+        {
+            "hash": 19566693,
+            "original": "~r~You lost Rocco.",
+            "translated": "~r~你跟丢了Rocco。",
+            "desc": ""
+        },
+        {
+            "hash": 35121826,
+            "original": "~r~You abandoned Rocco.",
+            "translated": "~r~你抛弃了Rocco。",
+            "desc": ""
+        },
+        {
+            "hash": 109366669,
+            "original": "Hit the ~r~Union official ~s~with golf balls.",
+            "translated": "用高尔夫球击打~r~工会干部。",
+            "desc": ""
+        },
+        {
+            "hash": 295311729,
+            "original": "Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.",
+            "translated": "按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。",
+            "desc": ""
+        },
+        {
+            "hash": 347845424,
+            "original": "~r~You abandoned Tony.",
+            "translated": "~r~你抛弃了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 540838908,
+            "original": "Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Move ~PAD_RSTICK_DOWN~ to start swing. ~n~Move ~PAD_RSTICK_UP~ to hit the ball.",
+            "translated": "用~PAD_LSTICK_ALL~改变目标落点。~n~移动~PAD_RSTICK_DOWN~开始蓄力。~n~移动~PAD_RSTICK_UP~击球。",
+            "desc": ""
+        },
+        {
+            "hash": 835028245,
+            "original": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.",
+            "translated": "~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~进行缩放。",
+            "desc": ""
+        },
+        {
+            "hash": 903820411,
+            "original": "Help defend Rocco from the ~r~Messinas.",
+            "translated": "从~r~Messina家族成员~s~手中保护Rocco。",
+            "desc": ""
+        },
+        {
+            "hash": 957103717,
+            "original": "~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.",
+            "translated": "~s~瞄准时用~PAD_RSTICK_NONE~切换缩放倍率。",
+            "desc": ""
+        },
+        {
+            "hash": 1085263074,
+            "original": "For greater accuracy, time your shot on the black line, and keep ~PAD_RSTICK_ALL~ straight. ~n~Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.",
+            "translated": "若要提高击球精度，在蓄力槽回落到黑线时击球，同时控制好~PAD_RSTICK_ALL~的位置。~n~按住~INPUT_ATTACK~进行缩放。~n~用~PAD_RSTICK_LEFTRIGHT~旋转视角。",
+            "desc": ""
+        },
+        {
+            "hash": 1147032439,
+            "original": "Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Press ~PAD_A~ to start backswing. ~n~To hit the ball, press ~PAD_A~ when the descending power bar reaches the black marker.",
+            "translated": "用~PAD_LSTICK_ALL~改变目标落点。~n~按~PAD_A~开始蓄力。~n~游标回落到黑线时按~PAD_A~击球。",
+            "desc": ""
+        },
+        {
+            "hash": 1164663545,
+            "original": "Head down to the ~b~golf cart.",
+            "translated": "前往~b~高尔夫球车~s~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1368005035,
+            "original": "~r~The golf cart was destroyed.",
+            "translated": "~r~高尔夫球车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1536197087,
+            "original": "Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.",
+            "translated": "按住~INPUT_ATTACK~进行缩放。~n~用~PAD_RSTICK_LEFTRIGHT~旋转视角。",
+            "desc": ""
+        },
+        {
+            "hash": 1821323024,
+            "original": "Hold ~INPUT_SPRINT~ to run. Tap ~INPUT_SPRINT~ repeatedly to sprint.",
+            "translated": "按住~INPUT_SPRINT~奔跑。连按~INPUT_SPRINT~冲刺。",
+            "desc": ""
+        },
+        {
+            "hash": 2027026783,
+            "original": "Get back into the ~b~car.",
+            "translated": "回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2062148959,
+            "original": "Get back into the ~b~golf cart.",
+            "translated": "回到~b~高尔夫球车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2100465840,
+            "original": "~r~Rocco is dead.",
+            "translated": "~r~Rocco死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2362336346,
+            "original": "Press ~PAD_A~ to hit the ball.",
+            "translated": "按~PAD_A~击球。",
+            "desc": ""
+        },
+        {
+            "hash": 2377171276,
+            "original": "Don't leave ~b~Tony ~s~behind.",
+            "translated": "别把~b~Tony~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 2403789337,
+            "original": "~r~Rocco's golf cart was destroyed.",
+            "translated": "~r~Rocco的高尔夫球车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2445807912,
+            "original": "Clear the area of the ~r~Messinas.",
+            "translated": "清除区域内的~r~Messina家族成员。",
+            "desc": ""
+        },
+        {
+            "hash": 2574005645,
+            "original": "~r~Tony's car was destroyed.",
+            "translated": "~r~Tony的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2670344064,
+            "original": "Use ~INPUT_SPRINT~ to sprint.",
+            "translated": "按~INPUT_SPRINT~冲刺。",
+            "desc": ""
+        },
+        {
+            "hash": 2745818937,
+            "original": "Park ~y~next to Rocco.",
+            "translated": "停在~y~Rocco旁边。",
+            "desc": ""
+        },
+        {
+            "hash": 2957465548,
+            "original": "Get into the ~b~golf cart.",
+            "translated": "进入~b~高尔夫球车。",
+            "desc": ""
+        },
+        {
+            "hash": 3015904883,
+            "original": "Use ~PAD_RSTICK_ALL~ to change shot position. ~n~Press ~INPUT_MOUSE_LMB~ to start backswing. ~n~To hit the ball, press ~INPUT_MOUSE_LMB~ when the descending power bar reaches the black marker.",
+            "translated": "用~PAD_RSTICK_ALL~改变目标落点。~n~按~INPUT_MOUSE_LMB~开始蓄力。~n~游标回落到黑线时按~INPUT_MOUSE_LMB~击球。",
+            "desc": ""
+        },
+        {
+            "hash": 3119207815,
+            "original": "Wait for ~b~Tony.",
+            "translated": "等待~b~Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 3267488079,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3608594101,
+            "original": "~r~Tony's car is stuck.",
+            "translated": "~r~Tony的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 3698916628,
+            "original": "Follow ~b~Rocco ~s~out of the golf club.",
+            "translated": "跟随~b~Rocco~s~离开高尔夫俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 3943276397,
+            "original": "Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.",
+            "translated": "按住~INPUT_FREE_AIM~进行缩放。~n~按~INPUT_MOVE_LEFT~和~INPUT_MOVE_RIGHT~旋转视角。",
+            "desc": ""
+        },
+        {
+            "hash": 3991807840,
+            "original": "Move ~PAD_RSTICK_UP~ to hit the ball.",
+            "translated": "按~PAD_RSTICK_UP~击球。",
+            "desc": ""
+        },
+        {
+            "hash": 4074024874,
+            "original": "Go to the ~y~Golden Pier ~s~golf club.",
+            "translated": "前往~y~黄金码头~s~高尔夫俱乐部。",
+            "desc": ""
+        },
+        {
+            "hash": 4134444245,
+            "original": "Get into Tony's ~b~car.",
+            "translated": "进入~b~Tony的车。",
+            "desc": ""
+        },
+        {
+            "hash": 4249074748,
+            "original": "Take Tony back to his ~y~apartment.",
+            "translated": "送Tony回他的~y~公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 4258638906,
+            "original": "~r~Tony is dead.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        }
+    ]
+}

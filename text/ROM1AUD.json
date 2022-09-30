@@ -1,0 +1,1852 @@
+{
+    "ROM1AUD": [
+        {
+            "hash": 1019555,
+            "original": "ROM1_NA",
+            "translated": "ROM1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3827322,
+            "original": "~z~Now we are soft and miserable, just like you.",
+            "translated": "~z~现在我们软弱又痛苦，就像你一样。",
+            "desc": ""
+        },
+        {
+            "hash": 8513987,
+            "original": "100090100090010090100090100010",
+            "translated": "100090100090010090100090100010",
+            "desc": ""
+        },
+        {
+            "hash": 25774758,
+            "original": "~z~Few hours later you was getting your ass beat by a pimp in Bohan. Life sure does twist and turn.",
+            "translated": "~z~几小时后你就在Bohan被皮条客打了一顿。人生还真是百转千回。",
+            "desc": ""
+        },
+        {
+            "hash": 26078495,
+            "original": "~z~This is mine, man, I just... errr... forgot the keys.",
+            "translated": "~z~这车我的，哥们，我只是...忘带钥匙了。",
+            "desc": ""
+        },
+        {
+            "hash": 34031464,
+            "original": "~z~You don't need to tell me.",
+            "translated": "~z~这还用说嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 104179838,
+            "original": "~z~Excuse me?",
+            "translated": "~z~你说啥？",
+            "desc": ""
+        },
+        {
+            "hash": 115375181,
+            "original": "~z~Arnaud, what are you doing down here, bro?",
+            "translated": "~z~Arnaud，你在这儿干啥呢，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 146730849,
+            "original": "ROM1_SA",
+            "translated": "ROM1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 206538543,
+            "original": "~z~Luis!",
+            "translated": "~z~Luis！",
+            "desc": ""
+        },
+        {
+            "hash": 211026045,
+            "original": "~z~I had a family... meaningless... honor? Don't make me puke.",
+            "translated": "~z~我有过家庭...毫无意义...名声？别恶心我了。",
+            "desc": ""
+        },
+        {
+            "hash": 249519281,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 250050086,
+            "original": "ROM1_DE1",
+            "translated": "ROM1_DE1",
+            "desc": ""
+        },
+        {
+            "hash": 257135844,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 259884123,
+            "original": "ROM1_AA",
+            "translated": "ROM1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 260612528,
+            "original": "ROM1_ZC",
+            "translated": "ROM1_ZC",
+            "desc": ""
+        },
+        {
+            "hash": 288810439,
+            "original": "~z~Here is an example for you to digest.",
+            "translated": "~z~我给你举个新鲜的例子。",
+            "desc": ""
+        },
+        {
+            "hash": 296378599,
+            "original": "ROM1_IA",
+            "translated": "ROM1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 326177246,
+            "original": "ROM1_BA",
+            "translated": "ROM1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 337528650,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 342833056,
+            "original": "ROM1_QA",
+            "translated": "ROM1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 348603735,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 360789280,
+            "original": "ROM1_VA",
+            "translated": "ROM1_VA",
+            "desc": ""
+        },
+        {
+            "hash": 372822295,
+            "original": "ROM1_CB",
+            "translated": "ROM1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 378298883,
+            "original": "ROM1_MC",
+            "translated": "ROM1_MC",
+            "desc": ""
+        },
+        {
+            "hash": 421163257,
+            "original": "~z~The rich red stain of a Bordeaux, the salty residue of a whore's crocodile tears,",
+            "translated": "~z~波尔多红酒的奢华红印，妓女流下的鳄鱼的泪水，",
+            "desc": ""
+        },
+        {
+            "hash": 422549028,
+            "original": "~z~I like you. You find things as - as ridiculous as me.",
+            "translated": "~z~我很中意你。你看事情的角度...和我一样滑稽。",
+            "desc": ""
+        },
+        {
+            "hash": 435095552,
+            "original": "ROM1_DG",
+            "translated": "ROM1_DG",
+            "desc": ""
+        },
+        {
+            "hash": 444294409,
+            "original": "ROM1_IC",
+            "translated": "ROM1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 444769277,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 445260708,
+            "original": "~z~Yeah.",
+            "translated": "~z~诶。",
+            "desc": ""
+        },
+        {
+            "hash": 461938011,
+            "original": "ROM1_JG1",
+            "translated": "ROM1_JG1",
+            "desc": ""
+        },
+        {
+            "hash": 468755322,
+            "original": "~z~Keep that double ender away from me.",
+            "translated": "~z~让那个双向插座滚远点。",
+            "desc": ""
+        },
+        {
+            "hash": 478384833,
+            "original": "ROM1_JF",
+            "translated": "ROM1_JF",
+            "desc": ""
+        },
+        {
+            "hash": 504534827,
+            "original": "010010010",
+            "translated": "010010010",
+            "desc": ""
+        },
+        {
+            "hash": 508994562,
+            "original": "~z~No, mon ami, I hate to tell you my friend,",
+            "translated": "~z~不，我的朋友，我很不想这么说哈。",
+            "desc": ""
+        },
+        {
+            "hash": 520790255,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 521759149,
+            "original": "100100090100090100090010",
+            "translated": "100100090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 581394785,
+            "original": "~z~I'm not sure someone from the Heights qualifies as being Spaniard, but whatever.",
+            "translated": "~z~我不太确定高地出身的人算不算西班牙人，随你便吧。",
+            "desc": ""
+        },
+        {
+            "hash": 592252461,
+            "original": "~z~Soon she was drenched in champagne and bent over naked in my hotel suite.",
+            "translated": "~z~然后她就被香槟淋了个透，在我开的房里脱光了弓着腰。",
+            "desc": ""
+        },
+        {
+            "hash": 599098661,
+            "original": "~z~Yo. Don't worry, bro. We going to subject him to some shit soon enough.",
+            "translated": "~z~哟。没事，兄弟。一会儿咱们就把他整个够。",
+            "desc": ""
+        },
+        {
+            "hash": 604606785,
+            "original": "ROM1_ID",
+            "translated": "ROM1_ID",
+            "desc": ""
+        },
+        {
+            "hash": 615106281,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 633490823,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 659030447,
+            "original": "~z~Exactly, my friend...err...well...",
+            "translated": "~z~对对对，朋友...",
+            "desc": ""
+        },
+        {
+            "hash": 701238293,
+            "original": "~z~Ou est la masseuse?",
+            "translated": "~z~按摩师在哪里？",
+            "desc": ""
+        },
+        {
+            "hash": 704625945,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 705948320,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 708274687,
+            "original": "ROM1_YA",
+            "translated": "ROM1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 742350674,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 787323217,
+            "original": "ROM1_MB",
+            "translated": "ROM1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 792591082,
+            "original": "~z~In that case, fuck you.",
+            "translated": "~z~是吗，那操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 798402875,
+            "original": "SFX_PAUSE_090",
+            "translated": "SFX_PAUSE_090",
+            "desc": ""
+        },
+        {
+            "hash": 798758190,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 817686805,
+            "original": "~z~You are a valiant hero, Spaniard.",
+            "translated": "~z~你是个勇敢的英雄，西班牙人。",
+            "desc": ""
+        },
+        {
+            "hash": 820170082,
+            "original": "~z~Fuck You!",
+            "translated": "~z~操你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 850878367,
+            "original": "~z~Do you not wish to ascend the lofty peak of the Horny Mountain?",
+            "translated": "~z~难道你就不想登上快感之山的山巅吗？",
+            "desc": ""
+        },
+        {
+            "hash": 878553734,
+            "original": "ROM1_JC",
+            "translated": "ROM1_JC",
+            "desc": ""
+        },
+        {
+            "hash": 904651283,
+            "original": "ROM1_DC",
+            "translated": "ROM1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 919427092,
+            "original": "ROM1_LD",
+            "translated": "ROM1_LD",
+            "desc": ""
+        },
+        {
+            "hash": 926457772,
+            "original": "ROM1_OA",
+            "translated": "ROM1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 927243849,
+            "original": "~z~He ain't getting away.",
+            "translated": "~z~他跑不了的。",
+            "desc": ""
+        },
+        {
+            "hash": 931988841,
+            "original": "~z~Here. Here. I didn't want that sicko motherfucker's wallet anyways.",
+            "translated": "~z~给你，给你。我才不想要这个死变态的钱包。",
+            "desc": ""
+        },
+        {
+            "hash": 934539707,
+            "original": "ROM1_DA2",
+            "translated": "ROM1_DA2",
+            "desc": ""
+        },
+        {
+            "hash": 940300144,
+            "original": "~z~I like a man who's so focused.",
+            "translated": "~z~就喜欢这种专注的人。",
+            "desc": ""
+        },
+        {
+            "hash": 954044285,
+            "original": "~z~Civilian like you coming out to the Point is almost as suicidal.",
+            "translated": "~z~你这样的平民来Chase Point和自杀没啥区别。",
+            "desc": ""
+        },
+        {
+            "hash": 967118776,
+            "original": "~z~and you just debase it with 'whatever' or 'like' or 'fuck you' or 'get over yourself'.",
+            "translated": "~z~但你们只会用「随便」「喜欢」「操你妈」「差不多得了」糟蹋这门语言。",
+            "desc": ""
+        },
+        {
+            "hash": 968251336,
+            "original": "ROM1_GA",
+            "translated": "ROM1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 999677568,
+            "original": "~z~I come to fuck and get high. What else is there?",
+            "translated": "~z~我是来操逼寻欢的。这儿还有啥？",
+            "desc": ""
+        },
+        {
+            "hash": 1008908303,
+            "original": "ROM1_MD",
+            "translated": "ROM1_MD",
+            "desc": ""
+        },
+        {
+            "hash": 1010607880,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 1020705499,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 1028198072,
+            "original": "~z~We are all scared by everything that happens to us, whether those marks are visible or not.",
+            "translated": "~z~我们都害怕发生在身上的一切，不管那些印记是否有形。",
+            "desc": ""
+        },
+        {
+            "hash": 1070953193,
+            "original": "010090100090010090100",
+            "translated": "010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1099299034,
+            "original": "ROM1_KA",
+            "translated": "ROM1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1126879747,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 1166162628,
+            "original": "~z~Come back here, motherfucker.",
+            "translated": "~z~滚回来，傻逼东西。",
+            "desc": ""
+        },
+        {
+            "hash": 1172501274,
+            "original": "~z~I don't know... family?",
+            "translated": "~z~不知道...家庭吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1189038015,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1192133571,
+            "original": "~z~Why did he not just ask me for the money? If he needed it, we could have made an arrangement.",
+            "translated": "~z~想要钱他怎么不直说呢？把话说清，大家还能商量一下。",
+            "desc": ""
+        },
+        {
+            "hash": 1196665621,
+            "original": "~z~What is wrong you? The British, they give you this beautiful, if a little awkward language,",
+            "translated": "~z~你们怎么回事？英国人赐予了你们如此美丽的语言，虽然有点拗口，",
+            "desc": ""
+        },
+        {
+            "hash": 1198420641,
+            "original": "~z~Let's go for a drive.",
+            "translated": "~z~咱们去兜兜风嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 1209729841,
+            "original": "100100100090010090100100100100090010",
+            "translated": "100100100090010090100100100100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1219576740,
+            "original": "ROM1_IB",
+            "translated": "ROM1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1225029645,
+            "original": "~z~My people watch American television and then they complain about it afterwards.",
+            "translated": "~z~法国人天天看美国的电视节目，看完还要骂上两句。",
+            "desc": ""
+        },
+        {
+            "hash": 1249470964,
+            "original": "ROM1_DE2",
+            "translated": "ROM1_DE2",
+            "desc": ""
+        },
+        {
+            "hash": 1273028387,
+            "original": "ROM1_IE",
+            "translated": "ROM1_IE",
+            "desc": ""
+        },
+        {
+            "hash": 1279949974,
+            "original": "ROM1_KC",
+            "translated": "ROM1_KC",
+            "desc": ""
+        },
+        {
+            "hash": 1284613520,
+            "original": "ROM1_IF",
+            "translated": "ROM1_IF",
+            "desc": ""
+        },
+        {
+            "hash": 1286701096,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 1310248784,
+            "original": "~z~Hey, compared to the shit I've dealt with today, okay, that doesn't sound so shady,",
+            "translated": "~z~嘿，比起我今天遇到的事，听起来还挺正能量的。",
+            "desc": ""
+        },
+        {
+            "hash": 1316499734,
+            "original": "~z~That will be another experience, my friend. It shall be worth remembering, too.",
+            "translated": "~z~那又是另一种经历，朋友。也值得铭记。",
+            "desc": ""
+        },
+        {
+            "hash": 1321011478,
+            "original": "~z~Don't get that whip out again, motherfucker",
+            "translated": "~z~别让那个受虐狂出来了，操你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1326044816,
+            "original": "~z~Howdy partner.",
+            "translated": "~z~你好，搭档。",
+            "desc": ""
+        },
+        {
+            "hash": 1344137166,
+            "original": "~z~Before 11 am, she was shovelling cocaine into her nose with a caviar spoon",
+            "translated": "~z~11点不到，她拿着小勺子往鼻子里送可卡因，",
+            "desc": ""
+        },
+        {
+            "hash": 1349715122,
+            "original": "~z~Have you got a car?",
+            "translated": "~z~你有车吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1356125160,
+            "original": "~z~I tell you, it is a bad combination - Chinese opium and Brazilian prostitute. No no no no no.",
+            "translated": "~z~我跟你讲，这组合真不行：中国鸦片，加上巴西妓女。不不不不不。",
+            "desc": ""
+        },
+        {
+            "hash": 1357091536,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1388981873,
+            "original": "~z~Please, can you get rid of the gendarmes?",
+            "translated": "~z~拜托，能不能把警察甩了？",
+            "desc": ""
+        },
+        {
+            "hash": 1402053304,
+            "original": "ROM1_LB1",
+            "translated": "ROM1_LB1",
+            "desc": ""
+        },
+        {
+            "hash": 1410357851,
+            "original": "~z~I was just nodding off after a little bit of light after dinner bondage and,",
+            "translated": "~z~每晚必备的SM完事之后，我刚嗑了点药有点恍惚...",
+            "desc": ""
+        },
+        {
+            "hash": 1416226089,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 1435504233,
+            "original": "ROM1_JI",
+            "translated": "ROM1_JI",
+            "desc": ""
+        },
+        {
+            "hash": 1479480938,
+            "original": "~z~Well, then clearly you do not watch enough television.",
+            "translated": "~z~那你电视看得还不够多啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1504975665,
+            "original": "SFX_PAUSE_090",
+            "translated": "SFX_PAUSE_090",
+            "desc": ""
+        },
+        {
+            "hash": 1519555810,
+            "original": "ROM1_JG2",
+            "translated": "ROM1_JG2",
+            "desc": ""
+        },
+        {
+            "hash": 1543180135,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1550740475,
+            "original": "~z~maybe you can help me get back the wallet?",
+            "translated": "~z~你能考虑下帮我追回钱包吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1550931620,
+            "original": "~z~It's your life you playing with, bro. I just don't wanna see you end up one of them deviant sex stories gone wrong.",
+            "translated": "~z~命是你自己的，兄弟。我只是不想看见你变成出人命的色情鬼故事。",
+            "desc": ""
+        },
+        {
+            "hash": 1554607213,
+            "original": "~z~so why the \"fuck you\" not?",
+            "translated": "~z~所以为啥不「干他妈的」？",
+            "desc": ""
+        },
+        {
+            "hash": 1566602045,
+            "original": "~z~Et pourquoi pas?",
+            "translated": "~z~为什么不呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1580430864,
+            "original": "~z~No doubt. If we survive that long you're on.",
+            "translated": "~z~没问题。都能活到那个时候的话，你就来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1593852452,
+            "original": "ROM1_RD",
+            "translated": "ROM1_RD",
+            "desc": ""
+        },
+        {
+            "hash": 1594569963,
+            "original": "~z~Arnaud, you petite rascal, where are you now?",
+            "translated": "~z~Arnaud，你这个小流氓，咋成这副衰样了？",
+            "desc": ""
+        },
+        {
+            "hash": 1616867501,
+            "original": "ROM1_PB",
+            "translated": "ROM1_PB",
+            "desc": ""
+        },
+        {
+            "hash": 1626655430,
+            "original": "~z~A police presence may scare them off.",
+            "translated": "~z~警察来了会吓跑他们的。",
+            "desc": ""
+        },
+        {
+            "hash": 1639819991,
+            "original": "~z~Well, I do not come to Liberty City to watch television.",
+            "translated": "~z~好吧，我来自由城不是为了看电视的。",
+            "desc": ""
+        },
+        {
+            "hash": 1641444839,
+            "original": "~z~Yeah, no doubt, man.",
+            "translated": "~z~那还用说，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 1691295479,
+            "original": "~z~Okay, bro. This is where I'm leaving you. You still might get robbed round here, but they won't kill you.",
+            "translated": "~z~好了，兄弟。我就送你到这儿了。在这儿也可能被打劫，但不至于要你的命。",
+            "desc": ""
+        },
+        {
+            "hash": 1717940951,
+            "original": "~z~Hey, I'm not miserable.",
+            "translated": "~z~喂，我可没觉得痛苦。",
+            "desc": ""
+        },
+        {
+            "hash": 1721480431,
+            "original": "~z~I have a lovely little masseuse booked in Chinatown, can we go there?",
+            "translated": "~z~我在唐人街约了个可爱的按摩小妹，能送我过去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1726947283,
+            "original": "ROM1_DF",
+            "translated": "ROM1_DF",
+            "desc": ""
+        },
+        {
+            "hash": 1739171497,
+            "original": "ROM1_DD",
+            "translated": "ROM1_DD",
+            "desc": ""
+        },
+        {
+            "hash": 1742973032,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1746925831,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 1752333594,
+            "original": "ROM1_FB",
+            "translated": "ROM1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 1770079853,
+            "original": "~z~We cannot lead the police to these shy, innocent girls.",
+            "translated": "~z~咱可不能把警察带到这些害羞又无辜的妹子那去。",
+            "desc": ""
+        },
+        {
+            "hash": 1776704438,
+            "original": "ROM1_TA",
+            "translated": "ROM1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1797352756,
+            "original": "~z~That is him. Do you think you can get my wallet back?",
+            "translated": "~z~就是他了。你觉得钱包能拿回来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1805153094,
+            "original": "010090100090010",
+            "translated": "010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1838362136,
+            "original": "~z~Well, maybe bring some protection next trip... of all kinds. Later on.",
+            "translated": "~z~好吧，下次做好安全措施吧...各方面都是。再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 1889163273,
+            "original": "~z~Shit. Shit. Shit.",
+            "translated": "~z~妈的，妈的，妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1895504498,
+            "original": "~z~The smell in the air...",
+            "translated": "~z~这股气味...",
+            "desc": ""
+        },
+        {
+            "hash": 1921418488,
+            "original": "~z~The pervert's back? I ain't letting you nowhere near me you fuckin French freak",
+            "translated": "~z~变态回来了？你别想靠近我，变态法国佬。",
+            "desc": ""
+        },
+        {
+            "hash": 1947401844,
+            "original": "~z~You the greasy Chase Point pimp and you calling him a sicko? Get over yourself, bro.",
+            "translated": "~z~油嘴滑舌的Chase Point皮条客管别人叫变态？滚你丫的，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1948461962,
+            "original": "~z~The only thing on her mind was buying a coffee, but I made her a proposal.",
+            "translated": "~z~她只想去买杯咖啡，但我向她求婚了。",
+            "desc": ""
+        },
+        {
+            "hash": 1960333672,
+            "original": "~z~I have an appointment at the High End Massage Spa on Diamond Street.",
+            "translated": "~z~我在Diamond街的超世纪水疗按摩有预约。",
+            "desc": ""
+        },
+        {
+            "hash": 1991467679,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2037281627,
+            "original": "~z~Shiva with the goddess Shak-ti as Sherpa-guide.",
+            "translated": "~z~密教之神赐我雄风吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2072048671,
+            "original": "~z~Can I buy a massage for you? It's the least I can do considering your many kindnesses.",
+            "translated": "~z~我能请你按个摩吗？滴水之恩，涌泉相报嘛。",
+            "desc": ""
+        },
+        {
+            "hash": 2090588628,
+            "original": "ROM1_JH",
+            "translated": "ROM1_JH",
+            "desc": ""
+        },
+        {
+            "hash": 2100847052,
+            "original": "~z~and your people, maybe can make a nice little TV show with you and your friends.",
+            "translated": "~z~说不定美国人还会给你和朋友们一个机会上电视。",
+            "desc": ""
+        },
+        {
+            "hash": 2132231628,
+            "original": "ROM1_JA",
+            "translated": "ROM1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2146614952,
+            "original": "~z~This wallet is very precious to me, I need it back.",
+            "translated": "~z~这钱包对我很重要，必须拿回来。",
+            "desc": ""
+        },
+        {
+            "hash": 2159124839,
+            "original": "ROM1_CD",
+            "translated": "ROM1_CD",
+            "desc": ""
+        },
+        {
+            "hash": 2163928465,
+            "original": "~z~He's a fucking pervert.",
+            "translated": "~z~这人他妈是变态。",
+            "desc": ""
+        },
+        {
+            "hash": 2204106132,
+            "original": "~z~Merde!",
+            "translated": "~z~该死！",
+            "desc": ""
+        },
+        {
+            "hash": 2230402080,
+            "original": "~z~when the pimp comes in, he steals my wallet and gives me a good beating.",
+            "translated": "~z~然后拉皮条的来了，偷了我的钱包，还打了我一顿。",
+            "desc": ""
+        },
+        {
+            "hash": 2249072705,
+            "original": "~z~Even in this white-washed, vanilla essence country we find ourselves in.",
+            "translated": "~z~即便身处这个粉饰一新、香气迷人的国家，道理依然如此。",
+            "desc": ""
+        },
+        {
+            "hash": 2256668028,
+            "original": "~z~ the chip of painted fingernail embedded in its leather - they are all my memories.",
+            "translated": "~z~皮革里做过美甲的指甲碎屑——全都是我的回忆。",
+            "desc": ""
+        },
+        {
+            "hash": 2261418243,
+            "original": "~z~I do not want to hear the moans of a policeman coming from the next door room.",
+            "translated": "~z~我不想听到隔壁房间传来警察的呻吟。",
+            "desc": ""
+        },
+        {
+            "hash": 2262421751,
+            "original": "~z~This morning, a delicious twenty two year old girl left her parents' apartment in Middle Park East.",
+            "translated": "~z~今早，一个22岁的诱人妹子从中心公园东的父母家出来，",
+            "desc": ""
+        },
+        {
+            "hash": 2262864235,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 2292171645,
+            "original": "~z~Ha, ha, ha.",
+            "translated": "~z~哈哈哈。",
+            "desc": ""
+        },
+        {
+            "hash": 2300219218,
+            "original": "~z~No, I'm cool, bro. I don't need no slave laborer fluffing me. I like things given up willingly.",
+            "translated": "~z~不用了，兄弟。我不需要奴隶劳工的大保健。我更喜欢顺势而为。",
+            "desc": ""
+        },
+        {
+            "hash": 2302329408,
+            "original": "~z~You should keep better company, bro.",
+            "translated": "~z~小心交友不慎啊，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2306827640,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2309757686,
+            "original": "~z~Fight them, my friend.",
+            "translated": "~z~干他们啊，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 2310984313,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2312539616,
+            "original": "~z~A table shower, two hands, maybe four?",
+            "translated": "~z~一张淋浴床，两只手，或是四只？",
+            "desc": ""
+        },
+        {
+            "hash": 2317281071,
+            "original": "~z~Adieu, dear boy. It's been fun.",
+            "translated": "~z~再见了，小子。我很开心。",
+            "desc": ""
+        },
+        {
+            "hash": 2389967599,
+            "original": "~z~Vive la France!",
+            "translated": "~z~法兰西万岁！",
+            "desc": ""
+        },
+        {
+            "hash": 2393851631,
+            "original": "ROM1_FA",
+            "translated": "ROM1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2399189954,
+            "original": "~z~Like one of them guys who strangle themselves trying to get off.",
+            "translated": "~z~像那些上吊以后突然反悔的人一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2406376467,
+            "original": "ROM1_HA",
+            "translated": "ROM1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 2408388929,
+            "original": "~z~I ain't going nowhere horny with you, bro.",
+            "translated": "~z~我不会跟你去追求快感的，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2460312589,
+            "original": "~z~No, it has a sentimental value.",
+            "translated": "~z~不，主要有感情了。",
+            "desc": ""
+        },
+        {
+            "hash": 2462502442,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 2475242668,
+            "original": "ROM1_NB",
+            "translated": "ROM1_NB",
+            "desc": ""
+        },
+        {
+            "hash": 2475444619,
+            "original": "~z~Motherfucker's driving off. We'll get him.",
+            "translated": "~z~狗逼玩意开车跑了。别想逃。",
+            "desc": ""
+        },
+        {
+            "hash": 2478544213,
+            "original": "ROM1_ND",
+            "translated": "ROM1_ND",
+            "desc": ""
+        },
+        {
+            "hash": 2515934238,
+            "original": "ROM1_NC",
+            "translated": "ROM1_NC",
+            "desc": ""
+        },
+        {
+            "hash": 2536661154,
+            "original": "~z~For watching too much television?",
+            "translated": "~z~因为你电视看多了？",
+            "desc": ""
+        },
+        {
+            "hash": 2537855114,
+            "original": "~z~Excuse me bro. It's how we do it in L.C.",
+            "translated": "~z~不好意思，兄弟。自由城是这样的。",
+            "desc": ""
+        },
+        {
+            "hash": 2540477731,
+            "original": "~z~I believe he is over on Bronco, my valiant Spaniard.",
+            "translated": "~z~我觉得他就在Bronco街，勇敢的西班牙人。",
+            "desc": ""
+        },
+        {
+            "hash": 2553655338,
+            "original": "ROM1_RB",
+            "translated": "ROM1_RB",
+            "desc": ""
+        },
+        {
+            "hash": 2570397144,
+            "original": "~z~Please. These sirens are giving me a headache.",
+            "translated": "~z~拜托，这警笛搞得我头疼。",
+            "desc": ""
+        },
+        {
+            "hash": 2590782431,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 2608948941,
+            "original": "~z~Nice pimp you got here.",
+            "translated": "~z~你这皮条客真行啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2609654574,
+            "original": "100100090010090100",
+            "translated": "100100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2613680990,
+            "original": "~z~I'm not sure I want to get into a car with someone like you.",
+            "translated": "~z~我有点不想跟你这样的人坐同一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 2642677006,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2645860720,
+            "original": "~z~Time was when we would chop someone's head off and would run around the streets with it on a stick.",
+            "translated": "~z~想当年我们还能把人砍头，插在长矛上游街。",
+            "desc": ""
+        },
+        {
+            "hash": 2648389085,
+            "original": "~z~Merde, a prude! Do not worry. I'll be on my own quest.",
+            "translated": "~z~妈的，虚伪！没事，那我一个人去。",
+            "desc": ""
+        },
+        {
+            "hash": 2654492893,
+            "original": "~z~Hey, have you a light?",
+            "translated": "~z~喂，你有火吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2658288770,
+            "original": "~z~Their reign of violence has come to an end.",
+            "translated": "~z~他们的暴力统治已经结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 2684761521,
+            "original": "~z~Maybe he didn't want to subject himself to no bondage. Light or otherwise.",
+            "translated": "~z~他可能是不想加入SM。不论重口程度。",
+            "desc": ""
+        },
+        {
+            "hash": 2696138153,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2703470737,
+            "original": "~z~They're just over on la rue de Bronco.",
+            "translated": "~z~他们就在Bronco街那边。",
+            "desc": ""
+        },
+        {
+            "hash": 2704009211,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 2723897724,
+            "original": "~z~by the coming of age party I threw for her this morning? Or my Godson only moments later?",
+            "translated": "~z~今早给她整的成人礼而改变？即将成人的干儿子也会这样？",
+            "desc": ""
+        },
+        {
+            "hash": 2727522339,
+            "original": "ROM1_XA",
+            "translated": "ROM1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2743993491,
+            "original": "ROM1_CA",
+            "translated": "ROM1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2777385433,
+            "original": "~z~Not for the money, or that wrap of cocaine, or the precious phone numbers stored in it.",
+            "translated": "~z~不是因为里面放着的钱啊、可卡因啊、手机号啊之类。",
+            "desc": ""
+        },
+        {
+            "hash": 2786476624,
+            "original": "ROM1_LB2",
+            "translated": "ROM1_LB2",
+            "desc": ""
+        },
+        {
+            "hash": 2789948192,
+            "original": "~z~What happened, bro?",
+            "translated": "~z~怎么回事，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2795934684,
+            "original": "100090010100090100090100090100090100090100010090100",
+            "translated": "100090010100090100090100090100090100090100010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2808944239,
+            "original": "~z~Touché.",
+            "translated": "~z~一针见血啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2812474902,
+            "original": "ROM1_ME",
+            "translated": "ROM1_ME",
+            "desc": ""
+        },
+        {
+            "hash": 2840135589,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2856464474,
+            "original": "ROM1_XB",
+            "translated": "ROM1_XB",
+            "desc": ""
+        },
+        {
+            "hash": 2857847686,
+            "original": "~z~Naughty, naughty, naughty.",
+            "translated": "~z~太皮了，太皮了，太皮了。",
+            "desc": ""
+        },
+        {
+            "hash": 2880880537,
+            "original": "ROM1_LC",
+            "translated": "ROM1_LC",
+            "desc": ""
+        },
+        {
+            "hash": 2884274706,
+            "original": "~z~Wait a second.",
+            "translated": "~z~等等。",
+            "desc": ""
+        },
+        {
+            "hash": 2890457135,
+            "original": "~z~Bravo! Bravo!",
+            "translated": "~z~好啊！好啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2909280662,
+            "original": "~z~Mais oui, it has seen some things.",
+            "translated": "~z~正是如此，它也见识过大风大浪了。",
+            "desc": ""
+        },
+        {
+            "hash": 2913181327,
+            "original": "ROM1_MA",
+            "translated": "ROM1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2915065450,
+            "original": "100090010090100090100090010",
+            "translated": "100090010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2919514067,
+            "original": "~z~Oh, Relax. Relax.",
+            "translated": "~z~噢，别紧张，别紧张。",
+            "desc": ""
+        },
+        {
+            "hash": 2926087303,
+            "original": "~z~Stop, you shit!",
+            "translated": "~z~别跑，你个废物！",
+            "desc": ""
+        },
+        {
+            "hash": 2944522827,
+            "original": "ROM1_AAA",
+            "translated": "ROM1_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 2953108774,
+            "original": "~z~As you wish, but there are pleasures distinct to the professional mistress.",
+            "translated": "~z~那好吧，但这里的乐趣可跟正经情妇不一样。",
+            "desc": ""
+        },
+        {
+            "hash": 2958219992,
+            "original": "~z~What is your pleasure, kind Spaniard?",
+            "translated": "~z~你喜欢怎么样的，善良的西班牙人？",
+            "desc": ""
+        },
+        {
+            "hash": 3000215820,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3014666939,
+            "original": "~z~Life is an unpredictable thing, my friend.",
+            "translated": "~z~人生真是不可预料啊，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 3015337970,
+            "original": "~z~Dude, you just getting your dick pulled, don't romanticize that shit too much.",
+            "translated": "~z~老兄，按摩只会硬扯你的鸡巴而已，别神化它了。",
+            "desc": ""
+        },
+        {
+            "hash": 3032398958,
+            "original": "~z~Here's your wallet, bro. I'd stay in Algonquin from now on if I was you. Things get rough out here in the boroughs.",
+            "translated": "~z~钱包拿好，兄弟。是我的话我就待在Algonquin了。这一块治安不太好。",
+            "desc": ""
+        },
+        {
+            "hash": 3053416209,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3059760016,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 3080557327,
+            "original": "~z~Thank you, Spaniard. I am only sorry you will not join me in this adventure.",
+            "translated": "~z~谢了，西班牙人。只可惜你不愿意加入我的这场冒险。",
+            "desc": ""
+        },
+        {
+            "hash": 3088682232,
+            "original": "~z~Am I so naïve as to think my Goddaughter was not changed",
+            "translated": "~z~我是不是太幼稚了，居然以为干女儿不会因为",
+            "desc": ""
+        },
+        {
+            "hash": 3120105075,
+            "original": "200090020",
+            "translated": "200090020",
+            "desc": ""
+        },
+        {
+            "hash": 3134564328,
+            "original": "~z~Somehow err, somehow I feel my dignity is still intact.",
+            "translated": "~z~怎么说呢...不知为啥我觉得还不算丢脸。",
+            "desc": ""
+        },
+        {
+            "hash": 3152537177,
+            "original": "~z~I don't mind when the girl play rough, but when the pimp come in and he plays rough too...",
+            "translated": "~z~妹子跟我来硬的我不介意，但是连拉皮条的都跟我来硬的...",
+            "desc": ""
+        },
+        {
+            "hash": 3156799273,
+            "original": "~z~Bad little boys get punished.",
+            "translated": "~z~小朋友犯了错要挨打的。",
+            "desc": ""
+        },
+        {
+            "hash": 3201052017,
+            "original": "ROM1_EA",
+            "translated": "ROM1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3223465978,
+            "original": "~z~This better be some baddass bitch of a wallet.",
+            "translated": "~z~这钱包最好别是个垃圾。",
+            "desc": ""
+        },
+        {
+            "hash": 3230088042,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3250766411,
+            "original": "~z~Been some crazy places with you?",
+            "translated": "~z~跟你出生入死过？",
+            "desc": ""
+        },
+        {
+            "hash": 3261327167,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3270569911,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 3273374195,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3285626480,
+            "original": "ROM1_CC",
+            "translated": "ROM1_CC",
+            "desc": ""
+        },
+        {
+            "hash": 3292026124,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 3339613559,
+            "original": "~z~Hey, knowing my friends, I hope not.",
+            "translated": "~z~就我那些朋友，还是算了。",
+            "desc": ""
+        },
+        {
+            "hash": 3362970189,
+            "original": "ROM1_JD",
+            "translated": "ROM1_JD",
+            "desc": ""
+        },
+        {
+            "hash": 3394929470,
+            "original": "~z~Oh la la la la la.",
+            "translated": "~z~呜啦啦啦啦啦。",
+            "desc": ""
+        },
+        {
+            "hash": 3404266460,
+            "original": "~z~You enjoy the bright lights and the big cities and the hope that maybe one day you become rich and stupid",
+            "translated": "~z~你享受着大城市的灯红酒绿，希望自己哪天也能变得有钱无脑。",
+            "desc": ""
+        },
+        {
+            "hash": 3405485290,
+            "original": "ROM1_LF1",
+            "translated": "ROM1_LF1",
+            "desc": ""
+        },
+        {
+            "hash": 3409706792,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3413677069,
+            "original": "~z~You may come to understand that in later years, Spaniard.",
+            "translated": "~z~过几年你就会明白了，西班牙人。",
+            "desc": ""
+        },
+        {
+            "hash": 3418750354,
+            "original": "~z~\"Ooh la la, I am rich.\"",
+            "translated": "~z~「呜啦啦，我是富豪。」",
+            "desc": ""
+        },
+        {
+            "hash": 3435766875,
+            "original": "ROM1_UA",
+            "translated": "ROM1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 3440608709,
+            "original": "~z~What you doing on the Point anyway?",
+            "translated": "~z~你这种人来Chase Point干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 3444456070,
+            "original": "~z~Yo. It's the French whipping boy. You ain't getting your cash back, fool.",
+            "translated": "~z~哟，是法国受虐狂啊。别想拿回钱包，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3476699784,
+            "original": "~z~Sorry papi, I don't smoke.",
+            "translated": "~z~抱歉老哥，我不抽烟。",
+            "desc": ""
+        },
+        {
+            "hash": 3505426291,
+            "original": "100090100010090100090010100090100010090100",
+            "translated": "100090100010090100090010100090100010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3507516689,
+            "original": "~z~They do. And that is why I like it.",
+            "translated": "~z~确实。所以我才来这里。",
+            "desc": ""
+        },
+        {
+            "hash": 3538351958,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 3541711456,
+            "original": "~z~That a fact?",
+            "translated": "~z~不会吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3560974589,
+            "original": "~z~Alas. A poet you are not.",
+            "translated": "~z~唉。你不是诗人。",
+            "desc": ""
+        },
+        {
+            "hash": 3566161138,
+            "original": "~z~Don't catch nothing, bro.",
+            "translated": "~z~别染上啥病啊，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3581395431,
+            "original": "~z~Whatever's left of it.",
+            "translated": "~z~剩什么是什么了。",
+            "desc": ""
+        },
+        {
+            "hash": 3615174888,
+            "original": "ROM1_RC",
+            "translated": "ROM1_RC",
+            "desc": ""
+        },
+        {
+            "hash": 3630850829,
+            "original": "~z~how could your dignity ever be in question?",
+            "translated": "~z~那你要不要脸还用想吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3631992075,
+            "original": "~z~Exactly, whatever. Whatever you say, Daddy.",
+            "translated": "~z~正是，随便吧，随你便吧，大哥。",
+            "desc": ""
+        },
+        {
+            "hash": 3632572077,
+            "original": "~z~He was, perhaps, more dom than sub, that is true.",
+            "translated": "~z~他可能S的倾向比M高吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3636041593,
+            "original": "~z~Who am I to complain? My country is not much better. We are the worst.",
+            "translated": "~z~我配抱怨吗？我的国家也没好到哪去。比烂还烂。",
+            "desc": ""
+        },
+        {
+            "hash": 3679855308,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 3699765638,
+            "original": "~z~Oh la la.",
+            "translated": "~z~呜啦啦。",
+            "desc": ""
+        },
+        {
+            "hash": 3702563003,
+            "original": "~z~nothing matters in this world apart from getting your rocks off,",
+            "translated": "~z~在这世上，没有什么比射爆更重要的了。",
+            "desc": ""
+        },
+        {
+            "hash": 3704041985,
+            "original": "ROM1_LA",
+            "translated": "ROM1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3717013189,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3717247896,
+            "original": "~z~We'll try to get it back then. Hopefully it won't get too stained with no pimp-blood in the process.",
+            "translated": "~z~咱们想法子拿回来吧。希望不会沾上多少皮条客的血。",
+            "desc": ""
+        },
+        {
+            "hash": 3727519383,
+            "original": "~z~You're a guy who just enjoyed an opium laden threesome with some light bondage...",
+            "translated": "~z~你这人，喜欢嗑了药玩3P，还沾了点SM...",
+            "desc": ""
+        },
+        {
+            "hash": 3747071886,
+            "original": "~z~This is not a matter I care to report to the police.",
+            "translated": "~z~这件事我不想报警。",
+            "desc": ""
+        },
+        {
+            "hash": 3757747838,
+            "original": "~z~Well,",
+            "translated": "~z~好吧，",
+            "desc": ""
+        },
+        {
+            "hash": 3764676968,
+            "original": "~z~I'm gonna drop you round the corner, bro. It ain't safe here.",
+            "translated": "~z~我送你到大路附近吧，兄弟。这里不安全。",
+            "desc": ""
+        },
+        {
+            "hash": 3772958373,
+            "original": "ROM1_ZA",
+            "translated": "ROM1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 3777395628,
+            "original": "~z~I should introduce you to my boss, bro. You guys could party together.",
+            "translated": "~z~我应该把你介绍给我老板，兄弟。你们可以一起狂欢。",
+            "desc": ""
+        },
+        {
+            "hash": 3797084168,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3829369251,
+            "original": "ROM1_JB",
+            "translated": "ROM1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 3845525280,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3850547468,
+            "original": "ROM1_KB",
+            "translated": "ROM1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 3874501606,
+            "original": "~z~~c~ Whatever, fuck you.",
+            "translated": "~z~~c~随便吧，操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 3894655879,
+            "original": "ROM1_LF2",
+            "translated": "ROM1_LF2",
+            "desc": ""
+        },
+        {
+            "hash": 3896865324,
+            "original": "ROM1_WA",
+            "translated": "ROM1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 3909250761,
+            "original": "~z~It was an education... for everyone involved.",
+            "translated": "~z~与此有关的人...都被好好地上了一课。",
+            "desc": ""
+        },
+        {
+            "hash": 3922448563,
+            "original": "~z~Yeah, okay, Frenchman.",
+            "translated": "~z~嗯，好的，法国人。",
+            "desc": ""
+        },
+        {
+            "hash": 3922716615,
+            "original": "~z~That is what makes every human being interesting and individual.",
+            "translated": "~z~正是这样才让每个人都有趣而有个性。",
+            "desc": ""
+        },
+        {
+            "hash": 3927036719,
+            "original": "ROM1_LG",
+            "translated": "ROM1_LG",
+            "desc": ""
+        },
+        {
+            "hash": 3948076194,
+            "original": "ROM1_DB",
+            "translated": "ROM1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3982908129,
+            "original": "ROM1_DA1",
+            "translated": "ROM1_DA1",
+            "desc": ""
+        },
+        {
+            "hash": 3994962629,
+            "original": "~z~we had a little incident...",
+            "translated": "~z~出了点小事故...",
+            "desc": ""
+        },
+        {
+            "hash": 4034200411,
+            "original": "~z~Don't worry, bro. He ain't getting away with your wallet.",
+            "translated": "~z~别担心，兄弟。他别想带着你的钱包跑掉。",
+            "desc": ""
+        },
+        {
+            "hash": 4035796760,
+            "original": "ROM1_RA",
+            "translated": "ROM1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 4036249231,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 4053488067,
+            "original": "~z~It is me, Arnaud. Thank fucking God I see you. Thank you, God! Maybe you do exist!",
+            "translated": "~z~是我，Arnaud。居然还能再见到你。谢天谢地！老天爷显灵了！",
+            "desc": ""
+        },
+        {
+            "hash": 4073690906,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 4073737466,
+            "original": "~z~or getting so out of it so you don't realize you haven't got your rocks off.",
+            "translated": "~z~甚至是高潮到极致，以至于忘了自己还需要射爆。",
+            "desc": ""
+        },
+        {
+            "hash": 4074139072,
+            "original": "ROM1_ZB",
+            "translated": "ROM1_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 4086869701,
+            "original": "~z~ and begging me to give it to her again.",
+            "translated": "~z~求着我再干她一次。",
+            "desc": ""
+        },
+        {
+            "hash": 4089368961,
+            "original": "~z~I thought a free spirit like you wouldn't mind a bit of joy riding.",
+            "translated": "~z~你这样无拘无束的人不会介意借车出行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4109927940,
+            "original": "~z~Ah, a Spaniard. Wonderful. A man of culture.",
+            "translated": "~z~啊，是西班牙人。可以啊。文化人。",
+            "desc": ""
+        },
+        {
+            "hash": 4115948762,
+            "original": "~z~Yo, I'm cool.",
+            "translated": "~z~哟，我没事。",
+            "desc": ""
+        },
+        {
+            "hash": 4130114701,
+            "original": "ROM1_PA",
+            "translated": "ROM1_PA",
+            "desc": ""
+        },
+        {
+            "hash": 4138413083,
+            "original": "~z~Every mark on it represents a different pleasure, a different experience.",
+            "translated": "~z~上面的每一个痕迹都代表着不同的快乐、不同的体验。",
+            "desc": ""
+        },
+        {
+            "hash": 4146977273,
+            "original": "~z~I ain't having you double team on me.",
+            "translated": "~z~我不会让你俩前后夹击的。",
+            "desc": ""
+        },
+        {
+            "hash": 4153096893,
+            "original": "ROM1_JE",
+            "translated": "ROM1_JE",
+            "desc": ""
+        },
+        {
+            "hash": 4167890286,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 4179494100,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4187254971,
+            "original": "ROM1_LE",
+            "translated": "ROM1_LE",
+            "desc": ""
+        },
+        {
+            "hash": 4200410725,
+            "original": "~z~Perhaps on my next trip.",
+            "translated": "~z~等我下次旅行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4218362176,
+            "original": "ROM1_CE",
+            "translated": "ROM1_CE",
+            "desc": ""
+        },
+        {
+            "hash": 4224941891,
+            "original": "~z~Spaniard, I salute you.",
+            "translated": "~z~西班牙人，我向你致敬。",
+            "desc": ""
+        },
+        {
+            "hash": 4230616352,
+            "original": "~z~Nice, bro. Their parents must be happy they put their trust in you.",
+            "translated": "~z~真不错，兄弟。他们的父母一定会觉得自己没找错人的。",
+            "desc": ""
+        },
+        {
+            "hash": 4243091320,
+            "original": "~z~Perhaps a little four-way?",
+            "translated": "~z~甚至一起来个4P？",
+            "desc": ""
+        },
+        {
+            "hash": 4243156854,
+            "original": "~z~But surely being a pimp implies some perversity, or at least curiosity. It would have been an experience.",
+            "translated": "~z~但想必拉皮条的多少有点怪癖或者好奇心。这些是难得的经历啊。",
+            "desc": ""
+        }
+    ]
+}

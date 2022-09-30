@@ -1,0 +1,28 @@
+{
+    "RC1": [
+        {
+            "hash": 2505988868,
+            "original": "Go back for ~b~ex-girlfriend.",
+            "translated": "回去找~b~前女友。",
+            "desc": ""
+        },
+        {
+            "hash": 2794847655,
+            "original": "Take ex-girlfriend ~y~home.",
+            "translated": "送前女友~y~回家。",
+            "desc": ""
+        },
+        {
+            "hash": 3820590373,
+            "original": "PLACEHOLDER: Ex-girlfriend's brothers don't like Luis and express that physically.",
+            "translated": "PLACEHOLDER: 前女友的兄弟们不喜欢Luis并表现在了肢体上。",
+            "desc": ""
+        },
+        {
+            "hash": 4261890147,
+            "original": "MOCAP: Luis bumps into an ex while she shops, gives her a lift home.",
+            "translated": "MOCAP: Luis在前任购物时撞见了她，载她一程回了家。",
+            "desc": ""
+        }
+    ]
+}

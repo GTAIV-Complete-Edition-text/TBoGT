@@ -1,0 +1,346 @@
+{
+    "TONY1": [
+        {
+            "hash": 19703960,
+            "original": "This is Luis' apartment.",
+            "translated": "这是Luis的公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 57727851,
+            "original": "~s~You've left ~b~Tony~s~ behind.",
+            "translated": "~s~你把~b~Tony~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 139914102,
+            "original": "~r~You abandoned Tony.",
+            "translated": "~r~你抛弃了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 238461450,
+            "original": "~1~",
+            "translated": "~1~",
+            "desc": ""
+        },
+        {
+            "hash": 335858567,
+            "original": "Press ~INPUT_PHONE_ACCEPT~ to answer a call.",
+            "translated": "按~INPUT_PHONE_ACCEPT~接听电话。",
+            "desc": ""
+        },
+        {
+            "hash": 474867640,
+            "original": "~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.",
+            "translated": "~s~用~PAD_DPAD_LEFTRIGHT~可在车上切换电台。",
+            "desc": ""
+        },
+        {
+            "hash": 693460532,
+            "original": "~s~Drive Tony to ~y~Hercules.",
+            "translated": "~s~带Tony去~y~大力神。",
+            "desc": ""
+        },
+        {
+            "hash": 931199627,
+            "original": "~s~Don't leave ~b~Tony~s~ behind.",
+            "translated": "~s~别把~b~Tony~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 1075841993,
+            "original": "~s~Take your friends back to ~y~Northwood.",
+            "translated": "~s~送你的朋友回~y~Northwood。",
+            "desc": ""
+        },
+        {
+            "hash": 1234574749,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1308593853,
+            "original": "Sleeping on the bed will save the game and advance time by six hours.",
+            "translated": "上床睡觉会保存游戏进度，并将时间推进6个小时。",
+            "desc": ""
+        },
+        {
+            "hash": 1441347419,
+            "original": "~s~Drive Tony to ~y~Maisonette 9.",
+            "translated": "~s~带Tony去~y~9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 1444112764,
+            "original": "Or you can go upstairs to the V.I.P. area and take part in a drinking game.",
+            "translated": "也可以去楼上的贵宾区吹瓶香槟。",
+            "desc": ""
+        },
+        {
+            "hash": 1581729535,
+            "original": "~s~Use the ~y~wardrobe~s~ to change clothes.",
+            "translated": "~s~使用~y~衣柜~s~更换服装。",
+            "desc": ""
+        },
+        {
+            "hash": 1582767177,
+            "original": "You can save any vehicle in the parking place outside your apartment.",
+            "translated": "公寓外的停车位可以存放任何载具。",
+            "desc": ""
+        },
+        {
+            "hash": 1619387856,
+            "original": "Press ~INPUT_PHONE_CANCEL~ to exit the phone menu and put away the phone.",
+            "translated": "按~INPUT_PHONE_CANCEL~退出手机菜单或收起手机。",
+            "desc": ""
+        },
+        {
+            "hash": 1652089081,
+            "original": "You can get some shots at the bar.",
+            "translated": "你可以去吧台喝上几杯。",
+            "desc": ""
+        },
+        {
+            "hash": 1844983321,
+            "original": "~s~Wait for ~b~Tony.",
+            "translated": "~s~等待~b~Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 1900509109,
+            "original": "Press ~INPUT_PHONE_ACCEPT~ to access the menu.",
+            "translated": "按~INPUT_PHONE_ACCEPT~进入菜单。",
+            "desc": ""
+        },
+        {
+            "hash": 1902308942,
+            "original": "~s~Go to the ~y~front door.",
+            "translated": "~s~前往~y~前门。",
+            "desc": ""
+        },
+        {
+            "hash": 1923454128,
+            "original": "~s~Use ~INPUT_KB_UP~ and ~INPUT_KB_DOWN~ to navigate the phone menu.",
+            "translated": "~s~使用~INPUT_KB_UP~和~INPUT_KB_DOWN~切换选项。",
+            "desc": ""
+        },
+        {
+            "hash": 2075777175,
+            "original": "~r~You alerted security.",
+            "translated": "~r~你惊动了保安。",
+            "desc": ""
+        },
+        {
+            "hash": 2127784806,
+            "original": "~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.",
+            "translated": "~s~按~INPUT_VEH_ACCELERATE~加速。按~INPUT_VEH_BRAKE~刹车，在车辆停止时可倒车。",
+            "desc": ""
+        },
+        {
+            "hash": 2167901411,
+            "original": "~s~Hang out in the club.",
+            "translated": "~s~在店里转转。",
+            "desc": ""
+        },
+        {
+            "hash": 2189250583,
+            "original": "~r~Troy is dead.",
+            "translated": "~r~Troy死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2262023528,
+            "original": "~a~",
+            "translated": "~a~",
+            "desc": ""
+        },
+        {
+            "hash": 2350686893,
+            "original": "~s~Get in ~b~Tony's car.",
+            "translated": "~s~进入~b~Tony的车。",
+            "desc": ""
+        },
+        {
+            "hash": 2383917580,
+            "original": "~s~During a phone call press ~INPUT_PHONE_PUT_AWAY~ to skip through the conversation or ~INPUT_PHONE_CANCEL~ to hang up.",
+            "translated": "~s~通话时按~INPUT_PHONE_PUT_AWAY~快进对话，按~INPUT_PHONE_CANCEL~挂断电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2535464615,
+            "original": "You can try to impress the ladies with your dancing. If you dance successfully with a lady, you may get a surprise.",
+            "translated": "你可以尝试用舞姿征服女性。若成功完成了舞蹈，你可能会获得惊喜。",
+            "desc": ""
+        },
+        {
+            "hash": 2566733190,
+            "original": "~s~Don't leave ~b~Armando~s~ behind.",
+            "translated": "~s~别把~b~Armando~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 2595822833,
+            "original": "~s~The pink icon on the radar shows the location of your next objective.",
+            "translated": "~s~小地图上的粉色图标表示你下一个目标的位置。",
+            "desc": ""
+        },
+        {
+            "hash": 2722779168,
+            "original": "~s~Go inside ~y~Maisonette 9.",
+            "translated": "~s~进入~y~9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 2726879573,
+            "original": "Press ~INPUT_ENTER~ to enter or exit a vehicle.",
+            "translated": "按~INPUT_ENTER~上下车。",
+            "desc": ""
+        },
+        {
+            "hash": 2737276544,
+            "original": "You can use the wardrobe to change clothes.",
+            "translated": "你可以用衣柜更换服装。",
+            "desc": ""
+        },
+        {
+            "hash": 2769376406,
+            "original": "~s~Go to your ~y~apartment.",
+            "translated": "~s~前往你的~y~公寓。",
+            "desc": ""
+        },
+        {
+            "hash": 2799385447,
+            "original": "Press ~INPUT_PHONE_ACCEPT~ to select a menu item.",
+            "translated": "按~INPUT_PHONE_ACCEPT~打开所选选项。",
+            "desc": ""
+        },
+        {
+            "hash": 2864181546,
+            "original": "~r~Dessie is dead.",
+            "translated": "~r~Dessie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2948999141,
+            "original": "~s~Use ~INPUT_PHONE_TAKE_OUT~ and ~INPUT_PHONE_PUT_AWAY~ to navigate the phone menu.",
+            "translated": "~s~使用~INPUT_PHONE_TAKE_OUT~和~INPUT_PHONE_PUT_AWAY~切换选项。",
+            "desc": ""
+        },
+        {
+            "hash": 2961271670,
+            "original": "~s~Don't leave your ~b~friends~s~ behind.",
+            "translated": "~s~别把你的~b~朋友~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 2995404766,
+            "original": "~r~Tony's car was wrecked.",
+            "translated": "~r~Tony的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3028743321,
+            "original": "~s~Don't leave ~b~friend 3~s~ behind.",
+            "translated": "~s~别把~b~友人3~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3150467674,
+            "original": "~r~Tony is dead.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3184055883,
+            "original": "~r~Henrique is dead.",
+            "translated": "~r~Henrique死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3295777701,
+            "original": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to cycle between radio stations when in a vehicle.",
+            "translated": "~s~用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~可在车上切换电台。",
+            "desc": ""
+        },
+        {
+            "hash": 3414389184,
+            "original": "~r~Armando is dead.",
+            "translated": "~r~Armando死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3436089908,
+            "original": "~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.",
+            "translated": "~s~按~INPUT_VEH_HANDBRAKE~使用手刹。",
+            "desc": ""
+        },
+        {
+            "hash": 3437242450,
+            "original": "Welcome to Maisonette 9.",
+            "translated": "欢迎来到9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 3471786347,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 3600043101,
+            "original": "~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake. ~n~Press ~PAD_A~ for alternative handbrake (Standard controls).",
+            "translated": "~s~按~INPUT_VEH_HANDBRAKE~使用手刹。~n~按~PAD_A~也是手刹(标准键位下)。",
+            "desc": ""
+        },
+        {
+            "hash": 3624831718,
+            "original": "~r~You abandoned Friend 3.",
+            "translated": "~r~你抛弃了友人3。",
+            "desc": ""
+        },
+        {
+            "hash": 3735734216,
+            "original": "~s~Go to ~y~the bar area.",
+            "translated": "~s~前往~y~吧台。",
+            "desc": ""
+        },
+        {
+            "hash": 3751144151,
+            "original": "~s~Go to ~y~Maisonette 9.",
+            "translated": "~s~前往~y~9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 3819000711,
+            "original": "~s~During a phone call press ~INPUT_KB_DOWN~ to skip through the conversation or ~INPUT_PHONE_CANCEL~ to hang up.",
+            "translated": "~s~通话时按~INPUT_KB_DOWN~快进对话，按~INPUT_PHONE_CANCEL~挂断电话。",
+            "desc": ""
+        },
+        {
+            "hash": 3873790293,
+            "original": "~s~Don't leave ~b~Henrique~s~ behind.",
+            "translated": "~s~别把~b~Henrique~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3922734697,
+            "original": "~r~You abandoned Henrique.",
+            "translated": "~r~你抛弃了Henrique。",
+            "desc": ""
+        },
+        {
+            "hash": 4001762141,
+            "original": "Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.",
+            "translated": "按~INPUT_PHONE_TAKE_OUT~拿出手机。",
+            "desc": ""
+        },
+        {
+            "hash": 4103750653,
+            "original": "~r~You abandoned Armando.",
+            "translated": "~r~你抛弃了Armando。",
+            "desc": ""
+        }
+    ]
+}

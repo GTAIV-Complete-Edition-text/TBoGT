@@ -1,0 +1,310 @@
+{
+    "YUSUF3": [
+        {
+            "hash": 11673723,
+            "original": "~r~The sky crane driver is dead.~s~",
+            "translated": "~r~吊挂直升机的驾驶员死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 29565945,
+            "original": "~r~You abandoned Yusuf.",
+            "translated": "~r~你抛弃了Yusuf。",
+            "desc": ""
+        },
+        {
+            "hash": 30852721,
+            "original": "Pickup the ~b~Swift.",
+            "translated": "登上~b~Swift。",
+            "desc": ""
+        },
+        {
+            "hash": 90613135,
+            "original": "Get back in the ~b~APC.",
+            "translated": "回到~b~APC~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 193703001,
+            "original": "~s~Take out as many cops as you can until they back down.~s~",
+            "translated": "~s~干掉尽可能多的警察，直到他们撤退。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 194399167,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 207579892,
+            "original": "~r~You Swift is stuck.",
+            "translated": "~r~你的Swift坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 265361892,
+            "original": "MISSION PASSED",
+            "translated": "任务通过",
+            "desc": ""
+        },
+        {
+            "hash": 309576702,
+            "original": "~r~You abandoned the APC.~s~",
+            "translated": "~r~你抛弃了APC。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 325632351,
+            "original": "Align Yusuf's chopper into ~y~position.",
+            "translated": "将Yusuf的直升机对准~y~位置。",
+            "desc": ""
+        },
+        {
+            "hash": 345828349,
+            "original": "Get back in the ~b~APC.",
+            "translated": "回到~b~APC~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 369511551,
+            "original": "~r~Yusuf died.",
+            "translated": "~r~Yusuf死了。",
+            "desc": ""
+        },
+        {
+            "hash": 474343704,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 497752084,
+            "original": "~s~Shoot the yellow bolts on the cables to release the tank.~s~",
+            "translated": "~s~射击钢缆上的黄色卡扣，放下坦克。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 606595266,
+            "original": "~r~Yusuf's chopper was destroyed.",
+            "translated": "~r~Yusuf的直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 721188111,
+            "original": "~r~You never answered Yusuf's call.~s~",
+            "translated": "~r~你没接Yusuf的电话。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 809345602,
+            "original": "Get to the ~b~APC.",
+            "translated": "登上~b~APC。",
+            "desc": ""
+        },
+        {
+            "hash": 952766634,
+            "original": "~r~There is too much of a police presence near the APC.~s~",
+            "translated": "~r~APC附近的警察太多了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 985404906,
+            "original": "~r~Yusuf's car was destroyed.",
+            "translated": "~r~Yusuf的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1091278680,
+            "original": "Get back in ~b~Yusuf's helicopter.",
+            "translated": "回到~b~Yusuf的直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1145596367,
+            "original": "Press LB to fire rockets.",
+            "translated": "按LB键发射火箭弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1165649842,
+            "original": "~s~Press ~INPUT_VEH_ATTACK~ to fire the APC cannon.~s~",
+            "translated": "~s~按~INPUT_VEH_ATTACK~发射APC的火炮。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1320828390,
+            "original": "~r~The APC was delivered.",
+            "translated": "~r~APC已送达目的地。",
+            "desc": ""
+        },
+        {
+            "hash": 1354400105,
+            "original": "Press ~PAD_B~ to jump onto the tank.",
+            "translated": "按~PAD_B~跳上坦克。",
+            "desc": ""
+        },
+        {
+            "hash": 1532873724,
+            "original": "Go to ~y~Star Junction.",
+            "translated": "前往~y~星汇广场。",
+            "desc": ""
+        },
+        {
+            "hash": 1590681105,
+            "original": "~r~The APC was destroyed.",
+            "translated": "~r~APC被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1698752919,
+            "original": "~r~The Skylift has been destroyed.~s~",
+            "translated": "~r~吊挂直升机被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2021937734,
+            "original": "Press Y to jump across to the tank.",
+            "translated": "按Y越过坦克。",
+            "desc": ""
+        },
+        {
+            "hash": 2058096210,
+            "original": "Don't leave ~b~Yusuf~s~ behind.",
+            "translated": "别把~b~Yusuf~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 2097630234,
+            "original": "~r~The tank was destroyed.",
+            "translated": "~r~坦克被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2108397031,
+            "original": "Get in ~b~Yusuf's car~s~.",
+            "translated": "进入~b~Yusuf的车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2322855461,
+            "original": "Until the real tank is in game it is best to either swap to the in car view and shoot rockets or to get out and use the RPG.",
+            "translated": "在真正的坦克出现在游戏中之前，最好切换到车内视角并发射火箭弹，或者出去使用火箭筒。",
+            "desc": ""
+        },
+        {
+            "hash": 2337990849,
+            "original": "~r~You abandoned the tank.",
+            "translated": "~r~你抛弃了坦克。",
+            "desc": ""
+        },
+        {
+            "hash": 2357080972,
+            "original": "Get in ~b~Yusuf's chopper.",
+            "translated": "进入~b~Yusuf的直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2531444821,
+            "original": "Fly near the ~r~APC.",
+            "translated": "飞到~r~APC~s~附近。",
+            "desc": ""
+        },
+        {
+            "hash": 2722787614,
+            "original": "The airport is overrun with police. The pickup location needs to be changed.",
+            "translated": "机场被死条子给包围了。交接点得变更一下。",
+            "desc": ""
+        },
+        {
+            "hash": 2726696727,
+            "original": "~r~The tank is stuck.",
+            "translated": "~r~坦克坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2856891536,
+            "original": "Press ~INPUT_VEH_ATTACK~ to shoot the APC gun.",
+            "translated": "按~INPUT_VEH_ATTACK~用APC的车载武器射击。",
+            "desc": ""
+        },
+        {
+            "hash": 2966336424,
+            "original": "~r~The transport was destroyed.",
+            "translated": "~r~这趟运输黄了。",
+            "desc": ""
+        },
+        {
+            "hash": 3063744457,
+            "original": "Shoot the cable to release the APC. Be careful, dropping from too high will destroy the APC.",
+            "translated": "射击绳索以放下APC。小心点，APC从太高的地方掉下来会摔坏。",
+            "desc": ""
+        },
+        {
+            "hash": 3077774191,
+            "original": "The transport won't be able to escape with so many helicopters about.",
+            "translated": "有这么多直升机在，这趟运输肯定要黄。",
+            "desc": ""
+        },
+        {
+            "hash": 3199013537,
+            "original": "Shoot the bolts on the APC to release it before it reaches the police station.",
+            "translated": "射击APC上的卡扣，赶在运达警察局前放下APC。",
+            "desc": ""
+        },
+        {
+            "hash": 3317016058,
+            "original": "Line up to be perpendicular with the APC.",
+            "translated": "和APC保持垂直。",
+            "desc": ""
+        },
+        {
+            "hash": 3368563204,
+            "original": "~r~The Swift is stuck.~s~",
+            "translated": "~r~Swift坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3586817439,
+            "original": "~r~You abandoned the Swift.",
+            "translated": "~r~你抛弃了Swift。",
+            "desc": ""
+        },
+        {
+            "hash": 3749601136,
+            "original": "~r~The APC is stuck.~s~",
+            "translated": "~r~APC坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3795640072,
+            "original": "Go with Yusuf to ~y~Westminster~s~ to pick up his Swift.",
+            "translated": "和Yusuf一起去~y~Westminster~s~登上他的Swift。",
+            "desc": ""
+        },
+        {
+            "hash": 3888934576,
+            "original": "~r~The Skylift got too close to the police compound.~s~",
+            "translated": "~r~吊挂直升机离警察局太近了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3891175955,
+            "original": "~r~The Swift was destroyed.",
+            "translated": "~r~Swift被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3989044219,
+            "original": "~r~You abandoned the Swift.",
+            "translated": "~r~你抛弃了Swift。",
+            "desc": ""
+        },
+        {
+            "hash": 4027611823,
+            "original": "Deliver the APC to the ~y~building site.",
+            "translated": "把APC送到~y~建筑工地。",
+            "desc": ""
+        }
+    ]
+}

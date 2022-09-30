@@ -1,0 +1,1948 @@
+{
+    "E2BR1BA": [
+        {
+            "hash": 12714327,
+            "original": "~z~Look, I came back here after the service and I'd changed, man, I'd changed.",
+            "translated": "~z~服役结束我回来了，而且我变了，哥们。我变了。",
+            "desc": ""
+        },
+        {
+            "hash": 37825142,
+            "original": "~z~Hey, no one owns me, bro.",
+            "translated": "~z~喂，我不是任何人的，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 45647354,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 62315368,
+            "original": "SFX_PAUSE_110",
+            "translated": "SFX_PAUSE_110",
+            "desc": ""
+        },
+        {
+            "hash": 65532797,
+            "original": "E2BR1_ATG",
+            "translated": "E2BR1_ATG",
+            "desc": ""
+        },
+        {
+            "hash": 66136425,
+            "original": "~z~Oh, we got some very intense shit to handle.",
+            "translated": "~z~噢，我们要做的事非同寻常。",
+            "desc": ""
+        },
+        {
+            "hash": 87068483,
+            "original": "E2BR1_ED",
+            "translated": "E2BR1_ED",
+            "desc": ""
+        },
+        {
+            "hash": 89514122,
+            "original": "~z~Yo. Shit. You serious as you wanna be. Pull that serious face and go kill people all you like.",
+            "translated": "~z~哟，操，你爱咋危险咋危险。板着危险的脸爱杀谁杀谁。",
+            "desc": ""
+        },
+        {
+            "hash": 165602375,
+            "original": "010090100010090100090010100090100090010100",
+            "translated": "010090100010090100090010100090100090010100",
+            "desc": ""
+        },
+        {
+            "hash": 205790924,
+            "original": "~z~The issue with what you were saying is that it's the money in the bank thing that people is having problems with right now.",
+            "translated": "~z~你出的主意有问题，要用银行存款对吧，现在大家都没钱。",
+            "desc": ""
+        },
+        {
+            "hash": 232839129,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 242154800,
+            "original": "~z~If they look after themselves, that is. I am an equal opportunity lay. I'll fuck anything.",
+            "translated": "~z~只要她们保养得够好。我的床上人人平等，有什么睡什么。",
+            "desc": ""
+        },
+        {
+            "hash": 279649042,
+            "original": "~z~After some paperwork, I'll have what I need.",
+            "translated": "~z~加上点文书工作，我就能拿下目标了。",
+            "desc": ""
+        },
+        {
+            "hash": 298612251,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 299010282,
+            "original": "~z~I know, I fucking saw it, man.",
+            "translated": "~z~我知道，我他妈看见了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 303114970,
+            "original": "~z~Brucie was a stock I'd short him all I could.",
+            "translated": "~z~如果Brucie是支股票，我一定会全力做空。",
+            "desc": ""
+        },
+        {
+            "hash": 308428775,
+            "original": "~z~Yeah anyway, bro, that's besides the point. What we doing right now?",
+            "translated": "~z~不管怎么说，兄弟，咱跑题了。现在咱要干啥？",
+            "desc": ""
+        },
+        {
+            "hash": 344477432,
+            "original": "100100090010100090100090010",
+            "translated": "100100090010100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 360764303,
+            "original": "E2BR1_AKC",
+            "translated": "E2BR1_AKC",
+            "desc": ""
+        },
+        {
+            "hash": 379470541,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 381236150,
+            "original": "~z~Maybe! If you're a schmuck like my brother, maybe. You see old B's over-exposed like a motherfucker.",
+            "translated": "~z~是吗？如果你和我弟弟一样傻逼那确实。你看看Brucie这孙子都装成什么样了。",
+            "desc": ""
+        },
+        {
+            "hash": 386102081,
+            "original": "E2BR1_LE",
+            "translated": "E2BR1_LE",
+            "desc": ""
+        },
+        {
+            "hash": 393771329,
+            "original": "~z~I just ain't the type of conventional businessman you might be used to, Lopez.",
+            "translated": "~z~只不过我不是随处可见的普通生意人罢了。",
+            "desc": ""
+        },
+        {
+            "hash": 414221859,
+            "original": "E2BR1_AUC",
+            "translated": "E2BR1_AUC",
+            "desc": ""
+        },
+        {
+            "hash": 427339852,
+            "original": "~z~Hey bro, I can't imagine you got much of a business left now we taken out all your employees.",
+            "translated": "~z~喂，老兄，干掉了这么多员工，你这生意不是白抢了？",
+            "desc": ""
+        },
+        {
+            "hash": 446549418,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 463364096,
+            "original": "E2BR1_MF",
+            "translated": "E2BR1_MF",
+            "desc": ""
+        },
+        {
+            "hash": 465579022,
+            "original": "~z~Yeah. Okay. Fine. Whatever. Remind me what we are doing now?",
+            "translated": "~z~好，好吧。行，随你吧。我们是要干啥来着？",
+            "desc": ""
+        },
+        {
+            "hash": 524656229,
+            "original": "~z~How's that?",
+            "translated": "~z~怎么说？",
+            "desc": ""
+        },
+        {
+            "hash": 525182386,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 526770258,
+            "original": "~z~What you need done, Mori?",
+            "translated": "~z~要我做什么，Mori？",
+            "desc": ""
+        },
+        {
+            "hash": 547265085,
+            "original": "E2BR1_IA",
+            "translated": "E2BR1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 560131807,
+            "original": "E2BR1_AKE",
+            "translated": "E2BR1_AKE",
+            "desc": ""
+        },
+        {
+            "hash": 611070613,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 620282261,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 624707955,
+            "original": "100090100090010090100090100090100090010",
+            "translated": "100090100090010090100090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 624967454,
+            "original": "~z~We are paying a visit to some of my old uhh, business associates.",
+            "translated": "~z~我们要拜访我的几位...生意伙伴。",
+            "desc": ""
+        },
+        {
+            "hash": 625168499,
+            "original": "~z~I was doing time, bro. And leave my momma out of it.",
+            "translated": "~z~我在坐牢，兄弟。别把我妈扯上。",
+            "desc": ""
+        },
+        {
+            "hash": 626107698,
+            "original": "E2BR1_MG1",
+            "translated": "E2BR1_MG1",
+            "desc": ""
+        },
+        {
+            "hash": 629607944,
+            "original": "E2BR1_LC",
+            "translated": "E2BR1_LC",
+            "desc": ""
+        },
+        {
+            "hash": 633356318,
+            "original": "~z~Perfect. Just perfect. Another fucking war.",
+            "translated": "~z~好极了。真他妈好。又他妈要开战。",
+            "desc": ""
+        },
+        {
+            "hash": 700708250,
+            "original": "E2BR1_AJC",
+            "translated": "E2BR1_AJC",
+            "desc": ""
+        },
+        {
+            "hash": 705243632,
+            "original": "~z~Yeah, you got it, bro.",
+            "translated": "~z~行，你有理，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 712006173,
+            "original": "~z~Whoa, whoa, slow up, dog. I think you're mistaken in your impression of me. I look like a civilian to you?",
+            "translated": "~z~喔，喔，等等。你对我的印象好像有点问题。你看我像是平头百姓吗？",
+            "desc": ""
+        },
+        {
+            "hash": 714824303,
+            "original": "~z~You look like a lot of things, bro. A lot of neuroses in one tiny package. Kind of like an army knife without the edge.",
+            "translated": "~z~你看着啥都像，兄弟。像小罐包装的神经病，像把没开刃的军刀。",
+            "desc": ""
+        },
+        {
+            "hash": 717172046,
+            "original": "E2BR1_IC1",
+            "translated": "E2BR1_IC1",
+            "desc": ""
+        },
+        {
+            "hash": 727001752,
+            "original": "E2BR1_NC",
+            "translated": "E2BR1_NC",
+            "desc": ""
+        },
+        {
+            "hash": 735457507,
+            "original": "E2BR1_GF",
+            "translated": "E2BR1_GF",
+            "desc": ""
+        },
+        {
+            "hash": 742138572,
+            "original": "~z~Evidently, they are normally about twice your size and smart enough to stay in their office.",
+            "translated": "~z~那确实，普通生意人都比你高，也不会到写字楼外发疯。",
+            "desc": ""
+        },
+        {
+            "hash": 767656922,
+            "original": "E2BR1_ATD",
+            "translated": "E2BR1_ATD",
+            "desc": ""
+        },
+        {
+            "hash": 778451894,
+            "original": "E2BR1_KA1",
+            "translated": "E2BR1_KA1",
+            "desc": ""
+        },
+        {
+            "hash": 815292043,
+            "original": "~z~Correct me if I'm wrong, but you and Tony are business partners, aren't you?",
+            "translated": "~z~一个猜想不一定对，你和Tony是生意伙伴，对吗？",
+            "desc": ""
+        },
+        {
+            "hash": 819315077,
+            "original": "~z~Guys like you make guys like me rich.",
+            "translated": "~z~有你这种人在，我才能发大财。",
+            "desc": ""
+        },
+        {
+            "hash": 820846496,
+            "original": "E2BR1_LF",
+            "translated": "E2BR1_LF",
+            "desc": ""
+        },
+        {
+            "hash": 828012901,
+            "original": "E2BR1_CD",
+            "translated": "E2BR1_CD",
+            "desc": ""
+        },
+        {
+            "hash": 830889160,
+            "original": "~z~Oh, how little you know, Luis. The assets aren't tangible.",
+            "translated": "~z~哦，你懂的太少了，Luis。资产未必是有形的。",
+            "desc": ""
+        },
+        {
+            "hash": 837489203,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 843055043,
+            "original": "SFX_PAUSE_080",
+            "translated": "SFX_PAUSE_080",
+            "desc": ""
+        },
+        {
+            "hash": 843090444,
+            "original": "E2BR1_ATA",
+            "translated": "E2BR1_ATA",
+            "desc": ""
+        },
+        {
+            "hash": 844040193,
+            "original": "E2BR1_MD",
+            "translated": "E2BR1_MD",
+            "desc": ""
+        },
+        {
+            "hash": 866736272,
+            "original": "E2BR1_OD",
+            "translated": "E2BR1_OD",
+            "desc": ""
+        },
+        {
+            "hash": 895356671,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 916551788,
+            "original": "010090100090100090010",
+            "translated": "010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 920273319,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 927495496,
+            "original": "~z~He's your brother, bro. Can't you help?",
+            "translated": "~z~他是你弟弟啊，老兄。不能帮一把？",
+            "desc": ""
+        },
+        {
+            "hash": 929380068,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 930644916,
+            "original": "~z~Things I saw over there were insane, dog. Insane. I'd tell you about it but then I'd have to kill you right here.",
+            "translated": "~z~那时的光景实在疯狂，小子。太疯狂了。很想都告诉你，但说完就只能把你灭口了。",
+            "desc": ""
+        },
+        {
+            "hash": 941136362,
+            "original": "E2BR1_AKF",
+            "translated": "E2BR1_AKF",
+            "desc": ""
+        },
+        {
+            "hash": 952209944,
+            "original": "~z~I ain't going nowhere, bro. These bitches fired rockets at me. They're done.",
+            "translated": "~z~我哪也不去，老兄。这些贱逼对我射火箭弹，他们死定了。",
+            "desc": ""
+        },
+        {
+            "hash": 959856811,
+            "original": "~z~Oh, God yeah! I can almost feel it.",
+            "translated": "~z~啊，天哪，我感受到了。",
+            "desc": ""
+        },
+        {
+            "hash": 960731776,
+            "original": "~z~You see, the big businesses of the next decade are gonna get formed in this downturn,",
+            "translated": "~z~你看，下个十年的风口行业将在这次衰退中成型，",
+            "desc": ""
+        },
+        {
+            "hash": 979401391,
+            "original": "010090100090010090010090100",
+            "translated": "010090100090010090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1016674997,
+            "original": "E2BR1_JE",
+            "translated": "E2BR1_JE",
+            "desc": ""
+        },
+        {
+            "hash": 1017437846,
+            "original": "~z~No, those guys are the assholes, Lou. Let's concentrate on what we're doing and get 'em.",
+            "translated": "~z~不，那些人才是混蛋，Lou。现在先干掉眼前的敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 1036492097,
+            "original": "~z~I'm hoping you mean you got some boxes to move, something like that?",
+            "translated": "~z~希望你是说搬箱子之类的，是这样吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1076470802,
+            "original": "E2BR1_ATB",
+            "translated": "E2BR1_ATB",
+            "desc": ""
+        },
+        {
+            "hash": 1082623238,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 1083153899,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1084337466,
+            "original": "E2BR1_ATC",
+            "translated": "E2BR1_ATC",
+            "desc": ""
+        },
+        {
+            "hash": 1104963837,
+            "original": "~z~I mean, they can do whatever the fuck they like to you, you're annoying, but nobody fires rockets at me.",
+            "translated": "~z~他们怎么样你我都无所谓，你活该。但没人能拿火箭筒指我。",
+            "desc": ""
+        },
+        {
+            "hash": 1115931533,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 1134651164,
+            "original": "~z~Well at this very moment there are fantastic opportunities for anyone with some money in a bank",
+            "translated": "~z~在这非常时期，好机会都是留给银行有存款、",
+            "desc": ""
+        },
+        {
+            "hash": 1136098121,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1151577479,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 1157103529,
+            "original": "E2BR1_OB",
+            "translated": "E2BR1_OB",
+            "desc": ""
+        },
+        {
+            "hash": 1158599793,
+            "original": "~z~Fuck, man, I hope you know what you doing.",
+            "translated": "~z~我操，哥们，希望你知道自己在干啥。",
+            "desc": ""
+        },
+        {
+            "hash": 1159646408,
+            "original": "SFX_PAUSE_110",
+            "translated": "SFX_PAUSE_110",
+            "desc": ""
+        },
+        {
+            "hash": 1162678410,
+            "original": "~z~Look, I done three years Israeli military - I've seen shit you wouldn't even believe.",
+            "translated": "~z~听着，我在以色列当了三年兵。经历说出来能吓死你。",
+            "desc": ""
+        },
+        {
+            "hash": 1179339980,
+            "original": "E2BR1_AUE2",
+            "translated": "E2BR1_AUE2",
+            "desc": ""
+        },
+        {
+            "hash": 1195590096,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 1208919263,
+            "original": "E2BR1_AJG",
+            "translated": "E2BR1_AJG",
+            "desc": ""
+        },
+        {
+            "hash": 1209967900,
+            "original": "~z~I won't because I like you, heh. Special Forces don't even begin to describe my shit.",
+            "translated": "~z~没必要，因为我中意你，嘿嘿。特种部队的名号都配不上我的经历。",
+            "desc": ""
+        },
+        {
+            "hash": 1242172879,
+            "original": "~z~What, do I got to turn around and smoke some more cats to prove myself to you?",
+            "translated": "~z~怎么，我非得回去杀几个人来证明自己吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1244685491,
+            "original": "E2BR1_JA1",
+            "translated": "E2BR1_JA1",
+            "desc": ""
+        },
+        {
+            "hash": 1248270619,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 1248295451,
+            "original": "~z~Damn right, I'm angry. I can't believe I'm doing this shit, man. Not for some asshole Tony borrowed money off!",
+            "translated": "~z~太他妈对了，我怒了。我居然在干这种破事，老兄。还他妈是在替借钱给Tony的混蛋干活！",
+            "desc": ""
+        },
+        {
+            "hash": 1249128458,
+            "original": "~z~I seen a business that ain't been run well, so we're about to take the controlling share.",
+            "translated": "~z~我看到了一家经营不善的企业，所以我们要接手股份。",
+            "desc": ""
+        },
+        {
+            "hash": 1254374411,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 1283840581,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 1299846079,
+            "original": "E2BR1_CG",
+            "translated": "E2BR1_CG",
+            "desc": ""
+        },
+        {
+            "hash": 1308341603,
+            "original": "E2BR1_CC",
+            "translated": "E2BR1_CC",
+            "desc": ""
+        },
+        {
+            "hash": 1330831551,
+            "original": "E2BR1_AUF1",
+            "translated": "E2BR1_AUF1",
+            "desc": ""
+        },
+        {
+            "hash": 1331228979,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 1333594953,
+            "original": "E2BR1_GB",
+            "translated": "E2BR1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 1337661295,
+            "original": "E2BR1_OA",
+            "translated": "E2BR1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1348478839,
+            "original": "~z~He's got debt you wouldn't believe and assets that don't exist.",
+            "translated": "~z~他的债多到你无法想象，资产全是空头支票。",
+            "desc": ""
+        },
+        {
+            "hash": 1362970377,
+            "original": "E2BR1_FA",
+            "translated": "E2BR1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1370343077,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 1379176920,
+            "original": "E2BR1_GD",
+            "translated": "E2BR1_GD",
+            "desc": ""
+        },
+        {
+            "hash": 1381886158,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 1385474914,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 1386899843,
+            "original": "E2BR1_DA",
+            "translated": "E2BR1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1401564420,
+            "original": "~z~Alright, enough with the jokes.",
+            "translated": "~z~行了，差不多得了。",
+            "desc": ""
+        },
+        {
+            "hash": 1405977787,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 1441260500,
+            "original": "100090100010090100100",
+            "translated": "100090100010090100100",
+            "desc": ""
+        },
+        {
+            "hash": 1443087916,
+            "original": "E2BR1_BD",
+            "translated": "E2BR1_BD",
+            "desc": ""
+        },
+        {
+            "hash": 1469098208,
+            "original": "~z~You still don't think I'm a serious motherfucker, do you?",
+            "translated": "~z~你还是没拿我当危险人物，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1496876522,
+            "original": "010090100090010100090010100010100",
+            "translated": "010090100090010100090010100010100",
+            "desc": ""
+        },
+        {
+            "hash": 1506071114,
+            "original": "E2BR1_BF",
+            "translated": "E2BR1_BF",
+            "desc": ""
+        },
+        {
+            "hash": 1515989333,
+            "original": "~z~We're gonna take over their operation. Clear those fucks out.",
+            "translated": "~z~我们要夺走他们的产业，干掉这帮混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1517495059,
+            "original": "010090010100010100100",
+            "translated": "010090010100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 1518514783,
+            "original": "~z~I'm more than happy to leave everything to you, Mori. In fact, I don't wanna be no part of any of this shit.",
+            "translated": "~z~能当甩手掌柜真是我的荣幸，Mori。实际上，我一点都不想趟这些浑水。",
+            "desc": ""
+        },
+        {
+            "hash": 1527011258,
+            "original": "~z~That's about as intense as I'm willing to get for you.",
+            "translated": "~z~这是我乐意帮你的上限了。",
+            "desc": ""
+        },
+        {
+            "hash": 1528625179,
+            "original": "E2BR1_LB",
+            "translated": "E2BR1_LB",
+            "desc": ""
+        },
+        {
+            "hash": 1546829722,
+            "original": "~z~You should try to stick your head out that club occasionally and soak up the atmosphere.",
+            "translated": "~z~偶尔也试着走出夜店，感受下外面的氛围吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1559797050,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 1568891860,
+            "original": "E2BR1_AJD",
+            "translated": "E2BR1_AJD",
+            "desc": ""
+        },
+        {
+            "hash": 1575902006,
+            "original": "~z~Thank you.",
+            "translated": "~z~谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 1583862537,
+            "original": "SFX_PAUSE_110",
+            "translated": "SFX_PAUSE_110",
+            "desc": ""
+        },
+        {
+            "hash": 1642483555,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 1718273680,
+            "original": "~z~Paperwork, bro. Maybe you should stick to that shit. Leave the field work to others.",
+            "translated": "~z~文书工作，老兄。你还是好好搞这块吧。体力活留给专业的。",
+            "desc": ""
+        },
+        {
+            "hash": 1724519393,
+            "original": "E2BR1_NF",
+            "translated": "E2BR1_NF",
+            "desc": ""
+        },
+        {
+            "hash": 1732711024,
+            "original": "E2BR1_JF",
+            "translated": "E2BR1_JF",
+            "desc": ""
+        },
+        {
+            "hash": 1735704653,
+            "original": "E2BR1_FC",
+            "translated": "E2BR1_FC",
+            "desc": ""
+        },
+        {
+            "hash": 1748057855,
+            "original": "E2BR1_KC2",
+            "translated": "E2BR1_KC2",
+            "desc": ""
+        },
+        {
+            "hash": 1781442054,
+            "original": "E2BR1_AUB2",
+            "translated": "E2BR1_AUB2",
+            "desc": ""
+        },
+        {
+            "hash": 1784059866,
+            "original": "E2BR1_NE",
+            "translated": "E2BR1_NE",
+            "desc": ""
+        },
+        {
+            "hash": 1791259591,
+            "original": "E2BR1_ATF",
+            "translated": "E2BR1_ATF",
+            "desc": ""
+        },
+        {
+            "hash": 1839052032,
+            "original": "010090100100090010100",
+            "translated": "010090100100090010100",
+            "desc": ""
+        },
+        {
+            "hash": 1849917652,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 1859516621,
+            "original": "~z~This is the first investment. Mergers and acquisitions, baby.",
+            "translated": "~z~这是第一笔投资。合并和收购，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 1862335835,
+            "original": "~z~Yeah, okay.",
+            "translated": "~z~行，好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1864453524,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1870540090,
+            "original": "~z~That's a typical short sighted, negative viewpoint. Can't see your tiny hose through your bushy pubes.",
+            "translated": "~z~你这属于是典型的鼠目寸光。隔了层屌毛就看不见自己的小屌了。",
+            "desc": ""
+        },
+        {
+            "hash": 1883965590,
+            "original": "~z~Oh! Hah hah hah heh heh heh, yeah yeah. Fucking funny.",
+            "translated": "~z~哦！哈哈哈吼吼吼，对。真他妈逗。",
+            "desc": ""
+        },
+        {
+            "hash": 1892154008,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 1894793031,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 1899645106,
+            "original": "E2BR1_GG2",
+            "translated": "E2BR1_GG2",
+            "desc": ""
+        },
+        {
+            "hash": 1918849848,
+            "original": "E2BR1_CH",
+            "translated": "E2BR1_CH",
+            "desc": ""
+        },
+        {
+            "hash": 1943858800,
+            "original": "~z~If someone could get a prize for buying at the top of the market, it'd be that sucker.",
+            "translated": "~z~如果要评「山顶买入奖」的话，评给他就对了。",
+            "desc": ""
+        },
+        {
+            "hash": 1945766691,
+            "original": "~z~For a man of your height, that's gotta be easy to do.",
+            "translated": "~z~你这身高的人，都很容易上头。",
+            "desc": ""
+        },
+        {
+            "hash": 1949873827,
+            "original": "~z~We are at a turning point in history, Luis. Right now. Things are turning.",
+            "translated": "~z~我们正站在历史的拐点上，Luis。就是现在。时代变了。",
+            "desc": ""
+        },
+        {
+            "hash": 1963568197,
+            "original": "E2BR1_IE",
+            "translated": "E2BR1_IE",
+            "desc": ""
+        },
+        {
+            "hash": 1974159614,
+            "original": "E2BR1_BC",
+            "translated": "E2BR1_BC",
+            "desc": ""
+        },
+        {
+            "hash": 1983148567,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1995380279,
+            "original": "E2BR1_JC",
+            "translated": "E2BR1_JC",
+            "desc": ""
+        },
+        {
+            "hash": 1996949807,
+            "original": "~z~Okay. Let's get it over with.",
+            "translated": "~z~好吧，速战速决吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1999763544,
+            "original": "E2BR1_EF",
+            "translated": "E2BR1_EF",
+            "desc": ""
+        },
+        {
+            "hash": 2018453411,
+            "original": "E2BR1_LA",
+            "translated": "E2BR1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2030497056,
+            "original": "E2BR1_MA",
+            "translated": "E2BR1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2041292792,
+            "original": "E2BR1_AUG",
+            "translated": "E2BR1_AUG",
+            "desc": ""
+        },
+        {
+            "hash": 2080880837,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 2081685340,
+            "original": "~z~In this climate there is more to think about than parties and plastic surgery.",
+            "translated": "~z~现在经济不景气，别老惦记你那派对跟整形了。",
+            "desc": ""
+        },
+        {
+            "hash": 2128121782,
+            "original": "010090100010090100100090010090100090010",
+            "translated": "010090100010090100100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2143647261,
+            "original": "E2BR1_CF",
+            "translated": "E2BR1_CF",
+            "desc": ""
+        },
+        {
+            "hash": 2178218463,
+            "original": "E2BR1_GG1",
+            "translated": "E2BR1_GG1",
+            "desc": ""
+        },
+        {
+            "hash": 2182116925,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 2187766989,
+            "original": "~z~Good thing too, bro. 'Cause a guy of your stature might find it tough if it was on anything higher than street level.",
+            "translated": "~z~真不错，兄弟。你这身高这辈子估计也只能在地上爬了。",
+            "desc": ""
+        },
+        {
+            "hash": 2201254067,
+            "original": "E2BR1_HC",
+            "translated": "E2BR1_HC",
+            "desc": ""
+        },
+        {
+            "hash": 2204763181,
+            "original": "~z~Well, I own Tony. Ergo, I own your ass as well. Get used to it.",
+            "translated": "~z~因为Tony是我的，所以你也是我的。慢慢习惯吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2276941419,
+            "original": "E2BR1_NA",
+            "translated": "E2BR1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2330453005,
+            "original": "~z~I guess you right. Things just turned shit.",
+            "translated": "~z~好像是这样。越拐越差了还。",
+            "desc": ""
+        },
+        {
+            "hash": 2349071699,
+            "original": "~z~Those fucks tried to blow us up with a rocket launcher, man!",
+            "translated": "~z~那帮狗逼想拿火箭筒炸飞咱们，老兄！",
+            "desc": ""
+        },
+        {
+            "hash": 2384798265,
+            "original": "~z~Hey, how many guys got the juice to get into some Foreign Legion shit when they're 18?",
+            "translated": "~z~喂，有几个人刚18岁就有机会加入外国军队？",
+            "desc": ""
+        },
+        {
+            "hash": 2402958669,
+            "original": "E2BR1_AJA",
+            "translated": "E2BR1_AJA",
+            "desc": ""
+        },
+        {
+            "hash": 2445493917,
+            "original": "E2BR1_CA",
+            "translated": "E2BR1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2455235100,
+            "original": "E2BR1_ND",
+            "translated": "E2BR1_ND",
+            "desc": ""
+        },
+        {
+            "hash": 2465477083,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2467048780,
+            "original": "~z~Why, bro, what's the excitement? We heading to a surprise party? You getting a sex op? What?",
+            "translated": "~z~咋了，老兄，有啥好激动的？我们是要去惊喜派对吗？还是你要变性了？啥啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2472673250,
+            "original": "~z~Yeah, sure, bro, I was just getting facetious on you.",
+            "translated": "~z~知道了，老兄。开个玩笑而已。",
+            "desc": ""
+        },
+        {
+            "hash": 2476008631,
+            "original": "010100090100090100090100010100100",
+            "translated": "010100090100090100090100010100100",
+            "desc": ""
+        },
+        {
+            "hash": 2478919276,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 2485899351,
+            "original": "~z~Oh, I'm all about master plans. I got more than I know what to do with.",
+            "translated": "~z~噢，我最不愁的就是总体计划。我的计划比办法还多。",
+            "desc": ""
+        },
+        {
+            "hash": 2494479693,
+            "original": "E2BR1_AJE",
+            "translated": "E2BR1_AJE",
+            "desc": ""
+        },
+        {
+            "hash": 2502931043,
+            "original": "~z~I'll whap that shit on the dashboard, see what you think of it. Yo yo, you'll think it's suddenly got dark in here.",
+            "translated": "~z~我掏出来架仪表盘上，给你个机会评价。哟哟，一睁眼车里直接就黑了，",
+            "desc": ""
+        },
+        {
+            "hash": 2505132539,
+            "original": "~z~Leave the disputes until later. Focus a little, okay?",
+            "translated": "~z~暂时先搁置争议，干掉对手，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2548679953,
+            "original": "~z~ I could do it, too... with my bare hands... wouldn't even think twice about it... but I won't, Lou.",
+            "translated": "~z~我赤手空拳就能干掉你，眼睛都不会眨一下。但是没必要，Lou。",
+            "desc": ""
+        },
+        {
+            "hash": 2576195917,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 2587535349,
+            "original": "E2BR1_OC",
+            "translated": "E2BR1_OC",
+            "desc": ""
+        },
+        {
+            "hash": 2614775513,
+            "original": "E2BR1_AJH",
+            "translated": "E2BR1_AJH",
+            "desc": ""
+        },
+        {
+            "hash": 2620580462,
+            "original": "SFX_OVERLAP_2570",
+            "translated": "SFX_OVERLAP_2570",
+            "desc": ""
+        },
+        {
+            "hash": 2622494848,
+            "original": "~z~Yeah alright, alright, alright - where was I? Oh yeah, yeah, see, I love guys like you.",
+            "translated": "~z~好好好好。说到哪了？哦对对，我喜欢你这种人。",
+            "desc": ""
+        },
+        {
+            "hash": 2624917194,
+            "original": "~z~Until then, shut the fuck up.",
+            "translated": "~z~在那之前，乖乖闭嘴吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2636997644,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 2640579337,
+            "original": "~z~I told you about that hose shit, midget. It's creeping me the fuck out.",
+            "translated": "~z~我说了别拿鸡巴说事了，矮逼。听得我反胃了。",
+            "desc": ""
+        },
+        {
+            "hash": 2648638992,
+            "original": "~z~What the fuck were they doing with a rocket launcher? What kind of business you trying to take over Mori?",
+            "translated": "~z~怎么他妈连火箭筒都出来了？你抢的是啥生意，Mori？",
+            "desc": ""
+        },
+        {
+            "hash": 2657889794,
+            "original": "E2BR1_HD",
+            "translated": "E2BR1_HD",
+            "desc": ""
+        },
+        {
+            "hash": 2665657298,
+            "original": "E2BR1_DD",
+            "translated": "E2BR1_DD",
+            "desc": ""
+        },
+        {
+            "hash": 2678540833,
+            "original": "E2BR1_AKG",
+            "translated": "E2BR1_AKG",
+            "desc": ""
+        },
+        {
+            "hash": 2701379899,
+            "original": "~z~Oh, exciting times, Lou! These are some excitin' times. Hah hah!",
+            "translated": "~z~哦，激动人心啊！Lou！我已经按捺不住了。哈哈！",
+            "desc": ""
+        },
+        {
+            "hash": 2728780615,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 2729069379,
+            "original": "~z~I done three years helping to run Hercules. I seen shit you wouldn't believe.",
+            "translated": "~z~我帮大力神管了三年店。经历说出来能吓死你。",
+            "desc": ""
+        },
+        {
+            "hash": 2749054618,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2762787335,
+            "original": "~z~MBA plus IDF equals \"do not fuck with this bitch\".",
+            "translated": "~z~MBA + IDF = 这人你惹不起。~n~(MBA：工商管理硕士 IDF：以色列国防军)",
+            "desc": ""
+        },
+        {
+            "hash": 2805527774,
+            "original": "E2BR1_JB",
+            "translated": "E2BR1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 2829113489,
+            "original": "E2BR1_EE",
+            "translated": "E2BR1_EE",
+            "desc": ""
+        },
+        {
+            "hash": 2833004414,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2842461737,
+            "original": "010090010100090100090100090100010090010090010",
+            "translated": "010090010100090100090100090100010090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 2857084069,
+            "original": "SFX_PAUSE_130",
+            "translated": "SFX_PAUSE_130",
+            "desc": ""
+        },
+        {
+            "hash": 2875284113,
+            "original": "E2BR1_AKH",
+            "translated": "E2BR1_AKH",
+            "desc": ""
+        },
+        {
+            "hash": 2892299806,
+            "original": "E2BR1_AJB",
+            "translated": "E2BR1_AJB",
+            "desc": ""
+        },
+        {
+            "hash": 2933908723,
+            "original": "~z~Oh, you got a lot to learn, driver.",
+            "translated": "~z~噢，你还要学习一个，司机。",
+            "desc": ""
+        },
+        {
+            "hash": 2941648695,
+            "original": "~z~If you're pussying out, be my guest. You gonna write me a check?",
+            "translated": "~z~你想逃的话，那请便。打算给我开支票吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2950996905,
+            "original": "E2BR1_LD",
+            "translated": "E2BR1_LD",
+            "desc": ""
+        },
+        {
+            "hash": 2952264360,
+            "original": "E2BR1_AJI",
+            "translated": "E2BR1_AJI",
+            "desc": ""
+        },
+        {
+            "hash": 2976313839,
+            "original": "010090100090100010090100100090010010090100090100090010",
+            "translated": "010090100090100010090100100090010010090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2986182437,
+            "original": "~z~Hey, just don't hold me responsible for your inadequacy issues after that, huh? Oh!",
+            "translated": "~z~发现自己太小可别怪我太大啊，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2997615153,
+            "original": "~z~Special sounds about right to me...",
+            "translated": "~z~我觉得特种就差不多了。",
+            "desc": ""
+        },
+        {
+            "hash": 3007478092,
+            "original": "E2BR1_AJF",
+            "translated": "E2BR1_AJF",
+            "desc": ""
+        },
+        {
+            "hash": 3008204863,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 3010217237,
+            "original": "E2BR1_MG2",
+            "translated": "E2BR1_MG2",
+            "desc": ""
+        },
+        {
+            "hash": 3013568864,
+            "original": "E2BR1_FB",
+            "translated": "E2BR1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 3043372580,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 3059181820,
+            "original": "E2BR1_MB",
+            "translated": "E2BR1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 3078364006,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 3078474629,
+            "original": "E2BR1_ID",
+            "translated": "E2BR1_ID",
+            "desc": ""
+        },
+        {
+            "hash": 3083063259,
+            "original": "~z~Ah, really, Lou? Cause if you got your mom's number there you know I might want to give her a call!",
+            "translated": "~z~啊，是吗，Lou？能给我她的电话号码吗？我这就去联系她！",
+            "desc": ""
+        },
+        {
+            "hash": 3112800236,
+            "original": "E2BR1_ATE",
+            "translated": "E2BR1_ATE",
+            "desc": ""
+        },
+        {
+            "hash": 3126177089,
+            "original": "100090100090100090010",
+            "translated": "100090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3127409876,
+            "original": "~z~I'm talking serious block the sun shit. Oh, hah!",
+            "translated": "~z~真的是遮天蔽日的大小。噢！哈哈！",
+            "desc": ""
+        },
+        {
+            "hash": 3127989420,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 3155642479,
+            "original": "~z~See, I've been bald since I was 19. I set the trends, I don't follow them.",
+            "translated": "~z~我19岁就剃干净了。是我引领潮流，可不是反过来。",
+            "desc": ""
+        },
+        {
+            "hash": 3168457173,
+            "original": "E2BR1_AUB1",
+            "translated": "E2BR1_AUB1",
+            "desc": ""
+        },
+        {
+            "hash": 3177011986,
+            "original": "~z~This is the part where you ask me to hand over my life savings so you can \"invest\" it for me, right?\"",
+            "translated": "~z~这就是那套我把毕生积蓄掏出来给你，让你帮我「投资」对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3180492925,
+            "original": "~z~Sure.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 3184755626,
+            "original": "~z~Mori, man, you're a business guy. So you should stick to your business shit.",
+            "translated": "~z~Mori啊，你是生意人。你就该好好做生意。",
+            "desc": ""
+        },
+        {
+            "hash": 3203724127,
+            "original": "E2BR1_CE2",
+            "translated": "E2BR1_CE2",
+            "desc": ""
+        },
+        {
+            "hash": 3215578419,
+            "original": "~z~Hey, Lopez, you can start calling the shots when you don't owe me some major g's.",
+            "translated": "~z~喂，Lopez，等你没欠我那么多钱了，再对我发号施令吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3222241484,
+            "original": "~z~I got it all, brother. I can handle anything.",
+            "translated": "~z~两个我都有，兄弟。我能解决一切。",
+            "desc": ""
+        },
+        {
+            "hash": 3222807386,
+            "original": "~z~Don't take nothing out, bro. Keep it to yourself. Keep the monster away from me, and listen to what I'm saying.",
+            "translated": "~z~别掏出来了，兄弟。你自己留着吧。怪兽还是离我远点吧，你好好听我说。",
+            "desc": ""
+        },
+        {
+            "hash": 3261910827,
+            "original": "~z~A profitable one. I crunched the numbers, they came out gold. Now let's do it.",
+            "translated": "~z~是能捞钱的生意。我都算好了，大赚特赚。来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3267782903,
+            "original": "010090100090100100090010100",
+            "translated": "010090100090100100090010100",
+            "desc": ""
+        },
+        {
+            "hash": 3278805404,
+            "original": "E2BR1_EA",
+            "translated": "E2BR1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3304162564,
+            "original": "~z~Brother or no, he's gotta learn.",
+            "translated": "~z~不是兄弟的问题，他早晚要摔在这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 3309086912,
+            "original": "E2BR1_AKB",
+            "translated": "E2BR1_AKB",
+            "desc": ""
+        },
+        {
+            "hash": 3313068870,
+            "original": "~z~My moms might fall for that shit, but she believes that dogs bark at ghosts so maybe she's an easy touch.",
+            "translated": "~z~我妈可能会被你骗到，但她还信狗能看见幽灵，她大概是高危人群。",
+            "desc": ""
+        },
+        {
+            "hash": 3340702584,
+            "original": "~z~You think because of my lumpy little brother that I don't swing on the darkside.",
+            "translated": "~z~见着了我那大块头弟弟，你就觉得我不在道上浪吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3345748447,
+            "original": "SFX_OVERLAP_4580",
+            "translated": "SFX_OVERLAP_4580",
+            "desc": ""
+        },
+        {
+            "hash": 3358789718,
+            "original": "~z~Good for you, bro. You want to send me a resume so we can skip all this personal history crap?",
+            "translated": "~z~那就好，兄弟。要么你发我份简历吧，省得在这儿自我介绍。",
+            "desc": ""
+        },
+        {
+            "hash": 3397736898,
+            "original": "E2BR1_AUF2",
+            "translated": "E2BR1_AUF2",
+            "desc": ""
+        },
+        {
+            "hash": 3413581020,
+            "original": "~z~You were probably still sucking on your momma's titty at that age.",
+            "translated": "~z~你那么大的时候可能还在吃奶吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3441361187,
+            "original": "E2BR1_HB2",
+            "translated": "E2BR1_HB2",
+            "desc": ""
+        },
+        {
+            "hash": 3447410355,
+            "original": "E2BR1_MC",
+            "translated": "E2BR1_MC",
+            "desc": ""
+        },
+        {
+            "hash": 3450410255,
+            "original": "~z~That a successful takeover, bro? Seems like we just killed some dudes and walked away with nothing.",
+            "translated": "~z~这算是抢夺成功了吗，老兄？好像我们只是杀了几个人就空手而归了。",
+            "desc": ""
+        },
+        {
+            "hash": 3461622733,
+            "original": "E2BR1_GE",
+            "translated": "E2BR1_GE",
+            "desc": ""
+        },
+        {
+            "hash": 3472830421,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 3475638534,
+            "original": "E2BR1_ATH",
+            "translated": "E2BR1_ATH",
+            "desc": ""
+        },
+        {
+            "hash": 3494031908,
+            "original": "E2BR1_EB",
+            "translated": "E2BR1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 3513746082,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 3524316478,
+            "original": "100090100090010100090010090100090100090100",
+            "translated": "100090100090010100090010090100090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 3534495865,
+            "original": "~z~I'm feeling bearish about him. Sell! Sell! Sell! God, sell!",
+            "translated": "~z~他这只股我看跌。抛！抛！抛！天哪，抛了吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3538621748,
+            "original": "E2BR1_FD",
+            "translated": "E2BR1_FD",
+            "desc": ""
+        },
+        {
+            "hash": 3539484550,
+            "original": "E2BR1_HA",
+            "translated": "E2BR1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3549927313,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 3561031893,
+            "original": "~z~Yo whoa what you mean? 'Cause she's old and wise? Hey, hey, hey I fuck cougars too, Luis.",
+            "translated": "~z~喂喂，你啥意思？因为她身经百战见得多了？喂喂喂，熟女我也能接受的，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 3561686803,
+            "original": "E2BR1_IC2",
+            "translated": "E2BR1_IC2",
+            "desc": ""
+        },
+        {
+            "hash": 3565032571,
+            "original": "E2BR1_KB",
+            "translated": "E2BR1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 3581120406,
+            "original": "E2BR1_KC1",
+            "translated": "E2BR1_KC1",
+            "desc": ""
+        },
+        {
+            "hash": 3582214990,
+            "original": "E2BR1_CB",
+            "translated": "E2BR1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 3621207411,
+            "original": "E2BR1_GC",
+            "translated": "E2BR1_GC",
+            "desc": ""
+        },
+        {
+            "hash": 3645814743,
+            "original": "~z~I never said you weren't a swinger, man. Come to think of it, I mighta seen you on one of them websites.",
+            "translated": "~z~我也没说你不是道上浪人啊。转念一想，我可能还在浪人队官网见过你。",
+            "desc": ""
+        },
+        {
+            "hash": 3656485246,
+            "original": "E2BR1_AUA",
+            "translated": "E2BR1_AUA",
+            "desc": ""
+        },
+        {
+            "hash": 3661122371,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 3661278732,
+            "original": "100010090100090100090100090010",
+            "translated": "100010090100090100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3663279769,
+            "original": "E2BR1_EC",
+            "translated": "E2BR1_EC",
+            "desc": ""
+        },
+        {
+            "hash": 3665212637,
+            "original": "~z~I would not know, bro.",
+            "translated": "~z~我不知道，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3675874689,
+            "original": "E2BR1_AKD",
+            "translated": "E2BR1_AKD",
+            "desc": ""
+        },
+        {
+            "hash": 3681390836,
+            "original": "E2BR1_IB",
+            "translated": "E2BR1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 3690376328,
+            "original": "~z~Fuck yeah!",
+            "translated": "~z~噢耶！",
+            "desc": ""
+        },
+        {
+            "hash": 3722846482,
+            "original": "~z~That's right, get angry, Lopez. Use it.",
+            "translated": "~z~你说得对，愤怒起来吧，Lopez。利用好它。",
+            "desc": ""
+        },
+        {
+            "hash": 3726022675,
+            "original": "E2BR1_BA",
+            "translated": "E2BR1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3728351370,
+            "original": "100090010090100010",
+            "translated": "100090010090100010",
+            "desc": ""
+        },
+        {
+            "hash": 3739477446,
+            "original": "~z~and Mori K is gonna be there on the ground floor.",
+            "translated": "~z~而Mori K会抢先布局这些赛道。",
+            "desc": ""
+        },
+        {
+            "hash": 3774689039,
+            "original": "E2BR1_HB1",
+            "translated": "E2BR1_HB1",
+            "desc": ""
+        },
+        {
+            "hash": 3778579229,
+            "original": "E2BR1_DC",
+            "translated": "E2BR1_DC",
+            "desc": ""
+        },
+        {
+            "hash": 3780594353,
+            "original": "~z~Don't get involved in stuff that's out of your league because of some small man syndrome that makes you overcompensate.",
+            "translated": "~z~别因为气不过自己身材短小，就去做一些不自量力的事情。",
+            "desc": ""
+        },
+        {
+            "hash": 3794244239,
+            "original": "~z~Shave those things off, by the way. They're unappetising.",
+            "translated": "~z~有空记得把屌毛剃干净，真的恶心。",
+            "desc": ""
+        },
+        {
+            "hash": 3795633342,
+            "original": "E2BR1_GA",
+            "translated": "E2BR1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3805067977,
+            "original": "E2BR1_DB",
+            "translated": "E2BR1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 3806009430,
+            "original": "E2BR1_JA2",
+            "translated": "E2BR1_JA2",
+            "desc": ""
+        },
+        {
+            "hash": 3807014192,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 3807034541,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 3813182112,
+            "original": "E2BR1_NB",
+            "translated": "E2BR1_NB",
+            "desc": ""
+        },
+        {
+            "hash": 3826379597,
+            "original": "~z~This shit comes from the heart, okay? I don't wanna see you getting in over your head.",
+            "translated": "~z~全都是真心话，好吗？我不想看见你被冲昏头脑。",
+            "desc": ""
+        },
+        {
+            "hash": 3830649591,
+            "original": "~z~Check my bank balance, dog. I know exactly what I'm doing.",
+            "translated": "~z~看看我的银行余额吧，小子。在干啥我自有分寸。",
+            "desc": ""
+        },
+        {
+            "hash": 3838569291,
+            "original": "~z~Wow, it's incredible - he looks like a man, but he talks like a pussy.",
+            "translated": "~z~哇哦，太离谱了。你看起来像个爷们，说话跟个婆娘似的。",
+            "desc": ""
+        },
+        {
+            "hash": 3855630419,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 3906234775,
+            "original": "E2BR1_BE",
+            "translated": "E2BR1_BE",
+            "desc": ""
+        },
+        {
+            "hash": 3907206117,
+            "original": "E2BR1_KA2",
+            "translated": "E2BR1_KA2",
+            "desc": ""
+        },
+        {
+            "hash": 3924571179,
+            "original": "~z~Funny, bro. Real funny. One thing I can rely on at least is mom knowing you were a little asshole if she met you.",
+            "translated": "~z~太搞笑了，兄弟。真的搞笑。有一点我敢肯定，我妈见到你就知道你不是啥好东西。",
+            "desc": ""
+        },
+        {
+            "hash": 3926012895,
+            "original": "~z~and some balls in their sack. Cash is falling out of the sky!",
+            "translated": "~z~胆子比天大的人的。天上到处掉馅饼！",
+            "desc": ""
+        },
+        {
+            "hash": 3939648685,
+            "original": "SFX_PAUSE_090",
+            "translated": "SFX_PAUSE_090",
+            "desc": ""
+        },
+        {
+            "hash": 3947452227,
+            "original": "~z~No, I want you to understand, Luis, that I got the brain and the brawn. The meat and potatoes.",
+            "translated": "~z~不，我是想让你明白，Luis，我可是智勇双全。文武全能。",
+            "desc": ""
+        },
+        {
+            "hash": 3957776658,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 3971799401,
+            "original": "~z~Still got my 4.0 though, didn't I? Ho, give it up, right here.",
+            "translated": "~z~但我还是拿了4.0的绩点。嚯，好了，就说到这儿吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3999627956,
+            "original": "E2BR1_CE1",
+            "translated": "E2BR1_CE1",
+            "desc": ""
+        },
+        {
+            "hash": 4081892472,
+            "original": "~z~Just leave me out of it.",
+            "translated": "~z~只要别扯上我。",
+            "desc": ""
+        },
+        {
+            "hash": 4084461290,
+            "original": "~z~Whoa, whoa, there's nothing small about what I got going on, Lopez. Yo, you need me to take out the monster?",
+            "translated": "~z~喔，喔，我跟短小二字可沾不上边啊，Lopez。哟，你要看看我的怪兽吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4087909701,
+            "original": "~z~Ooh, I beg to differ.",
+            "translated": "~z~噢，恕难苟同。",
+            "desc": ""
+        },
+        {
+            "hash": 4100038954,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 4104414884,
+            "original": "~z~Imagination isn't your strong suit, Luis. Let's leave the logistics to me, heh?",
+            "translated": "~z~想象力不是你的强项，Luis。组织人事的事我来，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 4146510928,
+            "original": "E2BR1_AUD1",
+            "translated": "E2BR1_AUD1",
+            "desc": ""
+        },
+        {
+            "hash": 4159606883,
+            "original": "E2BR1_AKA",
+            "translated": "E2BR1_AKA",
+            "desc": ""
+        },
+        {
+            "hash": 4176770935,
+            "original": "E2BR1_AUD2",
+            "translated": "E2BR1_AUD2",
+            "desc": ""
+        },
+        {
+            "hash": 4182317708,
+            "original": "~z~So what's your master plan then, Mori? Where the billions coming from?",
+            "translated": "~z~所以你的总计划呢，Mori？上哪发大财呢？",
+            "desc": ""
+        },
+        {
+            "hash": 4204280976,
+            "original": "E2BR1_JD",
+            "translated": "E2BR1_JD",
+            "desc": ""
+        },
+        {
+            "hash": 4220449922,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 4246386960,
+            "original": "E2BR1_AUE1",
+            "translated": "E2BR1_AUE1",
+            "desc": ""
+        },
+        {
+            "hash": 4256156578,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 4256735481,
+            "original": "E2BR1_ME",
+            "translated": "E2BR1_ME",
+            "desc": ""
+        },
+        {
+            "hash": 4277894630,
+            "original": "~z~You think it's easy sitting down to Econ 101 when you been icing fools?",
+            "translated": "~z~手里这么多人命，老实坐着听经济学原理哪有那么容易。",
+            "desc": ""
+        },
+        {
+            "hash": 4286357719,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        },
+        {
+            "hash": 4288074094,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 4288272486,
+            "original": "SFX_PAUSE_150",
+            "translated": "SFX_PAUSE_150",
+            "desc": ""
+        }
+    ]
+}

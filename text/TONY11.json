@@ -1,0 +1,268 @@
+{
+    "TONY11": [
+        {
+            "hash": 11361485,
+            "original": "~s~PLACEHOLDER: The player boards Bulgarin's plane and the plane take off from the runway.",
+            "translated": "~s~PLACEHOLDER: 玩家登上了~y~Bulgarin的飞机，并且在跑道上起飞了。",
+            "desc": ""
+        },
+        {
+            "hash": 102052164,
+            "original": "Plane enemy heading: ~1~",
+            "translated": "敌机航向: ~1~",
+            "desc": ""
+        },
+        {
+            "hash": 170068259,
+            "original": "~s~When locked-on and flashing red while equipped with a pistol, you can perform an execution on certain characters.~s~",
+            "translated": "~s~用手枪瞄准某些角色时，你可以对其实施处决。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 296732793,
+            "original": "~r~The bike was destroyed.~s~",
+            "translated": "~r~摩托被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 338699440,
+            "original": "~s~Get into ~y~cover.~s~",
+            "translated": "~s~进入~y~掩体。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 379746982,
+            "original": "~s~Go into ~y~Funland.~s~",
+            "translated": "~s~进入~y~游乐园。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 597893824,
+            "original": "~s~PLACEHOLDER: The player is spotted by Bulgarin's crew and they attack, Bulgarin flees in the background.~s~",
+            "translated": "~s~PLACEHOLDER: The player is spotted by Bulgarin's crew and they attack, Bulgarin flees in the background.~s~",
+            "desc": ""
+        },
+        {
+            "hash": 621320050,
+            "original": "~r~You abandoned Tony.~s~",
+            "translated": "~r~你抛弃了Tony。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 859190221,
+            "original": "~s~Get back in ~b~Tony's car.~s~",
+            "translated": "~s~回到~b~Tony的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 951490130,
+            "original": "~S~Destroy the ~g~heroin.~s~",
+            "translated": "~S~销毁~g~海洛因。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1038186514,
+            "original": "~s~Chase after ~y~The Blue Ghawar jet.~s~",
+            "translated": "~s~追赶~y~蓝色的Ghawar飞机。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1194024195,
+            "original": "Get to the ~y~airport.~s~",
+            "translated": "前往~y~机场。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1202839036,
+            "original": "~s~Take out ~r~Timur~s~ and get to the airport in 2 hours.~s~",
+            "translated": "~s~干掉~r~Timur，~s~在2小时内赶到机场。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1226071945,
+            "original": "~s~Get back to ~b~Tony.~s~",
+            "translated": "~s~回去找~b~Tony。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1271239642,
+            "original": "~s~Chase after ~r~Bulgarin~s~ and take him out.~s~",
+            "translated": "~s~追击~r~Bulgarin，~s~干掉他。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1434515886,
+            "original": "~r~Yusuf's helicopter is destroyed.~s~",
+            "translated": "~r~Yusuf的直升机被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1454963410,
+            "original": "~r~Tony's car is stuck.~s~",
+            "translated": "~r~Tony的车坏了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1538065930,
+            "original": "~r~You abandoned the heroin shipment.~s~",
+            "translated": "~r~你抛弃了海洛因。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1546422005,
+            "original": "~r~You abandoned the bike.~s~",
+            "translated": "~r~你抛弃了摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1620745390,
+            "original": "~s~PLACEHOLDER: The player is told Bulgarin is having a final meeting with his entourage at the airport.~s~",
+            "translated": "~s~PLACEHOLDER: The player is told Bulgarin is having a final meeting with his entourage at the airport.~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1774068248,
+            "original": "~r~Timur got away.~s~",
+            "translated": "~r~Timur逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1784390503,
+            "original": "Follow Yusuf to the ~y~airport.~s~",
+            "translated": "跟随Yusuf前往~y~机场。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1933226969,
+            "original": "~s~Execute ~r~Bulgarin.~s~",
+            "translated": "~s~处决~r~Bulgarin。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1981761463,
+            "original": "~s~PLACEHOLDER: Bulgarin escapes in his Range Rover Sport with a convoy of cars protecting him. The player must use the provided vehicle to chase after them.~s~",
+            "translated": "~s~PLACEHOLDER: Bulgarin escapes in his Range Rover Sport with a convoy of cars protecting him. The player must use the provided vehicle to chase after them.~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2022577720,
+            "original": "~S~Get to the other side of ~y~Funland.~s~",
+            "translated": "~S~前往~y~游乐园~s~的另一边。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2094975085,
+            "original": "~r~Tony's car has been destroyed.~s~",
+            "translated": "~r~Tony的车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2104522543,
+            "original": "~s~Go to the ~y~airport.~s~",
+            "translated": "~s~前往~y~机场。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2299967305,
+            "original": "Get on the ~b~bike.~s~",
+            "translated": "骑上~b~摩托。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2376263849,
+            "original": "~s~Chase ~y~The Blue Ghawar jet.~s~",
+            "translated": "~s~追赶~y~蓝色的Ghawar飞机。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2516977536,
+            "original": "~s~Timur appears and tells Luis that Bulgarin is at the airport and he will never get him. Timur then open fire on Luis.~s~",
+            "translated": "~s~Timur出现了后跟Luis说Bulgarin在机场，他永远也找不到他了。然后Timur向Luis发动攻势。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2798383795,
+            "original": "~S~Destroy the remaining ~g~heroin shipment.~s~",
+            "translated": "~S~销毁剩余的~g~海洛因。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2856833249,
+            "original": "Go to the ~y~Dukes Monoglobe.~s~",
+            "translated": "前往~y~Dukes的巨型地球仪。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2925869118,
+            "original": "~s~PLACEHOLDER: Shootout takes place on the plane. Bulgarin is executed by the player and as he hits the floor Bulgarin drops a grenade. The grenade explodes and blows a huge whole in the plane. The player is sucked out and must parachute to safety.~s~",
+            "translated": "~s~PLACEHOLDER: Shootout takes place on the plane. Bulgarin is executed by the player and as he hits the floor Bulgarin drops a grenade. The grenade explodes and blows a huge whole in the plane. The player is sucked out and must parachute to safety.~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2942141398,
+            "original": "Get back on the ~b~bike.~s~",
+            "translated": "回到~b~摩托~s~上。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2975379808,
+            "original": "~r~Yusuf is dead.~s~",
+            "translated": "~r~Yusuf死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3220317439,
+            "original": "~s~Get to ~y~Dukes Expressway.~s~",
+            "translated": "~s~前往~y~Dukes高速。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3221093453,
+            "original": "Get close to the ~y~The Blue Ghawar.~s~",
+            "translated": "靠近~y~蓝色的Ghawar。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3336276488,
+            "original": "~S~Go to ~y~Crockett Ave.~s~",
+            "translated": "~S~前往~y~Crockett大道。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3340950772,
+            "original": "~r~Tony is dead.~s~",
+            "translated": "~r~Tony死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3670694575,
+            "original": "~s~Take out ~r~Timur.~s~",
+            "translated": "~s~干掉~r~Timur。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3716855654,
+            "original": "~r~Bulgarin has got away.~s~",
+            "translated": "~r~Bulgarin逃走了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3717554245,
+            "original": "Clear the carnival of ~r~Bulgarin's men~s~ and find Timur.~s~",
+            "translated": "消灭~r~Bulgarin的手下，~s~找出Timur。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3846391511,
+            "original": "~s~Take out ~r~Bulgarin's men.~s~",
+            "translated": "~s~干掉~r~Bulgarin的手下。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4076134970,
+            "original": "~s~Lose the cops.~s~",
+            "translated": "~s~甩掉警察。~s~",
+            "desc": ""
+        }
+    ]
+}

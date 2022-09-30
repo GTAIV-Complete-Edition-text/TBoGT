@@ -1,0 +1,52 @@
+{
+    "ARN01": [
+        {
+            "hash": 474462913,
+            "original": "Mission passed.",
+            "translated": "任务完成。",
+            "desc": ""
+        },
+        {
+            "hash": 2296377641,
+            "original": "~r~Arnaud was hurt.",
+            "translated": "~r~Arnaud受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2551811976,
+            "original": "Take Arnaud to the ~y~Massage Spa.",
+            "translated": "送Arnaud去~y~水疗按摩店。",
+            "desc": ""
+        },
+        {
+            "hash": 2691342378,
+            "original": "~r~Arnaud is dead.",
+            "translated": "~r~Arnaud死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2996782227,
+            "original": "You've left ~b~Arnaud~s~ behind.",
+            "translated": "你把~b~Arnaud~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 3438115119,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3936638843,
+            "original": "Mission failed.",
+            "translated": "任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 3949737540,
+            "original": "~r~You abandoned Arnaud.",
+            "translated": "~r~你抛弃了Arnaud。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,4 +1,0 @@
-﻿[MARG2]
-;0x08A6B351=~s~The bystanders think you pushed Margot, run away from the area and lose them.
-0x08A6B351=~s~路人认为是你把Margot推了下去，甩掉他们，离开这片区域。
-

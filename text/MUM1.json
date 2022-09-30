@@ -1,0 +1,208 @@
+{
+    "MUM1": [
+        {
+            "hash": 78972825,
+            "original": "~s~Fights in L.C. Cage Fighters are usually unarmed and toe-to-toe.",
+            "translated": "~s~自由城铁笼格斗中的战斗通常是一对一的赤手肉搏。",
+            "desc": ""
+        },
+        {
+            "hash": 210392014,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 251304663,
+            "original": "~s~Out.",
+            "translated": "~s~出局。",
+            "desc": ""
+        },
+        {
+            "hash": 284341499,
+            "original": "MOCAP PLACEHOLDER ~n~~n~Santo is pissed Luis didn't fall in the 3rd, he threatens to burn Luis mum's house down.~n~Luis says he'll kill him first.",
+            "translated": "MOCAP PLACEHOLDER ~n~~n~Santo is pissed Luis didn't fall in the 3rd, he threatens to burn Luis mum's house down.~n~Luis says he'll kill him first.",
+            "desc": ""
+        },
+        {
+            "hash": 309502740,
+            "original": "~s~Use the crowd to hold opponents.",
+            "translated": "~s~利用观众拉住对手。",
+            "desc": ""
+        },
+        {
+            "hash": 597627807,
+            "original": "~s~Wait for ~b~Santo.",
+            "translated": "~s~等待~b~Santo。",
+            "desc": ""
+        },
+        {
+            "hash": 672620599,
+            "original": "~s~Hold ~INPUT_AIM~ to lock onto your opponent.",
+            "translated": "~s~按住~INPUT_AIM~锁定对手。",
+            "desc": ""
+        },
+        {
+            "hash": 872055238,
+            "original": "~s~Go to the ~y~L.C. Cage Fighters.",
+            "translated": "~s~前往~y~自由城铁笼格斗。",
+            "desc": ""
+        },
+        {
+            "hash": 977470610,
+            "original": "~s~Press ~INPUT_MELEE_ATTACK1~ to punch.~n~Press ~INPUT_MELEE_ATTACK2~ for alternative punch.~n~~s~Press ~INPUT_MELEE_KICK~ to kick.",
+            "translated": "~s~按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~拳击。~n~按~INPUT_MELEE_KICK~踢击。",
+            "desc": ""
+        },
+        {
+            "hash": 1257341662,
+            "original": "~r~You are disqualified for stepping off the mat.",
+            "translated": "~r~你因出界出局。",
+            "desc": ""
+        },
+        {
+            "hash": 1438631348,
+            "original": "~s~Out in 2 seconds.",
+            "translated": "~s~2秒后出局。",
+            "desc": ""
+        },
+        {
+            "hash": 1595985485,
+            "original": "~s~Hold ~INPUT_MELEE_BLOCK~ to block.",
+            "translated": "~s~按住~INPUT_MELEE_BLOCK~格挡。",
+            "desc": ""
+        },
+        {
+            "hash": 1603438137,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 1660422251,
+            "original": "~s~Out in 1 second.",
+            "translated": "~s~1秒后出局，",
+            "desc": ""
+        },
+        {
+            "hash": 1677538202,
+            "original": "~s~Tap ~INPUT_MELEE_BLOCK~ as your opponent attacks to dodge. Press ~INPUT_MELEE_ATTACK1~ or ~INPUT_MELEE_ATTACK2~ after dodging to perform a powerful counter move or take their weapon.",
+            "translated": "~s~对手攻击时可按~INPUT_MELEE_BLOCK~闪避。~n~闪避后按~INPUT_MELEE_ATTACK1~或~INPUT_MELEE_ATTACK2~反击或夺械。",
+            "desc": ""
+        },
+        {
+            "hash": 1727144558,
+            "original": "MOCAP PLACEHOLDER ~n~~n~Santo tells player he did a good job. ~n~ Player tells Santos he has his money and to leave his mum alone.",
+            "translated": "MOCAP PLACEHOLDER ~n~~n~Santo tells player he did a good job. ~n~ Player tells Santos he has his money and to leave his mum alone.",
+            "desc": ""
+        },
+        {
+            "hash": 1819685549,
+            "original": "~s~Follow ~b~Santo.",
+            "translated": "~s~跟随~b~Santo。",
+            "desc": ""
+        },
+        {
+            "hash": 1982485317,
+            "original": "~s~You won.",
+            "translated": "~s~你赢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2041981890,
+            "original": "~s~Stay close to ~b~Santo.",
+            "translated": "~s~靠近~b~Santo。",
+            "desc": ""
+        },
+        {
+            "hash": 2068391187,
+            "original": "You can come back and bet on fights or compete in the L.C. Cage Fighter Championship.",
+            "translated": "你可以回来下注赌钱，也可以来争夺自由城铁笼格斗的冠军。",
+            "desc": ""
+        },
+        {
+            "hash": 2247800810,
+            "original": "~s~Kill ~r~Santo.",
+            "translated": "~s~杀了~r~Santo。",
+            "desc": ""
+        },
+        {
+            "hash": 2701743965,
+            "original": "~s~Press ~INPUT_PICKUP~ to take a dive.",
+            "translated": "~s~按~INPUT_PICKUP~故意打输。",
+            "desc": ""
+        },
+        {
+            "hash": 2720082529,
+            "original": "~s~Out in 3 seconds.",
+            "translated": "~s~3秒后出局。",
+            "desc": ""
+        },
+        {
+            "hash": 3000800211,
+            "original": "~r~You are no longer welcome into L.C. Cage Fighters.",
+            "translated": "~r~自由城铁笼格斗将你拒之门外了。",
+            "desc": ""
+        },
+        {
+            "hash": 3009479443,
+            "original": "~s~This is the third round. Get your health to below half and take a dive.",
+            "translated": "~s~现在是第三轮。使你的生命值降至一半以下，故意打输。",
+            "desc": ""
+        },
+        {
+            "hash": 3351905743,
+            "original": "~r~Santo was killed.",
+            "translated": "~r~Santo被杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 3550636016,
+            "original": "~r~You lost Santo.",
+            "translated": "~r~你跟丢了Santo。",
+            "desc": ""
+        },
+        {
+            "hash": 3655690263,
+            "original": "~r~The car was wrecked.",
+            "translated": "~r~车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 3738810507,
+            "original": "Let your opponent hit you to dive.",
+            "translated": "老实挨打，准备躺倒。",
+            "desc": ""
+        },
+        {
+            "hash": 3831935310,
+            "original": "~s~Press ~INPUT_PICKUP~ to get up again.~n~Do nothing to stay down.",
+            "translated": "~s~按~INPUT_PICKUP~起身。~n~不操作即为躺倒。",
+            "desc": ""
+        },
+        {
+            "hash": 3894627958,
+            "original": "~s~Do not leave the ring when fighting.",
+            "translated": "~s~战斗时不要离开规定区域。",
+            "desc": ""
+        },
+        {
+            "hash": 4159041019,
+            "original": "~s~Bets are cancelled if you step off the mat, and contenders lose their entry fee.",
+            "translated": "~s~若你中途退场，观众下的赌注会被退回，拳手则会损失入场费。",
+            "desc": ""
+        },
+        {
+            "hash": 4189602893,
+            "original": "~s~You lost.",
+            "translated": "~s~你输了。",
+            "desc": ""
+        },
+        {
+            "hash": 4210489291,
+            "original": "The Crowd goes wild.",
+            "translated": "观众狂欢。",
+            "desc": ""
+        }
+    ]
+}

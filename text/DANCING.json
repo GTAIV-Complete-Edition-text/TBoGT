@@ -1,0 +1,304 @@
+{
+    "DANCING": [
+        {
+            "hash": 90219963,
+            "original": "When indicated perform a hold move by holding ~PAD_LSTICK_ALL~. Keep it held for the duration of the move to increase your dance meter.~n~Press ~INPUT_ENTER~ for more instructions.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "提示「保持！」时按住~PAD_LSTICK_ALL~可以持续积累跳舞量表。~n~按~INPUT_ENTER~查看后续教程。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 189845906,
+            "original": "When the speaker glows red perform a hold move by holding ~INPUT_MOVE_LEFT~ or ~INPUT_MOVE_RIGHT~ in one direction.",
+            "translated": "扬声器图标变红时，朝一个方向按下~INPUT_MOVE_LEFT~或~INPUT_MOVE_RIGHT~以保持动作。",
+            "desc": ""
+        },
+        {
+            "hash": 200021083,
+            "original": "Press buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~INPUT_PICKUP~ stop dancing.",
+            "translated": "跟随音乐节奏按下按键跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~INPUT_PICKUP~ 停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 201196294,
+            "original": "Dance level ~1~",
+            "translated": "舞蹈等级 ~1~",
+            "desc": ""
+        },
+        {
+            "hash": 267356383,
+            "original": "3 more beats.",
+            "translated": "还有3拍。",
+            "desc": ""
+        },
+        {
+            "hash": 345772592,
+            "original": "7 more beats.",
+            "translated": "还有7拍。",
+            "desc": ""
+        },
+        {
+            "hash": 497591377,
+            "original": "2 more beats.",
+            "translated": "还有2拍。",
+            "desc": ""
+        },
+        {
+            "hash": 691130221,
+            "original": "Press buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.",
+            "translated": "跟随音乐节奏按下按键跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~PAD_LB~ 停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 733233256,
+            "original": "5 more beats.",
+            "translated": "还有5拍。",
+            "desc": ""
+        },
+        {
+            "hash": 757293323,
+            "original": "DANCE!",
+            "translated": "扭起来！",
+            "desc": ""
+        },
+        {
+            "hash": 779744633,
+            "original": "During a hold press ~PAD_LT~ or ~PAD_RT~ in time to the music to boost your dance meter.~n~Press ~PAD_Y~ for more instructions.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.",
+            "translated": "「保持！」期间随节拍按下~PAD_LT~或~PAD_RT~可以积累大量跳舞量表。~n~按~PAD_Y~查看后续教程。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 784910682,
+            "original": "Your moves have impressed.~n~Press ~INPUT_FRONTEND_ACCEPT~ to dance with the girl.~n~Press ~INPUT_FRONTEND_CANCEL~ to decline.~n~Press ~PAD_LB~ to stop dancing.",
+            "translated": "你的舞步令人刮目相看。~n~按~INPUT_FRONTEND_ACCEPT~和姑娘一起跳舞。~n~按~INPUT_FRONTEND_CANCEL~谢绝。~n~按~PAD_LB~停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 849230569,
+            "original": "Fill your dance meter without many mistakes and you will take part in a special group dance sequence.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "尽量避免失误，填满跳舞量表，即可触发特殊的团体舞步。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 851725952,
+            "original": "6 more beats.",
+            "translated": "还有6拍。",
+            "desc": ""
+        },
+        {
+            "hash": 908047707,
+            "original": "Fill your dance meter by pressing ~PAD_LSTICK_ALL~ in time to the music.~n~Press ~INPUT_ENTER~ for more instructions.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "随节拍按下~PAD_LSTICK_ALL~积累跳舞量表。~n~按~INPUT_ENTER~查看后续教程。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 950759008,
+            "original": "Press buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.",
+            "translated": "跟随音乐节奏按下按键跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~PAD_LB~ 停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 1044019926,
+            "original": "Move ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ in time with the music to dance.",
+            "translated": "随节拍推动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 1228176232,
+            "original": "4 more beats.",
+            "translated": "还有4拍。",
+            "desc": ""
+        },
+        {
+            "hash": 1523445687,
+            "original": "~PAD_X~",
+            "translated": "~PAD_X~",
+            "desc": ""
+        },
+        {
+            "hash": 1555629628,
+            "original": "~PAD_LSTICK_RIGHT~",
+            "translated": "~PAD_LSTICK_RIGHT~",
+            "desc": ""
+        },
+        {
+            "hash": 1679634851,
+            "original": "Move ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ in time with the music to dance.~n~Press ~INPUT_PICKUP~ to stop dancing.",
+            "translated": "随节拍推动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~跳舞。~n~按~INPUT_PICKUP~停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 1723024092,
+            "original": "Press buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~INPUT_PICKUP~ stop dancing.",
+            "translated": "跟随音乐节奏按下按键跳舞。~n~~PAD_A~ 往下~n~~PAD_B~ 往右~n~~PAD_X~ 往左~n~~PAD_Y~ 往上~n~~INPUT_PICKUP~ 停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 1917537685,
+            "original": "1 more beat.",
+            "translated": "还有1拍。",
+            "desc": ""
+        },
+        {
+            "hash": 1949394324,
+            "original": "During a hold press ~INPUT_ATTACK~ or ~INPUT_AIM~ in time to the music to boost your dance meter.~n~Press ~INPUT_ENTER~ for more instructions.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "「保持！」期间随节拍按下~INPUT_ATTACK~或~INPUT_AIM~可以积累大量跳舞量表。~n~按~INPUT_ENTER~查看后续教程。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 2109846930,
+            "original": "~PAD_B~",
+            "translated": "~PAD_B~",
+            "desc": ""
+        },
+        {
+            "hash": 2287714210,
+            "original": "~PAD_LSTICK_DOWN~",
+            "translated": "~PAD_LSTICK_DOWN~",
+            "desc": ""
+        },
+        {
+            "hash": 2308738012,
+            "original": "~PAD_A~",
+            "translated": "~PAD_A~",
+            "desc": ""
+        },
+        {
+            "hash": 2336129417,
+            "original": "Dance anim playing is ~a~",
+            "translated": "正在播放的舞蹈动画是 ~a~",
+            "desc": ""
+        },
+        {
+            "hash": 2464852390,
+            "original": "~PAD_LSTICK_UP~",
+            "translated": "~PAD_LSTICK_UP~",
+            "desc": ""
+        },
+        {
+            "hash": 2552174939,
+            "original": "HOLD!",
+            "translated": "保持！",
+            "desc": ""
+        },
+        {
+            "hash": 2647015794,
+            "original": "Dancing minigame passed",
+            "translated": "跳舞小游戏成功",
+            "desc": ""
+        },
+        {
+            "hash": 3262011542,
+            "original": "~PAD_LSTICK_LEFT~",
+            "translated": "~PAD_LSTICK_LEFT~",
+            "desc": ""
+        },
+        {
+            "hash": 3356436645,
+            "original": "When indicated perform a hold move by holding ~PAD_LSTICK_ALL~ or ~PAD_RSTICK_ALL~ in one direction. Keep it held for the duration of the move to increase your dance meter.~n~Press ~PAD_Y~ for more instructions.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.",
+            "translated": "提示「保持！」时将~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~之一推到底可以持续积累跳舞量表。~n~按~PAD_Y~查看后续教程。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 3451585643,
+            "original": "8 more beats.",
+            "translated": "还有8拍。",
+            "desc": ""
+        },
+        {
+            "hash": 3501642684,
+            "original": "Dancing minigame failed",
+            "translated": "跳舞小游戏失败",
+            "desc": ""
+        },
+        {
+            "hash": 3548517062,
+            "original": "Keep the hold for ~a~",
+            "translated": "保持~a~",
+            "desc": ""
+        },
+        {
+            "hash": 3560104575,
+            "original": "~PAD_Y~",
+            "translated": "~PAD_Y~",
+            "desc": ""
+        },
+        {
+            "hash": 3643591392,
+            "original": "Fill your dance meter by moving ~PAD_LSTICK_ALL~ or ~PAD_RSTICK_ALL~ in time to the music.~n~Press ~PAD_Y~ for more instructions.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.",
+            "translated": "随节拍推动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~积累跳舞量表。~n~按~PAD_Y~查看后续教程。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 3694208044,
+            "original": "Your dance bar is full. ~n~Press ~PAD_X~, ~PAD_Y~, ~PAD_A~, ~PAD_B~ to perform a special move.",
+            "translated": "你的跳舞量表已充满。~n~按~PAD_X~~PAD_Y~~PAD_A~~PAD_B~之一可表演特殊动作。",
+            "desc": ""
+        },
+        {
+            "hash": 3769532960,
+            "original": "Press ~INPUT_ENTER~ for instructions.~n~Press ~INPUT_SPRINT~ to start dancing.~n~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "按~INPUT_ENTER~查看教程。~n~按~INPUT_SPRINT~开始跳舞。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 3847992953,
+            "original": "When the speaker glows red perform a hold move by holding ~PAD_LSTICK_ALL~ or ~PAD_RSTICK_ALL~ in one direction.",
+            "translated": "扬声器图标变红时，朝一个方向推动~INPUT_MOVE_LEFT~或~INPUT_MOVE_RIGHT~以保持动作。",
+            "desc": ""
+        },
+        {
+            "hash": 3902465932,
+            "original": "~1~",
+            "translated": "~1~",
+            "desc": ""
+        },
+        {
+            "hash": 3912883646,
+            "original": "~INPUT_MOUSE_LMB~",
+            "translated": "~INPUT_MOUSE_LMB~",
+            "desc": ""
+        },
+        {
+            "hash": 3941363295,
+            "original": "Press ~PAD_Y~ for instructions.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.",
+            "translated": "按~PAD_Y~查看教程。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 3963503678,
+            "original": "Move ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ to perform special moves.",
+            "translated": "移动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~可表演特殊动作。",
+            "desc": ""
+        },
+        {
+            "hash": 4027676849,
+            "original": "Fill your dance meter without many mistakes and you will take part in a special group dance sequence.~n~Press ~PAD_A~ to start dancing.~n~Press ~PAD_LB~ to exit.",
+            "translated": "尽量避免失误，填满跳舞量表，即可触发特殊的团体舞步。~n~按~PAD_A~开始跳舞。~n~按~PAD_LB~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 4130245814,
+            "original": "Your moves have impressed.~n~Press ~INPUT_FRONTEND_ACCEPT~ to dance with the girl.~n~Press ~INPUT_FRONTEND_CANCEL~ to decline.~n~Press ~INPUT_PICKUP~ to stop dancing.",
+            "translated": "你的舞步令人刮目相看。~n~按~INPUT_FRONTEND_ACCEPT~和姑娘一起跳舞。~n~按~INPUT_FRONTEND_CANCEL~谢绝。~n~按~INPUT_PICKUP~停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 4169451469,
+            "original": "~INPUT_MOUSE_RMB~",
+            "translated": "~INPUT_MOUSE_RMB~",
+            "desc": ""
+        },
+        {
+            "hash": 4188266257,
+            "original": "Move ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ in time with the music to dance.~n~Press ~PAD_LB~ to stop dancing.",
+            "translated": "随节拍推动~PAD_LSTICK_ALL~或~PAD_RSTICK_ALL~跳舞。~n~按~PAD_LB~停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 4279069148,
+            "original": "Press ~INPUT_FRONTEND_ACCEPT~ to enter dance trance.",
+            "translated": "按~INPUT_FRONTEND_ACCEPT~进入迷幻舞曲。",
+            "desc": ""
+        }
+    ]
+}

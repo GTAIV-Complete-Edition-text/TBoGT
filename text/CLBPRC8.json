@@ -1,0 +1,106 @@
+{
+    "CLBPRC8": [
+        {
+            "hash": 85529166,
+            "original": "Pick up Bruce Spade from ~y~Northwood.",
+            "translated": "去~y~Northwood~s~接Bruce Spade。",
+            "desc": ""
+        },
+        {
+            "hash": 127145784,
+            "original": "Go to the ~b~helicopter.",
+            "translated": "前往~b~直升机~s~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 266971463,
+            "original": "~r~You hurt Dessie.",
+            "translated": "~r~你伤害了Dessie。",
+            "desc": ""
+        },
+        {
+            "hash": 505339382,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around and check for trouble.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周有无状况。",
+            "desc": ""
+        },
+        {
+            "hash": 655251000,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 918615797,
+            "original": "You are flying too high.",
+            "translated": "你飞得太高了。",
+            "desc": ""
+        },
+        {
+            "hash": 940865604,
+            "original": "Get back in the ~b~helicopter.",
+            "translated": "回到~b~直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1286152557,
+            "original": "~r~Bruce Spade was hurt.",
+            "translated": "~r~Bruce Spade受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 1586873670,
+            "original": "~r~You abandoned Bruce Spade.",
+            "translated": "~r~你抛弃了Bruce Spade。",
+            "desc": ""
+        },
+        {
+            "hash": 1894246890,
+            "original": "You've left Bruce behind.",
+            "translated": "你把Bruce落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 1918168248,
+            "original": "Go to ~y~Maisonette 9.",
+            "translated": "前往~y~9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 1961259835,
+            "original": "~r~You wrecked the helicopter.",
+            "translated": "~r~你毁掉了直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 2071920752,
+            "original": "~r~Club management failed.",
+            "translated": "~r~夜店经营任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 2453482988,
+            "original": "~r~You hurt Troy.",
+            "translated": "~r~你伤害了Troy。",
+            "desc": ""
+        },
+        {
+            "hash": 3382287524,
+            "original": "~r~You abandoned the helicopter.",
+            "translated": "~r~你抛弃了直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3413974803,
+            "original": "~r~Bruce Spade is dead.",
+            "translated": "~r~Bruce Spade死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3672915785,
+            "original": "Wait for ~b~Bruce~s~ to get in the helicopter.",
+            "translated": "等待~b~Bruce~s~进入直升机。",
+            "desc": ""
+        }
+    ]
+}

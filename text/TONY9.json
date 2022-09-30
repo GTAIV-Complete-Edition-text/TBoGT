@@ -1,0 +1,130 @@
+{
+    "TONY9": [
+        {
+            "hash": 93423259,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 176508470,
+            "original": "~s~Go and get the ~b~chopper.",
+            "translated": "~s~前往~b~直升机~s~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 309499224,
+            "original": "~r~The suspected kidnapper was killed.",
+            "translated": "~r~绑匪被杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 364112113,
+            "original": "~s~You have left ~b~Tony ~s~behind.",
+            "translated": "~s~你把~b~Tony~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 541864203,
+            "original": "~r~You lost the suspected kidnapper.",
+            "translated": "~r~你跟丢了绑匪。",
+            "desc": ""
+        },
+        {
+            "hash": 1745702166,
+            "original": "~s~The suspected kidnapper is driving a red Comet, keep them in sight.",
+            "translated": "~s~绑匪驾驶着一辆红色Comet，让他们保持在视线范围内。",
+            "desc": ""
+        },
+        {
+            "hash": 1804613290,
+            "original": "~s~The suspected kidnapper has just left the tunnel, get close and keep him in sight.",
+            "translated": "~s~绑匪刚离开隧道，跟上去，让他在视线范围内。",
+            "desc": ""
+        },
+        {
+            "hash": 2024022715,
+            "original": "~s~Get back in the ~b~chopper.",
+            "translated": "~s~回到~b~直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 2787196083,
+            "original": "~r~Tony died.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2794274199,
+            "original": "~r~You alerted the suspected kidnapper to your presence.",
+            "translated": "~r~绑匪注意到了你的存在。",
+            "desc": ""
+        },
+        {
+            "hash": 2921666254,
+            "original": "~s~The suspected kidnapper is in the carpark, keep watch on the exit.",
+            "translated": "~s~绑匪现在在停车场，盯紧出口。",
+            "desc": ""
+        },
+        {
+            "hash": 3017922612,
+            "original": "~r~The chopper got stuck.",
+            "translated": "~r~直升机坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 3127015374,
+            "original": "~s~The suspected kidnapper has entered Booth Tunnel, the exit is across the West River.",
+            "translated": "~s~绑匪进入了Booth隧道，出口在西河对岸。",
+            "desc": ""
+        },
+        {
+            "hash": 3314318217,
+            "original": "~r~You abandoned Tony.",
+            "translated": "~r~你抛弃了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 3678709501,
+            "original": "~r~You tampered with the suspected kidnapper's car.",
+            "translated": "~r~你弄坏了绑匪的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3796007450,
+            "original": "~s~The suspected kidnapper is near ~y~Meadows Park.",
+            "translated": "~s~绑匪在~y~草地公园~s~附近。",
+            "desc": ""
+        },
+        {
+            "hash": 4144086243,
+            "original": "~s~Now take the chopper back to the ~y~helipad.",
+            "translated": "~s~将直升机开回~y~停机坪。",
+            "desc": ""
+        },
+        {
+            "hash": 4242369070,
+            "original": "~r~The chopper was destroyed.",
+            "translated": "~r~直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4249192687,
+            "original": "~s~They are too far away, hurry or you will lose them.",
+            "translated": "~s~你离他们太远了，快点跟上，不然就跟丢了。",
+            "desc": ""
+        },
+        {
+            "hash": 4251531627,
+            "original": "~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the suspected kidnapper. Press ~INPUT_VEH_CIN_CAM~ to toggle this view.",
+            "translated": "~s~按住~INPUT_VEH_CIN_CAM~将镜头对准绑匪。~n~按下~INPUT_VEH_CIN_CAM~切换至跟随视角。",
+            "desc": ""
+        },
+        {
+            "hash": 4254630168,
+            "original": "~s~There he is, keep on him.",
+            "translated": "~s~他在那，跟上他。",
+            "desc": ""
+        }
+    ]
+}

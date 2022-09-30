@@ -1,0 +1,142 @@
+{
+    "CLBPRC4": [
+        {
+            "hash": 28766641,
+            "original": "~r~Poppy's friend got hurt.",
+            "translated": "~r~Poppy的朋友受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 596719309,
+            "original": "~r~You abandoned Poppy Mitchell.",
+            "translated": "~r~你抛弃了Poppy Mitchell。",
+            "desc": ""
+        },
+        {
+            "hash": 834786094,
+            "original": "You left ~b~Poppy Mitchell~s~ behind.",
+            "translated": "你把~b~Poppy Mitchell~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 1091858899,
+            "original": "Go to the ~b~fire truck.",
+            "translated": "前往~b~消防车~s~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 1425250349,
+            "original": "Get back in the ~b~fire truck.",
+            "translated": "回到~b~消防车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1435474629,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 1553108735,
+            "original": "Encourage the ~r~paparazzi~s~ to leave.",
+            "translated": "驱散~r~狗仔队。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2053858428,
+            "original": "~r~You've attracted poor publicity by attacking the paparazzi.",
+            "translated": "~r~你对狗仔队的攻击成了公关黑料。",
+            "desc": ""
+        },
+        {
+            "hash": 2172940618,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 2377760038,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around and check for trouble.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周有无状况。",
+            "desc": ""
+        },
+        {
+            "hash": 2682859383,
+            "original": "~r~Poppy was hurt.",
+            "translated": "~r~Poppy受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 3102590900,
+            "original": "~r~You hurt Troy.",
+            "translated": "~r~你伤害了Troy。",
+            "desc": ""
+        },
+        {
+            "hash": 3130909564,
+            "original": "Wait for ~b~Poppy.",
+            "translated": "等待~b~Poppy~s~。",
+            "desc": ""
+        },
+        {
+            "hash": 3331941131,
+            "original": "~r~You hurt Dessie.",
+            "translated": "~r~你伤害了Dessie。",
+            "desc": ""
+        },
+        {
+            "hash": 3510472903,
+            "original": "~r~You abandoned the fire truck.",
+            "translated": "~r~你抛弃了消防车。",
+            "desc": ""
+        },
+        {
+            "hash": 3672614267,
+            "original": "Go back to ~y~Maisonette 9.",
+            "translated": "返回~y~9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 3809948794,
+            "original": "You left one of Poppy's ~b~friends~s~ behind.",
+            "translated": "你把Poppy的其中一位~b~朋友~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 3846518990,
+            "original": "Go and meet ~b~Poppy Mitchell.",
+            "translated": "去找~b~Poppy Mitchell。",
+            "desc": ""
+        },
+        {
+            "hash": 3905569088,
+            "original": "Go to ~y~Maisonette 9.",
+            "translated": "前往~y~9号豪宅",
+            "desc": ""
+        },
+        {
+            "hash": 4087764376,
+            "original": "~r~The fire truck is wrecked.",
+            "translated": "~r~消防车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4143766589,
+            "original": "Go to ~y~The Hotel On Luddite East.",
+            "translated": "前往~y~东勒德酒店。",
+            "desc": ""
+        },
+        {
+            "hash": 4259670550,
+            "original": "Press ~INPUT_VEH_ATTACK~ to use the fire truck's hose. Use ~PAD_RSTICK_ALL~ to aim.",
+            "translated": "按~INPUT_VEH_ATTACK~喷水。用~PAD_RSTICK_ALL~瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 4291417455,
+            "original": "~r~Club management failed.",
+            "translated": "~r~夜店经营任务失败。",
+            "desc": ""
+        }
+    ]
+}

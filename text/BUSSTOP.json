@@ -1,0 +1,136 @@
+{
+    "BUSSTOP": [
+        {
+            "hash": 74851929,
+            "original": "Press ~PAD_LSTICK_ALL~ and ~INPUT_KB_DOWN~~INPUT_KB_UP~~INPUT_KB_RIGHT~~INPUT_KB_LEFT~ as they appear to keep the dance going.",
+            "translated": "根据出现的指示按下~PAD_LSTICK_ALL~或~INPUT_KB_DOWN~~INPUT_KB_UP~~INPUT_KB_RIGHT~~INPUT_KB_LEFT~跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 278334457,
+            "original": "~INPUT_KB_UP~",
+            "translated": "~INPUT_KB_UP~",
+            "desc": ""
+        },
+        {
+            "hash": 423235257,
+            "original": "~PAD_A~",
+            "translated": "~PAD_A~",
+            "desc": ""
+        },
+        {
+            "hash": 745307827,
+            "original": "~INPUT_KB_RIGHT~",
+            "translated": "~INPUT_KB_RIGHT~",
+            "desc": ""
+        },
+        {
+            "hash": 798830700,
+            "original": "~PAD_B~",
+            "translated": "~PAD_B~",
+            "desc": ""
+        },
+        {
+            "hash": 983340602,
+            "original": "~INPUT_KB_DOWN~",
+            "translated": "~INPUT_KB_DOWN~",
+            "desc": ""
+        },
+        {
+            "hash": 1150505612,
+            "original": "~PAD_LSTICK_UP~",
+            "translated": "~PAD_LSTICK_UP~",
+            "desc": ""
+        },
+        {
+            "hash": 1165007287,
+            "original": "~INPUT_MOVE_UP~",
+            "translated": "~INPUT_MOVE_UP~",
+            "desc": ""
+        },
+        {
+            "hash": 1259138092,
+            "original": "Well done. The Bus Stop is complete.",
+            "translated": "好样的。已完成Bus Stop舞步。",
+            "desc": ""
+        },
+        {
+            "hash": 1320386680,
+            "original": "~PAD_LSTICK_LEFT~",
+            "translated": "~PAD_LSTICK_LEFT~",
+            "desc": ""
+        },
+        {
+            "hash": 1543702835,
+            "original": "~PAD_Y~",
+            "translated": "~PAD_Y~",
+            "desc": ""
+        },
+        {
+            "hash": 1665177395,
+            "original": "Excellent, keep it going.",
+            "translated": "漂亮，再接再厉。",
+            "desc": ""
+        },
+        {
+            "hash": 1762756118,
+            "original": "~PAD_LSTICK_RIGHT~",
+            "translated": "~PAD_LSTICK_RIGHT~",
+            "desc": ""
+        },
+        {
+            "hash": 2214095346,
+            "original": "Follow the directions as they appear to keep the dance going.",
+            "translated": "根据出现的指示按下对应按键跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 2553438324,
+            "original": "~INPUT_MOVE_DOWN~",
+            "translated": "~INPUT_MOVE_DOWN~",
+            "desc": ""
+        },
+        {
+            "hash": 2572698838,
+            "original": "~INPUT_MOVE_RIGHT~",
+            "translated": "~INPUT_MOVE_RIGHT~",
+            "desc": ""
+        },
+        {
+            "hash": 2678989421,
+            "original": "~PAD_LSTICK_DOWN~",
+            "translated": "~PAD_LSTICK_DOWN~",
+            "desc": ""
+        },
+        {
+            "hash": 2732431083,
+            "original": "~PAD_X~",
+            "translated": "~PAD_X~",
+            "desc": ""
+        },
+        {
+            "hash": 2942953908,
+            "original": "You made too many mistakes. The dance is over.",
+            "translated": "你的失误太多了。舞蹈结束。",
+            "desc": ""
+        },
+        {
+            "hash": 3204810120,
+            "original": "Press the directions as they appear.",
+            "translated": "根据指示按下对应按键。",
+            "desc": ""
+        },
+        {
+            "hash": 3226040988,
+            "original": "~INPUT_MOVE_LEFT~",
+            "translated": "~INPUT_MOVE_LEFT~",
+            "desc": ""
+        },
+        {
+            "hash": 3699136750,
+            "original": "~INPUT_KB_LEFT~",
+            "translated": "~INPUT_KB_LEFT~",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "YUSUF1": [
+        {
+            "hash": 7003362,
+            "original": "Get a boat from the ~y~marina.",
+            "translated": "前往~y~码头，~s~找一条船。",
+            "desc": ""
+        },
+        {
+            "hash": 119077180,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 169374212,
+            "original": "The Buzzard helicopter is on a yacht located to the west of Happiness Island.",
+            "translated": "秃鹰直升机停在幸福岛西侧的一艘游轮上。",
+            "desc": ""
+        },
+        {
+            "hash": 184389488,
+            "original": "Get back to the ~r~yacht~s~ before the arms dealers escape.",
+            "translated": "在军火商逃走前回到~r~游轮~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 240272773,
+            "original": "~r~You abandoned the chopper.",
+            "translated": "~r~你抛弃了直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 258777625,
+            "original": "~r~The chopper was destroyed.",
+            "translated": "~r~直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 439199819,
+            "original": "~s~Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.",
+            "translated": "~s~按住~INPUT_VEH_HANDBRAKE_ALT~使用机枪。按下~INPUT_VEH_ATTACK2~发射火箭弹。",
+            "desc": ""
+        },
+        {
+            "hash": 478556849,
+            "original": "Yusuf has provided a ~b~boat~s~ to get to the yacht.",
+            "translated": "Yusuf给了一艘~b~船~s~让你前往游轮。",
+            "desc": ""
+        },
+        {
+            "hash": 555295428,
+            "original": "Take out the ~r~reinforcements.",
+            "translated": "干掉~r~援军。",
+            "desc": ""
+        },
+        {
+            "hash": 587334051,
+            "original": "Take out the fleeing ~r~arms dealers.",
+            "translated": "干掉逃跑的~r~军火贩子。",
+            "desc": ""
+        },
+        {
+            "hash": 652617257,
+            "original": "~s~Get in the ~b~chopper.",
+            "translated": "~s~进入~b~直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 763994764,
+            "original": "When in a helicopter, an altimeter will appear over the radar. This indicates your height above sea level.",
+            "translated": "驾驶直升机时，小地图上会显示高度计，指示当前的海拔高度。",
+            "desc": ""
+        },
+        {
+            "hash": 822317001,
+            "original": "~r~The arms dealers got away.",
+            "translated": "~r~军火商逃走了。",
+            "desc": ""
+        },
+        {
+            "hash": 840102091,
+            "original": "You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_HANDBRAKE_ALT~ to fire the miniguns.",
+            "translated": "使用机枪更加容易击沉船只。按住~INPUT_VEH_HANDBRAKE_ALT~使用机枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1118254781,
+            "original": "~s~Destroy the ~r~yacht.",
+            "translated": "~s~摧毁~r~游轮。",
+            "desc": ""
+        },
+        {
+            "hash": 1402780215,
+            "original": "You may find it easier to use the miniguns to destroy the boats. Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns.",
+            "translated": "=使用机枪更加容易击沉船只。按住~INPUT_VEH_ATTACK3_KB~使用机枪。",
+            "desc": ""
+        },
+        {
+            "hash": 1421556436,
+            "original": "Watch out for patrolling boats protecting the yacht.",
+            "translated": "当心保护游轮的巡逻艇。",
+            "desc": ""
+        },
+        {
+            "hash": 1663977959,
+            "original": "~s~Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the patrol boat.",
+            "translated": "~s~按住~INPUT_VEH_CIN_CAM~将镜头对准巡逻艇。",
+            "desc": ""
+        },
+        {
+            "hash": 1882845645,
+            "original": "Take the chopper to the ~y~helipad.",
+            "translated": "驾驶直升机前往~y~停机坪。",
+            "desc": ""
+        },
+        {
+            "hash": 2719004023,
+            "original": "~s~Approach the yacht quietly to avoid alerting the patrol boat.",
+            "translated": "~s~悄悄接近游轮，避免惊动巡逻艇。",
+            "desc": ""
+        },
+        {
+            "hash": 2843856418,
+            "original": "Get on board the ~b~yacht.",
+            "translated": "登上~b~游轮。",
+            "desc": ""
+        },
+        {
+            "hash": 2983647580,
+            "original": "Steal the ~b~chopper.",
+            "translated": "偷走~b~直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3132958811,
+            "original": "~s~Hold ~INPUT_VEH_ATTACK3_KB~ to fire the miniguns. Press ~INPUT_VEH_ATTACK2~ to fire rockets.",
+            "translated": "~s~按住~INPUT_VEH_ATTACK3_KB~使用机枪。按下~INPUT_VEH_ATTACK2~发射火箭弹。",
+            "desc": ""
+        },
+        {
+            "hash": 4198344608,
+            "original": "You were spotted by the patrol boat.",
+            "translated": "你被巡逻艇发现了。",
+            "desc": ""
+        },
+        {
+            "hash": 4262379680,
+            "original": "The ~r~arms dealers~s~ are fleeing on foot.",
+            "translated": "~r~军火贩子~s~正在徒步逃离。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "GOLF": [
+        {
+            "hash": 251062005,
+            "original": "Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.",
+            "translated": "按住~INPUT_ATTACK~进行缩放。~n~用~PAD_RSTICK_LEFTRIGHT~旋转视角。",
+            "desc": ""
+        },
+        {
+            "hash": 330559375,
+            "original": "For greater accuracy, time your shot on the black line, and keep ~PAD_RSTICK_ALL~ straight. ~n~Hold ~INPUT_ATTACK~ to zoom camera. ~n~Move ~PAD_RSTICK_LEFTRIGHT~ to rotate camera.",
+            "translated": "若要提高击球精度，在蓄力槽达到黑线时击球，同时控制好~PAD_RSTICK_ALL~的位置。~n~按住~INPUT_ATTACK~进行缩放。~n~用~PAD_RSTICK_LEFTRIGHT~旋转视角。",
+            "desc": ""
+        },
+        {
+            "hash": 740277811,
+            "original": "Distance from target: ~1~.~1~m. Points: ~1~. Bonus points: 5",
+            "translated": "距离目标：~1~.~1~m 得分：~1~ 奖励分：5",
+            "desc": ""
+        },
+        {
+            "hash": 922178950,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to play again.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_MOUSE_LMB~再来一局。",
+            "desc": ""
+        },
+        {
+            "hash": 1005469919,
+            "original": "Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Press ~PAD_A~ to start backswing. ~n~To hit the ball, press ~PAD_A~ when the descending power bar reaches the black marker. ~n~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "用~PAD_LSTICK_ALL~改变目标落点。~n~按~PAD_A~开始蓄力。~n~游标回落到黑线时按~PAD_A~击球。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 1147455353,
+            "original": "Hit the ball near the targets to score points.",
+            "translated": "将球打到目标附近以获得分数。",
+            "desc": ""
+        },
+        {
+            "hash": 1290779657,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to play again.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~再来一局。",
+            "desc": ""
+        },
+        {
+            "hash": 1385325524,
+            "original": "The closer the ball is to the target, the more points scored. Bonus points are awarded for hitting the target directly.",
+            "translated": "球离目标越近，得分越高。直接命中目标可获得奖励分。",
+            "desc": ""
+        },
+        {
+            "hash": 1822729325,
+            "original": "Hold ~INPUT_FREE_AIM~ to zoom camera. ~n~Press ~INPUT_MOVE_LEFT~ and ~INPUT_MOVE_RIGHT~ to rotate camera.",
+            "translated": "按住~INPUT_FREE_AIM~进行缩放。~n~按~INPUT_MOVE_LEFT~和~INPUT_MOVE_RIGHT~旋转视角。",
+            "desc": ""
+        },
+        {
+            "hash": 1901082693,
+            "original": "Opponent's total score: ~1~",
+            "translated": "对手总分：~1~",
+            "desc": ""
+        },
+        {
+            "hash": 2339930478,
+            "original": "You lost this game. Your score: ~1~. Opponent's score: ~1~.",
+            "translated": "你输了。你的得分：~1~ 对手得分：~1~",
+            "desc": ""
+        },
+        {
+            "hash": 2645763555,
+            "original": "You drew this game. Your score: ~1~. Opponent's score: ~1~.",
+            "translated": "平局。你的得分： ~1~ 对手得分：~1~",
+            "desc": ""
+        },
+        {
+            "hash": 2686847313,
+            "original": "Press ~PAD_A~ to hit the ball.",
+            "translated": "按~PAD_A~击球。",
+            "desc": ""
+        },
+        {
+            "hash": 2758349047,
+            "original": "Move ~PAD_RSTICK_UP~ to hit the ball.",
+            "translated": "移动~PAD_RSTICK_UP~击球。",
+            "desc": ""
+        },
+        {
+            "hash": 2811133635,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the game.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_FRONTEND_ACCEPT~继续。",
+            "desc": ""
+        },
+        {
+            "hash": 3160302393,
+            "original": "You won this game. Your score: ~1~. Opponent's score: ~1~.",
+            "translated": "你赢了。你的得分：~1~ 对手得分：~1~",
+            "desc": ""
+        },
+        {
+            "hash": 3191230185,
+            "original": "Use ~PAD_RSTICK_ALL~ to change shot position. ~n~Press ~INPUT_MOUSE_LMB~ to start backswing. ~n~To hit the ball, press ~INPUT_MOUSE_LMB~ when the descending power bar reaches the black marker. ~n~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "用~PAD_RSTICK_ALL~改变目标落点。~n~按~INPUT_MOUSE_LMB~开始蓄力。~n~游标回落到黑线时按~INPUT_MOUSE_LMB~击球。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        },
+        {
+            "hash": 3440858640,
+            "original": "Balls left: ~1~",
+            "translated": "剩余球数：~1~",
+            "desc": ""
+        },
+        {
+            "hash": 3469811665,
+            "original": "Points scored: ~1~",
+            "translated": "当前得分： ~1~",
+            "desc": ""
+        },
+        {
+            "hash": 3758309941,
+            "original": "Distance from target: ~1~.~1~m. Points: ~1~",
+            "translated": "距离目标：~1~.~1~m 得分：~1~",
+            "desc": ""
+        },
+        {
+            "hash": 3797973135,
+            "original": "Your total score: ~1~",
+            "translated": "你的总分：~1~",
+            "desc": ""
+        },
+        {
+            "hash": 3805473289,
+            "original": "Are you sure you want to quit?",
+            "translated": "你确定要退出吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4092365430,
+            "original": "Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_MOUSE_LMB~ to go back to the game.",
+            "translated": "按~INPUT_PICKUP~退出。~n~按~INPUT_MOUSE_LMB~继续。",
+            "desc": ""
+        },
+        {
+            "hash": 4294756389,
+            "original": "Use ~PAD_LSTICK_ALL~ to change shot position. ~n~Move ~PAD_RSTICK_DOWN~ to start swing. ~n~Move ~PAD_RSTICK_UP~ to hit the ball. ~n~Press ~INPUT_PICKUP~ to exit.",
+            "translated": "用~PAD_LSTICK_ALL~改变目标落点。~n~移动~PAD_RSTICK_DOWN~开始蓄力。~n~移动~PAD_RSTICK_UP~击球。~n~按~INPUT_PICKUP~退出。",
+            "desc": ""
+        }
+    ]
+}

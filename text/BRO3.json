@@ -1,0 +1,298 @@
+{
+    "BRO3": [
+        {
+            "hash": 35677655,
+            "original": "~r~You trashed the car.",
+            "translated": "~r~你的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 104605278,
+            "original": "~s~You need a 4 door car.",
+            "translated": "~s~找一辆四门的车。",
+            "desc": ""
+        },
+        {
+            "hash": 128651927,
+            "original": "~s~Use ~INPUT_MOVE_DOWN~ to move the platform.",
+            "translated": "~s~用~INPUT_MOVE_DOWN~移动平台。",
+            "desc": ""
+        },
+        {
+            "hash": 307111226,
+            "original": "~s~Lose the ~r~chopper.",
+            "translated": "~s~甩掉~r~警用直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 363775590,
+            "original": "~s~Line up behind the ~y~Kibbutz brothers.",
+            "translated": "~s~排到~y~Kibbutz兄弟~s~后面。",
+            "desc": ""
+        },
+        {
+            "hash": 449138043,
+            "original": "~s~Go get ~b~Mori.",
+            "translated": "~s~去找~b~Mori。",
+            "desc": ""
+        },
+        {
+            "hash": 509496230,
+            "original": "~s~Wait for ~b~Brucie.",
+            "translated": "~s~等待~b~Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 726339423,
+            "original": "~s~Press Q to restart chase.~n~Press ~INPUT_PHONE_PUT_AWAY~ to reset car.",
+            "translated": "~s~按Q重启追逐赛。~n~按~INPUT_PHONE_PUT_AWAY~重置车辆。",
+            "desc": ""
+        },
+        {
+            "hash": 927251857,
+            "original": "~s~Go get ~b~Brucie.",
+            "translated": "~s~去找~b~Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 1152481929,
+            "original": "~s~Mission Passed",
+            "translated": "~s~任务通过",
+            "desc": ""
+        },
+        {
+            "hash": 1179003858,
+            "original": "~s~Hold ~INPUT_PICKUP~ to activate controls.",
+            "translated": "~s~长按~INPUT_PICKUP~进行操作。",
+            "desc": ""
+        },
+        {
+            "hash": 1441152786,
+            "original": "~r~You abandoned Mori and Brucie.",
+            "translated": "~r~你抛弃了Mori和Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 1479282581,
+            "original": "~s~Wait for ~b~Brucie~s~ to get in the car.",
+            "translated": "~s~等待~b~Brucie~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 1484411397,
+            "original": "~s~Top Speed was ~1~mph!",
+            "translated": "~s~极速~1~mph！",
+            "desc": ""
+        },
+        {
+            "hash": 1500511521,
+            "original": "~s~Go to the ~y~garage.",
+            "translated": "~s~前往~y~车库。",
+            "desc": ""
+        },
+        {
+            "hash": 1978019952,
+            "original": "~s~Wait for ~b~Mori~s~ to get in the car.",
+            "translated": "~s~等待~b~Mori~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 2033728996,
+            "original": "~s~Shoot the fuel container to clear the path.",
+            "translated": "~s~射击油罐开路。",
+            "desc": ""
+        },
+        {
+            "hash": 2040736333,
+            "original": "~r~Mori's car was trashed.",
+            "translated": "~r~Mori的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2173163230,
+            "original": "~r~Mori died.",
+            "translated": "~r~Mori死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2226157055,
+            "original": "~s~Use ~INPUT_MOVE_DOWN~ to lower the platform.",
+            "translated": "~s~按~INPUT_MOVE_DOWN~降下平台。",
+            "desc": ""
+        },
+        {
+            "hash": 2323038135,
+            "original": "~s~Car damage was a poor ~1~%",
+            "translated": "~s~车辆受损~1~%，太糟糕了！",
+            "desc": ""
+        },
+        {
+            "hash": 2348221764,
+            "original": "~s~Car damage was excellent ~1~%!",
+            "translated": "~s~车辆受损~1~%，很棒！",
+            "desc": ""
+        },
+        {
+            "hash": 2457738032,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 2512385660,
+            "original": "~s~Go get ~b~Brucie.",
+            "translated": "~s~去找~b~Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 2596693454,
+            "original": "~s~Car damage was an ok ~1~%!",
+            "translated": "~s~车辆受损~1~%，还可以！",
+            "desc": ""
+        },
+        {
+            "hash": 2673610029,
+            "original": "~s~Go get ~b~Mori.",
+            "translated": "~s~去找~b~Mori。",
+            "desc": ""
+        },
+        {
+            "hash": 2688530860,
+            "original": "~s~Mission time was a poor ~1~:~1~:~1~",
+            "translated": "~s~任务时间是~1~:~1~:~1~，太糟糕了。",
+            "desc": ""
+        },
+        {
+            "hash": 2737544276,
+            "original": "~s~Wait for ~b~Mori.",
+            "translated": "~s~等待~b~Mori。",
+            "desc": ""
+        },
+        {
+            "hash": 2811703943,
+            "original": "~r~You abandoned Mori.",
+            "translated": "~r~你抛弃了Mori。",
+            "desc": ""
+        },
+        {
+            "hash": 2876528618,
+            "original": "~r~Brucie died.",
+            "translated": "~r~Brucie死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2971164873,
+            "original": "~s~Target the ~b~car park attendant.~s~ Don't hurt him.",
+            "translated": "~s~瞄准~b~停车场管理员。~s~不要伤害他。",
+            "desc": ""
+        },
+        {
+            "hash": 3114155885,
+            "original": "~s~Mission Failed",
+            "translated": "~s~任务失败",
+            "desc": ""
+        },
+        {
+            "hash": 3122492881,
+            "original": "~s~This is placeholder for a MoCap cutscene.",
+            "translated": "~s~这是动捕动画的占位符。",
+            "desc": ""
+        },
+        {
+            "hash": 3235580960,
+            "original": "~s~Use the ~g~button~s~ to lower the platform.",
+            "translated": "~s~用~g~按钮~s~降下平台。",
+            "desc": ""
+        },
+        {
+            "hash": 3340784549,
+            "original": "~s~Wait for ~b~Brucie.",
+            "translated": "~s~等待~b~Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 3431992341,
+            "original": "~s~Press ~INPUT_PICKUP~ to activate controls.",
+            "translated": "~s~按~INPUT_PICKUP~进行操作。",
+            "desc": ""
+        },
+        {
+            "hash": 3440286333,
+            "original": "~s~Mission time was an ok ~1~:~1~:~1~!",
+            "translated": "~s~任务时间是~1~:~1~:~1~，还可以！",
+            "desc": ""
+        },
+        {
+            "hash": 3485502505,
+            "original": "~r~Brucie's car was trashed.",
+            "translated": "~r~Brucie的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3559845346,
+            "original": "~s~Get in the ~b~car.",
+            "translated": "~s~上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 3619098257,
+            "original": "~s~Wait for ~b~Mori.",
+            "translated": "~s~等待~b~Mori。",
+            "desc": ""
+        },
+        {
+            "hash": 3687724548,
+            "original": "~r~You abandoned Brucie.",
+            "translated": "~r~你抛弃了Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 3704896640,
+            "original": "~s~Clear the platform before lowering.",
+            "translated": "~s~下层平台尚未清空。",
+            "desc": ""
+        },
+        {
+            "hash": 3710247749,
+            "original": "~s~Use ~INPUT_FRONTEND_RIGHT_AXIS_Y~ to move the platform.",
+            "translated": "~s~用~INPUT_FRONTEND_RIGHT_AXIS_Y~移动平台。",
+            "desc": ""
+        },
+        {
+            "hash": 3860981774,
+            "original": "~s~Go get ~b~Mori~s~ and ~b~Brucie.",
+            "translated": "~s~去找~b~Mori~s~和~b~Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 3877962291,
+            "original": "~s~Wait for ~b~Mori~s~ and ~b~Brucie.",
+            "translated": "~s~等待~b~Mori~s~和~b~Brucie。",
+            "desc": ""
+        },
+        {
+            "hash": 4124582610,
+            "original": "~s~Go to the ~y~car park.",
+            "translated": "~s~前往~y~停车场。",
+            "desc": ""
+        },
+        {
+            "hash": 4148887804,
+            "original": "~s~Keep up with ~b~Mori.",
+            "translated": "~s~跟紧~b~Mori。",
+            "desc": ""
+        },
+        {
+            "hash": 4185370381,
+            "original": "~s~Get back in the ~b~car.",
+            "translated": "~s~回到~b~车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 4260725602,
+            "original": "~s~Mission time was an excellent ~1~:~1~:~1~!",
+            "translated": "~s~任务时间是~1~:~1~:~1~，很棒！",
+            "desc": ""
+        }
+    ]
+}

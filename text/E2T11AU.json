@@ -1,0 +1,3142 @@
+{
+    "E2T11AU": [
+        {
+            "hash": 11732648,
+            "original": "E2T11_LA",
+            "translated": "E2T11_LA",
+            "desc": ""
+        },
+        {
+            "hash": 19033824,
+            "original": "~z~Or the desert. Like you was just saying to me. Leave town, bro.",
+            "translated": "~z~沙漠也行。像你刚才说的那样，赶紧走，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 20136128,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 25672712,
+            "original": "~z~Sorry, Pops.",
+            "translated": "~z~抱歉，老哥。",
+            "desc": ""
+        },
+        {
+            "hash": 30649761,
+            "original": "E2T11_AID",
+            "translated": "E2T11_AID",
+            "desc": ""
+        },
+        {
+            "hash": 40037176,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 60320915,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 63954854,
+            "original": "~z~L, thank God. I've been worried sick. How we doing?",
+            "translated": "~z~L，谢天谢地。我快担心死了，情况怎样？",
+            "desc": ""
+        },
+        {
+            "hash": 65423365,
+            "original": "~z~Kill the Dominican prick.",
+            "translated": "~z~干掉多米尼加来的狗逼。",
+            "desc": ""
+        },
+        {
+            "hash": 68635615,
+            "original": "E2T11_YA",
+            "translated": "E2T11_YA",
+            "desc": ""
+        },
+        {
+            "hash": 71239536,
+            "original": "~z~Then you're gonna have to punch me out again, Lou!",
+            "translated": "~z~想单干就再给我一拳，Lou！",
+            "desc": ""
+        },
+        {
+            "hash": 88692645,
+            "original": "~z~He will not take the product!",
+            "translated": "~z~他拿不走货的！",
+            "desc": ""
+        },
+        {
+            "hash": 104702964,
+            "original": "~z~Come on, T, give me a break.",
+            "translated": "~z~行了，T，放过我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 113792478,
+            "original": "~z~You're welcome very much.",
+            "translated": "~z~别跟我客气。",
+            "desc": ""
+        },
+        {
+            "hash": 130021221,
+            "original": "~z~But I don't want you to get a big head. I don't want you to go change; become a mega star, go to Vinewood, write a blog.",
+            "translated": "~z~但我不希望你发飘，不想看到你变样：变成大明星，去好麦坞，写博客啥的。",
+            "desc": ""
+        },
+        {
+            "hash": 140851610,
+            "original": "E2T11_AFD",
+            "translated": "E2T11_AFD",
+            "desc": ""
+        },
+        {
+            "hash": 143767697,
+            "original": "~z~I'll come find you if all our troubles go away, but if I don't show, you got to run.",
+            "translated": "~z~问题解决我就来找你。要是没来，你就该跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 150640244,
+            "original": "~z~This Ray Bulgarin's smack, motherfuckers? Where is he?",
+            "translated": "~z~这就是Ray Bulgarin的货吗？他人呢？",
+            "desc": ""
+        },
+        {
+            "hash": 153964152,
+            "original": "~z~You did it, man.",
+            "translated": "~z~你成功了，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 168825434,
+            "original": "~z~The Heights is my home man. Always will be. Nothing's worth shit if I can't go back there.",
+            "translated": "~z~高地就是我家，永远的家。要是回不去，一切都没有意义。",
+            "desc": ""
+        },
+        {
+            "hash": 170703126,
+            "original": "~z~He's a heavily armed motherfucker.",
+            "translated": "~z~他武装到牙齿了。",
+            "desc": ""
+        },
+        {
+            "hash": 175430068,
+            "original": "E2T11_AKB",
+            "translated": "E2T11_AKB",
+            "desc": ""
+        },
+        {
+            "hash": 178266168,
+            "original": "~z~Rip him apart!",
+            "translated": "~z~把他碎尸万段！",
+            "desc": ""
+        },
+        {
+            "hash": 183407717,
+            "original": "E2T11_HA",
+            "translated": "E2T11_HA",
+            "desc": ""
+        },
+        {
+            "hash": 190078296,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 194136935,
+            "original": "E2T11_AHA1",
+            "translated": "E2T11_AHA1",
+            "desc": ""
+        },
+        {
+            "hash": 198558699,
+            "original": "~z~I have no fucking clue. Err Dukes?",
+            "translated": "~z~那还能去哪？呃... Dukes？",
+            "desc": ""
+        },
+        {
+            "hash": 208578827,
+            "original": "E2T11_APA",
+            "translated": "E2T11_APA",
+            "desc": ""
+        },
+        {
+            "hash": 221152645,
+            "original": "E2T11_AXA",
+            "translated": "E2T11_AXA",
+            "desc": ""
+        },
+        {
+            "hash": 222397412,
+            "original": "E2T11_ADA",
+            "translated": "E2T11_ADA",
+            "desc": ""
+        },
+        {
+            "hash": 222918513,
+            "original": "396",
+            "translated": "396",
+            "desc": ""
+        },
+        {
+            "hash": 227065422,
+            "original": "~z~I didn't come this far...",
+            "translated": "~z~大老远跑来，可不能...",
+            "desc": ""
+        },
+        {
+            "hash": 263286344,
+            "original": "~z~You ain't leaving, Ray.",
+            "translated": "~z~你跑不掉的，Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 273308045,
+            "original": "~z~Come on, get up. Get up.",
+            "translated": "~z~来，起来，起来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 282969336,
+            "original": "~z~You ain't getting away from me.",
+            "translated": "~z~你跑不掉的。",
+            "desc": ""
+        },
+        {
+            "hash": 296167073,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 298765423,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 300592253,
+            "original": "~z~Yusuf? You crazy bastard.",
+            "translated": "~z~Yusuf？你他妈疯了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 302205123,
+            "original": "~z~Don't blow me up, bro.",
+            "translated": "~z~别炸到我，好兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 323830759,
+            "original": "~z~Fly. Get us the fuck out of here.",
+            "translated": "~z~飞起来，快他妈走。",
+            "desc": ""
+        },
+        {
+            "hash": 334285012,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 335145933,
+            "original": "E2T11_ASA",
+            "translated": "E2T11_ASA",
+            "desc": ""
+        },
+        {
+            "hash": 340867088,
+            "original": "~z~He will pay people to come here and kill you.",
+            "translated": "~z~他会花钱雇人来杀你的。",
+            "desc": ""
+        },
+        {
+            "hash": 351086796,
+            "original": "~z~Don't make me, man. You know you just gonna slow me down, bro, and kill us both. I want at least one of us to survive.",
+            "translated": "~z~别逼我，哥们。你也知道自己是拖油瓶，只会害死我们。我俩至少得活一个。",
+            "desc": ""
+        },
+        {
+            "hash": 354053579,
+            "original": "SFX_PAUSE_450",
+            "translated": "SFX_PAUSE_450",
+            "desc": ""
+        },
+        {
+            "hash": 362279517,
+            "original": "~z~Any other man would just dust himself off and carry on.",
+            "translated": "~z~是个人都能重整旗鼓，继续干哦。",
+            "desc": ""
+        },
+        {
+            "hash": 367483393,
+            "original": "~z~I nearly had him, T. I nearly had him. He's gone back to fucking Russia now!",
+            "translated": "~z~差点就成功了，T，就差那么一点。还是给他跑回俄罗斯了！",
+            "desc": ""
+        },
+        {
+            "hash": 371715208,
+            "original": "~z~This man is faggot and you can't kill him?",
+            "translated": "~z~你连一个基佬都干不掉？",
+            "desc": ""
+        },
+        {
+            "hash": 375613200,
+            "original": "E2T11_AYA",
+            "translated": "E2T11_AYA",
+            "desc": ""
+        },
+        {
+            "hash": 381584750,
+            "original": "102090012",
+            "translated": "102090012",
+            "desc": ""
+        },
+        {
+            "hash": 385579785,
+            "original": "~z~Keep him away from the skag!",
+            "translated": "~z~让他离毒品远点！",
+            "desc": ""
+        },
+        {
+            "hash": 392684162,
+            "original": "~z~Yeah, we always had a clientele policy, and you don't cut it.",
+            "translated": "~z~哟，我们是有一套招待的方法，可惜你不够格。",
+            "desc": ""
+        },
+        {
+            "hash": 403839758,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 419183437,
+            "original": "E2T11_ABA",
+            "translated": "E2T11_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 427035374,
+            "original": "~z~Not so good. We got a good man killed doing this shit. Our boy, Yusuf.",
+            "translated": "~z~不太好，为此还害死了我们的好兄弟，Yusuf。",
+            "desc": ""
+        },
+        {
+            "hash": 431555544,
+            "original": "~z~You can't shoot me. You will blow whole plane up.",
+            "translated": "~z~不能开枪，飞机会坠毁的。",
+            "desc": ""
+        },
+        {
+            "hash": 451565254,
+            "original": "~z~It's our one shot to survive.",
+            "translated": "~z~生死存亡在此一举。",
+            "desc": ""
+        },
+        {
+            "hash": 451637748,
+            "original": "~z~Nah, went to Algonquin instead; waiting for the world to come to me.",
+            "translated": "~z~没。最后去Algonquin了，等待世界上门找我。",
+            "desc": ""
+        },
+        {
+            "hash": 454471348,
+            "original": "E2T11_AED",
+            "translated": "E2T11_AED",
+            "desc": ""
+        },
+        {
+            "hash": 491564063,
+            "original": "E2T11_AND",
+            "translated": "E2T11_AND",
+            "desc": ""
+        },
+        {
+            "hash": 494215010,
+            "original": "~z~Yo. This is personal.",
+            "translated": "~z~喂，这次是私仇。",
+            "desc": ""
+        },
+        {
+            "hash": 502129044,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 514547859,
+            "original": "~z~Come on. Come on.",
+            "translated": "~z~快，快。",
+            "desc": ""
+        },
+        {
+            "hash": 521331592,
+            "original": "~z~It's just up here.",
+            "translated": "~z~就是这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 540470993,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 550880696,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 564791937,
+            "original": "~z~Well...you're kind of clever aren't you?",
+            "translated": "~z~你还挺聪明啊？",
+            "desc": ""
+        },
+        {
+            "hash": 567348351,
+            "original": "~z~Luis. What's happening?",
+            "translated": "~z~Luis，你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 595200280,
+            "original": "E2T11_KA",
+            "translated": "E2T11_KA",
+            "desc": ""
+        },
+        {
+            "hash": 596273604,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 606457132,
+            "original": "~z~You are too late to find Mr. Ray. He is leaving country right now.",
+            "translated": "~z~现在去找Ray先生已经晚了，他准备出国了。",
+            "desc": ""
+        },
+        {
+            "hash": 609635525,
+            "original": "E2T11_AGC2",
+            "translated": "E2T11_AGC2",
+            "desc": ""
+        },
+        {
+            "hash": 644061739,
+            "original": "E2T11_AZB",
+            "translated": "E2T11_AZB",
+            "desc": ""
+        },
+        {
+            "hash": 647892145,
+            "original": "~z~No. I would have come back to finish things with you.",
+            "translated": "~z~不。我还会回来找你算账的。",
+            "desc": ""
+        },
+        {
+            "hash": 652348783,
+            "original": "~z~You are joke, pretty boy.",
+            "translated": "~z~你就是个笑话，小白脸。",
+            "desc": ""
+        },
+        {
+            "hash": 654659168,
+            "original": "E2T11_AIC",
+            "translated": "E2T11_AIC",
+            "desc": ""
+        },
+        {
+            "hash": 656360212,
+            "original": "E2T11_AIF",
+            "translated": "E2T11_AIF",
+            "desc": ""
+        },
+        {
+            "hash": 664063331,
+            "original": "~z~Maybe you turned your back on where you was from when you was a kid, but that ain't something I can really do.",
+            "translated": "~z~你是从小就抛下老家走进都市了，但这事我干不出来。",
+            "desc": ""
+        },
+        {
+            "hash": 665192492,
+            "original": "~z~You okay?",
+            "translated": "~z~没事吧？",
+            "desc": ""
+        },
+        {
+            "hash": 678391339,
+            "original": "~z~Take off go.",
+            "translated": "~z~快起飞。",
+            "desc": ""
+        },
+        {
+            "hash": 683756401,
+            "original": "SFX_OVERLAP_5310",
+            "translated": "SFX_OVERLAP_5310",
+            "desc": ""
+        },
+        {
+            "hash": 684086532,
+            "original": "E2T11_BAA",
+            "translated": "E2T11_BAA",
+            "desc": ""
+        },
+        {
+            "hash": 689054225,
+            "original": "~z~I thought I was the annoying drama queen in this pairing.",
+            "translated": "~z~平常都是我在演苦情戏吧。",
+            "desc": ""
+        },
+        {
+            "hash": 702370085,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 718413103,
+            "original": "E2T11_ZAB",
+            "translated": "E2T11_ZAB",
+            "desc": ""
+        },
+        {
+            "hash": 729999765,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 732171613,
+            "original": "~z~Oh shut up, you hysterical fucking queen. Get a grip, bro.",
+            "translated": "~z~闭嘴吧，矫揉造作的死基佬。淡定点，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 738169837,
+            "original": "~z~What do you need? Let me help out.",
+            "translated": "~z~你需要什么？我来帮你。",
+            "desc": ""
+        },
+        {
+            "hash": 740657796,
+            "original": "100090010090100090010",
+            "translated": "100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 746620327,
+            "original": "~z~Okay, shit. I'll do that. Where should I hide?",
+            "translated": "~z~我操，好吧。我该躲在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 778727163,
+            "original": "~z~Uh oh. Oh dear.",
+            "translated": "~z~啊哦，我的天。",
+            "desc": ""
+        },
+        {
+            "hash": 780782375,
+            "original": "~z~Lack of balls was always your problem.",
+            "translated": "~z~没那个胆量就是你的死穴。",
+            "desc": ""
+        },
+        {
+            "hash": 785482719,
+            "original": "~z~Is sweet of you to see me off.",
+            "translated": "~z~真客气，还来送我出国。",
+            "desc": ""
+        },
+        {
+            "hash": 794147462,
+            "original": "E2T11_AA",
+            "translated": "E2T11_AA",
+            "desc": ""
+        },
+        {
+            "hash": 800630854,
+            "original": "~z~What do you need? Let me help out.",
+            "translated": "~z~需要什么？我来帮你。",
+            "desc": ""
+        },
+        {
+            "hash": 806459634,
+            "original": "E2T11_ZA",
+            "translated": "E2T11_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 841067376,
+            "original": "~z~Fuck off, Luis.",
+            "translated": "~z~滚出去，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 844720531,
+            "original": "~z~Mr. Ray flies away now, pretty boy. You are too late to get him.",
+            "translated": "~z~Ray先生坐飞机走了，小白脸。你来晚了一步。",
+            "desc": ""
+        },
+        {
+            "hash": 844790829,
+            "original": "~z~Okay. I'm armed, I'm dangerous. Let's fucking do this!",
+            "translated": "~z~好。我有枪，我很能打，一起干他妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 851669576,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 856265481,
+            "original": "E2T11_PA",
+            "translated": "E2T11_PA",
+            "desc": ""
+        },
+        {
+            "hash": 865098254,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 867822578,
+            "original": "~z~Where's Bulgarin? We got a score to settle.",
+            "translated": "~z~Bulgarin在哪？我们有帐要算。",
+            "desc": ""
+        },
+        {
+            "hash": 874781514,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 880336326,
+            "original": "E2T11_ADB",
+            "translated": "E2T11_ADB",
+            "desc": ""
+        },
+        {
+            "hash": 885858261,
+            "original": "E2T11_ZAD",
+            "translated": "E2T11_ZAD",
+            "desc": ""
+        },
+        {
+            "hash": 893361132,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 900094124,
+            "original": "E2T11_CA",
+            "translated": "E2T11_CA",
+            "desc": ""
+        },
+        {
+            "hash": 913667845,
+            "original": "~z~Time's up, Timmy.",
+            "translated": "~z~结束了，Timmy。",
+            "desc": ""
+        },
+        {
+            "hash": 920672699,
+            "original": "E2T11_ACA",
+            "translated": "E2T11_ACA",
+            "desc": ""
+        },
+        {
+            "hash": 939425642,
+            "original": "~z~You think he will forget about you? You and all your friends are dead.",
+            "translated": "~z~你以为他会一走了之吗？你和你的朋友都死定了。",
+            "desc": ""
+        },
+        {
+            "hash": 941086810,
+            "original": "E2T11_NA",
+            "translated": "E2T11_NA",
+            "desc": ""
+        },
+        {
+            "hash": 942558557,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 947753452,
+            "original": "~z~This is our last chance, ain't it, Lou? We've got to take down Bulgarin and all his people.",
+            "translated": "~z~这次是背水一战了，对吧，Lou？必须要干掉Bulgarin和他的手下。",
+            "desc": ""
+        },
+        {
+            "hash": 954390077,
+            "original": "~z~Come out, motherfuckers!",
+            "translated": "~z~出来啊，操你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 956017367,
+            "original": "~z~Fuck you.",
+            "translated": "~z~操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 969474078,
+            "original": "~z~You people try and kill us. Stop it!",
+            "translated": "~z~你的人要害死我们了，甩掉他！",
+            "desc": ""
+        },
+        {
+            "hash": 972073462,
+            "original": "~z~Oh, yes, silly me. Silly fucking me...huh?",
+            "translated": "~z~哦，是，我不好，呵呵呵呵。全是我的错...哼？",
+            "desc": ""
+        },
+        {
+            "hash": 972146712,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 979311779,
+            "original": "~z~Oh, by the way, think my father may be in to franchising the clubs.",
+            "translated": "~z~噢，对了，我爸好像有兴趣投资你们的分店。",
+            "desc": ""
+        },
+        {
+            "hash": 985222520,
+            "original": "~z~Yusuf too? Shit. How many people got to go down because of us?",
+            "translated": "~z~Yusuf挂了？妈的，有多少人因为我们死了？",
+            "desc": ""
+        },
+        {
+            "hash": 996882049,
+            "original": "~z~I don't get what Mr. Ray saw in you.",
+            "translated": "~z~不知道Ray先生看上你哪里了。",
+            "desc": ""
+        },
+        {
+            "hash": 999885601,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1001758204,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 1018603304,
+            "original": "E2T11_AFF",
+            "translated": "E2T11_AFF",
+            "desc": ""
+        },
+        {
+            "hash": 1026205714,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 1035444972,
+            "original": "~z~Yeah I'm serious. You got to hide out out for a bit, T.",
+            "translated": "~z~对，认真的。你先去躲一会儿吧，T。",
+            "desc": ""
+        },
+        {
+            "hash": 1044497760,
+            "original": "~z~I can't talk, bro. Shit's really coming apart.",
+            "translated": "~z~没空闲聊，哥们。我快完蛋了。",
+            "desc": ""
+        },
+        {
+            "hash": 1047529014,
+            "original": "~z~Wish me luck, motherfucker.",
+            "translated": "~z~祝我好运吧，妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1052206419,
+            "original": "~z~We took on this town and we won. We took on this place and we gave it the fucking finger.",
+            "translated": "~z~我们拿下了自由城，我们赢了。拿下了这座城市，狠狠地鄙视了所有人。",
+            "desc": ""
+        },
+        {
+            "hash": 1055702877,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1061000865,
+            "original": "~z~I'm going to fuck you up!",
+            "translated": "~z~把你们送上天！",
+            "desc": ""
+        },
+        {
+            "hash": 1063233702,
+            "original": "E2T11_AAB",
+            "translated": "E2T11_AAB",
+            "desc": ""
+        },
+        {
+            "hash": 1070778066,
+            "original": "~z~Look, ok, I'm sorry I thought about killing you. I really am. But if you keep up with the bullshit, I might have to kill you for real.",
+            "translated": "~z~听我说，好吗，很抱歉我有想过杀了你，对不起。只是你再这样发疯，我很难不杀了你。",
+            "desc": ""
+        },
+        {
+            "hash": 1083949653,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1088337743,
+            "original": "~z~Come on! Come on!",
+            "translated": "~z~来啊！出来啊！",
+            "desc": ""
+        },
+        {
+            "hash": 1096715700,
+            "original": "~z~Put him down and keep him down.",
+            "translated": "~z~一定把他打死了！",
+            "desc": ""
+        },
+        {
+            "hash": 1101275260,
+            "original": "~z~We are leaving this country now. Go. Go.",
+            "translated": "~z~我们要出国了。走，走。",
+            "desc": ""
+        },
+        {
+            "hash": 1114550766,
+            "original": "E2T11_SB",
+            "translated": "E2T11_SB",
+            "desc": ""
+        },
+        {
+            "hash": 1117230236,
+            "original": "~z~He has much money. He will use it to have you killed.",
+            "translated": "~z~他有的是钱，拿钱就能买你的命。",
+            "desc": ""
+        },
+        {
+            "hash": 1144635731,
+            "original": "~z~Take care of yourself, okay? Stay away from idiots like me.",
+            "translated": "~z~小心点，好吗？离我这种傻逼远点。",
+            "desc": ""
+        },
+        {
+            "hash": 1146691880,
+            "original": "402",
+            "translated": "402",
+            "desc": ""
+        },
+        {
+            "hash": 1160596582,
+            "original": "~z~Tell people Timur and Mr. Ray have serious package now. We own H trade in Liberty.",
+            "translated": "~z~传出去，Timur和Ray先生手头有大量货。自由城的海洛因归我们管了。",
+            "desc": ""
+        },
+        {
+            "hash": 1161943400,
+            "original": "~z~I got some news about that smack, B.",
+            "translated": "~z~跟你汇报下货的状况，B。",
+            "desc": ""
+        },
+        {
+            "hash": 1166609543,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 1177312078,
+            "original": "~z~Hey, I don't know what the hell I was thinking hangin with you, asshole.",
+            "translated": "~z~都不知道我当时怎么会去找你的，臭逼。",
+            "desc": ""
+        },
+        {
+            "hash": 1193315031,
+            "original": "~z~Overworked and underpaid. Ay Conos.",
+            "translated": "~z~累死累活，一分不赚，他妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1195266907,
+            "original": "306",
+            "translated": "306",
+            "desc": ""
+        },
+        {
+            "hash": 1211069654,
+            "original": "~z~You guys tried to kill me one too many times.",
+            "translated": "~z~你们都袭击我多少次了。",
+            "desc": ""
+        },
+        {
+            "hash": 1225286743,
+            "original": "~z~One of my less salubrious associates told me Bulgarin was in on this H deal at Fun Land on Firefly.",
+            "translated": "~z~狐朋狗友跟我说Bulgarin在Firefly的游乐园交易海洛因。",
+            "desc": ""
+        },
+        {
+            "hash": 1228919338,
+            "original": "~z~Do it already, wimp.",
+            "translated": "~z~快动手啊，怂逼。",
+            "desc": ""
+        },
+        {
+            "hash": 1248872465,
+            "original": "~z~You are a stupid man. You know how much that was worth!",
+            "translated": "~z~你是傻逼吗，知不知道这多值钱！",
+            "desc": ""
+        },
+        {
+            "hash": 1254154716,
+            "original": "~z~Yeah, that aint happening Timmy.",
+            "translated": "~z~那是不可能的，Timmy。",
+            "desc": ""
+        },
+        {
+            "hash": 1257638337,
+            "original": "E2T11_ANC",
+            "translated": "E2T11_ANC",
+            "desc": ""
+        },
+        {
+            "hash": 1275307155,
+            "original": "~z~Stop it back there or I crash into sea!",
+            "translated": "~z~把后面的问题解决掉，不然就坠海了！",
+            "desc": ""
+        },
+        {
+            "hash": 1279680865,
+            "original": "~z~There ain't nothing you can do, Yusuf. If this crazy Russian fuck manages to leave the country, it's over for me and Tone.",
+            "translated": "~z~你帮不到我了，Yusuf。万一被那个疯毛子跑出美国，我和Tone就完蛋了。",
+            "desc": ""
+        },
+        {
+            "hash": 1280596963,
+            "original": "E2T11_AMB",
+            "translated": "E2T11_AMB",
+            "desc": ""
+        },
+        {
+            "hash": 1280972709,
+            "original": "~z~Lou...",
+            "translated": "~z~Lou...",
+            "desc": ""
+        },
+        {
+            "hash": 1293740582,
+            "original": "~z~I'm serious, T. This my last testament.",
+            "translated": "~z~我是认真的，T。这就是我的遗言。",
+            "desc": ""
+        },
+        {
+            "hash": 1298038462,
+            "original": "E2T11_ANB",
+            "translated": "E2T11_ANB",
+            "desc": ""
+        },
+        {
+            "hash": 1301895016,
+            "original": "E2T11_AHC",
+            "translated": "E2T11_AHC",
+            "desc": ""
+        },
+        {
+            "hash": 1306880224,
+            "original": "~z~Don't let him near the shit!",
+            "translated": "~z~别让他摸到货！",
+            "desc": ""
+        },
+        {
+            "hash": 1322376683,
+            "original": "~z~Cut his fucking head off and bring it to me.",
+            "translated": "~z~提着他的头来见我。",
+            "desc": ""
+        },
+        {
+            "hash": 1329220060,
+            "original": "E2T11_AUA",
+            "translated": "E2T11_AUA",
+            "desc": ""
+        },
+        {
+            "hash": 1331521287,
+            "original": "~z~Are you coming now?",
+            "translated": "~z~那你还来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1333675641,
+            "original": "~z~You're serious about this, aren't you? You're gonna walk in there alone.",
+            "translated": "~z~你是认真的，对吧？你可是要单打独斗啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1343919429,
+            "original": "500090050090050500090500",
+            "translated": "500090050090050500090500",
+            "desc": ""
+        },
+        {
+            "hash": 1344883960,
+            "original": "~z~Go somewhere no one's gonna find you. Maybe back to Dukes? Ain't nobody gonna look for you there.",
+            "translated": "~z~去别人找不到你的地方。Dukes怎么样？没人会去那儿找你。",
+            "desc": ""
+        },
+        {
+            "hash": 1349761293,
+            "original": "~z~You weren't expecting this, were you, assholes?",
+            "translated": "~z~哈哈哈哈，没想到吧，傻逼？",
+            "desc": ""
+        },
+        {
+            "hash": 1358803907,
+            "original": "E2T11_OA",
+            "translated": "E2T11_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1359994377,
+            "original": "~z~Luis. What's happening?",
+            "translated": "~z~Luis，出什么事了？",
+            "desc": ""
+        },
+        {
+            "hash": 1360490962,
+            "original": "E2T11_AZA",
+            "translated": "E2T11_AZA",
+            "desc": ""
+        },
+        {
+            "hash": 1380309545,
+            "original": "~z~You guys tried to kill me one too many times.",
+            "translated": "~z~你们都袭击我多少次了。",
+            "desc": ""
+        },
+        {
+            "hash": 1388039445,
+            "original": "201090022",
+            "translated": "201090022",
+            "desc": ""
+        },
+        {
+            "hash": 1394410002,
+            "original": "E2T11_AIH",
+            "translated": "E2T11_AIH",
+            "desc": ""
+        },
+        {
+            "hash": 1416645635,
+            "original": "E2T11_AAA",
+            "translated": "E2T11_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 1421249738,
+            "original": "E2T11_XA",
+            "translated": "E2T11_XA",
+            "desc": ""
+        },
+        {
+            "hash": 1436878914,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 1461903038,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1487470663,
+            "original": "~z~Are you glad to be back with your homo master?",
+            "translated": "~z~回到基佬主子身边，你高兴了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1494773805,
+            "original": "E2T11_AGB2",
+            "translated": "E2T11_AGB2",
+            "desc": ""
+        },
+        {
+            "hash": 1496278415,
+            "original": "~z~I was angry before you destroyed our heroin!",
+            "translated": "~z~现在又把海洛因毁了，你这是火上浇油！",
+            "desc": ""
+        },
+        {
+            "hash": 1502648212,
+            "original": "~z~I ain't dead yet, bitches.",
+            "translated": "~z~我还没死呢，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 1504527201,
+            "original": "092090102",
+            "translated": "092090102",
+            "desc": ""
+        },
+        {
+            "hash": 1504529110,
+            "original": "~z~So, say we find them, what are we gonna do then?",
+            "translated": "~z~那，找到他之后，我们要怎么办？",
+            "desc": ""
+        },
+        {
+            "hash": 1505944551,
+            "original": "E2T11_PB",
+            "translated": "E2T11_PB",
+            "desc": ""
+        },
+        {
+            "hash": 1506491342,
+            "original": "~z~He will pay for that!",
+            "translated": "~z~让他知道错！",
+            "desc": ""
+        },
+        {
+            "hash": 1507250647,
+            "original": "020",
+            "translated": "020",
+            "desc": ""
+        },
+        {
+            "hash": 1517943154,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 1518205992,
+            "original": "~z~But I didn't. And now it's you and me, against the world. Okay?",
+            "translated": "~z~但我还是没下手。现在，是你和我对抗全世界，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1523417302,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1537771923,
+            "original": "~z~Word is they're taking on a big heroin shipment at Fun Land on Firefly Island.",
+            "translated": "~z~听说他们在Firefly Island的游乐园接收了一大批海洛因。",
+            "desc": ""
+        },
+        {
+            "hash": 1541369167,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1542528696,
+            "original": "~z~Okay, cool. Hit up, like, err, that Monoglobe monument thing in Meadows Park. Hang out for a few hours.",
+            "translated": "~z~好，可以。你就去草地公园的巨型地球仪那里吧。在那儿等几个小时。",
+            "desc": ""
+        },
+        {
+            "hash": 1552382294,
+            "original": "~z~He has made asshole of me. Kill him.",
+            "translated": "~z~这小子敢耍我，干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 1552717613,
+            "original": "E2T11_ADE",
+            "translated": "E2T11_ADE",
+            "desc": ""
+        },
+        {
+            "hash": 1553369508,
+            "original": "E2T11_VD",
+            "translated": "E2T11_VD",
+            "desc": ""
+        },
+        {
+            "hash": 1554767763,
+            "original": "~z~You will die, Luis.",
+            "translated": "~z~你死定了，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1576470601,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 1584056673,
+            "original": "~z~Stop whatever is going on back there. I'm trying to fly plane.",
+            "translated": "~z~别管是什么，赶紧把后面解决了，飞机要起飞了。",
+            "desc": ""
+        },
+        {
+            "hash": 1602617014,
+            "original": "~z~This is embarrassment.",
+            "translated": "~z~这太尴尬了。",
+            "desc": ""
+        },
+        {
+            "hash": 1634421522,
+            "original": "~z~Such a waste!",
+            "translated": "~z~白费力气！",
+            "desc": ""
+        },
+        {
+            "hash": 1651416981,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 1663308739,
+            "original": "E2T11_VB",
+            "translated": "E2T11_VB",
+            "desc": ""
+        },
+        {
+            "hash": 1667184219,
+            "original": "E2T11_AHD",
+            "translated": "E2T11_AHD",
+            "desc": ""
+        },
+        {
+            "hash": 1678334516,
+            "original": "~z~This is really not good.",
+            "translated": "~z~情况很不妙。",
+            "desc": ""
+        },
+        {
+            "hash": 1682510539,
+            "original": "396",
+            "translated": "396",
+            "desc": ""
+        },
+        {
+            "hash": 1688708492,
+            "original": "E2T11_APB",
+            "translated": "E2T11_APB",
+            "desc": ""
+        },
+        {
+            "hash": 1691430646,
+            "original": "~z~I have grenade. You kill me we all die.",
+            "translated": "~z~我有手雷，你杀了我，我们就同归于尽。",
+            "desc": ""
+        },
+        {
+            "hash": 1717728421,
+            "original": "~z~Come on, let's get out of here.",
+            "translated": "~z~来吧，我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1728550203,
+            "original": "~z~It's Bulgarin or us. Or you can shoot us both, and make his life easy for him.",
+            "translated": "~z~Bulgarin死了，我们活。不然你现在开两枪，帮他省点事。",
+            "desc": ""
+        },
+        {
+            "hash": 1730315222,
+            "original": "~z~Come out, motherfuckers!",
+            "translated": "~z~出来啊，操你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 1732608947,
+            "original": "E2T11_IB",
+            "translated": "E2T11_IB",
+            "desc": ""
+        },
+        {
+            "hash": 1763782161,
+            "original": "~z~I heard you were here, man. Yusuf's here to save the day. Again!",
+            "translated": "~z~听说你在这儿，哥们。Yusuf「又」来拯救世界啦！",
+            "desc": ""
+        },
+        {
+            "hash": 1775410624,
+            "original": "E2T11_VC",
+            "translated": "E2T11_VC",
+            "desc": ""
+        },
+        {
+            "hash": 1784368062,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1798250110,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 1799054349,
+            "original": "E2T11_JA",
+            "translated": "E2T11_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1801427146,
+            "original": "~z~Now Rascalov is dead, we have sole claim to the junk.",
+            "translated": "~z~Rascalov已经死了，这批货是我们的了。",
+            "desc": ""
+        },
+        {
+            "hash": 1806570973,
+            "original": "~z~Looks kinda high from here.",
+            "translated": "~z~看上去还挺高的。",
+            "desc": ""
+        },
+        {
+            "hash": 1811293258,
+            "original": "~z~You think he will forget about you? You and all your friends are dead.",
+            "translated": "~z~你以为他会放过你吗？你和你的朋友都死定了。",
+            "desc": ""
+        },
+        {
+            "hash": 1839017340,
+            "original": "~z~I heard Bulgarin was moving some smack out at the Fun Land on Firefly Island.",
+            "translated": "~z~听说Bulgarin正在Firefly Island的游乐园转移货物。",
+            "desc": ""
+        },
+        {
+            "hash": 1842001197,
+            "original": "E2T11_AIG",
+            "translated": "E2T11_AIG",
+            "desc": ""
+        },
+        {
+            "hash": 1862421150,
+            "original": "~z~We'll leave town and start all over. New clubs, someplace else. If I can do it, you can too.",
+            "translated": "~z~离开自由城，重新开始。新的夜店，换个地方。我能做到，你也能。",
+            "desc": ""
+        },
+        {
+            "hash": 1865845522,
+            "original": "~z~Dukes? Alright, I'll wait for you in Middle Park by that silly Monoglobe. You are gonna make it, L. I know it.",
+            "translated": "~z~Dukes？好吧，我在草地公园的巨蠢地球仪那儿等你。~n~你能做到的，L。我知道的。",
+            "desc": ""
+        },
+        {
+            "hash": 1866492279,
+            "original": "~z~Two in the chest and two in the head!",
+            "translated": "~z~两枪胸口，两枪头！",
+            "desc": ""
+        },
+        {
+            "hash": 1874734956,
+            "original": "~z~Yo, send some money to my mom sometimes, and tell her I love her.",
+            "translated": "~z~哟，多给我妈打点钱，告诉她我爱她。",
+            "desc": ""
+        },
+        {
+            "hash": 1890610668,
+            "original": "~z~Shit! What is happening in back of plane?",
+            "translated": "~z~他妈的，飞机后面怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 1891815324,
+            "original": "~z~You want to die, be my guest.",
+            "translated": "~z~想死的话，请自便。",
+            "desc": ""
+        },
+        {
+            "hash": 1892898625,
+            "original": "E2T11_AFH",
+            "translated": "E2T11_AFH",
+            "desc": ""
+        },
+        {
+            "hash": 1893081069,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 1905499971,
+            "original": "~z~You always have to make a scene, don't you?",
+            "translated": "~z~你是不是非得搞出点大动静？",
+            "desc": ""
+        },
+        {
+            "hash": 1926258141,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1935255290,
+            "original": "~z~Fucking murder the traitor.",
+            "translated": "~z~干掉那个叛徒。",
+            "desc": ""
+        },
+        {
+            "hash": 1940975517,
+            "original": "~z~Mr. Ray will cut his heart out now!",
+            "translated": "~z~Ray先生会把你生吞活剥！",
+            "desc": ""
+        },
+        {
+            "hash": 1944273813,
+            "original": "~z~Luis, bro, do not fear, Yusuf's here. I found you, motherfucker.",
+            "translated": "~z~Luis，哥们，别害怕，Yusuf来了。找到你了，妈个逼的。",
+            "desc": ""
+        },
+        {
+            "hash": 1957535603,
+            "original": "~z~Been through the fact you wanted to kill me?",
+            "translated": "~z~你想杀我的事儿就这么算了？",
+            "desc": ""
+        },
+        {
+            "hash": 1959669960,
+            "original": "~z~And if your brains ain't working right, then I'll make the decision for us, okay?",
+            "translated": "~z~要是你脑子转不过来，那就由我来做决定，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1962865479,
+            "original": "~z~I always told Mr Ray you were too weak.",
+            "translated": "~z~我早就和Ray先生说过你太弱了。",
+            "desc": ""
+        },
+        {
+            "hash": 1964183649,
+            "original": "~z~I seen you fight. You're a pussy.",
+            "translated": "~z~你战斗起来像个娘炮。",
+            "desc": ""
+        },
+        {
+            "hash": 1979758660,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 1981196762,
+            "original": "E2T11_ZBA",
+            "translated": "E2T11_ZBA",
+            "desc": ""
+        },
+        {
+            "hash": 1989334789,
+            "original": "~z~Yeah. 'Cause I came here looking for you.",
+            "translated": "~z~好啊，我也在找你呢。",
+            "desc": ""
+        },
+        {
+            "hash": 1990799340,
+            "original": "~z~Time's up, Timmy.",
+            "translated": "~z~时辰到了，Timmy。",
+            "desc": ""
+        },
+        {
+            "hash": 2009444758,
+            "original": "~z~Now we own junk trade in Liberty. Anyone need package, they must deal with us.",
+            "translated": "~z~城里的货全被我们拿下了。谁想要货，只能跟我们交易。",
+            "desc": ""
+        },
+        {
+            "hash": 2020307153,
+            "original": "~z~Good luck, Luis. Get that motherfucker.",
+            "translated": "~z~祝你好运，Luis。干翻他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2050439694,
+            "original": "500050090050",
+            "translated": "500050090050",
+            "desc": ""
+        },
+        {
+            "hash": 2055157430,
+            "original": "E2T11_APC",
+            "translated": "E2T11_APC",
+            "desc": ""
+        },
+        {
+            "hash": 2082059457,
+            "original": "E2T11_AMA",
+            "translated": "E2T11_AMA",
+            "desc": ""
+        },
+        {
+            "hash": 2092444836,
+            "original": "~z~You should not have fucked with our business.",
+            "translated": "~z~你不该搅和我们的生意。",
+            "desc": ""
+        },
+        {
+            "hash": 2104552263,
+            "original": "E2T11_TA",
+            "translated": "E2T11_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2111759277,
+            "original": "~z~Tony Prince and Luis Lopez could not be stopped.",
+            "translated": "~z~Tony Prince和Luis Lopez是不可阻挡的。",
+            "desc": ""
+        },
+        {
+            "hash": 2141237977,
+            "original": "022090201",
+            "translated": "022090201",
+            "desc": ""
+        },
+        {
+            "hash": 2144693697,
+            "original": "~z~You're too much of a pussy to do anything.",
+            "translated": "~z~你个娘炮，什么都干不好。",
+            "desc": ""
+        },
+        {
+            "hash": 2149572449,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 2166112895,
+            "original": "~z~Shoot his fucking head off.",
+            "translated": "~z~打爆他的头。",
+            "desc": ""
+        },
+        {
+            "hash": 2186925267,
+            "original": "~z~No one in this whole crazy town is crazy enough to take you down.",
+            "translated": "~z~自由城再疯狂，也没人能干掉你这个疯子。",
+            "desc": ""
+        },
+        {
+            "hash": 2187059334,
+            "original": "~z~Yusuf's fucking here! A bad ass A-rab with a mechanical camel.",
+            "translated": "~z~Yusuf闪亮登场！阿拉伯恶霸骑着机械骆驼来啦！",
+            "desc": ""
+        },
+        {
+            "hash": 2188727514,
+            "original": "~z~Okay, Lou. Shit. You'll be fine. Shit.",
+            "translated": "~z~好的，Lou。妈的。不会有事的，操。",
+            "desc": ""
+        },
+        {
+            "hash": 2188786444,
+            "original": "~z~Hey.",
+            "translated": "~z~嘿。",
+            "desc": ""
+        },
+        {
+            "hash": 2193898400,
+            "original": "~z~Been through the fact you are far from alone in that desire?",
+            "translated": "~z~要我命的人难道就你一个？",
+            "desc": ""
+        },
+        {
+            "hash": 2194649561,
+            "original": "~z~There aren't many places like that left in the City, I'm afraid.",
+            "translated": "~z~这么一挑，城里可没处去了。",
+            "desc": ""
+        },
+        {
+            "hash": 2205727006,
+            "original": "~z~Luis, what's happening? Are we in the clear?",
+            "translated": "~z~Luis，怎么样？都完事了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2209820073,
+            "original": "~z~I come with your family when you are dead.",
+            "translated": "~z~等你死了，我抄你全家。",
+            "desc": ""
+        },
+        {
+            "hash": 2216789661,
+            "original": "306",
+            "translated": "306",
+            "desc": ""
+        },
+        {
+            "hash": 2222270812,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 2223710026,
+            "original": "~z~I will enjoy kill your whole family.",
+            "translated": "~z~我会享受杀你全家的过程的。",
+            "desc": ""
+        },
+        {
+            "hash": 2225182783,
+            "original": "E2T11_MA",
+            "translated": "E2T11_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2229236638,
+            "original": "~z~I was hoping to see you, Luis.",
+            "translated": "~z~我正等着你来呢，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 2232582204,
+            "original": "E2T11_ADD",
+            "translated": "E2T11_ADD",
+            "desc": ""
+        },
+        {
+            "hash": 2244518139,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 2253384879,
+            "original": "E2T11_EA",
+            "translated": "E2T11_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2281390627,
+            "original": "~z~I'm sorry, T. I couldn't take it. Bulgarin can keep his shipment. We're finished.",
+            "translated": "~z~抱歉了，T。我搞不定。Bulgarin的货还在。我们完蛋了。",
+            "desc": ""
+        },
+        {
+            "hash": 2321096620,
+            "original": "~z~He is only doorman, kill him!",
+            "translated": "~z~他就是个看门的，干掉他！",
+            "desc": ""
+        },
+        {
+            "hash": 2325498569,
+            "original": "~z~Ray! Ray, come out, you bitch.",
+            "translated": "~z~Ray！Ray，出来啊，你他妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2340160079,
+            "original": "~z~Not too close though, I don't want to give my father the wrong impression.",
+            "translated": "~z~也不要太近，我怕被老爸误会成基佬。",
+            "desc": ""
+        },
+        {
+            "hash": 2352325477,
+            "original": "~z~Take down the pussyman!",
+            "translated": "~z~干掉那个娘炮！",
+            "desc": ""
+        },
+        {
+            "hash": 2353158136,
+            "original": "~z~Eh-oh, you trying to leave without saying goodbye?",
+            "translated": "~z~我说，你是想不辞而别吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2375158070,
+            "original": "~z~We got a stale mate, asshole.",
+            "translated": "~z~现在是死局了，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2381630383,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2390009235,
+            "original": "~z~Damn, Yusuf. You resourceful.",
+            "translated": "~z~我操，Yusuf，太聪明了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2391239016,
+            "original": "~z~Mr. Ray flies away now, pretty boy. You are too late to get him.",
+            "translated": "~z~Ray先生坐飞机走了，小白脸。你来晚了一步。",
+            "desc": ""
+        },
+        {
+            "hash": 2396299377,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 2397207493,
+            "original": "500090050090500090050",
+            "translated": "500090050090500090050",
+            "desc": ""
+        },
+        {
+            "hash": 2403157173,
+            "original": "~z~You come here to die, faggot?",
+            "translated": "~z~你是来送死吗，基佬？",
+            "desc": ""
+        },
+        {
+            "hash": 2417246838,
+            "original": "E2T11_AFE",
+            "translated": "E2T11_AFE",
+            "desc": ""
+        },
+        {
+            "hash": 2417907284,
+            "original": "~z~This is over. It's over. I just want to go some place far away from here and quietly wait to die.",
+            "translated": "~z~已经完了，全完了。我只想离自由城越远越好，找个地方等死。",
+            "desc": ""
+        },
+        {
+            "hash": 2418538588,
+            "original": "~z~He the last one. I'm giving up on it. I'm out. Sorry, T. Goodbye.",
+            "translated": "~z~他是最后一个。我不干了，我退出。抱歉，T，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2420397736,
+            "original": "~z~Fuck off, Luis.",
+            "translated": "~z~滚蛋，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 2428352734,
+            "original": "~z~What? We're in this together!",
+            "translated": "~z~怎么？我俩一起上啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2441110368,
+            "original": "E2T11_AGB1",
+            "translated": "E2T11_AGB1",
+            "desc": ""
+        },
+        {
+            "hash": 2444668515,
+            "original": "~z~Kill the American!",
+            "translated": "~z~杀了美国佬！",
+            "desc": ""
+        },
+        {
+            "hash": 2475072726,
+            "original": "~z~Why am I even saying this? Wish me luck, bro.",
+            "translated": "~z~说这么多干嘛呢？祝我好运吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2477820086,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2478615989,
+            "original": "050090500050090500",
+            "translated": "050090500050090500",
+            "desc": ""
+        },
+        {
+            "hash": 2484714557,
+            "original": "E2T11_JB",
+            "translated": "E2T11_JB",
+            "desc": ""
+        },
+        {
+            "hash": 2487170205,
+            "original": "E2T11_AOA",
+            "translated": "E2T11_AOA",
+            "desc": ""
+        },
+        {
+            "hash": 2498934380,
+            "original": "~z~What the fuck is going on back there?",
+            "translated": "~z~后面怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 2502771697,
+            "original": "~z~This your big business idea. Fuck you.",
+            "translated": "~z~这就是你的大生意吗，滚你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2516745525,
+            "original": "100090010100090010",
+            "translated": "100090010100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2518456871,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 2519809667,
+            "original": "~z~Oh shit, I'm fucked.",
+            "translated": "~z~我操，出事了。",
+            "desc": ""
+        },
+        {
+            "hash": 2546826232,
+            "original": "~z~Fuck you.",
+            "translated": "~z~操你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 2557776222,
+            "original": "E2T11_AFA2",
+            "translated": "E2T11_AFA2",
+            "desc": ""
+        },
+        {
+            "hash": 2563911616,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 2565265531,
+            "original": "E2T11_UA",
+            "translated": "E2T11_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2569021753,
+            "original": "E2T11_ZAA",
+            "translated": "E2T11_ZAA",
+            "desc": ""
+        },
+        {
+            "hash": 2575505807,
+            "original": "100090010090100090010",
+            "translated": "100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2581159920,
+            "original": "~z~Look, T. Don't go home. Don't go to the clubs.",
+            "translated": "~z~听着，T。别回家，别去店里。",
+            "desc": ""
+        },
+        {
+            "hash": 2581305385,
+            "original": "~z~Ray! Ray, come out, you puto.",
+            "translated": "~z~Ray！Ray，出来啊，你他妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2581396489,
+            "original": "~z~I only hired you because I thought you were dumb.",
+            "translated": "~z~我觉得你笨才会雇你的。",
+            "desc": ""
+        },
+        {
+            "hash": 2585599009,
+            "original": "~z~You're a pill popping old queen, man. I'm a murdering maniac.",
+            "translated": "~z~你是个嗑药的黄脸基佬，哥们。我是杀人狂。",
+            "desc": ""
+        },
+        {
+            "hash": 2590862777,
+            "original": "~z~Yeah, thanks.",
+            "translated": "~z~没事，谢了。",
+            "desc": ""
+        },
+        {
+            "hash": 2600545082,
+            "original": "E2T11_QB",
+            "translated": "E2T11_QB",
+            "desc": ""
+        },
+        {
+            "hash": 2614218696,
+            "original": "~z~Boom! Boom! Kapow, motherbitches!",
+            "translated": "~z~嘭嘭！爆炸！妈个逼的！",
+            "desc": ""
+        },
+        {
+            "hash": 2632441866,
+            "original": "~z~Luis, you come to wish me goodbye.",
+            "translated": "~z~Luis，你是来送我的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2635431023,
+            "original": "E2T11_AKC",
+            "translated": "E2T11_AKC",
+            "desc": ""
+        },
+        {
+            "hash": 2637473216,
+            "original": "~z~Yo, T., T., gimme a hug, gimme a hug.",
+            "translated": "~z~哟，T，T，抱一个，抱一个。",
+            "desc": ""
+        },
+        {
+            "hash": 2648253642,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2648932757,
+            "original": "050090050090500090050090500500090050050090050",
+            "translated": "050090050090500090050090500500090050050090050",
+            "desc": ""
+        },
+        {
+            "hash": 2652631639,
+            "original": "~z~Aye Dios Mio. Haven't we been through this already?",
+            "translated": "~z~我的天，你还有完没完了啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2658267899,
+            "original": "~z~I lived it. I lived it hard and now, I'm ready to end it.",
+            "translated": "~z~我的生活，多年的心血，现在，也该结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 2664823576,
+            "original": "E2T11_AJA",
+            "translated": "E2T11_AJA",
+            "desc": ""
+        },
+        {
+            "hash": 2671864508,
+            "original": "~z~Come on. Where you think you can hide that no one would expect?",
+            "translated": "~z~别啊。有没有那种没人能想到的藏身处？",
+            "desc": ""
+        },
+        {
+            "hash": 2681633736,
+            "original": "~z~Yeah, I know. It's a real problem with me. You know? I wish I was more like you - subtle, shy, retiring.",
+            "translated": "~z~确实，我这人就这毛病，真的。我挺想像你这样的，内敛、含蓄、羞怯。",
+            "desc": ""
+        },
+        {
+            "hash": 2683581680,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2691006827,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2698606860,
+            "original": "102090012",
+            "translated": "102090012",
+            "desc": ""
+        },
+        {
+            "hash": 2702574037,
+            "original": "~z~Where your fag master?",
+            "translated": "~z~你那基佬主子呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2705292907,
+            "original": "~z~I can't talk, bro. Shit's really coming apart.",
+            "translated": "~z~现在没空聊，哥们。要完蛋了。",
+            "desc": ""
+        },
+        {
+            "hash": 2760488360,
+            "original": "~z~It ain't like that for me Tone. I still got my family here in LC.",
+            "translated": "~z~我可不行，Tone。我的家人还在自由城。",
+            "desc": ""
+        },
+        {
+            "hash": 2782657625,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 2782688313,
+            "original": "102090012",
+            "translated": "102090012",
+            "desc": ""
+        },
+        {
+            "hash": 2784777970,
+            "original": "~z~Shoot his pretty face off!",
+            "translated": "~z~打烂他的漂亮脸蛋！",
+            "desc": ""
+        },
+        {
+            "hash": 2788675748,
+            "original": "E2T11_AVA",
+            "translated": "E2T11_AVA",
+            "desc": ""
+        },
+        {
+            "hash": 2789018184,
+            "original": "E2T11_DA",
+            "translated": "E2T11_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2799888220,
+            "original": "~z~Say no to drugs motherfucker.",
+            "translated": "~z~远离毒品吧，他妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2811128436,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 2813188101,
+            "original": "~z~Yusuf? Shit, bro.",
+            "translated": "~z~Yusuf？我操，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2820937475,
+            "original": "~z~Fools must be on the other side.",
+            "translated": "~z~这帮傻逼肯定在另一边。",
+            "desc": ""
+        },
+        {
+            "hash": 2821469677,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 2828078397,
+            "original": "~z~dreaming of the world. Wondering what it was like that at that place over there, or that little island over there.",
+            "translated": "~z~幻想着世界，想象着这个地方长啥样，那个岛长啥样。",
+            "desc": ""
+        },
+        {
+            "hash": 2861293399,
+            "original": "E2T11_AJC",
+            "translated": "E2T11_AJC",
+            "desc": ""
+        },
+        {
+            "hash": 2873343598,
+            "original": "~z~I'm proud of you, man.",
+            "translated": "~z~我为你骄傲，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2876147981,
+            "original": "~z~So we're going into exile together. Okay Lou, here's to the open road.",
+            "translated": "~z~那我们亡命天涯吧。好了，Lou，庆祝我们光明的未来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2883063978,
+            "original": "~z~Shit.",
+            "translated": "~z~操。",
+            "desc": ""
+        },
+        {
+            "hash": 2893131606,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2902520358,
+            "original": "~z~Shit. What fucking button do I press?",
+            "translated": "~z~我操，按到啥了？",
+            "desc": ""
+        },
+        {
+            "hash": 2920143576,
+            "original": "E2T11_AEA",
+            "translated": "E2T11_AEA",
+            "desc": ""
+        },
+        {
+            "hash": 2924181262,
+            "original": "E2T11_LB",
+            "translated": "E2T11_LB",
+            "desc": ""
+        },
+        {
+            "hash": 2930690228,
+            "original": "~z~Shoot, shoot, shoot 'em up. I said, shoot, shoot, shoot 'em up.",
+            "translated": "~z~嘭，嘭，嘭嘭嘭。给我嘭，嘭，嘭嘭嘭！",
+            "desc": ""
+        },
+        {
+            "hash": 2931459354,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 2941617862,
+            "original": "~z~No, no, franchising is not the way to go. The club is all about the people.",
+            "translated": "~z~不不，开分店不是关键，夜店最重要的是人。",
+            "desc": ""
+        },
+        {
+            "hash": 2942438107,
+            "original": "E2T11_AIE",
+            "translated": "E2T11_AIE",
+            "desc": ""
+        },
+        {
+            "hash": 2943844992,
+            "original": "E2T11_RA",
+            "translated": "E2T11_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2959154301,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2965698485,
+            "original": "~z~Yeah, that ain't happening, Timmy.",
+            "translated": "~z~那必不可能，Timmy。",
+            "desc": ""
+        },
+        {
+            "hash": 2972130364,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2992871014,
+            "original": "~z~It's worth the risk.",
+            "translated": "~z~这趟险值得冒。",
+            "desc": ""
+        },
+        {
+            "hash": 2993705889,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2995711923,
+            "original": "E2T11_GA",
+            "translated": "E2T11_GA",
+            "desc": ""
+        },
+        {
+            "hash": 2996102705,
+            "original": "E2T11_BBA",
+            "translated": "E2T11_BBA",
+            "desc": ""
+        },
+        {
+            "hash": 2997036081,
+            "original": "E2T11_AGC1",
+            "translated": "E2T11_AGC1",
+            "desc": ""
+        },
+        {
+            "hash": 3002019085,
+            "original": "~z~I'm massively in debt and I just lost 2 million dollars worth of diamonds.",
+            "translated": "~z~欠着一屁股债，还丢了价值两百万的钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 3006723870,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 3008633908,
+            "original": "E2T11_AWA",
+            "translated": "E2T11_AWA",
+            "desc": ""
+        },
+        {
+            "hash": 3027090689,
+            "original": "E2T11_ARA",
+            "translated": "E2T11_ARA",
+            "desc": ""
+        },
+        {
+            "hash": 3035698719,
+            "original": "~z~Don't go nowhere anyone might conceivably think to look for you.",
+            "translated": "~z~别去任何别人觉得你会去的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 3044329365,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3050846465,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3051126183,
+            "original": "500090050500090050090500",
+            "translated": "500090050500090050090500",
+            "desc": ""
+        },
+        {
+            "hash": 3060380558,
+            "original": "~z~They gotta be on the other side the park.",
+            "translated": "~z~公园另一边应该还有人。",
+            "desc": ""
+        },
+        {
+            "hash": 3073321444,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 3073767877,
+            "original": "200090020",
+            "translated": "200090020",
+            "desc": ""
+        },
+        {
+            "hash": 3082910332,
+            "original": "~z~Kill him!",
+            "translated": "~z~杀了他！",
+            "desc": ""
+        },
+        {
+            "hash": 3093256083,
+            "original": "~z~I ran away from there when I was a kid and I swore blind I'd never go back, apart from to catch a plane.",
+            "translated": "~z~年轻的时候我就离开那儿了。不赶飞机绝对不会回到那里，我发过毒誓的。",
+            "desc": ""
+        },
+        {
+            "hash": 3097819806,
+            "original": "~z~Yusuf, you a fucking hero, bro.",
+            "translated": "~z~Yusuf，你他妈真是个大英雄，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3104566892,
+            "original": "100090010090100090010",
+            "translated": "100090010090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3106972105,
+            "original": "020",
+            "translated": "020",
+            "desc": ""
+        },
+        {
+            "hash": 3121695369,
+            "original": "E2T11_ZDA",
+            "translated": "E2T11_ZDA",
+            "desc": ""
+        },
+        {
+            "hash": 3121786757,
+            "original": "E2T11_AJB",
+            "translated": "E2T11_AJB",
+            "desc": ""
+        },
+        {
+            "hash": 3124346046,
+            "original": "~z~ Well let's go, come on.",
+            "translated": "~z~我们走，快。",
+            "desc": ""
+        },
+        {
+            "hash": 3142186399,
+            "original": "E2T11_AIA",
+            "translated": "E2T11_AIA",
+            "desc": ""
+        },
+        {
+            "hash": 3149179144,
+            "original": "~z~I'll take my chances.",
+            "translated": "~z~那就碰碰运气吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3162228580,
+            "original": "E2T11_VC",
+            "translated": "E2T11_VC",
+            "desc": ""
+        },
+        {
+            "hash": 3163376641,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3163458530,
+            "original": "E2T11_FA",
+            "translated": "E2T11_FA",
+            "desc": ""
+        },
+        {
+            "hash": 3168925993,
+            "original": "100090010100090010",
+            "translated": "100090010100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3172635055,
+            "original": "~z~We gonna take out their income stream and then we gonna take them out. End this bullshit.",
+            "translated": "~z~先断掉他的生财之道，然后再赶尽杀绝。做个了断。",
+            "desc": ""
+        },
+        {
+            "hash": 3175866736,
+            "original": "~z~Move to Brazil. Move somewhere. Don't ever look back, T.",
+            "translated": "~z~你去巴西，去哪都行。别回来了，T。",
+            "desc": ""
+        },
+        {
+            "hash": 3177313772,
+            "original": "E2T11_AEC",
+            "translated": "E2T11_AEC",
+            "desc": ""
+        },
+        {
+            "hash": 3188384764,
+            "original": "~z~ Thank you.",
+            "translated": "~z~谢谢。",
+            "desc": ""
+        },
+        {
+            "hash": 3192107773,
+            "original": "E2T11_KB",
+            "translated": "E2T11_KB",
+            "desc": ""
+        },
+        {
+            "hash": 3196450305,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 3201809909,
+            "original": "~z~Fucking kill him.",
+            "translated": "~z~快宰了他。",
+            "desc": ""
+        },
+        {
+            "hash": 3204688955,
+            "original": "~z~The problem ain't gone away, Tony. He's gonna come right back at us. We're still fucked, bro. I'll talk to you soon.",
+            "translated": "~z~麻烦还没完，Tony。他会回来找我们的，情况还是那样，兄弟。晚点再聊。",
+            "desc": ""
+        },
+        {
+            "hash": 3210765995,
+            "original": "~z~Hey man, I did what I could, bro.",
+            "translated": "~z~嘿，尽力而为罢了。",
+            "desc": ""
+        },
+        {
+            "hash": 3213957304,
+            "original": "~z~You ain't making no money today.",
+            "translated": "~z~今天你没得赚啦。",
+            "desc": ""
+        },
+        {
+            "hash": 3217801047,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3228855359,
+            "original": "~z~You fucking made it... man, that was some serious gangster shit.",
+            "translated": "~z~你他妈做到了...天，那可是黑帮大战啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3241221475,
+            "original": "~z~You're a fucking joke, man. All the money in the world and you can't get shit done.",
+            "translated": "~z~你真他妈搞笑，哥们。给你全世界的钱都办不成事。",
+            "desc": ""
+        },
+        {
+            "hash": 3253284627,
+            "original": "E2T11_AAC",
+            "translated": "E2T11_AAC",
+            "desc": ""
+        },
+        {
+            "hash": 3256396876,
+            "original": "~z~Fuck the people. Fuck them all! Whip out your dick and piss all over them.",
+            "translated": "~z~什么人不人的，都滚犊子！掏出你的大屌，滋他们一脸。",
+            "desc": ""
+        },
+        {
+            "hash": 3271951466,
+            "original": "E2T11_AOC",
+            "translated": "E2T11_AOC",
+            "desc": ""
+        },
+        {
+            "hash": 3273767415,
+            "original": "~z~This is not so hospitable, Mr. hospitality man.",
+            "translated": "~z~这样子招待客人不够意思啊，服务员先生。",
+            "desc": ""
+        },
+        {
+            "hash": 3275338523,
+            "original": "~z~We'll see.",
+            "translated": "~z~我尽量吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3287000357,
+            "original": "~z~Don't stop. Fly the fucking plane.",
+            "translated": "~z~别停下来，快他妈起飞。",
+            "desc": ""
+        },
+        {
+            "hash": 3288712230,
+            "original": "~z~Boy.",
+            "translated": "~z~哥们，",
+            "desc": ""
+        },
+        {
+            "hash": 3293522325,
+            "original": "~z~Tony, man, I ain't gonna take you into a fiesta full of angry Russian gangsters",
+            "translated": "~z~Tony啊，我是不会带你进疯毛子窝的。",
+            "desc": ""
+        },
+        {
+            "hash": 3317312615,
+            "original": "~z~What do you mean? If we go down, we go down together.",
+            "translated": "~z~这啥意思？要死我们就一起死啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3337776235,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 3352230966,
+            "original": "~z~Fuck Ray Bulgarin, fuck the mob, fuck the loan sharks, fuck the angry triads, the moaning celebrities, fuck everybody, Lou.",
+            "translated": "~z~什么高利贷，什么三合会，什么名流，全都滚犊子，Lou。",
+            "desc": ""
+        },
+        {
+            "hash": 3360670813,
+            "original": "050090500",
+            "translated": "050090500",
+            "desc": ""
+        },
+        {
+            "hash": 3361649665,
+            "original": "022090201",
+            "translated": "022090201",
+            "desc": ""
+        },
+        {
+            "hash": 3374100480,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 3384048189,
+            "original": "~z~If I survive this shit, I'll find you. If I don't show, then I'm gone.",
+            "translated": "~z~万一活下来了，我来找你。没来的话，就是死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3385827327,
+            "original": "~z~Later, T.",
+            "translated": "~z~再见了，T。",
+            "desc": ""
+        },
+        {
+            "hash": 3388490240,
+            "original": "~z~Luis, shit, are you okay?",
+            "translated": "~z~Luis，妈的，你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3410370520,
+            "original": "~z~Yeah, well, I'm strong enough to kill your ass.",
+            "translated": "~z~干掉你还是绰绰有余的。",
+            "desc": ""
+        },
+        {
+            "hash": 3419021548,
+            "original": "~z~Thanks, Yusuf.",
+            "translated": "~z~谢了，Yusuf。",
+            "desc": ""
+        },
+        {
+            "hash": 3420511868,
+            "original": "~z~Damn. They gotta be hiding out round the other side.",
+            "translated": "~z~妈的，他们肯定躲到另一边去了。",
+            "desc": ""
+        },
+        {
+            "hash": 3431815520,
+            "original": "~z~I want him dead! NOW!",
+            "translated": "~z~我要他死！快！",
+            "desc": ""
+        },
+        {
+            "hash": 3443618479,
+            "original": "E2T11_ALA",
+            "translated": "E2T11_ALA",
+            "desc": ""
+        },
+        {
+            "hash": 3455562779,
+            "original": "~z~Come on, you motherfuckers.",
+            "translated": "~z~来啊，操你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 3473035316,
+            "original": "~z~I ain't that fucking cheery, bro. Later.",
+            "translated": "~z~我可乐不起来，兄弟。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3499418409,
+            "original": "E2T11_AHB",
+            "translated": "E2T11_AHB",
+            "desc": ""
+        },
+        {
+            "hash": 3512712277,
+            "original": "~z~I ain't letting you make no profit.",
+            "translated": "~z~我让你赔个精光。",
+            "desc": ""
+        },
+        {
+            "hash": 3515368455,
+            "original": "~z~It's not like I haven't been in my share of fire fights, Lou. By now, I'm a seasoned veteran by anyone's fucking standards!",
+            "translated": "~z~我又不是没见过枪战，Lou。现在，怎么说我也算是身经百战的老兵了！",
+            "desc": ""
+        },
+        {
+            "hash": 3515386615,
+            "original": "~z~Fuck you all! I don't care what people say.",
+            "translated": "~z~滚你妈！我才不管你们说啥。",
+            "desc": ""
+        },
+        {
+            "hash": 3540107185,
+            "original": "~z~Bye bye, birdie.",
+            "translated": "~z~你的货飞走啦。",
+            "desc": ""
+        },
+        {
+            "hash": 3552930401,
+            "original": "SFX_OVERLAP_1190",
+            "translated": "SFX_OVERLAP_1190",
+            "desc": ""
+        },
+        {
+            "hash": 3553578937,
+            "original": "~z~You're going to go a long way in hospitality, my friend.",
+            "translated": "~z~待客这块你得好好学学了，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 3555791652,
+            "original": "~z~Luis, I love you, man. I love you.",
+            "translated": "~z~Luis，爱死你了，哥们。爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 3560991863,
+            "original": "E2T11_APD",
+            "translated": "E2T11_APD",
+            "desc": ""
+        },
+        {
+            "hash": 3561477986,
+            "original": "E2T11_IA",
+            "translated": "E2T11_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3565741309,
+            "original": "~z~Stay away, Yusuf. You don't need to get involved with this. I'll call you if I make it out.",
+            "translated": "~z~不用了，Yusuf。别掺和进来。完事了我打电话给你。",
+            "desc": ""
+        },
+        {
+            "hash": 3569192428,
+            "original": "~z~You miss me?",
+            "translated": "~z~想我了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3572969244,
+            "original": "E2T11_AOB",
+            "translated": "E2T11_AOB",
+            "desc": ""
+        },
+        {
+            "hash": 3587098270,
+            "original": "~z~I will get you done, you bitch.",
+            "translated": "~z~我会把你办了，贱逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3587874929,
+            "original": "E2T11_VA",
+            "translated": "E2T11_VA",
+            "desc": ""
+        },
+        {
+            "hash": 3601895896,
+            "original": "E2T11_ZCA",
+            "translated": "E2T11_ZCA",
+            "desc": ""
+        },
+        {
+            "hash": 3604081086,
+            "original": "~z~You ever go there, T?",
+            "translated": "~z~你去过吗，T？",
+            "desc": ""
+        },
+        {
+            "hash": 3632471128,
+            "original": "~z~Yeah, hey man.",
+            "translated": "~z~没。嘿，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 3650640234,
+            "original": "~z~You could have had it all.",
+            "translated": "~z~你错过了富贵的机会。",
+            "desc": ""
+        },
+        {
+            "hash": 3668707346,
+            "original": "E2T11_AOD",
+            "translated": "E2T11_AOD",
+            "desc": ""
+        },
+        {
+            "hash": 3679683514,
+            "original": "~z~Protect the shipment with your pathetic little lives.",
+            "translated": "~z~牺牲你们的小命也要保住货！",
+            "desc": ""
+        },
+        {
+            "hash": 3688261088,
+            "original": "~z~That's great! He's out of here. We can rest easy.",
+            "translated": "~z~那太好了！他走了，我们就安宁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3690396159,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3691565479,
+            "original": "~z~There goes your profit margin.",
+            "translated": "~z~你的钱没啦。",
+            "desc": ""
+        },
+        {
+            "hash": 3704292446,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3709469314,
+            "original": "~z~Yes I'm coming now.",
+            "translated": "~z~好，现在就走。",
+            "desc": ""
+        },
+        {
+            "hash": 3712067359,
+            "original": "~z~Okay, then you come too.",
+            "translated": "~z~那好，你也得跟来。什么Ray Bulgarin，什么黑帮，",
+            "desc": ""
+        },
+        {
+            "hash": 3719233333,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3739171580,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3741436515,
+            "original": "~z~Shit, Lou. Look after yourself.",
+            "translated": "~z~我操，Lou。你多保重。",
+            "desc": ""
+        },
+        {
+            "hash": 3749338767,
+            "original": "100090010100090010090010090010",
+            "translated": "100090010100090010090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 3753990062,
+            "original": "~z~You! Over there! You fuck with Luis Lopez you get one angry fucking Arab on your ass!",
+            "translated": "~z~你！敢跟Luis Lopez对着干，就等着被阿拉伯暴脾气干烂吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3764744209,
+            "original": "E2T11_SA",
+            "translated": "E2T11_SA",
+            "desc": ""
+        },
+        {
+            "hash": 3771785986,
+            "original": "E2T11_AFG",
+            "translated": "E2T11_AFG",
+            "desc": ""
+        },
+        {
+            "hash": 3776711792,
+            "original": "E2T11_ZAC",
+            "translated": "E2T11_ZAC",
+            "desc": ""
+        },
+        {
+            "hash": 3778885196,
+            "original": "E2T11_ADC",
+            "translated": "E2T11_ADC",
+            "desc": ""
+        },
+        {
+            "hash": 3794349112,
+            "original": "~z~But we survived, bro...we survived.",
+            "translated": "~z~但我们活下来了...活下来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3798349791,
+            "original": "E2T11_AHE",
+            "translated": "E2T11_AHE",
+            "desc": ""
+        },
+        {
+            "hash": 3813164681,
+            "original": "~z~You the man, Lopez. Kick their asses.",
+            "translated": "~z~你可以的，Lopez。干翻他们。",
+            "desc": ""
+        },
+        {
+            "hash": 3820301275,
+            "original": "~z~Where's Bulgarin?",
+            "translated": "~z~Bulgarin在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 3826798504,
+            "original": "E2T11_BA",
+            "translated": "E2T11_BA",
+            "desc": ""
+        },
+        {
+            "hash": 3836610859,
+            "original": "E2T11_AKD",
+            "translated": "E2T11_AKD",
+            "desc": ""
+        },
+        {
+            "hash": 3839660708,
+            "original": "500090500090050500090050500",
+            "translated": "500090500090050500090050500",
+            "desc": ""
+        },
+        {
+            "hash": 3862083495,
+            "original": "~z~I love you too.",
+            "translated": "~z~我也爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 3863099350,
+            "original": "~z~- Wassup, my niggas? ~n~ '- Oh, did he just say that?",
+            "translated": "~z~－还好吗，黑鬼们？~n~－噢，我没听错吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3873348098,
+            "original": "201022",
+            "translated": "201022",
+            "desc": ""
+        },
+        {
+            "hash": 3880186582,
+            "original": "E2T11_AFB",
+            "translated": "E2T11_AFB",
+            "desc": ""
+        },
+        {
+            "hash": 3893049480,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 3897915108,
+            "original": "~z~You and the gay are nothing!",
+            "translated": "~z~你和那个基佬算个屁！",
+            "desc": ""
+        },
+        {
+            "hash": 3911714795,
+            "original": "~z~I ain't dead yet, bitches.",
+            "translated": "~z~我还没死呢，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 3934458869,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 3936512561,
+            "original": "E2T11_ATA",
+            "translated": "E2T11_ATA",
+            "desc": ""
+        },
+        {
+            "hash": 3956574207,
+            "original": "E2T11_AGA",
+            "translated": "E2T11_AGA",
+            "desc": ""
+        },
+        {
+            "hash": 3956594132,
+            "original": "E2T11_AIB",
+            "translated": "E2T11_AIB",
+            "desc": ""
+        },
+        {
+            "hash": 3963133855,
+            "original": "~z~No, you fuck off, Tony. I didn't kill you. I wanted to. Why? Because you've become a useless junkie fuck, that's why.",
+            "translated": "~z~你才该滚出去，Tony。我没下手，只是有想过。为什么？因为你现在就是个吸毒废物，死了算了。",
+            "desc": ""
+        },
+        {
+            "hash": 3973719751,
+            "original": "~z~Stop him!",
+            "translated": "~z~阻止他！",
+            "desc": ""
+        },
+        {
+            "hash": 3990517066,
+            "original": "~z~Shit, did I just do that.",
+            "translated": "~z~我操，是我干的吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4001269233,
+            "original": "E2T11_AAD",
+            "translated": "E2T11_AAD",
+            "desc": ""
+        },
+        {
+            "hash": 4005316591,
+            "original": "E2T11_QA",
+            "translated": "E2T11_QA",
+            "desc": ""
+        },
+        {
+            "hash": 4005780601,
+            "original": "~z~Tony, bro, I love you, but I should handle this alone. I don't want you getting yourself killed.",
+            "translated": "~z~Tony，好兄弟，我爱你，但这事得我自己处理。我可不想害死你。",
+            "desc": ""
+        },
+        {
+            "hash": 4017736591,
+            "original": "~z~I know that, bro, but there's no point in you coming in there. You can go off and die alone on some beach somewhere.",
+            "translated": "~z~我知道，兄弟。但是你来没有意义啊。你走吧，找个海滩孤独终老吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4024271992,
+            "original": "~z~Don't fuck with that guy.",
+            "translated": "~z~别跟他乱来。",
+            "desc": ""
+        },
+        {
+            "hash": 4028449963,
+            "original": "~z~Timur! Where you at, bitch?",
+            "translated": "~z~Timur，你个贱逼，人呢？",
+            "desc": ""
+        },
+        {
+            "hash": 4034167259,
+            "original": "~z~For me, maybe.",
+            "translated": "~z~我的生死。",
+            "desc": ""
+        },
+        {
+            "hash": 4051335968,
+            "original": "~z~You dumb bastard trying to screw with Luis Lopez! Bring it on, bitches!",
+            "translated": "~z~哪个傻逼还敢跟Luis Lopez对着干！放马过来吧，臭逼！",
+            "desc": ""
+        },
+        {
+            "hash": 4059850844,
+            "original": "~z~Tell Ray there an angry Dominican here to see him.",
+            "translated": "~z~告诉Ray，有个多米尼加疯子在找他。",
+            "desc": ""
+        },
+        {
+            "hash": 4063466531,
+            "original": "E2T11_AFC",
+            "translated": "E2T11_AFC",
+            "desc": ""
+        },
+        {
+            "hash": 4063994001,
+            "original": "~z~I used to play round here when I was a kid,",
+            "translated": "~z~小时候我经常在这块玩。",
+            "desc": ""
+        },
+        {
+            "hash": 4065452319,
+            "original": "E2T11_AEB",
+            "translated": "E2T11_AEB",
+            "desc": ""
+        },
+        {
+            "hash": 4073814203,
+            "original": "E2T11_RB",
+            "translated": "E2T11_RB",
+            "desc": ""
+        },
+        {
+            "hash": 4077727336,
+            "original": "~z~Yeah thank you very much.",
+            "translated": "~z~真好，谢谢您嘞。",
+            "desc": ""
+        },
+        {
+            "hash": 4099182092,
+            "original": "~z~This is where the deal is meant to be.",
+            "translated": "~z~好了，交易应该是在这里。",
+            "desc": ""
+        },
+        {
+            "hash": 4108603822,
+            "original": "~z~We did more than survive, amigo, we prospered.",
+            "translated": "~z~岂止是活下来了，朋友，我们发达了。",
+            "desc": ""
+        },
+        {
+            "hash": 4110428966,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 4113289370,
+            "original": "E2T11_ANA",
+            "translated": "E2T11_ANA",
+            "desc": ""
+        },
+        {
+            "hash": 4116277931,
+            "original": "~z~Go give 'em hell, Luis.",
+            "translated": "~z~送他们下地狱，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 4118491645,
+            "original": "E2T11_AKA",
+            "translated": "E2T11_AKA",
+            "desc": ""
+        },
+        {
+            "hash": 4151368227,
+            "original": "~z~I love everyone!",
+            "translated": "~z~我爱大伙们！",
+            "desc": ""
+        },
+        {
+            "hash": 4153333321,
+            "original": "E2T11_AFA1",
+            "translated": "E2T11_AFA1",
+            "desc": ""
+        },
+        {
+            "hash": 4159387179,
+            "original": "E2T11_VA",
+            "translated": "E2T11_VA",
+            "desc": ""
+        },
+        {
+            "hash": 4161297250,
+            "original": "~z~Huh? Oh jeez, who's this?",
+            "translated": "~z~嗯？我天，谁来了？",
+            "desc": ""
+        },
+        {
+            "hash": 4171944277,
+            "original": "050050090500090500090500050090050090050",
+            "translated": "050050090500090500090500050090050090050",
+            "desc": ""
+        },
+        {
+            "hash": 4172036230,
+            "original": "~z~The Russian mob want me dead, my best friend just contemplated murdering me, the mob are on my case,",
+            "translated": "~z~老毛子要我命，最好的朋友拿枪指着我，黑帮找我的麻烦，",
+            "desc": ""
+        },
+        {
+            "hash": 4172888648,
+            "original": "~z~I got to get down the Dukes Expressway without any number of Russian assassins taking me down, or we're done.",
+            "translated": "~z~我得活着通过Dukes高速，不能被毛子杀手干掉，否则就完了。",
+            "desc": ""
+        },
+        {
+            "hash": 4182729543,
+            "original": "~z~Come on! Come on!",
+            "translated": "~z~来啊！出来啊！",
+            "desc": ""
+        },
+        {
+            "hash": 4184589042,
+            "original": "~z~I'll take my chances.",
+            "translated": "~z~那就碰碰运气吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4185699709,
+            "original": "~z~Timur is name, asshole.",
+            "translated": "~z~老子叫Timur，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 4193592661,
+            "original": "E2T11_AHA2",
+            "translated": "E2T11_AHA2",
+            "desc": ""
+        },
+        {
+            "hash": 4216730716,
+            "original": "E2T11_AQA",
+            "translated": "E2T11_AQA",
+            "desc": ""
+        },
+        {
+            "hash": 4217158607,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 4227028721,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 4229466712,
+            "original": "~z~Oh bollocks. What have I done?",
+            "translated": "~z~我操，我都干了啥？",
+            "desc": ""
+        },
+        {
+            "hash": 4247175196,
+            "original": "E2T11_WA",
+            "translated": "E2T11_WA",
+            "desc": ""
+        },
+        {
+            "hash": 4254517779,
+            "original": "~z~Look who's here, Ray.",
+            "translated": "~z~看看是谁来了，Ray。",
+            "desc": ""
+        },
+        {
+            "hash": 4261142632,
+            "original": "~z~Timur! Bulgarin! Come on, motherfuckers.",
+            "translated": "~z~Timur！Bulgarin！出来啊，你妈逼的。",
+            "desc": ""
+        },
+        {
+            "hash": 4277673240,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 4285053679,
+            "original": "~z~You did it. You saved my life, you saved the business. You fucking did it.",
+            "translated": "~z~你做到了。救了我的命，挽救了生意。你他妈做到了。",
+            "desc": ""
+        },
+        {
+            "hash": 4289397815,
+            "original": "~z~Mr. Ray has left, faggot. He already at airport.",
+            "translated": "~z~Ray先生走了，基佬。他早就到机场了。",
+            "desc": ""
+        }
+    ]
+}

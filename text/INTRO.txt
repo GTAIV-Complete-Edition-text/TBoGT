@@ -1,4 +1,0 @@
-﻿[INTRO]
-;0x991AAA67=PLACEHOLDER : MOCAP CUTSCENE~n~In Gay Tony's appartment.~n~Luis speaks to Tony about the Robbery.
-0x991AAA67=PLACEHOLDER : MOCAP CUTSCENE~n~In Gay Tony's appartment.~n~Luis speaks to Tony about the Robbery.
-

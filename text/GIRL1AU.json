@@ -1,0 +1,1768 @@
+{
+    "GIRL1AU": [
+        {
+            "hash": 7571516,
+            "original": "~z~You're gonna get burnt one day too, you know. And don't you dare come crying to me when it happens.",
+            "translated": "~z~你总有一天也会引火烧身的，到时出事了你也不敢来找我哭诉。",
+            "desc": ""
+        },
+        {
+            "hash": 62969519,
+            "original": "GIRL1_VA",
+            "translated": "GIRL1_VA",
+            "desc": ""
+        },
+        {
+            "hash": 90200812,
+            "original": "~z~No.",
+            "translated": "~z~没。",
+            "desc": ""
+        },
+        {
+            "hash": 95318642,
+            "original": "~z~You should be locked up.",
+            "translated": "~z~你应该被关起来的。",
+            "desc": ""
+        },
+        {
+            "hash": 98235490,
+            "original": "~z~I don't love you.",
+            "translated": "~z~我不爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 115075340,
+            "original": "GIRL1_ZA",
+            "translated": "GIRL1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 121205536,
+            "original": "GIRL1_UD",
+            "translated": "GIRL1_UD",
+            "desc": ""
+        },
+        {
+            "hash": 130506014,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 130904226,
+            "original": "~z~What?",
+            "translated": "~z~啥？",
+            "desc": ""
+        },
+        {
+            "hash": 146493563,
+            "original": "~z~Yeah, it does, actually.",
+            "translated": "~z~确实是这样。",
+            "desc": ""
+        },
+        {
+            "hash": 148034570,
+            "original": "~z~What?",
+            "translated": "~z~啥？",
+            "desc": ""
+        },
+        {
+            "hash": 150225747,
+            "original": "GIRL1_PB",
+            "translated": "GIRL1_PB",
+            "desc": ""
+        },
+        {
+            "hash": 154364729,
+            "original": "GIRL1_WA",
+            "translated": "GIRL1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 160394289,
+            "original": "~z~Fancy seeing you here.",
+            "translated": "~z~真没想到你在这。",
+            "desc": ""
+        },
+        {
+            "hash": 162718050,
+            "original": "100090100090010",
+            "translated": "100090100090010",
+            "desc": ""
+        },
+        {
+            "hash": 183057651,
+            "original": "~z~Shit, it's cold.",
+            "translated": "~z~妈的，好冷啊。",
+            "desc": ""
+        },
+        {
+            "hash": 187835145,
+            "original": "~z~Oh my god! He just pushed her. Is she dead?",
+            "translated": "~z~哦天哪！被他推下来了。她死了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 264552727,
+            "original": "~z~Shit, girl, you real wet.",
+            "translated": "~z~操，妹子，你湿透了。",
+            "desc": ""
+        },
+        {
+            "hash": 268526444,
+            "original": "~z~Yeah. I'll think about how crazy you were.",
+            "translated": "~z~会。我会想起你有多疯的。",
+            "desc": ""
+        },
+        {
+            "hash": 272216183,
+            "original": "~z~Shit, Luis, why do I love you so bad?",
+            "translated": "~z~妈的，Luis，我怎么这么爱你？",
+            "desc": ""
+        },
+        {
+            "hash": 276888916,
+            "original": "~z~You just took an overdose over a guy who ain't seen you in twelve months. Fuck, girl.",
+            "translated": "~z~为了个一年没见面的男人，你就想服药自尽。你有病吧，姑娘。",
+            "desc": ""
+        },
+        {
+            "hash": 291960337,
+            "original": "~z~But, seriously, I just don't want to marry you.",
+            "translated": "~z~说真的，我就是不想娶你。",
+            "desc": ""
+        },
+        {
+            "hash": 308451468,
+            "original": "~z~Yeah, I meant to, I'm just...",
+            "translated": "~z~是，我想回，只是...",
+            "desc": ""
+        },
+        {
+            "hash": 323119751,
+            "original": "GIRL1_BA",
+            "translated": "GIRL1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 362933672,
+            "original": "~z~Okay? I don't care which it is, just get over here, please.",
+            "translated": "~z~好吗？怎么样都无所谓，你过来吧，求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 364532377,
+            "original": "~z~I think a rat just bit me.",
+            "translated": "~z~好像有只老鼠咬了我。",
+            "desc": ""
+        },
+        {
+            "hash": 398574734,
+            "original": "GIRL1_OA",
+            "translated": "GIRL1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 411205936,
+            "original": "~z~Did you get the book I sent you?",
+            "translated": "~z~你收到我送你的书了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 424101561,
+            "original": "~z~I've been watching you, you know. I know all about those other girls.",
+            "translated": "~z~我一直都看着你，知道吗。我知道你有多少女友。",
+            "desc": ""
+        },
+        {
+            "hash": 427481622,
+            "original": "~z~It smells like shit in here.",
+            "translated": "~z~这里真的很臭。",
+            "desc": ""
+        },
+        {
+            "hash": 469424455,
+            "original": "GIRL1_VD",
+            "translated": "GIRL1_VD",
+            "desc": ""
+        },
+        {
+            "hash": 484361397,
+            "original": "GIRL1_NA",
+            "translated": "GIRL1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 500292879,
+            "original": "~z~My hero.",
+            "translated": "~z~我的英雄。",
+            "desc": ""
+        },
+        {
+            "hash": 500307696,
+            "original": "392",
+            "translated": "392",
+            "desc": ""
+        },
+        {
+            "hash": 549886092,
+            "original": "~z~You fucking idiot.",
+            "translated": "~z~你是傻逼吧。",
+            "desc": ""
+        },
+        {
+            "hash": 553464274,
+            "original": "GIRL1_RA",
+            "translated": "GIRL1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 563721831,
+            "original": "GIRL1_DB",
+            "translated": "GIRL1_DB",
+            "desc": ""
+        },
+        {
+            "hash": 569784053,
+            "original": "SFX_OVERLAP_2800",
+            "translated": "SFX_OVERLAP_2800",
+            "desc": ""
+        },
+        {
+            "hash": 570921200,
+            "original": "GIRL1_WB",
+            "translated": "GIRL1_WB",
+            "desc": ""
+        },
+        {
+            "hash": 575165401,
+            "original": "~z~Killer! Killer!",
+            "translated": "~z~凶手！凶手！",
+            "desc": ""
+        },
+        {
+            "hash": 597965583,
+            "original": "~z~Or my emails.",
+            "translated": "~z~邮件也不回。",
+            "desc": ""
+        },
+        {
+            "hash": 619989338,
+            "original": "~z~I think I just saw a murder.",
+            "translated": "~z~我好像看见杀人现场了。",
+            "desc": ""
+        },
+        {
+            "hash": 627563219,
+            "original": "~z~You're my fucking savior, Luis.",
+            "translated": "~z~你就是我的救世主，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 632876791,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 642878375,
+            "original": "~z~Now come on, get down from there.",
+            "translated": "~z~好了，赶紧过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 662671667,
+            "original": "~z~No. Listen, I'm sorry. I'm sorry.",
+            "translated": "~z~不。听着，抱歉，真抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 674625420,
+            "original": "~z~I'm here.",
+            "translated": "~z~我在这。",
+            "desc": ""
+        },
+        {
+            "hash": 689751466,
+            "original": "GIRL1_JA",
+            "translated": "GIRL1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 691251182,
+            "original": "GIRL1_KA",
+            "translated": "GIRL1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 703489770,
+            "original": "~z~I got to get you to a hospital. There's one in Easton.",
+            "translated": "~z~我这就送你去医院，Easton就有一家。",
+            "desc": ""
+        },
+        {
+            "hash": 718349773,
+            "original": "~z~Yeah. Look, I've had a lot going on.",
+            "translated": "~z~是啊。好了，我还要忙。",
+            "desc": ""
+        },
+        {
+            "hash": 736131372,
+            "original": "~z~Get in here.",
+            "translated": "~z~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 737719363,
+            "original": "~z~What's wrong with you? Nothing apart that you're mentally deranged.",
+            "translated": "~z~你哪里不好？当然是因为你脑子有问题。",
+            "desc": ""
+        },
+        {
+            "hash": 744700365,
+            "original": "~z~You really fucking care. I knew it!",
+            "translated": "~z~你他妈会在乎的，我知道！",
+            "desc": ""
+        },
+        {
+            "hash": 763221028,
+            "original": "~z~I don't feel so good.",
+            "translated": "~z~我感觉不妙。",
+            "desc": ""
+        },
+        {
+            "hash": 788156859,
+            "original": "~z~Yeah, I'm sorry.",
+            "translated": "~z~是，我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 811419599,
+            "original": "~z~There's nothing mixed about this - stay away from me!",
+            "translated": "~z~都别管我，离我远点！",
+            "desc": ""
+        },
+        {
+            "hash": 813101110,
+            "original": "~z~Eat him alive.",
+            "translated": "~z~生吃了他。",
+            "desc": ""
+        },
+        {
+            "hash": 839541638,
+            "original": "~z~Fuck me. He pushed her.",
+            "translated": "~z~我操，他把人推下去了。",
+            "desc": ""
+        },
+        {
+            "hash": 845262748,
+            "original": "GIRL1_WC",
+            "translated": "GIRL1_WC",
+            "desc": ""
+        },
+        {
+            "hash": 849086149,
+            "original": "~z~That was the most beautiful thing anyone's ever done for me. Imagine what our kids will think of this story.",
+            "translated": "~z~这真是我人生中的高光时刻啊。想象下咱们的孩子听到这故事时会怎么想。",
+            "desc": ""
+        },
+        {
+            "hash": 863971943,
+            "original": "~z~Will you think of me after I'm gone?",
+            "translated": "~z~我死后你会想我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 865314347,
+            "original": "~z~Must be easy for you,",
+            "translated": "~z~你倒是容易，",
+            "desc": ""
+        },
+        {
+            "hash": 866833690,
+            "original": "~z~Aren't you coming in? You could hold back my hair when they pump me.",
+            "translated": "~z~你不来吗？洗胃的时候你可以帮我收下头发。",
+            "desc": ""
+        },
+        {
+            "hash": 867570154,
+            "original": "GIRL1_FA",
+            "translated": "GIRL1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 895073348,
+            "original": "GIRL1_HB",
+            "translated": "GIRL1_HB",
+            "desc": ""
+        },
+        {
+            "hash": 909289266,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 924627101,
+            "original": "~z~Yeah, either that or thank me.",
+            "translated": "~z~是，说不定会感谢我。",
+            "desc": ""
+        },
+        {
+            "hash": 932478764,
+            "original": "~z~I hope insurance covers this.",
+            "translated": "~z~希望这个在医保范围内。",
+            "desc": ""
+        },
+        {
+            "hash": 963340011,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1033506615,
+            "original": "~z~Urrrrrrrrrrrr.",
+            "translated": "~z~呕...",
+            "desc": ""
+        },
+        {
+            "hash": 1042122189,
+            "original": "~z~I was real stupid, wasn't I?",
+            "translated": "~z~我真傻逼啊，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1062687245,
+            "original": "~z~But...but I can go.",
+            "translated": "~z~但、但我能走啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1071783208,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1077343284,
+            "original": "~z~You never answered my calls.",
+            "translated": "~z~你都不接我电话。",
+            "desc": ""
+        },
+        {
+            "hash": 1089849680,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 1118147735,
+            "original": "~z~You're going to burn in hell.",
+            "translated": "~z~下地狱泡油锅吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1120825026,
+            "original": "~z~No dumbass, that's just your liver failing.",
+            "translated": "~z~错了，傻逼，是你的肝脏衰竭了。",
+            "desc": ""
+        },
+        {
+            "hash": 1129906138,
+            "original": "~z~Come on, baby. I'm feeling drowsy.",
+            "translated": "~z~快来啊，宝贝。我好困啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1135267363,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 1180486589,
+            "original": "~z~No, I mean I'm sorry we can't be together. You can't have me.",
+            "translated": "~z~不，我是为我们无法在一起道的歉。你无法拥有我。",
+            "desc": ""
+        },
+        {
+            "hash": 1189064740,
+            "original": "GIRL1_VI",
+            "translated": "GIRL1_VI",
+            "desc": ""
+        },
+        {
+            "hash": 1199391312,
+            "original": "GIRL1_PA",
+            "translated": "GIRL1_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1229152667,
+            "original": "~z~It felt like nothing to me.",
+            "translated": "~z~这关我啥事。",
+            "desc": ""
+        },
+        {
+            "hash": 1235907671,
+            "original": "~z~You got to stop doing this. One of these days you actually gonna succeed in killing yourself.",
+            "translated": "~z~你得住手了，不然哪天你就害了自己。",
+            "desc": ""
+        },
+        {
+            "hash": 1260653074,
+            "original": "~z~At Hercules? It's a gay club.",
+            "translated": "~z~大力神门口？这里是男同夜店啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1272816890,
+            "original": "GIRL1_NB",
+            "translated": "GIRL1_NB",
+            "desc": ""
+        },
+        {
+            "hash": 1288321137,
+            "original": "GIRL1_LA",
+            "translated": "GIRL1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1311453273,
+            "original": "~z~This is more painful than I thought it would be.",
+            "translated": "~z~这比我想象的还要痛苦。",
+            "desc": ""
+        },
+        {
+            "hash": 1319034239,
+            "original": "~z~I think I'm dying.",
+            "translated": "~z~我就快要死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1380579314,
+            "original": "~z~Y-you can't go.",
+            "translated": "~z~你、你不能走。",
+            "desc": ""
+        },
+        {
+            "hash": 1399258646,
+            "original": "010090100090010090100",
+            "translated": "010090100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 1402398257,
+            "original": "~z~I don't want you.",
+            "translated": "~z~我也不想要啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1406883816,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1424851704,
+            "original": "~z~I knew you'd come.",
+            "translated": "~z~我就知道你会来。",
+            "desc": ""
+        },
+        {
+            "hash": 1437370538,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1474469261,
+            "original": "~z~Get in there. You the doctor's problem now.",
+            "translated": "~z~进去吧。让医生为你头疼去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1475335876,
+            "original": "SFX_OVERLAP_3210",
+            "translated": "SFX_OVERLAP_3210",
+            "desc": ""
+        },
+        {
+            "hash": 1483846618,
+            "original": "GIRL1_QA",
+            "translated": "GIRL1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1505129888,
+            "original": "~z~Okay, wait - just - I - I just don't want to marry you.",
+            "translated": "~z~好吗？等下，我、我只是不想娶你。",
+            "desc": ""
+        },
+        {
+            "hash": 1508219575,
+            "original": "GIRL1_UA",
+            "translated": "GIRL1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1518404105,
+            "original": "~z~Kill that sick pervert. Rip him apart.",
+            "translated": "~z~杀了那个死变态，大卸八块。",
+            "desc": ""
+        },
+        {
+            "hash": 1527716106,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 1528774054,
+            "original": "~z~Don't catch a cold. Stay sane and stay the fuck away from me. Bye!",
+            "translated": "~z~别感冒了。正常点，离我他妈的远点。再见！",
+            "desc": ""
+        },
+        {
+            "hash": 1534402457,
+            "original": "~z~telling everyone that you pushed me.",
+            "translated": "~z~里面写着是你把我推下去的。",
+            "desc": ""
+        },
+        {
+            "hash": 1535019571,
+            "original": "GIRL1_KB",
+            "translated": "GIRL1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1537309094,
+            "original": "~z~Nothing. Nothing. Come on, come on, get over here.",
+            "translated": "~z~没啥，没啥。拜托，赶紧的，过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1546492253,
+            "original": "~z~Oh my god!",
+            "translated": "~z~哦天哪！",
+            "desc": ""
+        },
+        {
+            "hash": 1558687129,
+            "original": "~z~I was just... just... meeting someone! A date, actually.",
+            "translated": "~z~我只是...来见个人！其实是约会。",
+            "desc": ""
+        },
+        {
+            "hash": 1559480627,
+            "original": "~z~She was a sweet, innocent girl.",
+            "translated": "~z~她那么可爱、天真。",
+            "desc": ""
+        },
+        {
+            "hash": 1574399753,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 1600499299,
+            "original": "~z~Yeah! You a serious Grade A nut job.",
+            "translated": "~z~是啊！你他妈是一等一的疯子。",
+            "desc": ""
+        },
+        {
+            "hash": 1619690312,
+            "original": "~z~You fuck people and then you ignore them. That's easy. It's a game, isn't it?",
+            "translated": "~z~你操完逼了就拍屁股走人，真轻松啊。像游戏一样，不是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1622365770,
+            "original": "GIRL1_JB",
+            "translated": "GIRL1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 1639324089,
+            "original": "~z~He'll catch me, I know it.",
+            "translated": "~z~他会抓住我的，我知道。",
+            "desc": ""
+        },
+        {
+            "hash": 1648141850,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 1663432106,
+            "original": "GIRL1_AAA",
+            "translated": "GIRL1_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 1688941061,
+            "original": "~z~Come on, get over here.",
+            "translated": "~z~拜托，过来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1694899558,
+            "original": "~z~Y-your dad? Look, he probably was. Okay, but, if you'll excuse me, I-I gotta go.",
+            "translated": "~z~你爸？应该是没说错。行了，不好意思，我要走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1716467038,
+            "original": "GIRL1_UF",
+            "translated": "GIRL1_UF",
+            "desc": ""
+        },
+        {
+            "hash": 1726420138,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 1738710621,
+            "original": "~z~It didn't feel like nothing, Luis.",
+            "translated": "~z~这关你事，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1745994733,
+            "original": "~z~Hey Margot. How - how are you? What are you doing here?",
+            "translated": "~z~嘿，Margot。你、你好吗？在这干啥呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1762074192,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 1786871047,
+            "original": "GIRL1_VF",
+            "translated": "GIRL1_VF",
+            "desc": ""
+        },
+        {
+            "hash": 1793268027,
+            "original": "GIRL1_FB",
+            "translated": "GIRL1_FB",
+            "desc": ""
+        },
+        {
+            "hash": 1815648434,
+            "original": "~z~Yeah, that tends to be what happens when you take a massive overdose. Shit.",
+            "translated": "~z~对，服药过量是这样子的。妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1823638943,
+            "original": "GIRL1_YA",
+            "translated": "GIRL1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1824433796,
+            "original": "~z~Get him. Get him!",
+            "translated": "~z~抓住他，抓住他！",
+            "desc": ""
+        },
+        {
+            "hash": 1842950828,
+            "original": "~z~I'm going to die, and it's all your fault.",
+            "translated": "~z~我要死了，都是你的错。",
+            "desc": ""
+        },
+        {
+            "hash": 1858600732,
+            "original": "~z~You hadn't noticed falling in that river? You crazier than I thought.",
+            "translated": "~z~你也不看看会掉到河里去吗？你真是比我想的还要疯狂。",
+            "desc": ""
+        },
+        {
+            "hash": 1901115614,
+            "original": "~z~It's Tony, isn't it? He warned you off me.",
+            "translated": "~z~都是Tony，对吧？他让你离我远点的。",
+            "desc": ""
+        },
+        {
+            "hash": 1920767854,
+            "original": "SFX_PAUSE_120",
+            "translated": "SFX_PAUSE_120",
+            "desc": ""
+        },
+        {
+            "hash": 1954654262,
+            "original": "~z~There's a note in my apartment that explains all about you and why I did this.",
+            "translated": "~z~我公寓里有份笔记，记录了你的情况和我寻死的原因。",
+            "desc": ""
+        },
+        {
+            "hash": 1958951070,
+            "original": "~z~You fucking empty motherfucker!",
+            "translated": "~z~你他妈个行尸走肉的混蛋！",
+            "desc": ""
+        },
+        {
+            "hash": 1960878609,
+            "original": "~z~Hold on to yourself, bitch. It would be real inconvenient if you died on me.",
+            "translated": "~z~你自己抱去，贱人。死在我这儿就不好办了。",
+            "desc": ""
+        },
+        {
+            "hash": 1974262874,
+            "original": "~z~What did she do to you?",
+            "translated": "~z~她对你怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 1976680189,
+            "original": "~z~You know, my dad was right about you.",
+            "translated": "~z~知道吗，我爸讲你讲得真对。",
+            "desc": ""
+        },
+        {
+            "hash": 1992712624,
+            "original": "GIRL1_UC",
+            "translated": "GIRL1_UC",
+            "desc": ""
+        },
+        {
+            "hash": 2000732635,
+            "original": "~z~No. Rejection never is personal.",
+            "translated": "~z~对。拒绝向来是对事不对人的。",
+            "desc": ""
+        },
+        {
+            "hash": 2006882198,
+            "original": "GIRL1_EB",
+            "translated": "GIRL1_EB",
+            "desc": ""
+        },
+        {
+            "hash": 2010445585,
+            "original": "~z~Rest assured I ain't coming anywhere near you. Wrap up warm now.",
+            "translated": "~z~别想了，我不会贴上来的。自个裹紧实点。",
+            "desc": ""
+        },
+        {
+            "hash": 2034426758,
+            "original": "~z~Fuck the police. Make this guy pay.",
+            "translated": "~z~快他妈报警，让他付出代价。",
+            "desc": ""
+        },
+        {
+            "hash": 2043438946,
+            "original": "~z~Oh, hi, Luis. Wow, what a coincidence.",
+            "translated": "~z~噢，嗨，Luis。哇，好巧啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2044746168,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 2050462891,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 2054307711,
+            "original": "~z~No, you killed yourself, You're the selfish one here, bitch.",
+            "translated": "~z~不，是你害了自己。你才是那个自私的人，贱逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2062577990,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2067301820,
+            "original": "~z~Rip his empty heart out!",
+            "translated": "~z~掏了他的狼心狗肺！",
+            "desc": ""
+        },
+        {
+            "hash": 2107763342,
+            "original": "GIRL1_DA",
+            "translated": "GIRL1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2132592852,
+            "original": "~z~Fuck! You've killed me, you thoughtless fucking asshole.",
+            "translated": "~z~操！你早把我杀了，没头没脑的混账。",
+            "desc": ""
+        },
+        {
+            "hash": 2137832924,
+            "original": "~z~Hey, don't apologize. I love keeping people from killing themselves. It's a weird fetish of mine.",
+            "translated": "~z~嘿，别道歉。我只是喜欢救下自杀者。算是个奇怪的癖好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2154223559,
+            "original": "~z~~c~ You crazy bitch.",
+            "translated": "~z~~c~你这个疯婆娘。",
+            "desc": ""
+        },
+        {
+            "hash": 2164967926,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2201066209,
+            "original": "~z~Is getting your stomach pumped icky?",
+            "translated": "~z~洗胃难不难受？",
+            "desc": ""
+        },
+        {
+            "hash": 2231687731,
+            "original": "~z~You know that? You think you're such hot shit, don't you?",
+            "translated": "~z~你懂吗？你以为自己是个大红人，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2298832228,
+            "original": "~z~or naming stars after me, or whatever. It's nothing personal.",
+            "translated": "~z~还是给我买星星，都不管用。对事不对人的。",
+            "desc": ""
+        },
+        {
+            "hash": 2313075238,
+            "original": "GIRL1_EA",
+            "translated": "GIRL1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2327273916,
+            "original": "GIRL1_XA",
+            "translated": "GIRL1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2333574963,
+            "original": "~z~We want justice!",
+            "translated": "~z~我们要伸张正义！",
+            "desc": ""
+        },
+        {
+            "hash": 2334253055,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2349032054,
+            "original": "010100090010090100090010090010090100010090100",
+            "translated": "010100090010090100090010090010090100010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2355986954,
+            "original": "GIRL1_UB",
+            "translated": "GIRL1_UB",
+            "desc": ""
+        },
+        {
+            "hash": 2364302353,
+            "original": "GIRL1_FC",
+            "translated": "GIRL1_FC",
+            "desc": ""
+        },
+        {
+            "hash": 2378799309,
+            "original": "GIRL1_AA",
+            "translated": "GIRL1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2430854684,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 2432524589,
+            "original": "~z~It's meant to go to the papers if I die.",
+            "translated": "~z~等我死了就会见诸报端了。",
+            "desc": ""
+        },
+        {
+            "hash": 2437824904,
+            "original": "GIRL1_VC",
+            "translated": "GIRL1_VC",
+            "desc": ""
+        },
+        {
+            "hash": 2438095323,
+            "original": "~z~Perfect. I can't wait to be demonised in the press. Now I got another reason to save your ass.",
+            "translated": "~z~太棒了。马上我就是薄情寡义的渣男了。又多了一个救你的理由。",
+            "desc": ""
+        },
+        {
+            "hash": 2452683611,
+            "original": "~z~I'll be dead soon. Either get me to the hospital or I'm dead.",
+            "translated": "~z~我快不行了。要是不送我去医院，我就死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2538241726,
+            "original": "~z~You're pathetic.",
+            "translated": "~z~你真可悲。",
+            "desc": ""
+        },
+        {
+            "hash": 2540573183,
+            "original": "GIRL1_UG",
+            "translated": "GIRL1_UG",
+            "desc": ""
+        },
+        {
+            "hash": 2540768054,
+            "original": "~z~What's wrong with me, Luis? At least tell me why I'm not good enough for you.",
+            "translated": "~z~我哪里不好了，Luis？至少告诉我我哪里配不上你啊。",
+            "desc": ""
+        },
+        {
+            "hash": 2552986973,
+            "original": "~z~I can't believe he killed her!",
+            "translated": "~z~他居然杀了那姑娘！",
+            "desc": ""
+        },
+        {
+            "hash": 2590529004,
+            "original": "GIRL1_LB",
+            "translated": "GIRL1_LB",
+            "desc": ""
+        },
+        {
+            "hash": 2595981520,
+            "original": "~z~or sky writing my name,",
+            "translated": "~z~还是在天上写我的名字，",
+            "desc": ""
+        },
+        {
+            "hash": 2598898720,
+            "original": "~z~Be strong, Margot.",
+            "translated": "~z~坚强点，Margot。",
+            "desc": ""
+        },
+        {
+            "hash": 2602528398,
+            "original": "~z~I'm slipping away. Hold me, Luis.",
+            "translated": "~z~我要走了。抱住我，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 2624452253,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2635222313,
+            "original": "GIRL1_IA",
+            "translated": "GIRL1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2645149305,
+            "original": "010100",
+            "translated": "010100",
+            "desc": ""
+        },
+        {
+            "hash": 2648776274,
+            "original": "GIRL1_CB",
+            "translated": "GIRL1_CB",
+            "desc": ""
+        },
+        {
+            "hash": 2656392863,
+            "original": "GIRL1_IB",
+            "translated": "GIRL1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2661624593,
+            "original": "~z~I love you.",
+            "translated": "~z~我爱你。",
+            "desc": ""
+        },
+        {
+            "hash": 2667753225,
+            "original": "~z~You can't get away with that shit.",
+            "translated": "~z~杀了人别想跑。",
+            "desc": ""
+        },
+        {
+            "hash": 2668039358,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2680940248,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 2689898221,
+            "original": "~z~Where is he?",
+            "translated": "~z~他在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 2703829760,
+            "original": "~z~I've got a letter,",
+            "translated": "~z~我带了遗书。",
+            "desc": ""
+        },
+        {
+            "hash": 2710769194,
+            "original": "GIRL1_MC",
+            "translated": "GIRL1_MC",
+            "desc": ""
+        },
+        {
+            "hash": 2713995677,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2748374047,
+            "original": "~z~Shit!",
+            "translated": "~z~妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 2774086801,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 2779681660,
+            "original": "GIRL1_VE",
+            "translated": "GIRL1_VE",
+            "desc": ""
+        },
+        {
+            "hash": 2780598421,
+            "original": "GIRL1_TA",
+            "translated": "GIRL1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2782276315,
+            "original": "~z~I'm taking you to shore",
+            "translated": "~z~我带你去岸边。",
+            "desc": ""
+        },
+        {
+            "hash": 2787339722,
+            "original": "~z~We ain't having kids, Margot. I'm dropping you over there and then I ain't seeing you ever again.",
+            "translated": "~z~咱没有孩子，Margot。送你到那，咱就再也不见了。",
+            "desc": ""
+        },
+        {
+            "hash": 2793808732,
+            "original": "~z~I know he'll come.",
+            "translated": "~z~我知道他会来的。",
+            "desc": ""
+        },
+        {
+            "hash": 2795906117,
+            "original": "~z~You can't. I'm going to die.",
+            "translated": "~z~你不能。我要死了。",
+            "desc": ""
+        },
+        {
+            "hash": 2824938342,
+            "original": "302",
+            "translated": "302",
+            "desc": ""
+        },
+        {
+            "hash": 2827260029,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2859115774,
+            "original": "~z~It's... It was a long time ago. I mean, it's time to move on.",
+            "translated": "~z~那...那是很久以前的事了。我是说，也该向前看了。",
+            "desc": ""
+        },
+        {
+            "hash": 2894933107,
+            "original": "~z~And no matter how many letters you send me, or chocolate bunnies,",
+            "translated": "~z~不管你给我寄多少封信，送多少巧克力兔，",
+            "desc": ""
+        },
+        {
+            "hash": 2935178896,
+            "original": "~z~Save me!",
+            "translated": "~z~救我！",
+            "desc": ""
+        },
+        {
+            "hash": 2964303095,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2968619273,
+            "original": "~z~Luis! Luis!",
+            "translated": "~z~Luis！Luis！",
+            "desc": ""
+        },
+        {
+            "hash": 2987902256,
+            "original": "~z~Of course I care. I don't want no one killing themselves.",
+            "translated": "~z~我当然在乎。我不想任何人了断自己。",
+            "desc": ""
+        },
+        {
+            "hash": 3016304280,
+            "original": "~z~You don't care about anyone. You're a shell.",
+            "translated": "~z~你不在乎别人。你空有一副躯壳。",
+            "desc": ""
+        },
+        {
+            "hash": 3036315250,
+            "original": "~z~Oh fuck. I thought I'd just pass out.",
+            "translated": "~z~哦，操，我好像要晕过去了。",
+            "desc": ""
+        },
+        {
+            "hash": 3040213141,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3066676179,
+            "original": "~z~Tone don't even know you exist. Breaking things off was my own good judgement.",
+            "translated": "~z~Tone都不知道你是谁。一刀两断是我自己思考的结果。",
+            "desc": ""
+        },
+        {
+            "hash": 3076900123,
+            "original": "~z~This will show him.",
+            "translated": "~z~他会明白的。",
+            "desc": ""
+        },
+        {
+            "hash": 3100923655,
+            "original": "GIRL1_UH",
+            "translated": "GIRL1_UH",
+            "desc": ""
+        },
+        {
+            "hash": 3111406049,
+            "original": "~z~ I just took 37 painkillers and 15 sleeping pills.",
+            "translated": "~z~我刚吞下了37片止痛药和15片安眠药。",
+            "desc": ""
+        },
+        {
+            "hash": 3125246273,
+            "original": "492",
+            "translated": "492",
+            "desc": ""
+        },
+        {
+            "hash": 3164004827,
+            "original": "~z~If you loved me, you'd save me.",
+            "translated": "~z~如果你爱过我，就会救我。",
+            "desc": ""
+        },
+        {
+            "hash": 3165178234,
+            "original": "~z~What's time got to do with anything?",
+            "translated": "~z~这和时间有关系吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3172818945,
+            "original": "GIRL1_SB",
+            "translated": "GIRL1_SB",
+            "desc": ""
+        },
+        {
+            "hash": 3209143733,
+            "original": "~z~I knew you'd save me.",
+            "translated": "~z~我就知道你会救我。",
+            "desc": ""
+        },
+        {
+            "hash": 3216329597,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 3221543197,
+            "original": "~z~I'm sorry, Luis.",
+            "translated": "~z~对不起，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 3227080217,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 3234067083,
+            "original": "~z~Yo, string him up!'",
+            "translated": "~z~哟，吊死他！",
+            "desc": ""
+        },
+        {
+            "hash": 3252572943,
+            "original": "GIRL1_HA",
+            "translated": "GIRL1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3257070092,
+            "original": "~z~I see enough bulimic bitches at the club, Margot. You on your own.",
+            "translated": "~z~天天催吐的娘们我在店里见多了，Margot。你自己去。",
+            "desc": ""
+        },
+        {
+            "hash": 3260499732,
+            "original": "~z~I don't want to marry someone who is a complete psychopath.",
+            "translated": "~z~只是不想娶一个十足的精神病。",
+            "desc": ""
+        },
+        {
+            "hash": 3280666688,
+            "original": "~z~Oh god.",
+            "translated": "~z~哦天哪。",
+            "desc": ""
+        },
+        {
+            "hash": 3286947023,
+            "original": "~z~He killed her. Get him.",
+            "translated": "~z~他动的手。抓住他。",
+            "desc": ""
+        },
+        {
+            "hash": 3307907096,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 3311730459,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3312484315,
+            "original": "GIRL1_GB",
+            "translated": "GIRL1_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3378958022,
+            "original": "GIRL1_ABA",
+            "translated": "GIRL1_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 3381079594,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3382772436,
+            "original": "~z~Are you going to start taking me seriously now?",
+            "translated": "~z~现在终于要对我上心了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3387745008,
+            "original": "~z~Can you just understand that what we had was nothing. Shit.",
+            "translated": "~z~你明不明白咱俩是成不了的？妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 3407015198,
+            "original": "~z~There. There's the bottle.",
+            "translated": "~z~你看，瓶子在这。",
+            "desc": ""
+        },
+        {
+            "hash": 3413314692,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 3420276366,
+            "original": "GIRL1_PC",
+            "translated": "GIRL1_PC",
+            "desc": ""
+        },
+        {
+            "hash": 3431743550,
+            "original": "~z~You really do love me.",
+            "translated": "~z~你是真的爱我。",
+            "desc": ""
+        },
+        {
+            "hash": 3473776009,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3484184449,
+            "original": "~z~it - it was over a year ago.",
+            "translated": "~z~这都一年多了。",
+            "desc": ""
+        },
+        {
+            "hash": 3505719824,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3508712645,
+            "original": "GIRL1_MB",
+            "translated": "GIRL1_MB",
+            "desc": ""
+        },
+        {
+            "hash": 3526196590,
+            "original": "~z~How?",
+            "translated": "~z~是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3559260519,
+            "original": "~z~Oh, Jesus, Margot.",
+            "translated": "~z~哦，天哪，Margot。",
+            "desc": ""
+        },
+        {
+            "hash": 3562537411,
+            "original": "~z~When you suddenly decided the view was better from there?",
+            "translated": "~z~你是觉得风景这边独好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3582239795,
+            "original": "~z~Luis.",
+            "translated": "~z~Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 3595555945,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3652388340,
+            "original": "GIRL1_VB",
+            "translated": "GIRL1_VB",
+            "desc": ""
+        },
+        {
+            "hash": 3665304582,
+            "original": "~z~How can you be so nice one second and mean the next. You're sending mixed signals.",
+            "translated": "~z~刚刚还好好的，怎么就变卦了，你真让人捉摸不透。",
+            "desc": ""
+        },
+        {
+            "hash": 3738410921,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3748658661,
+            "original": "~z~Either that, or I'd think I was.",
+            "translated": "~z~不这么想，疯的就是我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3758460983,
+            "original": "~z~No. Listen, Margot, you're a nice girl, and it was nice hooking up with you, but",
+            "translated": "~z~没有。听着，Margot，你是个好人，和你约会也很开心，但...",
+            "desc": ""
+        },
+        {
+            "hash": 3799323637,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 3854391444,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 3861751150,
+            "original": "~z~Yes.",
+            "translated": "~z~是的。",
+            "desc": ""
+        },
+        {
+            "hash": 3863926321,
+            "original": "~z~Now you starting to understand. Thank you!",
+            "translated": "~z~您终于明白啦。多谢啊！",
+            "desc": ""
+        },
+        {
+            "hash": 3864465171,
+            "original": "~z~When I die, people will blame you.",
+            "translated": "~z~我死了，别人会怪罪你。",
+            "desc": ""
+        },
+        {
+            "hash": 3866600970,
+            "original": "~z~Hey Luis.",
+            "translated": "~z~嘿，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 3870170574,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 3880972476,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 3887678270,
+            "original": "~z~Fucking rude.",
+            "translated": "~z~太无礼了。",
+            "desc": ""
+        },
+        {
+            "hash": 3898858877,
+            "original": "~z~He pushed her. I saw it.",
+            "translated": "~z~是他推的。我看见了。",
+            "desc": ""
+        },
+        {
+            "hash": 3936162501,
+            "original": "GIRL1_MA",
+            "translated": "GIRL1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3972400763,
+            "original": "GIRL1_PD",
+            "translated": "GIRL1_PD",
+            "desc": ""
+        },
+        {
+            "hash": 3976042752,
+            "original": "~z~You're not crazy, Luis. You're empty.",
+            "translated": "~z~你没疯，Luis。你是行尸走肉。",
+            "desc": ""
+        },
+        {
+            "hash": 3981117577,
+            "original": "SFX_OVERLAP_2820",
+            "translated": "SFX_OVERLAP_2820",
+            "desc": ""
+        },
+        {
+            "hash": 3992388367,
+            "original": "~z~You came, baby.",
+            "translated": "~z~你来啦，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 4008614528,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 4021955284,
+            "original": "~z~The only thing going near that mouth is the tube for the stomach pump.",
+            "translated": "~z~待会儿来吻你的东西，只有那根洗胃管。",
+            "desc": ""
+        },
+        {
+            "hash": 4027593098,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 4031193843,
+            "original": "~z~Okay? Maybe I'm empty, like you said. Or maybe, like pretty much every man alive,",
+            "translated": "~z~好吗？也许我确实是一具空壳。但也许，我跟大多数男人一样，",
+            "desc": ""
+        },
+        {
+            "hash": 4066675095,
+            "original": "GIRL1_VH",
+            "translated": "GIRL1_VH",
+            "desc": ""
+        },
+        {
+            "hash": 4078843496,
+            "original": "~z~The flowers?",
+            "translated": "~z~那花呢？",
+            "desc": ""
+        },
+        {
+            "hash": 4081884627,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 4086368432,
+            "original": "~z~Oh really? I hadn't noticed.",
+            "translated": "~z~噢，是吗？我都没发现。",
+            "desc": ""
+        },
+        {
+            "hash": 4107828700,
+            "original": "~z~I never made no promises to you. You need to forget about me.",
+            "translated": "~z~喂，我可没跟你订婚。赶紧忘了我好吗。",
+            "desc": ""
+        },
+        {
+            "hash": 4113149096,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 4130421083,
+            "original": "~z~He's a god damn murderer!",
+            "translated": "~z~天杀的杀人犯在那儿！",
+            "desc": ""
+        },
+        {
+            "hash": 4145974095,
+            "original": "010090100090010090100090010090010100090010",
+            "translated": "010090100090010090100090010090010100090010",
+            "desc": ""
+        },
+        {
+            "hash": 4156868764,
+            "original": "~z~Don't tell me you were just passing through.",
+            "translated": "~z~别告诉我你是碰巧路过这里。",
+            "desc": ""
+        },
+        {
+            "hash": 4158751441,
+            "original": "~z~You going to hospital, you idiot. Shit.",
+            "translated": "~z~该去医院了，你个傻逼。妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 4173191846,
+            "original": "~z~I think I can feel my heart breaking, baby.",
+            "translated": "~z~我好像能感受到心脏在碎裂，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 4189061605,
+            "original": "SFX_PAIUSE_160",
+            "translated": "SFX_PAIUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 4198854068,
+            "original": "~z~Where is he?",
+            "translated": "~z~他在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 4204469024,
+            "original": "GIRL1_VG",
+            "translated": "GIRL1_VG",
+            "desc": ""
+        },
+        {
+            "hash": 4207400125,
+            "original": "~z~I'll get you to dry land.",
+            "translated": "~z~我带你上岸。",
+            "desc": ""
+        },
+        {
+            "hash": 4210341102,
+            "original": "~z~thinking of me as being crazy. It must help.",
+            "translated": "~z~把我当成疯婆娘。没有负罪感。",
+            "desc": ""
+        },
+        {
+            "hash": 4210579107,
+            "original": "GIRL1_CA",
+            "translated": "GIRL1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 4229284747,
+            "original": "~z~Kiss me, baby.",
+            "translated": "~z~吻我，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 4246596117,
+            "original": "GIRL1_UE",
+            "translated": "GIRL1_UE",
+            "desc": ""
+        },
+        {
+            "hash": 4275866406,
+            "original": "GIRL1_GA",
+            "translated": "GIRL1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4279264514,
+            "original": "GIRL1_SA",
+            "translated": "GIRL1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 4280111486,
+            "original": "~z~No. I'm more like cold shit.",
+            "translated": "~z~不。我更像是纯路人。",
+            "desc": ""
+        }
+    ]
+}

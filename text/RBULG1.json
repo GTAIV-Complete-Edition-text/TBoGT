@@ -1,0 +1,274 @@
+{
+    "RBULG1": [
+        {
+            "hash": 3709759,
+            "original": "You have left ~b~Timur ~s~behind.",
+            "translated": "你把~b~Timur~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 16105267,
+            "original": "Put the bomb on the ~b~back ~s~of the car.",
+            "translated": "将炸弹安放在~b~车尾。",
+            "desc": ""
+        },
+        {
+            "hash": 42414295,
+            "original": "~r~You killed your buddy.",
+            "translated": "~r~你杀死了你的伙伴。",
+            "desc": ""
+        },
+        {
+            "hash": 308952994,
+            "original": "You have left ~b~Bulgarin~s~ and ~b~Timur ~s~behind.",
+            "translated": "你把~b~Bulgarin~s~和~b~Timur~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 353238229,
+            "original": "Wait for ~b~Timur ~s~to get in the car",
+            "translated": "等待~b~Timur~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 386884524,
+            "original": "~r~You abandoned Timur.",
+            "translated": "~r~你抛弃了Timur。",
+            "desc": ""
+        },
+        {
+            "hash": 425650239,
+            "original": "~r~You abandoned Bulgarin.",
+            "translated": "~r~你抛弃了Bulgarin。",
+            "desc": ""
+        },
+        {
+            "hash": 435401748,
+            "original": "Get back in the ~b~vehicle.",
+            "translated": "回到~b~载具~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 581274779,
+            "original": "Put the bomb on the ~b~front ~s~of the car.",
+            "translated": "将炸弹安放在~b~车头。",
+            "desc": ""
+        },
+        {
+            "hash": 660847382,
+            "original": "Press ~INPUT_DETONATE~ to detonate the Sticky Bombs.",
+            "translated": "按~INPUT_DETONATE~引爆黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 754316473,
+            "original": "Go back and collect ~b~Bulgarin.",
+            "translated": "回去找~b~Bulgarin。",
+            "desc": ""
+        },
+        {
+            "hash": 771563377,
+            "original": "~r~You failed.",
+            "translated": "~r~你失败了。",
+            "desc": ""
+        },
+        {
+            "hash": 957499878,
+            "original": "~r~Timur is dead.",
+            "translated": "~r~Timur死了。",
+            "desc": ""
+        },
+        {
+            "hash": 987456299,
+            "original": "~r~You abandoned Bulgarin and Timur.",
+            "translated": "~r~你抛弃了Bulgarin和Timur。",
+            "desc": ""
+        },
+        {
+            "hash": 1034058546,
+            "original": "~r~The targets will not enter now, the alarm has alerted them.",
+            "translated": "~r~警报惊动了目标，他们不会靠近了。",
+            "desc": ""
+        },
+        {
+            "hash": 1088994440,
+            "original": "Wait for ~b~Bulgarin ~s~to get in the car",
+            "translated": "等待~b~Bulgarin~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 1205876857,
+            "original": "~r~Bulgarin and Timur are dead.",
+            "translated": "~r~Bulgarin和Timur死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1434596814,
+            "original": "Stay hidden until the targets get to the vehicle.",
+            "translated": "在目标靠近载具前保持隐蔽。",
+            "desc": ""
+        },
+        {
+            "hash": 1534968868,
+            "original": "You have been spotted. Take out the ~r~targets.",
+            "translated": "你被发现了。干掉~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1548572118,
+            "original": "Take out the ~r~targets.",
+            "translated": "干掉~r~目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1867151212,
+            "original": "Get in the ~b~car ~s~with Ray and Timur.",
+            "translated": "与Ray和Timur上~b~车。",
+            "desc": ""
+        },
+        {
+            "hash": 1942808606,
+            "original": "~r~Bulgarin and Timur are dead, and you destroyed the car.",
+            "translated": "~r~Bulgarin和Timur死了，你还摧毁了车。",
+            "desc": ""
+        },
+        {
+            "hash": 2051119446,
+            "original": "~r~The car is stuck.",
+            "translated": "~r~车辆无法行驶。",
+            "desc": ""
+        },
+        {
+            "hash": 2135367480,
+            "original": "~r~The targets will not enter now, the explosion has alerted them.",
+            "translated": "~r~爆炸惊动了目标，他们不会靠近了。",
+            "desc": ""
+        },
+        {
+            "hash": 2169901305,
+            "original": "Press ~INPUT_ATTACK~ to throw a sticky bomb onto the car.~s~",
+            "translated": "按~INPUT_ATTACK~将黏弹扔到车上。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2178416354,
+            "original": "~r~You destroyed the vehicle.",
+            "translated": "~r~你摧毁了载具。",
+            "desc": ""
+        },
+        {
+            "hash": 2271771737,
+            "original": "Park the car back in the ~y~space.",
+            "translated": "将车停回~y~车位。",
+            "desc": ""
+        },
+        {
+            "hash": 2388759607,
+            "original": "You have run out of sticky bombs. Call Armando for more.",
+            "translated": "你的黏弹用完了，打电话向Armando购买。",
+            "desc": ""
+        },
+        {
+            "hash": 2463937542,
+            "original": "Press ~INPUT_ATTACK~ to drop the sticky bomb when next to the car.~s~",
+            "translated": "在车旁时，按~INPUT_ATTACK~安放黏弹。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2711634747,
+            "original": "Place the bomb out of sight.",
+            "translated": "将炸弹安放在看不见的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 2740531722,
+            "original": "Crouch and hide behind the ~y~car ~s~and wait for the targets to enter.",
+            "translated": "蹲下来躲在~y~车后，~s~等待目标靠近。",
+            "desc": ""
+        },
+        {
+            "hash": 2893116726,
+            "original": "You need a four door car",
+            "translated": "你需要一辆四门车。",
+            "desc": ""
+        },
+        {
+            "hash": 3087302958,
+            "original": "Go to the underground ~y~carpark ~s~off Topaz St.",
+            "translated": "前往Topaz街的~y~地下停车场。",
+            "desc": ""
+        },
+        {
+            "hash": 3112553731,
+            "original": "Go back to the ~y~car park.",
+            "translated": "返回~y~停车场。",
+            "desc": ""
+        },
+        {
+            "hash": 3229661878,
+            "original": "Park in the ~y~empty space ~s~next to the pillar.",
+            "translated": "将车停入柱子旁的~y~车位。",
+            "desc": ""
+        },
+        {
+            "hash": 3325117183,
+            "original": "~r~You alerted the targets.",
+            "translated": "~r~你惊动了目标。",
+            "desc": ""
+        },
+        {
+            "hash": 3455470956,
+            "original": "Lose the corrupt ~r~NOOSE.~s~",
+            "translated": "摆脱腐败的~r~NOOSE。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3490614898,
+            "original": "Get out of the car.",
+            "translated": "下车。",
+            "desc": ""
+        },
+        {
+            "hash": 3749718195,
+            "original": "Park the car correctly.",
+            "translated": "把车停好。",
+            "desc": ""
+        },
+        {
+            "hash": 3891004709,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 4043726697,
+            "original": "Press ~PAD_DPAD_DOWN~ to detonate the Sticky Bombs.",
+            "translated": "按~PAD_DPAD_DOWN~引爆黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 4149331116,
+            "original": "Get ~y~out ~s~of the carpark.",
+            "translated": "~y~离开~s~停车场。",
+            "desc": ""
+        },
+        {
+            "hash": 4233802256,
+            "original": "Wait for ~b~Bulgarin~s~ and ~b~Timur~s~ to get in the car",
+            "translated": "等待~b~Bulgarin~s~和~b~Timur~s~上车。",
+            "desc": ""
+        },
+        {
+            "hash": 4259276631,
+            "original": "Take Bulgarin and Timur back to ~y~Bulgarin's house.",
+            "translated": "将Bulgarin和Timur送回~y~Bulgarin的家。",
+            "desc": ""
+        },
+        {
+            "hash": 4262715737,
+            "original": "~r~Bulgarin is dead.",
+            "translated": "~r~Bulgarin死了。",
+            "desc": ""
+        }
+    ]
+}

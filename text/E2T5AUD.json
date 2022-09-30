@@ -1,0 +1,976 @@
+{
+    "E2T5AUD": [
+        {
+            "hash": 56158840,
+            "original": "~z~Later, T.",
+            "translated": "~z~回见，T。",
+            "desc": ""
+        },
+        {
+            "hash": 74476122,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 97096926,
+            "original": "~z~The head of the LTA is out at Francis International in his private jet.",
+            "translated": "~z~交管局局长在Francis国际机场，乘的是私人飞机。",
+            "desc": ""
+        },
+        {
+            "hash": 129799994,
+            "original": "~z~I forgot something.",
+            "translated": "~z~有东西忘拿了。",
+            "desc": ""
+        },
+        {
+            "hash": 134156977,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 140154789,
+            "original": "~z~Listen, you gotta tell Rocco that the plane took off. I couldn't finish the job.",
+            "translated": "~z~听着，你得告诉Rocco飞机起飞了。我炸不到它。",
+            "desc": ""
+        },
+        {
+            "hash": 177462839,
+            "original": "~z~That's fuckin' done.",
+            "translated": "~z~完事了。",
+            "desc": ""
+        },
+        {
+            "hash": 192246294,
+            "original": "~z~You're a degenerate.",
+            "translated": "~z~你这个败类。",
+            "desc": ""
+        },
+        {
+            "hash": 199028227,
+            "original": "~z~Shoulda flown commercial.",
+            "translated": "~z~乘商业航班多好。",
+            "desc": ""
+        },
+        {
+            "hash": 238354480,
+            "original": "~z~Not so good, man. Turns out I don't make much of a subway bomber.",
+            "translated": "~z~不太顺利，兄弟。我似乎不太适合炸地铁。",
+            "desc": ""
+        },
+        {
+            "hash": 250293933,
+            "original": "E2T5_CA",
+            "translated": "E2T5_CA",
+            "desc": ""
+        },
+        {
+            "hash": 253095232,
+            "original": "~z~Piss off. I wanna die.",
+            "translated": "~z~滚啊，让我去死。",
+            "desc": ""
+        },
+        {
+            "hash": 267914239,
+            "original": "E2T5_JB",
+            "translated": "E2T5_JB",
+            "desc": ""
+        },
+        {
+            "hash": 355873719,
+            "original": "~z~I'm sorry. As much as I'd like to right now, I'm not letting you kill yourself.",
+            "translated": "~z~很抱歉。我也不想阻拦你，但我不会让你送死。",
+            "desc": ""
+        },
+        {
+            "hash": 377173175,
+            "original": "~z~What?",
+            "translated": "~z~咋了？",
+            "desc": ""
+        },
+        {
+            "hash": 421091767,
+            "original": "~z~Sooner or later...",
+            "translated": "~z~迟早的事...",
+            "desc": ""
+        },
+        {
+            "hash": 427688464,
+            "original": "~z~Whoa, over here. Over here. Over here.",
+            "translated": "~z~啊，过来。过来。过来。",
+            "desc": ""
+        },
+        {
+            "hash": 430885482,
+            "original": "E2T5_HE",
+            "translated": "E2T5_HE",
+            "desc": ""
+        },
+        {
+            "hash": 502631171,
+            "original": "~z~Okay man, if that's how you want it.",
+            "translated": "~z~行啊，想死我帮你。",
+            "desc": ""
+        },
+        {
+            "hash": 533111635,
+            "original": "~z~Maybe that's a good thing. I'll tell the brat he needs another demolition guy.",
+            "translated": "~z~也算是件好事。我让那个臭小子另请高明吧。",
+            "desc": ""
+        },
+        {
+            "hash": 534059701,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 539849200,
+            "original": "~z~He got a nice plane.",
+            "translated": "~z~这飞机真不错。",
+            "desc": ""
+        },
+        {
+            "hash": 561375646,
+            "original": "E2T5_DA",
+            "translated": "E2T5_DA",
+            "desc": ""
+        },
+        {
+            "hash": 567191498,
+            "original": "~z~He's in the bedroom.",
+            "translated": "~z~他在床上。",
+            "desc": ""
+        },
+        {
+            "hash": 621250910,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 621893285,
+            "original": "~z~Okay. What else?",
+            "translated": "~z~好的。然后呢？",
+            "desc": ""
+        },
+        {
+            "hash": 673601549,
+            "original": "~z~Th... th... the explosives.",
+            "translated": "~z~炸、炸、炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 678560854,
+            "original": "E2T5_HG",
+            "translated": "E2T5_HG",
+            "desc": ""
+        },
+        {
+            "hash": 716940431,
+            "original": "~z~Come on. Let's go, let's go.",
+            "translated": "~z~起来。我们走，我们走吧。",
+            "desc": ""
+        },
+        {
+            "hash": 719019777,
+            "original": "~z~I've got to. It's the only way we can survive. Get out my way.",
+            "translated": "~z~我必须做，不做没有活路。别拦我。",
+            "desc": ""
+        },
+        {
+            "hash": 735141522,
+            "original": "~z~Only when you want a plane to crash does it stay in the air. Figures. I'll tell him Lou... and thanks.",
+            "translated": "~z~想让飞机坠毁了，它倒平安无事。太对了。我会告诉他的，Lou...多谢。",
+            "desc": ""
+        },
+        {
+            "hash": 766098469,
+            "original": "~z~Where's Tony?",
+            "translated": "~z~Tony人呢？",
+            "desc": ""
+        },
+        {
+            "hash": 771556246,
+            "original": "~z~Dios mio!",
+            "translated": "~z~我的天！",
+            "desc": ""
+        },
+        {
+            "hash": 831350797,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 834213127,
+            "original": "~z~He ain't taking off today.",
+            "translated": "~z~他今天别想起飞。",
+            "desc": ""
+        },
+        {
+            "hash": 944062366,
+            "original": "~z~Better?",
+            "translated": "~z~醒了没？",
+            "desc": ""
+        },
+        {
+            "hash": 948807157,
+            "original": "~z~That's gonna take some cleaning up.",
+            "translated": "~z~得找人收拾现场了。",
+            "desc": ""
+        },
+        {
+            "hash": 972225840,
+            "original": "~z~Okay.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 987233648,
+            "original": "~z~Forgot what?",
+            "translated": "~z~忘拿啥了？",
+            "desc": ""
+        },
+        {
+            "hash": 991191383,
+            "original": "E2T5_JA",
+            "translated": "E2T5_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1005738166,
+            "original": "~z~What's your problem, man?",
+            "translated": "~z~你是不是有病啊，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 1022402941,
+            "original": "~z~Tony woulda killed himself.",
+            "translated": "~z~Tony会炸死自己的。",
+            "desc": ""
+        },
+        {
+            "hash": 1028282327,
+            "original": "~z~Let's find this dumb fuck and get outta here.",
+            "translated": "~z~干掉这傻逼就走。",
+            "desc": ""
+        },
+        {
+            "hash": 1034027812,
+            "original": "~z~Rocco's gone nuts. He's gonna burn the clubs down for insurance. He's gonna fucking kill us.",
+            "translated": "~z~Rocco气疯了。他打算把夜店烧了骗保。他会整死我们的。",
+            "desc": ""
+        },
+        {
+            "hash": 1054311582,
+            "original": "~z~Fair point.",
+            "translated": "~z~有道理。",
+            "desc": ""
+        },
+        {
+            "hash": 1059732408,
+            "original": "100090010090100090010100090010100010090010090010",
+            "translated": "100090010090100090010100090010100010090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 1140264380,
+            "original": "E2T5_JC",
+            "translated": "E2T5_JC",
+            "desc": ""
+        },
+        {
+            "hash": 1186457754,
+            "original": "~z~~x~",
+            "translated": "~z~~x~",
+            "desc": ""
+        },
+        {
+            "hash": 1189354062,
+            "original": "~z~Yeah, no doubt, boss. Now, where are you going?",
+            "translated": "~z~确实，老板。你现在要去哪？",
+            "desc": ""
+        },
+        {
+            "hash": 1197530581,
+            "original": "~z~Oh, great.",
+            "translated": "~z~哦，醒了。",
+            "desc": ""
+        },
+        {
+            "hash": 1259533160,
+            "original": "~z~Where this hotshot at?",
+            "translated": "~z~这家伙在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 1259763454,
+            "original": "~z~\"Hi Evan, like a drink?\"",
+            "translated": "~z~「嗨Evan，喝一杯吗？」",
+            "desc": ""
+        },
+        {
+            "hash": 1314180670,
+            "original": "~z~That's got to be him.",
+            "translated": "~z~这肯定是他。",
+            "desc": ""
+        },
+        {
+            "hash": 1321608858,
+            "original": "~z~I'm meant to take the whole thing out.",
+            "translated": "~z~我得把列车炸掉。",
+            "desc": ""
+        },
+        {
+            "hash": 1340909497,
+            "original": "~z~Explosives? Explosives?! What's wrong with you, man? You run a nightclub, not a terror cell.",
+            "translated": "~z~炸弹？炸弹？！你疯了吧，老兄？你是开夜店的，不是恐怖分子。",
+            "desc": ""
+        },
+        {
+            "hash": 1369866265,
+            "original": "E2T5_KB",
+            "translated": "E2T5_KB",
+            "desc": ""
+        },
+        {
+            "hash": 1369885417,
+            "original": "~z~What's that fuck got me into?",
+            "translated": "~z~那傻逼搞的都是啥事啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1390228032,
+            "original": "~z~The Transport Workers guy is driving an out of service subway train through North Holland.",
+            "translated": "~z~运输工会的人开着一辆未运营的地铁通过North Holland。",
+            "desc": ""
+        },
+        {
+            "hash": 1392970338,
+            "original": "~z~Wow, somebody's got his sister's underwear on by mistake.",
+            "translated": "~z~哇哦，戳到痛处让你气急败坏了？",
+            "desc": ""
+        },
+        {
+            "hash": 1430156171,
+            "original": "~z~Get off the track.",
+            "translated": "~z~脱轨吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1456935279,
+            "original": "~z~If it ain't Left Hook Lopez.",
+            "translated": "~z~这不是一拳超人Lopez吗。",
+            "desc": ""
+        },
+        {
+            "hash": 1462380973,
+            "original": "~z~You fucking hetero!",
+            "translated": "~z~该死的异性恋！",
+            "desc": ""
+        },
+        {
+            "hash": 1480855897,
+            "original": "~z~Where's Tony? Where's Tony? What's wrong with, \"Hi Evan, you're looking cut\".",
+            "translated": "~z~Tony人呢？Tony人呢？你为什么不说「嗨Evan，你身材真棒」？",
+            "desc": ""
+        },
+        {
+            "hash": 1489209303,
+            "original": "~z~Those private jets ain't safe.",
+            "translated": "~z~私人飞机可不安全。",
+            "desc": ""
+        },
+        {
+            "hash": 1513799931,
+            "original": "~z~What do you care about the business? You got your fucking head in the clouds. Huh?",
+            "translated": "~z~现在倒关心起业务来了？你就是站着说话不腰疼。",
+            "desc": ""
+        },
+        {
+            "hash": 1585895581,
+            "original": "~z~Hey Tone.",
+            "translated": "~z~嘿，Tone。",
+            "desc": ""
+        },
+        {
+            "hash": 1588172905,
+            "original": "~z~Yeah, good point.",
+            "translated": "~z~对，有道理。",
+            "desc": ""
+        },
+        {
+            "hash": 1609976122,
+            "original": "~z~And you'll probably blow yourself up as soon as you walk out the door. You ain't doing this.",
+            "translated": "~z~待会儿你一出门就把自己炸飞了。这事你做不了。",
+            "desc": ""
+        },
+        {
+            "hash": 1630489452,
+            "original": "~z~A subway train? Jesus Christ. Please tell me that's it.",
+            "translated": "~z~地铁列车？我的天。不会还有吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1631439451,
+            "original": "~z~What drugs are you on? I hope they're strong.",
+            "translated": "~z~你嗑了什么药？这药劲挺大啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1683835336,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1714746373,
+            "original": "~z~Too fucking close.",
+            "translated": "~z~就差一点。",
+            "desc": ""
+        },
+        {
+            "hash": 1761654210,
+            "original": "~z~Hey, T. How's the jaw?",
+            "translated": "~z~嘿，T。下巴还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1778657317,
+            "original": "~z~That's the train.",
+            "translated": "~z~就是这班车。",
+            "desc": ""
+        },
+        {
+            "hash": 1789409557,
+            "original": "~z~Okay. I know why you did that, so thank you. How'd it go?",
+            "translated": "~z~还好。我知道你为什么打我，谢谢你。还顺利吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1816914639,
+            "original": "SFX_PAUSE_480",
+            "translated": "SFX_PAUSE_480",
+            "desc": ""
+        },
+        {
+            "hash": 1823895380,
+            "original": "E2T5_HD",
+            "translated": "E2T5_HD",
+            "desc": ""
+        },
+        {
+            "hash": 1834575672,
+            "original": "~z~They got a guy digging up Frankfort Avenue for Liberty Electric.",
+            "translated": "~z~一个目标在Frankfort大道给自由城电力施工。",
+            "desc": ""
+        },
+        {
+            "hash": 1835120089,
+            "original": "~z~I'm good.",
+            "translated": "~z~我很好。",
+            "desc": ""
+        },
+        {
+            "hash": 1862407413,
+            "original": "E2T5_HJ",
+            "translated": "E2T5_HJ",
+            "desc": ""
+        },
+        {
+            "hash": 1872535660,
+            "original": "~z~Yeah I heard that before, T. If it's real this time, it's a good thing.",
+            "translated": "~z~之前也是这么说的，T。如果这次是认真的，那挺好。",
+            "desc": ""
+        },
+        {
+            "hash": 1873068957,
+            "original": "~z~Okay, I'm just going to admit that. Now would you shut the fuck up before I shut you up? Now where's Tony?",
+            "translated": "~z~这我不得不承认。你丫再不闭嘴，我帮你闭嘴。Tony在哪？",
+            "desc": ""
+        },
+        {
+            "hash": 1937993446,
+            "original": "~z~Yeah, he's gone crazy and you're running around with some bombs, okay.",
+            "translated": "~z~好，他发疯了，所以你带着炸弹乱跑，很好。",
+            "desc": ""
+        },
+        {
+            "hash": 2002491256,
+            "original": "100010090100090010100090010",
+            "translated": "100010090100090010100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2159352427,
+            "original": "E2T5_BA",
+            "translated": "E2T5_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2176074907,
+            "original": "~z~Thank you, partner. You should know that Evan's walked out on me. We're over.",
+            "translated": "~z~谢谢你，好兄弟。Evan已经和我分手了。我们结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 2237067009,
+            "original": "~z~Ay Dios mio. Evan, look, I've always thought that, even for a coke pushing steroid junkie, you were a particular asshole,",
+            "translated": "~z~天哪。Evan，听着，我一直在想，放眼所有打类固醇的瘾君子，你也是最混蛋的那个。",
+            "desc": ""
+        },
+        {
+            "hash": 2244427879,
+            "original": "~z~Get out the way!",
+            "translated": "~z~别堵路了！",
+            "desc": ""
+        },
+        {
+            "hash": 2278967973,
+            "original": "E2T5_FA",
+            "translated": "E2T5_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2403832664,
+            "original": "E2T5_JF",
+            "translated": "E2T5_JF",
+            "desc": ""
+        },
+        {
+            "hash": 2407547026,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2428927138,
+            "original": "~z~Now fuck off, Evan. You gave him the pills. Be gone before I get back.",
+            "translated": "~z~快滚吧，Evan。你让他嗑上药的。在我回来之前消失。",
+            "desc": ""
+        },
+        {
+            "hash": 2440376175,
+            "original": "~z~You think you're a big shot. You're a nothing and soon you gonna be a dead nothing.",
+            "translated": "~z~真把自己当回事了。你是个鸡巴，过两天还会变成烂鸡巴。",
+            "desc": ""
+        },
+        {
+            "hash": 2476360387,
+            "original": "~z~I got us into this mess...",
+            "translated": "~z~是我拖累你的...",
+            "desc": ""
+        },
+        {
+            "hash": 2484234583,
+            "original": "~z~Exactly, man.",
+            "translated": "~z~确实，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2498405447,
+            "original": "~z~Come on, papi. Let's go. This way. This way. Come on.",
+            "translated": "~z~好了，老兄。快走吧。这边，这边。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 2506117703,
+            "original": "~z~Fuck!",
+            "translated": "~z~操！",
+            "desc": ""
+        },
+        {
+            "hash": 2525368675,
+            "original": "~z~He refuses to get any work done. And p.s: the man's a wreck.",
+            "translated": "~z~而且还一事无成。PS：这人已经废了。",
+            "desc": ""
+        },
+        {
+            "hash": 2564702955,
+            "original": "E2T5_HB",
+            "translated": "E2T5_HB",
+            "desc": ""
+        },
+        {
+            "hash": 2579416868,
+            "original": "SFX_OVERLAP_1390",
+            "translated": "SFX_OVERLAP_1390",
+            "desc": ""
+        },
+        {
+            "hash": 2661987422,
+            "original": "E2T5_JE",
+            "translated": "E2T5_JE",
+            "desc": ""
+        },
+        {
+            "hash": 2672584243,
+            "original": "~z~These ain't safe.",
+            "translated": "~z~太不安全了。",
+            "desc": ""
+        },
+        {
+            "hash": 2686481641,
+            "original": "E2T5_HF",
+            "translated": "E2T5_HF",
+            "desc": ""
+        },
+        {
+            "hash": 2694224962,
+            "original": "~z~I should have let your parole officer put you back in prison all those years ago.",
+            "translated": "~z~想当年我就不该让假释官把你放出来。",
+            "desc": ""
+        },
+        {
+            "hash": 2707103735,
+            "original": "~z~Where this bitch at?",
+            "translated": "~z~贱人在哪里？",
+            "desc": ""
+        },
+        {
+            "hash": 2721501426,
+            "original": "~z~Blowing shit up ain't exactly your side of the business, okay? It's not your forte.",
+            "translated": "~z~爆破不在你的业务范围内吧？这不是你的强项。",
+            "desc": ""
+        },
+        {
+            "hash": 2747737493,
+            "original": "E2T5_KA",
+            "translated": "E2T5_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2760932857,
+            "original": "~z~There she goes.",
+            "translated": "~z~消失吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2777947976,
+            "original": "~z~You going somewhere?",
+            "translated": "~z~往哪跑呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2846938814,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 2853203887,
+            "original": "~z~Were you gonna let me take care of this explosive bullshit, or were you gonna insist on blowing yourself up?",
+            "translated": "~z~你是会让我出来安炸弹，还是会坚持把自己炸飞？",
+            "desc": ""
+        },
+        {
+            "hash": 2866010148,
+            "original": "E2T5_HI",
+            "translated": "E2T5_HI",
+            "desc": ""
+        },
+        {
+            "hash": 2873417079,
+            "original": "~z~Yeah! You coulda blown yourself up!",
+            "translated": "~z~可以！你差点要把自己炸上天！",
+            "desc": ""
+        },
+        {
+            "hash": 2891201791,
+            "original": "~z~Who cares about fucking Tony? The man's a neurotic. He's back on drugs. He's looking old.",
+            "translated": "~z~谁他妈在乎Tony？那家伙是神经病。他天天嗑药，人老珠黄。",
+            "desc": ""
+        },
+        {
+            "hash": 2896224303,
+            "original": "~z~My business partner punched me out, my boyfriend left me, could this day get any worse?",
+            "translated": "~z~我的合伙人给了我一拳，我的男朋友离开了我，今天还能再糟一点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2929808747,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2931964057,
+            "original": "~z~You said we had something to take care of. I ain't having you screw up.",
+            "translated": "~z~你说我们还有事要做。我不能让你犯迷糊。",
+            "desc": ""
+        },
+        {
+            "hash": 3011969688,
+            "original": "~z~Alright Lou.",
+            "translated": "~z~你好，Lou。",
+            "desc": ""
+        },
+        {
+            "hash": 3019732095,
+            "original": "~z~Yeah, I wish you'd talked to me about this first, man, okay.",
+            "translated": "~z~那你应该早点告诉我的，好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3099054490,
+            "original": "SFX_PAUSE_490",
+            "translated": "SFX_PAUSE_490",
+            "desc": ""
+        },
+        {
+            "hash": 3121659066,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3139227982,
+            "original": "~z~Let's go. Come on, you got it. Let's go.",
+            "translated": "~z~走吧。起来，能行的。我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 3157806224,
+            "original": "~z~I got something for you.",
+            "translated": "~z~有礼物要送给你。",
+            "desc": ""
+        },
+        {
+            "hash": 3196978792,
+            "original": "~z~Try and stop me.",
+            "translated": "~z~那就阻止我啊！",
+            "desc": ""
+        },
+        {
+            "hash": 3221017656,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3310276699,
+            "original": "E2T5_HC",
+            "translated": "E2T5_HC",
+            "desc": ""
+        },
+        {
+            "hash": 3327826237,
+            "original": "~z~It's the only way out. Either that, or they kill me.",
+            "translated": "~z~这是唯一的出路。处理不好，小命不保。",
+            "desc": ""
+        },
+        {
+            "hash": 3365336452,
+            "original": "~z~Then break up with him for the last time and fuck off out of all of our lives. Please.",
+            "translated": "~z~那麻烦你赶紧和他分手，就此滚出我们的视线。求你了。",
+            "desc": ""
+        },
+        {
+            "hash": 3367858818,
+            "original": "~z~Whoa oh here she comes. Watch out boy, she'll chew you up.",
+            "translated": "~z~她来了。小子当心，她会吃了你。",
+            "desc": ""
+        },
+        {
+            "hash": 3403831030,
+            "original": "~z~You need to concentrate on getting your own life together. See you soon.",
+            "translated": "~z~你要先把自己的生活搞好。之后见。",
+            "desc": ""
+        },
+        {
+            "hash": 3422985129,
+            "original": "E2T5_JD",
+            "translated": "E2T5_JD",
+            "desc": ""
+        },
+        {
+            "hash": 3459714205,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3476488372,
+            "original": "E2T5_KD",
+            "translated": "E2T5_KD",
+            "desc": ""
+        },
+        {
+            "hash": 3541349041,
+            "original": "~z~I told him I'd take care of his Union problems for him.",
+            "translated": "~z~我跟他保证会帮他解决工会问题的。",
+            "desc": ""
+        },
+        {
+            "hash": 3552147080,
+            "original": "~z~Hey Tony, get up.",
+            "translated": "~z~喂，Tony，起床了。",
+            "desc": ""
+        },
+        {
+            "hash": 3578623507,
+            "original": "E2T5_GA",
+            "translated": "E2T5_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3629296406,
+            "original": "~z~Come on? Fuck this.",
+            "translated": "~z~快点？操。",
+            "desc": ""
+        },
+        {
+            "hash": 3636400094,
+            "original": "E2T5_AA",
+            "translated": "E2T5_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3668907621,
+            "original": "~z~Whoa oh here she comes, she's a man eater.",
+            "translated": "~z~她来了，狐狸精来啦。",
+            "desc": ""
+        },
+        {
+            "hash": 3783528989,
+            "original": "~z~Ahh, piss off.",
+            "translated": "~z~啊，滚啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3787982281,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 3810119551,
+            "original": "~z~Shit, Tony. You're a real piece of fucking work, you know that?",
+            "translated": "~z~妈的，Tony。你他妈真该死，知道吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3825441429,
+            "original": "E2T5_KE",
+            "translated": "E2T5_KE",
+            "desc": ""
+        },
+        {
+            "hash": 3850767397,
+            "original": "E2T5_HA",
+            "translated": "E2T5_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3876094208,
+            "original": "E2T5_EA",
+            "translated": "E2T5_EA",
+            "desc": ""
+        },
+        {
+            "hash": 3882751980,
+            "original": "~z~You outta service.",
+            "translated": "~z~你下岗了。",
+            "desc": ""
+        },
+        {
+            "hash": 3953604693,
+            "original": "~z~Here she comes. Watch out boy, she'll chew you up.",
+            "translated": "~z~她来了。小子当心，她会吃了你。",
+            "desc": ""
+        },
+        {
+            "hash": 3975187548,
+            "original": "E2T5_HH",
+            "translated": "E2T5_HH",
+            "desc": ""
+        },
+        {
+            "hash": 3998691527,
+            "original": "100010090100010090100",
+            "translated": "100010090100010090100",
+            "desc": ""
+        },
+        {
+            "hash": 4009107229,
+            "original": "~z~He's dragging you down, man. He's a fucking parasite.",
+            "translated": "~z~他在拖你下水，伙计。他就是个寄生虫。",
+            "desc": ""
+        },
+        {
+            "hash": 4016678328,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 4048990658,
+            "original": "~z~Come on, get up man, let's go.",
+            "translated": "~z~快点，起床了，我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 4082822775,
+            "original": "~z~Oh, wait. Wait. Wait. Wait.",
+            "translated": "~z~哦，等等，等一下。",
+            "desc": ""
+        },
+        {
+            "hash": 4101869696,
+            "original": "~z~This is fucked up!",
+            "translated": "~z~什么鬼东西！",
+            "desc": ""
+        },
+        {
+            "hash": 4104571424,
+            "original": "~z~\"Hi Evan, if I wasn't straight I'd ravage you right now.\"",
+            "translated": "~z~「嗨Evan，我要是弯的，早就干死你了。」",
+            "desc": ""
+        },
+        {
+            "hash": 4194785380,
+            "original": "~z~Evan, where's Tony? He said meet him here.",
+            "translated": "~z~Evan，Tony在哪？他说来这找他。",
+            "desc": ""
+        },
+        {
+            "hash": 4206054320,
+            "original": "~z~Holiday's over, bro.",
+            "translated": "~z~假期结束了，老兄。",
+            "desc": ""
+        },
+        {
+            "hash": 4211511702,
+            "original": "~z~Was knocking me out really necessary?",
+            "translated": "~z~真有必要把我打晕吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4257142441,
+            "original": "~z~What about me? You guys can't just leave me here.",
+            "translated": "~z~那我呢？你们就这样把我晾着？",
+            "desc": ""
+        },
+        {
+            "hash": 4265958320,
+            "original": "E2T5_KC",
+            "translated": "E2T5_KC",
+            "desc": ""
+        },
+        {
+            "hash": 4280016702,
+            "original": "~z~Whoa oh here she comes, she's a man eater.",
+            "translated": "~z~她来了，狐狸精来啦。",
+            "desc": ""
+        },
+        {
+            "hash": 4281905955,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "RBULG2": [
+        {
+            "hash": 141915578,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 527302157,
+            "original": "Land on the ~b~truck.",
+            "translated": "降落到~b~卡车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 754883046,
+            "original": "Jump out of the window to escape.",
+            "translated": "跳窗逃离大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 1151294491,
+            "original": "I've picked up someone on the roof.",
+            "translated": "我发现有人在屋顶上。",
+            "desc": ""
+        },
+        {
+            "hash": 1218294946,
+            "original": "Get into the ~b~chopper.",
+            "translated": "进入~b~直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 1268705818,
+            "original": "Look, I don't know how he got there, just keep a lookout, I'm sending more men.",
+            "translated": "听着，我不知道他是怎么来到这里的，保持警惕，我会派更多人去。",
+            "desc": ""
+        },
+        {
+            "hash": 1271670219,
+            "original": "Get back into the ~b~chopper.",
+            "translated": "回到~b~直升机~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1308297231,
+            "original": "3",
+            "translated": "3",
+            "desc": ""
+        },
+        {
+            "hash": 1366591403,
+            "original": "REC DI C2",
+            "translated": "REC DI C2",
+            "desc": ""
+        },
+        {
+            "hash": 1410676099,
+            "original": "~r~You abandoned Timur.",
+            "translated": "~r~你抛弃了Timur。",
+            "desc": ""
+        },
+        {
+            "hash": 1624354236,
+            "original": "2",
+            "translated": "2",
+            "desc": ""
+        },
+        {
+            "hash": 1713021818,
+            "original": "~r~Timur's truck was destroyed.",
+            "translated": "~r~Timur的卡车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1778368536,
+            "original": "1",
+            "translated": "1",
+            "desc": ""
+        },
+        {
+            "hash": 1787375070,
+            "original": "Don't fly too close to the building.",
+            "translated": "不要飞得太靠近大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 1897924918,
+            "original": "Go to the ~y~heliport.",
+            "translated": "前往~y~停机坪。",
+            "desc": ""
+        },
+        {
+            "hash": 1902645095,
+            "original": "~r~You lost Timur.",
+            "translated": "~r~你失去了Timur。",
+            "desc": ""
+        },
+        {
+            "hash": 2087150823,
+            "original": "0",
+            "translated": "0",
+            "desc": ""
+        },
+        {
+            "hash": 2445201007,
+            "original": ":",
+            "translated": ":",
+            "desc": ""
+        },
+        {
+            "hash": 2478957819,
+            "original": "~r~You alerted Ashvilli.",
+            "translated": "~r~你惊动了Ashvilli。",
+            "desc": ""
+        },
+        {
+            "hash": 2599068145,
+            "original": "6",
+            "translated": "6",
+            "desc": ""
+        },
+        {
+            "hash": 2748825642,
+            "original": "Get in the ~b~truck.",
+            "translated": "进入~b~卡车。",
+            "desc": ""
+        },
+        {
+            "hash": 2890186629,
+            "original": "Go to the ~y~entrance.",
+            "translated": "前往~y~入口。",
+            "desc": ""
+        },
+        {
+            "hash": 2929392724,
+            "original": "Find ~r~Ashvilli ~s~and take him out.",
+            "translated": "找到~r~Ashvilli，~s~干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 3045265892,
+            "original": "~r~Timur is dead.",
+            "translated": "~r~Timur死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3076020940,
+            "original": "4",
+            "translated": "4",
+            "desc": ""
+        },
+        {
+            "hash": 3292296796,
+            "original": "Press ~PAD_Y~ to jump out of the helicopter.",
+            "translated": "按~PAD_Y~跳下直升机。",
+            "desc": ""
+        },
+        {
+            "hash": 3374120533,
+            "original": "7",
+            "translated": "7",
+            "desc": ""
+        },
+        {
+            "hash": 3402236339,
+            "original": "8",
+            "translated": "8",
+            "desc": ""
+        },
+        {
+            "hash": 3523002655,
+            "original": "Fly towards ~y~Star Junction, ~s~as high as possible.",
+            "translated": "飞向~y~星汇广场，~s~越高越好。",
+            "desc": ""
+        },
+        {
+            "hash": 3567561495,
+            "original": "Don't leave ~b~Timur ~s~behind.",
+            "translated": "别把~b~Timur~s~落下。",
+            "desc": ""
+        },
+        {
+            "hash": 3629041592,
+            "original": "~r~The chopper was destroyed.",
+            "translated": "~r~直升机被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3700378258,
+            "original": "Wait for ~b~Timur.",
+            "translated": "等待~b~Timur。",
+            "desc": ""
+        },
+        {
+            "hash": 3753571811,
+            "original": "Go back to the ~y~jump point.",
+            "translated": "返回~y~跳伞点。",
+            "desc": ""
+        },
+        {
+            "hash": 3819704947,
+            "original": "~r~You didn't kill Ashvilli.",
+            "translated": "~r~你没能杀死Ashvilli。",
+            "desc": ""
+        },
+        {
+            "hash": 3851401018,
+            "original": "5",
+            "translated": "5",
+            "desc": ""
+        },
+        {
+            "hash": 3860157932,
+            "original": "There are more ~r~bodyguards ~s~on your tail, take them out or escape.",
+            "translated": "更多~r~保镖~s~来追杀你了，干掉他们或者直接逃离。",
+            "desc": ""
+        },
+        {
+            "hash": 3892901443,
+            "original": "~r~You missed the building.",
+            "translated": "~r~你没能跳上大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 3897200711,
+            "original": "Jump out and parachute onto the ~y~building.",
+            "translated": "跳伞空降到~y~大楼~s~楼顶。",
+            "desc": ""
+        },
+        {
+            "hash": 3909198831,
+            "original": "Hold ~INPUT_VEH_CIN_CAM~ to focus on the next checkpoint.",
+            "translated": "按住~INPUT_VEH_CIN_CAM~将镜头对准下一检查点。",
+            "desc": ""
+        },
+        {
+            "hash": 4177157651,
+            "original": "9",
+            "translated": "9",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "MARG1": [
+        {
+            "hash": 477487190,
+            "original": "~r~You left Margot behind.~s~",
+            "translated": "~r~你丢下了Margot。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 960141799,
+            "original": "~r~Margot is dead.~s~",
+            "translated": "~r~Margot死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1135855626,
+            "original": "~s~Get Margot to the ~y~emergency room~s~ before she dies.~s~",
+            "translated": "~s~在Margot死之前把她送进~y~医院。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1260469684,
+            "original": "~r~You took too long and Margot died.~s~",
+            "translated": "~r~你的手脚太慢，Margot死了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1428843255,
+            "original": "~s~Go back and get ~b~Margot.~s~",
+            "translated": "~s~回去接~b~Margot。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1615823169,
+            "original": "~s~Lose the cops.~s~",
+            "translated": "~s~甩掉警察。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2133026106,
+            "original": "PLACEHOLDER~n~The players crazy ex confronts the player.~n~After an argument she tells the player she has OD'd.~n~The player has to get her to hospital before she dies.",
+            "translated": "PLACEHOLDER~n~The players crazy ex confronts the player.~n~After an argument she tells the player she has OD'd.~n~The player has to get her to hospital before she dies.",
+            "desc": ""
+        }
+    ]
+}

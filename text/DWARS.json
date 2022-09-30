@@ -1,0 +1,220 @@
+{
+    "DWARS": [
+        {
+            "hash": 17008549,
+            "original": "Take out the ~r~dealers ~s~to get the stash.",
+            "translated": "干掉~r~毒贩，~s~抢走毒品。",
+            "desc": ""
+        },
+        {
+            "hash": 41271771,
+            "original": "~r~You lost the shipment.",
+            "translated": "~r~你失去了货物。",
+            "desc": ""
+        },
+        {
+            "hash": 49401001,
+            "original": "The Sticky Bombs have been unlocked in your safehouse.",
+            "translated": "黏弹已在你的安全屋内解锁。",
+            "desc": ""
+        },
+        {
+            "hash": 338521908,
+            "original": "The Gold SMG has been unlocked in your safehouse.",
+            "translated": "黄金SMG已在你的安全屋内解锁。",
+            "desc": ""
+        },
+        {
+            "hash": 492748891,
+            "original": "Take the drugs vehicle to the ~y~drop off.",
+            "translated": "将运毒载具送到~y~卸货点。",
+            "desc": ""
+        },
+        {
+            "hash": 657361740,
+            "original": "~r~You have lost the drugs.",
+            "translated": "~r~你失去了毒品。",
+            "desc": ""
+        },
+        {
+            "hash": 790389718,
+            "original": "Steal the ~b~drugs vehicle.",
+            "translated": "偷走~b~运毒载具。",
+            "desc": ""
+        },
+        {
+            "hash": 871689899,
+            "original": "Take the stash to the ~y~drop off.",
+            "translated": "将毒品送到~y~卸货点。",
+            "desc": ""
+        },
+        {
+            "hash": 877045116,
+            "original": "~r~Your boat was destroyed.",
+            "translated": "~r~你的船被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 1127782700,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1174063320,
+            "original": "~r~The drugs vehicle is stuck.",
+            "translated": "~r~运毒载具坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 1319269379,
+            "original": "Drug Wars: The Highjack",
+            "translated": "毒品战争：虎口夺食",
+            "desc": ""
+        },
+        {
+            "hash": 1469869095,
+            "original": "~r~You have lost the cash.",
+            "translated": "~r~你失去了货款。",
+            "desc": ""
+        },
+        {
+            "hash": 1524372655,
+            "original": "~s~Holding ~INPUT_VEH_CIN_CAM~ will focus the camera on the target.",
+            "translated": "~s~按住~INPUT_VEH_CIN_CAM~将镜头对准目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1769698077,
+            "original": "Drug Wars: The Convoy",
+            "translated": "毒品战争：拦路抢劫",
+            "desc": ""
+        },
+        {
+            "hash": 1791843127,
+            "original": "Get back in the ~b~drugs vehicle.",
+            "translated": "回到~b~运毒载具~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 1823684701,
+            "original": "A rival gang is transporting some drugs. Intercept the convoy and steal the drugs vehicle.",
+            "translated": "敌对帮派正在运输毒品。抢走运毒载具，截下货物。",
+            "desc": ""
+        },
+        {
+            "hash": 1839132774,
+            "original": "Drug Wars: The Stash",
+            "translated": "毒品战争：打家劫舍",
+            "desc": ""
+        },
+        {
+            "hash": 1954236393,
+            "original": "You picked up the cash.",
+            "translated": "你已拾起货款。",
+            "desc": ""
+        },
+        {
+            "hash": 2144394904,
+            "original": "A rival gang has stashed a drugs vehicle. Steal this vehicle before they get a chance to move it.",
+            "translated": "敌对帮派装好了一辆运毒载具。在他们转移货物之前将其偷走。",
+            "desc": ""
+        },
+        {
+            "hash": 2167857508,
+            "original": "A rival gang has received a drugs shipment. You must steal the stash.",
+            "translated": "敌对帮派已收到货物。你必须偷走货物。",
+            "desc": ""
+        },
+        {
+            "hash": 2243979891,
+            "original": "You picked up the stash.",
+            "translated": "你已拾起毒品。",
+            "desc": ""
+        },
+        {
+            "hash": 2275317253,
+            "original": "Go get a ~b~boat ~s~from the dock.",
+            "translated": "去码头找一条~b~船。",
+            "desc": ""
+        },
+        {
+            "hash": 2371887212,
+            "original": "Go to the ~y~drug deal.",
+            "translated": "前往~y~交易现场。",
+            "desc": ""
+        },
+        {
+            "hash": 2762543129,
+            "original": "The Shotgun Ex has been unlocked in your safehouse.",
+            "translated": "爆炸霰弹枪已在你的安全屋内解锁。",
+            "desc": ""
+        },
+        {
+            "hash": 2827464705,
+            "original": "A drug deal is going down. One member of the rival gang will have the stash. Take them out and take the stuff.",
+            "translated": "一桩毒品交易正在进行。敌对帮派的成员之一持有毒品。干掉他们，拿走毒品。",
+            "desc": ""
+        },
+        {
+            "hash": 2990365159,
+            "original": "Drug Wars: The Stickup",
+            "translated": "毒品战争：浑水摸鱼",
+            "desc": ""
+        },
+        {
+            "hash": 3094263716,
+            "original": "The Advanced MG has been unlocked in your safehouse.",
+            "translated": "高级机枪已在你的安全屋内解锁。",
+            "desc": ""
+        },
+        {
+            "hash": 3371948222,
+            "original": "The 44 has been unlocked in your safehouse.",
+            "translated": ".44手枪已在你的安全屋内解锁。",
+            "desc": ""
+        },
+        {
+            "hash": 3405402837,
+            "original": "~r~The drugs vehicle was destroyed.",
+            "translated": "~r~运毒载具被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 3517655285,
+            "original": "Collect the ~g~cash.",
+            "translated": "拾取~g~货款。",
+            "desc": ""
+        },
+        {
+            "hash": 3752281337,
+            "original": "Steal the ~g~stash.",
+            "translated": "偷走~g~毒品。",
+            "desc": ""
+        },
+        {
+            "hash": 3965115980,
+            "original": "Collect the ~g~stash.",
+            "translated": "拾取~g~毒品。",
+            "desc": ""
+        },
+        {
+            "hash": 4128305600,
+            "original": "Take the stash to the ~y~drop off.",
+            "translated": "将~y~毒品~s~送到卸货点。",
+            "desc": ""
+        },
+        {
+            "hash": 4132303714,
+            "original": "Steal the ~b~drugs vehicle. ~s~Do not destroy it.",
+            "translated": "偷走~b~运毒载具。~s~别把它毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 4251531202,
+            "original": "~r~You lost the drugs vehicle.",
+            "translated": "~r~你失去了运毒载具。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,1696 @@
+{
+    "E2T7AUD": [
+        {
+            "hash": 57872754,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 67075915,
+            "original": "~z~Please tell me this is over. I'll never look at a guy in leather in the same way.",
+            "translated": "~z~请告诉我完事了。我再也没法直视穿皮衣的人了。",
+            "desc": ""
+        },
+        {
+            "hash": 70458554,
+            "original": "792",
+            "translated": "792",
+            "desc": ""
+        },
+        {
+            "hash": 83143933,
+            "original": "~z~His driver's getting far too far ahead of himself, huh. Delusions of adequacy, I suppose.",
+            "translated": "~z~他的司机太把自己当回事了，呵。自我意识过剩了属于是。",
+            "desc": ""
+        },
+        {
+            "hash": 86639636,
+            "original": "E2T7_OB",
+            "translated": "E2T7_OB",
+            "desc": ""
+        },
+        {
+            "hash": 102227817,
+            "original": "E2T7_NB",
+            "translated": "E2T7_NB",
+            "desc": ""
+        },
+        {
+            "hash": 130865495,
+            "original": "~z~You don't know everything, do you, Luis?",
+            "translated": "~z~你也不是啥都知道，是吧，Luis？",
+            "desc": ""
+        },
+        {
+            "hash": 133272497,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 136615964,
+            "original": "~z~It's time for a change and that change is me, honey.",
+            "translated": "~z~是时候改变了，我就是那个变量，亲爱的。",
+            "desc": ""
+        },
+        {
+            "hash": 149200418,
+            "original": "~z~I'm privy to the fact that the coke in your nose and the 'roids in your veins",
+            "translated": "~z~我还知道你鼻子里的可卡因和血管里的类固醇",
+            "desc": ""
+        },
+        {
+            "hash": 152018556,
+            "original": "~z~who's using Tony, and you only gonna be hanging around for two to three months, before Tony moves on to another chump.",
+            "translated": "~z~只想利用Tony。顶多再跳两三个月，Tony就会另寻新欢了。",
+            "desc": ""
+        },
+        {
+            "hash": 168189001,
+            "original": "~z~Haven't you got a job already?",
+            "translated": "~z~你就不找份工作吗？",
+            "desc": ""
+        },
+        {
+            "hash": 176293950,
+            "original": "E2T7_HA",
+            "translated": "E2T7_HA",
+            "desc": ""
+        },
+        {
+            "hash": 191140620,
+            "original": "E2T7_TC",
+            "translated": "E2T7_TC",
+            "desc": ""
+        },
+        {
+            "hash": 204311339,
+            "original": "~z~Take us out to East Hook then, Luis. Come on! Chop. Chop.",
+            "translated": "~z~带咱们去East Hook，Luis。走吧！快。快。",
+            "desc": ""
+        },
+        {
+            "hash": 237655819,
+            "original": "E2T7_TG",
+            "translated": "E2T7_TG",
+            "desc": ""
+        },
+        {
+            "hash": 251168147,
+            "original": "SFX_PAUSE_100",
+            "translated": "SFX_PAUSE_100",
+            "desc": ""
+        },
+        {
+            "hash": 264755245,
+            "original": "E2T7_LB",
+            "translated": "E2T7_LB",
+            "desc": ""
+        },
+        {
+            "hash": 265084192,
+            "original": "~z~We need to get out of here. Come on, Luis.",
+            "translated": "~z~赶紧离开这里。快点，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 272816409,
+            "original": "~z~Even fucking better, bro. Even better.",
+            "translated": "~z~情况更好了呢，更好了。",
+            "desc": ""
+        },
+        {
+            "hash": 287186782,
+            "original": "E2T7_PC",
+            "translated": "E2T7_PC",
+            "desc": ""
+        },
+        {
+            "hash": 287457306,
+            "original": "E2T7_EA",
+            "translated": "E2T7_EA",
+            "desc": ""
+        },
+        {
+            "hash": 353968654,
+            "original": "~z~Oh yeah, I forgot. You just snort the money, you don't know where it comes from.",
+            "translated": "~z~哦对，差点忘了。你不在乎钱的来头，能买到可卡因就行。",
+            "desc": ""
+        },
+        {
+            "hash": 390281955,
+            "original": "~z~I'm privy enough to know that you're a piece of shit",
+            "translated": "~z~我至少知道你是个傻逼，",
+            "desc": ""
+        },
+        {
+            "hash": 399208905,
+            "original": "E2T7_SH",
+            "translated": "E2T7_SH",
+            "desc": ""
+        },
+        {
+            "hash": 433325699,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 444330476,
+            "original": "~z~I think you got things the wrong way around there, bro.",
+            "translated": "~z~你好像搞错了吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 452143286,
+            "original": "~z~East Hook please, driver.",
+            "translated": "~z~去East Hook，司机。",
+            "desc": ""
+        },
+        {
+            "hash": 459002885,
+            "original": "200090200090020",
+            "translated": "200090200090020",
+            "desc": ""
+        },
+        {
+            "hash": 497765409,
+            "original": "~z~\"We've got no money left. They're going to repossess everything. Ughh, my life is shit.\"",
+            "translated": "~z~「我们没钱了。这些都要被收走了。啊，我的人生完了。」",
+            "desc": ""
+        },
+        {
+            "hash": 539019171,
+            "original": "200090020200090200200090020",
+            "translated": "200090020200090200200090020",
+            "desc": ""
+        },
+        {
+            "hash": 605887814,
+            "original": "020090020090200020090200090200",
+            "translated": "020090020090200020090200090200",
+            "desc": ""
+        },
+        {
+            "hash": 608723707,
+            "original": "~z~On, off, off, on. What can I say, that pathetic sack of shit needs me, and I need amusement.",
+            "translated": "~z~分，分，合，合。我能说啥，那可悲的窝囊废需要我，而我也需要乐子。",
+            "desc": ""
+        },
+        {
+            "hash": 626296899,
+            "original": "~z~Shit, Luis. Come on!",
+            "translated": "~z~操，Luis。走啊！",
+            "desc": ""
+        },
+        {
+            "hash": 629167961,
+            "original": "~z~are gonna send you worse out of control real soon.",
+            "translated": "~z~迟早会让你尝到自己种下的恶果。",
+            "desc": ""
+        },
+        {
+            "hash": 635546761,
+            "original": "SFX_PAUSE_440",
+            "translated": "SFX_PAUSE_440",
+            "desc": ""
+        },
+        {
+            "hash": 649668453,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 669882947,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 689148665,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 693177876,
+            "original": "E2T7_ACA",
+            "translated": "E2T7_ACA",
+            "desc": ""
+        },
+        {
+            "hash": 696003611,
+            "original": "~z~I just see you guys come and then disappear and the world keeps turning and the clubs keep running.",
+            "translated": "~z~我就看着你们来来去去，地球照转，夜店照开。",
+            "desc": ""
+        },
+        {
+            "hash": 709336263,
+            "original": "~z~I think my talents would be better spent full time at the company.",
+            "translated": "~z~我愿意把才干完全奉献给贵公司。",
+            "desc": ""
+        },
+        {
+            "hash": 716198498,
+            "original": "200090200090200200090200020200090200090200",
+            "translated": "200090200090200200090200020200090200090200",
+            "desc": ""
+        },
+        {
+            "hash": 731646084,
+            "original": "E2T7_RD",
+            "translated": "E2T7_RD",
+            "desc": ""
+        },
+        {
+            "hash": 736684188,
+            "original": "~z~Jesus, the amount of time it takes to turn him back into the Gay Tony people pay to hang out with,",
+            "translated": "~z~天，费了多少工夫才把他变回那个人见人爱的基佬Tony，",
+            "desc": ""
+        },
+        {
+            "hash": 737675008,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 744407454,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 761019838,
+            "original": "E2T7_MF",
+            "translated": "E2T7_MF",
+            "desc": ""
+        },
+        {
+            "hash": 769002230,
+            "original": "E2T7_ABA",
+            "translated": "E2T7_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 780482491,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 793228212,
+            "original": "E2T7_XA",
+            "translated": "E2T7_XA",
+            "desc": ""
+        },
+        {
+            "hash": 804778850,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 817370016,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 846020101,
+            "original": "~z~Fuck you, Luis. You're just jealous!",
+            "translated": "~z~操你妈，Luis。你就是嫉妒！",
+            "desc": ""
+        },
+        {
+            "hash": 852729406,
+            "original": "~z~See what I mean, always so serious. Don't worry, for once.",
+            "translated": "~z~看到没，总是那么严肃。这次就别多虑了。",
+            "desc": ""
+        },
+        {
+            "hash": 865020570,
+            "original": "~z~I think we're here.",
+            "translated": "~z~咱们到地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 870810165,
+            "original": "~z~Seriously, bro, you guys back on?",
+            "translated": "~z~说真的，兄弟，你们复合了？",
+            "desc": ""
+        },
+        {
+            "hash": 883006941,
+            "original": "E2T7_AAA",
+            "translated": "E2T7_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 889407124,
+            "original": "E2T7_MA",
+            "translated": "E2T7_MA",
+            "desc": ""
+        },
+        {
+            "hash": 936093738,
+            "original": "~z~Tony's skimmed ten percent off the agreed amount so we'll have some spending money.",
+            "translated": "~z~Tony私吞了货款的一成，当作我们的零用钱。",
+            "desc": ""
+        },
+        {
+            "hash": 938513708,
+            "original": "101101",
+            "translated": "101101",
+            "desc": ""
+        },
+        {
+            "hash": 951440323,
+            "original": "~z~Listen, Luis, no offense, but I don't know how much I'm allowed to tell you.",
+            "translated": "~z~听着，Luis，无意冒犯，但我不知道能跟你透露多少。",
+            "desc": ""
+        },
+        {
+            "hash": 953073011,
+            "original": "~z~That what you thinking about, you piece of shit. Get out of my face. Goodbye.",
+            "translated": "~z~你就想着这些是吧，你这人渣。从我面前消失。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 975308042,
+            "original": "~z~I mean, he's always in such a mood when he sees you. Whinge. Whinge. Whinge.",
+            "translated": "~z~真的，见到你他就没好心情了。惨啊，惨啊，惨啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1009693955,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 1024307890,
+            "original": "~z~I don't like the sound of this, bro.",
+            "translated": "~z~我有种不祥的预感，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1036630151,
+            "original": "~z~You the guy who keeps him up at night and feeds him pills so he's catatonic all day long. He don't need that shit.",
+            "translated": "~z~是你让他彻夜狂欢，用药喂得他神经兮兮。他不需要这些。",
+            "desc": ""
+        },
+        {
+            "hash": 1040759191,
+            "original": "~z~They're going to fucking kill us.",
+            "translated": "~z~他们想杀了咱们。",
+            "desc": ""
+        },
+        {
+            "hash": 1074531444,
+            "original": "~z~I'm also privy to the fact that you gonna be some fat trailer park queen back in the Midwest before you hit thirty.",
+            "translated": "~z~我更知道不到三十岁你就会流落中西部，活成拖车公园里的黄脸婆。",
+            "desc": ""
+        },
+        {
+            "hash": 1137788054,
+            "original": "~z~Oh, Lou Lou. You are such a downer.",
+            "translated": "~z~噢，Lou Lou。你真扫兴。",
+            "desc": ""
+        },
+        {
+            "hash": 1154138859,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 1181331829,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1200719474,
+            "original": "~z~Get them. Shit!",
+            "translated": "~z~干掉他们。操！",
+            "desc": ""
+        },
+        {
+            "hash": 1206610177,
+            "original": "~z~I ain't jealous. I feel bad for you. If you weren't so damn creepy, I'd feel pity.",
+            "translated": "~z~我不是嫉妒，兄弟，是替你悲哀。要不是你太恶心，我还挺同情你的。",
+            "desc": ""
+        },
+        {
+            "hash": 1230276824,
+            "original": "~z~Do you think Evan made it?",
+            "translated": "~z~你觉得Evan能逃掉吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1242199660,
+            "original": "~z~Really? I mean, how much information are you privy to? You're just the fucking driver, after all.",
+            "translated": "~z~可以吗？我说，你配知道多少？就一开车的而已。",
+            "desc": ""
+        },
+        {
+            "hash": 1249209857,
+            "original": "E2T7_UA",
+            "translated": "E2T7_UA",
+            "desc": ""
+        },
+        {
+            "hash": 1253829578,
+            "original": "E2T7_UB",
+            "translated": "E2T7_UB",
+            "desc": ""
+        },
+        {
+            "hash": 1264470123,
+            "original": "E2T7_SC",
+            "translated": "E2T7_SC",
+            "desc": ""
+        },
+        {
+            "hash": 1289710149,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1294365551,
+            "original": "~z~You're fucking jealous, Luis. Pent up because you are not getting your hands on my man.",
+            "translated": "~z~你他妈就是嫉妒，Luis。抢不到我的男友就只能抱怨。",
+            "desc": ""
+        },
+        {
+            "hash": 1332686670,
+            "original": "~z~I'll go with the driver and try to rebuild my psyche. Luis, you take Evan.",
+            "translated": "~z~我坐司机的车，好好缓一缓。Luis，你来载Evan。",
+            "desc": ""
+        },
+        {
+            "hash": 1350819342,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 1367998153,
+            "original": "E2T7_MB",
+            "translated": "E2T7_MB",
+            "desc": ""
+        },
+        {
+            "hash": 1368645659,
+            "original": "~z~I, on the other hand, am the fucking idiot who keeps him alive and out of jail.",
+            "translated": "~z~我就不一样了，忙着帮他擦屁股保命，省得坐牢。",
+            "desc": ""
+        },
+        {
+            "hash": 1415154409,
+            "original": "011",
+            "translated": "011",
+            "desc": ""
+        },
+        {
+            "hash": 1462564886,
+            "original": "~z~How the fuck should I know? I'm the looks, not the accountant.",
+            "translated": "~z~我他妈怎么知道？我是他情人，又不是会计。",
+            "desc": ""
+        },
+        {
+            "hash": 1475064817,
+            "original": "E2T7_TE",
+            "translated": "E2T7_TE",
+            "desc": ""
+        },
+        {
+            "hash": 1475419813,
+            "original": "E2T7_OF",
+            "translated": "E2T7_OF",
+            "desc": ""
+        },
+        {
+            "hash": 1484032565,
+            "original": "~z~Get that asshole.",
+            "translated": "~z~干掉那个混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1484382723,
+            "original": "E2T7_QC",
+            "translated": "E2T7_QC",
+            "desc": ""
+        },
+        {
+            "hash": 1487054708,
+            "original": "~z~I hope Evan is okay.",
+            "translated": "~z~希望Evan没事。",
+            "desc": ""
+        },
+        {
+            "hash": 1545532255,
+            "original": "E2T7_UJ",
+            "translated": "E2T7_UJ",
+            "desc": ""
+        },
+        {
+            "hash": 1548861078,
+            "original": "E2T7_VA",
+            "translated": "E2T7_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1555432421,
+            "original": "E2T7_UG",
+            "translated": "E2T7_UG",
+            "desc": ""
+        },
+        {
+            "hash": 1563461174,
+            "original": "~z~It's just you and me left, Luis. Huh huh. Let's split it all - fifty fifty?",
+            "translated": "~z~就剩咱俩了，Luis。 *抽泣* 把钱分了吧，五五开？",
+            "desc": ""
+        },
+        {
+            "hash": 1563682879,
+            "original": "E2T7_RB",
+            "translated": "E2T7_RB",
+            "desc": ""
+        },
+        {
+            "hash": 1591469195,
+            "original": "~z~You take Evan, Lou. I'll go with the driver. I could do with not talking.",
+            "translated": "~z~你带Evan，Lou。我跟司机。我想先安静会儿。",
+            "desc": ""
+        },
+        {
+            "hash": 1604800372,
+            "original": "E2T7_ZA2",
+            "translated": "E2T7_ZA2",
+            "desc": ""
+        },
+        {
+            "hash": 1621281048,
+            "original": "392",
+            "translated": "392",
+            "desc": ""
+        },
+        {
+            "hash": 1638598487,
+            "original": "~z~If you say something nice, I'll think about it.",
+            "translated": "~z~嘴巴够甜的话，我会考虑一下的。",
+            "desc": ""
+        },
+        {
+            "hash": 1665207993,
+            "original": "~z~Oh, is that a fact?",
+            "translated": "~z~噢，是吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1672383196,
+            "original": "~z~This is it.",
+            "translated": "~z~就是这里。",
+            "desc": ""
+        },
+        {
+            "hash": 1680228251,
+            "original": "~z~Keep 'em off us, Lou.",
+            "translated": "~z~炸飞他们，Lou。",
+            "desc": ""
+        },
+        {
+            "hash": 1690489175,
+            "original": "~z~I could get used to you driving me around. I might have to do it more often.",
+            "translated": "~z~我会习惯由你接送的，可能得多找你。",
+            "desc": ""
+        },
+        {
+            "hash": 1698103782,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 1716323571,
+            "original": "E2T7_TF2",
+            "translated": "E2T7_TF2",
+            "desc": ""
+        },
+        {
+            "hash": 1717379675,
+            "original": "~z~Nowhere to run now, creep!",
+            "translated": "~z~无路可逃啦，小白脸！",
+            "desc": ""
+        },
+        {
+            "hash": 1718052961,
+            "original": "020090020090020200090020",
+            "translated": "020090020090020200090020",
+            "desc": ""
+        },
+        {
+            "hash": 1752588726,
+            "original": "E2T7_KA",
+            "translated": "E2T7_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1756696157,
+            "original": "~z~I ain't no downer, you fucking moron, I'm just trying to stop Tony from throwing his life and our business away.",
+            "translated": "~z~我才不是来扫兴的，蠢货。我是在阻止Tony搞砸自己的生活和事业。",
+            "desc": ""
+        },
+        {
+            "hash": 1771918964,
+            "original": "E2T7_TD",
+            "translated": "E2T7_TD",
+            "desc": ""
+        },
+        {
+            "hash": 1776431173,
+            "original": "~z~Ughh, that attitude's not gonna get you anywhere, sweetie. You better say something nice to me.",
+            "translated": "~z~唉，这可不是求人办事的态度啊，宝贝。嘴要放甜一点。",
+            "desc": ""
+        },
+        {
+            "hash": 1786729976,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 1789980615,
+            "original": "~z~What's this? Why is the driver talking to me? Hello! I don't speak to the help.",
+            "translated": "~z~什么情况？车夫在跟我说话吗？听好！我不跟下人说话的。",
+            "desc": ""
+        },
+        {
+            "hash": 1790075328,
+            "original": "~z~Now, tell me what the fuck we doing right now!",
+            "translated": "~z~告诉老子这是要去干嘛！",
+            "desc": ""
+        },
+        {
+            "hash": 1823667855,
+            "original": "~z~Fuck. Blow them up with these, Luis. I really don't want to die today.",
+            "translated": "~z~操。用这个炸飞他们，Luis。我今天真不想死。",
+            "desc": ""
+        },
+        {
+            "hash": 1831353511,
+            "original": "~z~What do you mean, Evan, tell me everything you know.",
+            "translated": "~z~什么意思，Evan？全都交代清楚。",
+            "desc": ""
+        },
+        {
+            "hash": 1844833457,
+            "original": "~z~I thought we froze your allowance? What with the economy and all.",
+            "translated": "~z~我们没把你的零花钱停掉？这都经济危机了。",
+            "desc": ""
+        },
+        {
+            "hash": 1860523609,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 1871523518,
+            "original": "SFX_PAUSE_140",
+            "translated": "SFX_PAUSE_140",
+            "desc": ""
+        },
+        {
+            "hash": 1872886784,
+            "original": "E2T7_FA",
+            "translated": "E2T7_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1924856919,
+            "original": "E2T7_ZA1",
+            "translated": "E2T7_ZA1",
+            "desc": ""
+        },
+        {
+            "hash": 1946464036,
+            "original": "E2T7_QA",
+            "translated": "E2T7_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1947283545,
+            "original": "~z~Yeah, we need someone to lick out the toilet bowls.",
+            "translated": "~z~好，店里正好缺一个舔马桶的。",
+            "desc": ""
+        },
+        {
+            "hash": 1953225142,
+            "original": "020090200020090200",
+            "translated": "020090200020090200",
+            "desc": ""
+        },
+        {
+            "hash": 1969892947,
+            "original": "~z~Here's where Tony said to meet him.",
+            "translated": "~z~这就是Tony说的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 1970604071,
+            "original": "~z~Take these bombs, Luis. I don't want to die here.",
+            "translated": "~z~拿上这些黏弹，Luis。我不想死在这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 1971071059,
+            "original": "201",
+            "translated": "201",
+            "desc": ""
+        },
+        {
+            "hash": 1987056014,
+            "original": "101091101",
+            "translated": "101091101",
+            "desc": ""
+        },
+        {
+            "hash": 2007625476,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 2012474614,
+            "original": "E2T7_OD",
+            "translated": "E2T7_OD",
+            "desc": ""
+        },
+        {
+            "hash": 2047547536,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 2059875399,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2112397198,
+            "original": "~z~Thanks for this Tony. I was thinking we needed more excitement. Let's do it then.",
+            "translated": "~z~谢谢啊，Tony。刚才我还嫌不够刺激。来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2122423075,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 2127921028,
+            "original": "E2T7_TF1",
+            "translated": "E2T7_TF1",
+            "desc": ""
+        },
+        {
+            "hash": 2133542281,
+            "original": "~z~Life is so dull.",
+            "translated": "~z~人生真是无趣。",
+            "desc": ""
+        },
+        {
+            "hash": 2146633655,
+            "original": "~z~and you don't get where he is by signing shit over to a piece of pumped up ass.",
+            "translated": "~z~不可能签个字就把一切转让给你这个傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2160368622,
+            "original": "~z~Yo, E, I thought you and Tony was split up.",
+            "translated": "~z~哟，E，你和Tony不是分手了吗。",
+            "desc": ""
+        },
+        {
+            "hash": 2165728387,
+            "original": "~z~What exactly are we doing, man?",
+            "translated": "~z~我们这是去干嘛，哥们？",
+            "desc": ""
+        },
+        {
+            "hash": 2168544198,
+            "original": "~z~Kill 'em, kill 'em!",
+            "translated": "~z~干死他们，干死他们！",
+            "desc": ""
+        },
+        {
+            "hash": 2177566415,
+            "original": "~z~This windscreen's useless.",
+            "translated": "~z~挡风玻璃真碍事。",
+            "desc": ""
+        },
+        {
+            "hash": 2179104649,
+            "original": "E2T7_PE",
+            "translated": "E2T7_PE",
+            "desc": ""
+        },
+        {
+            "hash": 2180675005,
+            "original": "~z~You see, Luis. This is why I need to play a bigger role in the organisation. Things fuck up when you're involved.",
+            "translated": "~z~你看吧，Luis。所以才需要我来接手一切。你参与的事情总会搞砸。",
+            "desc": ""
+        },
+        {
+            "hash": 2183241069,
+            "original": "E2T7_BNA",
+            "translated": "E2T7_BNA",
+            "desc": ""
+        },
+        {
+            "hash": 2201278482,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 2201287832,
+            "original": "~z~These fucking people.",
+            "translated": "~z~这些屌人。",
+            "desc": ""
+        },
+        {
+            "hash": 2238062779,
+            "original": "101091101",
+            "translated": "101091101",
+            "desc": ""
+        },
+        {
+            "hash": 2242590465,
+            "original": "E2T7_RA",
+            "translated": "E2T7_RA",
+            "desc": ""
+        },
+        {
+            "hash": 2243564885,
+            "original": "E2T7_QE2",
+            "translated": "E2T7_QE2",
+            "desc": ""
+        },
+        {
+            "hash": 2247329497,
+            "original": "020090200020090200020090200090200090020",
+            "translated": "020090200020090200020090200090200090020",
+            "desc": ""
+        },
+        {
+            "hash": 2252855624,
+            "original": "E2T7_UF",
+            "translated": "E2T7_UF",
+            "desc": ""
+        },
+        {
+            "hash": 2276400771,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 2277944522,
+            "original": "~z~Keep them off us, Luis. Use these bombs.",
+            "translated": "~z~干翻他们，Luis。用黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2280053293,
+            "original": "692",
+            "translated": "692",
+            "desc": ""
+        },
+        {
+            "hash": 2295680802,
+            "original": "E2T7_JA",
+            "translated": "E2T7_JA",
+            "desc": ""
+        },
+        {
+            "hash": 2311577785,
+            "original": "~z~I'll go with the driver, Lou. I need a bit of peace. Take Evan for me.",
+            "translated": "~z~我跟司机一块，Lou。需要清净一会儿。你负责带Evan。",
+            "desc": ""
+        },
+        {
+            "hash": 2317563043,
+            "original": "200090200090020020020090020200090020090020200090020",
+            "translated": "200090200090020020020090020200090020090020200090020",
+            "desc": ""
+        },
+        {
+            "hash": 2325589000,
+            "original": "E2T7_IB",
+            "translated": "E2T7_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2327104354,
+            "original": "E2T7_AAB",
+            "translated": "E2T7_AAB",
+            "desc": ""
+        },
+        {
+            "hash": 2352249908,
+            "original": "020020090020090020090020020200",
+            "translated": "020020090020090020090020020200",
+            "desc": ""
+        },
+        {
+            "hash": 2362820877,
+            "original": "E2T7_SB",
+            "translated": "E2T7_SB",
+            "desc": ""
+        },
+        {
+            "hash": 2367035758,
+            "original": "~z~Let's see his guts, men.",
+            "translated": "~z~给他开肠剖肚，各位。",
+            "desc": ""
+        },
+        {
+            "hash": 2397793604,
+            "original": "E2T7_UE",
+            "translated": "E2T7_UE",
+            "desc": ""
+        },
+        {
+            "hash": 2402684984,
+            "original": "~z~No, Evan, they fuck up when you're involved. Now get out of my face. So long, asshole.",
+            "translated": "~z~不，Evan，有你在才会搞砸的。从我面前消失。再见，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2412310949,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2432476466,
+            "original": "~z~We got some severely inhibited viewing with this thing.",
+            "translated": "~z~被这玩意挡着屁都看不到。",
+            "desc": ""
+        },
+        {
+            "hash": 2445547784,
+            "original": "E2T7_PF",
+            "translated": "E2T7_PF",
+            "desc": ""
+        },
+        {
+            "hash": 2451166937,
+            "original": "E2T7_SD",
+            "translated": "E2T7_SD",
+            "desc": ""
+        },
+        {
+            "hash": 2462119205,
+            "original": "~z~Get in here. Come on.",
+            "translated": "~z~快上车。快。",
+            "desc": ""
+        },
+        {
+            "hash": 2463046892,
+            "original": "~z~Help us. Shit. What the fuck has Rocco gotten us into?",
+            "translated": "~z~救救咱们，操。Rocco都找的什么破事啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2484760802,
+            "original": "E2T7_UD",
+            "translated": "E2T7_UD",
+            "desc": ""
+        },
+        {
+            "hash": 2526045622,
+            "original": "~z~The money could be Rocco's, it could be Gracie's, who cares? We're getting some ice, baby.",
+            "translated": "~z~钱可能是Rocco的，也可能是Gracie的，重要吗？我们要换的可是钻石，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2555724143,
+            "original": "~z~I deserve that allowance hike and more! I should be on the payroll, just like you.",
+            "translated": "~z~我的零花钱可不是白涨的！就该像你一样有工资拿。",
+            "desc": ""
+        },
+        {
+            "hash": 2558284981,
+            "original": "~z~Come on then.",
+            "translated": "~z~开干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2564419540,
+            "original": "~z~More like hand to nose.",
+            "translated": "~z~倒是吸得起毒。",
+            "desc": ""
+        },
+        {
+            "hash": 2574545447,
+            "original": "E2T7_QE1",
+            "translated": "E2T7_QE1",
+            "desc": ""
+        },
+        {
+            "hash": 2579343485,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2583243938,
+            "original": "SFX_PAUSE_190",
+            "translated": "SFX_PAUSE_190",
+            "desc": ""
+        },
+        {
+            "hash": 2604744654,
+            "original": "~z~Come back here, motherfucker.",
+            "translated": "~z~滚回来，傻屌。",
+            "desc": ""
+        },
+        {
+            "hash": 2606871992,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 2608790282,
+            "original": "~z~Tell me what's fucking happening!",
+            "translated": "~z~告诉我怎么回事！",
+            "desc": ""
+        },
+        {
+            "hash": 2626236512,
+            "original": "~z~Just keep them away from us.",
+            "translated": "~z~别让他们追上了。",
+            "desc": ""
+        },
+        {
+            "hash": 2634497025,
+            "original": "E2T7_OG",
+            "translated": "E2T7_OG",
+            "desc": ""
+        },
+        {
+            "hash": 2663431363,
+            "original": "~z~See you in hell, limp dick.",
+            "translated": "~z~地狱见，弱鸡。",
+            "desc": ""
+        },
+        {
+            "hash": 2667733278,
+            "original": "E2T7_SA",
+            "translated": "E2T7_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2688695122,
+            "original": "E2T7_OC",
+            "translated": "E2T7_OC",
+            "desc": ""
+        },
+        {
+            "hash": 2690451976,
+            "original": "E2T7_QB",
+            "translated": "E2T7_QB",
+            "desc": ""
+        },
+        {
+            "hash": 2700768492,
+            "original": "E2T7_LD",
+            "translated": "E2T7_LD",
+            "desc": ""
+        },
+        {
+            "hash": 2701758902,
+            "original": "~z~Get in! Let's go!",
+            "translated": "~z~上车！快走！",
+            "desc": ""
+        },
+        {
+            "hash": 2708690062,
+            "original": "E2T7_PD",
+            "translated": "E2T7_PD",
+            "desc": ""
+        },
+        {
+            "hash": 2732399454,
+            "original": "~z~Welcome to hell!",
+            "translated": "~z~欢迎来到地狱！",
+            "desc": ""
+        },
+        {
+            "hash": 2739834968,
+            "original": "~z~Ay Dios mio. Where did Tony get that kind of cash, bro?",
+            "translated": "~z~我的天哪。Tony哪来的这么多钱，兄弟？",
+            "desc": ""
+        },
+        {
+            "hash": 2800589103,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 2812736266,
+            "original": "~z~I guess we doing this. And thanks for the warning, T. really appreciated.",
+            "translated": "~z~看来必须动手了。多谢你提醒，T。非常感谢。",
+            "desc": ""
+        },
+        {
+            "hash": 2816941377,
+            "original": "E2T7_ND",
+            "translated": "E2T7_ND",
+            "desc": ""
+        },
+        {
+            "hash": 2822232507,
+            "original": "~z~I got you, you son of a bitch.",
+            "translated": "~z~逮到你了，王八蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2828521585,
+            "original": "~z~Say goodbye to your face.",
+            "translated": "~z~跟你的小命告别吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2842486078,
+            "original": "E2T7_ZB",
+            "translated": "E2T7_ZB",
+            "desc": ""
+        },
+        {
+            "hash": 2852353828,
+            "original": "~z~Thinking about becoming a partner in the club business, too. Tony needs all the help he can get.",
+            "translated": "~z~我还想当夜店生意的合伙人。Tony需要更多帮手。",
+            "desc": ""
+        },
+        {
+            "hash": 2861812857,
+            "original": "~z~I should have people to handle this shit for me.",
+            "translated": "~z~就该找别人来交易的。",
+            "desc": ""
+        },
+        {
+            "hash": 2872696652,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 2889642421,
+            "original": "E2T7_IA",
+            "translated": "E2T7_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2915183687,
+            "original": "E2T7_NC",
+            "translated": "E2T7_NC",
+            "desc": ""
+        },
+        {
+            "hash": 2931924091,
+            "original": "E2T7_UH",
+            "translated": "E2T7_UH",
+            "desc": ""
+        },
+        {
+            "hash": 2939344307,
+            "original": "~z~Someone must have tipped these bikers off.",
+            "translated": "~z~肯定有人放风给这帮飞车党了。",
+            "desc": ""
+        },
+        {
+            "hash": 2945985385,
+            "original": "E2T7_UC2",
+            "translated": "E2T7_UC2",
+            "desc": ""
+        },
+        {
+            "hash": 2978302286,
+            "original": "E2T7_MC",
+            "translated": "E2T7_MC",
+            "desc": ""
+        },
+        {
+            "hash": 3012061769,
+            "original": "~z~I can't see shit through this windscreen.",
+            "translated": "~z~视野被挡风玻璃挡住了。",
+            "desc": ""
+        },
+        {
+            "hash": 3018958355,
+            "original": "~z~Shit, Tony's living hand to mouth.",
+            "translated": "~z~妈的，Tony都揭不开锅了。",
+            "desc": ""
+        },
+        {
+            "hash": 3029319363,
+            "original": "~z~Ha, we got you in the bag now, motherfucker!",
+            "translated": "~z~哈，逮到你了，王八蛋！",
+            "desc": ""
+        },
+        {
+            "hash": 3032148469,
+            "original": "E2T7_PB",
+            "translated": "E2T7_PB",
+            "desc": ""
+        },
+        {
+            "hash": 3051021063,
+            "original": "~z~Shit. Shit. Shit. Shit. Shit.",
+            "translated": "~z~操。操。操。操。操。",
+            "desc": ""
+        },
+        {
+            "hash": 3054843365,
+            "original": "~z~We're buying diamonds. Two million dollars' worth.",
+            "translated": "~z~去买钻石，值两百万呢。",
+            "desc": ""
+        },
+        {
+            "hash": 3074669488,
+            "original": "~z~Shit, limos. I know I had a big night when there's one of these stupid things waiting.",
+            "translated": "~z~操，礼车。看见它我就知道昨晚玩得有多大了。",
+            "desc": ""
+        },
+        {
+            "hash": 3083626266,
+            "original": "E2T7_OA",
+            "translated": "E2T7_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3085112668,
+            "original": "892",
+            "translated": "892",
+            "desc": ""
+        },
+        {
+            "hash": 3088982539,
+            "original": "SFX_PAUSE_370",
+            "translated": "SFX_PAUSE_370",
+            "desc": ""
+        },
+        {
+            "hash": 3176415833,
+            "original": "~z~Thanks a lot, Tone.",
+            "translated": "~z~谢谢你啊，Tone。",
+            "desc": ""
+        },
+        {
+            "hash": 3192393692,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 3204843068,
+            "original": "~z~Yeah, that ain't happening, bro.",
+            "translated": "~z~是啊，做梦吧你，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3205776978,
+            "original": "~z~Yeah. We can see where the business has got to with your involvement.",
+            "translated": "~z~是啊。大家都知道生意被你搞成了什么鬼样。",
+            "desc": ""
+        },
+        {
+            "hash": 3222064113,
+            "original": "~z~Oh my god, Tony's gone.",
+            "translated": "~z~天啊，Tony挂了。",
+            "desc": ""
+        },
+        {
+            "hash": 3225205260,
+            "original": "E2T7_LC",
+            "translated": "E2T7_LC",
+            "desc": ""
+        },
+        {
+            "hash": 3230163768,
+            "original": "E2T7_ME",
+            "translated": "E2T7_ME",
+            "desc": ""
+        },
+        {
+            "hash": 3231991192,
+            "original": "E2T7_SG",
+            "translated": "E2T7_SG",
+            "desc": ""
+        },
+        {
+            "hash": 3243559526,
+            "original": "~z~Just you and me, man. Fantastic.",
+            "translated": "~z~还是二人世界，好极了。",
+            "desc": ""
+        },
+        {
+            "hash": 3250371016,
+            "original": "E2T7_LA",
+            "translated": "E2T7_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3262348425,
+            "original": "020090200020090200020090200020",
+            "translated": "020090200020090200020090200020",
+            "desc": ""
+        },
+        {
+            "hash": 3263187216,
+            "original": "~z~You can get Tony fucked up like no one else can, Evan. That nice enough?",
+            "translated": "~z~你干翻Tony的本事无人能比，Evan。这样够不够？",
+            "desc": ""
+        },
+        {
+            "hash": 3336539316,
+            "original": "E2T7_OE",
+            "translated": "E2T7_OE",
+            "desc": ""
+        },
+        {
+            "hash": 3343498024,
+            "original": "E2T7_SF",
+            "translated": "E2T7_SF",
+            "desc": ""
+        },
+        {
+            "hash": 3344122156,
+            "original": "SFX_PAUSE_380",
+            "translated": "SFX_PAUSE_380",
+            "desc": ""
+        },
+        {
+            "hash": 3392410132,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 3429973472,
+            "original": "E2T7_MG",
+            "translated": "E2T7_MG",
+            "desc": ""
+        },
+        {
+            "hash": 3450289771,
+            "original": "~z~Fraid not, Lou Lou. I got a hike as part of my getting back together deal.",
+            "translated": "~z~还真没有，Lou Lou。涨零花钱是复合的条件之一。",
+            "desc": ""
+        },
+        {
+            "hash": 3472479235,
+            "original": "200020",
+            "translated": "200020",
+            "desc": ""
+        },
+        {
+            "hash": 3473016455,
+            "original": "E2T7_MD",
+            "translated": "E2T7_MD",
+            "desc": ""
+        },
+        {
+            "hash": 3485195543,
+            "original": "E2T7_UI",
+            "translated": "E2T7_UI",
+            "desc": ""
+        },
+        {
+            "hash": 3515935964,
+            "original": "~z~What are we doing going to the docks in East Hook?",
+            "translated": "~z~我们去East Hook的码头干什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3520162764,
+            "original": "~z~I've got to warn you Luis, I'm going to be very hands-on and you're not going to like all of my changes.",
+            "translated": "~z~我警告你，Luis，到时候我事必躬亲，你不会喜欢那些变化的。",
+            "desc": ""
+        },
+        {
+            "hash": 3521129456,
+            "original": "~z~You musta had Tony under the influence of some serious shit when he said he'd take you on,",
+            "translated": "~z~得下多猛的药才能让Tony跟你搭伙做生意，",
+            "desc": ""
+        },
+        {
+            "hash": 3541200341,
+            "original": "~z~Left me with my favorite person. Perfect.",
+            "translated": "~z~是我最爱的傻逼。真棒。",
+            "desc": ""
+        },
+        {
+            "hash": 3548797618,
+            "original": "E2T7_RE",
+            "translated": "E2T7_RE",
+            "desc": ""
+        },
+        {
+            "hash": 3567499795,
+            "original": "~z~Yes, you are! And the last thing a club owner needs is to stop being fun.",
+            "translated": "~z~是，没错！夜店老板最不需要的就是停止作乐。",
+            "desc": ""
+        },
+        {
+            "hash": 3598610700,
+            "original": "~z~Aww, sweet. Thank you, Luis. Tony is more fun when I'm around. What do you want to know?",
+            "translated": "~z~噢，过奖。谢谢你，Luis。我在的时候Tony更开心。你想知道什么？",
+            "desc": ""
+        },
+        {
+            "hash": 3612466073,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3618598370,
+            "original": "E2T7_TA",
+            "translated": "E2T7_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3655051882,
+            "original": "E2T7_HB",
+            "translated": "E2T7_HB",
+            "desc": ""
+        },
+        {
+            "hash": 3671281682,
+            "original": "~z~I was looking forward to him upgrading. You know, to a newer, less annoying model.",
+            "translated": "~z~我还盼着他找个新欢呢。找个没那么烦人的模特。",
+            "desc": ""
+        },
+        {
+            "hash": 3709446088,
+            "original": "SFX_PAUSE_180",
+            "translated": "SFX_PAUSE_180",
+            "desc": ""
+        },
+        {
+            "hash": 3716570451,
+            "original": "E2T7_AA",
+            "translated": "E2T7_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3727657671,
+            "original": "SFX_PAUSE_270",
+            "translated": "SFX_PAUSE_270",
+            "desc": ""
+        },
+        {
+            "hash": 3758322672,
+            "original": "E2T7_QD",
+            "translated": "E2T7_QD",
+            "desc": ""
+        },
+        {
+            "hash": 3766238565,
+            "original": "SFX_PAUSE_200",
+            "translated": "SFX_PAUSE_200",
+            "desc": ""
+        },
+        {
+            "hash": 3785939344,
+            "original": "E2T7_GB",
+            "translated": "E2T7_GB",
+            "desc": ""
+        },
+        {
+            "hash": 3787373848,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 3817590599,
+            "original": "~z~because it ain't happening. The guy's been in business since '87,",
+            "translated": "~z~想想都不可能。他是1987年入的行，",
+            "desc": ""
+        },
+        {
+            "hash": 3833956112,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3836259801,
+            "original": "020090200090020200",
+            "translated": "020090200090020200",
+            "desc": ""
+        },
+        {
+            "hash": 3856008256,
+            "original": "~z~Whoop! Whoop! Gonna hit the shops today, baby.",
+            "translated": "~z~呼！呼！可以去商场血拼了，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 3885697302,
+            "original": "E2T7_SE",
+            "translated": "E2T7_SE",
+            "desc": ""
+        },
+        {
+            "hash": 3888902910,
+            "original": "E2T7_DA",
+            "translated": "E2T7_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3892070213,
+            "original": "~z~Sadist pricks!",
+            "translated": "~z~一群暴力分子！",
+            "desc": ""
+        },
+        {
+            "hash": 3972303946,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 3972811877,
+            "original": "~z~You know we're heading to the docks in East Hook.",
+            "translated": "~z~我们要去East Hook的码头。",
+            "desc": ""
+        },
+        {
+            "hash": 3986980597,
+            "original": "E2T7_GA",
+            "translated": "E2T7_GA",
+            "desc": ""
+        },
+        {
+            "hash": 4016093157,
+            "original": "~z~Sure, Evan, that's what it is.",
+            "translated": "~z~是啊，Evan，你说的都对。",
+            "desc": ""
+        },
+        {
+            "hash": 4035406808,
+            "original": "E2T7_NA",
+            "translated": "E2T7_NA",
+            "desc": ""
+        },
+        {
+            "hash": 4050196166,
+            "original": "E2T7_ADA",
+            "translated": "E2T7_ADA",
+            "desc": ""
+        },
+        {
+            "hash": 4052814335,
+            "original": "~z~I forgot about ordering these limos. Coke makes me real classy, don't it?",
+            "translated": "~z~我还雇了礼车吗？可卡因让我挥金如土啊，是吧？",
+            "desc": ""
+        },
+        {
+            "hash": 4080644145,
+            "original": "~z~I know that money can't be his unless he borrowed it. Where's it from?",
+            "translated": "~z~他绝对掏不出两百万，只能靠借。哪来的钱？",
+            "desc": ""
+        },
+        {
+            "hash": 4093241311,
+            "original": "E2T7_TB",
+            "translated": "E2T7_TB",
+            "desc": ""
+        },
+        {
+            "hash": 4128697148,
+            "original": "E2T7_PA",
+            "translated": "E2T7_PA",
+            "desc": ""
+        },
+        {
+            "hash": 4135761905,
+            "original": "E2T7_UC1",
+            "translated": "E2T7_UC1",
+            "desc": ""
+        },
+        {
+            "hash": 4184381702,
+            "original": "E2T7_AEA",
+            "translated": "E2T7_AEA",
+            "desc": ""
+        },
+        {
+            "hash": 4192175208,
+            "original": "~z~We paid for these limos, so we're gonna take them.",
+            "translated": "~z~我们雇了礼车，不能当成摆设。",
+            "desc": ""
+        },
+        {
+            "hash": 4203521381,
+            "original": "SFX_PAUSE_230",
+            "translated": "SFX_PAUSE_230",
+            "desc": ""
+        },
+        {
+            "hash": 4208714273,
+            "original": "101",
+            "translated": "101",
+            "desc": ""
+        },
+        {
+            "hash": 4223379336,
+            "original": "E2T7_RC",
+            "translated": "E2T7_RC",
+            "desc": ""
+        },
+        {
+            "hash": 4237506797,
+            "original": "E2T7_SI",
+            "translated": "E2T7_SI",
+            "desc": ""
+        }
+    ]
+}

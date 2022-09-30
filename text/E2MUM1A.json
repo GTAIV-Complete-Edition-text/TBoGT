@@ -1,0 +1,1666 @@
+{
+    "E2MUM1A": [
+        {
+            "hash": 57841290,
+            "original": "~z~Hey man, you know you did the right thing.",
+            "translated": "~z~嘿，哥们，你知道自己没做错。",
+            "desc": ""
+        },
+        {
+            "hash": 63701149,
+            "original": "~z~Thanks, but that ain't the reason I quit.",
+            "translated": "~z~谢谢夸奖，但那不是我收手的原因。",
+            "desc": ""
+        },
+        {
+            "hash": 72877974,
+            "original": "~z~What you mean you took a dive? You mean you lost?",
+            "translated": "~z~故意打输是啥意思？这么说你输了？",
+            "desc": ""
+        },
+        {
+            "hash": 102171951,
+            "original": "~z~I saw you go a few years back. Could have been something if you didn't care so much about that pretty face of yours.",
+            "translated": "~z~几年前我见过你。要不是你太在意自己这张漂亮脸蛋，早就有所成就了。",
+            "desc": ""
+        },
+        {
+            "hash": 120676078,
+            "original": "~z~You ought not to judge me, Luis Lopez. You're just like your father.",
+            "translated": "~z~轮不到你来评判我，Luis Lopez。你跟你爸一个样。",
+            "desc": ""
+        },
+        {
+            "hash": 142100560,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 165287486,
+            "original": "E2MUM1_XA",
+            "translated": "E2MUM1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 199595989,
+            "original": "~z~Man, there's probably even some guys on the scene that still remember me. If they ain't all fucked up by now.",
+            "translated": "~z~天，说不定里面还有人认识我，只要他们没被打傻。",
+            "desc": ""
+        },
+        {
+            "hash": 202772927,
+            "original": "SFX_PAUSE_160",
+            "translated": "SFX_PAUSE_160",
+            "desc": ""
+        },
+        {
+            "hash": 202862377,
+            "original": "~z~It's not that complicated when you think about it. You see your mother here has been making that classic American mistake.",
+            "translated": "~z~动动脑子就能长话短说了。你看，你妈犯了美国人的典型错误。",
+            "desc": ""
+        },
+        {
+            "hash": 208532994,
+            "original": "~z~Step up or step out, motherfucker. We need competitors here.",
+            "translated": "~z~不上场就滚蛋，傻逼玩意。这里要的是参赛者。",
+            "desc": ""
+        },
+        {
+            "hash": 212003653,
+            "original": "~z~I'm being very polite. See, I like her. She's a good woman.",
+            "translated": "~z~我已经很客气了。你看，我喜欢她。她是个好女人。",
+            "desc": ""
+        },
+        {
+            "hash": 212998827,
+            "original": "E2MUM1_ABA",
+            "translated": "E2MUM1_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 224792381,
+            "original": "E2MUM1_QB",
+            "translated": "E2MUM1_QB",
+            "desc": ""
+        },
+        {
+            "hash": 225827579,
+            "original": "E2MUM1_AAA",
+            "translated": "E2MUM1_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 238548910,
+            "original": "E2MUM1_YE",
+            "translated": "E2MUM1_YE",
+            "desc": ""
+        },
+        {
+            "hash": 238624307,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 247303044,
+            "original": "~z~What if I don't want to take a fall?",
+            "translated": "~z~要是我不想输怎么办？",
+            "desc": ""
+        },
+        {
+            "hash": 284390002,
+            "original": "~z~Yes, bit rich coming from you.",
+            "translated": "~z~你还好意思说。",
+            "desc": ""
+        },
+        {
+            "hash": 286064184,
+            "original": "E2MUM1_YC",
+            "translated": "E2MUM1_YC",
+            "desc": ""
+        },
+        {
+            "hash": 326483626,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 353496022,
+            "original": "~z~Shit.",
+            "translated": "~z~操。",
+            "desc": ""
+        },
+        {
+            "hash": 357470630,
+            "original": "~z~Get your bets down.",
+            "translated": "~z~来下注吧。",
+            "desc": ""
+        },
+        {
+            "hash": 369494427,
+            "original": "~z~You shoulda stayed quit, little bitch.",
+            "translated": "~z~你不该回来的，小贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 373435242,
+            "original": "~z~I took a dive in that fight for you, Mami. You don't owe that guy any more money.",
+            "translated": "~z~为了你我故意打输了，老妈。你再也不欠那人钱了。",
+            "desc": ""
+        },
+        {
+            "hash": 384149196,
+            "original": "~z~Sorry bro, but I don't do that no more.",
+            "translated": "~z~不好意思兄弟，我金盆洗手了。",
+            "desc": ""
+        },
+        {
+            "hash": 385657815,
+            "original": "E2MUM1_ZE2",
+            "translated": "E2MUM1_ZE2",
+            "desc": ""
+        },
+        {
+            "hash": 392233153,
+            "original": "~z~If I didn't like her, I would have have burnt this building down by now.",
+            "translated": "~z~要不是我喜欢她，这房子早被我一把火烧了。",
+            "desc": ""
+        },
+        {
+            "hash": 402522104,
+            "original": "E2MUM1_TB",
+            "translated": "E2MUM1_TB",
+            "desc": ""
+        },
+        {
+            "hash": 431487215,
+            "original": "E2MUM1_RB",
+            "translated": "E2MUM1_RB",
+            "desc": ""
+        },
+        {
+            "hash": 448350251,
+            "original": "E2MUM1_IF",
+            "translated": "E2MUM1_IF",
+            "desc": ""
+        },
+        {
+            "hash": 466618748,
+            "original": "E2MUM1_IA",
+            "translated": "E2MUM1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 486858539,
+            "original": "~z~Just like you must spend time round retirement communities and churches trying to scam old ladies.",
+            "translated": "~z~就像你只能在老年社区和教堂附近花心思忽悠老太婆一样。",
+            "desc": ""
+        },
+        {
+            "hash": 505058039,
+            "original": "~z~Luis, this is Mr Santo.",
+            "translated": "~z~Luis，这位是Santo先生。",
+            "desc": ""
+        },
+        {
+            "hash": 529110983,
+            "original": "E2MUM1_LA",
+            "translated": "E2MUM1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 544081441,
+            "original": "~z~Moving on to the next round.",
+            "translated": "~z~成功晋级。",
+            "desc": ""
+        },
+        {
+            "hash": 553475465,
+            "original": "302",
+            "translated": "302",
+            "desc": ""
+        },
+        {
+            "hash": 563897379,
+            "original": "E2MUM1_VA",
+            "translated": "E2MUM1_VA",
+            "desc": ""
+        },
+        {
+            "hash": 580720069,
+            "original": "~z~Luis, be careful.",
+            "translated": "~z~Luis，小心点啊。",
+            "desc": ""
+        },
+        {
+            "hash": 589213400,
+            "original": "~z~He's done it, people. Luis Lopez - champion.",
+            "translated": "~z~他做到了，各位。Luis Lopez——冠军。",
+            "desc": ""
+        },
+        {
+            "hash": 601798260,
+            "original": "~z~You fucking pussy.",
+            "translated": "~z~你个臭傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 605802232,
+            "original": "100090010090100090100010100100010090010",
+            "translated": "100090010090100090100010100100010090010",
+            "desc": ""
+        },
+        {
+            "hash": 667135254,
+            "original": "~z~I'm gonna take my sweet time kicking the shit outta you.",
+            "translated": "~z~我会享受暴揍你的机会的。",
+            "desc": ""
+        },
+        {
+            "hash": 672817113,
+            "original": "~z~If I see you again I'll kill you, bro. I'm out.",
+            "translated": "~z~再让我见着你的话，你死定了，兄弟。别来找我。",
+            "desc": ""
+        },
+        {
+            "hash": 674603626,
+            "original": "~z~Oh, I'm really scared of you, motherfucker. Huh? How do you sleep at night, man, loan sharking to old women?",
+            "translated": "~z~哦，我好怕怕啊，傻逼玩意。你找个老太婆放高利贷，晚上能睡得安心？",
+            "desc": ""
+        },
+        {
+            "hash": 684559637,
+            "original": "~z~I guess I must be.",
+            "translated": "~z~多半是这样吧。",
+            "desc": ""
+        },
+        {
+            "hash": 766938130,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 785839609,
+            "original": "E2MUM1_UA",
+            "translated": "E2MUM1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 792437692,
+            "original": "~z~He's through to the next.",
+            "translated": "~z~他晋级了。",
+            "desc": ""
+        },
+        {
+            "hash": 807665334,
+            "original": "E2MUM1_VB",
+            "translated": "E2MUM1_VB",
+            "desc": ""
+        },
+        {
+            "hash": 819525006,
+            "original": "E2MUM1_IG",
+            "translated": "E2MUM1_IG",
+            "desc": ""
+        },
+        {
+            "hash": 829105258,
+            "original": "E2MUM1_IE2",
+            "translated": "E2MUM1_IE2",
+            "desc": ""
+        },
+        {
+            "hash": 831869409,
+            "original": "~z~That bitch is gonna burn.",
+            "translated": "~z~你那婊子妈要被烧了。",
+            "desc": ""
+        },
+        {
+            "hash": 832986624,
+            "original": "~z~Is he now? I'm fighting too, Lopez. We might get that show down after all.",
+            "translated": "~z~现在是他？我也在战斗啊，Lopez。也许在这之后我们就可以拉下帷幕了。",
+            "desc": ""
+        },
+        {
+            "hash": 843227877,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 865041262,
+            "original": "E2MUM1_UF",
+            "translated": "E2MUM1_UF",
+            "desc": ""
+        },
+        {
+            "hash": 867644231,
+            "original": "~z~I been taking care of things for you, ma. That guy ain't coming around no more. Don't worry about it.",
+            "translated": "~z~我在替你解决麻烦，妈。那人不会再来了，你不用担心了。",
+            "desc": ""
+        },
+        {
+            "hash": 879340978,
+            "original": "E2MUM1_ZE1",
+            "translated": "E2MUM1_ZE1",
+            "desc": ""
+        },
+        {
+            "hash": 880801956,
+            "original": "~z~I think you must a lost some brain cells in that fight.",
+            "translated": "~z~我看你小子肯定是打架打坏脑子了。",
+            "desc": ""
+        },
+        {
+            "hash": 882306478,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 904212889,
+            "original": "E2MUM1_ZC",
+            "translated": "E2MUM1_ZC",
+            "desc": ""
+        },
+        {
+            "hash": 921971405,
+            "original": "SFX_PAUSE_240",
+            "translated": "SFX_PAUSE_240",
+            "desc": ""
+        },
+        {
+            "hash": 947571427,
+            "original": "~z~I hardly touched him?",
+            "translated": "~z~我都没碰到他？",
+            "desc": ""
+        },
+        {
+            "hash": 965202078,
+            "original": "~z~I been waiting three years for this.",
+            "translated": "~z~这一刻我等了三年。",
+            "desc": ""
+        },
+        {
+            "hash": 994799511,
+            "original": "~z~You gonna start fighting for money again.",
+            "translated": "~z~你又得为钱打架了。",
+            "desc": ""
+        },
+        {
+            "hash": 1015130909,
+            "original": "~z~Yeah. She's got two other kids to keep her happy, but I'm the one who's gonna fuck you up if you go near her.",
+            "translated": "~z~是啊。她还有两个孩子能哄她开心，但只要你敢靠近她，我就会干翻你。",
+            "desc": ""
+        },
+        {
+            "hash": 1073773009,
+            "original": "E2MUM1_AGA",
+            "translated": "E2MUM1_AGA",
+            "desc": ""
+        },
+        {
+            "hash": 1076230911,
+            "original": "~z~You know our boy's come out of retirement? He's fighting today.",
+            "translated": "~z~你知道咱的孩子又返聘回来了吗？他今天要打场架。",
+            "desc": ""
+        },
+        {
+            "hash": 1092387276,
+            "original": "E2MUM1_UD",
+            "translated": "E2MUM1_UD",
+            "desc": ""
+        },
+        {
+            "hash": 1123673066,
+            "original": "~z~You're even more of a pussy than I remember.",
+            "translated": "~z~你比我印象中更娘炮了。",
+            "desc": ""
+        },
+        {
+            "hash": 1188265259,
+            "original": "100090010100090100090010090100010",
+            "translated": "100090010100090100090010090100010",
+            "desc": ""
+        },
+        {
+            "hash": 1191402837,
+            "original": "~z~Stick with me, kid, or mama's gonna get screwed, comprende?",
+            "translated": "~z~跟着我啊，小子，不然你妈就完了，明白？",
+            "desc": ""
+        },
+        {
+            "hash": 1196195151,
+            "original": "~z~You lost me a whole lot of money.",
+            "translated": "~z~你害得我血本无归。",
+            "desc": ""
+        },
+        {
+            "hash": 1210764239,
+            "original": "~z~What the fuck?",
+            "translated": "~z~搞毛啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1231042529,
+            "original": "~z~LC Cage Fighters. Shit, bro. I spent some time in this place.",
+            "translated": "~z~自由城铁笼格斗。操，兄弟。我是在这里混过。",
+            "desc": ""
+        },
+        {
+            "hash": 1244931088,
+            "original": "~z~I was there for your momma when you weren't.",
+            "translated": "~z~你不在的时候可是我陪着你妈。",
+            "desc": ""
+        },
+        {
+            "hash": 1248387242,
+            "original": "~z~My boy. What have you been doing?",
+            "translated": "~z~儿子，你去干嘛了啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1251129295,
+            "original": "~z~Don't act the big shot with me because I know who you are.",
+            "translated": "~z~别跟我这儿充大牌，我知道你的衰样。",
+            "desc": ""
+        },
+        {
+            "hash": 1258566356,
+            "original": "~z~Let's walk and talk.",
+            "translated": "~z~我们边走边说。",
+            "desc": ""
+        },
+        {
+            "hash": 1269226638,
+            "original": "~z~See if you can handle these guys.",
+            "translated": "~z~看看你打不打得过他。",
+            "desc": ""
+        },
+        {
+            "hash": 1270510851,
+            "original": "~z~You ain't gonna be so pretty after this.",
+            "translated": "~z~看我不把你打到毁容。",
+            "desc": ""
+        },
+        {
+            "hash": 1271520472,
+            "original": "~z~Next round. Ding. Ding.",
+            "translated": "~z~下一轮，叮叮。",
+            "desc": ""
+        },
+        {
+            "hash": 1280381783,
+            "original": "E2MUM1_ZF",
+            "translated": "E2MUM1_ZF",
+            "desc": ""
+        },
+        {
+            "hash": 1299564249,
+            "original": "E2MUM1_VD",
+            "translated": "E2MUM1_VD",
+            "desc": ""
+        },
+        {
+            "hash": 1310054058,
+            "original": "E2MUM1_AJB",
+            "translated": "E2MUM1_AJB",
+            "desc": ""
+        },
+        {
+            "hash": 1371783317,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 1373637494,
+            "original": "~z~Thank you for your help, hijo. I knew I should have called one of your brothers.",
+            "translated": "~z~我可谢谢你啊，儿子。早知道我就找你哥哥了。",
+            "desc": ""
+        },
+        {
+            "hash": 1379728191,
+            "original": "~z~Yeah, I guess she doesn't have any up.",
+            "translated": "~z~是啊，我看她是不会挂的。",
+            "desc": ""
+        },
+        {
+            "hash": 1422661706,
+            "original": "~z~What you so proud for?",
+            "translated": "~z~你嘚瑟什么呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1431534450,
+            "original": "E2MUM1_IC",
+            "translated": "E2MUM1_IC",
+            "desc": ""
+        },
+        {
+            "hash": 1447231361,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 1458372568,
+            "original": "~z~Hey. She called me, okay? It's business. We run a service. She knew the rules. She should have read the small print.",
+            "translated": "~z~喂喂喂，是她主动找我，好吗？这行就是这样。~n~我们提供服务，她也知道规矩。她应该看过合同上的小字。",
+            "desc": ""
+        },
+        {
+            "hash": 1459841408,
+            "original": "~z~You're a fucking dead man. I'm gonna burn that bitch mom of yours, too.",
+            "translated": "~z~你他妈死定了。我还要把你那婊子妈烧了。",
+            "desc": ""
+        },
+        {
+            "hash": 1491960779,
+            "original": "~z~Not so well, Ma. But you don't have to worry about that debt anymore.",
+            "translated": "~z~不是很好，妈。但是你不用再担心欠的钱了。",
+            "desc": ""
+        },
+        {
+            "hash": 1492042117,
+            "original": "~z~You listen to me.",
+            "translated": "~z~给我听着。",
+            "desc": ""
+        },
+        {
+            "hash": 1497762125,
+            "original": "~z~Mami, soy yo!",
+            "translated": "~z~老妈，是我！",
+            "desc": ""
+        },
+        {
+            "hash": 1502640229,
+            "original": "~z~We through to the next round.",
+            "translated": "~z~下一轮即将开始。",
+            "desc": ""
+        },
+        {
+            "hash": 1505735268,
+            "original": "~z~I lost the fight for you, Mami.",
+            "translated": "~z~为了你我才输的，老妈。",
+            "desc": ""
+        },
+        {
+            "hash": 1571444768,
+            "original": "~z~No need for transport. We going somewhere close.",
+            "translated": "~z~不用开车，目的地就在附近。",
+            "desc": ""
+        },
+        {
+            "hash": 1595911265,
+            "original": "~z~Come on, Luis.",
+            "translated": "~z~干他，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1606712253,
+            "original": "E2MUM1_KA",
+            "translated": "E2MUM1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1627263294,
+            "original": "~z~Where you going?",
+            "translated": "~z~你去哪儿呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1657451419,
+            "original": "302",
+            "translated": "302",
+            "desc": ""
+        },
+        {
+            "hash": 1670027535,
+            "original": "~z~Yeah, I wouldn't borrow it off a piece of shit like this.",
+            "translated": "~z~反正不是问这种废物借来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1683160056,
+            "original": "E2MUM1_AJA",
+            "translated": "E2MUM1_AJA",
+            "desc": ""
+        },
+        {
+            "hash": 1690023977,
+            "original": "~z~Think about what's happening to your moms.",
+            "translated": "~z~想想你妈的下场吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1694624941,
+            "original": "~z~Mami, you don't know me! The most important people in the world come to our clubs, and I look after them.",
+            "translated": "~z~老妈，你不了解我！全世界的大人物都会来我们的店，我负责招待他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1724527842,
+            "original": "~z~Mami, hey. I need you to be careful, okay? I left that guy and he might be kind of angry. Can you look out for him?",
+            "translated": "~z~老妈，嘿。你一定要当心，好吗？我抛下他跑了，他可能有点生气。你能防着他点吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1733271337,
+            "original": "~z~I'm a businessman, and trust me, it could get a lot worse, my friend. Now, calm the fuck down.",
+            "translated": "~z~我是生意人。相信我，现在这样还算好了，我的朋友。你给我冷静点。",
+            "desc": ""
+        },
+        {
+            "hash": 1747685444,
+            "original": "~z~Sorry, mami, I couldn't. Maybe you should call one of your other kids and see if they could help.",
+            "translated": "~z~对不起，老妈，我失败了。你还是看看其他子女能不能帮你吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1779875011,
+            "original": "~z~Luis Fernando Lopez - undefeated champion!",
+            "translated": "~z~Luis Fernando Lopez——不败之王！",
+            "desc": ""
+        },
+        {
+            "hash": 1783546703,
+            "original": "~z~You think you some tough guy now.",
+            "translated": "~z~你现在觉得自己很牛是吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1787116570,
+            "original": "~z~Who gonna put some money on this shit?",
+            "translated": "~z~有没有想下几注玩玩的？",
+            "desc": ""
+        },
+        {
+            "hash": 1807220605,
+            "original": "E2MUM1_VH",
+            "translated": "E2MUM1_VH",
+            "desc": ""
+        },
+        {
+            "hash": 1869688203,
+            "original": "E2MUM1_JA",
+            "translated": "E2MUM1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 1876387654,
+            "original": "100090010100090010100100090100010",
+            "translated": "100090010100090010100100090100010",
+            "desc": ""
+        },
+        {
+            "hash": 1885285721,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 1903582192,
+            "original": "~z~ My thinking is you were bad enough for no one to notice when you take a dive.",
+            "translated": "~z~依我看，以你的水平，可以做到打假赛不被发现。",
+            "desc": ""
+        },
+        {
+            "hash": 1906539833,
+            "original": "E2MUM1_UC",
+            "translated": "E2MUM1_UC",
+            "desc": ""
+        },
+        {
+            "hash": 1916039007,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 1917630099,
+            "original": "~z~Hey, be careful, kid. I could have you killed.",
+            "translated": "~z~喂，当心点，小子。信不信我杀了你。",
+            "desc": ""
+        },
+        {
+            "hash": 1933030833,
+            "original": "~z~Don't run off now.",
+            "translated": "~z~别现在就跑了啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1952305489,
+            "original": "~z~We got a champion!",
+            "translated": "~z~冠军诞生了！",
+            "desc": ""
+        },
+        {
+            "hash": 1973306591,
+            "original": "200200100100200",
+            "translated": "200200100100200",
+            "desc": ""
+        },
+        {
+            "hash": 1989072083,
+            "original": "~z~Stupid of me to depend on the hoodlum of the family.",
+            "translated": "~z~我真傻，居然会指望家里的这个流氓。",
+            "desc": ""
+        },
+        {
+            "hash": 1989491937,
+            "original": "E2MUM1_IB",
+            "translated": "E2MUM1_IB",
+            "desc": ""
+        },
+        {
+            "hash": 2009874827,
+            "original": "E2MUM1_LB",
+            "translated": "E2MUM1_LB",
+            "desc": ""
+        },
+        {
+            "hash": 2023439634,
+            "original": "~z~Like some baseball player? Like some gangster?",
+            "translated": "~z~你是棒球选手？还是黑道大亨？",
+            "desc": ""
+        },
+        {
+            "hash": 2026815782,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2028919021,
+            "original": "~z~Come on. It ain't fun unless you bet on this shit.",
+            "translated": "~z~来嘛，不下注的话就没意思了。",
+            "desc": ""
+        },
+        {
+            "hash": 2032074494,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2059075901,
+            "original": "~z~Think about your momma.",
+            "translated": "~z~想想你老妈吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2074895738,
+            "original": "~z~Don't let him hit you in that pretty face.",
+            "translated": "~z~别让他打到你的漂亮脸蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2075137398,
+            "original": "E2MUM1_UE",
+            "translated": "E2MUM1_UE",
+            "desc": ""
+        },
+        {
+            "hash": 2082295547,
+            "original": "~z~What's going on?",
+            "translated": "~z~怎么了？",
+            "desc": ""
+        },
+        {
+            "hash": 2094392457,
+            "original": "E2MUM1_RC",
+            "translated": "E2MUM1_RC",
+            "desc": ""
+        },
+        {
+            "hash": 2095937727,
+            "original": "~z~You claim to be some big shot and you can't even win a fight for your momma.",
+            "translated": "~z~你说你是什么大牌，结果都不能为你妈赢一场比赛。",
+            "desc": ""
+        },
+        {
+            "hash": 2103495499,
+            "original": "~z~You know you really are a piece of shit.",
+            "translated": "~z~你这人真的是个混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2105930357,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 2194561500,
+            "original": "E2MUM1_AIA",
+            "translated": "E2MUM1_AIA",
+            "desc": ""
+        },
+        {
+            "hash": 2197746697,
+            "original": "~z~Listen, man. You bitched out of a promising career to run around with a rich fag. Don't get too proud now.",
+            "translated": "~z~听着，小子。你放弃了大好前途，跑去跟个有钱基佬混。脸面早没了。",
+            "desc": ""
+        },
+        {
+            "hash": 2197822670,
+            "original": "~z~You're up, kid.",
+            "translated": "~z~到你上了，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 2200698715,
+            "original": "~z~You ain't quittin' no more.",
+            "translated": "~z~这下你要复出了。",
+            "desc": ""
+        },
+        {
+            "hash": 2211667769,
+            "original": "SFX_PAUSE_260",
+            "translated": "SFX_PAUSE_260",
+            "desc": ""
+        },
+        {
+            "hash": 2237377888,
+            "original": "~z~ I am something, and I look after you. I'll see you soon, okay? Bye.",
+            "translated": "~z~我是有本事，我还照顾着你呢。有空我来看你，好吗？再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 2254823099,
+            "original": "~z~Dios. Please don't tell me you did anything evil. What have I brought into this world?",
+            "translated": "~z~天哪，别告诉我你又干了啥坏事。我生了个什么孽种啊？",
+            "desc": ""
+        },
+        {
+            "hash": 2262758605,
+            "original": "~z~Place your bets. Place your bets.",
+            "translated": "~z~买定离手。买定离手。",
+            "desc": ""
+        },
+        {
+            "hash": 2305152136,
+            "original": "200200120200",
+            "translated": "200200120200",
+            "desc": ""
+        },
+        {
+            "hash": 2332805607,
+            "original": "E2MUM1_YF",
+            "translated": "E2MUM1_YF",
+            "desc": ""
+        },
+        {
+            "hash": 2336060315,
+            "original": "~z~You could be a contendor. Get in the pit or step aside.",
+            "translated": "~z~你可以上场的。不上场就滚一边去。",
+            "desc": ""
+        },
+        {
+            "hash": 2364843440,
+            "original": "~z~Don't overexert yourself there!",
+            "translated": "~z~这回别用力过猛了！",
+            "desc": ""
+        },
+        {
+            "hash": 2378200429,
+            "original": "~z~What the fuck?",
+            "translated": "~z~什么鬼？",
+            "desc": ""
+        },
+        {
+            "hash": 2399899695,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 2402501538,
+            "original": "E2MUM1_AFA",
+            "translated": "E2MUM1_AFA",
+            "desc": ""
+        },
+        {
+            "hash": 2406047423,
+            "original": "~z~They the ones who made a success of their lives. Bye.",
+            "translated": "~z~他们才是生活美满的成功人士。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2407486816,
+            "original": "100090010090100090100",
+            "translated": "100090010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2419978858,
+            "original": "~z~Fuck, bro.",
+            "translated": "~z~操，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2429117553,
+            "original": "SFX_PAUSE_250",
+            "translated": "SFX_PAUSE_250",
+            "desc": ""
+        },
+        {
+            "hash": 2464268211,
+            "original": "E2MUM1_JD",
+            "translated": "E2MUM1_JD",
+            "desc": ""
+        },
+        {
+            "hash": 2483220113,
+            "original": "E2MUM1_SA",
+            "translated": "E2MUM1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 2493416161,
+            "original": "~z~Time for your fighter to shine, Santo. Get him changed and ringside.",
+            "translated": "~z~到你的拳手上场了，Santo。叫他换好衣服候场。",
+            "desc": ""
+        },
+        {
+            "hash": 2500164602,
+            "original": "~z~Luis. How are you and Mr. Santo getting on?",
+            "translated": "~z~Luis，你和Santo先生咋样了？",
+            "desc": ""
+        },
+        {
+            "hash": 2511085509,
+            "original": "E2MUM1_OA",
+            "translated": "E2MUM1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2519472769,
+            "original": "~z~Drive up them odds, Lopez.",
+            "translated": "~z~抬高赔率，Lopez。",
+            "desc": ""
+        },
+        {
+            "hash": 2530463005,
+            "original": "SFX_PAUSE_300",
+            "translated": "SFX_PAUSE_300",
+            "desc": ""
+        },
+        {
+            "hash": 2540206764,
+            "original": "~z~What kind of attitude is that to give your momma? Do you think you're something special?",
+            "translated": "~z~你对你妈啥态度呢？你当自己很厉害吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2562435858,
+            "original": "E2MUM1_WA",
+            "translated": "E2MUM1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2571738119,
+            "original": "010090010",
+            "translated": "010090010",
+            "desc": ""
+        },
+        {
+            "hash": 2578729902,
+            "original": "~z~I didn't ask you to lose no fight. I did not ask for losers in my family.",
+            "translated": "~z~我又没让你打输。我家不欢迎失败者。",
+            "desc": ""
+        },
+        {
+            "hash": 2621310039,
+            "original": "~z~You organize parties, Luis. You're a bouncer?",
+            "translated": "~z~不就管个派对吗，Luis。给人看门的？",
+            "desc": ""
+        },
+        {
+            "hash": 2647210910,
+            "original": "~z~Shit, bro. I sure didn't think I'd be coming back here again.",
+            "translated": "~z~妈的，兄弟。没想到我又回到了这里。",
+            "desc": ""
+        },
+        {
+            "hash": 2650541538,
+            "original": "~z~You beat the first two guys I set you up with, then you fall on the third.",
+            "translated": "~z~你把我安排的前两个人打败，第三个就故意打输。",
+            "desc": ""
+        },
+        {
+            "hash": 2668227408,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 2722391614,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 2728100019,
+            "original": "~z~This little game's over for you.",
+            "translated": "~z~你的人生到此为止了。",
+            "desc": ""
+        },
+        {
+            "hash": 2732366812,
+            "original": "E2MUM1_AIB",
+            "translated": "E2MUM1_AIB",
+            "desc": ""
+        },
+        {
+            "hash": 2736265235,
+            "original": "E2MUM1_SB",
+            "translated": "E2MUM1_SB",
+            "desc": ""
+        },
+        {
+            "hash": 2758948621,
+            "original": "~z~ He ain't so tough.",
+            "translated": "~z~对手很弱。",
+            "desc": ""
+        },
+        {
+            "hash": 2776376476,
+            "original": "~z~Santo, get your fighter dressed and in the pit. He's up.",
+            "translated": "~z~Santo，叫你的拳手换好衣服进场。轮到他了。",
+            "desc": ""
+        },
+        {
+            "hash": 2825109224,
+            "original": "~z~Watch that mug of yours.",
+            "translated": "~z~你可别毁容了。",
+            "desc": ""
+        },
+        {
+            "hash": 2835590959,
+            "original": "~z~We need bodies. You gonna volunteer.",
+            "translated": "~z~我们需要选手，你就上场干吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2838274367,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 2844876521,
+            "original": "~z~I'm betting against you here, Lopez.",
+            "translated": "~z~我买了你输，Lopez。",
+            "desc": ""
+        },
+        {
+            "hash": 2890475803,
+            "original": "~z~Okay, let's go. As always, nice to see you, Ms. Lopez.",
+            "translated": "~z~那好，我们走。和以往一样，感谢你的招待，Lopez夫人。",
+            "desc": ""
+        },
+        {
+            "hash": 2916004505,
+            "original": "~z~Well, it's complicated. Mr. Santo is a businessman...",
+            "translated": "~z~呃，说来话长，Santo先生是个生意人...",
+            "desc": ""
+        },
+        {
+            "hash": 2937006585,
+            "original": "~z~Mami, I didn't imply anything like that.",
+            "translated": "~z~老妈，我不是那个意思。",
+            "desc": ""
+        },
+        {
+            "hash": 2938731822,
+            "original": "E2MUM1_ADA",
+            "translated": "E2MUM1_ADA",
+            "desc": ""
+        },
+        {
+            "hash": 2980296081,
+            "original": "E2MUM1_TC",
+            "translated": "E2MUM1_TC",
+            "desc": ""
+        },
+        {
+            "hash": 2981478581,
+            "original": "~z~What if I get used to winning?",
+            "translated": "~z~万一我习惯性打赢了咋办？",
+            "desc": ""
+        },
+        {
+            "hash": 2985083137,
+            "original": "~z~You in or out?",
+            "translated": "~z~你想参赛吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3018808784,
+            "original": "E2MUM1_UG",
+            "translated": "E2MUM1_UG",
+            "desc": ""
+        },
+        {
+            "hash": 3020718308,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 3026366238,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 3030914028,
+            "original": "SFX_PAUSE_170",
+            "translated": "SFX_PAUSE_170",
+            "desc": ""
+        },
+        {
+            "hash": 3039897054,
+            "original": "~z~I don't think you are, tough guy.",
+            "translated": "~z~你没有机会了，大哥。",
+            "desc": ""
+        },
+        {
+            "hash": 3053279771,
+            "original": "~z~Don't lose this one, you bitch.",
+            "translated": "~z~这把别输了，臭逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3063263489,
+            "original": "E2MUM1_ID",
+            "translated": "E2MUM1_ID",
+            "desc": ""
+        },
+        {
+            "hash": 3063562033,
+            "original": "~z~In other words, she's been living beyond her means.",
+            "translated": "~z~换句话说，她的生活入不敷出。",
+            "desc": ""
+        },
+        {
+            "hash": 3069263566,
+            "original": "E2MUM1_JB",
+            "translated": "E2MUM1_JB",
+            "desc": ""
+        },
+        {
+            "hash": 3105078872,
+            "original": "E2MUM1_RA",
+            "translated": "E2MUM1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3116757619,
+            "original": "~z~Hijo.",
+            "translated": "~z~儿子。",
+            "desc": ""
+        },
+        {
+            "hash": 3126539866,
+            "original": "~z~Good news. I bought you out of retirement. You're a fighter now.",
+            "translated": "~z~好消息，你被我返聘了，你现在是拳击手了。",
+            "desc": ""
+        },
+        {
+            "hash": 3133902415,
+            "original": "~z~If it isn't Luis Lopez. I thought you got tired of getting your ass kicked.",
+            "translated": "~z~要不是Luis Lopez的话，我觉得你会厌倦打架了的。",
+            "desc": ""
+        },
+        {
+            "hash": 3178829751,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3191327992,
+            "original": "~z~Yeah, okay.",
+            "translated": "~z~好，行吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3216667293,
+            "original": "100090010100100090010",
+            "translated": "100090010100100090010",
+            "desc": ""
+        },
+        {
+            "hash": 3222431539,
+            "original": "~z~The odds are good. Place your bets.",
+            "translated": "~z~赔率很好，押几注吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3227512552,
+            "original": "~z~Your momma would want you to win.",
+            "translated": "~z~你妈妈不希望你输。",
+            "desc": ""
+        },
+        {
+            "hash": 3250890153,
+            "original": "E2MUM1_VF2",
+            "translated": "E2MUM1_VF2",
+            "desc": ""
+        },
+        {
+            "hash": 3259980648,
+            "original": "E2MUM1_TA",
+            "translated": "E2MUM1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3281796989,
+            "original": "E2MUM1_QA",
+            "translated": "E2MUM1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3295999163,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3300620183,
+            "original": "~z~Fuck him up!",
+            "translated": "~z~干翻他！",
+            "desc": ""
+        },
+        {
+            "hash": 3301694356,
+            "original": "~z~Hey bro, be polite when you talk about my mother, man.",
+            "translated": "~z~喂老兄，提到我妈的时候放客气点。",
+            "desc": ""
+        },
+        {
+            "hash": 3315442675,
+            "original": "~z~Until you pussied out of that bout, you did.",
+            "translated": "~z~直到你退出这场比赛，你做到了。",
+            "desc": ""
+        },
+        {
+            "hash": 3326510894,
+            "original": "~z~Been some time. I thought I musta scared you right out the city.",
+            "translated": "~z~有那么一段时间，我以为我肯定是把你吓跑出这城市了。",
+            "desc": ""
+        },
+        {
+            "hash": 3339088139,
+            "original": "E2MUM1_MA",
+            "translated": "E2MUM1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3343434060,
+            "original": "010090010",
+            "translated": "010090010",
+            "desc": ""
+        },
+        {
+            "hash": 3354255460,
+            "original": "~z~Maybe you can help me pay off your mother's debt, that way this building doesn't have to come to an unfortunate end.",
+            "translated": "~z~也许你可以帮我赚回你妈欠的债，这样这间房子就不用以悲剧收场了。",
+            "desc": ""
+        },
+        {
+            "hash": 3363915183,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 3406476886,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 3412098573,
+            "original": "~z~Luis. Where are you? What happened?",
+            "translated": "~z~Luis，你人呢？出啥事了？",
+            "desc": ""
+        },
+        {
+            "hash": 3422559530,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3433035405,
+            "original": "~z~Then your momma better get used to me coming around and not being my usual friendly self.",
+            "translated": "~z~那你老妈最好习惯我天天找她，我也不会那么和善了。",
+            "desc": ""
+        },
+        {
+            "hash": 3435887406,
+            "original": "E2MUM1_KB",
+            "translated": "E2MUM1_KB",
+            "desc": ""
+        },
+        {
+            "hash": 3451365776,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 3454002026,
+            "original": "E2MUM1_SC",
+            "translated": "E2MUM1_SC",
+            "desc": ""
+        },
+        {
+            "hash": 3485235484,
+            "original": "~z~Santo, your guy's up. Get him dressed and in the ring.",
+            "translated": "~z~Santo，到你的人上了。赶紧让他换好衣服上场。",
+            "desc": ""
+        },
+        {
+            "hash": 3500067541,
+            "original": "E2MUM1_VF1",
+            "translated": "E2MUM1_VF1",
+            "desc": ""
+        },
+        {
+            "hash": 3520447342,
+            "original": "E2MUM1_AEA",
+            "translated": "E2MUM1_AEA",
+            "desc": ""
+        },
+        {
+            "hash": 3535151117,
+            "original": "~z~Oh shit! You got some friends here, kid.",
+            "translated": "~z~噢糟了！你有伴了，小子。",
+            "desc": ""
+        },
+        {
+            "hash": 3538092869,
+            "original": "E2MUM1_YA",
+            "translated": "E2MUM1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 3562457581,
+            "original": "E2MUM1_VG",
+            "translated": "E2MUM1_VG",
+            "desc": ""
+        },
+        {
+            "hash": 3569412461,
+            "original": "~z~Hijo. Did you manage to fix that small upset for me?",
+            "translated": "~z~儿子，你都帮我摆平了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3605000035,
+            "original": "~z~That mean I get the opportunity to kick your ass?",
+            "translated": "~z~就是说我有机会给你屁股来一脚？",
+            "desc": ""
+        },
+        {
+            "hash": 3610869690,
+            "original": "302",
+            "translated": "302",
+            "desc": ""
+        },
+        {
+            "hash": 3613280116,
+            "original": "~z~Good news for you, he ain't done no more. I'm his new manager, he's fighting today.",
+            "translated": "~z~有个好消息给你，他还没退休呢。我是他的新上司，他今天要打场架。",
+            "desc": ""
+        },
+        {
+            "hash": 3621451040,
+            "original": "SFX_PAUSE_280",
+            "translated": "SFX_PAUSE_280",
+            "desc": ""
+        },
+        {
+            "hash": 3664778837,
+            "original": "302",
+            "translated": "302",
+            "desc": ""
+        },
+        {
+            "hash": 3708078511,
+            "original": "~z~Just stay the fuck away from her, okay? You got your money. We done.",
+            "translated": "~z~你他妈离她远点吧，好吗？你钱到手了，我们结了。",
+            "desc": ""
+        },
+        {
+            "hash": 3713517869,
+            "original": "100090010100",
+            "translated": "100090010100",
+            "desc": ""
+        },
+        {
+            "hash": 3734391030,
+            "original": "~z~Take it like a man.",
+            "translated": "~z~乖乖挨打吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3735984772,
+            "original": "~z~Pay or play, bitch.",
+            "translated": "~z~下注还是上场，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3750142368,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3765386708,
+            "original": "E2MUM1_NA",
+            "translated": "E2MUM1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3782434231,
+            "original": "E2MUM1_UB",
+            "translated": "E2MUM1_UB",
+            "desc": ""
+        },
+        {
+            "hash": 3801521192,
+            "original": "~z~Hey, I guess I didn't recognize you from your mom not having any pictures of you up on the walls.",
+            "translated": "~z~嘿，你妈没在墙上挂你的相片，没认出来不好意思啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3805387441,
+            "original": "SFX_PAUSE_410",
+            "translated": "SFX_PAUSE_410",
+            "desc": ""
+        },
+        {
+            "hash": 3815595803,
+            "original": "~z~You know what? Forget about it, Ma. Just don't go borrowing any more money. See you soon.",
+            "translated": "~z~这样吧，别提这茬了，妈。你别再去借钱了。再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 3826880347,
+            "original": "E2MUM1_ZA",
+            "translated": "E2MUM1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 3850879263,
+            "original": "E2MUM1_RD",
+            "translated": "E2MUM1_RD",
+            "desc": ""
+        },
+        {
+            "hash": 3851557808,
+            "original": "~z~Your mother told me about you.",
+            "translated": "~z~你的事你妈跟我说了。",
+            "desc": ""
+        },
+        {
+            "hash": 3852144683,
+            "original": "E2MUM1_IE1",
+            "translated": "E2MUM1_IE1",
+            "desc": ""
+        },
+        {
+            "hash": 3864765362,
+            "original": "~z~Yo, who the fuck are you?",
+            "translated": "~z~哟，你他妈谁啊？",
+            "desc": ""
+        },
+        {
+            "hash": 3881373797,
+            "original": "~z~No such luck, pretty boy. I got you set up at a tournament. You're gonna beat the first two guys.",
+            "translated": "~z~没这么容易，靓仔。我给你摆了场擂台。你打倒前两个人，",
+            "desc": ""
+        },
+        {
+            "hash": 3895563685,
+            "original": "~z~Let's see if he can handle the next round.",
+            "translated": "~z~看看他能不能挺过这一轮。",
+            "desc": ""
+        },
+        {
+            "hash": 3910843251,
+            "original": "E2MUM1_ACA",
+            "translated": "E2MUM1_ACA",
+            "desc": ""
+        },
+        {
+            "hash": 3948017323,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3969180947,
+            "original": "302",
+            "translated": "302",
+            "desc": ""
+        },
+        {
+            "hash": 3979324511,
+            "original": "~z~Mami, you know you could have came to me for money.",
+            "translated": "~z~老妈，我不是说了缺钱可以来找我吗。",
+            "desc": ""
+        },
+        {
+            "hash": 3983087181,
+            "original": "~z~You know how much money I had on that fight? Are you too fucking stupid to know when to lay down?",
+            "translated": "~z~知道刚才这场我押了多少钱吗？你他妈是不是傻到不懂什么时候倒地？",
+            "desc": ""
+        },
+        {
+            "hash": 4011689361,
+            "original": "E2MUM1_AHA",
+            "translated": "E2MUM1_AHA",
+            "desc": ""
+        },
+        {
+            "hash": 4023991513,
+            "original": "~z~You gonna step up or what?",
+            "translated": "~z~你想上场还是咋的？",
+            "desc": ""
+        },
+        {
+            "hash": 4026103978,
+            "original": "~z~Maybe I'll get that opportunity to kick your ass after all, Lopez.",
+            "translated": "~z~毕竟我也许会有那机会干翻你，Lopez。",
+            "desc": ""
+        },
+        {
+            "hash": 4027676625,
+            "original": "E2MUM1_JE",
+            "translated": "E2MUM1_JE",
+            "desc": ""
+        },
+        {
+            "hash": 4038031403,
+            "original": "~z~Remember our deal.",
+            "translated": "~z~记得哈，咱们说好了的。",
+            "desc": ""
+        },
+        {
+            "hash": 4050556252,
+            "original": "~z~Your momma was unfortunate to have you as a son, Lopez.",
+            "translated": "~z~你妈有你这么个儿子真是倒霉，Lopez。",
+            "desc": ""
+        },
+        {
+            "hash": 4072011025,
+            "original": "~z~Nice to see a man like you swallow his pride for his mama.",
+            "translated": "~z~见到你这样愿意为了妈妈忍辱负重的人，我很高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 4127928664,
+            "original": "~z~Ding. Ding. Next round.",
+            "translated": "~z~叮叮，下一轮。",
+            "desc": ""
+        },
+        {
+            "hash": 4161488657,
+            "original": "~z~Now you mention it, I guess mug shots don't sit along too well with graduation shots.",
+            "translated": "~z~说到这个，我觉得入狱照和毕业照挂在一起确实不太合适。",
+            "desc": ""
+        },
+        {
+            "hash": 4171117295,
+            "original": "~z~Then I'm gonna bet against you, and you're gonna let the third guy take you out.",
+            "translated": "~z~然后我赌你输，你就乖乖让第三个人打倒。",
+            "desc": ""
+        },
+        {
+            "hash": 4171536904,
+            "original": "E2MUM1_VE",
+            "translated": "E2MUM1_VE",
+            "desc": ""
+        },
+        {
+            "hash": 4212691568,
+            "original": "E2MUM1_VC",
+            "translated": "E2MUM1_VC",
+            "desc": ""
+        },
+        {
+            "hash": 4220864810,
+            "original": "~z~But what would you do to get it?",
+            "translated": "~z~那你的钱又是哪来的？",
+            "desc": ""
+        },
+        {
+            "hash": 4225960392,
+            "original": "E2MUM1_JC",
+            "translated": "E2MUM1_JC",
+            "desc": ""
+        },
+        {
+            "hash": 4246793866,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 4280023256,
+            "original": "~z~Luis Lopez!",
+            "translated": "~z~Luis Lopez！",
+            "desc": ""
+        }
+    ]
+}

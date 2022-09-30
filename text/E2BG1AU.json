@@ -1,0 +1,2164 @@
+{
+    "E2BG1AU": [
+        {
+            "hash": 9932904,
+            "original": "~z~Why do you stand out in the open. Hide yourself, you idiot.",
+            "translated": "~z~你怎么傻愣在外面。躲起来啊，你个傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 12095113,
+            "original": "~z~Be quiet. They are here.",
+            "translated": "~z~安静点。他们来了。",
+            "desc": ""
+        },
+        {
+            "hash": 34349964,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 37101536,
+            "original": "~z~~c~ I think Mr. Lopez will kick your ass tomorrow.",
+            "translated": "~z~~c~我觉得Lopez先生明天就会干爆你。",
+            "desc": ""
+        },
+        {
+            "hash": 66400444,
+            "original": "~z~Don't fuck with the money.",
+            "translated": "~z~别跟钱过不去。",
+            "desc": ""
+        },
+        {
+            "hash": 71087747,
+            "original": "E2BG1_ZAA",
+            "translated": "E2BG1_ZAA",
+            "desc": ""
+        },
+        {
+            "hash": 73079470,
+            "original": "E2BG1_BEA",
+            "translated": "E2BG1_BEA",
+            "desc": ""
+        },
+        {
+            "hash": 130381325,
+            "original": "SFX_PAUSE_490",
+            "translated": "SFX_PAUSE_490",
+            "desc": ""
+        },
+        {
+            "hash": 131171275,
+            "original": "~z~Target sighted. Let's finish this and get payment from Ashvilli.",
+            "translated": "~z~发现目标。赶紧完事去找Ashvilli拿钱吧。",
+            "desc": ""
+        },
+        {
+            "hash": 132299438,
+            "original": "~z~I always wanted to kill me a Russian.",
+            "translated": "~z~我一直想杀一个俄国佬。",
+            "desc": ""
+        },
+        {
+            "hash": 216071173,
+            "original": "~z~Get behind these cars. We must be hidden when they get here.",
+            "translated": "~z~躲在车后面。不能被他们直接发现。",
+            "desc": ""
+        },
+        {
+            "hash": 224717601,
+            "original": "SFX_PAUSE_210",
+            "translated": "SFX_PAUSE_210",
+            "desc": ""
+        },
+        {
+            "hash": 226062727,
+            "original": "020090200",
+            "translated": "020090200",
+            "desc": ""
+        },
+        {
+            "hash": 242069680,
+            "original": "~z~You left Timur, you idiot.",
+            "translated": "~z~你把Timur落下了，傻逼吧。",
+            "desc": ""
+        },
+        {
+            "hash": 255459015,
+            "original": "E2BG1_VA",
+            "translated": "E2BG1_VA",
+            "desc": ""
+        },
+        {
+            "hash": 257687090,
+            "original": "~z~Think about what I said to you. The offer will not be there forever.",
+            "translated": "~z~想想我跟你说的话。机会不是一直都有的。",
+            "desc": ""
+        },
+        {
+            "hash": 262839811,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 268315924,
+            "original": "~z~Shut up! They are coming.",
+            "translated": "~z~闭嘴！他们来了。",
+            "desc": ""
+        },
+        {
+            "hash": 278305049,
+            "original": "~z~I'd start running before we start shooting.",
+            "translated": "~z~再不滚我们就要开枪了。",
+            "desc": ""
+        },
+        {
+            "hash": 295608307,
+            "original": "~z~Lose this heat. Come on.",
+            "translated": "~z~甩掉追兵，快点。",
+            "desc": ""
+        },
+        {
+            "hash": 322071263,
+            "original": "~z~Make these scumbags pay!",
+            "translated": "~z~让这些贱人知错！",
+            "desc": ""
+        },
+        {
+            "hash": 340819262,
+            "original": "112",
+            "translated": "112",
+            "desc": ""
+        },
+        {
+            "hash": 346555084,
+            "original": "~z~Go! Go! Go! Go!",
+            "translated": "~z~上！上！上！上！",
+            "desc": ""
+        },
+        {
+            "hash": 364114512,
+            "original": "~z~Get out my face, you piece of shit.",
+            "translated": "~z~从我面前消失，你这废物。",
+            "desc": ""
+        },
+        {
+            "hash": 389331778,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 391547010,
+            "original": "392",
+            "translated": "392",
+            "desc": ""
+        },
+        {
+            "hash": 414668418,
+            "original": "~z~You like?",
+            "translated": "~z~喜欢吗？",
+            "desc": ""
+        },
+        {
+            "hash": 433632742,
+            "original": "~z~Is this so difficult?",
+            "translated": "~z~这很难吗？",
+            "desc": ""
+        },
+        {
+            "hash": 438782566,
+            "original": "~z~And now we attack!",
+            "translated": "~z~轮到我们反击了！",
+            "desc": ""
+        },
+        {
+            "hash": 447300145,
+            "original": "E2BG1_HA",
+            "translated": "E2BG1_HA",
+            "desc": ""
+        },
+        {
+            "hash": 453423811,
+            "original": "~z~Lose these fucks. Come on.",
+            "translated": "~z~甩掉这些傻逼，快。",
+            "desc": ""
+        },
+        {
+            "hash": 462220005,
+            "original": "E2BG1_BA",
+            "translated": "E2BG1_BA",
+            "desc": ""
+        },
+        {
+            "hash": 466088666,
+            "original": "~z~Timur? He is replaceable, but his death is part of the large failure.",
+            "translated": "~z~Timur？他是可以替换的，但他的死是这次巨大失败的一部分。",
+            "desc": ""
+        },
+        {
+            "hash": 467010111,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 486065164,
+            "original": "E2BG1_UA",
+            "translated": "E2BG1_UA",
+            "desc": ""
+        },
+        {
+            "hash": 486655232,
+            "original": "~z~Park the car over there.",
+            "translated": "~z~把车停在那。",
+            "desc": ""
+        },
+        {
+            "hash": 498138148,
+            "original": "E2BG1_ALA",
+            "translated": "E2BG1_ALA",
+            "desc": ""
+        },
+        {
+            "hash": 502902570,
+            "original": "E2BG1_ACB",
+            "translated": "E2BG1_ACB",
+            "desc": ""
+        },
+        {
+            "hash": 533105984,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 539363878,
+            "original": "E2BG1_BCA",
+            "translated": "E2BG1_BCA",
+            "desc": ""
+        },
+        {
+            "hash": 550370269,
+            "original": "SFX_PAUSE_340",
+            "translated": "SFX_PAUSE_340",
+            "desc": ""
+        },
+        {
+            "hash": 564607802,
+            "original": "~z~You'd get the fuck out of here if you knew what was good for you.",
+            "translated": "~z~你他妈快滚出去，这是为了你好。",
+            "desc": ""
+        },
+        {
+            "hash": 579084737,
+            "original": "E2BG1_APB",
+            "translated": "E2BG1_APB",
+            "desc": ""
+        },
+        {
+            "hash": 605455319,
+            "original": "~z~ Fuck this amateur shit.",
+            "translated": "~z~外行人真操蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 656945489,
+            "original": "~z~We will conceal ourselves. Place a bomb where they will not see it.",
+            "translated": "~z~我们要躲起来。把炸弹安到他们看不到的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 657007589,
+            "original": "E2BG1_ASA",
+            "translated": "E2BG1_ASA",
+            "desc": ""
+        },
+        {
+            "hash": 671904339,
+            "original": "~z~I'm glad I cheat my tax returns!",
+            "translated": "~z~幸好我偷税漏税了！",
+            "desc": ""
+        },
+        {
+            "hash": 692736806,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 722828094,
+            "original": "~z~Eat mine.",
+            "translated": "~z~吃我子弹吧！",
+            "desc": ""
+        },
+        {
+            "hash": 728123585,
+            "original": "122090212",
+            "translated": "122090212",
+            "desc": ""
+        },
+        {
+            "hash": 738178937,
+            "original": "~z~Okay, I will.",
+            "translated": "~z~好的，我会的。",
+            "desc": ""
+        },
+        {
+            "hash": 753645909,
+            "original": "~z~We can't leave car like this. Straighten her.",
+            "translated": "~z~不能把车停成这样。去停好。",
+            "desc": ""
+        },
+        {
+            "hash": 777070226,
+            "original": "E2BG1_AQB",
+            "translated": "E2BG1_AQB",
+            "desc": ""
+        },
+        {
+            "hash": 777683968,
+            "original": "~z~Take down the hostiles!",
+            "translated": "~z~干掉这些敌人！",
+            "desc": ""
+        },
+        {
+            "hash": 783873103,
+            "original": "~z~Let us leave. Come on.",
+            "translated": "~z~我们走吧。快点。",
+            "desc": ""
+        },
+        {
+            "hash": 804246836,
+            "original": "SFX_PAUSE_360",
+            "translated": "SFX_PAUSE_360",
+            "desc": ""
+        },
+        {
+            "hash": 827419695,
+            "original": "E2BG1_BFB",
+            "translated": "E2BG1_BFB",
+            "desc": ""
+        },
+        {
+            "hash": 893877417,
+            "original": "010",
+            "translated": "010",
+            "desc": ""
+        },
+        {
+            "hash": 948591939,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 957334759,
+            "original": "~z~Maybe not.",
+            "translated": "~z~真不一定。",
+            "desc": ""
+        },
+        {
+            "hash": 1017994331,
+            "original": "~z~Make sure a bomb is well hidden. We shall be concealed here.",
+            "translated": "~z~确保炸弹藏好了。我们躲在这后面。",
+            "desc": ""
+        },
+        {
+            "hash": 1046461257,
+            "original": "E2BG1_ZBA",
+            "translated": "E2BG1_ZBA",
+            "desc": ""
+        },
+        {
+            "hash": 1060370732,
+            "original": "E2BG1_BDC",
+            "translated": "E2BG1_BDC",
+            "desc": ""
+        },
+        {
+            "hash": 1060452350,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1066499032,
+            "original": "~z~We've got to get rid of this attention.",
+            "translated": "~z~我们得避开条子。",
+            "desc": ""
+        },
+        {
+            "hash": 1070321318,
+            "original": "~z~I'd prefer we weren't taking on the National Office of Security Enforcement, but that's a different matter.",
+            "translated": "~z~我可不想和国家安全办公室干上，不过那是另一回事了。",
+            "desc": ""
+        },
+        {
+            "hash": 1079815697,
+            "original": "E2BG1_FA",
+            "translated": "E2BG1_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1095541121,
+            "original": "020090200090020",
+            "translated": "020090200090020",
+            "desc": ""
+        },
+        {
+            "hash": 1113525919,
+            "original": "492",
+            "translated": "492",
+            "desc": ""
+        },
+        {
+            "hash": 1120712908,
+            "original": "~z~ I expect more from a man of your reputation, Mr. Lopez. Goodbye.",
+            "translated": "~z~你辜负了你的名声，Lopez先生。再见了。",
+            "desc": ""
+        },
+        {
+            "hash": 1134127341,
+            "original": "E2BG1_WA",
+            "translated": "E2BG1_WA",
+            "desc": ""
+        },
+        {
+            "hash": 1141803810,
+            "original": "010090100090100090100",
+            "translated": "010090100090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 1162616876,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1164366410,
+            "original": "~z~This NOOSE team is in charge of half the drugs running in the city.",
+            "translated": "~z~这支NOOSE小队经营了市里一半的毒品生意。",
+            "desc": ""
+        },
+        {
+            "hash": 1176194330,
+            "original": "E2BG1_YA",
+            "translated": "E2BG1_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1194288492,
+            "original": "SFX_PAUSE_220",
+            "translated": "SFX_PAUSE_220",
+            "desc": ""
+        },
+        {
+            "hash": 1199731886,
+            "original": "E2BG1_ADC",
+            "translated": "E2BG1_ADC",
+            "desc": ""
+        },
+        {
+            "hash": 1243921300,
+            "original": "~z~You're fucking with the wrong people, Russians.",
+            "translated": "~z~你们惹错人了，俄国佬。",
+            "desc": ""
+        },
+        {
+            "hash": 1256388806,
+            "original": "~z~Place a bomb out of sight. We will hide here.",
+            "translated": "~z~在隐蔽处安放炸弹。我们要躲起来。",
+            "desc": ""
+        },
+        {
+            "hash": 1267220988,
+            "original": "~z~Neutralise the hostiles!",
+            "translated": "~z~消灭所有敌人！",
+            "desc": ""
+        },
+        {
+            "hash": 1274030087,
+            "original": "~z~Take these sticky bombs, Luis. We will need them for our NOOSE friends.",
+            "translated": "~z~拿着这些黏弹，Luis。要用它来招待NOOSE的朋友们。",
+            "desc": ""
+        },
+        {
+            "hash": 1285331141,
+            "original": "E2BG1_BDA",
+            "translated": "E2BG1_BDA",
+            "desc": ""
+        },
+        {
+            "hash": 1298774210,
+            "original": "E2BG1_ATB",
+            "translated": "E2BG1_ATB",
+            "desc": ""
+        },
+        {
+            "hash": 1306684951,
+            "original": "SFX_PAUSE_330",
+            "translated": "SFX_PAUSE_330",
+            "desc": ""
+        },
+        {
+            "hash": 1335149628,
+            "original": "~z~Urghhhh.",
+            "translated": "~z~啊啊啊啊！",
+            "desc": ""
+        },
+        {
+            "hash": 1339274772,
+            "original": "~z~You like getting your hands dirty, Mr. B?",
+            "translated": "~z~你喜欢亲自动手干脏活吗，B先生？",
+            "desc": ""
+        },
+        {
+            "hash": 1379219835,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1385869317,
+            "original": "492",
+            "translated": "492",
+            "desc": ""
+        },
+        {
+            "hash": 1396348166,
+            "original": "E2BG1_CA",
+            "translated": "E2BG1_CA",
+            "desc": ""
+        },
+        {
+            "hash": 1404186240,
+            "original": "~z~What's so fucking funny, man? I don't get you.",
+            "translated": "~z~这有什么好笑的，哥们？搞不懂你。",
+            "desc": ""
+        },
+        {
+            "hash": 1406364386,
+            "original": "E2BG1_AIA",
+            "translated": "E2BG1_AIA",
+            "desc": ""
+        },
+        {
+            "hash": 1435355106,
+            "original": "~z~Fuck! We need this car!",
+            "translated": "~z~操！我们需要这辆车！",
+            "desc": ""
+        },
+        {
+            "hash": 1444645808,
+            "original": "~z~Send my regards to big Tony.",
+            "translated": "~z~代我向Tony大哥问好。",
+            "desc": ""
+        },
+        {
+            "hash": 1472161084,
+            "original": "012090102",
+            "translated": "012090102",
+            "desc": ""
+        },
+        {
+            "hash": 1475936362,
+            "original": "102090012",
+            "translated": "102090012",
+            "desc": ""
+        },
+        {
+            "hash": 1477534549,
+            "original": "~z~Man, I guess shit just don't go to plan every time.",
+            "translated": "~z~哥们，有时候计划就是赶不上变化。",
+            "desc": ""
+        },
+        {
+            "hash": 1522799175,
+            "original": "~z~Good. Good. They should not see that until it's too late.",
+            "translated": "~z~好，很好。等他们发现就已经晚了。",
+            "desc": ""
+        },
+        {
+            "hash": 1528137005,
+            "original": "~z~Don't worry about me.",
+            "translated": "~z~不用担心我。",
+            "desc": ""
+        },
+        {
+            "hash": 1534318885,
+            "original": "~z~Fuck off.",
+            "translated": "~z~滚吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1552941946,
+            "original": "~z~Sure.",
+            "translated": "~z~可以的。",
+            "desc": ""
+        },
+        {
+            "hash": 1553892239,
+            "original": "~z~We need to go down into the lot.",
+            "translated": "~z~下到停车场里面去。",
+            "desc": ""
+        },
+        {
+            "hash": 1564337511,
+            "original": "~z~Stay calm.",
+            "translated": "~z~保持冷静。",
+            "desc": ""
+        },
+        {
+            "hash": 1565464401,
+            "original": "~z~Well done. It will be a fun treat for them.",
+            "translated": "~z~干得好。给他们准备一出恶作剧。",
+            "desc": ""
+        },
+        {
+            "hash": 1572624107,
+            "original": "~z~I don't think so. Maybe I hurt my hands hitting his head.",
+            "translated": "~z~也不一定。给他一下说不定骨折的是我。",
+            "desc": ""
+        },
+        {
+            "hash": 1581042848,
+            "original": "~z~Here are some makeshift bombs. They will be useful.",
+            "translated": "~z~拿上这些土制炸弹。会很有用的。",
+            "desc": ""
+        },
+        {
+            "hash": 1601025573,
+            "original": "E2BG1_BGB",
+            "translated": "E2BG1_BGB",
+            "desc": ""
+        },
+        {
+            "hash": 1638315892,
+            "original": "~z~I see the target car. Let's set up this Russian and get out of here.",
+            "translated": "~z~看到目标车辆了。阴了这个俄国佬就赶紧撤退。",
+            "desc": ""
+        },
+        {
+            "hash": 1667367780,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 1704173038,
+            "original": "~z~~c~ Our Hispanic friend is really very useful.",
+            "translated": "~z~~c~我们的西班牙朋友真有用啊。",
+            "desc": ""
+        },
+        {
+            "hash": 1705013899,
+            "original": "~z~The President said we can do whatever the fuck we want, assholes.",
+            "translated": "~z~总统说我们可以为所欲为，混蛋们。",
+            "desc": ""
+        },
+        {
+            "hash": 1706054300,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1713052243,
+            "original": "E2BG1_AAA",
+            "translated": "E2BG1_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 1744451810,
+            "original": "E2BG1_BJA",
+            "translated": "E2BG1_BJA",
+            "desc": ""
+        },
+        {
+            "hash": 1751917326,
+            "original": "100090010090010",
+            "translated": "100090010090010",
+            "desc": ""
+        },
+        {
+            "hash": 1753205047,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1766955820,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 1772784640,
+            "original": "~z~Place a sticky bomb on the car.",
+            "translated": "~z~在车上放一颗黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1802451605,
+            "original": "SFX_PAUSE_500",
+            "translated": "SFX_PAUSE_500",
+            "desc": ""
+        },
+        {
+            "hash": 1814866296,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1815459114,
+            "original": "~z~Well placed. The bomb should prove quite a surprise for our friends.",
+            "translated": "~z~安装的位置不错。炸弹会给我们的朋友一个大惊喜。",
+            "desc": ""
+        },
+        {
+            "hash": 1825490176,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1831430889,
+            "original": "E2BG1_KA",
+            "translated": "E2BG1_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1836116790,
+            "original": "~z~Let's drop this fucker and say he was an insurgent!",
+            "translated": "~z~干掉这个混蛋，就说他想造反！",
+            "desc": ""
+        },
+        {
+            "hash": 1837831057,
+            "original": "E2BG1_AEA",
+            "translated": "E2BG1_AEA",
+            "desc": ""
+        },
+        {
+            "hash": 1851336452,
+            "original": "~z~Go down into the garage.",
+            "translated": "~z~开到车库里。",
+            "desc": ""
+        },
+        {
+            "hash": 1853859673,
+            "original": "~z~You're the boss.",
+            "translated": "~z~你是老大。",
+            "desc": ""
+        },
+        {
+            "hash": 1872472071,
+            "original": "~z~We can't have this police attention. Lose it.",
+            "translated": "~z~我们不能被警察盯上。甩掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1878042316,
+            "original": "~z~You gonna be okay?",
+            "translated": "~z~你还好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1882252563,
+            "original": "E2BG1_TA",
+            "translated": "E2BG1_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1885333467,
+            "original": "~z~~x~",
+            "translated": "~z~哈哈哈哈哈哈哈哈。",
+            "desc": ""
+        },
+        {
+            "hash": 1890246546,
+            "original": "~z~Stay down now. We shall wait for them.",
+            "translated": "~z~保持低调，我们等他们来。",
+            "desc": ""
+        },
+        {
+            "hash": 1901239624,
+            "original": "E2BG1_AEB",
+            "translated": "E2BG1_AEB",
+            "desc": ""
+        },
+        {
+            "hash": 1908587776,
+            "original": "~z~Close in, people!",
+            "translated": "~z~包上去，各位！",
+            "desc": ""
+        },
+        {
+            "hash": 1918298540,
+            "original": "122090212",
+            "translated": "122090212",
+            "desc": ""
+        },
+        {
+            "hash": 1922155676,
+            "original": "~z~This is your excuse for parking? Straighten her up.",
+            "translated": "~z~你怎么停车的？停好点。",
+            "desc": ""
+        },
+        {
+            "hash": 1958966941,
+            "original": "~z~This is them. Wait for it.",
+            "translated": "~z~他们来了。等着吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1963096705,
+            "original": "~z~Take us to the basement parking lot, in the Middle Park East.",
+            "translated": "~z~带我们去中心公园东的地下停车场。",
+            "desc": ""
+        },
+        {
+            "hash": 1972938785,
+            "original": "E2BG1_AMB",
+            "translated": "E2BG1_AMB",
+            "desc": ""
+        },
+        {
+            "hash": 1975846255,
+            "original": "~z~We will die here if we do not fight. Come on. Let's go.",
+            "translated": "~z~不战斗，就是死。快点，我们上。",
+            "desc": ""
+        },
+        {
+            "hash": 1988222774,
+            "original": "~z~Go back to my sister's house.",
+            "translated": "~z~回我姐姐家去。",
+            "desc": ""
+        },
+        {
+            "hash": 2007472167,
+            "original": "~z~Die! Die! Die!",
+            "translated": "~z~死吧！死吧！死吧！",
+            "desc": ""
+        },
+        {
+            "hash": 2049754531,
+            "original": "E2BG1_BHB",
+            "translated": "E2BG1_BHB",
+            "desc": ""
+        },
+        {
+            "hash": 2065203932,
+            "original": "392",
+            "translated": "392",
+            "desc": ""
+        },
+        {
+            "hash": 2067894162,
+            "original": "~z~Now is the time. Blow it.",
+            "translated": "~z~就是现在，引爆。",
+            "desc": ""
+        },
+        {
+            "hash": 2068975738,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2098733013,
+            "original": "492",
+            "translated": "492",
+            "desc": ""
+        },
+        {
+            "hash": 2101575033,
+            "original": "E2BG1_IA",
+            "translated": "E2BG1_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2114395723,
+            "original": "~z~Eat it.",
+            "translated": "~z~吃枪子吧！",
+            "desc": ""
+        },
+        {
+            "hash": 2121286748,
+            "original": "~z~These guys are all crooked, huh?",
+            "translated": "~z~这些人都受贿了，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 2127323049,
+            "original": "SFX_PAUSE_320",
+            "translated": "SFX_PAUSE_320",
+            "desc": ""
+        },
+        {
+            "hash": 2131345742,
+            "original": "E2BG1_AQA",
+            "translated": "E2BG1_AQA",
+            "desc": ""
+        },
+        {
+            "hash": 2132696006,
+            "original": "010090100090100",
+            "translated": "010090100090100",
+            "desc": ""
+        },
+        {
+            "hash": 2146786953,
+            "original": "~z~We're being set up! Incoming! Incoming!",
+            "translated": "~z~我们被摆了一道！有袭击！有袭击！",
+            "desc": ""
+        },
+        {
+            "hash": 2148882853,
+            "original": "~z~Stay in formation!",
+            "translated": "~z~保持队形！",
+            "desc": ""
+        },
+        {
+            "hash": 2159481286,
+            "original": "~z~I hope you ain't deaf, 'cause I'm about to shoot you!",
+            "translated": "~z~希望你没聋，我就要开枪打你了！",
+            "desc": ""
+        },
+        {
+            "hash": 2159626818,
+            "original": "~z~We are looking for specific peace officers. Lose that heat.",
+            "translated": "~z~我们只想找那几个黑警。摆脱通缉。",
+            "desc": ""
+        },
+        {
+            "hash": 2159991858,
+            "original": "100090010090100",
+            "translated": "100090010090100",
+            "desc": ""
+        },
+        {
+            "hash": 2166106498,
+            "original": "~z~We need to drop these suckers!",
+            "translated": "~z~我们得干掉这些混蛋！",
+            "desc": ""
+        },
+        {
+            "hash": 2170146061,
+            "original": "~z~Whatever, bro.",
+            "translated": "~z~随你吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2179938410,
+            "original": "E2BG1_AZA",
+            "translated": "E2BG1_AZA",
+            "desc": ""
+        },
+        {
+            "hash": 2197523738,
+            "original": "E2BG1_BFA",
+            "translated": "E2BG1_BFA",
+            "desc": ""
+        },
+        {
+            "hash": 2203456995,
+            "original": "~z~Get into cover and ready yourself.",
+            "translated": "~z~躲进掩体，准备好了。",
+            "desc": ""
+        },
+        {
+            "hash": 2208459846,
+            "original": "E2BG1_XA",
+            "translated": "E2BG1_XA",
+            "desc": ""
+        },
+        {
+            "hash": 2209585033,
+            "original": "~z~Here. You will need these sticky bombs for the party.",
+            "translated": "~z~拿着。待会儿的狂欢会用到这些黏弹的。",
+            "desc": ""
+        },
+        {
+            "hash": 2225787466,
+            "original": "SFX_PAUSE_470",
+            "translated": "SFX_PAUSE_470",
+            "desc": ""
+        },
+        {
+            "hash": 2264358128,
+            "original": "~z~Now, Luis, we see if you can handle yourself.",
+            "translated": "~z~好了，Luis，看看你是不是真的有两下子。",
+            "desc": ""
+        },
+        {
+            "hash": 2269208323,
+            "original": "~z~I guess we got to move to plan B.",
+            "translated": "~z~我们只能用B计划了。",
+            "desc": ""
+        },
+        {
+            "hash": 2284437247,
+            "original": "~z~They called reinforcements!",
+            "translated": "~z~他们叫支援了！",
+            "desc": ""
+        },
+        {
+            "hash": 2303303679,
+            "original": "E2BG1_AXA",
+            "translated": "E2BG1_AXA",
+            "desc": ""
+        },
+        {
+            "hash": 2303396170,
+            "original": "~z~Do you want them to see the explosive?",
+            "translated": "~z~你想让他们看到炸弹吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2317171982,
+            "original": "~z~Fuck you!",
+            "translated": "~z~操你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 2320295910,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2320338945,
+            "original": "E2BG1_AGA",
+            "translated": "E2BG1_AGA",
+            "desc": ""
+        },
+        {
+            "hash": 2334781092,
+            "original": "E2BG1_ADB1",
+            "translated": "E2BG1_ADB1",
+            "desc": ""
+        },
+        {
+            "hash": 2341500180,
+            "original": "SFX_PAUSE_390",
+            "translated": "SFX_PAUSE_390",
+            "desc": ""
+        },
+        {
+            "hash": 2348717625,
+            "original": "~z~We must remain hidden until they get here.",
+            "translated": "~z~他们来之前，我们必须躲着。",
+            "desc": ""
+        },
+        {
+            "hash": 2352265894,
+            "original": "~z~There you go.",
+            "translated": "~z~去死吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2354903090,
+            "original": "~z~Park the car straight. That will be suspicious.",
+            "translated": "~z~把车停在好。这样太可疑了。",
+            "desc": ""
+        },
+        {
+            "hash": 2358665724,
+            "original": "~z~Get rid of these cops, Luis. We do not need extra eyes on us.",
+            "translated": "~z~甩掉这些条子，Luis。不能多一双眼睛盯我们。",
+            "desc": ""
+        },
+        {
+            "hash": 2386819878,
+            "original": "~z~This is ain't right! Attack positions!",
+            "translated": "~z~情况不对！攻击阵型！",
+            "desc": ""
+        },
+        {
+            "hash": 2388409622,
+            "original": "E2BG1_ARA",
+            "translated": "E2BG1_ARA",
+            "desc": ""
+        },
+        {
+            "hash": 2414896870,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 2428453819,
+            "original": "~z~Shit.",
+            "translated": "~z~妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 2439708092,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2455476680,
+            "original": "E2BG1_BGA",
+            "translated": "E2BG1_BGA",
+            "desc": ""
+        },
+        {
+            "hash": 2461016401,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 2464220256,
+            "original": "~z~Ambush! Ambush! Get in positions!",
+            "translated": "~z~有埋伏！有埋伏！各自就位！",
+            "desc": ""
+        },
+        {
+            "hash": 2465647927,
+            "original": "~z~N - OO - S - E, motherfuckers.",
+            "translated": "~z~看见的都杀光，傻逼玩意。",
+            "desc": ""
+        },
+        {
+            "hash": 2478424349,
+            "original": "E2BG1_ARB",
+            "translated": "E2BG1_ARB",
+            "desc": ""
+        },
+        {
+            "hash": 2483734419,
+            "original": "102090012",
+            "translated": "102090012",
+            "desc": ""
+        },
+        {
+            "hash": 2484537731,
+            "original": "E2BG1_AA",
+            "translated": "E2BG1_AA",
+            "desc": ""
+        },
+        {
+            "hash": 2513918554,
+            "original": "~z~They called it in. More are coming!",
+            "translated": "~z~他们叫增援了。又要来一波！",
+            "desc": ""
+        },
+        {
+            "hash": 2519701208,
+            "original": "~z~You're coming with me! Get out!",
+            "translated": "~z~跟我进局子吧！出来！",
+            "desc": ""
+        },
+        {
+            "hash": 2520509483,
+            "original": "~z~You got to leave now, civilian.",
+            "translated": "~z~快点走吧，平民。",
+            "desc": ""
+        },
+        {
+            "hash": 2548489519,
+            "original": "E2BG1_AJA",
+            "translated": "E2BG1_AJA",
+            "desc": ""
+        },
+        {
+            "hash": 2556156299,
+            "original": "~z~Assholes.",
+            "translated": "~z~混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2558568306,
+            "original": "SFX_PAUSE_460",
+            "translated": "SFX_PAUSE_460",
+            "desc": ""
+        },
+        {
+            "hash": 2573121835,
+            "original": "E2BG1_BAA",
+            "translated": "E2BG1_BAA",
+            "desc": ""
+        },
+        {
+            "hash": 2581453153,
+            "original": "102090012",
+            "translated": "102090012",
+            "desc": ""
+        },
+        {
+            "hash": 2591789782,
+            "original": "~z~Target acquired!",
+            "translated": "~z~确认目标！",
+            "desc": ""
+        },
+        {
+            "hash": 2612802996,
+            "original": "~z~Keep your heads down until the party kicks off.",
+            "translated": "~z~狂欢开始前先收敛一会儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2643426018,
+            "original": "E2BG1_AFA",
+            "translated": "E2BG1_AFA",
+            "desc": ""
+        },
+        {
+            "hash": 2645152866,
+            "original": "~z~They in place. Detonate.",
+            "translated": "~z~他们到了，引爆它。",
+            "desc": ""
+        },
+        {
+            "hash": 2675157344,
+            "original": "~z~Get the fuck out of there!",
+            "translated": "~z~他妈的滚出来！",
+            "desc": ""
+        },
+        {
+            "hash": 2687718290,
+            "original": "E2BG1_ADA",
+            "translated": "E2BG1_ADA",
+            "desc": ""
+        },
+        {
+            "hash": 2702774868,
+            "original": "E2BG1_AKA",
+            "translated": "E2BG1_AKA",
+            "desc": ""
+        },
+        {
+            "hash": 2767489436,
+            "original": "~z~We will use force if you don't vacate immediately.",
+            "translated": "~z~再不走我们就要动粗了。",
+            "desc": ""
+        },
+        {
+            "hash": 2768157747,
+            "original": "~z~Take us back to my sister's.",
+            "translated": "~z~送我们回我姐姐家。",
+            "desc": ""
+        },
+        {
+            "hash": 2772740667,
+            "original": "E2BG1_BIA",
+            "translated": "E2BG1_BIA",
+            "desc": ""
+        },
+        {
+            "hash": 2781055469,
+            "original": "~z~Get out of here, civilian. We don't want to start reading you the Jingoism Act.",
+            "translated": "~z~快点滚出去，平民。我不想给你念沙文主义法案。",
+            "desc": ""
+        },
+        {
+            "hash": 2788526574,
+            "original": "E2BG1_AFB",
+            "translated": "E2BG1_AFB",
+            "desc": ""
+        },
+        {
+            "hash": 2808580814,
+            "original": "SFX_PAUSE_310",
+            "translated": "SFX_PAUSE_310",
+            "desc": ""
+        },
+        {
+            "hash": 2813431080,
+            "original": "~z~Speak English, bro. I ain't feeling comfortable.",
+            "translated": "~z~说人话，兄弟。我听着不舒服。",
+            "desc": ""
+        },
+        {
+            "hash": 2813438483,
+            "original": "E2BG1_ADB2",
+            "translated": "E2BG1_ADB2",
+            "desc": ""
+        },
+        {
+            "hash": 2814242468,
+            "original": "E2BG1_ABA",
+            "translated": "E2BG1_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 2817764806,
+            "original": "~z~Let's shoot this fuck and ask questions later. Just like the handbook says.",
+            "translated": "~z~先打死再说，之后才是询问。照手册上写的做。",
+            "desc": ""
+        },
+        {
+            "hash": 2832995240,
+            "original": "~z~The incompetent fool!",
+            "translated": "~z~真的废物啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2838731968,
+            "original": "~z~Okay, man.",
+            "translated": "~z~好吧，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 2840206565,
+            "original": "~z~Let's go in.",
+            "translated": "~z~进去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2841903475,
+            "original": "~z~They've called more!",
+            "translated": "~z~他们又叫人了！",
+            "desc": ""
+        },
+        {
+            "hash": 2861044365,
+            "original": "~z~I hope not!",
+            "translated": "~z~但愿不是！",
+            "desc": ""
+        },
+        {
+            "hash": 2862420045,
+            "original": "E2BG1_NA",
+            "translated": "E2BG1_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2883440607,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2886798254,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 2903878319,
+            "original": "~z~There is no plan B, you simpleton. Ray Bulgarin should not need to provide for failure.",
+            "translated": "~z~哪来的B计划，你这傻逼。Ray Bulgarin不需要失败时的预案。",
+            "desc": ""
+        },
+        {
+            "hash": 2928071454,
+            "original": "E2BG1_EA",
+            "translated": "E2BG1_EA",
+            "desc": ""
+        },
+        {
+            "hash": 2933075879,
+            "original": "E2BG1_ZA",
+            "translated": "E2BG1_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 2933747258,
+            "original": "~z~Go to the garage off Topaz Street.",
+            "translated": "~z~去Topaz街的车库。",
+            "desc": ""
+        },
+        {
+            "hash": 2941391724,
+            "original": "E2BG1_AWA",
+            "translated": "E2BG1_AWA",
+            "desc": ""
+        },
+        {
+            "hash": 2946594278,
+            "original": "~z~Let's get out of here. Go. Go.",
+            "translated": "~z~该离开这儿了。撤，撤。",
+            "desc": ""
+        },
+        {
+            "hash": 2992334277,
+            "original": "E2BG1_MA",
+            "translated": "E2BG1_MA",
+            "desc": ""
+        },
+        {
+            "hash": 2994159103,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3006947641,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 3009698546,
+            "original": "~z~That's the car. Get in and plant the evidence.",
+            "translated": "~z~就是这辆车。把证据放车里去。",
+            "desc": ""
+        },
+        {
+            "hash": 3029454048,
+            "original": "E2BG1_RA",
+            "translated": "E2BG1_RA",
+            "desc": ""
+        },
+        {
+            "hash": 3029834330,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3030541305,
+            "original": "E2BG1_BBB1",
+            "translated": "E2BG1_BBB1",
+            "desc": ""
+        },
+        {
+            "hash": 3037779995,
+            "original": "~z~Fuck you.",
+            "translated": "~z~滚你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 3039474132,
+            "original": "~z~Do not let your conscience worry you.",
+            "translated": "~z~你没必要过意不去。",
+            "desc": ""
+        },
+        {
+            "hash": 3041126538,
+            "original": "~z~Someone's fitted the vehicle with an IED. Search the area.",
+            "translated": "~z~有人在车上装了土制炸弹。搜索这片区域。",
+            "desc": ""
+        },
+        {
+            "hash": 3051284324,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3068317769,
+            "original": "E2BG1_ANB",
+            "translated": "E2BG1_ANB",
+            "desc": ""
+        },
+        {
+            "hash": 3077187595,
+            "original": "392",
+            "translated": "392",
+            "desc": ""
+        },
+        {
+            "hash": 3121110580,
+            "original": "E2BG1_AOA",
+            "translated": "E2BG1_AOA",
+            "desc": ""
+        },
+        {
+            "hash": 3124280155,
+            "original": "~z~Okay then. Enjoy yourself.",
+            "translated": "~z~好吧。不打扰你了。",
+            "desc": ""
+        },
+        {
+            "hash": 3126157091,
+            "original": "~z~Stop, motherfuckers!",
+            "translated": "~z~停车，傻逼玩意！",
+            "desc": ""
+        },
+        {
+            "hash": 3128068315,
+            "original": "490",
+            "translated": "490",
+            "desc": ""
+        },
+        {
+            "hash": 3136391943,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3157807835,
+            "original": "E2BG1_APA",
+            "translated": "E2BG1_APA",
+            "desc": ""
+        },
+        {
+            "hash": 3172831406,
+            "original": "~z~Does not everybody?",
+            "translated": "~z~谁不喜欢呢？",
+            "desc": ""
+        },
+        {
+            "hash": 3174127681,
+            "original": "~z~Possible target sighted. Take him down!",
+            "translated": "~z~发现嫌疑目标。干掉他！",
+            "desc": ""
+        },
+        {
+            "hash": 3181226200,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3189478355,
+            "original": "E2BG1_BBB2",
+            "translated": "E2BG1_BBB2",
+            "desc": ""
+        },
+        {
+            "hash": 3193681249,
+            "original": "~z~Put one of the bombs on the car and we shall wait for them.",
+            "translated": "~z~把炸弹安到车上，咱们等他们过来。",
+            "desc": ""
+        },
+        {
+            "hash": 3194271765,
+            "original": "~z~Look, man, I'm sorry about your friend, okay?",
+            "translated": "~z~听我说，哥们。你朋友的事我很遗憾，好吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3195582476,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 3200919147,
+            "original": "~z~Your successors will take my bribes.",
+            "translated": "~z~你的接班人会收我的贿赂的。",
+            "desc": ""
+        },
+        {
+            "hash": 3203989120,
+            "original": "E2BG1_QA",
+            "translated": "E2BG1_QA",
+            "desc": ""
+        },
+        {
+            "hash": 3214527791,
+            "original": "~z~What do you wait for? Come on, Luis.",
+            "translated": "~z~你等啥呢？赶紧的吧，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 3239461010,
+            "original": "~z~Sir. You are going to have to leave the premises. We are on official N. O. O. S. E. business.",
+            "translated": "~z~先生，请你离开这座停车场。我们是国安办官方人员。",
+            "desc": ""
+        },
+        {
+            "hash": 3289975400,
+            "original": "~z~What's wrong with you?",
+            "translated": "~z~你怎么回事？",
+            "desc": ""
+        },
+        {
+            "hash": 3292864301,
+            "original": "~z~Come on. We go now.",
+            "translated": "~z~快点。我们走了。",
+            "desc": ""
+        },
+        {
+            "hash": 3298625340,
+            "original": "~z~The car's been rigged to blow. Scout the area for hostiles.",
+            "translated": "~z~车上安了炸弹。在这里搜寻敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 3298980797,
+            "original": "~z~This is the end of the line!",
+            "translated": "~z~放弃挣扎吧！",
+            "desc": ""
+        },
+        {
+            "hash": 3300999433,
+            "original": "E2BG1_DA",
+            "translated": "E2BG1_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3336188625,
+            "original": "~z~Okay!",
+            "translated": "~z~好耶！",
+            "desc": ""
+        },
+        {
+            "hash": 3368410663,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3371297284,
+            "original": "E2BG1_BHC",
+            "translated": "E2BG1_BHC",
+            "desc": ""
+        },
+        {
+            "hash": 3378748869,
+            "original": "~z~Park up this spot by the pillar.",
+            "translated": "~z~停在柱子边上吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3401673537,
+            "original": "~z~Kill them, Luis.",
+            "translated": "~z~杀了他们，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 3403836745,
+            "original": "E2BG1_ASB",
+            "translated": "E2BG1_ASB",
+            "desc": ""
+        },
+        {
+            "hash": 3409335345,
+            "original": "~z~~c~ Now you know what happens to the people who go against us.",
+            "translated": "~z~~c~这下知道跟我们对着干会有什么下场了吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3423032715,
+            "original": "~z~Come on Luis, this is what we are born to do!",
+            "translated": "~z~上吧Luis，这就是我们生来的使命。",
+            "desc": ""
+        },
+        {
+            "hash": 3428973963,
+            "original": "E2BG1_ANA",
+            "translated": "E2BG1_ANA",
+            "desc": ""
+        },
+        {
+            "hash": 3433583763,
+            "original": "E2BG1_AFC",
+            "translated": "E2BG1_AFC",
+            "desc": ""
+        },
+        {
+            "hash": 3436418654,
+            "original": "~z~No money will buy us out of this, we have to lose them.",
+            "translated": "~z~花钱可没法买通追兵。只能甩掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 3440100078,
+            "original": "~z~You should not leave this tomb!",
+            "translated": "~z~你跑不出这片墓地的！",
+            "desc": ""
+        },
+        {
+            "hash": 3450684984,
+            "original": "~z~Head shots only, boys.",
+            "translated": "~z~必须爆头，各位。",
+            "desc": ""
+        },
+        {
+            "hash": 3485027709,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3485579405,
+            "original": "~z~Perfect. Blow them up!",
+            "translated": "~z~完美。炸飞他们！",
+            "desc": ""
+        },
+        {
+            "hash": 3496494573,
+            "original": "~z~Grrrrrrrrr!",
+            "translated": "~z~呃呜！",
+            "desc": ""
+        },
+        {
+            "hash": 3517643138,
+            "original": "010090100",
+            "translated": "010090100",
+            "desc": ""
+        },
+        {
+            "hash": 3525628751,
+            "original": "~z~Detonate when they are near the car.",
+            "translated": "~z~他们靠近车了就引爆。",
+            "desc": ""
+        },
+        {
+            "hash": 3531022806,
+            "original": "E2BG1_BBA",
+            "translated": "E2BG1_BBA",
+            "desc": ""
+        },
+        {
+            "hash": 3536492901,
+            "original": "~z~Things are about to get hot in here.",
+            "translated": "~z~场面就要火热起来了。",
+            "desc": ""
+        },
+        {
+            "hash": 3536823201,
+            "original": "~z~There's a bomb on the car. Let's find the hostile that put it there. Move out.",
+            "translated": "~z~车上有炸弹。寻找敌人，当场击毙。散开。",
+            "desc": ""
+        },
+        {
+            "hash": 3537167375,
+            "original": "~z~Hey, civilian, you don't want to be around here. Move on out before we redact your ass.",
+            "translated": "~z~喂，平民，别在这里待着。不出去就让你人间蒸发。",
+            "desc": ""
+        },
+        {
+            "hash": 3543083512,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3546391170,
+            "original": "E2BG1_GA",
+            "translated": "E2BG1_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3566960242,
+            "original": "SFX_PAUSE_420",
+            "translated": "SFX_PAUSE_420",
+            "desc": ""
+        },
+        {
+            "hash": 3572142520,
+            "original": "E2BG1_AOB",
+            "translated": "E2BG1_AOB",
+            "desc": ""
+        },
+        {
+            "hash": 3579006735,
+            "original": "E2BG1_ATA",
+            "translated": "E2BG1_ATA",
+            "desc": ""
+        },
+        {
+            "hash": 3586784992,
+            "original": "102090012",
+            "translated": "102090012",
+            "desc": ""
+        },
+        {
+            "hash": 3601997144,
+            "original": "E2BG1_JA",
+            "translated": "E2BG1_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3608115319,
+            "original": "~z~Alright.",
+            "translated": "~z~好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3626297587,
+            "original": "~z~This will be nasty surprise for them, hide one of those sticky bombs on the car.",
+            "translated": "~z~给他们来点恶作剧，在车上藏几颗黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 3632464093,
+            "original": "~z~Mr. Ray is no here. Get him.",
+            "translated": "~z~Ray先生还没上车。去找他。",
+            "desc": ""
+        },
+        {
+            "hash": 3633061649,
+            "original": "~z~Timur, bro. You ain't talking much. Nervous?",
+            "translated": "~z~Timur老兄，你怎么不吱声了？慌了？",
+            "desc": ""
+        },
+        {
+            "hash": 3634910958,
+            "original": "E2BG1_PA",
+            "translated": "E2BG1_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3635653475,
+            "original": "E2BG1_ACA",
+            "translated": "E2BG1_ACA",
+            "desc": ""
+        },
+        {
+            "hash": 3650934125,
+            "original": "~z~Nothing worse than a bad guy with a badge.",
+            "translated": "~z~戴警徽的坏蛋真是太糟了。",
+            "desc": ""
+        },
+        {
+            "hash": 3669634087,
+            "original": "~z~They will still see that bomb!",
+            "translated": "~z~他们还是会看到炸弹的！",
+            "desc": ""
+        },
+        {
+            "hash": 3669774180,
+            "original": "~z~We have to fight our way out.",
+            "translated": "~z~我们得杀出一条血路。",
+            "desc": ""
+        },
+        {
+            "hash": 3687521809,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3703491090,
+            "original": "~z~Ray! The motherfuckers!",
+            "translated": "~z~Ray! 操你妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 3723825322,
+            "original": "SFX_PAUSE_290",
+            "translated": "SFX_PAUSE_290",
+            "desc": ""
+        },
+        {
+            "hash": 3731105394,
+            "original": "202090022",
+            "translated": "202090022",
+            "desc": ""
+        },
+        {
+            "hash": 3734360892,
+            "original": "~z~Now we slaughter them!",
+            "translated": "~z~是时候宰了他们了！",
+            "desc": ""
+        },
+        {
+            "hash": 3752924448,
+            "original": "~z~Don't use my name, man. Shit!",
+            "translated": "~z~别报名字啊，伙计。操！",
+            "desc": ""
+        },
+        {
+            "hash": 3764284314,
+            "original": "~z~Shoot first, plant evidence later.",
+            "translated": "~z~先杀人，证据待会儿再塞。",
+            "desc": ""
+        },
+        {
+            "hash": 3786631299,
+            "original": "~z~Arghhhhh!",
+            "translated": "~z~啊啊啊啊啊！",
+            "desc": ""
+        },
+        {
+            "hash": 3805418952,
+            "original": "E2BG1_LA",
+            "translated": "E2BG1_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3805506660,
+            "original": "E2BG1_OA",
+            "translated": "E2BG1_OA",
+            "desc": ""
+        },
+        {
+            "hash": 3824892752,
+            "original": "390",
+            "translated": "390",
+            "desc": ""
+        },
+        {
+            "hash": 3830071254,
+            "original": "SFX_PAUSE_400",
+            "translated": "SFX_PAUSE_400",
+            "desc": ""
+        },
+        {
+            "hash": 3830716067,
+            "original": "~z~Come on, Luis.",
+            "translated": "~z~跟上，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 3870290001,
+            "original": "E2BG1_SA",
+            "translated": "E2BG1_SA",
+            "desc": ""
+        },
+        {
+            "hash": 3880743122,
+            "original": "~z~Dirty fucking cops.",
+            "translated": "~z~臭逼黑警。",
+            "desc": ""
+        },
+        {
+            "hash": 3883237434,
+            "original": "E2BG1_AHA",
+            "translated": "E2BG1_AHA",
+            "desc": ""
+        },
+        {
+            "hash": 3886010741,
+            "original": "~z~I told you to do something.",
+            "translated": "~z~我告诉过你要干嘛的。",
+            "desc": ""
+        },
+        {
+            "hash": 3899470622,
+            "original": "~z~Now we must hide and wait for our friends. Get behind a car.",
+            "translated": "~z~现在我们得躲着等朋友来。到车后面去。",
+            "desc": ""
+        },
+        {
+            "hash": 3904536042,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3908561883,
+            "original": "~z~Forward! We must fight out of here.",
+            "translated": "~z~冲啊！必须杀出一条生路。",
+            "desc": ""
+        },
+        {
+            "hash": 3913730368,
+            "original": "~z~They will see that there, you imbecile.",
+            "translated": "~z~放这里他们会看到的，傻逼吧你。",
+            "desc": ""
+        },
+        {
+            "hash": 3929318464,
+            "original": "~z~You leave Mr. Ray, shithead.",
+            "translated": "~z~你把Ray先生落下了，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3933076914,
+            "original": "~z~Where is Marki Ashvilli now?",
+            "translated": "~z~Marki Ashvilli现在在哪呢？",
+            "desc": ""
+        },
+        {
+            "hash": 3944009555,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3967678412,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3971477376,
+            "original": "~z~This is the time! Attack!",
+            "translated": "~z~是时候了！开火！",
+            "desc": ""
+        },
+        {
+            "hash": 3972453956,
+            "original": "~z~Get us out of here.",
+            "translated": "~z~带咱们离开这。",
+            "desc": ""
+        },
+        {
+            "hash": 3997226449,
+            "original": "SFX_PAUSE_350",
+            "translated": "SFX_PAUSE_350",
+            "desc": ""
+        },
+        {
+            "hash": 3999327593,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4003373474,
+            "original": "SFX_OVERLAP_1150",
+            "translated": "SFX_OVERLAP_1150",
+            "desc": ""
+        },
+        {
+            "hash": 4022711091,
+            "original": "E2BG1_BHA",
+            "translated": "E2BG1_BHA",
+            "desc": ""
+        },
+        {
+            "hash": 4024408743,
+            "original": "392",
+            "translated": "392",
+            "desc": ""
+        },
+        {
+            "hash": 4031861874,
+            "original": "~z~No doubt.",
+            "translated": "~z~确实。",
+            "desc": ""
+        },
+        {
+            "hash": 4033089485,
+            "original": "~z~When they gather round the car, blow it.",
+            "translated": "~z~等他们聚到车子周围了，引爆炸弹。",
+            "desc": ""
+        },
+        {
+            "hash": 4044937959,
+            "original": "E2BG1_BDB",
+            "translated": "E2BG1_BDB",
+            "desc": ""
+        },
+        {
+            "hash": 4045877321,
+            "original": "~z~Luis! Hurry!",
+            "translated": "~z~Luis！快点！",
+            "desc": ""
+        },
+        {
+            "hash": 4048830362,
+            "original": "E2BG1_AYA",
+            "translated": "E2BG1_AYA",
+            "desc": ""
+        },
+        {
+            "hash": 4053585333,
+            "original": "~z~Pull over! Now!",
+            "translated": "~z~立即停车！",
+            "desc": ""
+        },
+        {
+            "hash": 4058164035,
+            "original": "~z~Marki has this in his pockets.",
+            "translated": "~z~Marki控制着这支小队。",
+            "desc": ""
+        },
+        {
+            "hash": 4075418893,
+            "original": "~z~Luis! Get behind something.",
+            "translated": "~z~Luis！找个地方躲着。",
+            "desc": ""
+        },
+        {
+            "hash": 4076048523,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4110108630,
+            "original": "100090010",
+            "translated": "100090010",
+            "desc": ""
+        },
+        {
+            "hash": 4121400353,
+            "original": "~z~You should have taken the money!",
+            "translated": "~z~谁让你们不收我钱！",
+            "desc": ""
+        },
+        {
+            "hash": 4123373574,
+            "original": "~z~We doin' our best.",
+            "translated": "~z~我们尽力了。",
+            "desc": ""
+        },
+        {
+            "hash": 4127198779,
+            "original": "~z~Take that, man.",
+            "translated": "~z~接招吧，伙计。",
+            "desc": ""
+        },
+        {
+            "hash": 4128478992,
+            "original": "~z~We got us a firefight, boys!",
+            "translated": "~z~我们交上火了，兄弟们！",
+            "desc": ""
+        },
+        {
+            "hash": 4133285615,
+            "original": "~z~I give you a simple task.",
+            "translated": "~z~这就是个小任务。",
+            "desc": ""
+        },
+        {
+            "hash": 4137363420,
+            "original": "E2BG1_AMA",
+            "translated": "E2BG1_AMA",
+            "desc": ""
+        },
+        {
+            "hash": 4147214688,
+            "original": "~z~Leave the car in this empty space over by the pillar.",
+            "translated": "~z~停到柱子边上的空位里。",
+            "desc": ""
+        },
+        {
+            "hash": 4150334990,
+            "original": "~z~We're gonna get paid extra for killing you.",
+            "translated": "~z~杀了你咱们还有奖金拿。",
+            "desc": ""
+        },
+        {
+            "hash": 4179283269,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 4192694600,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 4221262202,
+            "original": "~z~Conceal yourselves behind these car. We will wait for Marki's puppets.",
+            "translated": "~z~在车后躲好了。我们等着看Marki的傀儡吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4229270528,
+            "original": "~z~We have not got Timur. What is this?",
+            "translated": "~z~Timur还没上车呢，什么情况？",
+            "desc": ""
+        },
+        {
+            "hash": 4249001881,
+            "original": "~z~Bye bye.",
+            "translated": "~z~拜拜。",
+            "desc": ""
+        },
+        {
+            "hash": 4254703687,
+            "original": "~z~You die now.",
+            "translated": "~z~你死啦。",
+            "desc": ""
+        },
+        {
+            "hash": 4269845510,
+            "original": "~z~Detonate when they come to the car, okay?",
+            "translated": "~z~他们一靠近车子就引爆，明白？",
+            "desc": ""
+        }
+    ]
+}

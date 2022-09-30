@@ -1,0 +1,76 @@
+{
+    "DRINK": [
+        {
+            "hash": 477533322,
+            "original": "You are drinking too fast, rotate ~PAD_RSTICK_ALL~ slower.",
+            "translated": "你喝得太急了，慢慢转动~PAD_RSTICK_ALL~。",
+            "desc": ""
+        },
+        {
+            "hash": 753536364,
+            "original": "You are drinking too fast, rotate ~PAD_RSTICK_ROTATE~ slower.",
+            "translated": "你喝得太急了，慢慢转动~PAD_RSTICK_ROTATE~。",
+            "desc": ""
+        },
+        {
+            "hash": 992258529,
+            "original": "You are drinking too slowly, rotate ~PAD_RSTICK_ROTATE~ faster.",
+            "translated": "你喝得太慢了，加速转动~PAD_RSTICK_ROTATE~。",
+            "desc": ""
+        },
+        {
+            "hash": 1129134919,
+            "original": "~r~You drank too much.~s~",
+            "translated": "~r~你喝得太多了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1898157815,
+            "original": "~r~You drank too fast.",
+            "translated": "~r~你喝得太快了。",
+            "desc": ""
+        },
+        {
+            "hash": 2163291794,
+            "original": "Well done! You finished the bottle.",
+            "translated": "厉害！整瓶吹了。",
+            "desc": ""
+        },
+        {
+            "hash": 2241872878,
+            "original": "You are drinking too slowly, rotate ~PAD_RSTICK_ALL~ faster.",
+            "translated": "你喝得太慢了，加速转动~PAD_RSTICK_ALL~。",
+            "desc": ""
+        },
+        {
+            "hash": 2509266896,
+            "original": "~r~You've upset the other customers.",
+            "translated": "~r~你惹恼了其他客人。",
+            "desc": ""
+        },
+        {
+            "hash": 2663281196,
+            "original": "~s~You've upset the other customers.",
+            "translated": "~s~你惹恼了其他客人。",
+            "desc": ""
+        },
+        {
+            "hash": 2882800727,
+            "original": "~r~You drank too slowly.~s~",
+            "translated": "~r~你喝得太慢了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3056017661,
+            "original": "~r~You drank too much.~s~",
+            "translated": "~r~你喝得太多了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3667519970,
+            "original": "~r~You drank too slowly.~s~",
+            "translated": "~r~你喝得太慢了。~s~",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "CLBPRC6": [
+        {
+            "hash": 1149390556,
+            "original": "Get to ~y~Vespucci University.",
+            "translated": "前往~y~Vespucci大学。",
+            "desc": ""
+        },
+        {
+            "hash": 1793072019,
+            "original": "You've left ~b~Al~s~ behind.",
+            "translated": "你把~b~Al~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 2015245839,
+            "original": "~r~You abandoned Al Di Napoli.",
+            "translated": "~r~你抛弃了Al Di Napoli。",
+            "desc": ""
+        },
+        {
+            "hash": 2576762219,
+            "original": "~r~You spooked the dealers. The deal is off.",
+            "translated": "~r~你吓到了毒贩，交易中止。",
+            "desc": ""
+        },
+        {
+            "hash": 2630942580,
+            "original": "Get to the ~y~Amdram Theater.",
+            "translated": "前往~y~Amdram剧院。",
+            "desc": ""
+        },
+        {
+            "hash": 2728318816,
+            "original": "Get a vehicle.",
+            "translated": "找一辆载具。",
+            "desc": ""
+        },
+        {
+            "hash": 2837935105,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around and check for trouble.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周有无状况。",
+            "desc": ""
+        },
+        {
+            "hash": 3313802567,
+            "original": "~r~You hurt Troy.",
+            "translated": "~r~你伤害了Troy。",
+            "desc": ""
+        },
+        {
+            "hash": 3357890076,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3428428525,
+            "original": "~r~Al Di Napoli was hurt.",
+            "translated": "~r~Al Di Napoli受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 3553127778,
+            "original": "~r~Al Di Napoli is dead.",
+            "translated": "~r~Al Di Napoli死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3568188314,
+            "original": "~r~You hurt Dessie.",
+            "translated": "~r~你伤害了Dessie。",
+            "desc": ""
+        },
+        {
+            "hash": 3628384967,
+            "original": "~r~Club management failed.",
+            "translated": "~r~夜店经营任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 3896907349,
+            "original": "Gor to ~y~Hercules.",
+            "translated": "前往~y~大力神。",
+            "desc": ""
+        },
+        {
+            "hash": 4083166345,
+            "original": "Go and meet ~b~Al Di Napoli.",
+            "translated": "去找~b~Al Di Napoli。",
+            "desc": ""
+        }
+    ]
+}

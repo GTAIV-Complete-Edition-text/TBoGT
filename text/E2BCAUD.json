@@ -1,0 +1,2272 @@
+{
+    "E2BCAUD": [
+        {
+            "hash": 14270248,
+            "original": "~z~Hey, playa!",
+            "translated": "~z~嘿，赢家！",
+            "desc": ""
+        },
+        {
+            "hash": 20284261,
+            "original": "~z~Oh, fine.",
+            "translated": "~z~哦，好啊。",
+            "desc": ""
+        },
+        {
+            "hash": 44788058,
+            "original": "~z~I can't wait 'til I see you, Luis.",
+            "translated": "~z~我等不及见你了，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 54382553,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 62939674,
+            "original": "~z~Come on up!",
+            "translated": "~z~上来吧！",
+            "desc": ""
+        },
+        {
+            "hash": 86857589,
+            "original": "~z~I could not wait any longer.",
+            "translated": "~z~我已经等不及了。",
+            "desc": ""
+        },
+        {
+            "hash": 95065947,
+            "original": "~z~Whatever.",
+            "translated": "~z~随你便。",
+            "desc": ""
+        },
+        {
+            "hash": 107439030,
+            "original": "E2BC_AYA",
+            "translated": "E2BC_AYA",
+            "desc": ""
+        },
+        {
+            "hash": 114078010,
+            "original": "~z~Baby, the things I've been thinking about doing to you...",
+            "translated": "~z~宝贝，我想对你做这样那样的事...",
+            "desc": ""
+        },
+        {
+            "hash": 132264043,
+            "original": "E2BCL_EA",
+            "translated": "E2BCL_EA",
+            "desc": ""
+        },
+        {
+            "hash": 136765173,
+            "original": "E2BC_BBA",
+            "translated": "E2BC_BBA",
+            "desc": ""
+        },
+        {
+            "hash": 145419054,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 160340845,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 161266979,
+            "original": "~z~I was thinking my girlfriend, could erh, join us?",
+            "translated": "~z~能让我的女友她...加入我们吗？",
+            "desc": ""
+        },
+        {
+            "hash": 169385885,
+            "original": "E2BC_BFA",
+            "translated": "E2BC_BFA",
+            "desc": ""
+        },
+        {
+            "hash": 175399407,
+            "original": "~z~Whatever.",
+            "translated": "~z~随你。",
+            "desc": ""
+        },
+        {
+            "hash": 199698176,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 201012805,
+            "original": "~z~This guy can't handle me alone, come on!",
+            "translated": "~z~这家伙不能让我一个人抗啊，拜托！",
+            "desc": ""
+        },
+        {
+            "hash": 215199334,
+            "original": "~z~You better be ready for this shit!",
+            "translated": "~z~你最好准备好！",
+            "desc": ""
+        },
+        {
+            "hash": 222637176,
+            "original": "~z~Okay, I got a minute for you.",
+            "translated": "~z~好的，我也刚好有空。",
+            "desc": ""
+        },
+        {
+            "hash": 234965313,
+            "original": "~z~Stud, I want you, now!",
+            "translated": "~z~帅哥，我现在就要你！",
+            "desc": ""
+        },
+        {
+            "hash": 236936688,
+            "original": "~z~Hey, win some, lose some.",
+            "translated": "~z~嗨，有得有失。",
+            "desc": ""
+        },
+        {
+            "hash": 254925019,
+            "original": "E2BC_AOA",
+            "translated": "E2BC_AOA",
+            "desc": ""
+        },
+        {
+            "hash": 262387406,
+            "original": "~z~Hey sugar!",
+            "translated": "~z~嘿，甜心！",
+            "desc": ""
+        },
+        {
+            "hash": 295140323,
+            "original": "~z~What are you doing later? My boyfriend is out!",
+            "translated": "~z~你待会儿有事吗？我男友不在家！",
+            "desc": ""
+        },
+        {
+            "hash": 300984319,
+            "original": "~z~It's just not working out sugar. We're from different worlds. I'm sorry.",
+            "translated": "~z~这样不会有结果的，甜心。我们来自不同的世界。我很抱歉。",
+            "desc": ""
+        },
+        {
+            "hash": 310592462,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 317438586,
+            "original": "~z~Put on something sexy.",
+            "translated": "~z~换身性感的。",
+            "desc": ""
+        },
+        {
+            "hash": 326928835,
+            "original": "~z~Sorry, mami. I'm real busy right now.",
+            "translated": "~z~抱歉，姑娘。我现在真的很忙。",
+            "desc": ""
+        },
+        {
+            "hash": 350864798,
+            "original": "E2BC_AEA",
+            "translated": "E2BC_AEA",
+            "desc": ""
+        },
+        {
+            "hash": 370152082,
+            "original": "~z~I'm so lonely in this city. I need someone to be close to me.",
+            "translated": "~z~我在自由城孤身一人，真的需要有个依靠。",
+            "desc": ""
+        },
+        {
+            "hash": 385254675,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 400906676,
+            "original": "~z~So I've always wanted to try with another girl as well, would you mind?",
+            "translated": "~z~我一直想带个其他女生试试，你介意吗？",
+            "desc": ""
+        },
+        {
+            "hash": 420629422,
+            "original": "E2BC_CA",
+            "translated": "E2BC_CA",
+            "desc": ""
+        },
+        {
+            "hash": 431179561,
+            "original": "~z~Hello! My bullfighter of love!",
+            "translated": "~z~你好！我的爱之斗牛士！",
+            "desc": ""
+        },
+        {
+            "hash": 439572499,
+            "original": "~z~You remember this voice nena? Why don't we get together.",
+            "translated": "~z~还记得我的声音吗，宝贝？我们聚一聚吧。",
+            "desc": ""
+        },
+        {
+            "hash": 444596377,
+            "original": "~z~No! Don't take away your macho love!",
+            "translated": "~z~不！我离不开你男子汉的爱！",
+            "desc": ""
+        },
+        {
+            "hash": 446121756,
+            "original": "~z~Get some potassium. Eat a banana or something. You're going to be put to work.",
+            "translated": "~z~补点营养。吃根香蕉啥的。你就要上阵了。",
+            "desc": ""
+        },
+        {
+            "hash": 455614907,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 466384078,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 478894435,
+            "original": "~z~Yo, I was just passing by.",
+            "translated": "~z~哟，我刚好路过。",
+            "desc": ""
+        },
+        {
+            "hash": 498303292,
+            "original": "~z~Hey Luis, it's me? We met at the club. You wanna hang out?",
+            "translated": "~z~嘿，Luis，是我。我们在夜店见过。你想约一下吗？",
+            "desc": ""
+        },
+        {
+            "hash": 501386277,
+            "original": "~z~Oi, Luis. I don't think I wanna see you no more. Just got a bit bored you know.",
+            "translated": "~z~喂，Luis。我不想再见到你了。就是有点厌烦了。",
+            "desc": ""
+        },
+        {
+            "hash": 503862926,
+            "original": "~z~Yeah, so it's been fun, and that's all it's gonna be. See you around.",
+            "translated": "~z~那个，玩得很高兴，那就到此为止吧。再见。",
+            "desc": ""
+        },
+        {
+            "hash": 514366382,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 533584349,
+            "original": "~z~Hey, gorgeous, you're gonna have to fogive me, but I ain't the relationship type.",
+            "translated": "~z~喂，美人，希望你能原谅我，但我不适合长久的恋爱。",
+            "desc": ""
+        },
+        {
+            "hash": 543095331,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 569333565,
+            "original": "~z~Yeah, sounds kind of fun, I'm there.",
+            "translated": "~z~好啊，听起来很好玩，我来了。",
+            "desc": ""
+        },
+        {
+            "hash": 582042794,
+            "original": "E2BC_BHA",
+            "translated": "E2BC_BHA",
+            "desc": ""
+        },
+        {
+            "hash": 582678538,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 586276202,
+            "original": "~z~Luis!",
+            "translated": "~z~Luis！",
+            "desc": ""
+        },
+        {
+            "hash": 598660304,
+            "original": "~z~Señor Luis! Remember my erotic smile?",
+            "translated": "~z~Luis先生！还记得我淫荡的笑容吗？",
+            "desc": ""
+        },
+        {
+            "hash": 601047434,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 606399963,
+            "original": "~z~What? Are you kinding me? Little dick moron.",
+            "translated": "~z~什么？你在开玩笑吗？小屌子白痴。",
+            "desc": ""
+        },
+        {
+            "hash": 620931424,
+            "original": "~z~Can I see you soon?",
+            "translated": "~z~待会儿能见到你吗？",
+            "desc": ""
+        },
+        {
+            "hash": 629722972,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 630685582,
+            "original": "~z~Sorry sugar, tonight can't work for me. Maybe some other time.",
+            "translated": "~z~对不起，甜心，我今天晚上没空。改天再约吧。",
+            "desc": ""
+        },
+        {
+            "hash": 657833082,
+            "original": "~z~Hi gorgeous.",
+            "translated": "~z~嗨，帅哥。",
+            "desc": ""
+        },
+        {
+            "hash": 665978929,
+            "original": "~z~Sorry honey, I can't make it now.",
+            "translated": "~z~对不起，宝贝，我现在没空。",
+            "desc": ""
+        },
+        {
+            "hash": 670938733,
+            "original": "~z~You wouldn't mind keeping me company would you?",
+            "translated": "~z~你不介意来陪着我，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 676352079,
+            "original": "E2BC_WA",
+            "translated": "E2BC_WA",
+            "desc": ""
+        },
+        {
+            "hash": 676948784,
+            "original": "~z~It was fun hanging with you, but I'm afraid this is it.",
+            "translated": "~z~和你相处很快乐，但也到此为止了。",
+            "desc": ""
+        },
+        {
+            "hash": 680620207,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 692473176,
+            "original": "~z~Cool! Did I tell you I'm a model? It's great.",
+            "translated": "~z~行啊！我告诉过你我是模特吗？太棒了。",
+            "desc": ""
+        },
+        {
+            "hash": 695873061,
+            "original": "~z~Bye, big player.",
+            "translated": "~z~再见，大玩家。",
+            "desc": ""
+        },
+        {
+            "hash": 697696181,
+            "original": "E2BC_APA",
+            "translated": "E2BC_APA",
+            "desc": ""
+        },
+        {
+            "hash": 720884419,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 728894788,
+            "original": "E2BC_IA",
+            "translated": "E2BC_IA",
+            "desc": ""
+        },
+        {
+            "hash": 731633242,
+            "original": "~z~Hey! I was wondering if you'd call.",
+            "translated": "~z~嘿！正好在想你会不会打给我。",
+            "desc": ""
+        },
+        {
+            "hash": 746238185,
+            "original": "E2BC_AFA",
+            "translated": "E2BC_AFA",
+            "desc": ""
+        },
+        {
+            "hash": 755739089,
+            "original": "E2BCL_GA",
+            "translated": "E2BCL_GA",
+            "desc": ""
+        },
+        {
+            "hash": 759353759,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 764700897,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 784986454,
+            "original": "~z~Hello! My sexy macho Señor!",
+            "translated": "~z~你好！我性感的男子汉！",
+            "desc": ""
+        },
+        {
+            "hash": 791141342,
+            "original": "~z~I hope it's cool if my friend wants to join?",
+            "translated": "~z~我带个朋友一起没事吧？",
+            "desc": ""
+        },
+        {
+            "hash": 830438720,
+            "original": "~z~Hey sorry, chula, but I've too much going on for a relationship right now.",
+            "translated": "~z~喂，对不起，美女，但我现在没空维持这段感情了。",
+            "desc": ""
+        },
+        {
+            "hash": 830950439,
+            "original": "E2BC_AIA",
+            "translated": "E2BC_AIA",
+            "desc": ""
+        },
+        {
+            "hash": 839293708,
+            "original": "E2BC_ARA",
+            "translated": "E2BC_ARA",
+            "desc": ""
+        },
+        {
+            "hash": 871592940,
+            "original": "~z~Good bye then.",
+            "translated": "~z~再见。",
+            "desc": ""
+        },
+        {
+            "hash": 883355437,
+            "original": "091",
+            "translated": "091",
+            "desc": ""
+        },
+        {
+            "hash": 887813113,
+            "original": "~z~You still on the fucking line?",
+            "translated": "~z~你他妈还在忙？",
+            "desc": ""
+        },
+        {
+            "hash": 888901827,
+            "original": "E2BC_AJA",
+            "translated": "E2BC_AJA",
+            "desc": ""
+        },
+        {
+            "hash": 900056221,
+            "original": "E2BC_XA",
+            "translated": "E2BC_XA",
+            "desc": ""
+        },
+        {
+            "hash": 902646517,
+            "original": "~z~Hey Luis, I miss you! What are you up to?",
+            "translated": "~z~嘿，Luis，我很想你！你有空吗？",
+            "desc": ""
+        },
+        {
+            "hash": 908733075,
+            "original": "~z~Hey, I'm not around. Now it's your turn to talk.",
+            "translated": "~z~嘿，我不在家。现在该你说话了。",
+            "desc": ""
+        },
+        {
+            "hash": 927016783,
+            "original": "~z~Hmm, now's not really good for me.",
+            "translated": "~z~嗯...我现在不太方便。",
+            "desc": ""
+        },
+        {
+            "hash": 950710940,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 990541111,
+            "original": "~z~Well, look who it is.",
+            "translated": "~z~好吧，看看这是谁。",
+            "desc": ""
+        },
+        {
+            "hash": 998813853,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 1010192676,
+            "original": "~z~You ready to go to work between these new thighs? I just got the fat sucked out of them.",
+            "translated": "~z~准备好迎接我全新的大腿了吗？我刚做完抽脂。",
+            "desc": ""
+        },
+        {
+            "hash": 1012146025,
+            "original": "E2BC_BEA",
+            "translated": "E2BC_BEA",
+            "desc": ""
+        },
+        {
+            "hash": 1030201247,
+            "original": "~z~I've been thinking about you mami, you wanna give me another taste of that shit?",
+            "translated": "~z~我一直在想你，姑娘。我能再尝尝你的滋味吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1042071110,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1053356453,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 1053494028,
+            "original": "~z~Is this Luis? Master of sexy ramba salsa?",
+            "translated": "~z~是Luis吗？性感伦巴萨尔萨舞王？",
+            "desc": ""
+        },
+        {
+            "hash": 1074465442,
+            "original": "E2BC_ALA",
+            "translated": "E2BC_ALA",
+            "desc": ""
+        },
+        {
+            "hash": 1077466365,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1083956871,
+            "original": "~z~Get your sword ready for stabbing Señor.",
+            "translated": "~z~准备好你的宝剑，先生。",
+            "desc": ""
+        },
+        {
+            "hash": 1087536947,
+            "original": "~z~I told my friend she could come with us, that's cool right?",
+            "translated": "~z~我找了个朋友和我们一起，应该没事吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1105534554,
+            "original": "~z~Yo, it's Luis.",
+            "translated": "~z~哟，我是Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1120843022,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1123984487,
+            "original": "~z~Alright, why not?",
+            "translated": "~z~好吧，何不呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1140057653,
+            "original": "E2BC_BRA",
+            "translated": "E2BC_BRA",
+            "desc": ""
+        },
+        {
+            "hash": 1143251384,
+            "original": "~z~Don't be such a baby, Luis.",
+            "translated": "~z~别这么孩子气，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1145738854,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1164562680,
+            "original": "E2BC_BZA",
+            "translated": "E2BC_BZA",
+            "desc": ""
+        },
+        {
+            "hash": 1176037967,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1213981031,
+            "original": "E2BC_PA",
+            "translated": "E2BC_PA",
+            "desc": ""
+        },
+        {
+            "hash": 1226790408,
+            "original": "~z~No, Luis. I'm sick of this shit.",
+            "translated": "~z~不， Luis。我已经受够了。",
+            "desc": ""
+        },
+        {
+            "hash": 1228345744,
+            "original": "~z~You back for more huh?",
+            "translated": "~z~你又想要了啊？",
+            "desc": ""
+        },
+        {
+            "hash": 1244375317,
+            "original": "~z~I think I can help you out with that one, girl. I'll be at your place in a few.",
+            "translated": "~z~我应该能帮你解决，姑娘。我马上来你家。",
+            "desc": ""
+        },
+        {
+            "hash": 1250571102,
+            "original": "~z~Get in here bitch!",
+            "translated": "~z~滚进来，贱人！",
+            "desc": ""
+        },
+        {
+            "hash": 1252386131,
+            "original": "~z~I don't mind being objectived for the evening. Ok.",
+            "translated": "~z~我不介意晚上有活动。可以。",
+            "desc": ""
+        },
+        {
+            "hash": 1281375332,
+            "original": "~z~Hola mami, remember me? I was thinking we could have some fun.",
+            "translated": "~z~你好，妹子，还记得我吗？我们可以欢度春宵。",
+            "desc": ""
+        },
+        {
+            "hash": 1293140151,
+            "original": "~z~Luis, you're full of yourself.",
+            "translated": "~z~Luis，你太自负了。",
+            "desc": ""
+        },
+        {
+            "hash": 1301080415,
+            "original": "E2BC_BSA",
+            "translated": "E2BC_BSA",
+            "desc": ""
+        },
+        {
+            "hash": 1333097748,
+            "original": "~z~I can't believe I got dumped by a bouncer. I really do need some major lipo.",
+            "translated": "~z~我居然被一个门卫甩了。看来真得去做个抽脂了。",
+            "desc": ""
+        },
+        {
+            "hash": 1334309851,
+            "original": "E2BC_AUA",
+            "translated": "E2BC_AUA",
+            "desc": ""
+        },
+        {
+            "hash": 1341285817,
+            "original": "~z~Hey Luis, you get my text? You up for a little something?",
+            "translated": "~z~嘿，Luis，收到我短信了吗？你准备找点乐子吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1343797953,
+            "original": "~z~You ready for me, mami?",
+            "translated": "~z~为我准备好了吗，宝贝？",
+            "desc": ""
+        },
+        {
+            "hash": 1358765620,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1360634240,
+            "original": "E2BC_AQA",
+            "translated": "E2BC_AQA",
+            "desc": ""
+        },
+        {
+            "hash": 1360926089,
+            "original": "E2BC_QA",
+            "translated": "E2BC_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1363999645,
+            "original": "~z~Hey, this is me, I'm lost somewhere in the big city. Leave me a message and I'll call ya!",
+            "translated": "~z~嘿，是我，我在这个大城市迷路了。给我留个言，我会联系你的！",
+            "desc": ""
+        },
+        {
+            "hash": 1381837008,
+            "original": "~z~Hey, that's cool, things weren't gonna work out anyway.",
+            "translated": "~z~嘿，也行吧，反正怎样都不会有结果。",
+            "desc": ""
+        },
+        {
+            "hash": 1383203902,
+            "original": "~z~When can we meet up?",
+            "translated": "~z~我们什么时候能见面?",
+            "desc": ""
+        },
+        {
+            "hash": 1415848040,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1496102805,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1498401806,
+            "original": "~z~This isn't fun anymore, I have to go Luis.",
+            "translated": "~z~我已经失去兴趣了，我先挂了，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1499983851,
+            "original": "~z~Hi, there. It's me, you know what to do yeah?",
+            "translated": "~z~嗨，你还。是我，你知道该干嘛，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1530988549,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1531132357,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1532000874,
+            "original": "~z~No, it's not all about you, Luis.",
+            "translated": "~z~不，我不会围着你转，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1549322724,
+            "original": "E2BC_BXA",
+            "translated": "E2BC_BXA",
+            "desc": ""
+        },
+        {
+            "hash": 1552285538,
+            "original": "E2BC_AMA",
+            "translated": "E2BC_AMA",
+            "desc": ""
+        },
+        {
+            "hash": 1579654928,
+            "original": "~z~I'm sorry gorgeaous, I'd love to but I can't.",
+            "translated": "~z~很抱歉，美女。我也想啊，真没空。",
+            "desc": ""
+        },
+        {
+            "hash": 1584172720,
+            "original": "700",
+            "translated": "700",
+            "desc": ""
+        },
+        {
+            "hash": 1586026401,
+            "original": "~z~Let me up.",
+            "translated": "~z~让我进去。",
+            "desc": ""
+        },
+        {
+            "hash": 1591915704,
+            "original": "~z~I'm hanging up now. You cruel man!",
+            "translated": "~z~我要挂电话了，冷酷无情的家伙！",
+            "desc": ""
+        },
+        {
+            "hash": 1595362662,
+            "original": "~z~I'll just phone someone else then, innit.",
+            "translated": "~z~那我找别人吧，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1600593015,
+            "original": "700",
+            "translated": "700",
+            "desc": ""
+        },
+        {
+            "hash": 1608559937,
+            "original": "E2BC_BNA",
+            "translated": "E2BC_BNA",
+            "desc": ""
+        },
+        {
+            "hash": 1627422093,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1662089583,
+            "original": "E2BC_ANA",
+            "translated": "E2BC_ANA",
+            "desc": ""
+        },
+        {
+            "hash": 1670770434,
+            "original": "E2BC_AGA",
+            "translated": "E2BC_AGA",
+            "desc": ""
+        },
+        {
+            "hash": 1689771565,
+            "original": "~z~If you want it, you got it! I'll be right over.",
+            "translated": "~z~既然你想要，满足你！我马上到。",
+            "desc": ""
+        },
+        {
+            "hash": 1732444477,
+            "original": "~z~You gonna come over and sort me out?",
+            "translated": "~z~你准备过来调教我了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1741517709,
+            "original": "E2BC_BMA",
+            "translated": "E2BC_BMA",
+            "desc": ""
+        },
+        {
+            "hash": 1752394508,
+            "original": "E2BCL_DA",
+            "translated": "E2BCL_DA",
+            "desc": ""
+        },
+        {
+            "hash": 1756773642,
+            "original": "~z~I need assistance in this bullfight Señor.",
+            "translated": "~z~对付这个强壮的先生，我需要帮助。",
+            "desc": ""
+        },
+        {
+            "hash": 1760831246,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 1817602311,
+            "original": "E2BC_YA",
+            "translated": "E2BC_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1817738538,
+            "original": "~z~I figured. Everyone I've met here has been a condescending asshole so why d'you be any different?",
+            "translated": "~z~我懂了。我在这儿认识的都是自以为是的混蛋，你怎么可能不一样呢？",
+            "desc": ""
+        },
+        {
+            "hash": 1819066910,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1825010718,
+            "original": "~z~Oye mami, I'm here.",
+            "translated": "~z~喂，宝贝，我来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1828625559,
+            "original": "E2BC_EA",
+            "translated": "E2BC_EA",
+            "desc": ""
+        },
+        {
+            "hash": 1835715660,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1849829859,
+            "original": "E2BC_BKA",
+            "translated": "E2BC_BKA",
+            "desc": ""
+        },
+        {
+            "hash": 1860643302,
+            "original": "~z~Hello, leave a nice smile. I will respond.",
+            "translated": "~z~你好，留一个甜美的笑容。我会回复的。",
+            "desc": ""
+        },
+        {
+            "hash": 1861874353,
+            "original": "~z~You been thinking about me, huh? I'll come around.",
+            "translated": "~z~你一直在想我吧？我会来的。",
+            "desc": ""
+        },
+        {
+            "hash": 1863011628,
+            "original": "E2BC_AXA",
+            "translated": "E2BC_AXA",
+            "desc": ""
+        },
+        {
+            "hash": 1873715390,
+            "original": "~z~I can't do this anymore, Luis.",
+            "translated": "~z~我不能再这样了，Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 1873733600,
+            "original": "E2BC_BPA",
+            "translated": "E2BC_BPA",
+            "desc": ""
+        },
+        {
+            "hash": 1892024309,
+            "original": "~z~Ok, got nothing better to do.",
+            "translated": "~z~好吧，反正也没事做。",
+            "desc": ""
+        },
+        {
+            "hash": 1897525161,
+            "original": "~z~Luis? Would you like to see my cha-cha-cha panties?",
+            "translated": "~z~Luis？你想看看我跳恰恰舞的裤子吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1899578970,
+            "original": "~z~Get the fuck in here.",
+            "translated": "~z~快他妈滚进来。",
+            "desc": ""
+        },
+        {
+            "hash": 1903069515,
+            "original": "E2BC_OA",
+            "translated": "E2BC_OA",
+            "desc": ""
+        },
+        {
+            "hash": 1903483356,
+            "original": "~z~Do not bother me, with hurtful feelings.",
+            "translated": "~z~别给我带来痛苦的回忆。",
+            "desc": ""
+        },
+        {
+            "hash": 1927185758,
+            "original": "E2BCL_BA",
+            "translated": "E2BCL_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1956993737,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 1966351935,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 1966476815,
+            "original": "~z~O ye, you been thinking about me as much as I've been thinking about you?",
+            "translated": "~z~喂，你有像我想你一样想我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1969482310,
+            "original": "~z~Come on in.",
+            "translated": "~z~进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1970256575,
+            "original": "E2BC_ATA",
+            "translated": "E2BC_ATA",
+            "desc": ""
+        },
+        {
+            "hash": 1997200529,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2009287358,
+            "original": "~z~Later, baby.",
+            "translated": "~z~回见，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2009664212,
+            "original": "E2BC_UA",
+            "translated": "E2BC_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2022353936,
+            "original": "~z~H-Hi!",
+            "translated": "~z~嗨、嗨！",
+            "desc": ""
+        },
+        {
+            "hash": 2023588280,
+            "original": "E2BCL_CA",
+            "translated": "E2BCL_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2026802220,
+            "original": "~z~I'm here minha.",
+            "translated": "~z~我来了，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2040436681,
+            "original": "E2BC_BOA",
+            "translated": "E2BC_BOA",
+            "desc": ""
+        },
+        {
+            "hash": 2073483758,
+            "original": "~z~Cono, shit, um...now? I can't, sorry!",
+            "translated": "~z~妈的，呃...现在吗？那不行，我很抱歉！",
+            "desc": ""
+        },
+        {
+            "hash": 2078970638,
+            "original": "E2BC_NA",
+            "translated": "E2BC_NA",
+            "desc": ""
+        },
+        {
+            "hash": 2092227981,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 2094541927,
+            "original": "~z~Hello, I'm feeling horny. You about?",
+            "translated": "~z~你好，我现在很想要。你呢？",
+            "desc": ""
+        },
+        {
+            "hash": 2106454316,
+            "original": "E2BCL_FA",
+            "translated": "E2BCL_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2111073844,
+            "original": "~z~Hey baby, let me show you something amazing.",
+            "translated": "~z~嘿，宝贝，我给你准备了一份惊喜。",
+            "desc": ""
+        },
+        {
+            "hash": 2121594998,
+            "original": "E2BC_ASA",
+            "translated": "E2BC_ASA",
+            "desc": ""
+        },
+        {
+            "hash": 2128558963,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2167475332,
+            "original": "~z~Whatever. Bye.",
+            "translated": "~z~随你吧，再见。",
+            "desc": ""
+        },
+        {
+            "hash": 2197382802,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2199372074,
+            "original": "~z~Hey!",
+            "translated": "~z~嘿！",
+            "desc": ""
+        },
+        {
+            "hash": 2204615866,
+            "original": "~z~Nah, I'm knackered from last night.",
+            "translated": "~z~不了，昨晚我累坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 2208787254,
+            "original": "~z~Bout time too. Hurry up.",
+            "translated": "~z~是该到了，快点。",
+            "desc": ""
+        },
+        {
+            "hash": 2258077449,
+            "original": "~z~Get up here.",
+            "translated": "~z~到这来。",
+            "desc": ""
+        },
+        {
+            "hash": 2267522682,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2273323407,
+            "original": "~z~Oye, mami. E Luis.",
+            "translated": "~z~喂，妹子。我是Luis。",
+            "desc": ""
+        },
+        {
+            "hash": 2276101843,
+            "original": "~z~Finally. Get that monster in here!",
+            "translated": "~z~终于来了，让你的怪兽进来吧！",
+            "desc": ""
+        },
+        {
+            "hash": 2302536638,
+            "original": "~z~Hey, hey! I must be at a model shoot or something, so leave me a message!",
+            "translated": "~z~嘿，嘿！我一定是在忙模特拍摄之类的，给我留言吧!",
+            "desc": ""
+        },
+        {
+            "hash": 2303133056,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2304025056,
+            "original": "~z~Whatever mate.",
+            "translated": "~z~随你吧，朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 2326516872,
+            "original": "~z~Can't wait to see you.",
+            "translated": "~z~等不及见到你了。",
+            "desc": ""
+        },
+        {
+            "hash": 2331469297,
+            "original": "~z~Alright then!",
+            "translated": "~z~那好啊！",
+            "desc": ""
+        },
+        {
+            "hash": 2338842687,
+            "original": "E2BC_BWA",
+            "translated": "E2BC_BWA",
+            "desc": ""
+        },
+        {
+            "hash": 2347546178,
+            "original": "~z~Yeah, I'm bored anyway.",
+            "translated": "~z~好啊，刚好我也无聊了。",
+            "desc": ""
+        },
+        {
+            "hash": 2354058647,
+            "original": "~z~Fine, but you have to be extra nice.",
+            "translated": "~z~好吧，但你必须听我的话。",
+            "desc": ""
+        },
+        {
+            "hash": 2369637789,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2384406516,
+            "original": "~z~Maybe you'd like Angela to help us?",
+            "translated": "~z~可以让Angela来帮我们吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2391935962,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2401335522,
+            "original": "~z~You know the way, baby.",
+            "translated": "~z~你认识路的，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 2423637389,
+            "original": "~z~Hey babies, leave me a message, because I can't come to the phone.",
+            "translated": "~z~嘿，宝贝们。给我留言吧，我现在接不了电话。",
+            "desc": ""
+        },
+        {
+            "hash": 2442486037,
+            "original": "~z~Nah mate, I'm on a shoot.",
+            "translated": "~z~不了，兄弟。我很忙。",
+            "desc": ""
+        },
+        {
+            "hash": 2445985592,
+            "original": "~z~O ye mami, I was thinking we should hook up.",
+            "translated": "~z~喂，妹子。我们要不要来一发？",
+            "desc": ""
+        },
+        {
+            "hash": 2448196447,
+            "original": "~z~Adiós my sexy Señor.",
+            "translated": "~z~再见，我的性感先生。",
+            "desc": ""
+        },
+        {
+            "hash": 2478911630,
+            "original": "~z~Bye bye.",
+            "translated": "~z~拜拜。",
+            "desc": ""
+        },
+        {
+            "hash": 2486782442,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2504279319,
+            "original": "~z~You're gonna open the door, chula?",
+            "translated": "~z~你能开下门吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2505467303,
+            "original": "~z~Hello?",
+            "translated": "~z~你好？",
+            "desc": ""
+        },
+        {
+            "hash": 2535964739,
+            "original": "~z~Okay, but you better shave, I don't want no rashes or nothing.",
+            "translated": "~z~好吧，但你最好先刮干净，我不想得皮疹啥的。",
+            "desc": ""
+        },
+        {
+            "hash": 2540814849,
+            "original": "E2BC_BCA",
+            "translated": "E2BC_BCA",
+            "desc": ""
+        },
+        {
+            "hash": 2547614777,
+            "original": "E2BC_BQA",
+            "translated": "E2BC_BQA",
+            "desc": ""
+        },
+        {
+            "hash": 2572617416,
+            "original": "E2BC_BUA",
+            "translated": "E2BC_BUA",
+            "desc": ""
+        },
+        {
+            "hash": 2575496310,
+            "original": "~z~Oh yes, please!",
+            "translated": "~z~噢，好，来吧！",
+            "desc": ""
+        },
+        {
+            "hash": 2584850714,
+            "original": "~z~Okay, but I'm in charge.",
+            "translated": "~z~好吧，但得我主动。",
+            "desc": ""
+        },
+        {
+            "hash": 2593332122,
+            "original": "~z~Hey sugar, I'm sitting in my room feeling all lonely. Wanna fill that void?",
+            "translated": "~z~嘿，甜心，我在房间里好寂寞啊。想来填补空虚吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2595831092,
+            "original": "190",
+            "translated": "190",
+            "desc": ""
+        },
+        {
+            "hash": 2609321052,
+            "original": "~z~For your spicy love, I'll be there.",
+            "translated": "~z~为了你那火热的爱，我等着。",
+            "desc": ""
+        },
+        {
+            "hash": 2618054096,
+            "original": "E2BC_VA",
+            "translated": "E2BC_VA",
+            "desc": ""
+        },
+        {
+            "hash": 2620622965,
+            "original": "~z~I got nothin' else going on.",
+            "translated": "~z~刚好我也没安排。",
+            "desc": ""
+        },
+        {
+            "hash": 2621313639,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2625228208,
+            "original": "~z~Yo, that could be fun. Put something nice on.",
+            "translated": "~z~哟，会很快乐的。换身好看的。",
+            "desc": ""
+        },
+        {
+            "hash": 2639491898,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2660950857,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2674253216,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2683921301,
+            "original": "~z~What you doin' right now?",
+            "translated": "~z~你现在在干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 2689097578,
+            "original": "~z~You better be ready for this shit.",
+            "translated": "~z~你最好是准备好了。",
+            "desc": ""
+        },
+        {
+            "hash": 2701492105,
+            "original": "~z~Hey, honey!",
+            "translated": "~z~嘿，甜心！",
+            "desc": ""
+        },
+        {
+            "hash": 2720555818,
+            "original": "~z~I've been waiting.",
+            "translated": "~z~我等你好久了。",
+            "desc": ""
+        },
+        {
+            "hash": 2740920180,
+            "original": "~z~Mommy's hungry, and she wants to eat. Are you coming around?",
+            "translated": "~z~妈咪饿饿，想要吃吃。你能来吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2746016232,
+            "original": "~z~E mio.",
+            "translated": "~z~是我。",
+            "desc": ""
+        },
+        {
+            "hash": 2757917563,
+            "original": "~z~Oi, it's me, I wanna fuck. You up for it?",
+            "translated": "~z~喂，是我，我想要了。你准备好了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 2764626628,
+            "original": "~z~Hello Luis, guess who?",
+            "translated": "~z~你好，Luis，猜猜我是谁？",
+            "desc": ""
+        },
+        {
+            "hash": 2777876022,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2800515023,
+            "original": "E2BC_BJA",
+            "translated": "E2BC_BJA",
+            "desc": ""
+        },
+        {
+            "hash": 2802833195,
+            "original": "~z~I'll be thinking of you.",
+            "translated": "~z~我会想你的。",
+            "desc": ""
+        },
+        {
+            "hash": 2813407786,
+            "original": "~z~I'd love to, but I've got stuff to handle. Put that shit, on ice for me.",
+            "translated": "~z~我也想啊，但我有事要处理。约会先缓缓吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2820415219,
+            "original": "~z~Wicked. See you in a minute.",
+            "translated": "~z~赞诶。待会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 2825172416,
+            "original": "E2BC_AHA",
+            "translated": "E2BC_AHA",
+            "desc": ""
+        },
+        {
+            "hash": 2826478038,
+            "original": "E2BC_ZAA",
+            "translated": "E2BC_ZAA",
+            "desc": ""
+        },
+        {
+            "hash": 2839015043,
+            "original": "E2BC_AKA",
+            "translated": "E2BC_AKA",
+            "desc": ""
+        },
+        {
+            "hash": 2846470305,
+            "original": "~z~I put on cha-cha-cha panties right away.",
+            "translated": "~z~我这就把跳恰恰舞的裤子穿上。",
+            "desc": ""
+        },
+        {
+            "hash": 2848154359,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2863765219,
+            "original": "~z~I'd absolutely love to!",
+            "translated": "~z~我当然乐意！",
+            "desc": ""
+        },
+        {
+            "hash": 2883853935,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2894430105,
+            "original": "~z~Jesus, don't be an asshole.",
+            "translated": "~z~天哪，别这么混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 2899056993,
+            "original": "E2BC_AZA",
+            "translated": "E2BC_AZA",
+            "desc": ""
+        },
+        {
+            "hash": 2911755290,
+            "original": "E2BC_AAA",
+            "translated": "E2BC_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 2914361049,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 2914999318,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2926377784,
+            "original": "~z~So listen, you're not really my, erh, type. It's over, bye.",
+            "translated": "~z~听着，你真不是我的...菜。就这样吧，拜拜。",
+            "desc": ""
+        },
+        {
+            "hash": 2968483372,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2971377262,
+            "original": "~z~Whatever! I wasn't feeling it either.",
+            "translated": "~z~随你吧！刚好我也没欲望。",
+            "desc": ""
+        },
+        {
+            "hash": 3002101762,
+            "original": "~z~This is why I don't fuck with the help.",
+            "translated": "~z~所以我才不打慈善炮。",
+            "desc": ""
+        },
+        {
+            "hash": 3006485719,
+            "original": "E2BC_ZBA",
+            "translated": "E2BC_ZBA",
+            "desc": ""
+        },
+        {
+            "hash": 3023099888,
+            "original": "E2BC_BDA",
+            "translated": "E2BC_BDA",
+            "desc": ""
+        },
+        {
+            "hash": 3026270870,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3026428279,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3048258076,
+            "original": "~z~Hurry up then.",
+            "translated": "~z~那你快点。",
+            "desc": ""
+        },
+        {
+            "hash": 3052887673,
+            "original": "~z~There's too much in here for just one little girl to handle. Come on.",
+            "translated": "~z~光我一个小姑娘不可能顶得住的。来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3055587295,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3062070841,
+            "original": "~z~Hi babe.",
+            "translated": "~z~嗨，宝贝。",
+            "desc": ""
+        },
+        {
+            "hash": 3075810213,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3092282454,
+            "original": "~z~She thinks you're hot as shit too, do you mind?",
+            "translated": "~z~她也觉得你超性感，你介意吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3094229596,
+            "original": "~z~I'll be right there.",
+            "translated": "~z~我等着你。",
+            "desc": ""
+        },
+        {
+            "hash": 3158334284,
+            "original": "~z~Sorry babe, I got a lot going on. Another time.",
+            "translated": "~z~不好意思，宝贝。我有其他事要忙。改天吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3180820517,
+            "original": "~z~Okay, but you better be good.",
+            "translated": "~z~好吧，但你要乖哦。",
+            "desc": ""
+        },
+        {
+            "hash": 3204928720,
+            "original": "E2BC_MA",
+            "translated": "E2BC_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3214352074,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3221081467,
+            "original": "~z~I'll just change into something, more suitable.",
+            "translated": "~z~我会换一套更合适的衣服。",
+            "desc": ""
+        },
+        {
+            "hash": 3225922103,
+            "original": "~z~What? Are you joking? You're dumping me? Bye then!",
+            "translated": "~z~什么？你在开玩笑吗？你把我甩了？再见！",
+            "desc": ""
+        },
+        {
+            "hash": 3256953606,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3258107416,
+            "original": "~z~Lovin' the twenty first century.",
+            "translated": "~z~这就是二十一世纪。",
+            "desc": ""
+        },
+        {
+            "hash": 3259566246,
+            "original": "~z~Fair enough, you have fun.",
+            "translated": "~z~有道理，祝你开心。",
+            "desc": ""
+        },
+        {
+            "hash": 3282041057,
+            "original": "~z~You can't see me like this, I'm all bloated. Sorry!",
+            "translated": "~z~你现在还不能见我，我全身都肿了。对不起！",
+            "desc": ""
+        },
+        {
+            "hash": 3287336737,
+            "original": "~z~God damn. You are so hot!",
+            "translated": "~z~天哪。你真性感！",
+            "desc": ""
+        },
+        {
+            "hash": 3300485247,
+            "original": "E2BC_AVA",
+            "translated": "E2BC_AVA",
+            "desc": ""
+        },
+        {
+            "hash": 3301212484,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3302294647,
+            "original": "~z~Sure. I'd love to get together.",
+            "translated": "~z~好啊，我也想聚一聚。",
+            "desc": ""
+        },
+        {
+            "hash": 3318149317,
+            "original": "E2BC_BIA",
+            "translated": "E2BC_BIA",
+            "desc": ""
+        },
+        {
+            "hash": 3325992816,
+            "original": "~z~This is my mate, she's well dirty, you'll like her.",
+            "translated": "~z~这是我朋友。她很下流，你会喜欢的。",
+            "desc": ""
+        },
+        {
+            "hash": 3327716064,
+            "original": "E2BCL_AA",
+            "translated": "E2BCL_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3331948668,
+            "original": "E2BC_HA",
+            "translated": "E2BC_HA",
+            "desc": ""
+        },
+        {
+            "hash": 3357240238,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3365910616,
+            "original": "E2BC_ACA",
+            "translated": "E2BC_ACA",
+            "desc": ""
+        },
+        {
+            "hash": 3368231636,
+            "original": "~z~Oi, you alright?",
+            "translated": "~z~喂，你还好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3382797756,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3385355721,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3407508922,
+            "original": "~z~Good bye spicy lover.",
+            "translated": "~z~再见，火热的情人。",
+            "desc": ""
+        },
+        {
+            "hash": 3431342165,
+            "original": "~z~Whatever dude, I must have been drunk.",
+            "translated": "~z~随便吧，老兄。我肯定是喝多了。",
+            "desc": ""
+        },
+        {
+            "hash": 3431584023,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3462838801,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3471166468,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 3484890158,
+            "original": "~z~I'm on my way.",
+            "translated": "~z~我这就来。",
+            "desc": ""
+        },
+        {
+            "hash": 3487206558,
+            "original": "~z~You ate your last salsa. Do not call me.",
+            "translated": "~z~这是你的最后一份辣番茄酱。别再找我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3531395641,
+            "original": "~z~I need to feel your hands on me again. Are you free?",
+            "translated": "~z~我又想被你抚摸了，你有空吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3557469225,
+            "original": "~z~And I was just about to call you and tell you I loved you. You broke my poor heart.",
+            "translated": "~z~我刚想打电话告诉你我爱你。你伤害了我脆弱的心。",
+            "desc": ""
+        },
+        {
+            "hash": 3568725823,
+            "original": "~z~I'm so horny, what are you doing?",
+            "translated": "~z~我想要了，你在干嘛？",
+            "desc": ""
+        },
+        {
+            "hash": 3571587511,
+            "original": "E2BC_TA",
+            "translated": "E2BC_TA",
+            "desc": ""
+        },
+        {
+            "hash": 3578895428,
+            "original": "~z~You're going to have to put that penis somewhere else, I'm sorry!",
+            "translated": "~z~你得换个地方插你的鸡巴了，抱歉！",
+            "desc": ""
+        },
+        {
+            "hash": 3587542959,
+            "original": "~z~Luis, I'm already excited.",
+            "translated": "~z~Luis，我现在就很兴奋。",
+            "desc": ""
+        },
+        {
+            "hash": 3603421556,
+            "original": "~z~Come on up.",
+            "translated": "~z~上来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3605461518,
+            "original": "E2BC_BLA",
+            "translated": "E2BC_BLA",
+            "desc": ""
+        },
+        {
+            "hash": 3610148148,
+            "original": "E2BC_ADA",
+            "translated": "E2BC_ADA",
+            "desc": ""
+        },
+        {
+            "hash": 3620737643,
+            "original": "~z~I got shit going on, mami. I'm sorry.",
+            "translated": "~z~我有事情要忙，妹子。对不起。",
+            "desc": ""
+        },
+        {
+            "hash": 3655385144,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3667442267,
+            "original": "E2BC_GA",
+            "translated": "E2BC_GA",
+            "desc": ""
+        },
+        {
+            "hash": 3678785464,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3689842012,
+            "original": "~z~Great, I'll be ready for you.",
+            "translated": "~z~好，我会准备好的。",
+            "desc": ""
+        },
+        {
+            "hash": 3697171550,
+            "original": "~z~Hey mami, it's Luis. You wanna do something?",
+            "translated": "~z~嘿，妹子。我是Luis。你想做点啥吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3698099053,
+            "original": "E2BC_DA",
+            "translated": "E2BC_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3724778416,
+            "original": "E2BC_BGA",
+            "translated": "E2BC_BGA",
+            "desc": ""
+        },
+        {
+            "hash": 3725858068,
+            "original": "E2BC_BYA",
+            "translated": "E2BC_BYA",
+            "desc": ""
+        },
+        {
+            "hash": 3727220124,
+            "original": "E2BC_BVA",
+            "translated": "E2BC_BVA",
+            "desc": ""
+        },
+        {
+            "hash": 3730810887,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3732388812,
+            "original": "E2BC_JA",
+            "translated": "E2BC_JA",
+            "desc": ""
+        },
+        {
+            "hash": 3739402713,
+            "original": "~z~Stay safe, okay?",
+            "translated": "~z~注意安全，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3746874866,
+            "original": "~z~Ah, sorry, I barely remember you.",
+            "translated": "~z~啊，抱歉，我对你没啥印象。",
+            "desc": ""
+        },
+        {
+            "hash": 3763449523,
+            "original": "~z~Hiya.",
+            "translated": "~z~嗨。",
+            "desc": ""
+        },
+        {
+            "hash": 3765094482,
+            "original": "~z~You only want a sexy time! What of love?",
+            "translated": "~z~你只想要春宵一刻！那爱呢？",
+            "desc": ""
+        },
+        {
+            "hash": 3766758901,
+            "original": "~z~No more bull fights. Good bye forever!",
+            "translated": "~z~你没机会了。再也不见！",
+            "desc": ""
+        },
+        {
+            "hash": 3804395719,
+            "original": "E2BC_LA",
+            "translated": "E2BC_LA",
+            "desc": ""
+        },
+        {
+            "hash": 3811145213,
+            "original": "~z~Some guys would kill for this number. Call me.",
+            "translated": "~z~有人为了我的号码费尽心思。常联系。",
+            "desc": ""
+        },
+        {
+            "hash": 3818868119,
+            "original": "E2BC_BTA",
+            "translated": "E2BC_BTA",
+            "desc": ""
+        },
+        {
+            "hash": 3865896732,
+            "original": "~z~Minha, I'm sorry, but I'm afraid this ain't gonna work out.",
+            "translated": "~z~宝贝，对不起，但这样不会有结果的。",
+            "desc": ""
+        },
+        {
+            "hash": 3881220657,
+            "original": "~z~You are too macho. I need a sexy helper!",
+            "translated": "~z~你太男子汉了。我需要一个性爱助手！",
+            "desc": ""
+        },
+        {
+            "hash": 3901324535,
+            "original": "~z~I'm dying. Get up here!",
+            "translated": "~z~忍不住了。快上来！",
+            "desc": ""
+        },
+        {
+            "hash": 3902891764,
+            "original": "E2BC_ZA",
+            "translated": "E2BC_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 3909006536,
+            "original": "~z~I ain't gonna be able to accommodate you right now. Call me later.",
+            "translated": "~z~我现在没法迁就你。有空再联系。",
+            "desc": ""
+        },
+        {
+            "hash": 3914270814,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3929547247,
+            "original": "~z~Can't wait, mwah!",
+            "translated": "~z~等不及了，么！",
+            "desc": ""
+        },
+        {
+            "hash": 3929776530,
+            "original": "~z~Finally you bring me joy and life! Come in.",
+            "translated": "~z~你终于给我带来生的喜悦了！进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3935959253,
+            "original": "~z~Yo, it's Luis, I was thinking about you. And maybe we could hook up again.",
+            "translated": "~z~哟，我是Luis，正在想你呢。要么我们再约一次吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3943732118,
+            "original": "~z~Hey, you!",
+            "translated": "~z~嘿，你好！",
+            "desc": ""
+        },
+        {
+            "hash": 3967466396,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3970670090,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3971788771,
+            "original": "~z~Leave us a message, innit?",
+            "translated": "~z~给我们留言吧，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3996640236,
+            "original": "~z~I'm I just one of your many Señoritas? Adiós!",
+            "translated": "~z~我只是你众多女人中的一个？再也不见！",
+            "desc": ""
+        },
+        {
+            "hash": 3998936780,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4002630454,
+            "original": "~z~Hey you.",
+            "translated": "~z~嘿，你好。",
+            "desc": ""
+        },
+        {
+            "hash": 4034880786,
+            "original": "~z~It's okay, we all gotta do our own thing.",
+            "translated": "~z~没事，我们都有自己的生活。",
+            "desc": ""
+        },
+        {
+            "hash": 4046327707,
+            "original": "~z~I've been thinking about you again. I want to see you.",
+            "translated": "~z~我又在想你了。我想见你。",
+            "desc": ""
+        },
+        {
+            "hash": 4048366072,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 4056672693,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4065207328,
+            "original": "E2BC_BAA",
+            "translated": "E2BC_BAA",
+            "desc": ""
+        },
+        {
+            "hash": 4069713440,
+            "original": "~z~Poo, ok then.",
+            "translated": "~z~切，好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4076435685,
+            "original": "~z~Get in here and get to work on me girl.",
+            "translated": "~z~快进来，干我的小姑娘吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4077576418,
+            "original": "~z~If you're as good as last time, I'm there.",
+            "translated": "~z~希望你的活和上次一样好，我等你。",
+            "desc": ""
+        },
+        {
+            "hash": 4082408201,
+            "original": "~z~Sorry I need to be fresh for tomorrow.",
+            "translated": "~z~对不起，我要为明天保存精力。",
+            "desc": ""
+        },
+        {
+            "hash": 4084984402,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4085942966,
+            "original": "~z~You better be home, mami. Because I want you. Now!",
+            "translated": "~z~你最好在家，妹子。因为我现在就想要你！",
+            "desc": ""
+        },
+        {
+            "hash": 4091136204,
+            "original": "E2BC_RA",
+            "translated": "E2BC_RA",
+            "desc": ""
+        },
+        {
+            "hash": 4095401391,
+            "original": "~z~Don't call or text me anymore!",
+            "translated": "~z~别给我打电话发短信了！",
+            "desc": ""
+        },
+        {
+            "hash": 4104975624,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4128198377,
+            "original": "~z~O ye, now ain't good for me, another time, okay?",
+            "translated": "~z~那个，现在我没空，改天吧，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4157139051,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4162663021,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4163929348,
+            "original": "~z~I'll be over soon, mami.",
+            "translated": "~z~我马上就到，妹子。",
+            "desc": ""
+        },
+        {
+            "hash": 4168247997,
+            "original": "~z~Come on up.",
+            "translated": "~z~进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4169438330,
+            "original": "E2BC_SA",
+            "translated": "E2BC_SA",
+            "desc": ""
+        },
+        {
+            "hash": 4182052115,
+            "original": "~z~Ready for this baby?",
+            "translated": "~z~准备好了吗，宝贝？",
+            "desc": ""
+        },
+        {
+            "hash": 4191971777,
+            "original": "E2BC_FA",
+            "translated": "E2BC_FA",
+            "desc": ""
+        },
+        {
+            "hash": 4211477195,
+            "original": "~z~Don't go nowhere.",
+            "translated": "~z~你可别走啊。",
+            "desc": ""
+        },
+        {
+            "hash": 4225874293,
+            "original": "~z~Fair enough.",
+            "translated": "~z~有道理。",
+            "desc": ""
+        },
+        {
+            "hash": 4229578867,
+            "original": "E2BC_KA",
+            "translated": "E2BC_KA",
+            "desc": ""
+        },
+        {
+            "hash": 4248156555,
+            "original": "E2BC_ABA",
+            "translated": "E2BC_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 4267119669,
+            "original": "~z~It's you!",
+            "translated": "~z~是你啊！",
+            "desc": ""
+        },
+        {
+            "hash": 4268120472,
+            "original": "E2BC_AWA",
+            "translated": "E2BC_AWA",
+            "desc": ""
+        },
+        {
+            "hash": 4280129852,
+            "original": "~z~My boyfriend told me to stop fucking the help, so I have to cut you off. Sorry!",
+            "translated": "~z~我男友让我别打慈善炮了，所以不能再联系你了。对不起！",
+            "desc": ""
+        }
+    ]
+}

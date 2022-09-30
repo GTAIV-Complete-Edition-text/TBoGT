@@ -1,0 +1,154 @@
+{
+    "TONY5": [
+        {
+            "hash": 93794956,
+            "original": "~s~While on foot, sticky bombs can be thrown by holding ~INPUT_AIM~ to aim and ~INPUT_ATTACK~ to throw.",
+            "translated": "~s~步行时，按住~INPUT_AIM~瞄准，按~INPUT_ATTACK~投掷黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 100443129,
+            "original": "~s~The next target is on an out of service subway train, intercept it at the ~y~tunnel exit.",
+            "translated": "~s~下一个目标是一列非运营的地铁，去~y~隧道出口~s~拦截。",
+            "desc": ""
+        },
+        {
+            "hash": 618496308,
+            "original": "~r~You lost the train.",
+            "translated": "~r~你跟丢了列车。",
+            "desc": ""
+        },
+        {
+            "hash": 789698643,
+            "original": "~s~Press ~INPUT_DETONATE~ to detonate the sticky bombs.",
+            "translated": "~s~按~INPUT_DETONATE~引爆黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1259774997,
+            "original": "~s~You are out of sticky bombs, call Armando to buy some more.",
+            "translated": "~s~你的黏弹用完了，打电话向Armando购买。",
+            "desc": ""
+        },
+        {
+            "hash": 1267579687,
+            "original": "~s~Now detonate the bombs to destroy the crane.",
+            "translated": "~s~引爆黏弹，炸毁塔吊。",
+            "desc": ""
+        },
+        {
+            "hash": 1640559806,
+            "original": "~s~The first target is a ~r~construction foreman. ~s~He operates the nearby crane.",
+            "translated": "~s~第一个目标是一名~r~包工头。~s~他是工地的塔吊司机。",
+            "desc": ""
+        },
+        {
+            "hash": 1853621336,
+            "original": "~s~Press ~PAD_DPAD_DOWN~ to detonate the sticky bombs.",
+            "translated": "~s~按~PAD_DPAD_DOWN~引爆黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1975599068,
+            "original": "~s~Destroy the ~r~train~s~ using sticky bombs.",
+            "translated": "~s~用黏弹摧毁~r~列车。",
+            "desc": ""
+        },
+        {
+            "hash": 2277060650,
+            "original": "~s~Security has spotted you and the plane is preparing to take off.",
+            "translated": "~s~安保人员发现了你，飞机即将起飞。",
+            "desc": ""
+        },
+        {
+            "hash": 2347384628,
+            "original": "~s~They will stick to any object they touch and can be detonated using ~PAD_DPAD_DOWN~ or by being shot.",
+            "translated": "~s~黏弹会吸附在物体表面，可以通过射击或是按下~PAD_DPAD_DOWN~引爆。",
+            "desc": ""
+        },
+        {
+            "hash": 2362872804,
+            "original": "~s~Throw several sticky bombs onto the base of the ~r~crane.",
+            "translated": "~s~在~r~塔吊底座~s~上安放几枚黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2502589325,
+            "original": "~s~Approach the runway through the ~y~security gate.",
+            "translated": "~s~从~y~安全门~s~进入跑道。",
+            "desc": ""
+        },
+        {
+            "hash": 2510841568,
+            "original": "~s~The crane was not destroyed, new explosives need to be set on the ~r~crane base.",
+            "translated": "~s~塔吊未被摧毁，需要在~r~塔吊底座~s~上安放新的黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 2564269946,
+            "original": "~s~They will stick to any object they touch and can be detonated using ~INPUT_DETONATE~ or by being shot.",
+            "translated": "~s~黏弹会吸附在物体表面，可以通过射击或是按下~INPUT_DETONATE~引爆。",
+            "desc": ""
+        },
+        {
+            "hash": 2592238720,
+            "original": "~r~The target's plane has taken off.",
+            "translated": "~r~目标的飞机起飞了。",
+            "desc": ""
+        },
+        {
+            "hash": 2707828028,
+            "original": "~s~Get to the ~y~airport.~s~ The next target's plane is taking off at ~1~:~1~.",
+            "translated": "~s~前往~y~机场。~s~下一个目标的飞机将在~1~:~1~起飞。",
+            "desc": ""
+        },
+        {
+            "hash": 2777302180,
+            "original": "~s~You must destroy the ~r~plane ~s~before it takes off.",
+            "translated": "~s~你必须在目标起飞前摧毁~r~飞机。",
+            "desc": ""
+        },
+        {
+            "hash": 2891764324,
+            "original": "~s~Lose the cops.",
+            "translated": "~s~甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3063260326,
+            "original": "~r~You took too long to destroy the train.",
+            "translated": "~r~你花了太多时间在摧毁列车上。",
+            "desc": ""
+        },
+        {
+            "hash": 3138132464,
+            "original": "~s~The crane is rigged to blow, get clear.",
+            "translated": "~s~爆破准备完毕，远离塔吊。",
+            "desc": ""
+        },
+        {
+            "hash": 3168296906,
+            "original": "~s~The ~r~train ~s~has stopped at the station in Fortside.",
+            "translated": "~r~目标列车~s~正停靠在Fortside车站。",
+            "desc": ""
+        },
+        {
+            "hash": 3704578301,
+            "original": "~s~When in a vehicle press ~INPUT_VEH_ATTACK~ to throw a sticky bomb left.",
+            "translated": "~s~在载具中时，按~INPUT_VEH_ATTACK~向左侧投掷黏弹。",
+            "desc": ""
+        },
+        {
+            "hash": 4036405304,
+            "original": "~s~You are too far away, go back and destroy the ~r~crane.",
+            "translated": "~s~你离得太远了，回去炸毁~r~塔吊。",
+            "desc": ""
+        },
+        {
+            "hash": 4090438849,
+            "original": "~s~Holding ~INPUT_VEH_CIN_CAM~ will focus the camera on the target.",
+            "translated": "~s~按住~INPUT_VEH_CIN_CAM~可将镜头对准目标。",
+            "desc": ""
+        }
+    ]
+}

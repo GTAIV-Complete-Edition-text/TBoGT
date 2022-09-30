@@ -1,0 +1,160 @@
+{
+    "TONY6": [
+        {
+            "hash": 43857187,
+            "original": "Take out the ~r~owner.~s~",
+            "translated": "干掉~r~老板。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 60532112,
+            "original": "Impress your dance partner by copying their style. Keep pressing buttons in time to the music to dance.~n~~PAD_A~ Lower~n~~PAD_B~ Right~n~~PAD_X~ Left~n~~PAD_Y~ Upper~n~~PAD_LB~ stop dancing.",
+            "translated": "通过模仿舞伴的风格来打动她。跟随音乐节奏按下按键跳舞。~n~~PAD_A~下~n~~PAD_B~右~n~~PAD_X~左~n~~PAD_Y~上~n~~PAD_LB~停止跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 222407437,
+            "original": "~r~Monique is dead.",
+            "translated": "~r~Monique死了。",
+            "desc": ""
+        },
+        {
+            "hash": 339105877,
+            "original": "Get out of the club.",
+            "translated": "离开夜店。",
+            "desc": ""
+        },
+        {
+            "hash": 491211544,
+            "original": "~r~You alerted security.",
+            "translated": "~r~你惊动了保安。",
+            "desc": ""
+        },
+        {
+            "hash": 599456466,
+            "original": "Leave the area.",
+            "translated": "离开这一带。",
+            "desc": ""
+        },
+        {
+            "hash": 671612920,
+            "original": "Enter the ~y~owner's office.~s~",
+            "translated": "进入~y~老板的办公室~s~",
+            "desc": ""
+        },
+        {
+            "hash": 698385201,
+            "original": "Go to ~y~Bahama Mamma's.~s~",
+            "translated": "前往~y~巴哈马妈妈。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 761067794,
+            "original": "To dance with someone on the dancefloor stand in front of them and press ~PAD_LB~.",
+            "translated": "想和别人在舞池中共舞的话，站在他们面前并按下~PAD_LB~。",
+            "desc": ""
+        },
+        {
+            "hash": 798420919,
+            "original": "~r~Tony is dead.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        },
+        {
+            "hash": 958726867,
+            "original": "~r~Tony's car was wrecked.",
+            "translated": "~r~Tony的车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 972301268,
+            "original": "Mission Passed",
+            "translated": "任务通过",
+            "desc": ""
+        },
+        {
+            "hash": 995042958,
+            "original": "Go to the ~y~dance floor.~s~",
+            "translated": "前往~y~舞池。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1295862378,
+            "original": "Go to ~b~Monique~s~ and dance with her.",
+            "translated": "找到~b~Monique，~s~和她跳舞。",
+            "desc": ""
+        },
+        {
+            "hash": 1302416929,
+            "original": "Weapons aren't welcome in the club.",
+            "translated": "夜店内不欢迎武器。",
+            "desc": ""
+        },
+        {
+            "hash": 1417230715,
+            "original": "~r~You abandoned Tony.",
+            "translated": "~r~你抛弃了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 1627484658,
+            "original": "The owner wishes to speak to you. Follow the ~r~bouncer.~s~",
+            "translated": "这家店的老板想和你谈谈，跟随~r~保镖。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2139402856,
+            "original": "Don't leave ~b~Tony~s~ behind.~s~",
+            "translated": "别把~b~Tony~s~落下。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2366885250,
+            "original": "Lose the cops. You will be denied entry to the club with a wanted level.",
+            "translated": "甩掉警察。摆脱通缉后才能进入夜店。",
+            "desc": ""
+        },
+        {
+            "hash": 2383578187,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 2526142590,
+            "original": "Get back in ~b~Tony's car.~s~",
+            "translated": "回到~b~Tony的车~s~上。",
+            "desc": ""
+        },
+        {
+            "hash": 3146884877,
+            "original": "Get in ~b~Tony's car.~s~",
+            "translated": "进入~b~Tony的车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3152784181,
+            "original": "Enter the club and go to the ~y~dance floor.~s~",
+            "translated": "进入夜店，前往~y~舞池。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3767980476,
+            "original": "~r~Your dancing did not impress Monique.",
+            "translated": "~r~你的舞姿没能打动Monique。",
+            "desc": ""
+        },
+        {
+            "hash": 3768906919,
+            "original": "Drive Tony to ~y~Bahama Mamas.~s~",
+            "translated": "带Tony去~y~巴哈马妈妈。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4081153809,
+            "original": "~r~You failed to take out the club owner.",
+            "translated": "~r~你没有干掉夜店老板。",
+            "desc": ""
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "FRI1": [
+        {
+            "hash": 19981432,
+            "original": "~s~Take your buddies back ~y~home.~s~",
+            "translated": "~s~送你的伙伴~y~回家。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 59514651,
+            "original": "~s~Take out the ~r~cops~s~ on the roof.~s~",
+            "translated": "~s~干掉屋顶上的~r~警察。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 143239697,
+            "original": "~r~Henrique was killed.",
+            "translated": "~r~Henrique被杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 163952045,
+            "original": "~s~Stay in the heli while Tony flies you back.",
+            "translated": "~s~待在直升机内，Tony会带你回去。",
+            "desc": ""
+        },
+        {
+            "hash": 184355236,
+            "original": "~s~Way to fuckin' go Luis!~s~",
+            "translated": "~s~干得漂亮Luis！~s~",
+            "desc": ""
+        },
+        {
+            "hash": 190709005,
+            "original": "~s~Get in the ~b~car.~s~",
+            "translated": "~s~上~b~车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 272220821,
+            "original": "~s~Here Luis, take a shotgun and some grenades. Just in case these assholes try anything.",
+            "translated": "~s~Luis，拿着这把霰弹枪和手榴弹，以防这帮傻逼搞事。",
+            "desc": ""
+        },
+        {
+            "hash": 353320141,
+            "original": "~s~Get in the ~b~car.~s~",
+            "translated": "~s~上~b~车。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 360789932,
+            "original": "PLACEHOLDER:~n~End of mission mocap.",
+            "translated": "PLACEHOLDER:~n~End of mission mocap.",
+            "desc": ""
+        },
+        {
+            "hash": 406538612,
+            "original": "~r~You left Armando and Henrique behind.",
+            "translated": "~r~你丢下了Armando和Henrique。",
+            "desc": ""
+        },
+        {
+            "hash": 776901253,
+            "original": "~s~They are storming the front, hold them off.",
+            "translated": "~s~他们从前边冲进来了，挡住他们。",
+            "desc": ""
+        },
+        {
+            "hash": 804913697,
+            "original": "~s~Take out the ~r~cops~s~ atacking Henrique.",
+            "translated": "~s~干掉攻击Henrique的~r~警察。",
+            "desc": ""
+        },
+        {
+            "hash": 884902814,
+            "original": "~s~Take out the ~r~cops~s~ atacking Armando.",
+            "translated": "~s~干掉攻击Armando的~r~警察。",
+            "desc": ""
+        },
+        {
+            "hash": 914504590,
+            "original": "~r~The car was destroyed.~s~",
+            "translated": "~r~车被毁了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1022799829,
+            "original": "~s~Watch it, they're coming down the sides.",
+            "translated": "~s~看着点，他们从边上过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1109894768,
+            "original": "~s~Watch out, there are snipers on the roof.",
+            "translated": "~s~小心，楼顶上有狙击手。",
+            "desc": ""
+        },
+        {
+            "hash": 1129521059,
+            "original": "~r~You left your friend behind.~s~",
+            "translated": "~r~你丢下了你的朋友。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1389058942,
+            "original": "~s~Bastards are coming round by the water.",
+            "translated": "~s~这群傻逼从水边过来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1562366780,
+            "original": "~r~Armando and Henrique are dead.",
+            "translated": "~r~Armando和Heneique死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1600943296,
+            "original": "~s~Keep on eye on the road side, they are moving in.",
+            "translated": "~s~注意路边，他们要进来了。",
+            "desc": ""
+        },
+        {
+            "hash": 1648092836,
+            "original": "~s~They got a patrol boat coming in, give me a hand.",
+            "translated": "~s~巡逻艇要来了，帮我一把。",
+            "desc": ""
+        },
+        {
+            "hash": 1718972171,
+            "original": "~s~Shit, they have backup coming in a car, help me!",
+            "translated": "~s~操，他们有更多的人过来了，救我！",
+            "desc": ""
+        },
+        {
+            "hash": 1803997204,
+            "original": "~s~Take my rocket launcher and nail that fuckin 'chopper Luis.~s~",
+            "translated": "~s~拿着RPG然后把直升机轰下来。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1808235227,
+            "original": "~s~Hold off the cops until Tony arrives.",
+            "translated": "~s~在Tony到达之前拖住警察。",
+            "desc": ""
+        },
+        {
+            "hash": 2458699877,
+            "original": "~s~Go to the ~y~docks.",
+            "translated": "~s~前往~y~码头。",
+            "desc": ""
+        },
+        {
+            "hash": 2520241021,
+            "original": "~s~Oh shit, fucking run.~s~",
+            "translated": "~s~干，快跑。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2536720170,
+            "original": "~r~You left your friends behind.~s~",
+            "translated": "~r~你丢下了你的朋友。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2763877574,
+            "original": "~s~Get your ~b~friend.",
+            "translated": "~s~去接你的~b~朋友。",
+            "desc": ""
+        },
+        {
+            "hash": 2776753095,
+            "original": "~r~You abandonded Tony.~s~",
+            "translated": "~r~你抛弃了Tony。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 2918403670,
+            "original": "~s~Shoot down the ~r~chopper.~s~",
+            "translated": "~s~击落~r~直升机。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3062659520,
+            "original": "PLACEHOLDER:~n~Player and buddies head to the docks to oversee a drug deal.",
+            "translated": "PLACEHOLDER:~n~Player and buddies head to the docks to oversee a drug deal.",
+            "desc": ""
+        },
+        {
+            "hash": 3125811179,
+            "original": "~s~Lose the cops before the deal goes ahead.~s~",
+            "translated": "~s~在前往交易地点前甩掉警察。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3149081932,
+            "original": "~s~Look out, they're trying to surround us.",
+            "translated": "~s~小心，他们想要围堵我们。",
+            "desc": ""
+        },
+        {
+            "hash": 3183544361,
+            "original": "PLACEHOLDER:~n~During the deal the police arrive.~n~The Dealers make a run for it.~n~The player phones Tony who promises to come pick them up in a helicopter.",
+            "translated": "PLACEHOLDER:~n~During the deal the police arrive.~n~The Dealers make a run for it.~n~The player phones Tony who promises to come pick them up in a helicopter.",
+            "desc": ""
+        },
+        {
+            "hash": 3190820624,
+            "original": "~s~Grab a fucking car, lets get out of here.~s~",
+            "translated": "~s~快他妈找辆车，该溜了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3310079225,
+            "original": "~s~ Shit won't open, get another one.~s~",
+            "translated": "~s~ 这破门打不开，另外找辆~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3420843106,
+            "original": "~s~Lose the cops.~s~",
+            "translated": "~s~甩掉警察。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3462575496,
+            "original": "~r~You left Armando behind.",
+            "translated": "~r~你丢下了Armando。",
+            "desc": ""
+        },
+        {
+            "hash": 3488525444,
+            "original": "PLACEHOLDER:~n~Tony arrives in his helicopter and the player climbs a rope to reach it.~n~Toni flies the player and buddies back to the helipad.",
+            "translated": "PLACEHOLDER:~n~Tony arrives in his helicopter and the player climbs a rope to reach it.~n~Toni flies the player and buddies back to the helipad.",
+            "desc": ""
+        },
+        {
+            "hash": 3547152106,
+            "original": "~s~Go go go go.~s~",
+            "translated": "~s~快走快走。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3669894437,
+            "original": "~s~Take out the ~r~cops~s~ in your way.",
+            "translated": "~s~干掉挡路的~r~警察。",
+            "desc": ""
+        },
+        {
+            "hash": 3755319746,
+            "original": "~s~Lose the cops.~s~",
+            "translated": "~s~甩掉警察。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3855541165,
+            "original": "~s~Shit they're heli lifting fuckers in on us.~s~",
+            "translated": "~s~妈的，他们有警察空降下来了。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3892376396,
+            "original": "~s~Go back and get your ~b~friends.~s~",
+            "translated": "~s~回去找你的~b~朋友。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3902432228,
+            "original": "~s~Take out the corrupt ~r~NOOSE.~s~",
+            "translated": "~s~干掉腐败的~r~NOOSE。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3991349861,
+            "original": "~r~You left Henrique behind.",
+            "translated": "~r~你丢下了Henrique。",
+            "desc": ""
+        },
+        {
+            "hash": 4047078845,
+            "original": "~s~PLACEHOLDER: Player phones Tony, Tony says he's coming in the helicopter to collect him.",
+            "translated": "~s~PLACEHOLDER: Player phones Tony, Tony says he's coming in the helicopter to collect him.",
+            "desc": ""
+        },
+        {
+            "hash": 4095862837,
+            "original": "~s~Good shootin' Luis, get the fuck out of here and we'll meet you later.~s~",
+            "translated": "~s~干的漂亮Luis，现在赶紧离开这，回头见。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 4207414926,
+            "original": "~r~Armando was killed.",
+            "translated": "~r~Armando被杀了。",
+            "desc": ""
+        },
+        {
+            "hash": 4219967793,
+            "original": "~s~Get to the ~b~helicopter.",
+            "translated": "~s~前往~b~直升机~s~所在地。",
+            "desc": ""
+        },
+        {
+            "hash": 4268842230,
+            "original": "~s~Get to your ~b~buddies.~s~",
+            "translated": "~s~去找你的~b~同伴。~s~",
+            "desc": ""
+        }
+    ]
+}

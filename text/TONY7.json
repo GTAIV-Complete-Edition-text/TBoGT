@@ -1,0 +1,94 @@
+{
+    "TONY7": [
+        {
+            "hash": 242132845,
+            "original": "A sticky bomb will attach itself to any moving vehicle.",
+            "translated": "黏弹会吸附在任何载具上。",
+            "desc": ""
+        },
+        {
+            "hash": 297296468,
+            "original": "Go to the ~y~docks.~s~",
+            "translated": "前往~y~码头。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 646822464,
+            "original": "~r~The car was wrecked.",
+            "translated": "~r~车坏了。",
+            "desc": ""
+        },
+        {
+            "hash": 899688995,
+            "original": "Drive Tony back to the ~y~club.",
+            "translated": "送Tony回~y~夜店。",
+            "desc": ""
+        },
+        {
+            "hash": 1126921083,
+            "original": "~r~You abandoned Tony.",
+            "translated": "~r~你抛弃了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 1213386632,
+            "original": "Use sticky bombs to take out the ~r~bikers.~s~",
+            "translated": "用黏弹干掉~r~飞车党。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 1574480089,
+            "original": "~r~Tony is dead.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1787136829,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1957613548,
+            "original": "Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~PAD_DPAD_DOWN~ to detonate.",
+            "translated": "用~PAD_RSTICK_ALL~瞄准。按~INPUT_ATTACK~投掷黏弹，按~PAD_DPAD_DOWN~引爆。",
+            "desc": ""
+        },
+        {
+            "hash": 2320115188,
+            "original": "Use ~PAD_RSTICK_ALL~ to aim. Press ~INPUT_ATTACK~ to throw a bomb and ~INPUT_DETONATE~ to detonate.",
+            "translated": "用~PAD_RSTICK_ALL~瞄准。按~INPUT_ATTACK~投掷黏弹，按~INPUT_DETONATE~引爆。",
+            "desc": ""
+        },
+        {
+            "hash": 2791290259,
+            "original": "You pick Gay Tony up and you have to drive him to the docks to go buy some diamonds",
+            "translated": "接基佬Tony并开车送他去码头买钻石。",
+            "desc": ""
+        },
+        {
+            "hash": 3435005602,
+            "original": "~r~The driver is dead.",
+            "translated": "~r~司机死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3445637917,
+            "original": "Get back in the ~b~car.~s~",
+            "translated": "回到~b~车~s~上。~s~",
+            "desc": ""
+        },
+        {
+            "hash": 3733203502,
+            "original": "~r~Evan is dead.",
+            "translated": "~r~Evan死了。",
+            "desc": ""
+        },
+        {
+            "hash": 4155169915,
+            "original": "~r~You abandoned Evan.",
+            "translated": "~r~你抛弃了Evan。",
+            "desc": ""
+        }
+    ]
+}

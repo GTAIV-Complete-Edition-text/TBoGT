@@ -1,0 +1,1228 @@
+{
+    "E2BOAUD": [
+        {
+            "hash": 31082608,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 51295555,
+            "original": "~z~Alright, but next time, try getting dressed with the light on.",
+            "translated": "~z~行吧，但是下次，穿好看点再来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 89848731,
+            "original": "~z~Take it easy now! I ain't gonna tell you this twice.",
+            "translated": "~z~别激动！我不会说第二遍。",
+            "desc": ""
+        },
+        {
+            "hash": 115177053,
+            "original": "~z~That's it, times up!",
+            "translated": "~z~就这了，时间到了！",
+            "desc": ""
+        },
+        {
+            "hash": 120022808,
+            "original": "~z~Hey, yo, look who it is!",
+            "translated": "~z~嘿，哟，看看是谁！",
+            "desc": ""
+        },
+        {
+            "hash": 170937805,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 175237096,
+            "original": "~z~No. You can tell your friends you tried.",
+            "translated": "~z~不行。你可以告诉朋友你试过了。",
+            "desc": ""
+        },
+        {
+            "hash": 209945942,
+            "original": "E2BO_SA",
+            "translated": "E2BO_SA",
+            "desc": ""
+        },
+        {
+            "hash": 222713850,
+            "original": "~z~You're barred motherfucker.",
+            "translated": "~z~你不能进，傻逼玩意。",
+            "desc": ""
+        },
+        {
+            "hash": 235573142,
+            "original": "E2BO_UA",
+            "translated": "E2BO_UA",
+            "desc": ""
+        },
+        {
+            "hash": 236814217,
+            "original": "~z~No, and the same for some time in the future. Never.",
+            "translated": "~z~不行，以后也是，绝对不行。",
+            "desc": ""
+        },
+        {
+            "hash": 248840448,
+            "original": "~z~Push off!",
+            "translated": "~z~滚！",
+            "desc": ""
+        },
+        {
+            "hash": 252801307,
+            "original": "~z~You serious? No.",
+            "translated": "~z~你认真的？不许进。",
+            "desc": ""
+        },
+        {
+            "hash": 264378500,
+            "original": "~z~This is a no fly zone as far as your concerned.",
+            "translated": "~z~对你来说，这里禁止入内。",
+            "desc": ""
+        },
+        {
+            "hash": 291000790,
+            "original": "~z~You're lucky, it's quiet in there.",
+            "translated": "~z~你很幸运，今天人不太多。",
+            "desc": ""
+        },
+        {
+            "hash": 305082204,
+            "original": "~z~You're lucky it's slow tonight.",
+            "translated": "~z~你很幸运，今晚人少。",
+            "desc": ""
+        },
+        {
+            "hash": 318173910,
+            "original": "~z~Alright, get in. They should recommend me for sainthood.",
+            "translated": "~z~行吧，进去吧。他们应该举荐我做圣徒。",
+            "desc": ""
+        },
+        {
+            "hash": 321095505,
+            "original": "~z~Hey! Chill the fuck out, man.",
+            "translated": "~z~喂！你他妈冷静点，哥们。",
+            "desc": ""
+        },
+        {
+            "hash": 333487306,
+            "original": "~z~Just go some place else.",
+            "translated": "~z~去别的地方吧。",
+            "desc": ""
+        },
+        {
+            "hash": 335635396,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 410280002,
+            "original": "~z~Go on, but you're right on the border of too ugly.",
+            "translated": "~z~进去吧，但你这打扮已经是最低标准了。",
+            "desc": ""
+        },
+        {
+            "hash": 416273862,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 446120065,
+            "original": "~z~Welcome back! Go straight in.",
+            "translated": "~z~欢迎回来！直接进去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 454030209,
+            "original": "~z~Get back on the sidewalk, you bum.",
+            "translated": "~z~滚回马路边去，讨饭佬。",
+            "desc": ""
+        },
+        {
+            "hash": 476215840,
+            "original": "E2BO_AGA",
+            "translated": "E2BO_AGA",
+            "desc": ""
+        },
+        {
+            "hash": 493569492,
+            "original": "~z~Alright. Just this once.",
+            "translated": "~z~好吧，下不为例。",
+            "desc": ""
+        },
+        {
+            "hash": 502696557,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 504116504,
+            "original": "~z~You're not getting in here.",
+            "translated": "~z~你不能进来。",
+            "desc": ""
+        },
+        {
+            "hash": 518857879,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 545858656,
+            "original": "~z~No way!",
+            "translated": "~z~没门！",
+            "desc": ""
+        },
+        {
+            "hash": 555984285,
+            "original": "~z~This is not your scene. Trust me.",
+            "translated": "~z~你不该来这里。相信我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 577247600,
+            "original": "E2BO_JA",
+            "translated": "E2BO_JA",
+            "desc": ""
+        },
+        {
+            "hash": 580785039,
+            "original": "~z~Tone it down, ok?",
+            "translated": "~z~别这样，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 620028772,
+            "original": "~z~Wow, wow there partner.",
+            "translated": "~z~哇哦，哇哦，这位哥。",
+            "desc": ""
+        },
+        {
+            "hash": 621062931,
+            "original": "~z~Look, simmer down asshole.",
+            "translated": "~z~听着，冷静点，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 658155369,
+            "original": "~z~Hey! Welcome!",
+            "translated": "~z~嘿！欢迎！",
+            "desc": ""
+        },
+        {
+            "hash": 673750362,
+            "original": "E2BO_GA",
+            "translated": "E2BO_GA",
+            "desc": ""
+        },
+        {
+            "hash": 681818976,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 683498670,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 694268873,
+            "original": "~z~Hey, come on. Take it easy.",
+            "translated": "~z~喂，拜托，冷静点。",
+            "desc": ""
+        },
+        {
+            "hash": 729039704,
+            "original": "~z~You're lucky. Another night, your ass would be outta here.",
+            "translated": "~z~你真幸运，换个日子，你就被赶出去了。",
+            "desc": ""
+        },
+        {
+            "hash": 756344188,
+            "original": "~z~Great to see you back!",
+            "translated": "~z~看见你回来真高兴！",
+            "desc": ""
+        },
+        {
+            "hash": 810833329,
+            "original": "~z~No fucking way.",
+            "translated": "~z~你妈的没门。",
+            "desc": ""
+        },
+        {
+            "hash": 878753556,
+            "original": "~z~Look at me! Chill, got it?",
+            "translated": "~z~听我说！冷静点，懂？",
+            "desc": ""
+        },
+        {
+            "hash": 906773772,
+            "original": "~z~Just go right ahead.",
+            "translated": "~z~直接进去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1023404768,
+            "original": "~z~Alright, it's time you chilled the fuck out.",
+            "translated": "~z~好了，是时候他妈冷静点了。",
+            "desc": ""
+        },
+        {
+            "hash": 1031784786,
+            "original": "~z~Hey, relax.",
+            "translated": "~z~喂，冷静。",
+            "desc": ""
+        },
+        {
+            "hash": 1074359426,
+            "original": "~z~Why not? You look like you'll buy a lot of drinks.",
+            "translated": "~z~进去吧？你看起来会点很多酒。",
+            "desc": ""
+        },
+        {
+            "hash": 1075812501,
+            "original": "E2BO_LA",
+            "translated": "E2BO_LA",
+            "desc": ""
+        },
+        {
+            "hash": 1100249137,
+            "original": "~z~You must think I'm stupid.",
+            "translated": "~z~你当我傻子是吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1136648307,
+            "original": "~z~Good to see you.",
+            "translated": "~z~很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 1152831779,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 1160236286,
+            "original": "E2BO_AFA",
+            "translated": "E2BO_AFA",
+            "desc": ""
+        },
+        {
+            "hash": 1161844699,
+            "original": "~z~Time to get gone.",
+            "translated": "~z~是时候滚了。",
+            "desc": ""
+        },
+        {
+            "hash": 1193631743,
+            "original": "~z~Do you even own a mirror?",
+            "translated": "~z~出门没照过自己啥样？",
+            "desc": ""
+        },
+        {
+            "hash": 1235450151,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 1243284762,
+            "original": "~z~Just calm it down man, alright?",
+            "translated": "~z~冷静点吧哥们，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1297146280,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1331654771,
+            "original": "~z~You've gotta be kidding.",
+            "translated": "~z~你是在逗我吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1342636708,
+            "original": "~z~Have fun in there.",
+            "translated": "~z~祝您玩得高兴。",
+            "desc": ""
+        },
+        {
+            "hash": 1376038521,
+            "original": "E2BO_QA",
+            "translated": "E2BO_QA",
+            "desc": ""
+        },
+        {
+            "hash": 1385782133,
+            "original": "E2BO_YA",
+            "translated": "E2BO_YA",
+            "desc": ""
+        },
+        {
+            "hash": 1423095080,
+            "original": "~z~Go practice at some other places. Then come back.",
+            "translated": "~z~换家店卖弄利索了再回来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1470900311,
+            "original": "~z~Not in your wildest dreams.",
+            "translated": "~z~别痴心妄想了。",
+            "desc": ""
+        },
+        {
+            "hash": 1498506523,
+            "original": "~z~No. No. And no.",
+            "translated": "~z~不行，不行，还是不行。",
+            "desc": ""
+        },
+        {
+            "hash": 1527539472,
+            "original": "~z~You deaf? Get outta here!",
+            "translated": "~z~你聋了？滚出去！",
+            "desc": ""
+        },
+        {
+            "hash": 1553802665,
+            "original": "~z~Yeah, why not? Need some variety I guess.",
+            "translated": "~z~请进，何不呢？来点多样性也挺好。",
+            "desc": ""
+        },
+        {
+            "hash": 1568547964,
+            "original": "~z~No, maybe you should try some a little more, down market.",
+            "translated": "~z~不行，要么你换身更接地气的来？",
+            "desc": ""
+        },
+        {
+            "hash": 1585212508,
+            "original": "~z~Time you went home. Asshole.",
+            "translated": "~z~你该回家了，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 1589021387,
+            "original": "~z~You see what you did?",
+            "translated": "~z~看看你都做了什么？",
+            "desc": ""
+        },
+        {
+            "hash": 1612222495,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 1613659255,
+            "original": "~z~I need you to take it down a notch. Understand?",
+            "translated": "~z~我需要你收一收，明白吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1666121317,
+            "original": "~z~Looking good.",
+            "translated": "~z~看起来不错。",
+            "desc": ""
+        },
+        {
+            "hash": 1683440045,
+            "original": "~z~No admittance!",
+            "translated": "~z~禁止入内！",
+            "desc": ""
+        },
+        {
+            "hash": 1692511987,
+            "original": "~z~Just go home.",
+            "translated": "~z~回家吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1700330702,
+            "original": "~z~Just relax tough guy, it's over.",
+            "translated": "~z~放松点，猛男。结束了。",
+            "desc": ""
+        },
+        {
+            "hash": 1717579606,
+            "original": "~z~Have a great night.",
+            "translated": "~z~玩得愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 1746686428,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 1746938168,
+            "original": "~z~Hey, hey, what's poppin'?",
+            "translated": "~z~嘿，嘿，最近怎么样？",
+            "desc": ""
+        },
+        {
+            "hash": 1766442911,
+            "original": "~z~For fuck's sake. Walk away.",
+            "translated": "~z~识相的话就他妈滚。",
+            "desc": ""
+        },
+        {
+            "hash": 1793689679,
+            "original": "~z~You must be delusional.",
+            "translated": "~z~你在做梦吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1807532281,
+            "original": "~z~Seriously? That's not a good look for you. Better luck next time.",
+            "translated": "~z~你认真的？你看起来不太行啊。下次好运吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1815538798,
+            "original": "E2BO_KA",
+            "translated": "E2BO_KA",
+            "desc": ""
+        },
+        {
+            "hash": 1818368570,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 1827902977,
+            "original": "~z~We don't like it when you disturb the other patrons. Clear?",
+            "translated": "~z~我们不喜欢你打扰其他顾客。明白了吗？",
+            "desc": ""
+        },
+        {
+            "hash": 1839255972,
+            "original": "E2BO_VA",
+            "translated": "E2BO_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1854572521,
+            "original": "~z~We got standards. And you're like, six levels below them.",
+            "translated": "~z~我们有准入标准。你大概还差六条街吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1875119851,
+            "original": "~z~Go on you piece of shit. Get the fuck outta here.",
+            "translated": "~z~滚吧，你个废物。快他妈滚吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1882698058,
+            "original": "~z~Can't believe I'm saying this but, sure. It's a recession afterall.",
+            "translated": "~z~没想到我会说这么说，进来吧。毕竟经济衰退了。",
+            "desc": ""
+        },
+        {
+            "hash": 1912361448,
+            "original": "E2BO_RA",
+            "translated": "E2BO_RA",
+            "desc": ""
+        },
+        {
+            "hash": 1997366740,
+            "original": "E2BO_ACA",
+            "translated": "E2BO_ACA",
+            "desc": ""
+        },
+        {
+            "hash": 2005475634,
+            "original": "~z~Let's go big man.",
+            "translated": "~z~来吧大佬。",
+            "desc": ""
+        },
+        {
+            "hash": 2089147297,
+            "original": "~z~Go straight in.",
+            "translated": "~z~进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2093036956,
+            "original": "~z~Please, check yourself.",
+            "translated": "~z~请你自觉一点。",
+            "desc": ""
+        },
+        {
+            "hash": 2094017564,
+            "original": "~z~Are you serious?",
+            "translated": "~z~你认真的？",
+            "desc": ""
+        },
+        {
+            "hash": 2117102944,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 2144316019,
+            "original": "~z~Nah, nah, not tonight.",
+            "translated": "~z~不不，今晚别想了。",
+            "desc": ""
+        },
+        {
+            "hash": 2148047606,
+            "original": "~z~Get out of here!",
+            "translated": "~z~滚出去！",
+            "desc": ""
+        },
+        {
+            "hash": 2151441832,
+            "original": "~z~Not in a million years, bitch.",
+            "translated": "~z~一百万年后再说吧，臭逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2192211539,
+            "original": "~z~Do I have to make an example out of you? You can't get in.",
+            "translated": "~z~非要我杀鸡儆猴吗？你不能进。",
+            "desc": ""
+        },
+        {
+            "hash": 2206474519,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2245359641,
+            "original": "~z~Sure, it's pretty slow.",
+            "translated": "~z~请吧，人不是很多。",
+            "desc": ""
+        },
+        {
+            "hash": 2249235967,
+            "original": "~z~You're not getting in here.",
+            "translated": "~z~你不能进来。",
+            "desc": ""
+        },
+        {
+            "hash": 2273920762,
+            "original": "E2BO_TA",
+            "translated": "E2BO_TA",
+            "desc": ""
+        },
+        {
+            "hash": 2386973169,
+            "original": "500",
+            "translated": "500",
+            "desc": ""
+        },
+        {
+            "hash": 2389835007,
+            "original": "E2BO_OA",
+            "translated": "E2BO_OA",
+            "desc": ""
+        },
+        {
+            "hash": 2390312169,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 2424787850,
+            "original": "~z~Give me a fucking break.",
+            "translated": "~z~饶了我吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2425572338,
+            "original": "~z~Looking like that, they'd fire my ass if I let you in.",
+            "translated": "~z~这副打扮，放你进去我就要下岗了。",
+            "desc": ""
+        },
+        {
+            "hash": 2467629685,
+            "original": "E2BO_FA",
+            "translated": "E2BO_FA",
+            "desc": ""
+        },
+        {
+            "hash": 2473104187,
+            "original": "~z~Sure, a bit of comic relief never hurts.",
+            "translated": "~z~当然可以，来点搞笑的也挺不错。",
+            "desc": ""
+        },
+        {
+            "hash": 2477906010,
+            "original": "~z~What part of leave don't you understand?",
+            "translated": "~z~叫你滚，有啥不明白的？",
+            "desc": ""
+        },
+        {
+            "hash": 2478389584,
+            "original": "~z~Better get lost.",
+            "translated": "~z~最好赶紧滚。",
+            "desc": ""
+        },
+        {
+            "hash": 2488770231,
+            "original": "~z~Hey, good to see you, come on in.",
+            "translated": "~z~嘿，很高兴见到你，进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2499507949,
+            "original": "~z~It's your lucky night fruitcake.",
+            "translated": "~z~今晚算你走运，怪人。",
+            "desc": ""
+        },
+        {
+            "hash": 2508850143,
+            "original": "~z~Right away sir, have a good time.",
+            "translated": "~z~马上就来，先生，祝你玩得开心。",
+            "desc": ""
+        },
+        {
+            "hash": 2537744136,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 2551963035,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2569804568,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 2575795398,
+            "original": "~z~In your dreams.",
+            "translated": "~z~做梦吧你。",
+            "desc": ""
+        },
+        {
+            "hash": 2576683205,
+            "original": "E2BO_BA",
+            "translated": "E2BO_BA",
+            "desc": ""
+        },
+        {
+            "hash": 2657389999,
+            "original": "~z~Hey, it's the least I can do in these troubled times. Come on in.",
+            "translated": "~z~嘿，虽然是困难时期，至少我还能放你进去。进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2685730103,
+            "original": "~z~Ok, go in. But you better thank me nicely.",
+            "translated": "~z~行吧，进来吧。但你最好会感谢我。",
+            "desc": ""
+        },
+        {
+            "hash": 2693966281,
+            "original": "~z~No more chances!",
+            "translated": "~z~你没机会了！",
+            "desc": ""
+        },
+        {
+            "hash": 2708690116,
+            "original": "~z~This place is not for you.",
+            "translated": "~z~这里不欢迎你。",
+            "desc": ""
+        },
+        {
+            "hash": 2717381862,
+            "original": "~z~Don't make me tell you again.",
+            "translated": "~z~别让我说第二遍。",
+            "desc": ""
+        },
+        {
+            "hash": 2722164557,
+            "original": "~z~Wow. This ain't some irish pub. Clean up a little, then come back to me.",
+            "translated": "~z~哇哦，这可不是爱尔兰酒吧。打扮得好看点再回来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2726626531,
+            "original": "E2BO_WA",
+            "translated": "E2BO_WA",
+            "desc": ""
+        },
+        {
+            "hash": 2737702248,
+            "original": "E2BO_ABA",
+            "translated": "E2BO_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 2738082285,
+            "original": "~z~Sorry, not tonight.",
+            "translated": "~z~不好意思，今晚不行。",
+            "desc": ""
+        },
+        {
+            "hash": 2770647046,
+            "original": "E2BO_AHA",
+            "translated": "E2BO_AHA",
+            "desc": ""
+        },
+        {
+            "hash": 2831423621,
+            "original": "E2BO_AEA",
+            "translated": "E2BO_AEA",
+            "desc": ""
+        },
+        {
+            "hash": 2845877754,
+            "original": "E2BO_AIA",
+            "translated": "E2BO_AIA",
+            "desc": ""
+        },
+        {
+            "hash": 2862458401,
+            "original": "~z~Urhh, ok.",
+            "translated": "~z~呃，好吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2866737314,
+            "original": "~z~That's it, time to go.",
+            "translated": "~z~就这了，该走了。",
+            "desc": ""
+        },
+        {
+            "hash": 2904758099,
+            "original": "~z~Just this once, I'm gonna look the other way. Get in.",
+            "translated": "~z~就这一次，我假装没看见。进去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2949477069,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 2993427010,
+            "original": "~z~Easy.",
+            "translated": "~z~小菜一碟。",
+            "desc": ""
+        },
+        {
+            "hash": 3009676460,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3038247438,
+            "original": "E2BO_PA",
+            "translated": "E2BO_PA",
+            "desc": ""
+        },
+        {
+            "hash": 3041912892,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3082945314,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3093625935,
+            "original": "~z~No way, no how.",
+            "translated": "~z~没门，说啥都没用。",
+            "desc": ""
+        },
+        {
+            "hash": 3107444634,
+            "original": "~z~No fucking way.",
+            "translated": "~z~门都没有。",
+            "desc": ""
+        },
+        {
+            "hash": 3115664464,
+            "original": "~z~Sure, I guess in this economy we all got to lower our standards.",
+            "translated": "~z~行，看来以现在的经济状况，不得不降低标准了。",
+            "desc": ""
+        },
+        {
+            "hash": 3152393432,
+            "original": "~z~We're not exactly packing the joint out so I guess you can go in.",
+            "translated": "~z~店里的位置还有空闲，你进去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3164913937,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 3220451570,
+            "original": "~z~Squash that drama, right fucking now.",
+            "translated": "~z~现在就他妈的把他赶出去。",
+            "desc": ""
+        },
+        {
+            "hash": 3223664679,
+            "original": "E2BO_DA",
+            "translated": "E2BO_DA",
+            "desc": ""
+        },
+        {
+            "hash": 3227962807,
+            "original": "~z~I'll let you in, if you spend some money in there.",
+            "translated": "~z~只要肯在店里消费，我就放你进来。",
+            "desc": ""
+        },
+        {
+            "hash": 3277417537,
+            "original": "E2BO_NA",
+            "translated": "E2BO_NA",
+            "desc": ""
+        },
+        {
+            "hash": 3284588868,
+            "original": "~z~This isn't your kind of place.",
+            "translated": "~z~这不是你这种人待的地方。",
+            "desc": ""
+        },
+        {
+            "hash": 3340333921,
+            "original": "~z~Give up. You're never getting in here.",
+            "translated": "~z~放弃吧，你不会被放进去的。",
+            "desc": ""
+        },
+        {
+            "hash": 3346428951,
+            "original": "~z~Never gonna happen.",
+            "translated": "~z~不会放你进去的。",
+            "desc": ""
+        },
+        {
+            "hash": 3353025201,
+            "original": "~z~Man, I'm getting soft.",
+            "translated": "~z~天，我不够狠啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3355945355,
+            "original": "~z~Come on, you tryin' to get noticed?",
+            "translated": "~z~别吧，你想吸引人家注意吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3357204763,
+            "original": "~z~Ok, I feel bad for you. Things are tough all over these days.",
+            "translated": "~z~好吧，感觉对你不好。最近日子不好过啊。",
+            "desc": ""
+        },
+        {
+            "hash": 3370270510,
+            "original": "~z~Slow down there.",
+            "translated": "~z~慢点。",
+            "desc": ""
+        },
+        {
+            "hash": 3406504209,
+            "original": "~z~Go on then.",
+            "translated": "~z~进去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3431173649,
+            "original": "~z~Get the fuck away from here.",
+            "translated": "~z~快他妈从这里滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 3458754874,
+            "original": "~z~Yeah, I guess. Come on in.",
+            "translated": "~z~行吧，进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3496061975,
+            "original": "~z~Please, head straight through.",
+            "translated": "~z~请吧，进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3513626208,
+            "original": "~z~You need some more practice at this game.",
+            "translated": "~z~你玩这把戏还得多练练。",
+            "desc": ""
+        },
+        {
+            "hash": 3517895783,
+            "original": "~z~I told you, you're not getting in.",
+            "translated": "~z~我说了，你不能进来。",
+            "desc": ""
+        },
+        {
+            "hash": 3587547570,
+            "original": "~z~Right this way.",
+            "translated": "~z~这边走。",
+            "desc": ""
+        },
+        {
+            "hash": 3602346829,
+            "original": "E2BO_ZA",
+            "translated": "E2BO_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 3608210389,
+            "original": "E2BO_AAA",
+            "translated": "E2BO_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 3627811709,
+            "original": "~z~Look around. You think you fit in here?",
+            "translated": "~z~看看周围，你觉得能融进去吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3637746469,
+            "original": "~z~It's actually funny that you thought you could get in here.",
+            "translated": "~z~你不会以为穿成这样还能进来吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3649783027,
+            "original": "~z~It's not happenin'.",
+            "translated": "~z~想都别想。",
+            "desc": ""
+        },
+        {
+            "hash": 3678073730,
+            "original": "~z~Lucky for you, its low standards night.",
+            "translated": "~z~你很幸运，今晚的门槛低了。",
+            "desc": ""
+        },
+        {
+            "hash": 3706027142,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3717112987,
+            "original": "~z~Really, look at yourself. Your really think I could let you in?",
+            "translated": "~z~真的吗，你看看你。你真觉得我会让你进去？",
+            "desc": ""
+        },
+        {
+            "hash": 3717431438,
+            "original": "600",
+            "translated": "600",
+            "desc": ""
+        },
+        {
+            "hash": 3740654248,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3782907374,
+            "original": "~z~Yeah right. You're joking, right?",
+            "translated": "~z~是啊。你搞笑呢，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 3859300887,
+            "original": "~z~Step right in.",
+            "translated": "~z~进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3861183396,
+            "original": "~z~Alright, just this once.",
+            "translated": "~z~好吧，下不为例。",
+            "desc": ""
+        },
+        {
+            "hash": 3863227279,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 3875716678,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3888219944,
+            "original": "~z~All yours, have fun in there.",
+            "translated": "~z~大家玩得愉快。",
+            "desc": ""
+        },
+        {
+            "hash": 3894305305,
+            "original": "~z~Try somewhere else.",
+            "translated": "~z~换家店吧。",
+            "desc": ""
+        },
+        {
+            "hash": 3911594838,
+            "original": "E2BO_MA",
+            "translated": "E2BO_MA",
+            "desc": ""
+        },
+        {
+            "hash": 3914496822,
+            "original": "~z~Wow, 'scuse me.",
+            "translated": "~z~哇，不好意思。",
+            "desc": ""
+        },
+        {
+            "hash": 3919113581,
+            "original": "E2BO_IA",
+            "translated": "E2BO_IA",
+            "desc": ""
+        },
+        {
+            "hash": 3942408582,
+            "original": "E2BO_CA",
+            "translated": "E2BO_CA",
+            "desc": ""
+        },
+        {
+            "hash": 3989239049,
+            "original": "~z~Cool your jets, ok?",
+            "translated": "~z~消消气，好吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4038438484,
+            "original": "~z~Alright fruitcake, get in there.",
+            "translated": "~z~好了，怪人，进来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4087806823,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 4091700972,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 4097788383,
+            "original": "300",
+            "translated": "300",
+            "desc": ""
+        },
+        {
+            "hash": 4108687601,
+            "original": "~z~Go on then, I'm feeling nice.",
+            "translated": "~z~进去吧，我觉得可以。",
+            "desc": ""
+        },
+        {
+            "hash": 4119688725,
+            "original": "~z~I must be crazy.",
+            "translated": "~z~我肯定是疯了。",
+            "desc": ""
+        },
+        {
+            "hash": 4126155653,
+            "original": "~z~Nice to see you.",
+            "translated": "~z~很高兴见到你。",
+            "desc": ""
+        },
+        {
+            "hash": 4144564758,
+            "original": "E2BO_AA",
+            "translated": "E2BO_AA",
+            "desc": ""
+        },
+        {
+            "hash": 4145600690,
+            "original": "E2BO_ADA",
+            "translated": "E2BO_ADA",
+            "desc": ""
+        },
+        {
+            "hash": 4161167836,
+            "original": "400",
+            "translated": "400",
+            "desc": ""
+        },
+        {
+            "hash": 4172492402,
+            "original": "~z~Ok, you can go in, but you better be a big tipper.",
+            "translated": "~z~好了，你进来吧，但你给小费最好大方点。",
+            "desc": ""
+        },
+        {
+            "hash": 4176276334,
+            "original": "E2BO_HA",
+            "translated": "E2BO_HA",
+            "desc": ""
+        },
+        {
+            "hash": 4210577244,
+            "original": "E2BO_AJA",
+            "translated": "E2BO_AJA",
+            "desc": ""
+        },
+        {
+            "hash": 4213794371,
+            "original": "E2BO_XA",
+            "translated": "E2BO_XA",
+            "desc": ""
+        },
+        {
+            "hash": 4226997044,
+            "original": "~z~Uhtuh, try somewhere else.",
+            "translated": "~z~呃呃，换家店吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4242845042,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 4275332748,
+            "original": "E2BO_EA",
+            "translated": "E2BO_EA",
+            "desc": ""
+        }
+    ]
+}

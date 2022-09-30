@@ -1,0 +1,136 @@
+{
+    "CLBPRC3": [
+        {
+            "hash": 41313574,
+            "original": "You need a vehicle with more passenger seats.",
+            "translated": "找一辆座位更多的载具。",
+            "desc": ""
+        },
+        {
+            "hash": 907635015,
+            "original": "Go to the ~y~hotel.",
+            "translated": "前往~y~酒店。",
+            "desc": ""
+        },
+        {
+            "hash": 1394737364,
+            "original": "You need a four-door car.",
+            "translated": "找一辆四门的车。",
+            "desc": ""
+        },
+        {
+            "hash": 1591809602,
+            "original": "~r~Club management failed.",
+            "translated": "~r~夜店经营任务失败。",
+            "desc": ""
+        },
+        {
+            "hash": 1626022418,
+            "original": "~r~You abandoned one of the ladies.",
+            "translated": "~r~你抛弃了其中一名女士。",
+            "desc": ""
+        },
+        {
+            "hash": 1740450314,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 1834988351,
+            "original": "~r~You hurt Troy.",
+            "translated": "~r~你伤害了Troy。",
+            "desc": ""
+        },
+        {
+            "hash": 1888141649,
+            "original": "Head over to ~y~Easton Station.",
+            "translated": "前往~y~Easton站。",
+            "desc": ""
+        },
+        {
+            "hash": 1954923467,
+            "original": "Head over to ~y~Maisonette 9.",
+            "translated": "前往~y~9号豪宅。",
+            "desc": ""
+        },
+        {
+            "hash": 2238768497,
+            "original": "~r~The Prince was hurt.",
+            "translated": "~r~王子受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 2239163177,
+            "original": "You've left the ~b~Prince~s~ and his ~b~ladies~s~ behind.",
+            "translated": "你把~b~王子~s~和他的~b~小姐~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 2311843415,
+            "original": "Wait for the ~b~'ladies'.",
+            "translated": "等待两位~b~「小姐」。",
+            "desc": ""
+        },
+        {
+            "hash": 2546044862,
+            "original": "You've left one of the ~b~ladies~s~ behind.",
+            "translated": "你把其中一名~b~小姐~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 2613711395,
+            "original": "You've left the ~b~Prince~s~ behind.",
+            "translated": "你把~b~王子~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 2805247652,
+            "original": "Go and meet the ~b~royal guest.",
+            "translated": "去找~b~皇室客人。",
+            "desc": ""
+        },
+        {
+            "hash": 2993176415,
+            "original": "~r~You abandoned the Prince.",
+            "translated": "~r~你抛弃了王子。",
+            "desc": ""
+        },
+        {
+            "hash": 3082308095,
+            "original": "~r~One of the ladies got hurt.",
+            "translated": "~r~其中一名小姐受伤了。",
+            "desc": ""
+        },
+        {
+            "hash": 3124122791,
+            "original": "You need a car.",
+            "translated": "找一辆车。",
+            "desc": ""
+        },
+        {
+            "hash": 3368120765,
+            "original": "Sound your horn to get the ~b~girls'~s~ attention.",
+            "translated": "鸣笛以引起~b~女孩们~s~的注意.",
+            "desc": ""
+        },
+        {
+            "hash": 3503309650,
+            "original": "Use ~PAD_RSTICK_ALL~ to look around and check for trouble.",
+            "translated": "用~PAD_RSTICK_ALL~观察四周有无状况。",
+            "desc": ""
+        },
+        {
+            "hash": 3665827130,
+            "original": "Get back in a car.",
+            "translated": "回到车上。",
+            "desc": ""
+        },
+        {
+            "hash": 4039229885,
+            "original": "~r~You hurt Dessie.",
+            "translated": "~r~你伤害了Dessie。",
+            "desc": ""
+        }
+    ]
+}

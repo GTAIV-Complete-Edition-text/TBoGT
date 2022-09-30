@@ -1,0 +1,1576 @@
+{
+    "E2DWAUD": [
+        {
+            "hash": 174590,
+            "original": "E2DW_SA",
+            "translated": "E2DW_SA",
+            "desc": ""
+        },
+        {
+            "hash": 41924612,
+            "original": "~z~I hear you be stashing the shit for us.",
+            "translated": "~z~听说你给我们留了货。",
+            "desc": ""
+        },
+        {
+            "hash": 72922869,
+            "original": "~z~I got the product, yo. Time to roll.",
+            "translated": "~z~我拿到货了。该走了。",
+            "desc": ""
+        },
+        {
+            "hash": 93437415,
+            "original": "~z~Fuck! We can't let the shit get away.",
+            "translated": "~z~操！不能让货被带走。",
+            "desc": ""
+        },
+        {
+            "hash": 136070798,
+            "original": "E2DW_RA",
+            "translated": "E2DW_RA",
+            "desc": ""
+        },
+        {
+            "hash": 146183527,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 167240138,
+            "original": "~z~I got it all. Let's go back.",
+            "translated": "~z~都到手了。回去吧。",
+            "desc": ""
+        },
+        {
+            "hash": 211137997,
+            "original": "~z~Look's like A's headed to the emergency ward.",
+            "translated": "~z~看来A要去急诊室了。",
+            "desc": ""
+        },
+        {
+            "hash": 216567544,
+            "original": "592",
+            "translated": "592",
+            "desc": ""
+        },
+        {
+            "hash": 217428632,
+            "original": "E2DW_AJA",
+            "translated": "E2DW_AJA",
+            "desc": ""
+        },
+        {
+            "hash": 259975440,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 261222384,
+            "original": "~z~No come our deal assholes. Fuck you.",
+            "translated": "~z~别搅和我们的交易，混蛋。操你妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 278776462,
+            "original": "~z~I see the product, bro.",
+            "translated": "~z~我看到货了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 295402729,
+            "original": "692",
+            "translated": "692",
+            "desc": ""
+        },
+        {
+            "hash": 300949311,
+            "original": "~z~There goes that.",
+            "translated": "~z~就这样了。",
+            "desc": ""
+        },
+        {
+            "hash": 309940320,
+            "original": "~z~Get in. We going!",
+            "translated": "~z~快上车。我们走了！",
+            "desc": ""
+        },
+        {
+            "hash": 354507110,
+            "original": "~z~Meet me at the dropoff, man.",
+            "translated": "~z~喂，我们卸货点见。",
+            "desc": ""
+        },
+        {
+            "hash": 364512961,
+            "original": "~z~Someone stop that motherfucker. He got the shit.",
+            "translated": "~z~快点阻止那个贱逼。他带着货。",
+            "desc": ""
+        },
+        {
+            "hash": 390870473,
+            "original": "~z~I got eyes on the money, bro. Go get that shit.",
+            "translated": "~z~我看到钱了，兄弟。去拿回来。",
+            "desc": ""
+        },
+        {
+            "hash": 452735319,
+            "original": "~z~The fates is conspiring. Shit.",
+            "translated": "~z~全搞砸了。操。",
+            "desc": ""
+        },
+        {
+            "hash": 457575346,
+            "original": "~z~I got it.",
+            "translated": "~z~拿到了。",
+            "desc": ""
+        },
+        {
+            "hash": 462685836,
+            "original": "E2DW_WA",
+            "translated": "E2DW_WA",
+            "desc": ""
+        },
+        {
+            "hash": 465825954,
+            "original": "E2DW_HA",
+            "translated": "E2DW_HA",
+            "desc": ""
+        },
+        {
+            "hash": 478666066,
+            "original": "~z~You come too close, motherfucker. You pay bigtime.",
+            "translated": "~z~你离得太近了，臭傻逼。付出代价吧。",
+            "desc": ""
+        },
+        {
+            "hash": 496544893,
+            "original": "~z~Stop right now. You being jacked!",
+            "translated": "~z~快停下来。你被打劫了！",
+            "desc": ""
+        },
+        {
+            "hash": 510967282,
+            "original": "E2DW_CJA",
+            "translated": "E2DW_CJA",
+            "desc": ""
+        },
+        {
+            "hash": 539868137,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 557385221,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 592672202,
+            "original": "~z~See you at the drop, homie.",
+            "translated": "~z~卸货点见。",
+            "desc": ""
+        },
+        {
+            "hash": 616526568,
+            "original": "~z~You a real disappointing motherfucker, L.",
+            "translated": "~z~你这混蛋真让人失望，L。",
+            "desc": ""
+        },
+        {
+            "hash": 621662540,
+            "original": "~z~L, the money's there. Scoop that paper up, bro.",
+            "translated": "~z~Luis，钱掉了。快去捡起来，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 633959305,
+            "original": "E2DW_JA",
+            "translated": "E2DW_JA",
+            "desc": ""
+        },
+        {
+            "hash": 659631042,
+            "original": "E2F2_CLA",
+            "translated": "E2F2_CLA",
+            "desc": ""
+        },
+        {
+            "hash": 679799765,
+            "original": "792",
+            "translated": "792",
+            "desc": ""
+        },
+        {
+            "hash": 685089403,
+            "original": "~z~This important business-time deal. You fuck off.",
+            "translated": "~z~这是重要的正经生意。你给我滚蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 689123050,
+            "original": "E2DW_ACA",
+            "translated": "E2DW_ACA",
+            "desc": ""
+        },
+        {
+            "hash": 697138696,
+            "original": "~z~Oye! Time to go. Get in!",
+            "translated": "~z~喂！该走了。快上来。",
+            "desc": ""
+        },
+        {
+            "hash": 717126079,
+            "original": "~z~No good you be here, fuckheads. We need kill you now.",
+            "translated": "~z~你们来准没好事，傻逼。现在得杀了你们。",
+            "desc": ""
+        },
+        {
+            "hash": 733431623,
+            "original": "E2DW_MA",
+            "translated": "E2DW_MA",
+            "desc": ""
+        },
+        {
+            "hash": 742803928,
+            "original": "~z~Stop your shit and give it up! We here to rob you.",
+            "translated": "~z~快停下来，交出货物！我们来抢劫了。",
+            "desc": ""
+        },
+        {
+            "hash": 743780995,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 776703903,
+            "original": "~z~Give up the merchandise, bitches.",
+            "translated": "~z~把货交出来，贱人。",
+            "desc": ""
+        },
+        {
+            "hash": 782036300,
+            "original": "E2DW_YA",
+            "translated": "E2DW_YA",
+            "desc": ""
+        },
+        {
+            "hash": 785977313,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 860417909,
+            "original": "~z~Where these boys at? I was looking forward to a fight.",
+            "translated": "~z~他们人呢？我还想干一架呢。",
+            "desc": ""
+        },
+        {
+            "hash": 868961919,
+            "original": "~z~Armando, Henrique, you ain't welcome here. Fuck off.",
+            "translated": "~z~Armando，Henrique，这里不欢迎你们。快滚。",
+            "desc": ""
+        },
+        {
+            "hash": 902241422,
+            "original": "E2DW_EA",
+            "translated": "E2DW_EA",
+            "desc": ""
+        },
+        {
+            "hash": 917379970,
+            "original": "E2DW_QA",
+            "translated": "E2DW_QA",
+            "desc": ""
+        },
+        {
+            "hash": 919681539,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 936852307,
+            "original": "E2DW_OA",
+            "translated": "E2DW_OA",
+            "desc": ""
+        },
+        {
+            "hash": 990302847,
+            "original": "~z~Rique needs to get to a hospital, man!",
+            "translated": "~z~Rique需要去医院，兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 999955332,
+            "original": "E2DW_FA",
+            "translated": "E2DW_FA",
+            "desc": ""
+        },
+        {
+            "hash": 1049032812,
+            "original": "~z~That's a bitch.",
+            "translated": "~z~真他妈恶心。",
+            "desc": ""
+        },
+        {
+            "hash": 1061234852,
+            "original": "E2DW_NA",
+            "translated": "E2DW_NA",
+            "desc": ""
+        },
+        {
+            "hash": 1069350419,
+            "original": "~z~Someone's gotta stop 'em. They running.",
+            "translated": "~z~来人阻止他们。他们要跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 1104851757,
+            "original": "~z~Look, bro. The guy dropped the cash.",
+            "translated": "~z~兄弟，快看。他的钱掉了。",
+            "desc": ""
+        },
+        {
+            "hash": 1126290465,
+            "original": "~z~That everything. Let's hit it.",
+            "translated": "~z~全部搞定。我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 1130514079,
+            "original": "~z~Up ahead. We just about there.",
+            "translated": "~z~快了，我们快到了。",
+            "desc": ""
+        },
+        {
+            "hash": 1132192324,
+            "original": "~z~He trying to make off with our stuff, bro. Get him.",
+            "translated": "~z~他想带着我们的货逃跑，兄弟。抓住他。",
+            "desc": ""
+        },
+        {
+            "hash": 1187077324,
+            "original": "~z~You shoulda kept this joint a secret.",
+            "translated": "~z~你们仓库的保密没做好。",
+            "desc": ""
+        },
+        {
+            "hash": 1199562703,
+            "original": "~z~What we have Spanish fuck deal for? Go away to hell.",
+            "translated": "~z~交易的时候要西班牙人干嘛？下地狱吧。",
+            "desc": ""
+        },
+        {
+            "hash": 1203845160,
+            "original": "~z~Nice of you to get this ready.",
+            "translated": "~z~打好包了，真不错。",
+            "desc": ""
+        },
+        {
+            "hash": 1206330357,
+            "original": "E2DW_BA",
+            "translated": "E2DW_BA",
+            "desc": ""
+        },
+        {
+            "hash": 1260599194,
+            "original": "692",
+            "translated": "692",
+            "desc": ""
+        },
+        {
+            "hash": 1315347302,
+            "original": "~z~They's making a move with the product. Shit.",
+            "translated": "~z~他们想带着货逃跑。妈的。",
+            "desc": ""
+        },
+        {
+            "hash": 1315394621,
+            "original": "E2DW_AHA",
+            "translated": "E2DW_AHA",
+            "desc": ""
+        },
+        {
+            "hash": 1339312789,
+            "original": "~z~Come on! Now!",
+            "translated": "~z~快点！快！",
+            "desc": ""
+        },
+        {
+            "hash": 1376163160,
+            "original": "~z~Yo bitch! We here for your shit.",
+            "translated": "~z~哟，婊子！我们来抢你了。",
+            "desc": ""
+        },
+        {
+            "hash": 1390758412,
+            "original": "~z~This important shipment, you fuck off.",
+            "translated": "~z~这批货很重要，你给我滚。",
+            "desc": ""
+        },
+        {
+            "hash": 1393513878,
+            "original": "~z~He dropped the cash, bro.",
+            "translated": "~z~他掉了钱，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1394832784,
+            "original": "~z~Give that product here, bro.",
+            "translated": "~z~把货交出来，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1399066139,
+            "original": "~z~I see the stash. It's there.",
+            "translated": "~z~我看到货了。在那儿。",
+            "desc": ""
+        },
+        {
+            "hash": 1408831476,
+            "original": "~z~They're done for. Collect the product and we gone.",
+            "translated": "~z~他们完了。把货拿上，我们走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1427925523,
+            "original": "~z~We nearly on them.",
+            "translated": "~z~就快到地方了。",
+            "desc": ""
+        },
+        {
+            "hash": 1459099119,
+            "original": "~z~Hey look, over there! We got the product.",
+            "translated": "~z~看，在那儿！货物找到了。",
+            "desc": ""
+        },
+        {
+            "hash": 1467056523,
+            "original": "~z~You being jacked, motherfuckers.",
+            "translated": "~z~你们被抢了，傻逼玩意。",
+            "desc": ""
+        },
+        {
+            "hash": 1467124566,
+            "original": "~z~H should get his ass insured, he's in the ward so much.",
+            "translated": "~z~他他妈买份保险吧，天天进医院。",
+            "desc": ""
+        },
+        {
+            "hash": 1480899504,
+            "original": "E2DW_ZA",
+            "translated": "E2DW_ZA",
+            "desc": ""
+        },
+        {
+            "hash": 1519050171,
+            "original": "~z~We here for the shipment.",
+            "translated": "~z~我们是来劫货的。",
+            "desc": ""
+        },
+        {
+            "hash": 1535716372,
+            "original": "E2DW_TA",
+            "translated": "E2DW_TA",
+            "desc": ""
+        },
+        {
+            "hash": 1549353109,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 1570382471,
+            "original": "~z~Product's over there, bro.",
+            "translated": "~z~货在那儿，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 1599091586,
+            "original": "692",
+            "translated": "692",
+            "desc": ""
+        },
+        {
+            "hash": 1604714931,
+            "original": "~z~We good, yo. Let's roll outta here.",
+            "translated": "~z~都好了，哟。让我们离开这。",
+            "desc": ""
+        },
+        {
+            "hash": 1614697295,
+            "original": "E2DW_GA",
+            "translated": "E2DW_GA",
+            "desc": ""
+        },
+        {
+            "hash": 1618293301,
+            "original": "~z~There they be. This gonna be easy.",
+            "translated": "~z~他们在这儿。一定很简单。",
+            "desc": ""
+        },
+        {
+            "hash": 1621088944,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1648105885,
+            "original": "~z~Okay, bro. We halfway there.",
+            "translated": "~z~好了，兄弟。快成功了。",
+            "desc": ""
+        },
+        {
+            "hash": 1666268223,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1668557563,
+            "original": "E2F2_CNA",
+            "translated": "E2F2_CNA",
+            "desc": ""
+        },
+        {
+            "hash": 1670973984,
+            "original": "E2DW_AFA",
+            "translated": "E2DW_AFA",
+            "desc": ""
+        },
+        {
+            "hash": 1715639343,
+            "original": "~z~Shit, Henrique. I ain't having no halfwit rob me. Damn!",
+            "translated": "~z~操，Henrique。智障别想抢走我的货。妈的！",
+            "desc": ""
+        },
+        {
+            "hash": 1719754613,
+            "original": "~z~We coming up on them, yo.",
+            "translated": "~z~快找到他们了。",
+            "desc": ""
+        },
+        {
+            "hash": 1722507263,
+            "original": "~z~I had a feeling I'd shoot some spics today and look who shows up... Kill 'em.",
+            "translated": "~z~我有种今天会杀几个西班牙佬的预感，看看谁来了...杀了他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1726118313,
+            "original": "E2DW_VA",
+            "translated": "E2DW_VA",
+            "desc": ""
+        },
+        {
+            "hash": 1760465335,
+            "original": "~z~It's just up here.",
+            "translated": "~z~就是这儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 1765423731,
+            "original": "~z~That guy had the product, bro. Over there!",
+            "translated": "~z~货在他手里，兄弟。那里！",
+            "desc": ""
+        },
+        {
+            "hash": 1778271153,
+            "original": "792",
+            "translated": "792",
+            "desc": ""
+        },
+        {
+            "hash": 1798906576,
+            "original": "E2DW_AEA",
+            "translated": "E2DW_AEA",
+            "desc": ""
+        },
+        {
+            "hash": 1808954971,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 1817946112,
+            "original": "~z~Where your stash at?",
+            "translated": "~z~你们的货藏在哪儿了？",
+            "desc": ""
+        },
+        {
+            "hash": 1822833098,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 1827062048,
+            "original": "~z~There it is. Go get it.",
+            "translated": "~z~在那里。去拿上。",
+            "desc": ""
+        },
+        {
+            "hash": 1832421864,
+            "original": "~z~Grab up that cash, Luis. It's just there.",
+            "translated": "~z~去把钱拿上，Luis。就在那。",
+            "desc": ""
+        },
+        {
+            "hash": 1832474064,
+            "original": "~z~There goes the paycheck.",
+            "translated": "~z~工资飞走了。",
+            "desc": ""
+        },
+        {
+            "hash": 1847736200,
+            "original": "~z~Stop that bitch. He's got the shit.",
+            "translated": "~z~拦住那个混蛋。货在他手里。",
+            "desc": ""
+        },
+        {
+            "hash": 1867739417,
+            "original": "~z~This where they meant to be.",
+            "translated": "~z~他们应该在这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 1871146282,
+            "original": "~z~We got some likely stickup kids here. Take 'em down.",
+            "translated": "~z~好像有些想抢劫的小朋友在这儿。干死他们。",
+            "desc": ""
+        },
+        {
+            "hash": 1883201319,
+            "original": "~z~We ain't getting paid now, is we?",
+            "translated": "~z~这下赚不到钱了，对吧？",
+            "desc": ""
+        },
+        {
+            "hash": 1941383014,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 1948472580,
+            "original": "~z~They the bitches moving it.",
+            "translated": "~z~就是他们在运货。",
+            "desc": ""
+        },
+        {
+            "hash": 1951726418,
+            "original": "~z~We got company. Clean up the pricks.",
+            "translated": "~z~这下有伴了。杀掉那群傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 1982318784,
+            "original": "~z~Fucking H in the hospital again.",
+            "translated": "~z~傻逼H又进医院了。",
+            "desc": ""
+        },
+        {
+            "hash": 2016745915,
+            "original": "~z~Shit's over there, L. Pick it up.",
+            "translated": "~z~货在那儿，L。快去捡。",
+            "desc": ""
+        },
+        {
+            "hash": 2058368314,
+            "original": "~z~We meant to go up here.",
+            "translated": "~z~我们要去那里。",
+            "desc": ""
+        },
+        {
+            "hash": 2060558980,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2062829462,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 2077463689,
+            "original": "E2F2_CQA",
+            "translated": "E2F2_CQA",
+            "desc": ""
+        },
+        {
+            "hash": 2089242673,
+            "original": "E2DW_ABA",
+            "translated": "E2DW_ABA",
+            "desc": ""
+        },
+        {
+            "hash": 2093888131,
+            "original": "~z~I see the shit. I see the shit. Grab it.",
+            "translated": "~z~我看到货了。我看到货了。快去。",
+            "desc": ""
+        },
+        {
+            "hash": 2101088650,
+            "original": "E2F2_CPA",
+            "translated": "E2F2_CPA",
+            "desc": ""
+        },
+        {
+            "hash": 2101665241,
+            "original": "~z~Who got the cash? Who got the merch? Come on.",
+            "translated": "~z~钱在哪里？货在哪里？交出来吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2106511426,
+            "original": "~z~I'm carrying.",
+            "translated": "~z~货物到手了。",
+            "desc": ""
+        },
+        {
+            "hash": 2107001461,
+            "original": "~z~You guys gonna give this up?",
+            "translated": "~z~你们能不能交出货物？",
+            "desc": ""
+        },
+        {
+            "hash": 2115661164,
+            "original": "E2DW_KA",
+            "translated": "E2DW_KA",
+            "desc": ""
+        },
+        {
+            "hash": 2118001678,
+            "original": "~z~Yo. It's Armando and Henrique at it again. What you think you playing at?",
+            "translated": "~z~哟。Armando和Henrique又来啦。你以为我们是好惹的？",
+            "desc": ""
+        },
+        {
+            "hash": 2121333642,
+            "original": "~z~You don't have to be no genius to know we fucked that up.",
+            "translated": "~z~是个人都知道我们搞砸了。",
+            "desc": ""
+        },
+        {
+            "hash": 2129669463,
+            "original": "~z~We got the money over here, bro.",
+            "translated": "~z~我们的钱在那儿，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2129811752,
+            "original": "~z~That guy's running away with our shit!",
+            "translated": "~z~那个混蛋拿着我们的货跑了！",
+            "desc": ""
+        },
+        {
+            "hash": 2135039398,
+            "original": "E2F2_COA",
+            "translated": "E2F2_COA",
+            "desc": ""
+        },
+        {
+            "hash": 2138484015,
+            "original": "~z~We got the shit on board, man. Let's get out of here.",
+            "translated": "~z~货物都到手了，兄弟。快离开这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2144767961,
+            "original": "~z~Both you guys are out? Shit.",
+            "translated": "~z~你们俩都挂了？操。",
+            "desc": ""
+        },
+        {
+            "hash": 2168084162,
+            "original": "E2DW_LA",
+            "translated": "E2DW_LA",
+            "desc": ""
+        },
+        {
+            "hash": 2180355103,
+            "original": "~z~Yo. You fucks got a thing for paramedics, man. Why you leave me?",
+            "translated": "~z~哟。你俩都喜欢去医院是吧。那我咋办？",
+            "desc": ""
+        },
+        {
+            "hash": 2198784132,
+            "original": "~z~I got the shit, yo. Let's go.",
+            "translated": "~z~我拿到货了，哟。我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 2205971608,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 2211797586,
+            "original": "~z~We're here for your stuff.",
+            "translated": "~z~我们要的是货。",
+            "desc": ""
+        },
+        {
+            "hash": 2214397077,
+            "original": "~z~We just gonna take that shit outta here.",
+            "translated": "~z~我们要把那些货带走。",
+            "desc": ""
+        },
+        {
+            "hash": 2252237239,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 2278433653,
+            "original": "E2DW_CA",
+            "translated": "E2DW_CA",
+            "desc": ""
+        },
+        {
+            "hash": 2279631921,
+            "original": "~z~Damn, looks like H is gonna need some paramedics.",
+            "translated": "~z~干，看来H需要紧急治疗。",
+            "desc": ""
+        },
+        {
+            "hash": 2290686452,
+            "original": "~z~Kind of weird that there's no one here, right?",
+            "translated": "~z~这里一个人都没，是不是有点奇怪？",
+            "desc": ""
+        },
+        {
+            "hash": 2292429080,
+            "original": "E2DW_IA",
+            "translated": "E2DW_IA",
+            "desc": ""
+        },
+        {
+            "hash": 2301479742,
+            "original": "~z~Go get the merchandise, L. It's just there.",
+            "translated": "~z~去把货物拿上，L。就在那儿。",
+            "desc": ""
+        },
+        {
+            "hash": 2308728288,
+            "original": "~z~Give that shit up, yo.",
+            "translated": "~z~把货交出来，哟。",
+            "desc": ""
+        },
+        {
+            "hash": 2314322469,
+            "original": "~z~Let's get this shit out of here while we can.",
+            "translated": "~z~趁着没闹大赶紧撤吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2330287476,
+            "original": "~z~Don't come nowhere near our shipment, Armando.",
+            "translated": "~z~离我们的货远一点，Armando。",
+            "desc": ""
+        },
+        {
+            "hash": 2351419702,
+            "original": "~z~The stash is right there, bro. Go get it.",
+            "translated": "~z~藏的货在那儿，兄弟。去拿上。",
+            "desc": ""
+        },
+        {
+            "hash": 2356942732,
+            "original": "~z~Dude, I think they running.",
+            "translated": "~z~兄弟，他们好像想跑。",
+            "desc": ""
+        },
+        {
+            "hash": 2362001987,
+            "original": "~z~They done. Go get the shit.",
+            "translated": "~z~他们死了。快去拿货。",
+            "desc": ""
+        },
+        {
+            "hash": 2388201149,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 2395423822,
+            "original": "~z~I remember you, you fuck. You ain't ripping us off.",
+            "translated": "~z~我记得你，混蛋。你别想打倒我们。",
+            "desc": ""
+        },
+        {
+            "hash": 2414703871,
+            "original": "~z~We got half what we came for.",
+            "translated": "~z~目标达成一半了。",
+            "desc": ""
+        },
+        {
+            "hash": 2427956050,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 2469574960,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 2492971363,
+            "original": "~z~Am I the only one left here? Damn.",
+            "translated": "~z~就剩我一个了？操。",
+            "desc": ""
+        },
+        {
+            "hash": 2495757298,
+            "original": "~z~Get ready for it.",
+            "translated": "~z~做好准备。",
+            "desc": ""
+        },
+        {
+            "hash": 2503187537,
+            "original": "E2DW_AGA",
+            "translated": "E2DW_AGA",
+            "desc": ""
+        },
+        {
+            "hash": 2505600279,
+            "original": "~z~Time to bounce. We got what we came for.",
+            "translated": "~z~该撤了。目标到手了。",
+            "desc": ""
+        },
+        {
+            "hash": 2545490991,
+            "original": "~z~Highjack time, motherfuckers.",
+            "translated": "~z~抢劫时间到，傻逼们。",
+            "desc": ""
+        },
+        {
+            "hash": 2547031200,
+            "original": "~z~Mr. Armando and Henrique. It makes me sad you should be here. You must die now.",
+            "translated": "~z~Armando和Henrique先生。你们来这儿我很伤心。现在你们必须得死。",
+            "desc": ""
+        },
+        {
+            "hash": 2557733650,
+            "original": "792",
+            "translated": "792",
+            "desc": ""
+        },
+        {
+            "hash": 2588324641,
+            "original": "~z~They trying to run, L.",
+            "translated": "~z~他们想逃跑，L。",
+            "desc": ""
+        },
+        {
+            "hash": 2619192522,
+            "original": "E2DW_AAA",
+            "translated": "E2DW_AAA",
+            "desc": ""
+        },
+        {
+            "hash": 2632255162,
+            "original": "~z~These fools dropped the ball. All the guards are off duty.",
+            "translated": "~z~这帮傻逼犯大错了。没有一个人在看守。",
+            "desc": ""
+        },
+        {
+            "hash": 2648266898,
+            "original": "~z~A got his self hospitalised. Stupid motherfucker.",
+            "translated": "~z~A把他自己送进医院了。傻逼玩意",
+            "desc": ""
+        },
+        {
+            "hash": 2665925600,
+            "original": "~z~There they are. I know a robber when I see one.",
+            "translated": "~z~他们来了。我一眼就能认出强盗。",
+            "desc": ""
+        },
+        {
+            "hash": 2667093585,
+            "original": "E2DW_ADA",
+            "translated": "E2DW_ADA",
+            "desc": ""
+        },
+        {
+            "hash": 2669080286,
+            "original": "~z~We cool. Get in there and collect, bro.",
+            "translated": "~z~好了。上车收货吧，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 2669716780,
+            "original": "~z~We ain't working with you, Armando. Fuck off out of here.",
+            "translated": "~z~我们不跟你合作，Armando。赶紧给我滚。",
+            "desc": ""
+        },
+        {
+            "hash": 2726638023,
+            "original": "~z~That's it! Take them down.",
+            "translated": "~z~就在那儿！干掉他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2771935312,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 2775886463,
+            "original": "E2F2_CJA",
+            "translated": "E2F2_CJA",
+            "desc": ""
+        },
+        {
+            "hash": 2777165306,
+            "original": "E2F2_CMA",
+            "translated": "E2F2_CMA",
+            "desc": ""
+        },
+        {
+            "hash": 2808233131,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 2817633371,
+            "original": "~z~Looks like I'm paying Rique's doctor's bills again.",
+            "translated": "~z~看来我又要给Rique交医药费了。",
+            "desc": ""
+        },
+        {
+            "hash": 2840060611,
+            "original": "~z~Oye, I ain't visiting you fools in the hospital.",
+            "translated": "~z~喂，我不会来医院看你们的。",
+            "desc": ""
+        },
+        {
+            "hash": 2843131578,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 2856840106,
+            "original": "E2DW_UA",
+            "translated": "E2DW_UA",
+            "desc": ""
+        },
+        {
+            "hash": 2868372482,
+            "original": "~z~Someone's trying to rip us off. Get 'em.",
+            "translated": "~z~有些人想要干翻我们。教训他们。",
+            "desc": ""
+        },
+        {
+            "hash": 2870393212,
+            "original": "~z~We heard you got some fresh notes and some pure shit. You mind sharing with three Dominican guys?",
+            "translated": "~z~听说你们有钱有货。介意和三个多米尼加兄弟分享么？",
+            "desc": ""
+        },
+        {
+            "hash": 2889643352,
+            "original": "~z~Damn A's dumb. He got himself shot up.",
+            "translated": "~z~操。A真蠢。挨了枪子儿了。",
+            "desc": ""
+        },
+        {
+            "hash": 2906213895,
+            "original": "592",
+            "translated": "592",
+            "desc": ""
+        },
+        {
+            "hash": 2909932009,
+            "original": "~z~I gotta go. Meet me back at the place.",
+            "translated": "~z~我要走了，老地方见。",
+            "desc": ""
+        },
+        {
+            "hash": 2910668793,
+            "original": "~z~You are not welcome here, my latin friends. Be gone.",
+            "translated": "~z~这里不欢迎你们，我的拉丁朋友。滚吧。",
+            "desc": ""
+        },
+        {
+            "hash": 2919042816,
+            "original": "~z~We here for your product, motherfuckers.",
+            "translated": "~z~我们要的是货，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 2941475649,
+            "original": "E2DW_PA",
+            "translated": "E2DW_PA",
+            "desc": ""
+        },
+        {
+            "hash": 2975616264,
+            "original": "E2DW_DA",
+            "translated": "E2DW_DA",
+            "desc": ""
+        },
+        {
+            "hash": 2982648946,
+            "original": "192",
+            "translated": "192",
+            "desc": ""
+        },
+        {
+            "hash": 3009564354,
+            "original": "~z~Meda! That guy got the shit.",
+            "translated": "~z~快看！货在他手里。",
+            "desc": ""
+        },
+        {
+            "hash": 3022968324,
+            "original": "100",
+            "translated": "100",
+            "desc": ""
+        },
+        {
+            "hash": 3049733685,
+            "original": "~z~Give up your shit. You being robbed.",
+            "translated": "~z~把货放下。你们被抢劫了。",
+            "desc": ""
+        },
+        {
+            "hash": 3101570082,
+            "original": "~z~We good. Let's head back.",
+            "translated": "~z~完工了。该回去了。",
+            "desc": ""
+        },
+        {
+            "hash": 3107352327,
+            "original": "~z~All that product for us?",
+            "translated": "~z~货都是给我们的？",
+            "desc": ""
+        },
+        {
+            "hash": 3132809844,
+            "original": "~z~Mr. Armando, you cannot muscle in here. Away.",
+            "translated": "~z~Armando先生，你不能靠近这里。滚。",
+            "desc": ""
+        },
+        {
+            "hash": 3134824226,
+            "original": "~z~All that careful planning for nothing. Shit.",
+            "translated": "~z~精心准备的计划泡汤了。操。",
+            "desc": ""
+        },
+        {
+            "hash": 3137963590,
+            "original": "~z~Coño, It's just me then.",
+            "translated": "~z~操，只剩下我了。",
+            "desc": ""
+        },
+        {
+            "hash": 3150615910,
+            "original": "E2F2_CRA",
+            "translated": "E2F2_CRA",
+            "desc": ""
+        },
+        {
+            "hash": 3190049648,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 3243823009,
+            "original": "~z~Dumb bastards ain't even guarding it.",
+            "translated": "~z~一帮不派人看守的蠢蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 3264080865,
+            "original": "090",
+            "translated": "090",
+            "desc": ""
+        },
+        {
+            "hash": 3312965835,
+            "original": "~z~We cool. I think it's time to turn tail.",
+            "translated": "~z~搞定。该回去了。",
+            "desc": ""
+        },
+        {
+            "hash": 3313087559,
+            "original": "~z~Yo L, go grab that product, bro.",
+            "translated": "~z~哟，L，去把货拿来，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3317658492,
+            "original": "~z~You wanna get the shit off that guy?",
+            "translated": "~z~你能抢走他的货吗？",
+            "desc": ""
+        },
+        {
+            "hash": 3322804440,
+            "original": "~z~That's it! Let's get these fuckheads.",
+            "translated": "~z~找到了！杀了这群傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3325015327,
+            "original": "~z~Give up the shipment, motherfuckers.",
+            "translated": "~z~把货交出来，混蛋。",
+            "desc": ""
+        },
+        {
+            "hash": 3327789915,
+            "original": "~z~That ain't cool, bro.",
+            "translated": "~z~这太糟了，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3350741553,
+            "original": "~z~They trying to get away. Let's get 'em.",
+            "translated": "~z~他们想跑，逮住他们。",
+            "desc": ""
+        },
+        {
+            "hash": 3354409295,
+            "original": "~z~The plan was flawless. The execution, not so much.",
+            "translated": "~z~计划天衣无缝。执行起来水平不够。",
+            "desc": ""
+        },
+        {
+            "hash": 3356375969,
+            "original": "E2DW_AA",
+            "translated": "E2DW_AA",
+            "desc": ""
+        },
+        {
+            "hash": 3369647380,
+            "original": "~z~We out of here, yo. Come on!",
+            "translated": "~z~我们要走了，哟。快点！",
+            "desc": ""
+        },
+        {
+            "hash": 3374629198,
+            "original": "~z~We heading! I'll see you back.",
+            "translated": "~z~我先走了！等会儿见。",
+            "desc": ""
+        },
+        {
+            "hash": 3396123496,
+            "original": "~z~You dumb spic motherfuckers. You're dead now.",
+            "translated": "~z~傻逼西班牙佬。你们死定了。",
+            "desc": ""
+        },
+        {
+            "hash": 3462809147,
+            "original": "~z~I might do better if I wasn't working with morons.",
+            "translated": "~z~换个正常的队友，没准会做得更好。",
+            "desc": ""
+        },
+        {
+            "hash": 3466372634,
+            "original": "~z~Where they all gone?",
+            "translated": "~z~他们都去哪了？",
+            "desc": ""
+        },
+        {
+            "hash": 3474877228,
+            "original": "~z~I guess we showed during their lunch break.",
+            "translated": "~z~我猜他们去吃午饭了。",
+            "desc": ""
+        },
+        {
+            "hash": 3484171319,
+            "original": "~z~Shit, A's down, bro!",
+            "translated": "~z~操，A倒了，兄弟！",
+            "desc": ""
+        },
+        {
+            "hash": 3496003408,
+            "original": "~z~You coming up here, you two-bit heights hustlers? You're fucking dead.",
+            "translated": "~z~你还敢过来，高地的三流骗子？你已经死了。",
+            "desc": ""
+        },
+        {
+            "hash": 3502134402,
+            "original": "~z~Where that shit at, fool?",
+            "translated": "~z~货在哪，傻逼？",
+            "desc": ""
+        },
+        {
+            "hash": 3523242921,
+            "original": "~z~Henrique, what did I tell you about hanging with this asshole? I'm gonna have to fuck you both up.",
+            "translated": "~z~Henrique，我跟你说过要离这混蛋远点吧？这下得把你俩都教训一顿了。",
+            "desc": ""
+        },
+        {
+            "hash": 3527785632,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 3539700037,
+            "original": "~z~This a robbery. Cash and product. Give it up!",
+            "translated": "~z~这是抢劫。钱和货，都交出来！",
+            "desc": ""
+        },
+        {
+            "hash": 3547803180,
+            "original": "~z~That guy dropped the cash. Pick it up.",
+            "translated": "~z~那家伙钱掉了。快去捡。",
+            "desc": ""
+        },
+        {
+            "hash": 3552596180,
+            "original": "~z~There's the product, L. Go get it.",
+            "translated": "~z~货在那里，L。去拿来。",
+            "desc": ""
+        },
+        {
+            "hash": 3555637684,
+            "original": "~z~Can't come all this way to let a motherfucker run off. Get him.",
+            "translated": "~z~不能让到嘴边的鸭子飞了。逮住他。",
+            "desc": ""
+        },
+        {
+            "hash": 3580137907,
+            "original": "~z~Fuck off, you guys. You is bad for business.",
+            "translated": "~z~滚开，傻逼。就知道破坏交易。",
+            "desc": ""
+        },
+        {
+            "hash": 3580693133,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3587680329,
+            "original": "~z~We confiscating your shit, bitches.",
+            "translated": "~z~你们的货被收了，傻逼。",
+            "desc": ""
+        },
+        {
+            "hash": 3607759541,
+            "original": "202",
+            "translated": "202",
+            "desc": ""
+        },
+        {
+            "hash": 3635526604,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 3649936159,
+            "original": "~z~They gave the shit up, bro. Go get it.",
+            "translated": "~z~他们把货放下了，兄弟。去拿上。",
+            "desc": ""
+        },
+        {
+            "hash": 3662210898,
+            "original": "~z~Shit. They making a run for it.",
+            "translated": "~z~操。他们想要卷货跑路。",
+            "desc": ""
+        },
+        {
+            "hash": 3669449983,
+            "original": "~z~If it ain't the two worst pushers in all the Heights. You ain't getting our package, Armando.",
+            "translated": "~z~这不是整个高地最垃圾的两个毒贩吗。别想抢走我们的货，Armando。",
+            "desc": ""
+        },
+        {
+            "hash": 3676062939,
+            "original": "092",
+            "translated": "092",
+            "desc": ""
+        },
+        {
+            "hash": 3707519705,
+            "original": "~z~This is kind of funky, bro.",
+            "translated": "~z~这有点可疑啊，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3733282782,
+            "original": "592",
+            "translated": "592",
+            "desc": ""
+        },
+        {
+            "hash": 3782530240,
+            "original": "~z~Damn. That guy is getting away with our shit.",
+            "translated": "~z~操。那家伙拿着我们的货跑了。",
+            "desc": ""
+        },
+        {
+            "hash": 3786787497,
+            "original": "~z~He dropped the money! Go get it!",
+            "translated": "~z~爆金币了！去拿上！",
+            "desc": ""
+        },
+        {
+            "hash": 3872259232,
+            "original": "~z~I'm outta here, bro. Meet me at the drop.",
+            "translated": "~z~我先走了，兄弟。卸货点再见。",
+            "desc": ""
+        },
+        {
+            "hash": 3899193442,
+            "original": "~z~You better not be trying to rob us again Armando! Motherfucker!",
+            "translated": "~z~你别再想抢我们了，Armando！傻逼！",
+            "desc": ""
+        },
+        {
+            "hash": 3930817467,
+            "original": "~z~I'll see you back, bro.",
+            "translated": "~z~我们待会儿见，兄弟。",
+            "desc": ""
+        },
+        {
+            "hash": 3939363698,
+            "original": "E2DW_XA",
+            "translated": "E2DW_XA",
+            "desc": ""
+        },
+        {
+            "hash": 3962132217,
+            "original": "~z~Fuck, bro. I thought we was gonna be rich.",
+            "translated": "~z~操，兄弟。我还以为我们要发了。",
+            "desc": ""
+        },
+        {
+            "hash": 3965191070,
+            "original": "~z~It's time we was leaving, ladies.",
+            "translated": "~z~我们该走了，女士们。",
+            "desc": ""
+        },
+        {
+            "hash": 3985352768,
+            "original": "200",
+            "translated": "200",
+            "desc": ""
+        },
+        {
+            "hash": 3997057256,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 4031360386,
+            "original": "~z~This is too easy...",
+            "translated": "~z~这也太容易了...",
+            "desc": ""
+        },
+        {
+            "hash": 4032590479,
+            "original": "~z~Can't let this motherfucker get away with our stuff. Let's get him.",
+            "translated": "~z~不能让这个傻逼带着我们的货跑了。拦住他。",
+            "desc": ""
+        },
+        {
+            "hash": 4061860474,
+            "original": "~z~These guys is cleared out. Let's bounce.",
+            "translated": "~z~这些人死了。撤吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4082768248,
+            "original": "~z~They trying to run, bro. Stop 'em.",
+            "translated": "~z~他们想逃，兄弟。拦住他们。",
+            "desc": ""
+        },
+        {
+            "hash": 4119788930,
+            "original": "102",
+            "translated": "102",
+            "desc": ""
+        },
+        {
+            "hash": 4121153656,
+            "original": "E2F2_CKA",
+            "translated": "E2F2_CKA",
+            "desc": ""
+        },
+        {
+            "hash": 4132214100,
+            "original": "~z~You pack this shit up for us?",
+            "translated": "~z~是给我们准备的货吗？",
+            "desc": ""
+        },
+        {
+            "hash": 4137648105,
+            "original": "~z~Look who it is! The dumbest dealers in town. You're dead now.",
+            "translated": "~z~看看谁来了！城里最蠢的毒贩。你完蛋啦。",
+            "desc": ""
+        },
+        {
+            "hash": 4156144974,
+            "original": "~z~We got the complete package, man. Let's go.",
+            "translated": "~z~东西都到手了，兄弟。我们走。",
+            "desc": ""
+        },
+        {
+            "hash": 4173649111,
+            "original": "~z~You bitches ain't leaving here with nothing. Give it up.",
+            "translated": "~z~你们别想带着货物跑掉。放弃吧。",
+            "desc": ""
+        },
+        {
+            "hash": 4181984508,
+            "original": "~z~Yo. They just over here.",
+            "translated": "~z~哟，他们就在这儿。",
+            "desc": ""
+        },
+        {
+            "hash": 4208398928,
+            "original": "~z~A's down. He's going to the hospital.",
+            "translated": "~z~A倒了。他要去医院了。",
+            "desc": ""
+        },
+        {
+            "hash": 4239905379,
+            "original": "292",
+            "translated": "292",
+            "desc": ""
+        },
+        {
+            "hash": 4253132273,
+            "original": "~z~You coming, or what?",
+            "translated": "~z~你还来不来了？",
+            "desc": ""
+        },
+        {
+            "hash": 4257975657,
+            "original": "~z~Dude's running with our shit, take him down.",
+            "translated": "~z~有人带着我们的货跑了，干掉他。",
+            "desc": ""
+        },
+        {
+            "hash": 4288642012,
+            "original": "~z~Nice to see you guys.",
+            "translated": "~z~见到你们很高兴。",
+            "desc": ""
+        }
+    ]
+}

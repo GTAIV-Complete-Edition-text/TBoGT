@@ -1,0 +1,160 @@
+{
+    "TONY2": [
+        {
+            "hash": 28016890,
+            "original": "~s~You've left ~b~Tony~s~ behind.",
+            "translated": "~s~你把~b~Tony~s~落下了。",
+            "desc": ""
+        },
+        {
+            "hash": 63423718,
+            "original": "Lose the cops.",
+            "translated": "甩掉警察。",
+            "desc": ""
+        },
+        {
+            "hash": 93077217,
+            "original": "~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.",
+            "translated": "~s~瞄准时用~INPUT_MOUSE_WHEEL_UP~和~INPUT_MOUSE_WHEEL_DOWN~进行缩放。",
+            "desc": ""
+        },
+        {
+            "hash": 115284940,
+            "original": "~s~Press ~INPUT_COVER~ to enter and exit cover.",
+            "translated": "~s~按~INPUT_COVER~进出掩体。",
+            "desc": ""
+        },
+        {
+            "hash": 297379005,
+            "original": "~s~Escape from the building.",
+            "translated": "~s~逃离大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 445963905,
+            "original": "~s~Take Tony ~y~home.",
+            "translated": "~s~送Tony~y~回家。",
+            "desc": ""
+        },
+        {
+            "hash": 802355940,
+            "original": "Use ~PAD_RSTICK_ALL~ to aim at enemies.",
+            "translated": "用~PAD_RSTICK_ALL~瞄准敌人。",
+            "desc": ""
+        },
+        {
+            "hash": 826234404,
+            "original": "~s~Protect Tony.",
+            "translated": "~s~保护Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 1510216898,
+            "original": "~r~You abandoned Tony.",
+            "translated": "~r~你抛弃了Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 1533620568,
+            "original": "Crouch to stay out of sight. Press ~INPUT_DUCK~ to crouch, this will make your aim more accurate.",
+            "translated": "蹲下以不被发现。按~INPUT_DUCK~蹲下，蹲下时瞄准精度更高。",
+            "desc": ""
+        },
+        {
+            "hash": 1647189812,
+            "original": "When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.",
+            "translated": "锁定敌人时，你可以用~PAD_RSTICK_LEFTRIGHT~切换目标。",
+            "desc": ""
+        },
+        {
+            "hash": 1725395582,
+            "original": "~r~Tony is dead.",
+            "translated": "~r~Tony死了。",
+            "desc": ""
+        },
+        {
+            "hash": 1917447014,
+            "original": "Press ~INPUT_RELOAD~ to reload.",
+            "translated": "按~INPUT_RELOAD~装弹。",
+            "desc": ""
+        },
+        {
+            "hash": 1964335843,
+            "original": "Go back and help ~b~Tony.",
+            "translated": "回去帮助~b~Tony。",
+            "desc": ""
+        },
+        {
+            "hash": 1968987421,
+            "original": "Half hold ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.",
+            "translated": "半按~INPUT_AIM~可以自由瞄准。使用~PAD_RSTICK_ALL~瞄准。",
+            "desc": ""
+        },
+        {
+            "hash": 2191967056,
+            "original": "~r~Tony's car was wrecked.",
+            "translated": "~r~Tony的车被毁了。",
+            "desc": ""
+        },
+        {
+            "hash": 2259706267,
+            "original": "Use ~INPUT_FREE_AIM~ to enter aim mode.",
+            "translated": "按~INPUT_FREE_AIM~进入瞄准模式。",
+            "desc": ""
+        },
+        {
+            "hash": 2396035505,
+            "original": "~s~Get in ~b~Tony's car.",
+            "translated": "~s~进入~b~Tony的车。",
+            "desc": ""
+        },
+        {
+            "hash": 3344077620,
+            "original": "Wait for ~b~Tony~s~ to exit the building.",
+            "translated": "等待~b~Tony~s~离开大楼。",
+            "desc": ""
+        },
+        {
+            "hash": 3366834945,
+            "original": "~s~Press ~INPUT_ATTACK~ to fire your weapon.",
+            "translated": "~s~按~INPUT_ATTACK~开火。",
+            "desc": ""
+        },
+        {
+            "hash": 3391030687,
+            "original": "~s~Mission Passed.",
+            "translated": "~s~任务完成。",
+            "desc": ""
+        },
+        {
+            "hash": 3408425306,
+            "original": "Use ~INPUT_PREV_WEAPON~ and ~INPUT_NEXT_WEAPON~ to cycle through weapons.",
+            "translated": "使用~INPUT_PREV_WEAPON~和~INPUT_NEXT_WEAPON~切换武器。",
+            "desc": ""
+        },
+        {
+            "hash": 3449114205,
+            "original": "~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.",
+            "translated": "~s~瞄准时用~PAD_RSTICK_NONE~切换缩放倍率。",
+            "desc": ""
+        },
+        {
+            "hash": 3634462870,
+            "original": "~s~Take Tony to ~y~Dragon Heart Plaza.",
+            "translated": "~s~带Tony去~y~龙心广场。",
+            "desc": ""
+        },
+        {
+            "hash": 4199268910,
+            "original": "~s~Take out the ~r~Triads.",
+            "translated": "~s~干掉~r~三合会成员。",
+            "desc": ""
+        },
+        {
+            "hash": 4276145382,
+            "original": "Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your weapon.",
+            "translated": "按住~INPUT_AIM~锁定敌人。按下~INPUT_ATTACK~开火。",
+            "desc": ""
+        }
+    ]
+}
